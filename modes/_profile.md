@@ -104,3 +104,14 @@ When the user runs `/career-ops scan` (or asks to scan for jobs), always run the
 4. **Report back** — show a single summary table with companies, roles, and which discovery level found them.
 
 This matches the Level 3 flow documented in `modes/scan.md`.
+
+## Your PDF Generation Policy
+
+After every pipeline / auto-pipeline evaluation, **always generate a tailored ATS PDF for any report with score ≥ 3.0**. No manual confirmation step.
+
+1. Read the report's Block B/D (archetype + JD hooks) and the full JD snapshot.
+2. Tailor `templates/cv-template.html`: Summary mirrors JD phrasing, bullets reorder to match JD priorities, hero metrics pulled from `cv.md` + `article-digest.md` (never invented).
+3. Run `node generate-pdf.mjs <tmp.html> output/cv-deepak-mallampati-{slug}-{YYYY-MM-DD}.pdf`.
+4. Update the report's `**PDF:**` line with the actual path (or "Not generated (score < 3.0)" if below).
+
+Skip PDF only when score < 3.0 — those are explicit "don't apply" flags.
