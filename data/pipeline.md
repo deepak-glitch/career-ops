@@ -11,11 +11,7 @@
 <!-- Level 3 WebSearch discovery (Applied AI / Forward Deployed) -->
 - [ ] https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa | OpenAI | Software Engineer, Applied Emerging Talent (2026)
 - [ ] https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a | Northslope Technologies | Forward Deployed Software Engineer — New Grad
-- [ ] https://jobs.ashbyhq.com/zapier/83ab14be-cd19-4091-84aa-2aa23833ab7d | Zapier | Applied AI Engineer
-- [ ] https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Applied AI Engineer — Agentic Workflows
 - [ ] https://jobs.ashbyhq.com/zello/2fa8cd4a-7ddb-40c6-8577-4a004c182e80 | Zello | Applied AI Engineer
-- [ ] https://jobs.ashbyhq.com/ramp/d204e136-2749-42de-82b4-88a0dd352090 | Ramp | Applied AI Engineer
-- [ ] https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a | Perplexity | AI Engineer, Applied ML
 - [ ] https://jobs.ashbyhq.com/auctor/ca5b0c44-cafb-48ad-99fa-84aa3cfc5179 | Auctor | Software Engineer, Applied AI
 - [ ] https://jobs.ashbyhq.com/permitflow/08b96a9a-b344-42cc-8c69-a1c1e0babb90 | PermitFlow | Applied AI Engineer
 - [ ] https://jobs.ashbyhq.com/Edison%20Scientific/ba4ce9e2-972a-4a3d-8f1e-010e62999bf2 | Edison Scientific | Applied AI Engineer
@@ -27,7 +23,6 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/cee25dcf-9a7f-474b-9724-abb510bc3968 | Truelogic | Forward Deployed Engineer — Technology
 - [ ] https://jobs.ashbyhq.com/generalrobotics/42ae26cc-4e6e-4c33-be7e-8ade29690ac6 | General Robotics | Forward Deployed Engineer (Robotics)
 
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5192104008 | Anthropic | Global Leader, Applied AI Architects, Beneficial Deployments
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5026097008 | Anthropic | UI Software Engineer, Claude.ai Consumer Product 
@@ -45,7 +40,7 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4620264005 | Glean | Strategic Solutions Engineer, East
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5843010004 | Vercel | Anti-Abuse Automation Engineer
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer 
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5704321004 | Vercel | Software Engineer, Agent
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK
@@ -71,19 +66,24 @@
 - [ ] https://jobs.ashbyhq.com/vyn/1ee10808-507f-45a8-86b1-0063b11362b2 | Vyn | GenAI Engineer
 - [ ] https://jobs.ashbyhq.com/Wisdom%20AI/4091fbd2-b705-4414-9aef-287d7eb10d71 | Wisdom AI | Software Engineer, NLP/Machine Learning
 - [ ] https://jobs.ashbyhq.com/fastino-ai/478213e2-8cf8-4b68-9be3-9b0523119702 | fastino.ai | ML Engineer — Small Language Models
-- [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/eef8a721-23de-4c20-bff0-56088b39afa0 | Hippocratic AI | LLM Inference Engineer
 - [ ] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer
 - [ ] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer — EMEA
 - [ ] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer
 - [ ] https://jobs.lever.co/field-ai/6fc39622-b8e9-4aab-804a-b5fc61549dc0 | FieldAI | Forward Deployed Engineer
-- [ ] https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249 | Magical | Junior Software Engineer, AI (New Grad OK)
-- [ ] https://jobs.ashbyhq.com/Distyl/a7674245-72ee-403e-8653-6edfca8a89ce | Distyl AI | AI Engineer (New Graduate)
 - [ ] https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50 | Kikoff | Software Engineer — Recent Grad 2026
 - [ ] https://jobs.ashbyhq.com/firecrawl/9837159c-880c-4912-87a9-dfcc2b40ba0a | Firecrawl | Software Engineer Agent
-- [ ] https://jobs.ashbyhq.com/quora/6df58d3e-855a-423e-99fd-a56ac8824b34 | Quora | AI Engineer New Grad 2025-2026 — Poe (Remote)
 - [ ] https://jobs.ashbyhq.com/quora/cb455a21-e66f-4e21-afdf-4511c6c442d1 | Quora | ML Engineer New Grad 2025-2026 — Ads (Remote)
-- [ ] https://jobs.ashbyhq.com/eigen-labs/c02fa001-23c9-4d68-8c0a-e27a742d76a4 | Eigen Labs | Agentic AI Engineer
 
 ## Procesadas
 
 <!-- Processed entries (moved here after evaluation). -->
+- [x] #5  | https://jobs.ashbyhq.com/Distyl/a7674245-72ee-403e-8653-6edfca8a89ce | Distyl AI | AI Engineer (New Graduate) | 4.5/5 | PDF ✅
+- [x] #7  | https://jobs.ashbyhq.com/quora/6df58d3e-855a-423e-99fd-a56ac8824b34 | Quora | AI Engineer New Grad 2025-2026 — Poe (Remote) | 4.4/5 | PDF ✅
+- [x] #6  | https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249 | Magical | Junior Software Engineer, AI (New Grad OK) | 4.2/5 | PDF ✅
+- [x] #3  | https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Applied AI Engineer — Agentic Workflows | 4.1/5 | PDF ✅
+- [x] #1  | https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | 3.7/5 | PDF ✅
+- [x] #4  | https://jobs.ashbyhq.com/ramp/d204e136-2749-42de-82b4-88a0dd352090 | Ramp | Applied AI Engineer | 3.4/5 | PDF ✅
+- [x] #9  | https://jobs.ashbyhq.com/eigen-labs/c02fa001-23c9-4d68-8c0a-e27a742d76a4 | Eigen Labs | Agentic AI Engineer | 3.3/5 | PDF ✅
+- [x] #10 | https://jobs.ashbyhq.com/Hippocratic%20AI/eef8a721-23de-4c20-bff0-56088b39afa0 | Hippocratic AI | LLM Inference Engineer | 3.1/5 | PDF ✅
+- [x] #8  | https://jobs.ashbyhq.com/zapier/83ab14be-cd19-4091-84aa-2aa23833ab7d | Zapier | Applied AI Engineer | 2.9/5 | PDF ❌
+- [x] #2  | https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a | Perplexity | AI Engineer, Applied ML | 2.8/5 | PDF ❌
