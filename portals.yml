@@ -20,6 +20,14 @@
 #   4. Adjust search_queries for your preferred job boards
 #   5. Set enabled: false on companies you don't care about
 
+# -- Freshness filter --
+# Drop any job whose posting date is older than this many hours.
+# Greenhouse uses `updated_at`, Ashby uses `publishedAt`, Lever uses `createdAt`.
+# If the API does not expose a date, the job is kept (no age filter applied).
+# Override at runtime with `node scan.mjs --max-age-hours N` or `--all` to disable.
+
+max_age_hours: 48
+
 # -- Title filter --
 # The scanner uses these keywords to decide if a title is relevant.
 # At least 1 positive must match AND 0 negatives must match (case-insensitive).
