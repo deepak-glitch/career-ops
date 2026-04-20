@@ -268,7 +268,6 @@ title_filter:
     - "Hyperautomation"
     - "Low-Code"
     - "No-Code"
-    - "GTM Engineer"
     - "RevOps"
     - "Business Systems"
     - "Internal Tools"
@@ -294,6 +293,7 @@ title_filter:
     # -- Sales / GTM exclusions (slip through "AI Products" titles) --
     - "Business Development"
     - "BDR"
+    - "GTM"
     - "SDR"
     - "Account Executive"
     - "Sales Engineer"
