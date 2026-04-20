@@ -85,6 +85,8 @@
 - [ ] https://job-boards.greenhouse.io/verkada/jobs/5040765007 | Verkada | Computer Vision Software Engineer — University Graduate 2026
 - [ ] https://job-boards.greenhouse.io/babelstreet/jobs/7531226 | Babel Street | Image & Computer Vision AI Engineer
 - [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5015767007 | Anduril Industries | Computer Vision Engineer — Image Quality
+<!-- Added via Level 3 WebSearch (48h freshness pass) -->
+- [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer
 
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7583124 | Intercom | Account Executive, Emerging AI Products
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7824142 | Intercom | AI Infrastructure Engineer
