@@ -259,9 +259,27 @@ title_filter:
     - "Internal Tools"
     - "Transformation"
   negative:
-    # [CUSTOMIZE] Add keywords for roles you want to exclude
-    - "Junior"
+    # [CUSTOMIZE] Add keywords for roles you want to exclude.
+    # NOTE: matches are word-boundary, case-insensitive.
+    # -- Seniority exclusions (keep mid / entry-level only) --
+    - "Senior"
+    - "Sr"
+    - "Staff"
+    - "Principal"
+    - "Distinguished"
+    - "Lead"
+    - "Director"
+    - "Head"
+    - "VP"
+    - "Vice President"
+    - "Chief"
+    - "Manager"            # EM / people-management roles (PM is not a Deepak target either)
+    - "Architect"          # Solutions Architect tends to be senior / 5+ yrs
+    - "Architecture"       # covers "Solutions Architecture" roles
+    # -- Intern (not entry-level full-time) --
     - "Intern"
+    - "Internship"
+    # -- Tech stacks outside Deepak's profile --
     - ".NET"
     - "Java "
     - "iOS"
@@ -276,7 +294,7 @@ title_filter:
     - "Web3"
     - "Crypto"
     - "Salesforce Admin"
-    - "SAP "
+    - "SAP"
     - "Oracle EBS"
     - "Mainframe"
     - "COBOL"

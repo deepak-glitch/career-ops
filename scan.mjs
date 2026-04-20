@@ -129,13 +129,9 @@ async function fetchJson(url) {
 
 function buildTitleFilter(titleFilter) {
   const escape = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  // Use word-boundary matching for short keywords to avoid substring false
-  // positives (e.g. "AI" matching "maintenance" / "training").
-  const toRegex = (kw) => {
-    const lower = kw.toLowerCase();
-    if (lower.length <= 3) return new RegExp(`\\b${escape(lower)}\\b`);
-    return new RegExp(escape(lower));
-  };
+  // Word-boundary match avoids substring false positives
+  // (e.g. "AI" matching "maintenance", "Lead" matching "Leader").
+  const toRegex = (kw) => new RegExp(`\\b${escape(kw.toLowerCase())}\\b`);
   const positive = (titleFilter?.positive || []).map(toRegex);
   const negative = (titleFilter?.negative || []).map(toRegex);
 
