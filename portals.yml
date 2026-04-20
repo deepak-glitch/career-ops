@@ -291,6 +291,16 @@ title_filter:
     - "Manager"            # EM / people-management roles (PM is not a Deepak target either)
     - "Architect"          # Solutions Architect tends to be senior / 5+ yrs
     - "Architecture"       # covers "Solutions Architecture" roles
+    # -- Sales / GTM exclusions (slip through "AI Products" titles) --
+    - "Business Development"
+    - "BDR"
+    - "SDR"
+    - "Account Executive"
+    - "Sales Engineer"
+    - "Pre-Sales"
+    - "Sales Representative"
+    - "Account Manager"
+    - "Customer Success"
     # -- Intern (not entry-level full-time) --
     - "Intern"
     - "Internship"
