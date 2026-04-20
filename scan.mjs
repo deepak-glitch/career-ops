@@ -10,9 +10,11 @@
  * Zero Claude API tokens — pure HTTP + JSON.
  *
  * Usage:
- *   node scan.mjs                  # scan all enabled companies
- *   node scan.mjs --dry-run        # preview without writing files
- *   node scan.mjs --company Cohere # scan a single company
+ *   node scan.mjs                       # scan with max_age_hours from portals.yml (default 48h)
+ *   node scan.mjs --dry-run             # preview without writing files
+ *   node scan.mjs --company Cohere      # scan a single company
+ *   node scan.mjs --max-age-hours 168   # override freshness cutoff (here: last 7 days)
+ *   node scan.mjs --all                 # disable the freshness filter entirely
  */
 
 import { readFileSync, writeFileSync, appendFileSync, existsSync, mkdirSync } from 'fs';
@@ -29,8 +31,8 @@ const APPLICATIONS_PATH = 'data/applications.md';
 // Ensure required directories exist (fresh setup)
 mkdirSync('data', { recursive: true });
 
-const CONCURRENCY = 10;
-const FETCH_TIMEOUT_MS = 10_000;
+const CONCURRENCY = 3;
+const FETCH_TIMEOUT_MS = 15_000;
 
 // ── API detection ───────────────────────────────────────────────────
 
@@ -81,6 +83,7 @@ function parseGreenhouse(json, companyName) {
     url: j.absolute_url || '',
     company: companyName,
     location: j.location?.name || '',
+    postedAt: j.updated_at || j.first_published || null,
   }));
 }
 
@@ -91,6 +94,7 @@ function parseAshby(json, companyName) {
     url: j.jobUrl || '',
     company: companyName,
     location: j.location || '',
+    postedAt: j.publishedAt || null,
   }));
 }
 
@@ -101,6 +105,7 @@ function parseLever(json, companyName) {
     url: j.hostedUrl || '',
     company: companyName,
     location: j.categories?.location || '',
+    postedAt: j.createdAt ? new Date(j.createdAt).toISOString() : null,
   }));
 }
 
@@ -123,14 +128,40 @@ async function fetchJson(url) {
 // ── Title filter ────────────────────────────────────────────────────
 
 function buildTitleFilter(titleFilter) {
-  const positive = (titleFilter?.positive || []).map(k => k.toLowerCase());
-  const negative = (titleFilter?.negative || []).map(k => k.toLowerCase());
+  const escape = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  // Word-boundary match avoids substring false positives
+  // (e.g. "AI" matching "maintenance", "Lead" matching "Leader").
+  const toRegex = (kw) => new RegExp(`\\b${escape(kw.toLowerCase())}\\b`);
+  const positive = (titleFilter?.positive || []).map(toRegex);
+  const negative = (titleFilter?.negative || []).map(toRegex);
 
   return (title) => {
     const lower = title.toLowerCase();
-    const hasPositive = positive.length === 0 || positive.some(k => lower.includes(k));
-    const hasNegative = negative.some(k => lower.includes(k));
+    const hasPositive = positive.length === 0 || positive.some(rx => rx.test(lower));
+    const hasNegative = negative.some(rx => rx.test(lower));
     return hasPositive && !hasNegative;
+  };
+}
+
+// ── Location filter ─────────────────────────────────────────────────
+
+function buildLocationFilter(locationFilter) {
+  if (!locationFilter || (!locationFilter.allow?.length && !locationFilter.deny?.length)) {
+    return () => true;
+  }
+  const allow = (locationFilter.allow || []).map(k => k.toLowerCase());
+  const deny = (locationFilter.deny || []).map(k => k.toLowerCase());
+  const allowUnknown = locationFilter.allow_unknown !== false;
+
+  return (location) => {
+    const raw = (location || '').toLowerCase().trim();
+    if (!raw) return allowUnknown;
+    // Bare "Remote" with no region hint
+    if (/^remote$/.test(raw) || /^remote\s*[,-]?\s*$/.test(raw)) return allowUnknown;
+
+    if (deny.some(k => raw.includes(k))) return false;
+    if (allow.length === 0) return true;
+    return allow.some(k => raw.includes(k));
   };
 }
 
@@ -254,6 +285,9 @@ async function main() {
   const dryRun = args.includes('--dry-run');
   const companyFlag = args.indexOf('--company');
   const filterCompany = companyFlag !== -1 ? args[companyFlag + 1]?.toLowerCase() : null;
+  const ageFlag = args.indexOf('--max-age-hours');
+  const cliMaxAgeHours = ageFlag !== -1 ? Number(args[ageFlag + 1]) : null;
+  const disableAgeFilter = args.includes('--all');
 
   // 1. Read portals.yml
   if (!existsSync(PORTALS_PATH)) {
@@ -264,6 +298,14 @@ async function main() {
   const config = parseYaml(readFileSync(PORTALS_PATH, 'utf-8'));
   const companies = config.tracked_companies || [];
   const titleFilter = buildTitleFilter(config.title_filter);
+  const locationFilter = buildLocationFilter(config.location_filter);
+
+  const maxAgeHours = disableAgeFilter
+    ? null
+    : (cliMaxAgeHours != null && !Number.isNaN(cliMaxAgeHours)
+        ? cliMaxAgeHours
+        : (typeof config.max_age_hours === 'number' ? config.max_age_hours : null));
+  const ageCutoffMs = maxAgeHours != null ? Date.now() - maxAgeHours * 3_600_000 : null;
 
   // 2. Filter to enabled companies with detectable APIs
   const targets = companies
@@ -286,6 +328,8 @@ async function main() {
   let totalFound = 0;
   let totalFiltered = 0;
   let totalDupes = 0;
+  let totalStale = 0;
+  let totalOutOfRegion = 0;
   const newOffers = [];
   const errors = [];
 
@@ -300,6 +344,17 @@ async function main() {
         if (!titleFilter(job.title)) {
           totalFiltered++;
           continue;
+        }
+        if (!locationFilter(job.location)) {
+          totalOutOfRegion++;
+          continue;
+        }
+        if (ageCutoffMs != null && job.postedAt) {
+          const postedMs = Date.parse(job.postedAt);
+          if (!Number.isNaN(postedMs) && postedMs < ageCutoffMs) {
+            totalStale++;
+            continue;
+          }
         }
         if (seenUrls.has(job.url)) {
           totalDupes++;
@@ -335,6 +390,10 @@ async function main() {
   console.log(`Companies scanned:     ${targets.length}`);
   console.log(`Total jobs found:      ${totalFound}`);
   console.log(`Filtered by title:     ${totalFiltered} removed`);
+  console.log(`Outside USA/Europe:    ${totalOutOfRegion} removed`);
+  if (ageCutoffMs != null) {
+    console.log(`Older than ${maxAgeHours}h:     ${totalStale} skipped`);
+  }
   console.log(`Duplicates:            ${totalDupes} skipped`);
   console.log(`New offers added:      ${newOffers.length}`);
 

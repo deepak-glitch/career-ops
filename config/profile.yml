@@ -1,0 +1,82 @@
+# Career-Ops Profile Configuration — Deepak Mallampati
+
+candidate:
+  full_name: "Deepak Mallampati"
+  email: "deepakmallampati00@gmail.com"
+  phone: "+1-330-554-0770"
+  location: "Kent, OH"
+  linkedin: "linkedin.com/in/deepak-mallampati"
+  portfolio_url: ""
+  github: ""
+
+target_roles:
+  primary:
+    - "Applied AI Engineer"
+    - "Generative AI Engineer"
+    - "LLM Engineer"
+    - "Machine Learning Engineer (Applied AI Systems)"
+    - "AI Software Engineer"
+    - "AI Platform Engineer"
+    - "Machine Learning Engineer - Computer Vision"
+    - "AI Solutions Engineer"
+    - "AI Product Engineer"
+  archetypes:
+    - name: "Applied AI / LLM Engineer"
+      level: "Junior-Mid"
+      fit: "primary"
+    - name: "Generative AI / RAG Engineer"
+      level: "Junior-Mid"
+      fit: "primary"
+    - name: "ML Engineer (Applied AI Systems)"
+      level: "Junior-Mid"
+      fit: "primary"
+    - name: "AI Platform / MLOps Engineer"
+      level: "Junior-Mid"
+      fit: "secondary"
+    - name: "Computer Vision / Multimodal Engineer"
+      level: "Junior-Mid"
+      fit: "secondary"
+    - name: "AI Solutions / Forward Deployed Engineer"
+      level: "Junior-Mid"
+      fit: "adjacent"
+
+narrative:
+  headline: "Applied AI engineer building RAG, agentic workflows, and predictive ML for healthcare and enterprise"
+  exit_story: "Currently at Progress Solutions shipping healthcare RAG and agentic LLM systems with measurable impact on retrieval precision, hallucination reduction, and risk-prediction recall."
+  superpowers:
+    - "End-to-end RAG: retrieval precision gains of ~30-35% in regulated healthcare workflows"
+    - "Agentic LLM reasoning with structured outputs, grounding, and evaluation discipline"
+    - "Predictive ML pipelines (scikit-learn, XGBoost) improving high-risk recall by 15-20%"
+    - "Production packaging with FastAPI, Flask, Docker — ~30% fewer post-deploy defects"
+    - "Multimodal and computer vision — video summarization, YOLOv8 detection"
+  proof_points:
+    - name: "Healthcare RAG system"
+      hero_metric: "~30-35% contextual retrieval precision improvement"
+    - name: "Agentic LLM workflows"
+      hero_metric: ">30% reduction in hallucinated outputs"
+    - name: "Patient no-show / risk prediction"
+      hero_metric: "15-20% recall gain on high-risk categories"
+    - name: "Video summarization system"
+      hero_metric: "60-70% reduction in manual review time"
+
+compensation:
+  target_range: "$100K-130K"
+  currency: "USD"
+  minimum: "$85K"
+  location_flexibility: "Open to relocation; flexible on remote/hybrid/on-site"
+
+location:
+  country: "United States"
+  city: "Kent, OH"
+  timezone: "ET"
+  visa_status: "F-1 OPT now; future sponsorship required"
+  open_to_relocation: true
+
+preferences:
+  domains:
+    - "Healthcare AI"
+    - "Applied AI systems"
+    - "Workflow automation"
+    - "Enterprise AI"
+    - "Computer Vision"
+  min_match_score: 70
