@@ -93,3 +93,14 @@ If you have a live demo/dashboard (check profile.yml), offer access in applicati
 **In evaluations (scoring):**
 - Remote dimension for hybrid outside your country: score **3.0** (not 1.0)
 - Only score 1.0 if JD says "must be on-site 4-5 days/week, no exceptions"
+
+## Your Scan Policy
+
+When the user runs `/career-ops scan` (or asks to scan for jobs), always run the **full three-level flow**, not just the zero-token scanner:
+
+1. **Level 1 / 2 — `node scan.mjs`** — hits Greenhouse/Ashby/Lever APIs for companies in `portals.yml tracked_companies`. Fast, free.
+2. **Level 3 — WebSearch queries** — run the queries from `portals.yml search_queries` (or targeted ad-hoc queries for the user's archetypes) via Claude's WebSearch tool. This discovers roles at companies NOT in `tracked_companies`.
+3. **Aggregate + dedupe** — append new URLs to `data/pipeline.md` and log them in `data/scan-history.tsv`. Respect `location_filter` (USA + EU, no UK) and `title_filter` (mid/entry IC, no Senior/Staff/Principal/Lead/Manager/Architect).
+4. **Report back** — show a single summary table with companies, roles, and which discovery level found them.
+
+This matches the Level 3 flow documented in `modes/scan.md`.
