@@ -128,14 +128,44 @@ async function fetchJson(url) {
 // ── Title filter ────────────────────────────────────────────────────
 
 function buildTitleFilter(titleFilter) {
-  const positive = (titleFilter?.positive || []).map(k => k.toLowerCase());
-  const negative = (titleFilter?.negative || []).map(k => k.toLowerCase());
+  const escape = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  // Use word-boundary matching for short keywords to avoid substring false
+  // positives (e.g. "AI" matching "maintenance" / "training").
+  const toRegex = (kw) => {
+    const lower = kw.toLowerCase();
+    if (lower.length <= 3) return new RegExp(`\\b${escape(lower)}\\b`);
+    return new RegExp(escape(lower));
+  };
+  const positive = (titleFilter?.positive || []).map(toRegex);
+  const negative = (titleFilter?.negative || []).map(toRegex);
 
   return (title) => {
     const lower = title.toLowerCase();
-    const hasPositive = positive.length === 0 || positive.some(k => lower.includes(k));
-    const hasNegative = negative.some(k => lower.includes(k));
+    const hasPositive = positive.length === 0 || positive.some(rx => rx.test(lower));
+    const hasNegative = negative.some(rx => rx.test(lower));
     return hasPositive && !hasNegative;
+  };
+}
+
+// ── Location filter ─────────────────────────────────────────────────
+
+function buildLocationFilter(locationFilter) {
+  if (!locationFilter || (!locationFilter.allow?.length && !locationFilter.deny?.length)) {
+    return () => true;
+  }
+  const allow = (locationFilter.allow || []).map(k => k.toLowerCase());
+  const deny = (locationFilter.deny || []).map(k => k.toLowerCase());
+  const allowUnknown = locationFilter.allow_unknown !== false;
+
+  return (location) => {
+    const raw = (location || '').toLowerCase().trim();
+    if (!raw) return allowUnknown;
+    // Bare "Remote" with no region hint
+    if (/^remote$/.test(raw) || /^remote\s*[,-]?\s*$/.test(raw)) return allowUnknown;
+
+    if (deny.some(k => raw.includes(k))) return false;
+    if (allow.length === 0) return true;
+    return allow.some(k => raw.includes(k));
   };
 }
 
@@ -272,6 +302,7 @@ async function main() {
   const config = parseYaml(readFileSync(PORTALS_PATH, 'utf-8'));
   const companies = config.tracked_companies || [];
   const titleFilter = buildTitleFilter(config.title_filter);
+  const locationFilter = buildLocationFilter(config.location_filter);
 
   const maxAgeHours = disableAgeFilter
     ? null
@@ -302,6 +333,7 @@ async function main() {
   let totalFiltered = 0;
   let totalDupes = 0;
   let totalStale = 0;
+  let totalOutOfRegion = 0;
   const newOffers = [];
   const errors = [];
 
@@ -315,6 +347,10 @@ async function main() {
       for (const job of jobs) {
         if (!titleFilter(job.title)) {
           totalFiltered++;
+          continue;
+        }
+        if (!locationFilter(job.location)) {
+          totalOutOfRegion++;
           continue;
         }
         if (ageCutoffMs != null && job.postedAt) {
@@ -358,8 +394,9 @@ async function main() {
   console.log(`Companies scanned:     ${targets.length}`);
   console.log(`Total jobs found:      ${totalFound}`);
   console.log(`Filtered by title:     ${totalFiltered} removed`);
+  console.log(`Outside USA/Europe:    ${totalOutOfRegion} removed`);
   if (ageCutoffMs != null) {
-    console.log(`Older than ${maxAgeHours}h:      ${totalStale} skipped`);
+    console.log(`Older than ${maxAgeHours}h:     ${totalStale} skipped`);
   }
   console.log(`Duplicates:            ${totalDupes} skipped`);
   console.log(`New offers added:      ${newOffers.length}`);
