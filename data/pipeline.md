@@ -74,6 +74,13 @@
 - [ ] https://jobs.ashbyhq.com/firecrawl/9837159c-880c-4912-87a9-dfcc2b40ba0a | Firecrawl | Software Engineer Agent
 - [ ] https://jobs.ashbyhq.com/quora/cb455a21-e66f-4e21-afdf-4511c6c442d1 | Quora | ML Engineer New Grad 2025-2026 — Ads (Remote)
 
+<!-- Level 3 WebSearch discovery — 2026-04-21 (Applied AI / LLM / Agentic) -->
+- [ ] https://jobs.ashbyhq.com/superplane/153cfad4-227d-4605-9581-710f4df869e0 | SuperPlane | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/salient/5bef27e7-17b3-4ad0-93e0-9e430409acd4 | Salient | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/generalintelligencecompany/4bc5d479-3bba-432d-887f-423847aa650a | General Intelligence Company of NY | Applied AI Engineer - Agent
+- [ ] https://jobs.ashbyhq.com/spaak/d47e53c0-cd11-4b3c-a242-832a9e985a5e | Spaak Technologies | Applied LLM Engineer
+- [ ] https://boards.greenhouse.io/cordial81/jobs/6972466002 | Cordial | Applied AI Engineer, Generative
+
 ## Procesadas
 
 <!-- Processed entries (moved here after evaluation). -->
