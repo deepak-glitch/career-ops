@@ -42,6 +42,26 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **Reflection:** Build evals before the model, not after. The harness saves 3x iteration time on prompts and retrieval params.
 **Best for questions about:** RAG systems, evaluation discipline, iteration velocity, healthcare compliance, grounded LLM output.
 
+<!-- Stories added from 2026-04-21 batch (reports #011-020) -->
+
+### [Founder / Ownership] Shipped E-Farming Marketplace from Zero
+**Source:** Reports #011 OpenAI, #016 Cordial, #017 Percepta, #019 Auctor, #020 Vapi
+**S (Situation):** AgriTech marketplace with no existing solution for small-scale farmers in the target region.
+**T (Task):** Design and ship a PHP/MySQL/Bootstrap marketplace end-to-end as solo founder.
+**A (Action):** Built full-stack independently — cart, reviews, community blogging, authentication, onboarding flow. Shipped phase one with 80-120 active users.
+**R (Result):** Phase-one traction with real users transacting.
+**Reflection:** Ship before the spec is perfect. Users tell you what the real spec is.
+**Best for questions about:** Ownership, scope, founder experience, ambiguity, shipping fast, "tell me about a time you owned something big."
+
+### [Video Intelligence] Transformer-Based Video Summarization at Scale
+**Source:** Reports #012 Quora, #018 Vyn
+**S (Situation):** 5,000+ recorded video sessions at Suvidha Foundation; manual review took hours per video.
+**T (Task):** Automate highlight extraction and summarization with timestamp alignment for clip extraction.
+**A (Action):** Transformer-based hierarchical abstractive summarization mapped back to source timestamps. Transcript preprocessing pipeline + hierarchical summarization for long-context + timestamp-aligned clip extraction. Deployed as Flask API with lightweight web interface for non-technical staff.
+**R (Result):** 60-70% reduction in manual review time (hours → <5 minutes per video). ~85% alignment between AI-selected highlights and human curation.
+**Reflection:** Hierarchical beats flat for long-context. Timestamp anchoring builds user trust in AI selection.
+**Best for questions about:** Deep learning at scale, multimodal, video intelligence, hierarchical LLM patterns, non-technical stakeholder tools.
+
 <!-- Format:
 ### [Theme] Story Title
 **Source:** Report #NNN — Company — Role
