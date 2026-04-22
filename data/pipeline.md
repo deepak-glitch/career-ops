@@ -83,20 +83,15 @@
 - [ ] https://jobs.ashbyhq.com/oscilar/d32ee038-0f64-406e-a2c8-a83de9fe6b61 | Oscilar | AI Product Manager
 - [ ] https://jobs.ashbyhq.com/Ment/6af78f81-ca51-49bc-a530-974dca9928c6 | Ment | AI Product Manager
 - [ ] https://jobs.ashbyhq.com/zapier/cac70300-4e62-4299-bc34-aab69e7498f4 | Zapier | AI Automation Expert
-- [ ] https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer
 - [ ] https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer
 - [ ] https://jobs.ashbyhq.com/hopper/24380cbc-bb55-4c1e-b2dd-4420ae9e3eea | Hopper | Forward Deployed Engineer, HTS Assist
 - [ ] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships
 - [ ] https://jobs.ashbyhq.com/auctor/73648a39-a671-469d-aa7d-f7bb8b3b6d46 | Auctor | Forward Deployed Engineer
-- [ ] https://jobs.ashbyhq.com/reflectionai/8b97b583-3cc6-4834-ae2c-d5aecf22ed7d | Reflection | Forward Deployed Engineer
-- [ ] https://jobs.ashbyhq.com/v7labs.com/c26d2c49-eaae-438c-9aa0-4dafbea315bc | V7 | AI Forward Deployed Engineer
-- [ ] https://jobs.ashbyhq.com/fireworks.ai/da851441-e231-4205-9717-3aa860bed6fe | Fireworks AI | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/pareto-ai/911f9f26-cff1-4383-a8d1-a9c243972548 | Pareto.AI | Forward Deployed Software Engineer
 - [ ] https://jobs.ashbyhq.com/fastino-ai/d0fe2e39-6cf2-4972-8266-461bd447468a | fastino.ai | AI Engineer
 - [ ] https://jobs.ashbyhq.com/chestnut/075a0010-bfa5-489e-8808-e901df072595 | Chestnut | Engineer — Agent Orchestration
 - [ ] https://jobs.ashbyhq.com/naptha/e936b1c5-2ecd-453e-a4bc-14c15c5e561a | Naptha AI | AI Agent Engineer
 - [ ] https://jobs.ashbyhq.com/tessera-labs/0cb577c2-6cdd-4361-b1af-870ccfc9d792 | Tessera Labs | AI Agent Engineer
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents
 - [ ] https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer
 - [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer
 - [ ] https://job-boards.greenhouse.io/caylent/jobs/5973733004 | Caylent | Forward Deployed Engineer
@@ -104,35 +99,20 @@
 - [ ] https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4001057009 | Rhino Federated Computing | Forward Deployed Engineer — AI
 - [ ] https://jobs.ashbyhq.com/decagon/8c40fb7a-5f25-4112-a1df-f1c22b81042c | Decagon | Customer Engineer, Agent Builder
 - [ ] https://jobs.ashbyhq.com/deepgram/8884965c-8a55-414c-ba86-a52d527f5dff | Deepgram | Solutions Engineer, Enterprise
-- [ ] https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee | LiveKit | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/salient/a213eea8-ef18-40cb-b693-67ca3900c7fb | Salient | Forward Deployed Software Engineer
 - [ ] https://jobs.ashbyhq.com/Known/032dee42-0fd3-47fd-9ca7-90632a4c59f8 | Known | Conversational AI Engineer, System Prompt
-- [ ] https://jobs.ashbyhq.com/synthflow/b0cb2768-ac18-42a3-94b2-5e627f24023c | Synthflow AI | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/synthflow/5e7b11f1-b915-46f2-bab4-ec2782118373 | Synthflow AI | Forward Deployed Engineer
-- [ ] https://job-boards.greenhouse.io/xai/jobs/4717376007 | xAI | AI Engineer (Voice) — Enterprise
-- [ ] https://job-boards.greenhouse.io/xai/jobs/4701523007 | xAI | Forward Deployed AI Engineer — Enterprise
-- [ ] https://jobs.ashbyhq.com/Deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278 | Deepgram | Software Engineer, Voice Agents / AI
 - [ ] https://job-boards.greenhouse.io/labelbox/jobs/4640927007 | Labelbox | Forward Deployed Engineer
-- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4664024005 | AssemblyAI | Applied AI Engineer
 - [ ] https://www.workatastartup.com/jobs/74608 | Extend | Forward Deployed Engineer
-- [ ] https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer [New grads ok]
 - [ ] https://www.workatastartup.com/jobs/87890 | Dot | Forward Deployed AI Engineer (remote)
 - [ ] https://www.workatastartup.com/jobs/74124 | Strada | Founding Forward Deployed Engineer
 - [ ] https://www.workatastartup.com/jobs/79989 | Novoflow | Founding Forward Deployed Engineer
 - [ ] https://www.workatastartup.com/jobs/78325 | Giga | Forward Deployed Engineer
 - [ ] https://www.workatastartup.com/jobs/74510 | Reform | Founding Forward Deployed Engineer
 - [ ] https://www.workatastartup.com/jobs/65171 | Promise | Forward Deployed Software Engineer
-- [ ] https://www.workatastartup.com/jobs/66885 | Medplum | Founding Forward Deployed Engineer
-- [ ] https://jobs.ashbyhq.com/sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96 | Sierra | Software Engineer, Agent (New Grad)
-- [ ] https://jobs.ashbyhq.com/mai/ce652487-8c1e-4cb1-a616-693334798623 | MAI | Machine Learning Engineer (New Grad)
-- [ ] https://job-boards.greenhouse.io/sezzle/jobs/7645199003 | Sezzle | AI Engineer I (Remote)
 - [ ] https://apply.workable.com/rockstar-3/j/09A882D2B1/apply/ | Rockstar | Applied AI Engineer
 - [ ] https://apply.workable.com/rockstar-3/j/BCA5FABEFC/apply/ | Rockstar | Founding AI Engineer
 - [ ] https://himalayas.app/companies/hiflylabs/jobs/ai-engineer-europe | Hiflylabs | AI Engineer (Europe Remote)
-- [ ] https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | 2026 New Grad Software Engineer, AI
-- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4835292007 | Together AI | Software Engineer — New Grad
-- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4835315007 | Together AI | Machine Learning / Research Engineer (New Grad)
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4605996005 | Scale AI | Software Engineer — New Grad
 - [ ] https://jobs.lever.co/appen-2/67603849-5e76-426d-84aa-890f5bc1bc1d | Appen | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/SymmetrySystems/ffd8af3d-b855-4e0d-b158-5e1a8a6e40dd | Symmetry Systems | Forward Deployed Engineer (L4)
 
@@ -171,3 +151,25 @@
 - [x] #30 | https://jobs.ashbyhq.com/mightybot/4338903c-c692-4499-9350-9f72caa7ad0a | MightyBot | AI Engineer (RAG/Search) | 3.4/5 | PDF ✅
 - [x] #25 | https://jobs.ashbyhq.com/abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2 | Abridge | Machine Learning Scientist (All Levels) | 2.9/5 | PDF ❌
 - [x] #26 | https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c | Perplexity | Machine Learning Research Engineer (Berlin) | 2.6/5 | PDF ❌
+
+<!-- Batch 4 — 2026-04-22 (Frontier AI labs + FDE + Agents + New Grad programs) -->
+- [x] #42 | https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents | 3.9/5 | PDF ✅
+- [x] #36 | https://jobs.ashbyhq.com/v7labs.com/c26d2c49-eaae-438c-9aa0-4dafbea315bc | V7 | AI Forward Deployed Engineer | 3.8/5 | PDF ✅
+- [x] #32 | https://job-boards.greenhouse.io/togetherai/jobs/4835292007 | Together AI | Software Engineer — New Grad | 3.7/5 | PDF ✅
+- [x] #44 | https://jobs.ashbyhq.com/sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96 | Sierra | Software Engineer, Agent (New Grad) | 3.7/5 | PDF ✅
+- [x] #48 | https://www.workatastartup.com/jobs/66885 | Medplum | Founding Forward Deployed Engineer | 3.7/5 | PDF ✅
+- [x] #33 | https://job-boards.greenhouse.io/assemblyai/jobs/4664024005 | AssemblyAI | Applied AI Engineer | 3.6/5 | PDF ✅
+- [x] #47 | https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer (new grads ok) | 3.6/5 | PDF ✅
+- [x] #31 | https://job-boards.greenhouse.io/togetherai/jobs/4835315007 | Together AI | Machine Learning / Research Engineer (New Grad) | 3.5/5 | PDF ✅
+- [x] #34 | https://job-boards.greenhouse.io/xai/jobs/4701523007 | xAI | Forward Deployed AI Engineer — Enterprise | 3.5/5 | PDF ✅
+- [x] #50 | https://job-boards.greenhouse.io/sezzle/jobs/7645199003 | Sezzle | AI Engineer I (Remote) | 3.5/5 | PDF ✅
+- [x] #37 | https://jobs.ashbyhq.com/fireworks.ai/da851441-e231-4205-9717-3aa860bed6fe | Fireworks AI | Forward Deployed Engineer | 3.4/5 | PDF ✅
+- [x] #45 | https://jobs.ashbyhq.com/mai/ce652487-8c1e-4cb1-a616-693334798623 | MAI | Machine Learning Engineer (New Grad) | 3.4/5 | PDF ✅
+- [x] #46 | https://job-boards.greenhouse.io/scaleai/jobs/4605996005 | Scale AI | Software Engineer — New Grad | 3.4/5 | PDF ✅
+- [x] #41 | https://jobs.ashbyhq.com/reflectionai/8b97b583-3cc6-4834-ae2c-d5aecf22ed7d | Reflection | Forward Deployed Engineer | 3.3/5 | PDF ✅
+- [x] #43 | https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | 2026 New Grad Software Engineer, AI | 3.3/5 | PDF ✅
+- [x] #39 | https://jobs.ashbyhq.com/Deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278 | Deepgram | Software Engineer, Voice Agents / AI | 3.1/5 | PDF ✅
+- [x] #35 | https://job-boards.greenhouse.io/xai/jobs/4717376007 | xAI | AI Engineer (Voice) — Enterprise | 3.0/5 | PDF ✅
+- [x] #40 | https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer | 2.9/5 | PDF ❌
+- [x] #49 | https://jobs.ashbyhq.com/synthflow/b0cb2768-ac18-42a3-94b2-5e627f24023c | Synthflow AI | Forward Deployed Engineer | 2.9/5 | PDF ❌
+- [x] #38 | https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee | LiveKit | Forward Deployed Engineer | 2.8/5 | PDF ❌
