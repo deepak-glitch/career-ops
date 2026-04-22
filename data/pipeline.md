@@ -71,6 +71,23 @@
 - [ ] https://jobs.ashbyhq.com/salient/5bef27e7-17b3-4ad0-93e0-9e430409acd4 | Salient | Applied AI Engineer
 - [ ] https://jobs.ashbyhq.com/generalintelligencecompany/4bc5d479-3bba-432d-887f-423847aa650a | General Intelligence Company of NY | Applied AI Engineer - Agent
 
+- [ ] https://jobs.ashbyhq.com/langchain/3f793a73-9b0d-456b-9a7c-16441e3e6e69 | LangChain | Deployed Engineer (Denver)
+- [ ] https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365 | Sierra | Forward Deployed Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5134194004 | Hightouch | Enterprise Solutions Engineer, East
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5530769004 | Hightouch | Enterprise Solutions Engineer, West
+
+<!-- Level 3 WebSearch — 2026-04-22 (Multimodal/CV + RAG + Healthcare ML) -->
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5040765007 | Verkada | Computer Vision Software Engineer — University Graduate 2026
+- [ ] https://jobs.lever.co/revealtech/cdb14ea7-9ebb-47a7-a828-967675c239da | Reveal Technology | 3D Computer Vision Engineer
+- [ ] https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c | Perplexity | Machine Learning Research Engineer
+- [ ] https://jobs.ashbyhq.com/mightybot/4338903c-c692-4499-9350-9f72caa7ad0a | MightyBot | AI Engineer (RAG/Search)
+- [ ] https://jobs.ashbyhq.com/monaco/448aa20c-3119-4166-a2dd-ed11b58327e3 | Monaco | AI Engineer (RAG)
+- [ ] https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76 | Netic | Machine Learning Engineer, New Grad
+- [ ] https://jobs.ashbyhq.com/abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2 | Abridge | Machine Learning Scientist (All Levels)
+- [ ] https://jobs.ashbyhq.com/healthleap/67700f1d-ddbe-4e5e-938b-0c2d535aab50 | HealthLeap | Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074217008 | Anthropic | Research Engineer / Research Scientist, Vision
+- [ ] https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer — Full Stack AI (US-Remote)
+
 ## Procesadas
 
 <!-- Processed entries (moved here after evaluation). -->
