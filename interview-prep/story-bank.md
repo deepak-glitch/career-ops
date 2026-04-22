@@ -91,6 +91,17 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **Reflection:** LoRA is the cheap-and-correct tool for task-specific identity consistency. Agent orchestrators make multi-step generation tractable when the prompt is vague.
 **Best for questions about:** Fine-tuning, LoRA, task-specific models, multimodal generation, agent orchestration, computer vision, generative AI breadth.
 
+<!-- Stories added from 2026-04-22 batch 6 -->
+
+### [Compliance-Grade Orchestration] Agent Orchestration for Regulated Enterprise — Healthcare Claims + Emerson RBAC
+**Source:** Reports #062 Palantir, #067 Auctor, #069 Chestnut
+**S (Situation):** Two parallel constraints on the same engineer: (1) Agentic Healthcare Claims pipeline needed to coordinate five agents over sensitive patient + billing data with no hallucination cascades; (2) Emerson Order-to-Cash ERP (oil & gas) needed compliance-sensitive audit logging + RBAC across financial modules.
+**T (Task):** Build agent orchestration layers that are trustworthy enough for regulated industries (healthcare, insurance, finance, oil & gas) — where "wrong" is more expensive than "slow".
+**A (Action):** For Agentic Claims: schema-validated JSON contracts between stages (Intake → Validation → Consistency → Duplicate → Risk) + RAG-grounded CPT/ICD validation + ANN similarity for duplicate detection + audit-ready reasoning traces per decision. For Emerson: RBAC implementation for financial modules, Jenkins CI/CD with rollback checkpoints, DMV-driven Grafana observability for deadlocks and long-running queries. Both shipped under governance review.
+**R (Result):** Claims pipeline: >30% hallucination reduction, ~25% stability gain, audit traces accepted by stakeholders. Emerson: ~25% fewer incident recurrences, deploy errors -30%, release cycle time -35-40%.
+**Reflection:** Orchestration at compliance scale is less about clever prompts and more about three architectural decisions made up front: (1) contract between agents/services, (2) audit trail per decision, (3) rollback path per stage. Healthcare taught the first two; Emerson taught the third.
+**Best for questions about:** Agent orchestration, regulated enterprise, compliance + audit, fault tolerance, insurance/healthcare/finance AI, multi-agent reliability, Forward Deployed AI in enterprise.
+
 <!-- Format:
 ### [Theme] Story Title
 **Source:** Report #NNN — Company — Role

@@ -2,6 +2,16 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 61 | 2026-04-22 | Continued | AI Engineer (Remote) | 4.1/5 | Evaluated | ✅ | [061](reports/061-continued-2026-04-22.md) | US-remote edtech CE platform; full gen-AI stack + SQL + React/TS/FastAPI match; 3-5 yrs stretch; US-only explicit |
+| 62 | 2026-04-22 | Palantir | Forward Deployed AI Engineer | 3.6/5 | Evaluated | ✅ | [062](reports/062-palantir-2026-04-22.md) | NYC hybrid; $135-200K + RSUs; AIP FDE-AI "startup CTO"; classic FDE track is the soft spot; H-1B sponsor |
+| 63 | 2026-04-22 | Mistral AI | Applied AI, Forward Deployed ML Engineer - Palo Alto | 3.4/5 | Evaluated | ✅ | [063](reports/063-mistral-2026-04-22.md) | Palo Alto on-site; customer-facing Applied AI; PhD-preferred (MS OK); LLM fine-tune gap (LoRA bridges); Mistral sponsors H-1B |
+| 64 | 2026-04-22 | Vercel | Software Engineer, Agent | 2.9/5 | Evaluated | ❌ | [064](reports/064-vercel-agent-2026-04-22.md) | SF/NYC hybrid; $232-348K; agentic production infra; 7+ yrs HARD BLOCKER; skip — revisit if mid/new-grad role opens |
+| 65 | 2026-04-22 | Vercel | Software Engineer, AI Gateway | 3.3/5 | Evaluated | ✅ | [065](reports/065-vercel-ai-gateway-2026-04-22.md) | SF/NYC hybrid; $196-294K; Manga Lens is a live multi-provider gateway analog; 5+ yrs stretch |
+| 66 | 2026-04-22 | Sierra | Forward Deployed Infrastructure Engineer | 2.7/5 | Evaluated | ❌ | [066](reports/066-sierra-fde-infra-2026-04-22.md) | SF on-site; $230-390K + equity; DevOps/platform FDE (AWS/Terraform/VPC) — off-archetype for applied-AI Deepak; skip |
+| 67 | 2026-04-22 | Auctor | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [067](reports/067-auctor-fde-2026-04-22.md) | NYC on-site 5d; $175-290K + equity; sibling to #019 SWE Applied AI (4.0/5); agentic + unstructured corpora match |
+| 68 | 2026-04-22 | Naptha AI | AI Agent Engineer | 3.6/5 | Evaluated | ✅ | [068](reports/068-naptha-2026-04-22.md) | SF (verify remote); $6M pre-seed agent-framework interop startup; entry-level archetype; verify posting (Ashby API null) |
+| 69 | 2026-04-22 | Chestnut | Engineer - Agent Orchestration | 3.7/5 | Evaluated | ✅ | [069](reports/069-chestnut-2026-04-22.md) | SF hybrid; $250M Series B (a16z + CPP); insurance-agent orchestration = Agentic Claims analog; verify Ashby ID (null) |
+| 70 | 2026-04-22 | Appsilon | AI Engineer | 2.8/5 | Evaluated | ❌ | [070](reports/070-appsilon-2026-04-22.md) | Remote worldwide BUT Poland employment framework + PLN17-22K/mo (~$50-65K USD); incompatible with F-1 OPT; skip |
 | 52 | 2026-04-22 | Replit | Software Engineer - New Grad (Summer 2026) | 3.6/5 | Evaluated | ✅ | [052](reports/052-replit-2026-04-22.md) | Hybrid Foster City; $140-180K + equity; agentic-AI new-grad fit |
 | 53 | 2026-04-22 | PerfectServe | Software Engineer - Full Stack AI (US-Remote) | 4.3/5 | Evaluated | ✅ | [053](reports/053-perfectserve-2026-04-22.md) | Best fit of batch — US-remote healthcare RAG + LLM API + HIPAA match; $130-170K; 5+ yrs stretch |
 | 54 | 2026-04-22 | Intercom | AI Infrastructure Engineer | 2.7/5 | Evaluated | ❌ | [054](reports/054-intercom-2026-04-22.md) | Skip — Dublin on-site + CUDA/Triton/Training bar; archetype mismatch |

@@ -10,7 +10,6 @@
 ### 2026-04-20
 
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8422175002 | Wayve | Software Integration Engineer (6 months Contract)
-- [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer
 - [ ] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer
 - [ ] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/relay/0b645cf4-3c04-41e5-a610-c46544b5cec6 | Relay Technologies | Forward Deployed Engineer
@@ -32,8 +31,6 @@
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5843010004 | Vercel | Anti-Abuse Automation Engineer
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704321004 | Vercel | Software Engineer, Agent
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK
 - [ ] https://jobs.ashbyhq.com/langchain/e773649c-4ea7-47c2-9987-74d525474e82 | LangChain | Deployed Engineer (San Francisco)
 - [ ] https://jobs.ashbyhq.com/langchain/25d40647-c821-46ff-bf25-bacf21fa38b5 | LangChain | Deployed Engineer (NYC)
@@ -44,7 +41,6 @@
 - [ ] https://jobs.ashbyhq.com/langchain/733417d6-7b74-4260-95d9-3cabf85ce0b8 | LangChain | Deployed Engineer (Raleigh)
 - [ ] https://jobs.ashbyhq.com/langchain/7ed7ca6f-2b4a-4dcd-8c14-c0f85fcf9ae2 | LangChain | Deployed Engineer (Seattle)
 - [ ] https://jobs.lever.co/mistral/d9f2767e-cdab-4e07-9944-20bbc468613d | Mistral AI | AI Deployment Strategist, Cybersecurity - Paris
-- [ ] https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto
 - [ ] https://helsing.ai/jobs/4423924101?gh_jid=4423924101 | Helsing | AI Research Engineer - Robotics
 - [ ] https://helsing.ai/jobs/4372802101?gh_jid=4372802101 | Helsing | AI Research Engineer - Signal Processing
 - [ ] https://helsing.ai/jobs/4312517101?gh_jid=4312517101 | Helsing | AI Working Student - Computer Vision
@@ -60,7 +56,6 @@
 ### 2026-04-21
 
 - [ ] https://jobs.ashbyhq.com/langchain/3f793a73-9b0d-456b-9a7c-16441e3e6e69 | LangChain | Deployed Engineer (Denver)
-- [ ] https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365 | Sierra | Forward Deployed Infrastructure Engineer
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5134194004 | Hightouch | Enterprise Solutions Engineer, East
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5530769004 | Hightouch | Enterprise Solutions Engineer, West
 
@@ -75,11 +70,8 @@
 - [ ] https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer
 - [ ] https://jobs.ashbyhq.com/hopper/24380cbc-bb55-4c1e-b2dd-4420ae9e3eea | Hopper | Forward Deployed Engineer, HTS Assist
 - [ ] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships
-- [ ] https://jobs.ashbyhq.com/auctor/73648a39-a671-469d-aa7d-f7bb8b3b6d46 | Auctor | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/pareto-ai/911f9f26-cff1-4383-a8d1-a9c243972548 | Pareto.AI | Forward Deployed Software Engineer
 - [ ] https://jobs.ashbyhq.com/fastino-ai/d0fe2e39-6cf2-4972-8266-461bd447468a | fastino.ai | AI Engineer
-- [ ] https://jobs.ashbyhq.com/chestnut/075a0010-bfa5-489e-8808-e901df072595 | Chestnut | Engineer — Agent Orchestration
-- [ ] https://jobs.ashbyhq.com/naptha/e936b1c5-2ecd-453e-a4bc-14c15c5e561a | Naptha AI | AI Agent Engineer
 - [ ] https://jobs.ashbyhq.com/tessera-labs/0cb577c2-6cdd-4361-b1af-870ccfc9d792 | Tessera Labs | AI Agent Engineer
 - [ ] https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer
 - [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer
@@ -104,10 +96,8 @@
 - [ ] https://himalayas.app/companies/hiflylabs/jobs/ai-engineer-europe | Hiflylabs | AI Engineer (Europe Remote)
 - [ ] https://jobs.lever.co/appen-2/67603849-5e76-426d-84aa-890f5bc1bc1d | Appen | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/SymmetrySystems/ffd8af3d-b855-4e0d-b158-5e1a8a6e40dd | Symmetry Systems | Forward Deployed Engineer (L4)
-- [ ] https://continued.breezy.hr/p/84c16df98c29-ai-engineer-remote | Continued | AI Engineer (Remote) | Remote US-only (3-5 yrs SWE/DE/DS)
 - [ ] https://elsa.teamtailor.com/jobs/7340954-ai-engineer-remote | ELSA | AI Engineer (Remote) | Remote (verify country)
 - [ ] https://weassist-io.breezy.hr/p/b566c6f24fd7-internal-ai-engineer | WeAssist.io | Internal AI Engineer | Permanent remote (global)
-- [ ] https://appsilon-1739358905.teamtailor.com/jobs/6902765-ai-engineer | Appsilon | AI Engineer | 100% Remote (global flexible)
 - [ ] https://kindgeeks.breezy.hr/p/bbc12d89e3c4-trainee-junior-ai-engineer | Kindgeek | Trainee/Junior AI Engineer | Remote (Ukraine outsourcing — verify US-remote + OPT sponsorship)
 - [ ] https://kindgeeks.breezy.hr/p/f3c9fdb8b9fd-trainee-junior-ai-integrator | Kindgeek | Trainee/Junior AI Integrator | Remote (Zapier/Make/n8n automation — verify US eligibility)
 
@@ -185,3 +175,15 @@
 - [x] #058 | https://jobs.ashbyhq.com/fastino-ai/478213e2-8cf8-4b68-9be3-9b0523119702 | fastino.ai | ML Engineer - Small Language Models | Remote / Hybrid (Palo Alto HQ) | 3.2/5 | PDF ✅
 - [x] #054 | https://job-boards.greenhouse.io/intercom/jobs/7820671 | Intercom | AI Infrastructure Engineer | Dublin, Ireland - Hybrid (3 days/week) | 2.7/5 | PDF ❌
 - [x] #057 | https://jobs.ashbyhq.com/firecrawl/9837159c-880c-4912-87a9-dfcc2b40ba0a | Firecrawl | Software Engineer Agent (AI Agents Only) | Remote / Contract | 1.5/5 | PDF ❌
+
+<!-- Batch 6 — 2026-04-22 (Applied AI + FDE + Agent Orchestration + AI Gateway) -->
+- [x] #061 | https://continued.breezy.hr/p/84c16df98c29-ai-engineer-remote | Continued | AI Engineer (Remote) | Remote — US-only (any US time zone) | 4.1/5 | PDF ✅
+- [x] #067 | https://jobs.ashbyhq.com/auctor/73648a39-a671-469d-aa7d-f7bb8b3b6d46 | Auctor | Forward Deployed Engineer | New York, NY — On-site 5 days/week | 3.8/5 | PDF ✅
+- [x] #069 | https://jobs.ashbyhq.com/chestnut/075a0010-bfa5-489e-8808-e901df072595 | Chestnut | Engineer - Agent Orchestration | San Francisco, CA — Hybrid (verify posting) | 3.7/5 | PDF ✅
+- [x] #062 | https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer | New York, NY — Hybrid (WFH 1-2 d/wk; ≤25% travel) | 3.6/5 | PDF ✅
+- [x] #068 | https://jobs.ashbyhq.com/naptha/e936b1c5-2ecd-453e-a4bc-14c15c5e561a | Naptha AI | AI Agent Engineer | San Francisco, CA — verify (Ashby API null) | 3.6/5 | PDF ✅
+- [x] #063 | https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328 | Mistral AI | Applied AI, Forward Deployed ML Engineer - Palo Alto | Palo Alto, CA — On-site | 3.4/5 | PDF ✅
+- [x] #065 | https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway | Hybrid — SF or NYC (M/T/F anchor) | 3.3/5 | PDF ✅
+- [x] #064 | https://job-boards.greenhouse.io/vercel/jobs/5704321004 | Vercel | Software Engineer, Agent | Hybrid — SF or NYC (M/T/F anchor) | 2.9/5 | PDF ❌
+- [x] #070 | https://appsilon-1739358905.teamtailor.com/jobs/6902765-ai-engineer | Appsilon | AI Engineer | Remote worldwide — Poland employment framework | 2.8/5 | PDF ❌
+- [x] #066 | https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365 | Sierra | Forward Deployed Infrastructure Engineer | San Francisco, CA — On-site | 2.7/5 | PDF ❌
