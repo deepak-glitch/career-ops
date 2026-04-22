@@ -103,13 +103,13 @@
 - [x] #13 | https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50 | Kikoff | Software Engineer — Recent Grad 2026 | 2.8/5 | PDF ❌
 
 <!-- Batch 3 — 2026-04-22 (Multimodal/CV + RAG + Healthcare ML) -->
-- [x] #27 | https://jobs.ashbyhq.com/zello/2fa8cd4a-7ddb-40c6-8577-4a004c182e80 | Zello | Applied AI Engineer | 4.4/5 | PDF ⏳
-- [x] #24 | https://jobs.ashbyhq.com/healthleap/67700f1d-ddbe-4e5e-938b-0c2d535aab50 | HealthLeap | Machine Learning Engineer | 4.3/5 | PDF ⏳
-- [x] #28 | https://jobs.ashbyhq.com/permitflow/08b96a9a-b344-42cc-8c69-a1c1e0babb90 | PermitFlow | Applied AI Engineer | 4.3/5 | PDF ⏳
-- [x] #23 | https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a | Northslope Technologies | Forward Deployed Software Engineer — New Grad | 4.0/5 | PDF ⏳
-- [x] #21 | https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76 | Netic | Machine Learning Engineer, New Grad | 3.9/5 | PDF ⏳
-- [x] #29 | https://jobs.ashbyhq.com/Edison%20Scientific/ba4ce9e2-972a-4a3d-8f1e-010e62999bf2 | Edison Scientific | Applied AI Engineer | 3.8/5 | PDF ⏳
-- [x] #22 | https://job-boards.greenhouse.io/verkada/jobs/5040765007 | Verkada | Computer Vision Software Engineer — University Grad 2026 | 3.7/5 | PDF ⏳
-- [x] #30 | https://jobs.ashbyhq.com/mightybot/4338903c-c692-4499-9350-9f72caa7ad0a | MightyBot | AI Engineer (RAG/Search) | 3.4/5 | PDF ⏳
+- [x] #27 | https://jobs.ashbyhq.com/zello/2fa8cd4a-7ddb-40c6-8577-4a004c182e80 | Zello | Applied AI Engineer | 4.4/5 | PDF ✅
+- [x] #24 | https://jobs.ashbyhq.com/healthleap/67700f1d-ddbe-4e5e-938b-0c2d535aab50 | HealthLeap | Machine Learning Engineer | 4.3/5 | PDF ✅
+- [x] #28 | https://jobs.ashbyhq.com/permitflow/08b96a9a-b344-42cc-8c69-a1c1e0babb90 | PermitFlow | Applied AI Engineer | 4.3/5 | PDF ✅
+- [x] #23 | https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a | Northslope Technologies | Forward Deployed Software Engineer — New Grad | 4.0/5 | PDF ✅
+- [x] #21 | https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76 | Netic | Machine Learning Engineer, New Grad | 3.9/5 | PDF ✅
+- [x] #29 | https://jobs.ashbyhq.com/Edison%20Scientific/ba4ce9e2-972a-4a3d-8f1e-010e62999bf2 | Edison Scientific | Applied AI Engineer | 3.8/5 | PDF ✅
+- [x] #22 | https://job-boards.greenhouse.io/verkada/jobs/5040765007 | Verkada | Computer Vision Software Engineer — University Grad 2026 | 3.7/5 | PDF ✅
+- [x] #30 | https://jobs.ashbyhq.com/mightybot/4338903c-c692-4499-9350-9f72caa7ad0a | MightyBot | AI Engineer (RAG/Search) | 3.4/5 | PDF ✅
 - [x] #25 | https://jobs.ashbyhq.com/abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2 | Abridge | Machine Learning Scientist (All Levels) | 2.9/5 | PDF ❌
 - [x] #26 | https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c | Perplexity | Machine Learning Research Engineer (Berlin) | 2.6/5 | PDF ❌
