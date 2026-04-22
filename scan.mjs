@@ -220,28 +220,48 @@ function appendToPipeline(offers) {
   if (offers.length === 0) return;
 
   let text = readFileSync(PIPELINE_PATH, 'utf-8');
+  const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+  const dateHeader = `### ${today}`;
+  const lines = offers.map(o => `- [ ] ${o.url} | ${o.company} | ${o.title}`).join('\n');
 
-  // Find "## Pendientes" section and append after it
-  const marker = '## Pendientes';
-  const idx = text.indexOf(marker);
-  if (idx === -1) {
-    // No Pendientes section — append at end before Procesadas
-    const procIdx = text.indexOf('## Procesadas');
+  // Locate Pendientes section bounds
+  const pendMarker = '## Pendientes';
+  const procMarker = '## Procesadas';
+  const pendIdx = text.indexOf(pendMarker);
+  const procIdx = text.indexOf(procMarker);
+
+  if (pendIdx === -1) {
+    // No Pendientes section — create one before Procesadas (or at end)
     const insertAt = procIdx === -1 ? text.length : procIdx;
-    const block = `\n${marker}\n\n` + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}`
-    ).join('\n') + '\n\n';
+    const block = `## Pendientes\n\n${dateHeader}\n\n${lines}\n\n`;
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   } else {
-    // Find the end of existing Pendientes content (next ## or end)
-    const afterMarker = idx + marker.length;
-    const nextSection = text.indexOf('\n## ', afterMarker);
-    const insertAt = nextSection === -1 ? text.length : nextSection;
+    // Pendientes exists — find today's date subsection or create it at end of Pendientes
+    const pendEnd = procIdx === -1 ? text.length : procIdx;
+    const pendSection = text.slice(pendIdx, pendEnd);
+    const dateInPend = pendSection.indexOf(dateHeader);
 
-    const block = '\n' + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}`
-    ).join('\n') + '\n';
-    text = text.slice(0, insertAt) + block + text.slice(insertAt);
+    if (dateInPend !== -1) {
+      // Today's section exists — append after the last entry of that subsection
+      const headerAbsIdx = pendIdx + dateInPend;
+      const afterHeader = headerAbsIdx + dateHeader.length;
+      // Find next ### or ## marker, or end of Pendientes
+      const restOfPend = text.slice(afterHeader, pendEnd);
+      const nextSubIdx = restOfPend.search(/\n###\s|\n##\s/);
+      const insertAt = nextSubIdx === -1 ? pendEnd : afterHeader + nextSubIdx;
+      // Trim trailing whitespace before insert point
+      let endOfBlock = insertAt;
+      while (endOfBlock > 0 && /\s/.test(text[endOfBlock - 1])) endOfBlock--;
+      const block = `\n${lines}\n`;
+      text = text.slice(0, endOfBlock) + block + text.slice(endOfBlock);
+    } else {
+      // No today's section — create at end of Pendientes
+      let insertAt = pendEnd;
+      // Trim trailing whitespace before Procesadas (or EOF)
+      while (insertAt > 0 && /\s/.test(text[insertAt - 1])) insertAt--;
+      const block = `\n\n${dateHeader}\n\n${lines}\n`;
+      text = text.slice(0, insertAt) + block + (procIdx === -1 ? '' : '\n' + text.slice(insertAt).replace(/^\s*/, ''));
+    }
   }
 
   writeFileSync(PIPELINE_PATH, text, 'utf-8');
