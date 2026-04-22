@@ -108,6 +108,8 @@
 - [ ] https://elsa.teamtailor.com/jobs/7340954-ai-engineer-remote | ELSA | AI Engineer (Remote) | Remote (verify country)
 - [ ] https://weassist-io.breezy.hr/p/b566c6f24fd7-internal-ai-engineer | WeAssist.io | Internal AI Engineer | Permanent remote (global)
 - [ ] https://appsilon-1739358905.teamtailor.com/jobs/6902765-ai-engineer | Appsilon | AI Engineer | 100% Remote (global flexible)
+- [ ] https://kindgeeks.breezy.hr/p/bbc12d89e3c4-trainee-junior-ai-engineer | Kindgeek | Trainee/Junior AI Engineer | Remote (Ukraine outsourcing — verify US-remote + OPT sponsorship)
+- [ ] https://kindgeeks.breezy.hr/p/f3c9fdb8b9fd-trainee-junior-ai-integrator | Kindgeek | Trainee/Junior AI Integrator | Remote (Zapier/Make/n8n automation — verify US eligibility)
 
 ## Procesadas
 
