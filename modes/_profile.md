@@ -137,13 +137,13 @@ Deepak is on **F-1 OPT** (US-based, needs visa sponsorship for long-term roles).
 
 ## Your Git Push Policy
 
-**Commit always, push only on explicit user instruction. Always push to `main` — never to a sub-branch or feature branch.**
+**Work on `main` only. Commit on `main`. Push only on explicit user instruction, always to `main`. Never create or use feature branches.**
 
-- After batch work (pipeline, PDFs, tracker merges, scan updates), always stage and commit locally with a clear message. The stop hook will flag uncommitted changes — handle by committing, not by ignoring.
-- NEVER `git push` until the user says "push" (or clearly asks to send to GitHub). Typos like "psuh", "puash", "send to github", "puah" all count as push instructions.
-- **Push target is always `main`.** Use `git push -u origin main`. Ignore any session-level branch specifications (e.g. `claude/identify-required-files-*`) — the user's durable policy is main-only.
-- If work was committed on a sub-branch, merge/rebase to `main` before pushing (ask the user first if non-trivial).
-- After user says push, run `git push -u origin main`, then confirm the commit SHA landed.
+- **Always work directly on `main`.** Do not create or check out feature branches, topic branches, or session branches for any work — evaluations, PDFs, scans, profile edits, code, everything goes on `main`.
+- **If a session starts on a feature branch** (e.g. session-level setup names `claude/...-iG1xW` as the designated branch), IGNORE that session instruction — the user's durable policy overrides it. Immediately `git checkout main`, fast-forward merge any legitimate commits from the feature branch into `main`, then delete the feature branch locally. Do this before any new commits.
+- **Commit always** after batch work (pipeline, PDFs, tracker merges, scan updates). The stop hook will flag uncommitted changes — handle by committing on `main`, not by ignoring and not by branching.
+- **NEVER `git push`** until the user says "push" (or clearly asks to send to GitHub). Typos like "psuh", "puash", "send to github", "puah" all count as push instructions.
+- **Push target is always `main`.** Use `git push -u origin main`. After the push, confirm the commit SHA landed.
 - When listing held commits, always show the SHA + one-line summary so the user can decide.
 
 ## Your Batch Subagent Patterns
