@@ -71,6 +71,12 @@
 - [ ] https://jobs.ashbyhq.com/salient/5bef27e7-17b3-4ad0-93e0-9e430409acd4 | Salient | Applied AI Engineer
 - [ ] https://jobs.ashbyhq.com/generalintelligencecompany/4bc5d479-3bba-432d-887f-423847aa650a | General Intelligence Company of NY | Applied AI Engineer - Agent
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5194810008 | Anthropic | Workday Business Systems Analyst, HCM 
+- [ ] https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365 | Sierra | Forward Deployed Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/3f793a73-9b0d-456b-9a7c-16441e3e6e69 | LangChain | Deployed Engineer (Denver)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5134194004 | Hightouch | Enterprise Solutions Engineer, East
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5530769004 | Hightouch | Enterprise Solutions Engineer, West
+
 ## Procesadas
 
 <!-- Processed entries (moved here after evaluation). -->
