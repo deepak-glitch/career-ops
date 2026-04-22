@@ -149,13 +149,13 @@ Deepak is on **F-1 OPT** (US-based, needs visa sponsorship for long-term roles).
 
 ## Your Pipeline.md Date Structure
 
-`data/pipeline.md` is organized as date subsections under both Pendientes and Procesadas:
+`data/pipeline.md` is organized as date subsections under both Pendientes and Procesadas. **Every entry includes the job location** so on-site/remote/F-1 OPT decisions can be made without opening the JD:
 
 ```
 ## Pendientes
 
 ### YYYY-MM-DD
-- [ ] {url} | {company} | {title}
+- [ ] {url} | {company} | {title} | {location}
 - [ ] ...
 
 ### YYYY-MM-DD (next day)
@@ -164,15 +164,17 @@ Deepak is on **F-1 OPT** (US-based, needs visa sponsorship for long-term roles).
 ## Procesadas
 
 ### YYYY-MM-DD
-- [x] #NNN | {url} | {company} | {role} | {score}/5 | PDF {✅|❌}
+- [x] #NNN | {url} | {company} | {role} | {location} | {score}/5 | PDF {✅|❌}
 ```
 
 **Rules:**
 - Every URL added by `scan.mjs`, manual edits, or pipeline mode goes under a `### YYYY-MM-DD` subsection matching its discovery (Pendientes) or processing (Procesadas) date.
-- `scan.mjs` is patched to: (a) append under today's existing date header if present, (b) create today's header at the end of Pendientes if missing.
+- `scan.mjs` is patched to: (a) append under today's existing date header if present, (b) create today's header at the end of Pendientes if missing, (c) include the location from the ATS API response (or `N/A` if missing).
+- **Pipeline-mode processing must fill Location** before moving an entry from Pendientes to Procesadas. Pull the location from the report's `**Location:**` header (which mirrors Block A). Never use `N/A` in Procesadas — go back to the JD / report if needed.
 - Date headers are sorted ascending (oldest at top, newest at bottom) — preserve that order when editing manually.
 - When moving an entry from Pendientes to Procesadas, place it under the date the evaluation completed, not the discovery date.
 - No HTML comment headers like `<!-- Level 3 batch ... -->` — date subsection is the only grouping mechanism.
+- Existing entries from before this rule may lack the location column — that's OK; backfill is optional, going forward is mandatory.
 
 ## Your Batch Subagent Patterns
 
@@ -245,4 +247,4 @@ These policies are persistent — every new session should honor them automatica
 6. **Batch subagents** — run in background, exhaustive prompts, verify outputs after timeouts, force-add gitignored artifacts.
 7. **Ashby pages** — don't WebFetch; use GraphQL API or aggregators.
 8. **Commit style** — lowercase type prefix + session trailer.
-9. **Pipeline.md format** — `### YYYY-MM-DD` subsections under Pendientes and Procesadas; scan.mjs auto-creates today's header.
+9. **Pipeline.md format** — `### YYYY-MM-DD` subsections under Pendientes and Procesadas; every entry includes Location (Pendientes: `url | company | title | location`; Procesadas: `#NNN | url | company | role | location | score/5 | PDF ✅/❌`); scan.mjs auto-creates today's header.

@@ -222,7 +222,7 @@ function appendToPipeline(offers) {
   let text = readFileSync(PIPELINE_PATH, 'utf-8');
   const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
   const dateHeader = `### ${today}`;
-  const lines = offers.map(o => `- [ ] ${o.url} | ${o.company} | ${o.title}`).join('\n');
+  const lines = offers.map(o => `- [ ] ${o.url} | ${o.company} | ${o.title} | ${o.location || 'N/A'}`).join('\n');
 
   // Locate Pendientes section bounds
   const pendMarker = '## Pendientes';
