@@ -137,10 +137,12 @@ Deepak is on **F-1 OPT** (US-based, needs visa sponsorship for long-term roles).
 
 ## Your Git Push Policy
 
-**Commit always, push only on explicit user instruction.**
+**Commit always, push only on explicit user instruction. Always push to `main` — never to a sub-branch or feature branch.**
 
 - After batch work (pipeline, PDFs, tracker merges, scan updates), always stage and commit locally with a clear message. The stop hook will flag uncommitted changes — handle by committing, not by ignoring.
 - NEVER `git push` until the user says "push" (or clearly asks to send to GitHub). Typos like "psuh", "puash", "send to github", "puah" all count as push instructions.
+- **Push target is always `main`.** Use `git push -u origin main`. Ignore any session-level branch specifications (e.g. `claude/identify-required-files-*`) — the user's durable policy is main-only.
+- If work was committed on a sub-branch, merge/rebase to `main` before pushing (ask the user first if non-trivial).
 - After user says push, run `git push -u origin main`, then confirm the commit SHA landed.
 - When listing held commits, always show the SHA + one-line summary so the user can decide.
 
@@ -210,7 +212,7 @@ These policies are persistent — every new session should honor them automatica
 1. **Scan** = three-level flow (Level 1/2 `scan.mjs` + Level 3 WebSearch) — not just zero-token.
 2. **Shortlist/ranking/queue tables** — always include `Location` column.
 3. **PDF** — auto-generate for score ≥ 3.0; skip otherwise; update report `**PDF:**` line.
-4. **Git** — commit always; push only on explicit user request.
+4. **Git** — commit always; push only on explicit user request; always push to `main` (never sub-branches).
 5. **Work auth** — F-1 OPT; prefer US; flag but don't veto non-US roles.
 6. **Batch subagents** — run in background, exhaustive prompts, verify outputs after timeouts, force-add gitignored artifacts.
 7. **Ashby pages** — don't WebFetch; use GraphQL API or aggregators.
