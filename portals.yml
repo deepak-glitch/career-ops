@@ -272,6 +272,14 @@ title_filter:
     - "Business Systems"
     - "Internal Tools"
     - "Transformation"
+    # -- Non-standard / specialist / implementation titles --
+    - "AI Specialist"
+    - "AI Execution"
+    - "AI Implementation"
+    - "AI Strategy"
+    - "AI Adoption"
+    - "AI Operations"
+    - "AI Ops"
   negative:
     # [CUSTOMIZE] Add keywords for roles you want to exclude.
     # NOTE: matches are word-boundary, case-insensitive.
@@ -508,6 +516,60 @@ search_queries:
 
   - name: HN Who's Hiring — Remote AI
     query: 'site:news.ycombinator.com OR site:hnrss.org "AI Engineer" OR "Forward Deployed" OR "DevRel" OR "Founding Engineer" remote'
+    enabled: true
+
+  # ─────────────────────────────────────────────────────────────────
+  # SMALL-COMPANY COVERAGE (non-mainstream ATS + non-standard titles)
+  # Catches roles like "AI Execution Specialist" at Paul Gough Media
+  # that mainstream ATS site-filters would miss.
+  # ─────────────────────────────────────────────────────────────────
+
+  - name: Small-ATS — BreezyHR
+    query: 'site:breezy.hr "AI Engineer" OR "AI Specialist" OR "Machine Learning" OR "Automation" remote'
+    enabled: true
+
+  - name: Small-ATS — TeamTailor
+    query: 'site:teamtailor.com "AI Engineer" OR "AI Specialist" OR "Machine Learning" OR "Automation" remote'
+    enabled: true
+
+  - name: Small-ATS — Recruitee
+    query: 'site:recruitee.com "AI Engineer" OR "AI Specialist" OR "Machine Learning" remote'
+    enabled: true
+
+  - name: Small-ATS — Personio
+    query: 'site:personio.com OR site:jobs.personio.com "AI" OR "Machine Learning" OR "Automation" remote'
+    enabled: true
+
+  - name: Small-ATS — JazzHR + SmartRecruiters + Paylocity
+    query: 'site:jazzhr.com OR site:smartrecruiters.com OR site:paylocity.com "AI Engineer" OR "ML Engineer" OR "AI Specialist" remote'
+    enabled: true
+
+  - name: Small-ATS — Rippling + Gusto
+    query: 'site:ats.rippling.com OR site:jobs.gusto.com "AI" OR "Machine Learning" OR "Automation" remote'
+    enabled: true
+
+  - name: Non-standard titles — Custom domains
+    query: '"AI Execution Specialist" OR "AI Implementation Specialist" OR "AI Strategy Specialist" OR "AI Adoption Lead" OR "AI Operations Specialist" remote 2026'
+    enabled: true
+
+  - name: Non-standard titles — Automation + Specialist
+    query: '"AI Automation Specialist" OR "AI Automation Engineer" OR "Marketing Automation AI" OR "Sales Automation AI" remote 2026 -site:jobs.ashbyhq.com -site:greenhouse.io -site:lever.co'
+    enabled: true
+
+  - name: Aggregators — Himalayas + Remotive + BuiltIn
+    query: 'site:himalayas.app OR site:remotive.com OR site:builtin.com "AI Engineer" OR "AI Specialist" OR "ML Engineer" "2026" remote'
+    enabled: true
+
+  - name: Aggregators — YC + WeWorkRemotely + AngelList
+    query: 'site:workatastartup.com OR site:weworkremotely.com OR site:wellfound.com "AI Engineer" OR "Founding AI" OR "AI Specialist" OR "Automation Engineer" remote'
+    enabled: true
+
+  - name: Industry-vertical AI — Marketing + Healthcare + Legal
+    query: '"AI Engineer" OR "AI Specialist" OR "AI Implementation" (marketing agency OR healthcare clinic OR consultancy OR coaching OR law firm) remote 2026 -"Senior" -"Staff" -"Principal"'
+    enabled: true
+
+  - name: Solopreneur / coaching / agency AI roles
+    query: '"AI" "Specialist" OR "Implementation" OR "Execution" (coaching OR agency OR consultancy OR "small business") remote 2026 -"Senior" -"Staff"'
     enabled: true
 
 # -- Tracked companies --

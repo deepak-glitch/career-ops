@@ -99,9 +99,16 @@ If you have a live demo/dashboard (check profile.yml), offer access in applicati
 When the user runs `/career-ops scan` (or asks to scan for jobs), always run the **full three-level flow**, not just the zero-token scanner:
 
 1. **Level 1 / 2 — `node scan.mjs`** — hits Greenhouse/Ashby/Lever APIs for companies in `portals.yml tracked_companies`. Fast, free.
-2. **Level 3 — WebSearch queries** — run the queries from `portals.yml search_queries` (or targeted ad-hoc queries for the user's archetypes) via Claude's WebSearch tool. This discovers roles at companies NOT in `tracked_companies`.
+2. **Level 3 — WebSearch queries** — run the queries from `portals.yml search_queries` (or targeted ad-hoc queries for the user's archetypes) via Claude's WebSearch tool. This discovers roles at companies NOT in `tracked_companies`. Includes:
+   - **Mainstream ATS** (Ashby, Greenhouse, Lever, Workable) for engineering titles at tech companies
+   - **Small-ATS coverage** (BreezyHR, TeamTailor, Recruitee, Personio, JazzHR, SmartRecruiters, Paylocity, Rippling, Gusto) for non-tech companies
+   - **Non-standard titles** ("AI Execution/Implementation/Strategy/Adoption/Operations Specialist", "AI Automation Engineer")
+   - **Aggregators** (Himalayas, Remotive, BuiltIn, YC Work at a Startup, WeWorkRemotely, Wellfound)
+   - **Industry-vertical AI** (marketing agencies, healthcare clinics, consultancies, coaching firms, law firms)
 3. **Aggregate + dedupe** — append new URLs to `data/pipeline.md` and log them in `data/scan-history.tsv`. Respect `location_filter` (USA + EU, no UK) and `title_filter` (mid/entry IC, no Senior/Staff/Principal/Lead/Manager/Architect).
 4. **Report back** — show a single summary table with companies, roles, and which discovery level found them.
+
+**Why broader coverage matters:** A role like "AI Execution Specialist at Paul Gough Media" (small coaching company, custom hiring page) would be invisible to `site:jobs.ashbyhq.com` queries. The small-ATS + non-standard-title queries added in `portals.yml` catch this long tail.
 
 This matches the Level 3 flow documented in `modes/scan.md`.
 
