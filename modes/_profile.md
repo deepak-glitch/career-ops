@@ -105,6 +105,16 @@ When the user runs `/career-ops scan` (or asks to scan for jobs), always run the
 
 This matches the Level 3 flow documented in `modes/scan.md`.
 
+## Your Shortlist Display Policy
+
+Whenever you present a shortlist, ranking table, or pipeline queue to the user (e.g. before `/career-ops pipeline`, `/career-ops ofertas`, scan summaries, top-N proposals), **always include a `Location` column**. Pull the location from:
+
+1. The JD page (Playwright/WebFetch the posting), OR
+2. The report's Block A if already evaluated, OR
+3. Company's known HQ + "(verify in JD)" if you can't fetch it immediately.
+
+Never omit location — F-1 OPT / on-site policy decisions hinge on it.
+
 ## Your PDF Generation Policy
 
 After every pipeline / auto-pipeline evaluation, **always generate a tailored ATS PDF for any report with score ≥ 3.0**. No manual confirmation step.
