@@ -112,6 +112,8 @@
 - [ ] https://himalayas.app/companies/hiflylabs/jobs/ai-engineer-europe | Hiflylabs | AI Engineer (Europe Remote)
 - [ ] https://jobs.lever.co/appen-2/67603849-5e76-426d-84aa-890f5bc1bc1d | Appen | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/SymmetrySystems/ffd8af3d-b855-4e0d-b158-5e1a8a6e40dd | Symmetry Systems | Forward Deployed Engineer (L4)
+- [ ] https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743 | Quora | Software Engineer New Grad 2025-2026 - Data Infrastructure (Remote) | Remote (Quora is remote-first)
+- [ ] https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | Software Engineer - New Grad (Summer 2026) | San Francisco / Remote (verify in JD)
 
 ## Procesadas
 
