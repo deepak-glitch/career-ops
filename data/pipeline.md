@@ -9,10 +9,6 @@
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8422175002 | Wayve | Software Integration Engineer (6 months Contract) 
 
 <!-- Level 3 WebSearch discovery (Applied AI / Forward Deployed) -->
-- [ ] https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a | Northslope Technologies | Forward Deployed Software Engineer — New Grad
-- [ ] https://jobs.ashbyhq.com/zello/2fa8cd4a-7ddb-40c6-8577-4a004c182e80 | Zello | Applied AI Engineer
-- [ ] https://jobs.ashbyhq.com/permitflow/08b96a9a-b344-42cc-8c69-a1c1e0babb90 | PermitFlow | Applied AI Engineer
-- [ ] https://jobs.ashbyhq.com/Edison%20Scientific/ba4ce9e2-972a-4a3d-8f1e-010e62999bf2 | Edison Scientific | Applied AI Engineer
 - [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer
 - [ ] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer
 - [ ] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer
@@ -77,14 +73,8 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5530769004 | Hightouch | Enterprise Solutions Engineer, West
 
 <!-- Level 3 WebSearch — 2026-04-22 (Multimodal/CV + RAG + Healthcare ML) -->
-- [ ] https://job-boards.greenhouse.io/verkada/jobs/5040765007 | Verkada | Computer Vision Software Engineer — University Graduate 2026
 - [ ] https://jobs.lever.co/revealtech/cdb14ea7-9ebb-47a7-a828-967675c239da | Reveal Technology | 3D Computer Vision Engineer
-- [ ] https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c | Perplexity | Machine Learning Research Engineer
-- [ ] https://jobs.ashbyhq.com/mightybot/4338903c-c692-4499-9350-9f72caa7ad0a | MightyBot | AI Engineer (RAG/Search)
 - [ ] https://jobs.ashbyhq.com/monaco/448aa20c-3119-4166-a2dd-ed11b58327e3 | Monaco | AI Engineer (RAG)
-- [ ] https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76 | Netic | Machine Learning Engineer, New Grad
-- [ ] https://jobs.ashbyhq.com/abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2 | Abridge | Machine Learning Scientist (All Levels)
-- [ ] https://jobs.ashbyhq.com/healthleap/67700f1d-ddbe-4e5e-938b-0c2d535aab50 | HealthLeap | Machine Learning Engineer
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074217008 | Anthropic | Research Engineer / Research Scientist, Vision
 - [ ] https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer — Full Stack AI (US-Remote)
 
@@ -101,13 +91,25 @@
 - [x] #10 | https://jobs.ashbyhq.com/Hippocratic%20AI/eef8a721-23de-4c20-bff0-56088b39afa0 | Hippocratic AI | LLM Inference Engineer | 3.1/5 | PDF ✅
 - [x] #8  | https://jobs.ashbyhq.com/zapier/83ab14be-cd19-4091-84aa-2aa23833ab7d | Zapier | Applied AI Engineer | 2.9/5 | PDF ❌
 - [x] #2  | https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a | Perplexity | AI Engineer, Applied ML | 2.8/5 | PDF ❌
-- [x] #16 | https://boards.greenhouse.io/cordial81/jobs/6972466002 | Cordial | Applied AI Engineer, Generative | 4.1/5 | PDF ⏳
-- [x] #11 | https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa | OpenAI | Software Engineer, Applied Emerging Talent (2026) | 4.0/5 | PDF ⏳
-- [x] #19 | https://jobs.ashbyhq.com/auctor/ca5b0c44-cafb-48ad-99fa-84aa3cfc5179 | Auctor | Software Engineer, Applied AI | 4.0/5 | PDF ⏳
-- [x] #14 | https://jobs.ashbyhq.com/superplane/153cfad4-227d-4605-9581-710f4df869e0 | SuperPlane | Applied AI Engineer | 3.9/5 | PDF ⏳
-- [x] #12 | https://jobs.ashbyhq.com/quora/cb455a21-e66f-4e21-afdf-4511c6c442d1 | Quora | ML Engineer New Grad 2025-2026 — Ads (Remote) | 3.8/5 | PDF ⏳
-- [x] #20 | https://jobs.ashbyhq.com/vapi/7adb10b2-1234-4e4c-b132-f990a91de048 | Vapi | Agent Engineer - NY | 3.8/5 | PDF ⏳
-- [x] #17 | https://jobs.ashbyhq.com/percepta/bbfe8035-2364-419b-bb36-500aaa542fb2 | Percepta | Applied AI Engineer | 3.7/5 | PDF ⏳
-- [x] #18 | https://jobs.ashbyhq.com/vyn/1ee10808-507f-45a8-86b1-0063b11362b2 | Vyn | GenAI Engineer | 3.6/5 | PDF ⏳
-- [x] #15 | https://jobs.ashbyhq.com/spaak/d47e53c0-cd11-4b3c-a242-832a9e985a5e | Spaak Technologies | Applied LLM Engineer | 3.2/5 | PDF ⏳
-- [x] #13 | https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50 | Kikoff | Software Engineer — Recent Grad 2026 | 2.8/5 | PDF ⏳
+- [x] #16 | https://boards.greenhouse.io/cordial81/jobs/6972466002 | Cordial | Applied AI Engineer, Generative | 4.1/5 | PDF ✅
+- [x] #11 | https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa | OpenAI | Software Engineer, Applied Emerging Talent (2026) | 4.0/5 | PDF ✅
+- [x] #19 | https://jobs.ashbyhq.com/auctor/ca5b0c44-cafb-48ad-99fa-84aa3cfc5179 | Auctor | Software Engineer, Applied AI | 4.0/5 | PDF ✅
+- [x] #14 | https://jobs.ashbyhq.com/superplane/153cfad4-227d-4605-9581-710f4df869e0 | SuperPlane | Applied AI Engineer | 3.9/5 | PDF ✅
+- [x] #12 | https://jobs.ashbyhq.com/quora/cb455a21-e66f-4e21-afdf-4511c6c442d1 | Quora | ML Engineer New Grad 2025-2026 — Ads (Remote) | 3.8/5 | PDF ✅
+- [x] #20 | https://jobs.ashbyhq.com/vapi/7adb10b2-1234-4e4c-b132-f990a91de048 | Vapi | Agent Engineer - NY | 3.8/5 | PDF ✅
+- [x] #17 | https://jobs.ashbyhq.com/percepta/bbfe8035-2364-419b-bb36-500aaa542fb2 | Percepta | Applied AI Engineer | 3.7/5 | PDF ✅
+- [x] #18 | https://jobs.ashbyhq.com/vyn/1ee10808-507f-45a8-86b1-0063b11362b2 | Vyn | GenAI Engineer | 3.6/5 | PDF ✅
+- [x] #15 | https://jobs.ashbyhq.com/spaak/d47e53c0-cd11-4b3c-a242-832a9e985a5e | Spaak Technologies | Applied LLM Engineer | 3.2/5 | PDF ✅
+- [x] #13 | https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50 | Kikoff | Software Engineer — Recent Grad 2026 | 2.8/5 | PDF ❌
+
+<!-- Batch 3 — 2026-04-22 (Multimodal/CV + RAG + Healthcare ML) -->
+- [x] #27 | https://jobs.ashbyhq.com/zello/2fa8cd4a-7ddb-40c6-8577-4a004c182e80 | Zello | Applied AI Engineer | 4.4/5 | PDF ⏳
+- [x] #24 | https://jobs.ashbyhq.com/healthleap/67700f1d-ddbe-4e5e-938b-0c2d535aab50 | HealthLeap | Machine Learning Engineer | 4.3/5 | PDF ⏳
+- [x] #28 | https://jobs.ashbyhq.com/permitflow/08b96a9a-b344-42cc-8c69-a1c1e0babb90 | PermitFlow | Applied AI Engineer | 4.3/5 | PDF ⏳
+- [x] #23 | https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a | Northslope Technologies | Forward Deployed Software Engineer — New Grad | 4.0/5 | PDF ⏳
+- [x] #21 | https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76 | Netic | Machine Learning Engineer, New Grad | 3.9/5 | PDF ⏳
+- [x] #29 | https://jobs.ashbyhq.com/Edison%20Scientific/ba4ce9e2-972a-4a3d-8f1e-010e62999bf2 | Edison Scientific | Applied AI Engineer | 3.8/5 | PDF ⏳
+- [x] #22 | https://job-boards.greenhouse.io/verkada/jobs/5040765007 | Verkada | Computer Vision Software Engineer — University Grad 2026 | 3.7/5 | PDF ⏳
+- [x] #30 | https://jobs.ashbyhq.com/mightybot/4338903c-c692-4499-9350-9f72caa7ad0a | MightyBot | AI Engineer (RAG/Search) | 3.4/5 | PDF ⏳
+- [x] #25 | https://jobs.ashbyhq.com/abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2 | Abridge | Machine Learning Scientist (All Levels) | 2.9/5 | PDF ❌
+- [x] #26 | https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c | Perplexity | Machine Learning Research Engineer (Berlin) | 2.6/5 | PDF ❌
