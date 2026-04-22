@@ -125,3 +125,93 @@ After every pipeline / auto-pipeline evaluation, **always generate a tailored AT
 4. Update the report's `**PDF:**` line with the actual path (or "Not generated (score < 3.0)" if below).
 
 Skip PDF only when score < 3.0 — those are explicit "don't apply" flags.
+
+## Your Work Authorization
+
+Deepak is on **F-1 OPT** (US-based, needs visa sponsorship for long-term roles).
+
+- **Strongly prefer:** US-entity employers or US-remote roles. Canada, UK, EU, India-remote are soft blockers — still evaluate and score, but flag in Block A and Location.
+- **Evaluation impact:** Do NOT auto-reject non-US roles — score normally but add a Red Flag note.
+- **In PDFs / form answers:** State "US-based, F-1 OPT, open to sponsorship" in the location line of the CV footer when targeting US roles. For non-US roles, acknowledge the relocation/authorization complexity honestly in Draft Answers.
+- **Abridge, Perplexity-Berlin, MightyBot-India** examples: location mismatch downgraded in Block A but did not veto the score.
+
+## Your Git Push Policy
+
+**Commit always, push only on explicit user instruction.**
+
+- After batch work (pipeline, PDFs, tracker merges, scan updates), always stage and commit locally with a clear message. The stop hook will flag uncommitted changes — handle by committing, not by ignoring.
+- NEVER `git push` until the user says "push" (or clearly asks to send to GitHub). Typos like "psuh", "puash", "send to github", "puah" all count as push instructions.
+- After user says push, run `git push -u origin main`, then confirm the commit SHA landed.
+- When listing held commits, always show the SHA + one-line summary so the user can decide.
+
+## Your Batch Subagent Patterns
+
+When running `/career-ops pipeline` with 3+ URLs or a PDF batch:
+
+1. **Launch the subagent with `run_in_background: true`.** Main thread stays free to handle stop-hook feedback.
+2. **Give the subagent an exhaustive prompt:** exact file paths, exact numbering, exact rules (location mandatory, legitimacy mandatory, PDF threshold, no git push, tailoring angles per URL).
+3. **Timeout recovery:** Subagents often finish file writes before timing out with "Stream idle timeout - partial response received". Always verify by listing the expected outputs (`ls reports/0NN*`, `ls batch/tracker-additions/0NN*`, `ls output/*DATE*`) before treating it as a failure. Finish the missing steps manually rather than relaunching the whole batch.
+4. **Force-add gitignored artifacts:** `reports/*.md`, `output/*.pdf`, `batch/tracker-additions/**`, `data/applications.md`, `data/pipeline.md`, `data/scan-history.tsv` are all gitignored. Use `git add -f` to commit them.
+5. **Post-batch cleanup checklist:**
+   - `node merge-tracker.mjs`
+   - `node verify-pipeline.mjs` (must be 0 errors / 0 warnings)
+   - Flip `PDF ⏳` → `PDF ✅` in pipeline.md Procesadas after PDFs land
+   - Move `- [ ]` entries from Pendientes to Procesadas
+   - Append new STAR+R stories to `interview-prep/story-bank.md`
+6. **Never run two batch subagents that touch the same files in parallel.** A scan + a PDF-gen + a pipeline-eval agent can run concurrently (different files), but two pipeline agents cannot.
+
+## Your JD Extraction Fallbacks
+
+Different portals need different fallbacks — WebFetch alone is not enough:
+
+| Portal | Primary | Fallback |
+|--------|---------|----------|
+| Greenhouse `job-boards.greenhouse.io` | WebFetch | WebSearch cached copy |
+| Lever `jobs.lever.co` | WebFetch | Lever API `https://api.lever.co/v0/postings/{company}?mode=json` |
+| Ashby `jobs.ashbyhq.com` | **NOT WebFetch** (SPA returns empty) | GraphQL POST `https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams` OR aggregators (BuiltIn, Himalayas, Remotive, YC Work at a Startup, LinkedIn cache) |
+| BambooHR | list + detail endpoints | — |
+| Workday | POST JSON search API | — |
+| LinkedIn | login-gated | Ask user to paste JD text |
+
+Always corroborate critical details (location, comp, seniority) across 2+ sources when possible. If fully blocked, write `**Verification:** unconfirmed (batch mode)` in the report header.
+
+## Your Commit Message Style
+
+Lowercase type prefix; imperative mood; 1-2 sentence body; always include session trailer.
+
+Types used: `pipeline`, `pdfs`, `scan`, `profile`, `tracker`, `fix`, `docs`.
+
+Example:
+```
+pipeline batch 3: evaluate 10 URLs (#021-030) + location policy
+
+- 10 A-H reports: Netic, Verkada, Northslope, HealthLeap, Abridge,
+  Perplexity(Berlin), Zello, PermitFlow, Edison Scientific, MightyBot
+- All reports include Location in header (per Shortlist Display Policy)
+- Scores: 2 below 3.0 → no PDF
+
+https://claude.ai/code/session_01DodFPHXQ9zdCX1vDEFpsMh
+```
+
+## Your Filter Hygiene
+
+Learned filter misses from this session (already patched in `portals.yml`):
+
+- **Removed** `GTM Engineer` from positive (was pulling Vercel/Lovable GTM/marketing slips).
+- **Added** `GTM` to negative.
+- **Solutions Engineer, Customer Support Agent, Business Systems Analyst, Working Student, AI Creative Producer** — not archetype matches. If they slip through, remove from pipeline.md before launching pipeline mode.
+- **Senior / Staff / Principal / Lead / Manager / Architect / Director** — auto-filter by negative list.
+- **Research Engineer** (PhD-gated titles) — borderline; evaluate but expect low score unless explicit "MS OK".
+
+## Your Session Memory (Active Policies Summary)
+
+These policies are persistent — every new session should honor them automatically:
+
+1. **Scan** = three-level flow (Level 1/2 `scan.mjs` + Level 3 WebSearch) — not just zero-token.
+2. **Shortlist/ranking/queue tables** — always include `Location` column.
+3. **PDF** — auto-generate for score ≥ 3.0; skip otherwise; update report `**PDF:**` line.
+4. **Git** — commit always; push only on explicit user request.
+5. **Work auth** — F-1 OPT; prefer US; flag but don't veto non-US roles.
+6. **Batch subagents** — run in background, exhaustive prompts, verify outputs after timeouts, force-add gitignored artifacts.
+7. **Ashby pages** — don't WebFetch; use GraphQL API or aggregators.
+8. **Commit style** — lowercase type prefix + session trailer.
