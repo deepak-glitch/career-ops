@@ -20,7 +20,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5192104008 | Anthropic | Global Leader, Applied AI Architects, Beneficial Deployments
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5026097008 | Anthropic | UI Software Engineer, Claude.ai Consumer Product
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7820671 | Intercom | AI Infrastructure Engineer
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/6849119 | Intercom | Solutions Engineer
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7593406 | Intercom | Solutions Engineer - LATAM (Portuguese Speaking)
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps
@@ -29,7 +28,6 @@
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4591195005 | Glean | Public Sector Solutions Engineer, SLED
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4501783005 | Glean | Software Engineer, AI Infrastructure
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4620264005 | Glean | Strategic Solutions Engineer, East
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5843010004 | Vercel | Anti-Abuse Automation Engineer
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0
@@ -54,17 +52,13 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | Mid-Market Solutions Engineer
 - [ ] https://jobs.ashbyhq.com/legora/f81a4b5e-7ef3-4946-a147-f6c0645e98ca | Legora | Software Engineer (AI Focus)
 - [ ] https://jobs.ashbyhq.com/Wisdom%20AI/4091fbd2-b705-4414-9aef-287d7eb10d71 | Wisdom AI | Software Engineer, NLP/Machine Learning
-- [ ] https://jobs.ashbyhq.com/fastino-ai/478213e2-8cf8-4b68-9be3-9b0523119702 | fastino.ai | ML Engineer — Small Language Models
 - [ ] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer
 - [ ] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer — EMEA
 - [ ] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer
 - [ ] https://jobs.lever.co/field-ai/6fc39622-b8e9-4aab-804a-b5fc61549dc0 | FieldAI | Forward Deployed Engineer
-- [ ] https://jobs.ashbyhq.com/firecrawl/9837159c-880c-4912-87a9-dfcc2b40ba0a | Firecrawl | Software Engineer Agent
 
 ### 2026-04-21
 
-- [ ] https://jobs.ashbyhq.com/salient/5bef27e7-17b3-4ad0-93e0-9e430409acd4 | Salient | Applied AI Engineer
-- [ ] https://jobs.ashbyhq.com/generalintelligencecompany/4bc5d479-3bba-432d-887f-423847aa650a | General Intelligence Company of NY | Applied AI Engineer - Agent
 - [ ] https://jobs.ashbyhq.com/langchain/3f793a73-9b0d-456b-9a7c-16441e3e6e69 | LangChain | Deployed Engineer (Denver)
 - [ ] https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365 | Sierra | Forward Deployed Infrastructure Engineer
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5134194004 | Hightouch | Enterprise Solutions Engineer, East
@@ -73,9 +67,7 @@
 ### 2026-04-22
 
 - [ ] https://jobs.lever.co/revealtech/cdb14ea7-9ebb-47a7-a828-967675c239da | Reveal Technology | 3D Computer Vision Engineer
-- [ ] https://jobs.ashbyhq.com/monaco/448aa20c-3119-4166-a2dd-ed11b58327e3 | Monaco | AI Engineer (RAG)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074217008 | Anthropic | Research Engineer / Research Scientist, Vision
-- [ ] https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer — Full Stack AI (US-Remote)
 - [ ] https://jobs.ashbyhq.com/writer/d590e2f0-e2fe-4a02-b0e1-14f20777af13 | Writer | AI Product Manager
 - [ ] https://jobs.ashbyhq.com/oscilar/d32ee038-0f64-406e-a2c8-a83de9fe6b61 | Oscilar | AI Product Manager
 - [ ] https://jobs.ashbyhq.com/Ment/6af78f81-ca51-49bc-a530-974dca9928c6 | Ment | AI Product Manager
@@ -112,8 +104,6 @@
 - [ ] https://himalayas.app/companies/hiflylabs/jobs/ai-engineer-europe | Hiflylabs | AI Engineer (Europe Remote)
 - [ ] https://jobs.lever.co/appen-2/67603849-5e76-426d-84aa-890f5bc1bc1d | Appen | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/SymmetrySystems/ffd8af3d-b855-4e0d-b158-5e1a8a6e40dd | Symmetry Systems | Forward Deployed Engineer (L4)
-- [ ] https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743 | Quora | Software Engineer New Grad 2025-2026 - Data Infrastructure (Remote) | Remote (Quora is remote-first)
-- [ ] https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | Software Engineer - New Grad (Summer 2026) | San Francisco / Remote (verify in JD)
 
 ## Procesadas
 
@@ -177,3 +167,15 @@
 - [x] #40 | https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer | 2.9/5 | PDF ❌
 - [x] #49 | https://jobs.ashbyhq.com/synthflow/b0cb2768-ac18-42a3-94b2-5e627f24023c | Synthflow AI | Forward Deployed Engineer | 2.9/5 | PDF ❌
 - [x] #38 | https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee | LiveKit | Forward Deployed Engineer | 2.8/5 | PDF ❌
+
+<!-- Batch 5 — 2026-04-22 (New-Grad SWE + Applied AI + AI Infra) -->
+- [x] #053 | https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer - Full Stack AI | US - Remote | 4.3/5 | PDF ✅
+- [x] #055 | https://job-boards.greenhouse.io/gleanwork/jobs/4501783005 | Glean | Software Engineer, AI Infrastructure | Palo Alto, CA - Hybrid (M/W/F) | 3.8/5 | PDF ✅
+- [x] #060 | https://jobs.ashbyhq.com/monaco/448aa20c-3119-4166-a2dd-ed11b58327e3 | Monaco | AI Engineer (RAG) | San Francisco, CA - On-site | 3.8/5 | PDF ✅
+- [x] #059 | https://jobs.ashbyhq.com/generalintelligencecompany/4bc5d479-3bba-432d-887f-423847aa650a | General Intelligence Company of NY | Applied AI Engineer - Agent | New York, NY - On-site | 3.7/5 | PDF ✅
+- [x] #052 | https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | Software Engineer - New Grad (Summer 2026) | Foster City, CA - Hybrid (M/W/F) | 3.6/5 | PDF ✅
+- [x] #056 | https://jobs.ashbyhq.com/salient/5bef27e7-17b3-4ad0-93e0-9e430409acd4 | Salient | Applied AI Engineer | San Francisco, CA - On-site (4 days) | 3.5/5 | PDF ✅
+- [x] #051 | https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743 | Quora | Software Engineer New Grad 2025-2026 - Data Infrastructure | Remote - US (PT coordination hours) | 3.4/5 | PDF ✅
+- [x] #058 | https://jobs.ashbyhq.com/fastino-ai/478213e2-8cf8-4b68-9be3-9b0523119702 | fastino.ai | ML Engineer - Small Language Models | Remote / Hybrid (Palo Alto HQ) | 3.2/5 | PDF ✅
+- [x] #054 | https://job-boards.greenhouse.io/intercom/jobs/7820671 | Intercom | AI Infrastructure Engineer | Dublin, Ireland - Hybrid (3 days/week) | 2.7/5 | PDF ❌
+- [x] #057 | https://jobs.ashbyhq.com/firecrawl/9837159c-880c-4912-87a9-dfcc2b40ba0a | Firecrawl | Software Engineer Agent (AI Agents Only) | Remote / Contract | 1.5/5 | PDF ❌

@@ -2,6 +2,15 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 52 | 2026-04-22 | Replit | Software Engineer - New Grad (Summer 2026) | 3.6/5 | Evaluated | ✅ | [052](reports/052-replit-2026-04-22.md) | Hybrid Foster City; $140-180K + equity; agentic-AI new-grad fit |
+| 53 | 2026-04-22 | PerfectServe | Software Engineer - Full Stack AI (US-Remote) | 4.3/5 | Evaluated | ✅ | [053](reports/053-perfectserve-2026-04-22.md) | Best fit of batch — US-remote healthcare RAG + LLM API + HIPAA match; $130-170K; 5+ yrs stretch |
+| 54 | 2026-04-22 | Intercom | AI Infrastructure Engineer | 2.7/5 | Evaluated | ❌ | [054](reports/054-intercom-2026-04-22.md) | Skip — Dublin on-site + CUDA/Triton/Training bar; archetype mismatch |
+| 55 | 2026-04-22 | Glean | Software Engineer, AI Infrastructure | 3.8/5 | Evaluated | ✅ | [055](reports/055-glean-2026-04-22.md) | Hybrid Palo Alto M/W/F; $175-270K + equity; AI platform + agentic infra match |
+| 56 | 2026-04-22 | Salient | Applied AI Engineer | 3.5/5 | Evaluated | ✅ | [056](reports/056-salient-2026-04-22.md) | SF on-site 4-day; $180-275K + equity; voice-AI ramp; YC/a16z |
+| 57 | 2026-04-22 | Firecrawl | Software Engineer Agent (AI Agents Only) | 1.5/5 | SKIP | ❌ | [057](reports/057-firecrawl-2026-04-22.md) | Not a human role — posting is for autonomous coding agents; apply to Firecrawl human roles instead |
+| 58 | 2026-04-22 | fastino.ai | ML Engineer - Small Language Models | 3.2/5 | Evaluated | ✅ | [058](reports/058-fastino-2026-04-22.md) | Remote; SLM / GLiNER / task-specific LMs; $25M seed; comp opaque |
+| 59 | 2026-04-22 | General Intelligence Company of NY | Applied AI Engineer - Agent | 3.7/5 | Evaluated | ✅ | [059](reports/059-general-intelligence-company-2026-04-22.md) | NY on-site; $250-300K + 0.3-0.6% equity; Cofounder agent + RAG + evals match |
+| 60 | 2026-04-22 | Monaco | AI Engineer (RAG) | 3.8/5 | Evaluated | ✅ | [060](reports/060-monaco-2026-04-22.md) | SF on-site; AI-native CRM; RAG + agents + structured outputs primary match; comp opaque |
 | 31 | 2026-04-22 | Together AI | Machine Learning / Research Engineer (New Grad) | 3.5/5 | Evaluated | ✅ | [31](reports/031-together-ai-ml-2026-04-22.md) | ML/research new-grad at Together AI; strong match on Python+ML+experiments; SF on-site. |
 | 32 | 2026-04-22 | Together AI | Software Engineer (New Grad) | 3.7/5 | Evaluated | ✅ | [32](reports/032-together-ai-swe-2026-04-22.md) | Strong SWE/infra archetype; Python+FastAPI+Docker+perf; comp $150-200K; SF on-site. |
 | 33 | 2026-04-22 | AssemblyAI | Applied AI Engineer | 3.6/5 | Evaluated | ✅ | [33](reports/033-assemblyai-2026-04-22.md) | Customer-facing FDE archetype (demos/POCs); speech-AI domain gap but integration skills transfer; NYC/SF. |
@@ -52,3 +61,4 @@
 | 8 | 2026-04-20 | Zapier | Applied AI Engineer | 2.9/5 | Evaluated | ❌ | [8](reports/008-zapier-2026-04-20.md) | Senior (7+ yrs) — skip |
 | 9 | 2026-04-20 | Eigen Labs | Agentic AI Engineer | 3.3/5 | Evaluated | ✅ | [9](reports/009-eigen-labs-2026-04-20.md) | Agentic infra fit; mid-senior stretch; apply if infra-curious |
 | 10 | 2026-04-20 | Hippocratic AI | LLM Inference Engineer | 3.1/5 | Evaluated | ✅ | [10](reports/010-hippocratic-ai-2026-04-20.md) | Healthcare AI domain bonus; inference infra stretch; 5d/wk Palo Alto |
+| 51 | 2026-04-22 | Quora | Software Engineer New Grad 2025-2026 - Data Infrastructure (Remote) | 3.4/5 | Evaluated | ✅ | [51](reports/051-quora-2026-04-22.md) | Remote US new-grad data-infra; $97.6-139K published; Kafka/Iceberg/Trino adjacent-not-primary |
