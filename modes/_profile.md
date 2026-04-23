@@ -156,6 +156,24 @@ output/
 
 Skip PDF only when score < 3.0 — those are explicit "don't apply" flags.
 
+## Your Below-Threshold Cleanup
+
+After every pipeline batch completes and tracker is merged, run:
+
+```
+node cleanup-low-scores.mjs
+```
+
+This removes any evaluations scoring below 3.0 from the active tracker:
+- Row deleted from `data/applications.md`
+- Report moved to `reports/below-threshold/{same-filename}.md` (preserved for patterns analysis)
+- Any stray PDF is deleted (shouldn't exist per PDF policy, but defensive)
+- Action logged to `data/discarded.tsv` for audit
+
+Rationale: low-score roles clog the tracker and distract from high-priority apply work. Archiving (not deleting) keeps them available for `patterns` mode, which learns what archetype mismatches look like.
+
+Use `node cleanup-low-scores.mjs --dry-run` to preview without applying.
+
 ## Your Work Authorization
 
 Deepak is on **F-1 OPT** (US-based, needs visa sponsorship for long-term roles).
@@ -278,3 +296,4 @@ These policies are persistent — every new session should honor them automatica
 7. **Ashby pages** — don't WebFetch; use GraphQL API or aggregators.
 8. **Commit style** — lowercase type prefix + session trailer.
 9. **Pipeline.md format** — `### YYYY-MM-DD` subsections under Pendientes and Procesadas; every entry includes Location (Pendientes: `url | company | title | location`; Procesadas: `#NNN | url | company | role | location | score/5 | PDF ✅/❌`); scan.mjs auto-creates today's header.
+10. **Below-threshold cleanup** — after every pipeline batch, run `node cleanup-low-scores.mjs` to archive score < 3.0 entries out of applications.md into `reports/below-threshold/`.
