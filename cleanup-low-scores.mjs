@@ -13,6 +13,7 @@ import { join } from 'path';
 
 const DRY = process.argv.includes('--dry-run');
 const APPLICATIONS = 'data/applications.md';
+const PIPELINE = 'data/pipeline.md';
 const DISCARDED_LOG = 'data/discarded.tsv';
 const ARCHIVE_DIR = 'reports/below-threshold';
 const THRESHOLD = 3.0;
@@ -50,22 +51,31 @@ for (const line of lines) {
 }
 
 if (discarded.length === 0) {
-  console.log('✅ No entries below threshold. Nothing to clean.');
-  process.exit(0);
-}
-
-console.log(`Found ${discarded.length} entries below ${THRESHOLD}/5:`);
-for (const d of discarded) {
-  console.log(`  #${d.num}  ${d.company.padEnd(28)}  ${d.role.slice(0, 40).padEnd(40)}  ${d.score}/5`);
+  console.log('No applications.md rows below threshold.');
+} else {
+  console.log(`Found ${discarded.length} applications.md entries below ${THRESHOLD}/5:`);
+  for (const d of discarded) {
+    console.log(`  #${d.num}  ${d.company.padEnd(28)}  ${d.role.slice(0, 40).padEnd(40)}  ${d.score}/5`);
+  }
 }
 
 if (DRY) {
+  // Also preview pipeline.md sweep
+  if (existsSync(PIPELINE)) {
+    const pText = readFileSync(PIPELINE, 'utf-8');
+    let pBelow = 0;
+    for (const line of pText.split('\n')) {
+      const m = line.match(/^-\s*\[x\][^|]*\|.+?\|.+?\|.+?(?:\|.+?){1,2}\|\s*([\d.]+)\/5/);
+      if (m && parseFloat(m[1]) < THRESHOLD) pBelow++;
+    }
+    console.log(`\n${PIPELINE} Procesadas would have ${pBelow} row(s) removed.`);
+  }
   console.log('\n(dry run — re-run without --dry-run to apply)');
   process.exit(0);
 }
 
-// Rewrite applications.md without the low-score rows
-writeFileSync(APPLICATIONS, kept.join('\n'), 'utf-8');
+// Rewrite applications.md without the low-score rows (only if we found any)
+if (discarded.length > 0) writeFileSync(APPLICATIONS, kept.join('\n'), 'utf-8');
 
 // Move each report file to archive + log to discarded.tsv + delete any stray PDF
 for (const d of discarded) {
@@ -89,6 +99,27 @@ for (const d of discarded) {
   // Log
   const row = [today, d.num, d.evalDate, d.company, d.role, `${d.score}/5`, d.status, d.reportPath, d.note].join('\t');
   appendFileSync(DISCARDED_LOG, row + '\n');
+}
+
+// ── Also remove from pipeline.md Procesadas ────────────────────────
+// Line format: - [x] #NNN | url | Company | Role | Location | score/5 | PDF ✅/❌
+// (older entries may omit Location; regex tolerates both.)
+if (existsSync(PIPELINE)) {
+  const pText = readFileSync(PIPELINE, 'utf-8');
+  const pLines = pText.split('\n');
+  const pKept = [];
+  let pRemoved = 0;
+  for (const line of pLines) {
+    // Match any Procesadas row with a score token, regardless of Location column presence
+    const scoreMatch = line.match(/^-\s*\[x\].*\|\s*([\d.]+)\/5\s*\|/);
+    if (scoreMatch && parseFloat(scoreMatch[1]) < THRESHOLD) {
+      pRemoved++;
+      continue;
+    }
+    pKept.push(line);
+  }
+  writeFileSync(PIPELINE, pKept.join('\n'), 'utf-8');
+  console.log(`\n✅ Removed ${pRemoved} below-threshold row(s) from ${PIPELINE} Procesadas`);
 }
 
 console.log(`\n✅ Moved ${discarded.length} report(s) to ${ARCHIVE_DIR}/`);
