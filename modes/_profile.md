@@ -131,6 +131,17 @@ After every pipeline / auto-pipeline evaluation, **always generate a tailored AT
 3. Run `node generate-pdf.mjs <tmp.html> output/cv-deepak-mallampati-{slug}-{YYYY-MM-DD}.pdf`.
 4. Update the report's `**PDF:**` line with the actual path (or "Not generated (score < 3.0)" if below).
 
+**Style contract (enforced by `templates/cv-template.html`):**
+- Font: **Times New Roman** everywhere (body, headings, bullets)
+- Color: **plain black (#000)** only — no gradients, no tag backgrounds, no colored section titles
+- Section titles: uppercase, black, single-pixel black underline
+- Competencies: bullet-separated inline list (no pill tags)
+- Centered header with a single horizontal rule under the name
+- Italic for dates, role titles, orgs, tech stacks (traditional serif resume style)
+- 1-2 page max, ATS-friendly (no icons, no two-column layouts)
+
+Do NOT reintroduce colors, sans-serif fonts, gradients, or pill tag backgrounds — the user explicitly chose the plain traditional look.
+
 Skip PDF only when score < 3.0 — those are explicit "don't apply" flags.
 
 ## Your Work Authorization
