@@ -71,26 +71,6 @@
 - [ ] https://jobs.ashbyhq.com/hopper/24380cbc-bb55-4c1e-b2dd-4420ae9e3eea | Hopper | Forward Deployed Engineer, HTS Assist
 - [ ] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships
 - [ ] https://jobs.ashbyhq.com/pareto-ai/911f9f26-cff1-4383-a8d1-a9c243972548 | Pareto.AI | Forward Deployed Software Engineer
-- [ ] https://jobs.ashbyhq.com/fastino-ai/d0fe2e39-6cf2-4972-8266-461bd447468a | fastino.ai | AI Engineer
-- [ ] https://jobs.ashbyhq.com/tessera-labs/0cb577c2-6cdd-4361-b1af-870ccfc9d792 | Tessera Labs | AI Agent Engineer
-- [ ] https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer
-- [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer
-- [ ] https://job-boards.greenhouse.io/caylent/jobs/5973733004 | Caylent | Forward Deployed Engineer
-- [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/4980238007 | Defense Unicorns | Forward Deployed AI Engineer
-- [ ] https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4001057009 | Rhino Federated Computing | Forward Deployed Engineer — AI
-- [ ] https://jobs.ashbyhq.com/decagon/8c40fb7a-5f25-4112-a1df-f1c22b81042c | Decagon | Customer Engineer, Agent Builder
-- [ ] https://jobs.ashbyhq.com/deepgram/8884965c-8a55-414c-ba86-a52d527f5dff | Deepgram | Solutions Engineer, Enterprise
-- [ ] https://jobs.ashbyhq.com/salient/a213eea8-ef18-40cb-b693-67ca3900c7fb | Salient | Forward Deployed Software Engineer
-- [ ] https://jobs.ashbyhq.com/Known/032dee42-0fd3-47fd-9ca7-90632a4c59f8 | Known | Conversational AI Engineer, System Prompt
-- [ ] https://jobs.ashbyhq.com/synthflow/5e7b11f1-b915-46f2-bab4-ec2782118373 | Synthflow AI | Forward Deployed Engineer
-- [ ] https://job-boards.greenhouse.io/labelbox/jobs/4640927007 | Labelbox | Forward Deployed Engineer
-- [ ] https://www.workatastartup.com/jobs/74608 | Extend | Forward Deployed Engineer
-- [ ] https://www.workatastartup.com/jobs/87890 | Dot | Forward Deployed AI Engineer (remote)
-- [ ] https://www.workatastartup.com/jobs/74124 | Strada | Founding Forward Deployed Engineer
-- [ ] https://www.workatastartup.com/jobs/79989 | Novoflow | Founding Forward Deployed Engineer
-- [ ] https://www.workatastartup.com/jobs/78325 | Giga | Forward Deployed Engineer
-- [ ] https://www.workatastartup.com/jobs/74510 | Reform | Founding Forward Deployed Engineer
-- [ ] https://www.workatastartup.com/jobs/65171 | Promise | Forward Deployed Software Engineer
 - [ ] https://apply.workable.com/rockstar-3/j/09A882D2B1/apply/ | Rockstar | Applied AI Engineer
 - [ ] https://apply.workable.com/rockstar-3/j/BCA5FABEFC/apply/ | Rockstar | Founding AI Engineer
 - [ ] https://himalayas.app/companies/hiflylabs/jobs/ai-engineer-europe | Hiflylabs | AI Engineer (Europe Remote)
@@ -187,3 +167,15 @@
 - [x] #064 | https://job-boards.greenhouse.io/vercel/jobs/5704321004 | Vercel | Software Engineer, Agent | Hybrid — SF or NYC (M/T/F anchor) | 2.9/5 | PDF ❌
 - [x] #070 | https://appsilon-1739358905.teamtailor.com/jobs/6902765-ai-engineer | Appsilon | AI Engineer | Remote worldwide — Poland employment framework | 2.8/5 | PDF ❌
 - [x] #066 | https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365 | Sierra | Forward Deployed Infrastructure Engineer | San Francisco, CA — On-site | 2.7/5 | PDF ❌
+
+<!-- Batch 7B — 2026-04-22 (AI Engineers + FDE + Agent Builders) -->
+- [x] #081 | https://jobs.ashbyhq.com/fastino-ai/d0fe2e39-6cf2-4972-8266-461bd447468a | Fastino | AI Engineer | Remote (Palo Alto HQ) | 4.0/5 | PDF ✅
+- [x] #090 | https://jobs.ashbyhq.com/salient/a213eea8-ef18-40cb-b693-67ca3900c7fb | Salient | Forward Deployed Software Engineer | San Francisco, CA — On-site 4 days/week | 3.8/5 | PDF ✅
+- [x] #088 | https://jobs.ashbyhq.com/decagon/8c40fb7a-5f25-4112-a1df-f1c22b81042c | Decagon | Customer Engineer, Agent Builder | San Francisco / NYC — In-office | 3.5/5 | PDF ✅
+- [x] #082 | https://jobs.ashbyhq.com/tessera-labs/0cb577c2-6cdd-4361-b1af-870ccfc9d792 | Tessera Labs | AI Agent Engineer | San Jose, CA — On-site HQ | 3.3/5 | PDF ✅
+- [x] #087 | https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4001057009 | Rhino Federated Computing | Forward Deployed Engineer - AI | Boston, MA | 3.2/5 | PDF ✅
+- [x] #083 | https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer | Remote US | 2.8/5 | PDF ❌
+- [x] #089 | https://jobs.ashbyhq.com/deepgram/8884965c-8a55-414c-ba86-a52d527f5dff | Deepgram | Solutions Engineer, Enterprise | New York City (remote-first) + 50% travel | 2.8/5 | PDF ❌
+- [x] #084 | https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer | Lisbon / Europe-remote — non-US | 2.7/5 | PDF ❌
+- [x] #085 | https://job-boards.greenhouse.io/caylent/jobs/5973733004 | Caylent | Forward Deployed Engineer | Canada-remote + no sponsorship | 2.3/5 | PDF ❌
+- [x] #086 | https://job-boards.greenhouse.io/defenseunicorns/jobs/4980238007 | Defense Unicorns | Forward Deployed AI Engineer | US-remote — US Citizenship required | 1.8/5 | PDF ❌

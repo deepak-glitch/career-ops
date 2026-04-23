@@ -102,6 +102,26 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **Reflection:** Orchestration at compliance scale is less about clever prompts and more about three architectural decisions made up front: (1) contract between agents/services, (2) audit trail per decision, (3) rollback path per stage. Healthcare taught the first two; Emerson taught the third.
 **Best for questions about:** Agent orchestration, regulated enterprise, compliance + audit, fault tolerance, insurance/healthcare/finance AI, multi-agent reliability, Forward Deployed AI in enterprise.
 
+<!-- Stories added from 2026-04-22 batch 7B -->
+
+### [Inference Reliability] Provider Quirks as a First-Class Design Surface — Manga Lens Payload Engineering
+**Source:** Reports #081 Fastino, #088 Decagon, #090 Salient
+**S (Situation):** Manga Lens needed to swap between four LLM vision providers (Claude Sonnet, GPT-4o mini, GPT-4.1 Nano, Ollama local) with different payload quirks — Ollama crashed on WebP (CUDA-level), cloud providers accepted WebP but were slower with JPEG, rate limits + retry semantics differed per provider.
+**T (Task):** Build a stable, real-time capture + translation pipeline that doesn't collapse when any single provider misbehaves, across 29 manga/webtoon sites.
+**A (Action):** Designed per-provider payload rules (WebP for cloud, JPEG for Ollama), coordinate-remapped viewport-slice screenshots for tall webtoon panels, deduplication across slices, a shared seven-day translation cache keyed by (image-hash + provider), and per-domain selector configs for 29 sites. Worst-case failure isolation — one provider's CUDA crash never takes down the user-facing extension.
+**R (Result):** Shipped to Chrome Web Store; provider swaps are one-line changes; inference stability held across production usage.
+**Reflection:** The customer never sees "my LLM provider had a bad day" — they see a broken product. Provider-specific quirks aren't implementation details; they are the job. Design for the worst provider's failure mode, not the best.
+**Best for questions about:** Inference reliability, multi-provider integration, production LLM systems, agentic system stability, shipping discipline, end-to-end delivery.
+
+### [Federated Learning Adjacency] HIPAA Governance as Precursor to Distributed Training
+**Source:** Reports #087 Rhino Federated Computing
+**S (Situation):** Progress Solutions healthcare RAG and ML needed to respect HIPAA while still improving in production. Raw EHR extracts were not shareable; downstream models drifted when preprocessing was inconsistent.
+**T (Task):** Ship measurable production AI (retrieval precision gains, risk-recall gains) without ever compromising patient data governance — and in a way that would generalize to future distributed/federated workflows.
+**A (Action):** De-identification + data lineage documentation + evaluation audit trails + stakeholder-facing system-limitation docs as first-class artifacts (not an afterthought). EHR preprocessing pipelines that raised dataset reliability above 98% and cut downstream model instability ~40%. Every model came with a published limitation doc so clinicians knew where it could and couldn't be trusted.
+**R (Result):** Retrieval precision ~35%, hallucination reduction >30%, recall +15-20% on high-risk categories, post-deploy defects ~30% reduced — all under HIPAA-conscious governance.
+**Reflection:** Federated learning isn't a new paradigm — it's the same governance muscle extended to distributed training. If you've built the lineage + audit + limitation-docs discipline centralized, you're most of the way to doing it federated. The new parts are secure aggregation and privacy-preserving eval; the governance mindset transfers directly.
+**Best for questions about:** Federated learning, privacy-preserving AI, HIPAA, healthcare AI, data governance, customer delivery, regulated vertical engineering.
+
 <!-- Format:
 ### [Theme] Story Title
 **Source:** Report #NNN — Company — Role
