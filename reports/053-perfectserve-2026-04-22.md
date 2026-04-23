@@ -7,7 +7,7 @@
 **Legitimacy:** High Confidence
 **Location:** US — **Remote-first**. 5+ years SWE required.
 **Verification:** confirmed (WebFetch Greenhouse direct)
-**PDF:** output/cv-deepak-mallampati-perfectserve-2026-04-22.pdf
+**PDF:** output/2026-04-22/cv-deepak-mallampati-perfectserve-2026-04-22.pdf
 **Date:** 2026-04-22
 
 ---

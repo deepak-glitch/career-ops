@@ -7,7 +7,7 @@
 **Legitimacy:** High Confidence
 **Location:** New York — **On-site**. 4+ yrs backend engineering preferred.
 **Verification:** confirmed (Ashby GraphQL direct — full description, $250-$300K + 0.3-0.6% equity)
-**PDF:** output/cv-deepak-mallampati-general-intelligence-company-2026-04-22.pdf
+**PDF:** output/2026-04-22/cv-deepak-mallampati-general-intelligence-company-2026-04-22.pdf
 **Date:** 2026-04-22
 
 ---

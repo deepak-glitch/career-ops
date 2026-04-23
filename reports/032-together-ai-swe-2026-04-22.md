@@ -5,7 +5,7 @@
 **Location:** San Francisco, CA (on-site)
 **Legitimacy:** High Confidence
 **Verification:** confirmed (WebSearch mirror)
-**PDF:** output/cv-deepak-mallampati-together-ai-swe-2026-04-22.pdf
+**PDF:** output/2026-04-22/cv-deepak-mallampati-together-ai-swe-2026-04-22.pdf
 **Date:** 2026-04-22
 
 ---

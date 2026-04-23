@@ -247,7 +247,12 @@ let done = 0, failed = [];
 for (const [slug, reportPath] of REGEN) {
   const html = buildHtml(slug, reportPath);
   const tmpPath = `/tmp/cv-${slug}-regen.html`;
-  const pdfPath = `output/cv-deepak-mallampati-${slug}.pdf`;
+  // Extract YYYY-MM-DD from slug tail (e.g., "distyl-2026-04-20" -> "2026-04-20")
+  const dateMatch = slug.match(/(2026-\d{2}-\d{2})$/);
+  const dateFolder = dateMatch ? dateMatch[1] : 'misc';
+  const pdfDir = `output/${dateFolder}`;
+  execSync(`mkdir -p "${pdfDir}"`);
+  const pdfPath = `${pdfDir}/cv-deepak-mallampati-${slug}.pdf`;
   writeFileSync(tmpPath, html, 'utf-8');
   try {
     execSync(`node generate-pdf.mjs "${tmpPath}" "${pdfPath}"`, { stdio: ['ignore', 'ignore', 'ignore'] });

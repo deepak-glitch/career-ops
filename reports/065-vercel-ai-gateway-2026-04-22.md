@@ -6,7 +6,7 @@
 **URL:** https://job-boards.greenhouse.io/vercel/jobs/5798406004
 **Legitimacy:** High Confidence
 **Location:** Hybrid — San Francisco or New York City (anchor M/T/F)
-**PDF:** output/cv-deepak-mallampati-vercel-ai-gateway-2026-04-22.pdf
+**PDF:** output/2026-04-22/cv-deepak-mallampati-vercel-ai-gateway-2026-04-22.pdf
 
 ---
 

@@ -128,8 +128,8 @@ After every pipeline / auto-pipeline evaluation, **always generate a tailored AT
 
 1. Read the report's Block B/D (archetype + JD hooks) and the full JD snapshot.
 2. Tailor `templates/cv-template.html`: Summary mirrors JD phrasing, bullets reorder to match JD priorities, hero metrics pulled from `cv.md` + `article-digest.md` (never invented).
-3. Run `node generate-pdf.mjs <tmp.html> output/cv-deepak-mallampati-{slug}-{YYYY-MM-DD}.pdf`.
-4. Update the report's `**PDF:**` line with the actual path (or "Not generated (score < 3.0)" if below).
+3. Run `node generate-pdf.mjs <tmp.html> output/{YYYY-MM-DD}/cv-deepak-mallampati-{slug}-{YYYY-MM-DD}.pdf` (the date folder MUST exist; create it with `mkdir -p` first if needed — evaluation date is the date in the report header `**Fecha:**` field).
+4. Update the report's `**PDF:**` line with the actual path `output/{YYYY-MM-DD}/cv-...` (or "Not generated (score < 3.0)" if below).
 
 **Style contract (enforced by `templates/cv-template.html`):**
 - Font: **Times New Roman** everywhere (body, headings, bullets)
@@ -141,6 +141,18 @@ After every pipeline / auto-pipeline evaluation, **always generate a tailored AT
 - 1-2 page max, ATS-friendly (no icons, no two-column layouts)
 
 Do NOT reintroduce colors, sans-serif fonts, gradients, or pill tag backgrounds — the user explicitly chose the plain traditional look.
+
+**Output folder structure:** PDFs live under `output/{YYYY-MM-DD}/` subfolders (by evaluation date), not at the top level. Current layout:
+
+```
+output/
+├── 2026-04-20/   # batch 1 reports (#001-010)
+├── 2026-04-21/   # batches 2-3 reports (#011-030)
+├── 2026-04-22/   # batches 4-6 reports (#031-070)
+└── ...           # future dates
+```
+
+`regen-all.mjs` and future scripts must place PDFs in the matching date folder. Don't write bare `output/*.pdf` files.
 
 Skip PDF only when score < 3.0 — those are explicit "don't apply" flags.
 
