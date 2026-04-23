@@ -47,7 +47,6 @@
 - [ ] https://jobs.ashbyhq.com/lakera.ai/792d73ef-829e-460b-9d90-f08890a5b6f6 | Lakera | Solutions Engineer (Italy)
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | Mid-Market Solutions Engineer
 - [ ] https://jobs.ashbyhq.com/legora/f81a4b5e-7ef3-4946-a147-f6c0645e98ca | Legora | Software Engineer (AI Focus)
-- [ ] https://jobs.ashbyhq.com/Wisdom%20AI/4091fbd2-b705-4414-9aef-287d7eb10d71 | Wisdom AI | Software Engineer, NLP/Machine Learning
 - [ ] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer
 - [ ] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer — EMEA
 - [ ] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer
@@ -61,6 +60,10 @@
 
 ### 2026-04-22
 
+### 2026-04-23
+
+- [!] https://weassist-io.breezy.hr/p/b566c6f24fd7-internal-ai-engineer | WeAssist.io | Internal AI Engineer | Remote — duplicate of #107 (already archived below-threshold 2026-04-22); not re-evaluated
+- [!] https://mechanizedai.breezy.hr/p/6bcfb99640f0-machine-learning-engineer | Mechanized AI | Machine Learning Engineer | Remote — error: posting closed (Breezy "Position Closed")
 
 ## Procesadas
 
@@ -166,3 +169,14 @@
 - [x] #077 | https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer | San Francisco, CA — On-site 5 days/week | 3.8/5 | PDF ✅
 - [x] #078 | https://jobs.ashbyhq.com/hopper/24380cbc-bb55-4c1e-b2dd-4420ae9e3eea | Hopper | Forward Deployed Engineer, HTS Assist | Canada Remote (primary) / US Remote (secondary) | 3.7/5 | PDF ✅
 - [x] #076 | https://jobs.ashbyhq.com/zapier/cac70300-4e62-4299-bc34-aab69e7498f4 | Zapier | AI Automation Expert | Fully Remote (Zapier 40+ countries) — verify US + OPT | 3.5/5 | PDF ✅
+
+### 2026-04-23
+
+- [x] #115 | https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer (new grads ok) | San Francisco HQ / Remote US for exceptional candidates — YC + a16z $25M Series A | 4.3/5 | PDF ✅
+- [x] #112 | https://careers.salesforce.com/en/jobs/jr312405/ai-forward-deployed-engineer-early-career/ | Salesforce | AI Forward Deployed Engineer (Early Career) | US multi-city + 10+ Remote US state variants — F-1 OPT friendly | 4.2/5 | PDF ✅
+- [x] #113 | https://www.databricks.com/company/careers/professional-services-operations/ai-engineer---fde-forward-deployed-engineer-8335860002 | Databricks | AI Engineer - FDE | Remote US — Mosaic AI team; F-1 OPT friendly | 3.7/5 | PDF ✅
+- [x] #118 | https://jobs.ashbyhq.com/Wisdom%20AI/4091fbd2-b705-4414-9aef-287d7eb10d71 | WisdomAI | Software Engineer, NLP/Machine Learning | San Mateo, CA — hybrid (verify on-site expectation) | 3.7/5 | PDF ✅
+- [x] #117 | https://www.workatastartup.com/jobs/77891 | Synth | Founding Forward Deployed AI/Product Engineer | YC F24 — location TBD (verify SF on-site) | 3.6/5 | PDF ✅
+- [x] #114 | https://jobs.ashbyhq.com/llamaindex/fd7a074f-7d80-44b7-8520-8ac787387e92 | LlamaIndex | Multimodal AI Engineer, Document Understanding | San Francisco (hybrid) / Remote for exceptional fits — $180-250K | 3.6/5 | PDF ✅
+- [x] #116 | https://www.workatastartup.com/jobs/73417 | Retell AI | Founding Forward Deployed AI Engineer | Likely SF in-person (verify) — $10M ARR voice-agent platform | 3.4/5 | PDF ✅
+- [x] #111 | https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7 | Mistral AI | Applied AI, Forward Deployed ML Engineer — CSI EMEA | Paris, France — CDI on-site/hybrid — F-1 OPT + EU work permit blocker | 3.0/5 | PDF ✅

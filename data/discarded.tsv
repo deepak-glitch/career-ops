@@ -27,3 +27,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-04-23	13	2026-04-21	Kikoff	Software Engineer — Recent Grad 2026	2.8/5	Evaluated	reports/013-kikoff-2026-04-21.md	Off-archetype (consumer fintech SWE, Ruby/Flutter stack gap); one source says closed — do not apply.
 2026-04-23	2	2026-04-20	Perplexity	AI Engineer, Applied ML	2.8/5	Evaluated	reports/002-perplexity-2026-04-20.md	Senior (5+ yrs) — skip, below threshold
 2026-04-23	8	2026-04-20	Zapier	Applied AI Engineer	2.9/5	Evaluated	reports/008-zapier-2026-04-20.md	Senior (7+ yrs) — skip
+2026-04-23	120	2026-04-23	Sierra	TLM, Agent	2.3/5	Evaluated	reports/110-sierra-tlm-agent-2026-04-23.md	NYC on-site; $280-410K engineering-management role (TLM = Tech Lead Manager); requires experience leading engineering teams — hard level mismatch for 2.5 yr IC. Archive.
