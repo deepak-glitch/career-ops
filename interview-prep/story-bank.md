@@ -132,3 +132,23 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **Reflection:** What I learned / what I'd do differently
 **Best for questions about:** [list of question types this story answers]
 -->
+
+<!-- Stories added from 2026-04-22 batch 7C -->
+
+### [Healthcare Clinic Deployment] Patient No-Show + Care Engagement Scoring as a Clinic-Ready ML Pattern
+**Source:** Reports #097 Novoflow, #100 Promise
+**S (Situation):** Progress Solutions needed predictive ML that clinics could actually use — accurate enough for triage, transparent enough for audit, and deployable in environments where raw EHR access was gated by HIPAA.
+**T (Task):** Ship patient no-show prediction, care engagement scoring, and support prioritization with measurable recall gains on high-risk categories while holding precision high enough that downstream staff trusted the flags.
+**A (Action):** scikit-learn + XGBoost pipelines with class weighting, stratified sampling, and threshold calibration. Fed with EHR preprocessing pipelines (Pandas + NumPy) that pushed dataset reliability above 98% and cut downstream model instability by ~40%. Wrapped in FastAPI services with structured logging + load simulation, containerized via Docker. Every model shipped with a stakeholder-facing limitation doc so care teams knew where the model was confident vs. uncertain.
+**R (Result):** Recall +15-20% on high-risk categories with precision held >90%. Post-deploy defects ~30% reduced. Stakeholder sign-off sustained; care teams adopted the flags into their workflow rather than bypassing them.
+**Reflection:** In regulated vertical ML, you're not shipping a model — you're shipping a model + calibration + limitation doc + audit trail. Precision and recall alone don't earn adoption; trust does. Calibration and transparency are the levers.
+**Best for questions about:** Healthcare AI deployment, clinic workflows, predictive ML in regulated vertical, EHR integration, patient risk, calibration + threshold tuning, stakeholder adoption, HIPAA-conscious governance.
+
+### [Document Extraction] Schema-Validated Multi-Agent Pipelines as a Document-AI Pattern
+**Source:** Reports #094 Extend, #097 Novoflow, #099 Reform, #093 Labelbox
+**S (Situation):** Healthcare claims processing needed reliable, audit-ready LLM reasoning across messy, regulated, document-heavy workflows. A single-prompt approach was brittle; cascading hallucinations from stage to stage were the #1 failure mode in early pilots.
+**T (Task):** Design a multi-stage agent pipeline that resists cascading hallucinations while still being explainable to human reviewers and fast enough for production.
+**A (Action):** Built a 5-stage pipeline — Intake Normalization → Validation → Consistency Analysis → Duplicate Detection → Fraud Risk Scoring — with schema-validated JSON contracts as hard gates between every agent. Any stage rejecting malformed input from the previous stage surfaced the issue explicitly instead of silently propagating it. RAG over a vector-indexed CPT/ICD policy corpus grounded validation decisions. Approximate-nearest-neighbor similarity search for duplicate-claim detection. Audit-ready reasoning traces on every decision, not just on the final verdict.
+**R (Result):** >30% hallucination reduction, ~25% response-stability gain. Output was explainable end-to-end, which was the unlock for regulated-domain stakeholder sign-off.
+**Reflection:** Free-form handoffs between agents are the highest-leverage anti-pattern in LLM pipelines. Schema contracts are cheap to write, expensive to skip. Once agents can only communicate in validated, typed messages, debugging becomes local and the pipeline becomes auditable by construction.
+**Best for questions about:** Multi-agent systems, LLM document processing, schema contracts, RAG grounding, audit + compliance, enterprise LLM deployment, FDE into regulated verticals.

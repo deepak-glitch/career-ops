@@ -71,15 +71,6 @@
 - [ ] https://jobs.ashbyhq.com/hopper/24380cbc-bb55-4c1e-b2dd-4420ae9e3eea | Hopper | Forward Deployed Engineer, HTS Assist
 - [ ] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships
 - [ ] https://jobs.ashbyhq.com/pareto-ai/911f9f26-cff1-4383-a8d1-a9c243972548 | Pareto.AI | Forward Deployed Software Engineer
-- [ ] https://apply.workable.com/rockstar-3/j/09A882D2B1/apply/ | Rockstar | Applied AI Engineer
-- [ ] https://apply.workable.com/rockstar-3/j/BCA5FABEFC/apply/ | Rockstar | Founding AI Engineer
-- [ ] https://himalayas.app/companies/hiflylabs/jobs/ai-engineer-europe | Hiflylabs | AI Engineer (Europe Remote)
-- [ ] https://jobs.lever.co/appen-2/67603849-5e76-426d-84aa-890f5bc1bc1d | Appen | Forward Deployed Engineer
-- [ ] https://jobs.lever.co/SymmetrySystems/ffd8af3d-b855-4e0d-b158-5e1a8a6e40dd | Symmetry Systems | Forward Deployed Engineer (L4)
-- [ ] https://elsa.teamtailor.com/jobs/7340954-ai-engineer-remote | ELSA | AI Engineer (Remote) | Remote (verify country)
-- [ ] https://weassist-io.breezy.hr/p/b566c6f24fd7-internal-ai-engineer | WeAssist.io | Internal AI Engineer | Permanent remote (global)
-- [ ] https://kindgeeks.breezy.hr/p/bbc12d89e3c4-trainee-junior-ai-engineer | Kindgeek | Trainee/Junior AI Engineer | Remote (Ukraine outsourcing — verify US-remote + OPT sponsorship)
-- [ ] https://kindgeeks.breezy.hr/p/f3c9fdb8b9fd-trainee-junior-ai-integrator | Kindgeek | Trainee/Junior AI Integrator | Remote (Zapier/Make/n8n automation — verify US eligibility)
 
 ## Procesadas
 
@@ -179,3 +170,26 @@
 - [x] #084 | https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer | Lisbon / Europe-remote — non-US | 2.7/5 | PDF ❌
 - [x] #085 | https://job-boards.greenhouse.io/caylent/jobs/5973733004 | Caylent | Forward Deployed Engineer | Canada-remote + no sponsorship | 2.3/5 | PDF ❌
 - [x] #086 | https://job-boards.greenhouse.io/defenseunicorns/jobs/4980238007 | Defense Unicorns | Forward Deployed AI Engineer | US-remote — US Citizenship required | 1.8/5 | PDF ❌
+
+<!-- Batch 7C — 2026-04-22 (Conversational + FDE + YC Founding FDE) -->
+- [x] #097 | https://www.workatastartup.com/jobs/79989 | Novoflow | Founding Forward Deployed Engineer | Remote US (SF HQ with optional hackerhouse) | 4.2/5 | PDF ✅
+- [x] #093 | https://job-boards.greenhouse.io/labelbox/jobs/4640927007 | Labelbox | Forward Deployed Engineer | San Francisco Bay Area — Hybrid 2d/wk (Wrocław option) | 3.9/5 | PDF ✅
+- [x] #094 | https://www.workatastartup.com/jobs/74608 | Extend | Forward Deployed Engineer | New York, NY — In-Person | 3.8/5 | PDF ✅
+- [x] #091 | https://jobs.ashbyhq.com/Known/032dee42-0fd3-47fd-9ca7-90632a4c59f8 | Known | Conversational AI Engineer, System Prompt | San Francisco, CA (Cow Hollow) — In-Person | 3.5/5 | PDF ✅
+- [x] #098 | https://www.workatastartup.com/jobs/78325 | Giga | Forward Deployed Engineer | San Francisco, CA — 100% In-Office | 3.5/5 | PDF ✅
+- [x] #096 | https://www.workatastartup.com/jobs/74124 | Strada | Founding Forward Deployed Engineer | San Francisco, CA — On-site | 3.4/5 | PDF ✅
+- [x] #099 | https://www.workatastartup.com/jobs/74510 | Reform | Founding Forward Deployed Engineer | San Francisco, CA — On-site | 3.3/5 | PDF ✅
+- [x] #095 | https://www.workatastartup.com/jobs/87890 | Dot | Forward Deployed AI Engineer (remote) | Remote (Berlin HQ — US eligibility unclear) | 3.0/5 | PDF ✅
+- [x] #100 | https://www.workatastartup.com/jobs/65171 | Promise | Forward Deployed Software Engineer | Washington DC / Oakland CA — Hybrid 3d/wk | 3.0/5 | PDF ✅
+- [x] #092 | https://jobs.ashbyhq.com/synthflow/5e7b11f1-b915-46f2-bab4-ec2782118373 | Synthflow AI | Forward Deployed Engineer | Berlin, Germany — Remote-first (German required) | 2.4/5 | PDF ❌
+
+<!-- Batch 7D — 2026-04-22 (Workable / Himalayas / Lever / TeamTailor / BreezyHR — off-the-beaten-ATS batch) -->
+- [x] #104 | https://jobs.lever.co/appen-2/67603849-5e76-426d-84aa-890f5bc1bc1d | Appen | Forward Deployed Engineer | Remote US — full-time $150-200K + incentive | 3.7/5 | PDF ✅
+- [x] #101 | https://apply.workable.com/rockstar-3/j/09A882D2B1/apply/ | Rockstar (PE AI impl client) | Applied AI Engineer | Remote (US-leaning; verify with recruiter — JD meta-excerpt only) | 3.4/5 | PDF ✅
+- [x] #106 | https://elsa.teamtailor.com/jobs/7340954-ai-engineer-remote | ELSA | AI Engineer (Remote) | Fully Remote — ELSA US-HQ SF w/ Vietnam/Portugal/etc. ops; confirm US-W2 + F-1 OPT with recruiter | 3.3/5 | PDF ✅
+- [x] #105 | https://jobs.lever.co/SymmetrySystems/ffd8af3d-b855-4e0d-b158-5e1a8a6e40dd | Symmetry Systems | Forward Deployed Engineer (L4) | Remote US — full-time | 3.2/5 | PDF ✅
+- [x] #102 | https://apply.workable.com/rockstar-3/j/BCA5FABEFC/apply/ | Rockstar (YC/8VC client) | Founding AI Engineer | Israel-remote (mirrored jobs.workable.com listing) — F-1 OPT blocker | 2.8/5 | PDF ❌
+- [x] #103 | https://himalayas.app/companies/hiflylabs/jobs/ai-engineer-europe | Hiflylabs | AI Engineer (Europe Remote) | Europe-only contractor (Hungary TZ) — F-1 OPT blocker + 5+ yr senior floor | 2.6/5 | PDF ❌
+- [x] #107 | https://weassist-io.breezy.hr/p/b566c6f24fd7-internal-ai-engineer | WeAssist.io | Internal AI Engineer | Global-contractor remote (posting Closed) — F-1 OPT blocker + no-code skill gap | 2.5/5 | PDF ❌
+- [x] #108 | https://kindgeeks.breezy.hr/p/bbc12d89e3c4-trainee-junior-ai-engineer | Kindgeek | Trainee/Junior AI Engineer | Lviv, Ukraine hybrid (posting Closed) — F-1 OPT blocker + overqualified | 2.2/5 | PDF ❌
+- [x] #109 | https://kindgeeks.breezy.hr/p/f3c9fdb8b9fd-trainee-junior-ai-integrator | Kindgeek | Trainee/Junior AI Integrator | Lviv, Ukraine hybrid (posting Closed) — F-1 OPT blocker + no-code skill gap | 2.2/5 | PDF ❌
