@@ -61,16 +61,6 @@
 
 ### 2026-04-22
 
-- [ ] https://jobs.lever.co/revealtech/cdb14ea7-9ebb-47a7-a828-967675c239da | Reveal Technology | 3D Computer Vision Engineer
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074217008 | Anthropic | Research Engineer / Research Scientist, Vision
-- [ ] https://jobs.ashbyhq.com/writer/d590e2f0-e2fe-4a02-b0e1-14f20777af13 | Writer | AI Product Manager
-- [ ] https://jobs.ashbyhq.com/oscilar/d32ee038-0f64-406e-a2c8-a83de9fe6b61 | Oscilar | AI Product Manager
-- [ ] https://jobs.ashbyhq.com/Ment/6af78f81-ca51-49bc-a530-974dca9928c6 | Ment | AI Product Manager
-- [ ] https://jobs.ashbyhq.com/zapier/cac70300-4e62-4299-bc34-aab69e7498f4 | Zapier | AI Automation Expert
-- [ ] https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer
-- [ ] https://jobs.ashbyhq.com/hopper/24380cbc-bb55-4c1e-b2dd-4420ae9e3eea | Hopper | Forward Deployed Engineer, HTS Assist
-- [ ] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships
-- [ ] https://jobs.ashbyhq.com/pareto-ai/911f9f26-cff1-4383-a8d1-a9c243972548 | Pareto.AI | Forward Deployed Software Engineer
 
 ## Procesadas
 
@@ -193,3 +183,15 @@
 - [x] #107 | https://weassist-io.breezy.hr/p/b566c6f24fd7-internal-ai-engineer | WeAssist.io | Internal AI Engineer | Global-contractor remote (posting Closed) — F-1 OPT blocker + no-code skill gap | 2.5/5 | PDF ❌
 - [x] #108 | https://kindgeeks.breezy.hr/p/bbc12d89e3c4-trainee-junior-ai-engineer | Kindgeek | Trainee/Junior AI Engineer | Lviv, Ukraine hybrid (posting Closed) — F-1 OPT blocker + overqualified | 2.2/5 | PDF ❌
 - [x] #109 | https://kindgeeks.breezy.hr/p/f3c9fdb8b9fd-trainee-junior-ai-integrator | Kindgeek | Trainee/Junior AI Integrator | Lviv, Ukraine hybrid (posting Closed) — F-1 OPT blocker + no-code skill gap | 2.2/5 | PDF ❌
+
+<!-- Batch 7A — 2026-04-22 (Lever/Greenhouse/Ashby — CV + PhD + AI PM + FDE mix) -->
+- [x] #079 | https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships | New York, NY — hybrid-friendly (relocation expected) | 3.9/5 | PDF ✅
+- [x] #080 | https://jobs.ashbyhq.com/pareto-ai/911f9f26-cff1-4383-a8d1-a9c243972548 | Pareto.AI | Forward Deployed Software Engineer | Remote US (core 8am-1pm PT) | 3.9/5 | PDF ✅
+- [x] #077 | https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer | San Francisco, CA — On-site 5 days/week | 3.8/5 | PDF ✅
+- [x] #078 | https://jobs.ashbyhq.com/hopper/24380cbc-bb55-4c1e-b2dd-4420ae9e3eea | Hopper | Forward Deployed Engineer, HTS Assist | Canada Remote (primary) / US Remote (secondary) | 3.7/5 | PDF ✅
+- [x] #076 | https://jobs.ashbyhq.com/zapier/cac70300-4e62-4299-bc34-aab69e7498f4 | Zapier | AI Automation Expert | Fully Remote (Zapier 40+ countries) — verify US + OPT | 3.5/5 | PDF ✅
+- [x] #071 | https://jobs.lever.co/revealtech/cdb14ea7-9ebb-47a7-a828-967675c239da | Reveal Technology | 3D Computer Vision Engineer | Remote USA — defense vendor (citizenship implied) | 2.7/5 | PDF ❌
+- [x] #072 | https://job-boards.greenhouse.io/anthropic/jobs/5074217008 | Anthropic | Research Engineer / Research Scientist, Vision | Hybrid — NYC / SF / Seattle (≥25% in-office) | 2.6/5 | PDF ❌
+- [x] #074 | https://jobs.ashbyhq.com/oscilar/d32ee038-0f64-406e-a2c8-a83de9fe6b61 | Oscilar | AI Product Manager (Risk Orchestration) | Remote US (remote-first; US benefits) | 2.5/5 | PDF ❌
+- [x] #073 | https://jobs.ashbyhq.com/writer/d590e2f0-e2fe-4a02-b0e1-14f20777af13 | Writer | AI Product Manager | Remote US (posting appears removed) | 2.3/5 | PDF ❌
+- [x] #075 | https://jobs.ashbyhq.com/Ment/6af78f81-ca51-49bc-a530-974dca9928c6 | Ment | AI Product Manager | London, UK — non-US (F-1 OPT blocker) | 2.2/5 | PDF ❌
