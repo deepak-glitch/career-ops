@@ -69,14 +69,21 @@
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4577381005 | Glean | Product Designer, AI Products | San Francisco Bay Area
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4685389005 | Glean | Public Sector Solutions Engineer, SLED | Austin, TX
-- [ ] https://moser-consulting.breezy.hr/p/b137d7157668-ai-engineer-data-engineer | Moser Consulting | AI Engineer / Data Engineer | Remote - USA
-- [ ] https://avasure.breezy.hr/p/fc76ef574d66-machine-learning-engineer | AvaSure | Machine Learning Engineer | Remote - USA
+- [!] https://moser-consulting.breezy.hr/p/b137d7157668-ai-engineer-data-engineer | Moser Consulting | AI Engineer / Data Engineer | Remote - USA — error: sandbox 503 (breezy.hr egress blocked 2026-04-24); retry next run
+- [!] https://avasure.breezy.hr/p/fc76ef574d66-machine-learning-engineer | AvaSure | Machine Learning Engineer | Remote - USA — error: sandbox 503 (breezy.hr egress blocked 2026-04-24); retry next run
 - [ ] https://builtin.com/job/junior-ai-engineer-generative-ai-digital-transformation-m-f-d/6627331 | Sportradar | Junior AI Engineer — Generative AI & Digital Transformation | Vienna, AT (hybrid)
-- [ ] https://remotive.com/remote/jobs/ai-ml/ai-implementation-specialist-4469233 | Parsons Corporation | AI Implementation Specialist | Remote - USA
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-implementation-specialist-4469233 | Parsons Corporation | AI Implementation Specialist | Remote - USA — error: sandbox 503 (remotive.com egress blocked 2026-04-24); retry next run
 - [!] https://builtin.com/job/new-grad-applied-ai-engineer-computer-vision/3973140 | Kodiak Robotics | New Grad Applied AI Engineer — Computer Vision | Mountain View, CA — error: posting removed from BuiltIn (2025-06-23); archived
 - [!] https://builtin.com/job/junior-ai-engineer/4226539 | Q-Centrix | Junior AI Engineer | Remote - USA — error: posting removed from BuiltIn (2025-07-15); archived
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer | San Francisco Bay Area
-
+- [!] https://builtin.com/job/forward-deployed-engineer-new-grad-campus-recruiting-2026/7292257 | Domino Data Lab | Forward Deployed Engineer — New Grad 2026 | Remote - USA (verify) — error: sandbox 503 (builtin.com egress blocked 2026-04-24); retry next run
+- [ ] https://numrah.breezy.hr/p/b66161c6d172-machine-learning-engineer-2026 | Numrah | Machine Learning Engineer 2026 | Remote (verify US eligibility)
+- [!] https://www.workatastartup.com/jobs/88243 | Auctor | Forward Deployed Engineer | New York, NY (verify) — error: sandbox 503 (workatastartup.com egress blocked 2026-04-24); retry next run
+- [ ] https://www.workatastartup.com/jobs/78415 | HappyRobot | Forward Deployed Engineer | San Francisco, CA (verify)
+- [ ] https://www.workatastartup.com/jobs/80966 | Distro | Forward Deployed Engineer | Remote / San Francisco, CA (verify)
+- [ ] https://www.workatastartup.com/jobs/90537 | Stardex | Forward Deploy Engineer (FDE) | Remote / CA, US (verify)
+- [!] https://himalayas.app/companies/ahead/jobs/ai-engineer-ai-services | AHEAD | AI Engineer, AI Services | Remote - USA (verify) — error: sandbox 503 (himalayas.app egress blocked 2026-04-24); retry next run
+- [ ] https://www.usaremotejobs.app/job/projixx-ai-implementation-specialist | Projixx | AI Implementation Specialist | Remote - USA (verify)
 
 ## Procesadas
 

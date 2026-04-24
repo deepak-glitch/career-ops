@@ -1,1 +1,22 @@
 Not logged in · Please run /login
+
+## 2026-04-24T06:30:00Z overnight run
+
+**Environment:** sandbox HTTP egress blocked for ATS / job-board domains.
+
+Confirmed 503 (all tested):
+- builtin.com
+- breezy.hr (moser-consulting, avasure)
+- workatastartup.com
+- himalayas.app
+- job-boards.greenhouse.io (gleanwork, boards-api)
+- jobs.ashbyhq.com (implicit via scan.mjs — 57/73 ATS 503)
+
+Working (control):
+- raw.githubusercontent.com — 200 OK
+
+**Impact on step 2 (pipeline):** JD extraction via WebFetch is not feasible this session. Marking today's Pendientes URLs that I attempted as `[!]` with `error: sandbox 503` per task hard rule ("If an URL fails to extract, mark it `- [!]` in Pendientes and continue"). No A-H reports or PDFs were generated because fabricating JD content would violate the "NEVER invent metrics or credentials" rule in `modes/_shared.md`.
+
+**Step 1 (scan):** `node scan.mjs` completed with 0/1232 added (all filtered or 503). Level 3 WebSearch added 8 new URLs under `### 2026-04-24` in `data/pipeline.md`.
+
+No stack trace — this is a network egress policy, not a code error.
