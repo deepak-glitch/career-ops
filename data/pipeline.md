@@ -71,16 +71,15 @@
 - [!] https://builtin.com/job/forward-deployed-engineer-new-grad-campus-recruiting-2026/7292257 | Domino Data Lab | Forward Deployed Engineer — New Grad 2026 | Remote - USA (verify) — error: sandbox 503 (builtin.com egress blocked 2026-04-24); retry next run
 - [!] https://numrah.breezy.hr/p/b66161c6d172-machine-learning-engineer-2026 | Numrah | Machine Learning Engineer 2026 | Remote — error: posting closed ("no longer accepting candidates"); archived
 - [!] https://www.workatastartup.com/jobs/88243 | Auctor | Forward Deployed Engineer | New York, NY (verify) — error: sandbox 503 (workatastartup.com egress blocked 2026-04-24); retry next run
-- [ ] https://www.workatastartup.com/jobs/78415 | HappyRobot | Forward Deployed Engineer | San Francisco, CA (verify)
-- [ ] https://www.workatastartup.com/jobs/80966 | Distro | Forward Deployed Engineer | Remote / San Francisco, CA (verify)
-- [ ] https://www.workatastartup.com/jobs/90537 | Stardex | Forward Deploy Engineer (FDE) | Remote / CA, US (verify)
+- [!] https://www.workatastartup.com/jobs/80966 | Distro | Forward Deployed Engineer | Remote / San Francisco, CA (verify) — error: posting closed (YC WaaS 404 on 2026-04-24); archived
 - [!] https://himalayas.app/companies/ahead/jobs/ai-engineer-ai-services | AHEAD | AI Engineer, AI Services | Remote - USA (verify) — error: sandbox 503 (himalayas.app egress blocked 2026-04-24); retry next run
 - [!] https://sumup.com/careers/positions/8446060002?gh_jid=8446060002 | SumUp | Customer Support Agent | Amsterdam, Netherlands — not archetype match (Customer Support), filter slip per _profile.md hygiene
 - [!] https://sumup.com/careers/positions/8340139002?gh_jid=8340139002 | SumUp | Customer Support Agent - DE | Berlin, Germany — not archetype match (Customer Support), filter slip per _profile.md hygiene
 - [!] https://sumup.com/careers/positions/8340156002?gh_jid=8340156002 | SumUp | Customer Support Agent- French | Barcelona, Spain — not archetype match (Customer Support), filter slip per _profile.md hygiene
-- [ ] https://www.workatastartup.com/jobs/71033 | StackAI | Forward Deployed AI Engineer | San Francisco, CA (verify)
-- [ ] https://remotive.com/remote/jobs/ai-ml/ai-engineer-4431185 | Million Dollar Sellers | AI Engineer | Remote (verify US eligibility)
-- [ ] https://remotive.com/remote/jobs/ai-ml/associate-ai-engineer-4458472 | BigBear.ai | Associate AI Engineer | Remote - USA (verify)
+- [!] https://job-boards.greenhouse.io/appliedintuition/jobs/4600029005 | Applied Intuition | Forward Deployed Software Engineer - New Grad | Mountain View, CA / DC — error: job ID closed (Greenhouse redirects with `?error=true` 2026-04-24); archived
+- [!] https://builtin.com/job/junior-ai-engineer/6625641 | Navan | Junior AI Engineer | Tel Aviv, ISR (hybrid) — error: posting removed (BuiltIn 2025-07-14); archived — also location mismatch for US-focus
+- [!] https://himalayas.app/companies/jobgether/jobs/ai-ml-engineer-model-dev-data-remote-us | Jobgether | AI/ML Engineer - Model Dev & Data | Remote - USA — error: posting removed (Himalayas 404 on 2026-04-24); retry scanner
+- [!] https://netrix-global.breezy.hr/p/a80871698c8a-aws-machine-learning-engineer | Netrix Global | AWS Machine Learning Engineer | Remote - USA (verify) — error: sandbox 503 (breezy.hr egress intermittent 2026-04-24); retry next run
 
 
 ## Procesadas
@@ -211,3 +210,11 @@
 - [x] #130 | https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer (NY) | New York, NY — hybrid 3-4d + 25-50% travel | 3.8/5 | PDF ✅
 - [x] #131 | https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability | San Francisco, CA — on-site (visa sponsorship available) | 3.6/5 | PDF ✅
 - [x] #134 | https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer | Hybrid — SF / NYC / Austin + 25-40% travel | 3.2/5 | PDF ✅
+- [x] #139 | https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a | Promise | Software Engineer – Forward Deployed AI (New Grad) | Oakland, CA / Remote-eligible (verify in JD) | 4.2/5 | PDF ✅
+- [x] #140 | https://www.workatastartup.com/jobs/78415 | HappyRobot | Forward Deployed Engineer | San Francisco, CA (verify) | 3.8/5 | PDF ✅
+- [x] #141 | https://www.workatastartup.com/jobs/90537 | Stardex | Forward Deploy Engineer (FDE) | Remote / CA, US (verify) | 3.4/5 | PDF ✅
+- [x] #142 | https://www.workatastartup.com/jobs/71033 | StackAI | Forward Deployed AI Engineer | San Francisco, CA (verify) | 3.2/5 | PDF ✅
+- [x] #143 | https://vontive.breezy.hr/p/c492bc0fb545-ai-engineer | Vontive | AI Engineer | New York City, NY (Remote-within-1hr) | 3.0/5 | PDF ✅
+- [x] #144 | https://www.workatastartup.com/jobs/93171 | Confido | Full-Stack Engineer (Early Career) | New York, NY (relocation supported) | 3.7/5 | PDF ✅
+- [x] #145 | https://www.workatastartup.com/jobs/93090 | PointOne | New Grad Software Engineer | San Francisco, CA — In-Person | 3.1/5 | PDF ✅
+- [x] #146 | https://remotive.com/remote/jobs/ai-ml/ai-engineer-4431185 | Million Dollar Sellers | AI Engineer | Remote — EST (UTC-5) | 3.5/5 | PDF ✅
