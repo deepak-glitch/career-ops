@@ -20,3 +20,4 @@ Working (control):
 **Step 1 (scan):** `node scan.mjs` completed with 0/1232 added (all filtered or 503). Level 3 WebSearch added 8 new URLs under `### 2026-04-24` in `data/pipeline.md`.
 
 No stack trace — this is a network egress policy, not a code error.
+Not logged in · Please run /login
