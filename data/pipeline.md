@@ -75,6 +75,8 @@
 - [ ] https://remotive.com/remote/jobs/ai-ml/ai-implementation-specialist-4469233 | Parsons Corporation | AI Implementation Specialist | Remote - USA
 - [!] https://builtin.com/job/new-grad-applied-ai-engineer-computer-vision/3973140 | Kodiak Robotics | New Grad Applied AI Engineer — Computer Vision | Mountain View, CA — error: posting removed from BuiltIn (2025-06-23); archived
 - [!] https://builtin.com/job/junior-ai-engineer/4226539 | Q-Centrix | Junior AI Engineer | Remote - USA — error: posting removed from BuiltIn (2025-07-15); archived
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer | San Francisco Bay Area
+
 
 ## Procesadas
 
