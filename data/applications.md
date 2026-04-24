@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 129 | 2026-04-24 | Glean | Founding Forward Deployed Engineer (SF) | 3.8/5 | Evaluated | ✅ | [129](reports/129-glean-founding-fde-sf-2026-04-24.md) | Strong FDE archetype; 4+yrs stretch; SF hybrid +25-50% travel; founder signals mitigate |
+| 130 | 2026-04-24 | Glean | Founding Forward Deployed Engineer (NY) | 3.8/5 | Evaluated | ✅ | [130](reports/130-glean-founding-fde-ny-2026-04-24.md) | Cross-region hedge w/ #129; NYC hybrid +25-50% travel; same stretch profile |
+| 131 | 2026-04-24 | Anthropic | Research Engineer, AI Observability | 3.6/5 | Evaluated | ✅ | [131](reports/131-anthropic-research-engineer-ai-observability-2026-04-24.md) | Strong LLMOps match; 5+yrs seniority gap; visa sponsorship explicit; SF on-site |
+| 134 | 2026-04-24 | Vercel | Forward-Deployed Engineer | 3.2/5 | Evaluated | ✅ | [134](reports/134-vercel-forward-deployed-engineer-2026-04-24.md) | FDE archetype fit; Next.js App Router depth gap; 5+yrs stretch; hybrid SF/NYC/Austin |
+| 136 | 2026-04-24 | Projixx | AI Implementation Specialist | 4.2/5 | Evaluated | ✅ | [136](reports/136-projixx-ai-implementation-specialist-2026-04-24.md) | Entry-level direct match; LLM/agent/RAG/vector all present; Proceed w/ Caution on small-startup verify |
 | 124 | 2026-04-24 | Glean | ML Engineer, LLM Evals & Observability | 3.8/5 | Evaluated | ✅ | [124](reports/124-glean-ml-evals-observability-2026-04-24.md) | Mid (2+ yrs) direct fit; eval + LLM-judge + observability = direct match; Palo Alto hybrid 3-4d = relocation friction; $200-300K — apply |
 | 128 | 2026-04-24 | Arize AI | AI Solutions Engineer | 3.6/5 | Evaluated | ✅ | [128](reports/128-arize-ai-solutions-engineer-2026-04-24.md) | Mid SE + production ML/GenAI; anchored to Raleigh/NYC/SF — relocation; $125-175K fits target; direct match via RAG eval harness + agentic grounding — apply |
 | 121 | 2026-04-23 | Salesforce | AI Forward Deployed Engineer (Early Career) | 4.2/5 | Evaluated | ✅ | [112](reports/112-salesforce-ai-fde-early-career-2026-04-23.md) | Remote US multi-city (10+ state variants) + hybrid; Agentforce new-grad FDE track; F-1 OPT friendly (Salesforce sponsors). Strong archetype + seniority fit. Apex ramp plan needed. Apply. |

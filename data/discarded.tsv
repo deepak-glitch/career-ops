@@ -33,3 +33,7 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-04-24	121	2026-04-24	Vercel	Software Engineer, Agent	2.8	Evaluated	reports/below-threshold/121-vercel-agent-2026-04-24.md	dedup skip from tracker; archived manually — Staff-level 7+ yrs
 2026-04-24	123	2026-04-24	Glean	ML Engineer, AI Assistant & Autonomous AI Agents	2.7	Evaluated	reports/below-threshold/123-glean-ml-agents-2026-04-24.md	dedup skip from tracker; archived manually — Staff-level
 2026-04-24	126	2026-04-24	Glean	Software Engineer, AI & Security	2.9	Evaluated	reports/below-threshold/126-glean-ai-security-2026-04-24.md	dedup skip from tracker; archived manually — 5+ yrs + enterprise security
+2026-04-24	132	2026-04-24	Anthropic	UI Software Engineer, Claude.ai Consumer Product	2.5/5	Evaluated	reports/132-anthropic-ui-software-engineer-claude-ai-2026-04-24.md	Archetype mismatch (consumer UI); 5+yrs Next.js gap; SKIP
+2026-04-24	133	2026-04-24	Glean	Public Sector Solutions Engineer, SLED	2.8/5	Evaluated	reports/133-glean-sled-solutions-engineer-2026-04-24.md	SE archetype mismatch; no public-sector SE track record; SKIP
+2026-04-24	137	2026-04-24	Intercom	Solutions Engineer	2.7/5	Evaluated	reports/137-intercom-solutions-engineer-sf-2026-04-24.md	SE archetype mismatch; no pre-sales track; SKIP
+2026-04-24	138	2026-04-24	Intercom	Solutions Engineer - LATAM (Portuguese)	2.3/5	Evaluated	reports/138-intercom-solutions-engineer-latam-2026-04-24.md	Portuguese fluency hard blocker + SE mismatch; SKIP

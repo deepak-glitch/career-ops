@@ -17,10 +17,6 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/cee25dcf-9a7f-474b-9724-abb510bc3968 | Truelogic | Forward Deployed Engineer — Technology
 - [ ] https://jobs.ashbyhq.com/generalrobotics/42ae26cc-4e6e-4c33-be7e-8ade29690ac6 | General Robotics | Forward Deployed Engineer (Robotics)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5192104008 | Anthropic | Global Leader, Applied AI Architects, Beneficial Deployments
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5026097008 | Anthropic | UI Software Engineer, Claude.ai Consumer Product
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/6849119 | Intercom | Solutions Engineer
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7593406 | Intercom | Solutions Engineer - LATAM (Portuguese Speaking)
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer, VoIP
 - [ ] https://jobs.ashbyhq.com/elevenlabs/2451b957-0ece-4e73-88e4-4196aac0ba86 | ElevenLabs | AI Creative Producer - Ads
@@ -30,8 +26,6 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4620264005 | Glean | Strategic Solutions Engineer, East
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5843010004 | Vercel | Anti-Abuse Automation Engineer
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK
 - [ ] https://jobs.ashbyhq.com/langchain/e773649c-4ea7-47c2-9987-74d525474e82 | LangChain | Deployed Engineer (San Francisco)
 - [ ] https://jobs.ashbyhq.com/langchain/25d40647-c821-46ff-bf25-bacf21fa38b5 | LangChain | Deployed Engineer (NYC)
 - [ ] https://jobs.ashbyhq.com/langchain/1b28dcf7-04c1-4bc1-9e16-d288ce634cd2 | LangChain | Customer Engineer (Amsterdam)
@@ -68,22 +62,26 @@
 ### 2026-04-24
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4577381005 | Glean | Product Designer, AI Products | San Francisco Bay Area
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4685389005 | Glean | Public Sector Solutions Engineer, SLED | Austin, TX
 - [!] https://moser-consulting.breezy.hr/p/b137d7157668-ai-engineer-data-engineer | Moser Consulting | AI Engineer / Data Engineer | Remote - USA — error: sandbox 503 (breezy.hr egress blocked 2026-04-24); retry next run
 - [!] https://avasure.breezy.hr/p/fc76ef574d66-machine-learning-engineer | AvaSure | Machine Learning Engineer | Remote - USA — error: sandbox 503 (breezy.hr egress blocked 2026-04-24); retry next run
-- [ ] https://builtin.com/job/junior-ai-engineer-generative-ai-digital-transformation-m-f-d/6627331 | Sportradar | Junior AI Engineer — Generative AI & Digital Transformation | Vienna, AT (hybrid)
+- [!] https://builtin.com/job/junior-ai-engineer-generative-ai-digital-transformation-m-f-d/6627331 | Sportradar | Junior AI Engineer — Generative AI & Digital Transformation | Leipzig, DE (hybrid) — error: posting removed from BuiltIn (2025-07-18); archived
 - [!] https://remotive.com/remote/jobs/ai-ml/ai-implementation-specialist-4469233 | Parsons Corporation | AI Implementation Specialist | Remote - USA — error: sandbox 503 (remotive.com egress blocked 2026-04-24); retry next run
 - [!] https://builtin.com/job/new-grad-applied-ai-engineer-computer-vision/3973140 | Kodiak Robotics | New Grad Applied AI Engineer — Computer Vision | Mountain View, CA — error: posting removed from BuiltIn (2025-06-23); archived
 - [!] https://builtin.com/job/junior-ai-engineer/4226539 | Q-Centrix | Junior AI Engineer | Remote - USA — error: posting removed from BuiltIn (2025-07-15); archived
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer | San Francisco Bay Area
 - [!] https://builtin.com/job/forward-deployed-engineer-new-grad-campus-recruiting-2026/7292257 | Domino Data Lab | Forward Deployed Engineer — New Grad 2026 | Remote - USA (verify) — error: sandbox 503 (builtin.com egress blocked 2026-04-24); retry next run
-- [ ] https://numrah.breezy.hr/p/b66161c6d172-machine-learning-engineer-2026 | Numrah | Machine Learning Engineer 2026 | Remote (verify US eligibility)
+- [!] https://numrah.breezy.hr/p/b66161c6d172-machine-learning-engineer-2026 | Numrah | Machine Learning Engineer 2026 | Remote — error: posting closed ("no longer accepting candidates"); archived
 - [!] https://www.workatastartup.com/jobs/88243 | Auctor | Forward Deployed Engineer | New York, NY (verify) — error: sandbox 503 (workatastartup.com egress blocked 2026-04-24); retry next run
 - [ ] https://www.workatastartup.com/jobs/78415 | HappyRobot | Forward Deployed Engineer | San Francisco, CA (verify)
 - [ ] https://www.workatastartup.com/jobs/80966 | Distro | Forward Deployed Engineer | Remote / San Francisco, CA (verify)
 - [ ] https://www.workatastartup.com/jobs/90537 | Stardex | Forward Deploy Engineer (FDE) | Remote / CA, US (verify)
 - [!] https://himalayas.app/companies/ahead/jobs/ai-engineer-ai-services | AHEAD | AI Engineer, AI Services | Remote - USA (verify) — error: sandbox 503 (himalayas.app egress blocked 2026-04-24); retry next run
-- [ ] https://www.usaremotejobs.app/job/projixx-ai-implementation-specialist | Projixx | AI Implementation Specialist | Remote - USA (verify)
+- [!] https://sumup.com/careers/positions/8446060002?gh_jid=8446060002 | SumUp | Customer Support Agent | Amsterdam, Netherlands — not archetype match (Customer Support), filter slip per _profile.md hygiene
+- [!] https://sumup.com/careers/positions/8340139002?gh_jid=8340139002 | SumUp | Customer Support Agent - DE | Berlin, Germany — not archetype match (Customer Support), filter slip per _profile.md hygiene
+- [!] https://sumup.com/careers/positions/8340156002?gh_jid=8340156002 | SumUp | Customer Support Agent- French | Barcelona, Spain — not archetype match (Customer Support), filter slip per _profile.md hygiene
+- [ ] https://www.workatastartup.com/jobs/71033 | StackAI | Forward Deployed AI Engineer | San Francisco, CA (verify)
+- [ ] https://remotive.com/remote/jobs/ai-ml/ai-engineer-4431185 | Million Dollar Sellers | AI Engineer | Remote (verify US eligibility)
+- [ ] https://remotive.com/remote/jobs/ai-ml/associate-ai-engineer-4458472 | BigBear.ai | Associate AI Engineer | Remote - USA (verify)
+
 
 ## Procesadas
 
@@ -208,3 +206,8 @@
 - [x] #125 | https://job-boards.greenhouse.io/gleanwork/jobs/4616929005 | Glean | Software Engineer, Agentic Runtime | San Francisco Bay Area — hybrid 3-4d | 3.6/5 | PDF ✅
 - [x] #128 | https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer | Remote — anchored Raleigh/NYC/SF | 3.6/5 | PDF ✅
 - [x] #119 | https://job-boards.greenhouse.io/anthropic/jobs/5073277008 | Anthropic | Applied AI Engineer, Startups | San Francisco, CA or New York City, NY — on-site | 3.2/5 | PDF ✅
+- [x] #136 | https://www.usaremotejobs.app/job/projixx-ai-implementation-specialist | Projixx | AI Implementation Specialist | Remote — Phoenix/Scottsdale AZ anchor | 4.2/5 | PDF ✅
+- [x] #129 | https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer (SF) | San Francisco Bay Area — hybrid 3-4d + 25-50% travel | 3.8/5 | PDF ✅
+- [x] #130 | https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer (NY) | New York, NY — hybrid 3-4d + 25-50% travel | 3.8/5 | PDF ✅
+- [x] #131 | https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability | San Francisco, CA — on-site (visa sponsorship available) | 3.6/5 | PDF ✅
+- [x] #134 | https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer | Hybrid — SF / NYC / Austin + 25-40% travel | 3.2/5 | PDF ✅
