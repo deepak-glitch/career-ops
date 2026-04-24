@@ -28,3 +28,8 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-04-23	2	2026-04-20	Perplexity	AI Engineer, Applied ML	2.8/5	Evaluated	reports/002-perplexity-2026-04-20.md	Senior (5+ yrs) — skip, below threshold
 2026-04-23	8	2026-04-20	Zapier	Applied AI Engineer	2.9/5	Evaluated	reports/008-zapier-2026-04-20.md	Senior (7+ yrs) — skip
 2026-04-23	120	2026-04-23	Sierra	TLM, Agent	2.3/5	Evaluated	reports/110-sierra-tlm-agent-2026-04-23.md	NYC on-site; $280-410K engineering-management role (TLM = Tech Lead Manager); requires experience leading engineering teams — hard level mismatch for 2.5 yr IC. Archive.
+2026-04-24	127	2026-04-24	Anthropic	Applied AI Claude Evangelist, Startups	2.4/5	Evaluated	reports/127-anthropic-claude-evangelist-startups-2026-04-24.md	DevRel / Evangelism archetype + 7+ yrs — not Deepak's archetype; skip
+2026-04-24	120	2026-04-24	Anthropic	Forward Deployed Engineer, Federal Civilian	2.6	Evaluated	reports/below-threshold/120-anthropic-fde-federal-civilian-2026-04-24.md	dedup skip from tracker; archived manually — federal clearance blocker
+2026-04-24	121	2026-04-24	Vercel	Software Engineer, Agent	2.8	Evaluated	reports/below-threshold/121-vercel-agent-2026-04-24.md	dedup skip from tracker; archived manually — Staff-level 7+ yrs
+2026-04-24	123	2026-04-24	Glean	ML Engineer, AI Assistant & Autonomous AI Agents	2.7	Evaluated	reports/below-threshold/123-glean-ml-agents-2026-04-24.md	dedup skip from tracker; archived manually — Staff-level
+2026-04-24	126	2026-04-24	Glean	Software Engineer, AI & Security	2.9	Evaluated	reports/below-threshold/126-glean-ai-security-2026-04-24.md	dedup skip from tracker; archived manually — 5+ yrs + enterprise security

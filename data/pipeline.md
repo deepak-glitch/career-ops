@@ -65,6 +65,17 @@
 - [!] https://weassist-io.breezy.hr/p/b566c6f24fd7-internal-ai-engineer | WeAssist.io | Internal AI Engineer | Remote — duplicate of #107 (already archived below-threshold 2026-04-22); not re-evaluated
 - [!] https://mechanizedai.breezy.hr/p/6bcfb99640f0-machine-learning-engineer | Mechanized AI | Machine Learning Engineer | Remote — error: posting closed (Breezy "Position Closed")
 
+### 2026-04-24
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4577381005 | Glean | Product Designer, AI Products | San Francisco Bay Area
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4685389005 | Glean | Public Sector Solutions Engineer, SLED | Austin, TX
+- [ ] https://moser-consulting.breezy.hr/p/b137d7157668-ai-engineer-data-engineer | Moser Consulting | AI Engineer / Data Engineer | Remote - USA
+- [ ] https://avasure.breezy.hr/p/fc76ef574d66-machine-learning-engineer | AvaSure | Machine Learning Engineer | Remote - USA
+- [ ] https://builtin.com/job/junior-ai-engineer-generative-ai-digital-transformation-m-f-d/6627331 | Sportradar | Junior AI Engineer — Generative AI & Digital Transformation | Vienna, AT (hybrid)
+- [ ] https://remotive.com/remote/jobs/ai-ml/ai-implementation-specialist-4469233 | Parsons Corporation | AI Implementation Specialist | Remote - USA
+- [!] https://builtin.com/job/new-grad-applied-ai-engineer-computer-vision/3973140 | Kodiak Robotics | New Grad Applied AI Engineer — Computer Vision | Mountain View, CA — error: posting removed from BuiltIn (2025-06-23); archived
+- [!] https://builtin.com/job/junior-ai-engineer/4226539 | Q-Centrix | Junior AI Engineer | Remote - USA — error: posting removed from BuiltIn (2025-07-15); archived
+
 ## Procesadas
 
 ### 2026-04-20
@@ -180,3 +191,11 @@
 - [x] #114 | https://jobs.ashbyhq.com/llamaindex/fd7a074f-7d80-44b7-8520-8ac787387e92 | LlamaIndex | Multimodal AI Engineer, Document Understanding | San Francisco (hybrid) / Remote for exceptional fits — $180-250K | 3.6/5 | PDF ✅
 - [x] #116 | https://www.workatastartup.com/jobs/73417 | Retell AI | Founding Forward Deployed AI Engineer | Likely SF in-person (verify) — $10M ARR voice-agent platform | 3.4/5 | PDF ✅
 - [x] #111 | https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7 | Mistral AI | Applied AI, Forward Deployed ML Engineer — CSI EMEA | Paris, France — CDI on-site/hybrid — F-1 OPT + EU work permit blocker | 3.0/5 | PDF ✅
+
+### 2026-04-24
+
+- [x] #124 | https://job-boards.greenhouse.io/gleanwork/jobs/4669417005 | Glean | ML Engineer, LLM Evals & Observability | San Francisco Bay Area — hybrid 3-4d Palo Alto | 3.8/5 | PDF ✅
+- [x] #122 | https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer | Remote - US (25-50% travel) | 3.5/5 | PDF ✅
+- [x] #125 | https://job-boards.greenhouse.io/gleanwork/jobs/4616929005 | Glean | Software Engineer, Agentic Runtime | San Francisco Bay Area — hybrid 3-4d | 3.6/5 | PDF ✅
+- [x] #128 | https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer | Remote — anchored Raleigh/NYC/SF | 3.6/5 | PDF ✅
+- [x] #119 | https://job-boards.greenhouse.io/anthropic/jobs/5073277008 | Anthropic | Applied AI Engineer, Startups | San Francisco, CA or New York City, NY — on-site | 3.2/5 | PDF ✅
