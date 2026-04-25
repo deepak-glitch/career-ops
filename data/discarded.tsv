@@ -38,3 +38,6 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-04-24	137	2026-04-24	Intercom	Solutions Engineer	2.7/5	Evaluated	reports/137-intercom-solutions-engineer-sf-2026-04-24.md	SE archetype mismatch; no pre-sales track; SKIP
 2026-04-24	138	2026-04-24	Intercom	Solutions Engineer - LATAM (Portuguese)	2.3/5	Evaluated	reports/138-intercom-solutions-engineer-latam-2026-04-24.md	Portuguese fluency hard blocker + SE mismatch; SKIP
 2026-04-24	147	2026-04-24	BigBear.ai	Associate AI Engineer	2.6/5	Evaluated	reports/147-bigbear-associate-ai-engineer-2026-04-24.md	Strong tech match (RAG+MCP+agents+pgvector); HARD VETO: "Ability to obtain Security Clearance" — F-1 OPT ineligible for US clearance; SKIP
+2026-04-25	162	2026-04-25	Modal	Forward Deployed Engineer - Systems (Stockholm)	2.7/5	SKIP	reports/162-modal-fde-systems-stockholm-2026-04-25.md	Senior 5+ yrs sales-eng; Stockholm on-site; geo+seniority mismatch
+2026-04-25	163	2026-04-25	Dryft	Founding Forward Deployed Engineer	1.9/5	SKIP	reports/163-dryft-founding-fde-2026-04-25.md	Hard blocker: native German fluency required
+2026-04-25	165	2026-04-25	Mistral AI	AI Deployment Strategist Cybersecurity (Paris)	2.6/5	SKIP	reports/165-mistral-cybersecurity-strategist-paris-2026-04-25.md	Strategist not IC eng; cybersecurity domain mismatch; Paris on-site

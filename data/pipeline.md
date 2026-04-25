@@ -96,6 +96,9 @@
 - [!] https://job-boards.greenhouse.io/airtable/jobs/8409376002 | Airtable | Software Engineer, New Grad (2026) | San Francisco, CA — error: posting not visible on Airtable Greenhouse board (likely closed/not yet open); retry next run
 - [!] https://www.workatastartup.com/jobs/71705 | Stably AI | Full-Stack Engineer - New Grad | San Francisco, CA / Remote — error: posting closed (YC WaaS 404 on 2026-04-25); archived
 - [!] https://himalayas.app/companies/pingwind/jobs/junior-artificial-intelligence-ai-machine-learning-ml-engineer | PingWind | Junior AI/ML Engineer | Remote - USA — error: Himalayas page lists other roles (PingWind detail truncated 2026-04-25); retry next run
+- [!] https://jobs.ashbyhq.com/Chestnut/5d4fd1ec-60f3-4669-a2d2-31adf2654865 | Chestnut | Forward Deployed Engineer (Entry-Level / Early Career) | Remote (verify) — error: posting closed (not in Ashby board listing 2026-04-25); archived
+- [!] https://jobs.ashbyhq.com/saris-ai/4a6cd225-edb7-4a9f-80e0-cab601a7f092 | Saris AI | Forward Deployed Engineer (FDE) | Montreal / San Francisco — error: posting closed (not in Ashby board listing 2026-04-25); archived
+- [!] https://jobs.ashbyhq.com/P-1%20AI/75c853db-4a8d-4f23-b28f-05a2231e70e6 | P-1 AI | Forward Deployed Engineer | Location verify — error: org board returned empty (Ashby SPA + GraphQL no jobBoard 2026-04-25); retry next run
 
 
 
@@ -246,3 +249,8 @@
 - [x] #151 | https://job-boards.greenhouse.io/loop/jobs/5780582004 | Loop | 2026 New Grad Software Engineer, Full-Stack | San Francisco, CA / Chicago, IL — In-Person 4d/wk | 3.6/5 | PDF ✅
 - [x] #157 | https://jobs.ashbyhq.com/langchain/b8dead31-212a-4b92-82a7-c42df16ae877 | LangChain | Customer Engineer (West Coast) | San Francisco, CA — Remote (West Coast based) + 20% travel | 3.2/5 | PDF ✅
 - [x] #158 | https://jobs.lever.co/field-ai/6fc39622-b8e9-4aab-804a-b5fc61549dc0 | Field AI | Forward Deployed Engineer | Irvine, CA — Hybrid (HQ); US-based + global remote/hybrid | 3.0/5 | PDF ✅
+- [x] #159 | https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e | SpruceID | Full-Stack Software Engineer (New Grad) | Remote — United States | 3.9/5 | PDF ✅
+- [x] #160 | https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189 | BRM | Entry Level Software Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
+- [x] #161 | https://jobs.ashbyhq.com/strala-ai/efa58c03-377d-4f72-92e0-f94b1e19a4d2 | Strala Group | Forward Deployed Engineer | San Francisco, CA — On-site | 3.6/5 | PDF ✅
+- [x] #164 | https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer (EMEA) | Paris, France — On-site | 3.5/5 | PDF ✅
+- [x] #166 | https://jobs.lever.co/regalvoice/7bbea0f0-9f63-4cc8-8d02-8eeec018bbcd | Regal | AI Forward Deployed Engineer (NYC) | New York, NY — Hybrid | 3.6/5 | PDF ✅
