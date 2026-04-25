@@ -90,6 +90,13 @@
 - [!] https://builtin.com/job/junior-ai-engineer/6625641 | Navan | Junior AI Engineer | Tel Aviv, ISR (hybrid) — error: posting removed (BuiltIn 2025-07-14); archived — also location mismatch for US-focus
 - [!] https://himalayas.app/companies/jobgether/jobs/ai-ml-engineer-model-dev-data-remote-us | Jobgether | AI/ML Engineer - Model Dev & Data | Remote - USA — error: posting removed (Himalayas 404 on 2026-04-24); retry scanner
 - [!] https://netrix-global.breezy.hr/p/a80871698c8a-aws-machine-learning-engineer | Netrix Global | AWS Machine Learning Engineer | Remote - USA (verify) — error: sandbox 503 (breezy.hr egress intermittent 2026-04-24); retry next run
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057647008 | Anthropic | Applied AI Engineer, Enterprise Tech | San Francisco, CA | New York City, NY | Seattle, WA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5121563008 | Anthropic | Forward Deployed Engineer | Paris, France
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7573187 | Intercom | Solutions Engineer | Chicago, Illinois
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7624926 | Intercom | Solutions Engineer - LATAM (Portuguese Speaking) | San Francisco, California
+- [ ] https://jobs.ashbyhq.com/vapi/72ec9643-39c2-47ae-b04e-cba4e02b0966 | Vapi | Agent Strategist - NYC | New York
+- [ ] https://jobs.ashbyhq.com/langchain/b8dead31-212a-4b92-82a7-c42df16ae877 | LangChain | Customer Engineer (West Coast) | San Francisco, CA
+
 
 
 ## Procesadas
