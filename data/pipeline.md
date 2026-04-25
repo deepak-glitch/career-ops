@@ -90,12 +90,12 @@
 - [!] https://builtin.com/job/junior-ai-engineer/6625641 | Navan | Junior AI Engineer | Tel Aviv, ISR (hybrid) — error: posting removed (BuiltIn 2025-07-14); archived — also location mismatch for US-focus
 - [!] https://himalayas.app/companies/jobgether/jobs/ai-ml-engineer-model-dev-data-remote-us | Jobgether | AI/ML Engineer - Model Dev & Data | Remote - USA — error: posting removed (Himalayas 404 on 2026-04-24); retry scanner
 - [!] https://netrix-global.breezy.hr/p/a80871698c8a-aws-machine-learning-engineer | Netrix Global | AWS Machine Learning Engineer | Remote - USA (verify) — error: sandbox 503 (breezy.hr egress intermittent 2026-04-24); retry next run
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057647008 | Anthropic | Applied AI Engineer, Enterprise Tech | San Francisco, CA | New York City, NY | Seattle, WA
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5121563008 | Anthropic | Forward Deployed Engineer | Paris, France
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7573187 | Intercom | Solutions Engineer | Chicago, Illinois
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7624926 | Intercom | Solutions Engineer - LATAM (Portuguese Speaking) | San Francisco, California
-- [ ] https://jobs.ashbyhq.com/vapi/72ec9643-39c2-47ae-b04e-cba4e02b0966 | Vapi | Agent Strategist - NYC | New York
-- [ ] https://jobs.ashbyhq.com/langchain/b8dead31-212a-4b92-82a7-c42df16ae877 | LangChain | Customer Engineer (West Coast) | San Francisco, CA
+- [!] https://jobs.ashbyhq.com/vapi/72ec9643-39c2-47ae-b04e-cba4e02b0966 | Vapi | Agent Strategist - NYC | New York — not archetype match (Customer Success / post-sales account ownership), filter slip per _profile.md hygiene; archived
+- [!] https://job-boards.greenhouse.io/airtable/jobs/8409376002 | Airtable | Software Engineer, New Grad (2026) | San Francisco, CA — error: posting not visible on Airtable Greenhouse board (likely closed/not yet open); retry next run
+- [!] https://www.workatastartup.com/jobs/71705 | Stably AI | Full-Stack Engineer - New Grad | San Francisco, CA / Remote — error: posting closed (YC WaaS 404 on 2026-04-25); archived
+- [!] https://himalayas.app/companies/pingwind/jobs/junior-artificial-intelligence-ai-machine-learning-ml-engineer | PingWind | Junior AI/ML Engineer | Remote - USA — error: Himalayas page lists other roles (PingWind detail truncated 2026-04-25); retry next run
 
 
 
@@ -240,3 +240,9 @@
 
 - [x] #147 | https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer | Long Island City, NY (Queens) — Hybrid | 4.1/5 | PDF ✅
 - [x] #148 | https://job-boards.greenhouse.io/fortifyiq/jobs/4661408005 | FortifyIQ | Data & AI Engineer (Remote) | Remote — verify TZ in screen | 3.3/5 | PDF ✅
+- [x] #156 | https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer | San Francisco — Hybrid | 4.0/5 | PDF ✅
+- [x] #153 | https://job-boards.greenhouse.io/anthropic/jobs/5057647008 | Anthropic | Applied AI Engineer, Enterprise Tech | San Francisco, CA / New York City, NY / Seattle, WA — In-Office 3d/wk | 3.7/5 | PDF ✅
+- [x] #155 | https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer (Delta) | New York, NY — Hybrid + 25% travel | 3.7/5 | PDF ✅
+- [x] #151 | https://job-boards.greenhouse.io/loop/jobs/5780582004 | Loop | 2026 New Grad Software Engineer, Full-Stack | San Francisco, CA / Chicago, IL — In-Person 4d/wk | 3.6/5 | PDF ✅
+- [x] #157 | https://jobs.ashbyhq.com/langchain/b8dead31-212a-4b92-82a7-c42df16ae877 | LangChain | Customer Engineer (West Coast) | San Francisco, CA — Remote (West Coast based) + 20% travel | 3.2/5 | PDF ✅
+- [x] #158 | https://jobs.lever.co/field-ai/6fc39622-b8e9-4aab-804a-b5fc61549dc0 | Field AI | Forward Deployed Engineer | Irvine, CA — Hybrid (HQ); US-based + global remote/hybrid | 3.0/5 | PDF ✅
