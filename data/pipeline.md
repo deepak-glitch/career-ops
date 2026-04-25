@@ -62,6 +62,16 @@
 ### 2026-04-24
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4577381005 | Glean | Product Designer, AI Products | San Francisco Bay Area
+
+### 2026-04-25
+
+- [!] https://job-boards.greenhouse.io/newsbreak/jobs/4338876006 | NewsBreak | Machine Learning Engineer (Junior & New Grad) | Bellevue, WA / Mountain View, CA — error: posting closed (Greenhouse redirects to NewsBreak generic listing 2026-04-25); archived
+- [!] https://job-boards.greenhouse.io/newsbreak/jobs/4608368006 | NewsBreak | Machine Learning Engineer, Recommendation (Junior & New Grad) | Mountain View, CA — error: posting closed (Greenhouse redirects to NewsBreak generic listing 2026-04-25); archived
+- [!] https://job-boards.greenhouse.io/nextdoorcampus/jobs/6194603 | Nextdoor | Machine Learning Engineer (New Grad 2025) | San Francisco, CA — error: nextdoorcampus board reports "no active openings" 2026-04-25; archived
+- [!] https://jobs.ashbyhq.com/elevenlabs/dd26398c-54d8-4200-a181-65e6203ec9a6 | ElevenLabs | Forward Deployed Engineer - Recent Graduate | Global hub offices (verify) — error: sandbox 503 (Ashby SPA + GraphQL DNS cache overflow 2026-04-25); retry next run
+- [!] https://himalayas.app/companies/oceans/jobs/g3-24-dv-o-ai-integration-operations-transformation-specialist | Oceans | AI Integration & Operations Transformation Specialist | Remote — error: sandbox 503 (himalayas.app egress blocked 2026-04-25); retry next run
+- [!] https://himalayas.app/companies/msx-international/jobs/ai-digitalization-expert-4589666272 | MSX International | AI Digitalization Expert | Remote — error: sandbox 503 (himalayas.app egress blocked 2026-04-25); retry next run
+- [!] https://jobs.anitab.org/companies/nvidia/jobs/76096622-applied-ai-engineer-silicon-co-design-group-new-college-grad-2026 | NVIDIA | Applied AI Engineer, Silicon Co-Design Group, New College Grad 2026 | Santa Clara, CA / US (verify) — error: sandbox 503 (anitab.org egress blocked 2026-04-25); retry next run
 - [!] https://moser-consulting.breezy.hr/p/b137d7157668-ai-engineer-data-engineer | Moser Consulting | AI Engineer / Data Engineer | Remote - USA — error: sandbox 503 (breezy.hr egress blocked 2026-04-24); retry next run
 - [!] https://avasure.breezy.hr/p/fc76ef574d66-machine-learning-engineer | AvaSure | Machine Learning Engineer | Remote - USA — error: sandbox 503 (breezy.hr egress blocked 2026-04-24); retry next run
 - [!] https://builtin.com/job/junior-ai-engineer-generative-ai-digital-transformation-m-f-d/6627331 | Sportradar | Junior AI Engineer — Generative AI & Digital Transformation | Leipzig, DE (hybrid) — error: posting removed from BuiltIn (2025-07-18); archived
@@ -218,3 +228,8 @@
 - [x] #144 | https://www.workatastartup.com/jobs/93171 | Confido | Full-Stack Engineer (Early Career) | New York, NY (relocation supported) | 3.7/5 | PDF ✅
 - [x] #145 | https://www.workatastartup.com/jobs/93090 | PointOne | New Grad Software Engineer | San Francisco, CA — In-Person | 3.1/5 | PDF ✅
 - [x] #146 | https://remotive.com/remote/jobs/ai-ml/ai-engineer-4431185 | Million Dollar Sellers | AI Engineer | Remote — EST (UTC-5) | 3.5/5 | PDF ✅
+
+### 2026-04-25
+
+- [x] #147 | https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer | Long Island City, NY (Queens) — Hybrid | 4.1/5 | PDF ✅
+- [x] #148 | https://job-boards.greenhouse.io/fortifyiq/jobs/4661408005 | FortifyIQ | Data & AI Engineer (Remote) | Remote — verify TZ in screen | 3.3/5 | PDF ✅

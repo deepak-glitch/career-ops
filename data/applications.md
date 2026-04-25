@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 147 | 2026-04-25 | WITHIN | AI Engineer | 4.1/5 | Evaluated | ✅ | [147](reports/147-within-ai-engineer-2026-04-25.md) | Applied AI / LLM Engineer + AI Platform; LIC NY hybrid; $90.9K-$254K L1-L5; F-1 OPT in form |
+| 148 | 2026-04-25 | FortifyIQ | Data & AI Engineer (Remote) | 3.3/5 | Evaluated | ✅ | [148](reports/148-fortifyiq-data-ai-engineer-2026-04-25.md) | ML Engineer + Platform; semiconductor data eng; remote; comp opaque; 3-5 yr stretch |
 | 140 | 2026-04-24 | HappyRobot | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [140](reports/140-happyrobot-fde-2026-04-24.md) | YC Series B (4M Sept 2025, a16z/Base10); full-stack TS+Python+AI stack match; verify SF on-site before relocate |
 | 141 | 2026-04-24 | Stardex | Forward Deploy Engineer (FDE) | 3.4/5 | Evaluated | ✅ | [141](reports/141-stardex-fde-2026-04-24.md) | YC first-FDE; recent grads OK; TS+SQL migration + AI-tool automation; ATS/CRM domain novel; seed-stage scope ambiguity |
 | 142 | 2026-04-24 | StackAI | Forward Deployed AI Engineer | 3.2/5 | Evaluated | ✅ | [142](reports/142-stackai-fde-2026-04-24.md) | YC enterprise RAG/LLM platform; 3+ yr floor (2.5 stretch); SE-hybrid role (forecast/close) — apply only if Deepak open to SE pivot |
