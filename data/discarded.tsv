@@ -41,3 +41,11 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-04-25	162	2026-04-25	Modal	Forward Deployed Engineer - Systems (Stockholm)	2.7/5	SKIP	reports/162-modal-fde-systems-stockholm-2026-04-25.md	Senior 5+ yrs sales-eng; Stockholm on-site; geo+seniority mismatch
 2026-04-25	163	2026-04-25	Dryft	Founding Forward Deployed Engineer	1.9/5	SKIP	reports/163-dryft-founding-fde-2026-04-25.md	Hard blocker: native German fluency required
 2026-04-25	165	2026-04-25	Mistral AI	AI Deployment Strategist Cybersecurity (Paris)	2.6/5	SKIP	reports/165-mistral-cybersecurity-strategist-paris-2026-04-25.md	Strategist not IC eng; cybersecurity domain mismatch; Paris on-site
+2026-04-26	169	2026-04-26	Hightouch	Mid-Market Solutions Engineer	2.7/5	Evaluated	reports/169-hightouch-mid-market-se-2026-04-26.md	CDP/marketing-AI SE; Remote NA; 2+yr SE bar gap; off-archetype.
+2026-04-26	170	2026-04-26	Intercom	Solutions Engineer (Chicago)	2.7/5	Evaluated	reports/170-intercom-se-chicago-2026-04-26.md	Intercom SE Chicago; 4+yr pre-sales gap; sponsorship friendly but title gap too wide.
+2026-04-26	171	2026-04-26	Lyra Technology Group	Forward Deployment AI Engineer	2.3/5	Evaluated	reports/171-lyra-tech-fde-ai-2026-04-26.md	PE-backed FDE; Chicago hybrid + 40-60% travel; no-sponsorship policy = F-1 OPT cliff.
+2026-04-26	172	2026-04-26	Glean	Strategic Solutions Engineer, East	2.5/5	Evaluated	reports/172-glean-strategic-se-east-2026-04-26.md	Glean Strategic SE East; 5+yr SE bar; Glean has earlier-career roles already in tracker.
+2026-04-26	173	2026-04-26	Intercom	Solutions Engineer LATAM (Portuguese)	1.9/5	Evaluated	reports/173-intercom-se-latam-sf-2026-04-26.md	Intercom LATAM SE; Portuguese fluency required (BLOCKER); 4+yr SE bar.
+2026-04-26	174	2026-04-26	Vercel	Anti-Abuse Automation Engineer	2.6/5	Evaluated	reports/174-vercel-anti-abuse-automation-2026-04-26.md	Vercel T&S Automation Eng; Remote US; payment-fraud domain gap; Vercel FDE v0 is closer match.
+2026-04-26	175	2026-04-26	Relay	Forward Deployed Engineer	2.5/5	Evaluated	reports/175-relay-tech-fde-london-2026-04-26.md	Relay London FDE; UK on-site = F-1 OPT visa blocker; tech fit OK.
+2026-04-26	176	2026-04-26	Lakera	Solutions Engineer (Italy)	2.2/5	Evaluated	reports/176-lakera-se-italy-2026-04-26.md	Lakera Italy SE; 5+yr SE bar + Italy auth = double blocker.

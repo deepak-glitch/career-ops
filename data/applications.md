@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 167 | 2026-04-26 | LangChain | Deployed Engineer (NYC) | 3.8/5 | Evaluated | ✅ | [167](reports/167-langchain-deployed-eng-nyc-2026-04-26.md) | LangChain Deployed Eng NYC on-site; agent-build remit matches Healthcare Claims multi-agent + Manga Lens; relocation needed. |
 | 159 | 2026-04-25 | SpruceID | Full-Stack Software Engineer (New Grad), Remote | 3.9/5 | Evaluated | ✅ | [159](reports/159-spruceid-fullstack-newgrad-2026-04-25.md) | US-remote new grad FDE-team; $110-150K + equity; visa caveat (TN considered) |
 | 160 | 2026-04-25 | BRM | Entry Level Software Engineer (AI Super Agents) | 3.7/5 | Evaluated | ✅ | [160](reports/160-brm-entry-level-swe-2026-04-25.md) | SF on-site recent grad; TS/Node/Postgres/Redis/AI; comp not disclosed |
 | 161 | 2026-04-25 | Strala Group | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [161](reports/161-strala-fde-2026-04-25.md) | SF on-site agentic insurance Series A; 2+ yrs IC + client-facing; top-quartile claim |
@@ -21,7 +22,7 @@
 | 129 | 2026-04-24 | Glean | Founding Forward Deployed Engineer (SF) | 3.8/5 | Evaluated | ✅ | [129](reports/129-glean-founding-fde-sf-2026-04-24.md) | Strong FDE archetype; 4+yrs stretch; SF hybrid +25-50% travel; founder signals mitigate |
 | 130 | 2026-04-24 | Glean | Founding Forward Deployed Engineer (NY) | 3.8/5 | Evaluated | ✅ | [130](reports/130-glean-founding-fde-ny-2026-04-24.md) | Cross-region hedge w/ #129; NYC hybrid +25-50% travel; same stretch profile |
 | 131 | 2026-04-24 | Anthropic | Research Engineer, AI Observability | 3.6/5 | Evaluated | ✅ | [131](reports/131-anthropic-research-engineer-ai-observability-2026-04-24.md) | Strong LLMOps match; 5+yrs seniority gap; visa sponsorship explicit; SF on-site |
-| 134 | 2026-04-24 | Vercel | Forward-Deployed Engineer | 3.2/5 | Evaluated | ✅ | [134](reports/134-vercel-forward-deployed-engineer-2026-04-24.md) | FDE archetype fit; Next.js App Router depth gap; 5+yrs stretch; hybrid SF/NYC/Austin |
+| 134 | 2026-04-26 | Vercel | Forward Deployed Engineer, v0 | 3.4/5 | Evaluated | ✅ | [168](reports/168-vercel-fde-v0-2026-04-26.md) | Re-eval 2026-04-26 (3.2→3.4). Vercel v0 FDE; Remote US; AI-coding-native role; tech stack matches Manga Lens + Dream Decoder; SE-title gap. |
 | 136 | 2026-04-24 | Projixx | AI Implementation Specialist | 4.2/5 | Evaluated | ✅ | [136](reports/136-projixx-ai-implementation-specialist-2026-04-24.md) | Entry-level direct match; LLM/agent/RAG/vector all present; Proceed w/ Caution on small-startup verify |
 | 124 | 2026-04-24 | Glean | ML Engineer, LLM Evals & Observability | 3.8/5 | Evaluated | ✅ | [124](reports/124-glean-ml-evals-observability-2026-04-24.md) | Mid (2+ yrs) direct fit; eval + LLM-judge + observability = direct match; Palo Alto hybrid 3-4d = relocation friction; $200-300K — apply |
 | 128 | 2026-04-24 | Arize AI | AI Solutions Engineer | 3.6/5 | Evaluated | ✅ | [128](reports/128-arize-ai-solutions-engineer-2026-04-24.md) | Mid SE + production ML/GenAI; anchored to Raleigh/NYC/SF — relocation; $125-175K fits target; direct match via RAG eval harness + agentic grounding — apply |

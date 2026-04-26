@@ -24,10 +24,7 @@
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4591195005 | Glean | Public Sector Solutions Engineer, SLED
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4620264005 | Glean | Strategic Solutions Engineer, East
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5843010004 | Vercel | Anti-Abuse Automation Engineer
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0
 - [ ] https://jobs.ashbyhq.com/langchain/e773649c-4ea7-47c2-9987-74d525474e82 | LangChain | Deployed Engineer (San Francisco)
-- [ ] https://jobs.ashbyhq.com/langchain/25d40647-c821-46ff-bf25-bacf21fa38b5 | LangChain | Deployed Engineer (NYC)
 - [ ] https://jobs.ashbyhq.com/langchain/1b28dcf7-04c1-4bc1-9e16-d288ce634cd2 | LangChain | Customer Engineer (Amsterdam)
 - [ ] https://jobs.ashbyhq.com/langchain/34083fce-1e80-4595-9ce9-76387b735c70 | LangChain | Deployed Engineer (Boston)
 - [ ] https://jobs.ashbyhq.com/langchain/3e31c750-67f2-4d3d-ac29-48a2b57cf4bd | LangChain | Deployed Engineer (Atlanta)
@@ -38,13 +35,10 @@
 - [ ] https://helsing.ai/jobs/4423924101?gh_jid=4423924101 | Helsing | AI Research Engineer - Robotics
 - [ ] https://helsing.ai/jobs/4372802101?gh_jid=4372802101 | Helsing | AI Research Engineer - Signal Processing
 - [ ] https://helsing.ai/jobs/4312517101?gh_jid=4312517101 | Helsing | AI Working Student - Computer Vision
-- [ ] https://jobs.ashbyhq.com/lakera.ai/792d73ef-829e-460b-9d90-f08890a5b6f6 | Lakera | Solutions Engineer (Italy)
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | Mid-Market Solutions Engineer
 - [ ] https://jobs.ashbyhq.com/legora/f81a4b5e-7ef3-4946-a147-f6c0645e98ca | Legora | Software Engineer (AI Focus)
 - [ ] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer
 - [ ] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer — EMEA
-- [ ] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer
-- [ ] https://jobs.lever.co/field-ai/6fc39622-b8e9-4aab-804a-b5fc61549dc0 | FieldAI | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer (different ID from #166)
 
 ### 2026-04-21
 
@@ -90,8 +84,6 @@
 - [!] https://builtin.com/job/junior-ai-engineer/6625641 | Navan | Junior AI Engineer | Tel Aviv, ISR (hybrid) — error: posting removed (BuiltIn 2025-07-14); archived — also location mismatch for US-focus
 - [!] https://himalayas.app/companies/jobgether/jobs/ai-ml-engineer-model-dev-data-remote-us | Jobgether | AI/ML Engineer - Model Dev & Data | Remote - USA — error: posting removed (Himalayas 404 on 2026-04-24); retry scanner
 - [!] https://netrix-global.breezy.hr/p/a80871698c8a-aws-machine-learning-engineer | Netrix Global | AWS Machine Learning Engineer | Remote - USA (verify) — error: sandbox 503 (breezy.hr egress intermittent 2026-04-24); retry next run
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7573187 | Intercom | Solutions Engineer | Chicago, Illinois
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7624926 | Intercom | Solutions Engineer - LATAM (Portuguese Speaking) | San Francisco, California
 - [!] https://jobs.ashbyhq.com/vapi/72ec9643-39c2-47ae-b04e-cba4e02b0966 | Vapi | Agent Strategist - NYC | New York — not archetype match (Customer Success / post-sales account ownership), filter slip per _profile.md hygiene; archived
 - [!] https://job-boards.greenhouse.io/airtable/jobs/8409376002 | Airtable | Software Engineer, New Grad (2026) | San Francisco, CA — error: posting not visible on Airtable Greenhouse board (likely closed/not yet open); retry next run
 - [!] https://www.workatastartup.com/jobs/71705 | Stably AI | Full-Stack Engineer - New Grad | San Francisco, CA / Remote — error: posting closed (YC WaaS 404 on 2026-04-25); archived
@@ -99,6 +91,12 @@
 - [!] https://jobs.ashbyhq.com/Chestnut/5d4fd1ec-60f3-4669-a2d2-31adf2654865 | Chestnut | Forward Deployed Engineer (Entry-Level / Early Career) | Remote (verify) — error: posting closed (not in Ashby board listing 2026-04-25); archived
 - [!] https://jobs.ashbyhq.com/saris-ai/4a6cd225-edb7-4a9f-80e0-cab601a7f092 | Saris AI | Forward Deployed Engineer (FDE) | Montreal / San Francisco — error: posting closed (not in Ashby board listing 2026-04-25); archived
 - [!] https://jobs.ashbyhq.com/P-1%20AI/75c853db-4a8d-4f23-b28f-05a2231e70e6 | P-1 AI | Forward Deployed Engineer | Location verify — error: org board returned empty (Ashby SPA + GraphQL no jobBoard 2026-04-25); retry next run
+
+### 2026-04-26
+
+- [!] https://job-boards.greenhouse.io/sayari/jobs/4053403009 | Sayari | Forward Deployed Engineer, CE | Remote - US — error: posting closed (Greenhouse API 404 on 2026-04-26); archived
+- [!] https://job-boards.greenhouse.io/scaleai/jobs/4506215005 | Scale AI | Forward Deployed Engineer - New Grad | San Francisco / NY — error: posting closed (Greenhouse API 404 on 2026-04-26); archived
+- [!] https://adaptiveteams.teamtailor.com/jobs/6978078-automation-ai-engineer | Adaptive Teams | Automation & AI Engineer | Remote — error: posting closed (TeamTailor 410 on 2026-04-26); archived
 
 
 
@@ -254,3 +252,8 @@
 - [x] #161 | https://jobs.ashbyhq.com/strala-ai/efa58c03-377d-4f72-92e0-f94b1e19a4d2 | Strala Group | Forward Deployed Engineer | San Francisco, CA — On-site | 3.6/5 | PDF ✅
 - [x] #164 | https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer (EMEA) | Paris, France — On-site | 3.5/5 | PDF ✅
 - [x] #166 | https://jobs.lever.co/regalvoice/7bbea0f0-9f63-4cc8-8d02-8eeec018bbcd | Regal | AI Forward Deployed Engineer (NYC) | New York, NY — Hybrid | 3.6/5 | PDF ✅
+
+### 2026-04-26
+
+- [x] #167 | https://jobs.ashbyhq.com/langchain/25d40647-c821-46ff-bf25-bacf21fa38b5 | LangChain | Deployed Engineer (NYC) | New York, NY — On-site | 3.8/5 | PDF ✅
+- [x] #168 | https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0 | Remote - United States | 3.4/5 | PDF ✅
