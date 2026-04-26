@@ -12,9 +12,9 @@
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8422175002 | Wayve | Software Integration Engineer (6 months Contract)
 - [!] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer | New York, NY — Hybrid — duplicate of #155 (already evaluated 2026-04-25); not re-evaluated
 - [!] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer | San Francisco — Hybrid — duplicate of #156 (already evaluated 2026-04-25); not re-evaluated
-- [ ] https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb | Agiloft | Forward Deployed Engineer — AI Solutions
-- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps
-- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer, VoIP
+- [!] https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb | Agiloft | Forward Deployed Engineer — AI Solutions | Canada Remote — evaluated as #189 on 2026-04-26 (Lever JD title is "Technical Customer Success Manager"; FDE in function); 2.5/5 — Canada-only F-1 OPT structural blocker
+- [!] https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps | Berlin/Munich/Germany Remote — evaluated as #187 on 2026-04-26; 2.4/5 — Senior DevOps + EU on-site, F-1 OPT mismatch
+- [!] https://job-boards.eu.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer, VoIP | NY Office or Remote USA — evaluated as #188 on 2026-04-26; 2.3/5 — VoIP/SIP specialty mismatch (telephony, not AI)
 - [!] https://jobs.ashbyhq.com/elevenlabs/2451b957-0ece-4e73-88e4-4196aac0ba86 | ElevenLabs | AI Creative Producer - Ads | Global hub offices — not archetype match (AI Creative Producer), filter slip per _profile.md hygiene
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer | Remote-US — duplicate of #128 (already evaluated 2026-04-24); not re-evaluated
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA | EMEA — duplicate of #128 family (already evaluated 2026-04-24); not re-evaluated
@@ -27,7 +27,7 @@
 - [!] https://helsing.ai/jobs/4372802101?gh_jid=4372802101 | Helsing | AI Research Engineer - Signal Processing | Munich, DE — research engineer (PhD-gated) + Munich on-site + F-1 OPT mismatch; not archetype fit
 - [!] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer | Remote — error: posting closed (Lever API "Document not found" on 2026-04-26); archived
 - [!] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer — EMEA | Paris, France — duplicate of #164 (already evaluated 2026-04-25); not re-evaluated
-- [ ] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer (different ID from #166)
+- [!] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer (different ID from #166) — error: posting closed (Lever API "Document not found" on 2026-04-26); archived
 
 ### 2026-04-21
 
@@ -87,6 +87,12 @@
 - [!] https://job-boards.greenhouse.io/furtherearlycareer/jobs/8025647002 | Further | Data and Machine Learning Engineers (Early Career) | Cleveland, OH / Atlanta, GA / Dallas, TX / Remote - US — error: Greenhouse job ID redirects to listing index (likely closed/expired 2026-04-26); archived. Multiple sibling early-career roles still listed (AI/Data Engineer Cleveland, Entry Level Software Developer Dallas) — retry with current IDs next scan
 - [!] https://job-boards.greenhouse.io/helmai/jobs/4608044005 | Helm.ai | Machine Learning Engineer | Remote - US — error: posting closed (Greenhouse API empty on 2026-04-26); archived
 - [!] https://innodatainc.recruitee.com/o/aiml-research-engineer-llm-post-training-evaluation | Innodata | AI/ML Research Engineer, LLM Post-Training & Evaluation | Remote — error: posting closed (Recruitee 404 on 2026-04-26); archived
+- [!] https://job-boards.greenhouse.io/cresta/jobs/5107283008 | Cresta | Forward Deployed Engineer (AI Agent) | Australia (Remote) — title is "Senior Forward Deployed Engineer (AI Agent)" with 3+ yrs ask + Australia location; not archetype match (Senior + AU on-site); filter slip per _profile.md hygiene
+- [!] https://jobs.ashbyhq.com/ascertain/d7dbc66f-2c0b-4ee0-9b92-305a243994bb | Ascertain | Forward Deployed Engineer - Remote | Remote — error: posting closed (Ashby GraphQL returns null jobPosting on 2026-04-26); archived
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-4437170 | Boomi | AI Forward Deployed Engineer | Remote (verify US) — error: sandbox 503 (remotive.com egress blocked 2026-04-26); retry next run
+- [!] https://remotive.com/remote/jobs/ai-ml/forward-deployed-engineer-4384729 | Rackspace Technology | Forward Deployed Engineer | Remote — error: sandbox 503 (remotive.com egress blocked 2026-04-26); retry next run
+- [!] https://remotive.com/remote/jobs/ai-ml/forward-deployment-engineer-4481571 | NICE | Forward Deployment Engineer | Remote (verify US) — error: sandbox 503 (remotive.com egress blocked 2026-04-26); retry next run
+- [!] https://himalayas.app/companies/obviant/jobs/artificial-intelligence-machine-learning-ai-ml-engineer | Obviant | AI/ML Engineer | Remote (verify US) — error: Himalayas redirects to homepage / job index (URL stale 2026-04-26); retry scanner
 
 
 
@@ -254,3 +260,6 @@
 - [x] #170 | https://jobs.lever.co/aircall/4965256f-b814-46a5-b6f6-e83bec714120 | Aircall | Forward Deployed Engineer (NY) | New York, NY — Hybrid | 3.2/5 | PDF ✅
 - [x] #171 | https://moser-consulting.breezy.hr/p/8a9cb5e30d08-machine-learning-ml-data-engineer | Moser Consulting | Machine Learning / Data Engineer | Indianapolis, IN — Hybrid | 3.4/5 | PDF ✅
 - [x] #181 | https://jobs.ashbyhq.com/generalrobotics/42ae26cc-4e6e-4c33-be7e-8ade29690ac6 | General Robotics | Robotics Engineer | Redmond, WA — On-site/Hybrid (US auth required) | 3.2/5 | PDF ✅
+- [x] #184 | https://job-boards.greenhouse.io/warp/jobs/5749183004 | Warp | Founding Forward Deployed Engineer | Remote within US and Canada | 3.1/5 | PDF ✅
+- [x] #185 | https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee | Perplexity | Member of Technical Staff (Forward Deployed Engineer, Applied AI) | New York City (primary); SF (secondary) | 3.0/5 | PDF ✅
+- [x] #186 | https://jobs.ashbyhq.com/firecrawl/e1543e63-bc33-48df-a823-24c3241748ee | Firecrawl | Forward Deployed Engineer (Integrations) | San Francisco, CA (Hybrid) OR Remote (Americas, UTC-3 to UTC-10) | 3.0/5 | PDF ✅

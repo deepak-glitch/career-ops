@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 184 | 2026-04-26 | Warp | Founding Forward Deployed Engineer | 3.1/5 | Evaluated | ✅ | [184](reports/184-warp-founding-fde-2026-04-26.md) | First FDE hire on Oz cloud-agent platform; agentic devtools fit; Founding tier expects senior signal |
+| 185 | 2026-04-26 | Perplexity | Member of Technical Staff (Forward Deployed Engineer, Applied AI) | 3.0/5 | Evaluated | ✅ | [185](reports/185-perplexity-fde-applied-ai-2026-04-26.md) | Enterprise FDE for Perplexity API + Computer; NYC/SF; 5+yr ask is the seniority gap |
+| 186 | 2026-04-26 | Firecrawl | Forward Deployed Engineer (Integrations) | 3.0/5 | Evaluated | ✅ | [186](reports/186-firecrawl-fde-integrations-2026-04-26.md) | TypeScript-first integration FDE; SF Hybrid OR Remote Americas; Manga Lens directly demonstrates fit |
 | 181 | 2026-04-26 | General Robotics | Robotics Engineer (Redmond, WA) | 3.2/5 | Evaluated | ✅ | [181](reports/181-general-robotics-redmond-2026-04-26.md) | US auth + $155-205K + Master's + CV/ML adjacency; ROS gap honestly framed |
 | 169 | 2026-04-26 | Agiloft | Forward Deployed Engineer - AI Solutions | 3.4/5 | Evaluated | ✅ | [169](reports/169-agiloft-fde-ai-solutions-2026-04-26.md) | US Remote, mid-level FDE/Tech CSM for CLM AI workflow config; PDF generated. |
 | 170 | 2026-04-26 | Aircall | Forward Deployed Engineer (NY) | 3.2/5 | Evaluated | ✅ | [170](reports/170-aircall-fde-ny-2026-04-26.md) | NY hybrid FDE for low-code AI agent integrations on telephony platform; quota-carrying surface; PDF generated. |
