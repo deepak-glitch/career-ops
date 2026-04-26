@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 181 | 2026-04-26 | General Robotics | Robotics Engineer (Redmond, WA) | 3.2/5 | Evaluated | ✅ | [181](reports/181-general-robotics-redmond-2026-04-26.md) | US auth + $155-205K + Master's + CV/ML adjacency; ROS gap honestly framed |
 | 169 | 2026-04-26 | Agiloft | Forward Deployed Engineer - AI Solutions | 3.4/5 | Evaluated | ✅ | [169](reports/169-agiloft-fde-ai-solutions-2026-04-26.md) | US Remote, mid-level FDE/Tech CSM for CLM AI workflow config; PDF generated. |
 | 170 | 2026-04-26 | Aircall | Forward Deployed Engineer (NY) | 3.2/5 | Evaluated | ✅ | [170](reports/170-aircall-fde-ny-2026-04-26.md) | NY hybrid FDE for low-code AI agent integrations on telephony platform; quota-carrying surface; PDF generated. |
 | 171 | 2026-04-26 | Moser Consulting | Machine Learning / Data Engineer | 3.4/5 | Evaluated | ✅ | [171](reports/171-moser-consulting-mle-de-2026-04-26.md) | Indianapolis hybrid mid-level MLE/MLOps role at consulting firm; $120-155K disclosed; PDF generated. |

@@ -10,36 +10,27 @@
 ### 2026-04-20
 
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8422175002 | Wayve | Software Integration Engineer (6 months Contract)
-- [ ] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer
-- [ ] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer
-- [ ] https://jobs.ashbyhq.com/relay/0b645cf4-3c04-41e5-a610-c46544b5cec6 | Relay Technologies | Forward Deployed Engineer
+- [!] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer | New York, NY — Hybrid — duplicate of #155 (already evaluated 2026-04-25); not re-evaluated
+- [!] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer | San Francisco — Hybrid — duplicate of #156 (already evaluated 2026-04-25); not re-evaluated
 - [ ] https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb | Agiloft | Forward Deployed Engineer — AI Solutions
-- [ ] https://jobs.ashbyhq.com/generalrobotics/42ae26cc-4e6e-4c33-be7e-8ade29690ac6 | General Robotics | Forward Deployed Engineer (Robotics)
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5192104008 | Anthropic | Global Leader, Applied AI Architects, Beneficial Deployments
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer, VoIP
-- [ ] https://jobs.ashbyhq.com/elevenlabs/2451b957-0ece-4e73-88e4-4196aac0ba86 | ElevenLabs | AI Creative Producer - Ads
-- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer
-- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4591195005 | Glean | Public Sector Solutions Engineer, SLED
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4620264005 | Glean | Strategic Solutions Engineer, East
-- [ ] https://jobs.ashbyhq.com/langchain/1b28dcf7-04c1-4bc1-9e16-d288ce634cd2 | LangChain | Customer Engineer (Amsterdam)
-- [ ] https://jobs.ashbyhq.com/langchain/3e31c750-67f2-4d3d-ac29-48a2b57cf4bd | LangChain | Deployed Engineer (Atlanta)
-- [ ] https://jobs.ashbyhq.com/langchain/d7454c6d-7025-4e46-befc-e23bedd8f452 | LangChain | Deployed Engineer (Charlotte)
-- [ ] https://jobs.ashbyhq.com/langchain/733417d6-7b74-4260-95d9-3cabf85ce0b8 | LangChain | Deployed Engineer (Raleigh)
-- [ ] https://jobs.ashbyhq.com/langchain/7ed7ca6f-2b4a-4dcd-8c14-c0f85fcf9ae2 | LangChain | Deployed Engineer (Seattle)
-- [ ] https://jobs.lever.co/mistral/d9f2767e-cdab-4e07-9944-20bbc468613d | Mistral AI | AI Deployment Strategist, Cybersecurity - Paris
-- [ ] https://helsing.ai/jobs/4423924101?gh_jid=4423924101 | Helsing | AI Research Engineer - Robotics
-- [ ] https://helsing.ai/jobs/4372802101?gh_jid=4372802101 | Helsing | AI Research Engineer - Signal Processing
-- [ ] https://helsing.ai/jobs/4312517101?gh_jid=4312517101 | Helsing | AI Working Student - Computer Vision
-- [ ] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer
-- [ ] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer — EMEA
+- [!] https://jobs.ashbyhq.com/elevenlabs/2451b957-0ece-4e73-88e4-4196aac0ba86 | ElevenLabs | AI Creative Producer - Ads | Global hub offices — not archetype match (AI Creative Producer), filter slip per _profile.md hygiene
+- [!] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer | Remote-US — duplicate of #128 (already evaluated 2026-04-24); not re-evaluated
+- [!] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA | EMEA — duplicate of #128 family (already evaluated 2026-04-24); not re-evaluated
+- [!] https://jobs.ashbyhq.com/langchain/1b28dcf7-04c1-4bc1-9e16-d288ce634cd2 | LangChain | Customer Engineer (Amsterdam) | Amsterdam, NL — same canonical LangChain Customer/Deployed JD shell already covered by #157/#167/#172/#173/#174 (5+ city variants); skipping repetitive city variants. F-1 OPT location mismatch for Amsterdam.
+- [!] https://jobs.ashbyhq.com/langchain/3e31c750-67f2-4d3d-ac29-48a2b57cf4bd | LangChain | Deployed Engineer (Atlanta) | Atlanta, GA — same canonical LangChain JD shell as #157/#167/#172/#173/#174; skipping repetitive city variants
+- [!] https://jobs.ashbyhq.com/langchain/d7454c6d-7025-4e46-befc-e23bedd8f452 | LangChain | Deployed Engineer (Charlotte) | Charlotte, NC — same canonical LangChain JD shell as #157/#167/#172/#173/#174; skipping repetitive city variants
+- [!] https://jobs.ashbyhq.com/langchain/733417d6-7b74-4260-95d9-3cabf85ce0b8 | LangChain | Deployed Engineer (Raleigh) | Raleigh, NC — same canonical LangChain JD shell as #157/#167/#172/#173/#174; skipping repetitive city variants
+- [!] https://jobs.ashbyhq.com/langchain/7ed7ca6f-2b4a-4dcd-8c14-c0f85fcf9ae2 | LangChain | Deployed Engineer (Seattle) | Seattle, WA — same canonical LangChain JD shell as #157/#167/#172/#173/#174; skipping repetitive city variants
+- [!] https://helsing.ai/jobs/4423924101?gh_jid=4423924101 | Helsing | AI Research Engineer - Robotics | Munich, DE — research engineer (PhD-gated) + Munich on-site + F-1 OPT mismatch; not archetype fit
+- [!] https://helsing.ai/jobs/4372802101?gh_jid=4372802101 | Helsing | AI Research Engineer - Signal Processing | Munich, DE — research engineer (PhD-gated) + Munich on-site + F-1 OPT mismatch; not archetype fit
+- [!] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer | Remote — error: posting closed (Lever API "Document not found" on 2026-04-26); archived
+- [!] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer — EMEA | Paris, France — duplicate of #164 (already evaluated 2026-04-25); not re-evaluated
 - [ ] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer (different ID from #166)
 
 ### 2026-04-21
 
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5134194004 | Hightouch | Enterprise Solutions Engineer, East
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5530769004 | Hightouch | Enterprise Solutions Engineer, West
 
 ### 2026-04-22
 
@@ -50,7 +41,7 @@
 
 ### 2026-04-24
 
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4577381005 | Glean | Product Designer, AI Products | San Francisco Bay Area
+- [!] https://job-boards.greenhouse.io/gleanwork/jobs/4577381005 | Glean | Product Designer, AI Products | San Francisco Bay Area — not archetype match (Product Designer, not engineer), filter slip per _profile.md hygiene
 
 ### 2026-04-25
 
@@ -262,3 +253,4 @@
 - [x] #169 | https://jobs.lever.co/agiloft/e85a0460-4a4c-48b4-a42e-0ff4f124d890 | Agiloft | Forward Deployed Engineer - AI Solutions | Remote - United States | 3.4/5 | PDF ✅
 - [x] #170 | https://jobs.lever.co/aircall/4965256f-b814-46a5-b6f6-e83bec714120 | Aircall | Forward Deployed Engineer (NY) | New York, NY — Hybrid | 3.2/5 | PDF ✅
 - [x] #171 | https://moser-consulting.breezy.hr/p/8a9cb5e30d08-machine-learning-ml-data-engineer | Moser Consulting | Machine Learning / Data Engineer | Indianapolis, IN — Hybrid | 3.4/5 | PDF ✅
+- [x] #181 | https://jobs.ashbyhq.com/generalrobotics/42ae26cc-4e6e-4c33-be7e-8ade29690ac6 | General Robotics | Robotics Engineer | Redmond, WA — On-site/Hybrid (US auth required) | 3.2/5 | PDF ✅
