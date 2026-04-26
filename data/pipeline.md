@@ -9,12 +9,12 @@
 
 ### 2026-04-20
 
-- [ ] https://wayve.firststage.co/jobs?gh_jid=8422175002 | Wayve | Software Integration Engineer (6 months Contract)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8422175002 | Wayve | Software Integration Engineer (6 months Contract) | London, UK
 - [!] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer | New York, NY — Hybrid — duplicate of #155 (already evaluated 2026-04-25); not re-evaluated
 - [!] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer | San Francisco — Hybrid — duplicate of #156 (already evaluated 2026-04-25); not re-evaluated
-- [ ] https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb | Agiloft | Forward Deployed Engineer — AI Solutions
-- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps
-- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer, VoIP
+- [!] https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb | Agiloft | Forward Deployed Engineer — AI Solutions | Canada — Remote — moved to Procesadas (#189) 2026-04-26 (Lever API resolves to TCSM/FDE in Canada; geography veto)
+- [!] https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps | Berlin / Munich / DE Remote — moved to Procesadas (#190) 2026-04-26 (Senior 5+ + DE-only)
+- [!] https://job-boards.eu.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer, VoIP | New York / US Remote — moved to Procesadas (#191) 2026-04-26 (Senior 5+ + VoIP/SIP off-archetype)
 - [!] https://jobs.ashbyhq.com/elevenlabs/2451b957-0ece-4e73-88e4-4196aac0ba86 | ElevenLabs | AI Creative Producer - Ads | Global hub offices — not archetype match (AI Creative Producer), filter slip per _profile.md hygiene
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer | Remote-US — duplicate of #128 (already evaluated 2026-04-24); not re-evaluated
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA | EMEA — duplicate of #128 family (already evaluated 2026-04-24); not re-evaluated
@@ -27,7 +27,7 @@
 - [!] https://helsing.ai/jobs/4372802101?gh_jid=4372802101 | Helsing | AI Research Engineer - Signal Processing | Munich, DE — research engineer (PhD-gated) + Munich on-site + F-1 OPT mismatch; not archetype fit
 - [!] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer | Remote — error: posting closed (Lever API "Document not found" on 2026-04-26); archived
 - [!] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer — EMEA | Paris, France — duplicate of #164 (already evaluated 2026-04-25); not re-evaluated
-- [ ] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer (different ID from #166)
+- [!] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer (different ID from #166) | error: posting closed (Lever API 404 on 2026-04-26); archived
 
 ### 2026-04-21
 
@@ -87,6 +87,18 @@
 - [!] https://job-boards.greenhouse.io/furtherearlycareer/jobs/8025647002 | Further | Data and Machine Learning Engineers (Early Career) | Cleveland, OH / Atlanta, GA / Dallas, TX / Remote - US — error: Greenhouse job ID redirects to listing index (likely closed/expired 2026-04-26); archived. Multiple sibling early-career roles still listed (AI/Data Engineer Cleveland, Entry Level Software Developer Dallas) — retry with current IDs next scan
 - [!] https://job-boards.greenhouse.io/helmai/jobs/4608044005 | Helm.ai | Machine Learning Engineer | Remote - US — error: posting closed (Greenhouse API empty on 2026-04-26); archived
 - [!] https://innodatainc.recruitee.com/o/aiml-research-engineer-llm-post-training-evaluation | Innodata | AI/ML Research Engineer, LLM Post-Training & Evaluation | Remote — error: posting closed (Recruitee 404 on 2026-04-26); archived
+- [!] https://apply.workable.com/aerones/j/1776952DCB/ | Aerones | Applied AI Engineer | Latvia — error: posting closed (Workable 302 not_found on 2026-04-26); archived
+- [!] https://apply.workable.com/neurohire-dot-a-i/j/23AB9552F9/ | neurohire.ai | AI Engineer | Remote (verify) — error: extraction blocked (Workable JS-only render + sandbox 503 on 2026-04-26); retry next run
+- [!] https://apply.workable.com/getsubstance/j/587184A15D/ | Substance | Artificial Intelligence (AI) Engineers | Remote (verify) — error: extraction blocked (Workable JS-only render; meta says recruiting agency for unnamed client); retry next run with cached/aggregator copy
+- [!] https://apply.workable.com/eluvio/j/A349A0D2AF | Eluvio | Software Engineer New Grad (MSc/BSc: AI, Core, Apps) | Remote (verify) — error: extraction blocked (Workable JS-only render + sandbox 503 on 2026-04-26); retry next run
+- [!] https://siili.teamtailor.com/jobs/6640303-ai-engineer | Siili Solutions | AI Engineer | Finland (Helsinki/Joensuu/Jyväskylä/Kuopio/Oulu/Seinäjoki/Tampere) — Hybrid; Finnish required — moved to Procesadas (#186) 2026-04-26 (geography + language veto)
+- [!] https://ascendingai.recruitee.com/o/software-engineer-agentic-infrastructure | Ascending AI | Software Engineer - Agentic Infrastructure | Amsterdam, NL — Hybrid (relocation supported) — moved to Procesadas (#187) 2026-04-26 (Senior 5+ + EU-only filter slip)
+- [!] https://job-boards.greenhouse.io/offerup/jobs/7739995 | OfferUp | AI Engineer | Hybrid Bellevue, WA or Remote Florida — moved to Procesadas (#184) 2026-04-26 (4.2/5 — strong fit)
+- [!] https://job-boards.greenhouse.io/buzzsolutions/jobs/5195601008 | Buzz Solutions | Computer Vision & Machine Learning Engineer | Remote (US, no visa sponsorship) — moved to Procesadas (#185) 2026-04-26 (3.0/5 — visa policy red flag)
+- [!] https://job-boards.greenhouse.io/metropolis/jobs/7517689003 | Metropolis | Machine Learning Engineer, Computer Vision | Los Angeles, CA — error: posting closed (Greenhouse API 404 on 2026-04-26); archived
+- [!] https://jobs.ashbyhq.com/vitvio/efe1ff34-8668-4c12-991d-624daa77214d | VitVio | Machine Learning Engineer, Computer Vision | Location verify — error: posting closed (Ashby GraphQL jobPosting null + only "General Application" on board on 2026-04-26); archived
+- [!] https://netrix-global.breezy.hr/p/08838d85975c-machine-learning-engineer | Netrix Global | Machine Learning Engineer | Remote - USA (verify) — error: posting closed (Breezy 302 redirect on 2026-04-26); archived
+- [!] https://netrix-global.breezy.hr/p/ae6b1a45ad39-azure-machine-learning-engineer | Netrix Global | Azure Machine Learning Engineer | Argentina — Remote — moved to Procesadas (#188) 2026-04-26 (geography + Azure-stack mismatch)
 
 
 
@@ -254,3 +266,5 @@
 - [x] #170 | https://jobs.lever.co/aircall/4965256f-b814-46a5-b6f6-e83bec714120 | Aircall | Forward Deployed Engineer (NY) | New York, NY — Hybrid | 3.2/5 | PDF ✅
 - [x] #171 | https://moser-consulting.breezy.hr/p/8a9cb5e30d08-machine-learning-ml-data-engineer | Moser Consulting | Machine Learning / Data Engineer | Indianapolis, IN — Hybrid | 3.4/5 | PDF ✅
 - [x] #181 | https://jobs.ashbyhq.com/generalrobotics/42ae26cc-4e6e-4c33-be7e-8ade29690ac6 | General Robotics | Robotics Engineer | Redmond, WA — On-site/Hybrid (US auth required) | 3.2/5 | PDF ✅
+- [x] #184 | https://job-boards.greenhouse.io/offerup/jobs/7739995 | OfferUp | AI Engineer | Hybrid Bellevue, WA or Remote Florida | 4.2/5 | PDF ✅
+- [x] #185 | https://job-boards.greenhouse.io/buzzsolutions/jobs/5195601008 | Buzz Solutions | Computer Vision & Machine Learning Engineer | Remote - US (no visa sponsorship) | 3.0/5 | PDF ✅

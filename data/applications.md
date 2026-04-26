@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 184 | 2026-04-26 | OfferUp | AI Engineer (Hybrid Bellevue, WA / Remote FL) | 4.2/5 | Evaluated | ✅ | [184](reports/184-offerup-ai-engineer-2026-04-26.md) | Strong RAG+agentic+LangChain/LangGraph match; $140-160K; 2-4 yrs band fit; visa policy not stated — confirm in screen |
+| 185 | 2026-04-26 | Buzz Solutions | Computer Vision & Machine Learning Engineer | 3.0/5 | Evaluated | ✅ | [185](reports/185-buzz-solutions-cv-ml-2026-04-26.md) | YC CV-for-power-grid; YOLOv8/transformers fit; explicit "no visa sponsorship" — only apply if 2-yr OPT horizon acceptable |
 | 181 | 2026-04-26 | General Robotics | Robotics Engineer (Redmond, WA) | 3.2/5 | Evaluated | ✅ | [181](reports/181-general-robotics-redmond-2026-04-26.md) | US auth + $155-205K + Master's + CV/ML adjacency; ROS gap honestly framed |
 | 169 | 2026-04-26 | Agiloft | Forward Deployed Engineer - AI Solutions | 3.4/5 | Evaluated | ✅ | [169](reports/169-agiloft-fde-ai-solutions-2026-04-26.md) | US Remote, mid-level FDE/Tech CSM for CLM AI workflow config; PDF generated. |
 | 170 | 2026-04-26 | Aircall | Forward Deployed Engineer (NY) | 3.2/5 | Evaluated | ✅ | [170](reports/170-aircall-fde-ny-2026-04-26.md) | NY hybrid FDE for low-code AI agent integrations on telephony platform; quota-carrying surface; PDF generated. |
