@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 169 | 2026-04-26 | Agiloft | Forward Deployed Engineer - AI Solutions | 3.4/5 | Evaluated | ✅ | [169](reports/169-agiloft-fde-ai-solutions-2026-04-26.md) | US Remote, mid-level FDE/Tech CSM for CLM AI workflow config; PDF generated. |
+| 170 | 2026-04-26 | Aircall | Forward Deployed Engineer (NY) | 3.2/5 | Evaluated | ✅ | [170](reports/170-aircall-fde-ny-2026-04-26.md) | NY hybrid FDE for low-code AI agent integrations on telephony platform; quota-carrying surface; PDF generated. |
+| 171 | 2026-04-26 | Moser Consulting | Machine Learning / Data Engineer | 3.4/5 | Evaluated | ✅ | [171](reports/171-moser-consulting-mle-de-2026-04-26.md) | Indianapolis hybrid mid-level MLE/MLOps role at consulting firm; $120-155K disclosed; PDF generated. |
 | 167 | 2026-04-26 | LangChain | Deployed Engineer (NYC) | 3.8/5 | Evaluated | ✅ | [167](reports/167-langchain-deployed-eng-nyc-2026-04-26.md) | LangChain Deployed Eng NYC on-site; agent-build remit matches Healthcare Claims multi-agent + Manga Lens; relocation needed. |
 | 159 | 2026-04-25 | SpruceID | Full-Stack Software Engineer (New Grad), Remote | 3.9/5 | Evaluated | ✅ | [159](reports/159-spruceid-fullstack-newgrad-2026-04-25.md) | US-remote new grad FDE-team; $110-150K + equity; visa caveat (TN considered) |
 | 160 | 2026-04-25 | BRM | Entry Level Software Engineer (AI Super Agents) | 3.7/5 | Evaluated | ✅ | [160](reports/160-brm-entry-level-swe-2026-04-25.md) | SF on-site recent grad; TS/Node/Postgres/Redis/AI; comp not disclosed |

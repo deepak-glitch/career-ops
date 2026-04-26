@@ -14,7 +14,6 @@
 - [ ] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/relay/0b645cf4-3c04-41e5-a610-c46544b5cec6 | Relay Technologies | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb | Agiloft | Forward Deployed Engineer — AI Solutions
-- [ ] https://jobs.ashbyhq.com/truelogic/cee25dcf-9a7f-474b-9724-abb510bc3968 | Truelogic | Forward Deployed Engineer — Technology
 - [ ] https://jobs.ashbyhq.com/generalrobotics/42ae26cc-4e6e-4c33-be7e-8ade29690ac6 | General Robotics | Forward Deployed Engineer (Robotics)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5192104008 | Anthropic | Global Leader, Applied AI Architects, Beneficial Deployments
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps
@@ -24,9 +23,7 @@
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4591195005 | Glean | Public Sector Solutions Engineer, SLED
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4620264005 | Glean | Strategic Solutions Engineer, East
-- [ ] https://jobs.ashbyhq.com/langchain/e773649c-4ea7-47c2-9987-74d525474e82 | LangChain | Deployed Engineer (San Francisco)
 - [ ] https://jobs.ashbyhq.com/langchain/1b28dcf7-04c1-4bc1-9e16-d288ce634cd2 | LangChain | Customer Engineer (Amsterdam)
-- [ ] https://jobs.ashbyhq.com/langchain/34083fce-1e80-4595-9ce9-76387b735c70 | LangChain | Deployed Engineer (Boston)
 - [ ] https://jobs.ashbyhq.com/langchain/3e31c750-67f2-4d3d-ac29-48a2b57cf4bd | LangChain | Deployed Engineer (Atlanta)
 - [ ] https://jobs.ashbyhq.com/langchain/d7454c6d-7025-4e46-befc-e23bedd8f452 | LangChain | Deployed Engineer (Charlotte)
 - [ ] https://jobs.ashbyhq.com/langchain/733417d6-7b74-4260-95d9-3cabf85ce0b8 | LangChain | Deployed Engineer (Raleigh)
@@ -35,14 +32,12 @@
 - [ ] https://helsing.ai/jobs/4423924101?gh_jid=4423924101 | Helsing | AI Research Engineer - Robotics
 - [ ] https://helsing.ai/jobs/4372802101?gh_jid=4372802101 | Helsing | AI Research Engineer - Signal Processing
 - [ ] https://helsing.ai/jobs/4312517101?gh_jid=4312517101 | Helsing | AI Working Student - Computer Vision
-- [ ] https://jobs.ashbyhq.com/legora/f81a4b5e-7ef3-4946-a147-f6c0645e98ca | Legora | Software Engineer (AI Focus)
 - [ ] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer
 - [ ] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer — EMEA
 - [ ] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer (different ID from #166)
 
 ### 2026-04-21
 
-- [ ] https://jobs.ashbyhq.com/langchain/3f793a73-9b0d-456b-9a7c-16441e3e6e69 | LangChain | Deployed Engineer (Denver)
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5134194004 | Hightouch | Enterprise Solutions Engineer, East
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5530769004 | Hightouch | Enterprise Solutions Engineer, West
 
@@ -97,6 +92,10 @@
 - [!] https://job-boards.greenhouse.io/sayari/jobs/4053403009 | Sayari | Forward Deployed Engineer, CE | Remote - US — error: posting closed (Greenhouse API 404 on 2026-04-26); archived
 - [!] https://job-boards.greenhouse.io/scaleai/jobs/4506215005 | Scale AI | Forward Deployed Engineer - New Grad | San Francisco / NY — error: posting closed (Greenhouse API 404 on 2026-04-26); archived
 - [!] https://adaptiveteams.teamtailor.com/jobs/6978078-automation-ai-engineer | Adaptive Teams | Automation & AI Engineer | Remote — error: posting closed (TeamTailor 410 on 2026-04-26); archived
+- [!] https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | Washington, DC / NY / Palo Alto / Seattle — error: posting closed (Lever API 404 on 2026-04-26); archived
+- [!] https://job-boards.greenhouse.io/furtherearlycareer/jobs/8025647002 | Further | Data and Machine Learning Engineers (Early Career) | Cleveland, OH / Atlanta, GA / Dallas, TX / Remote - US — error: Greenhouse job ID redirects to listing index (likely closed/expired 2026-04-26); archived. Multiple sibling early-career roles still listed (AI/Data Engineer Cleveland, Entry Level Software Developer Dallas) — retry with current IDs next scan
+- [!] https://job-boards.greenhouse.io/helmai/jobs/4608044005 | Helm.ai | Machine Learning Engineer | Remote - US — error: posting closed (Greenhouse API empty on 2026-04-26); archived
+- [!] https://innodatainc.recruitee.com/o/aiml-research-engineer-llm-post-training-evaluation | Innodata | AI/ML Research Engineer, LLM Post-Training & Evaluation | Remote — error: posting closed (Recruitee 404 on 2026-04-26); archived
 
 
 
@@ -257,3 +256,9 @@
 
 - [x] #167 | https://jobs.ashbyhq.com/langchain/25d40647-c821-46ff-bf25-bacf21fa38b5 | LangChain | Deployed Engineer (NYC) | New York, NY — On-site | 3.8/5 | PDF ✅
 - [x] #168 | https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0 | Remote - United States | 3.4/5 | PDF ✅
+- [x] #172 | https://jobs.ashbyhq.com/langchain/3f793a73-9b0d-456b-9a7c-16441e3e6e69 | LangChain | Deployed Engineer (Denver) | Denver, CO — In-region | 3.7/5 | PDF ✅
+- [x] #173 | https://jobs.ashbyhq.com/langchain/34083fce-1e80-4595-9ce9-76387b735c70 | LangChain | Deployed Engineer (Boston) | Boston, MA — In-region | 3.7/5 | PDF ✅
+- [x] #174 | https://jobs.ashbyhq.com/langchain/e773649c-4ea7-47c2-9987-74d525474e82 | LangChain | Deployed Engineer (San Francisco) | San Francisco, CA — In-region | 3.7/5 | PDF ✅
+- [x] #169 | https://jobs.lever.co/agiloft/e85a0460-4a4c-48b4-a42e-0ff4f124d890 | Agiloft | Forward Deployed Engineer - AI Solutions | Remote - United States | 3.4/5 | PDF ✅
+- [x] #170 | https://jobs.lever.co/aircall/4965256f-b814-46a5-b6f6-e83bec714120 | Aircall | Forward Deployed Engineer (NY) | New York, NY — Hybrid | 3.2/5 | PDF ✅
+- [x] #171 | https://moser-consulting.breezy.hr/p/8a9cb5e30d08-machine-learning-ml-data-engineer | Moser Consulting | Machine Learning / Data Engineer | Indianapolis, IN — Hybrid | 3.4/5 | PDF ✅
