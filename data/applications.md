@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 202 | 2026-04-27 | Hugging Face | Cloud Machine Learning Engineer (US Remote) | 3.8/5 | Evaluated | ✅ | [202](reports/202-huggingface-cloud-ml-engineer-2026-04-27.md) | US-remote, HF Transformers/Diffusers + cloud partner integrations (SageMaker/Azure/Vertex); 3 HF-stack projects in CV (Pixel Character LoRA, video summarization transformers, healthcare RAG); cloud-platform ramp expected; equity upside. |
+| 203 | 2026-04-27 | BioRender | Applied AI Engineer (US Remote) | 3.7/5 | Evaluated | ✅ | [203](reports/203-biorender-applied-ai-2026-04-27.md) | US-remote, internal AI tools + SaaS integrations; Python+JS+OpenAI/Anthropic/Gemini direct match (Manga Lens 4-provider abstraction); 4+ yr stretch from 2.5; Toronto-HQ profitable scientific-viz SaaS. |
 | 192 | 2026-04-27 | Perplexity | Forward Deployed Engineer, Applied AI | 3.8/5 | Evaluated | ✅ | [192](reports/192-perplexity-fde-applied-ai-2026-04-27.md) | SF/NYC/Seattle/London in-office; Applied AI FDE on API Platform + Perplexity Computer; strong RAG+agentic match; mid-MTS level; verify F-1 OPT bridge. |
 | 193 | 2026-04-27 | Synthflow AI | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [193](reports/193-synthflow-fde-2026-04-27.md) | Berlin HQ remote-first; voice AI phone agents; 3-6 yrs floor (Deepak at 2.5); telephony gap; F-1 OPT non-US complications. |
 | 194 | 2026-04-27 | Osmo | Forward Deployed AI Engineer - Enterprise Solutions | 3.0/5 | Evaluated | ✅ | [194](reports/194-osmo-fde-enterprise-2026-04-27.md) | Elizabeth NJ on-site; CPG fragrance niche; $130-150K stated; relocation + F-1 OPT logistics tight but workable. |

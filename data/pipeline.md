@@ -9,7 +9,7 @@
 
 ### 2026-04-20
 
-- [ ] https://wayve.firststage.co/jobs?gh_jid=8422175002 | Wayve | Software Integration Engineer (6 months Contract) | London, UK
+- [!] https://wayve.firststage.co/jobs?gh_jid=8422175002 | Wayve | Software Integration Engineer (6 months Contract) | Leonberg, DE — moved to Procesadas (#205) 2026-04-27 (1.5/5 — embedded automotive off-archetype + DE on-site + 6-mo contract conflicts with F-1 OPT)
 - [!] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer | New York, NY — Hybrid — duplicate of #155 (already evaluated 2026-04-25); not re-evaluated
 - [!] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer | San Francisco — Hybrid — duplicate of #156 (already evaluated 2026-04-25); not re-evaluated
 - [!] https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb | Agiloft | Forward Deployed Engineer — AI Solutions | Canada — Remote — moved to Procesadas (#189) 2026-04-26 (Lever API resolves to TCSM/FDE in Canada; geography veto)
@@ -112,8 +112,15 @@
 - [!] https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote - United States — moved to Procesadas (#198) 2026-04-27 (4.1/5 — strong fit)
 - [!] https://job-boards.greenhouse.io/devrev/jobs/5668875004 | DevRev | Forward Deployed Engineer | Remote-US (verify) — moved to Procesadas (#199) 2026-04-27 (3.4/5)
 - [!] https://job-boards.greenhouse.io/doitintl/jobs/7707531003 | DoiT | Applied AI Engineer | Remote EU/Eastern Europe — moved to Procesadas (#200) 2026-04-27 (2.7/5 — geography hard block)
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/7714520003?gh_jid=7714520003 | Celonis | Client Value Partner - AI-Driven Transformation & Process Intelligence | Paris, France
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/7669258003?gh_jid=7669258003 | Celonis | Client Value Partner (CVP) - AI-Driven Transformation & Process Intelligence | Zürich, Switzerland
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7714520003?gh_jid=7714520003 | Celonis | Client Value Partner - AI-Driven Transformation & Process Intelligence | Paris, France — moved to Procesadas (#206) 2026-04-27 (1.5/5 — sales/CS leader role 15+yrs, off-archetype)
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7669258003?gh_jid=7669258003 | Celonis | Client Value Partner (CVP) - AI-Driven Transformation & Process Intelligence | Zürich, Switzerland — moved to Procesadas (#207) 2026-04-27 (1.5/5 — same JD shell as #206)
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7683568003?gh_jid=7683568003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence | Zürich, Switzerland — moved to Procesadas (#208) 2026-04-27 (1.5/5 — same JD shell as #206/#207)
+- [!] https://apply.workable.com/huggingface/j/A3879724CD | Hugging Face | Cloud Machine Learning Engineer | US Remote — moved to Procesadas (#202) 2026-04-27 (3.8/5 — strong fit, PDF generated)
+- [!] https://apply.workable.com/huggingface/j/890897DBC6 | Hugging Face | Machine Learning Engineer, Fast Optimized Inference | US Remote — error: posting closed (Workable redirects to ?not_found=true 2026-04-27); archived
+- [!] https://apply.workable.com/huggingface/j/6DBAC48BB7 | Hugging Face | Machine Learning Engineer, WebML | US Remote — error: posting closed (Workable redirects to ?not_found=true 2026-04-27); archived
+- [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4471342 | BioRender | Applied AI Engineer | Remote - USA — moved to Procesadas (#203) 2026-04-27 (3.7/5 — strong fit, PDF generated)
+- [!] https://tooploox.teamtailor.com/jobs/6973373-ai-engineer | Tooploox | AI Engineer | Warsaw / Wrocław / Remote-Poland — moved to Procesadas (#204) 2026-04-27 (2.5/5 — geography hard block for F-1 OPT)
+
 
 ## Procesadas
 
@@ -291,3 +298,5 @@
 - [x] #197 | https://job-boards.greenhouse.io/impiricus/jobs/5195577008 | Impiricus | AI Engineer | NYC / Atlanta / Remote-US — Flexible | 4.0/5 | PDF ✅
 - [x] #198 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote - United States | 4.1/5 | PDF ✅
 - [x] #199 | https://job-boards.greenhouse.io/devrev/jobs/5668875004 | DevRev | Forward Deployed Engineer | Remote-US (verify) | 3.4/5 | PDF ✅
+- [x] #202 | https://apply.workable.com/huggingface/j/A3879724CD | Hugging Face | Cloud Machine Learning Engineer | US Remote | 3.8/5 | PDF ✅
+- [x] #203 | https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4471342 | BioRender | Applied AI Engineer | Remote - USA | 3.7/5 | PDF ✅
