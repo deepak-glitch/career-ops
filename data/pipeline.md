@@ -100,7 +100,20 @@
 - [!] https://netrix-global.breezy.hr/p/08838d85975c-machine-learning-engineer | Netrix Global | Machine Learning Engineer | Remote - USA (verify) — error: posting closed (Breezy 302 redirect on 2026-04-26); archived
 - [!] https://netrix-global.breezy.hr/p/ae6b1a45ad39-azure-machine-learning-engineer | Netrix Global | Azure Machine Learning Engineer | Argentina — Remote — moved to Procesadas (#188) 2026-04-26 (geography + Azure-stack mismatch)
 
+### 2026-04-27
 
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7696087003?gh_jid=7696087003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence | Paris, France — moved to Procesadas (#201) 2026-04-27 (sales/consulting role; SKIP)
+- [!] https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee | Perplexity | Forward Deployed Engineer - Applied AI | SF/NYC/Seattle/London — moved to Procesadas (#192) 2026-04-27 (3.8/5)
+- [!] https://jobs.ashbyhq.com/synthflow/575cc030-79c1-45a5-a2f0-7a32071c5411 | Synthflow AI | Forward Deployed Engineer | Berlin / Remote-first — moved to Procesadas (#193) 2026-04-27 (3.2/5)
+- [!] https://jobs.ashbyhq.com/osmo/7f37ca45-489e-40a7-8940-41e6aebb9d21 | Osmo | Forward Deployed AI Engineer - Enterprise Solutions | Elizabeth, NJ — moved to Procesadas (#194) 2026-04-27 (3.0/5)
+- [!] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | General Robotics | Forward Deployed Engineer (AI) | Redmond, WA — moved to Procesadas (#195) 2026-04-27 (2.8/5 — domain mismatch)
+- [!] https://jobs.ashbyhq.com/Forward%20Financing/1b955d68-79af-41da-a959-59620dfe04a1 | Forward Financing | Applied AI Engineer | Boston / Remote-US — moved to Procesadas (#196) 2026-04-27 (3.5/5)
+- [!] https://job-boards.greenhouse.io/impiricus/jobs/5195577008 | Impiricus | AI Engineer | NYC/ATL/Remote-US — moved to Procesadas (#197) 2026-04-27 (4.0/5)
+- [!] https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote - United States — moved to Procesadas (#198) 2026-04-27 (4.1/5 — strong fit)
+- [!] https://job-boards.greenhouse.io/devrev/jobs/5668875004 | DevRev | Forward Deployed Engineer | Remote-US (verify) — moved to Procesadas (#199) 2026-04-27 (3.4/5)
+- [!] https://job-boards.greenhouse.io/doitintl/jobs/7707531003 | DoiT | Applied AI Engineer | Remote EU/Eastern Europe — moved to Procesadas (#200) 2026-04-27 (2.7/5 — geography hard block)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7714520003?gh_jid=7714520003 | Celonis | Client Value Partner - AI-Driven Transformation & Process Intelligence | Paris, France
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7669258003?gh_jid=7669258003 | Celonis | Client Value Partner (CVP) - AI-Driven Transformation & Process Intelligence | Zürich, Switzerland
 
 ## Procesadas
 
@@ -268,3 +281,13 @@
 - [x] #181 | https://jobs.ashbyhq.com/generalrobotics/42ae26cc-4e6e-4c33-be7e-8ade29690ac6 | General Robotics | Robotics Engineer | Redmond, WA — On-site/Hybrid (US auth required) | 3.2/5 | PDF ✅
 - [x] #184 | https://job-boards.greenhouse.io/offerup/jobs/7739995 | OfferUp | AI Engineer | Hybrid Bellevue, WA or Remote Florida | 4.2/5 | PDF ✅
 - [x] #185 | https://job-boards.greenhouse.io/buzzsolutions/jobs/5195601008 | Buzz Solutions | Computer Vision & Machine Learning Engineer | Remote - US (no visa sponsorship) | 3.0/5 | PDF ✅
+
+### 2026-04-27
+
+- [x] #192 | https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee | Perplexity | Forward Deployed Engineer, Applied AI | San Francisco, CA / New York, NY / Seattle, WA / London — In-office | 3.8/5 | PDF ✅
+- [x] #193 | https://jobs.ashbyhq.com/synthflow/575cc030-79c1-45a5-a2f0-7a32071c5411 | Synthflow AI | Forward Deployed Engineer | Berlin, Germany / Remote-first | 3.2/5 | PDF ✅
+- [x] #194 | https://jobs.ashbyhq.com/osmo/7f37ca45-489e-40a7-8940-41e6aebb9d21 | Osmo | Forward Deployed AI Engineer - Enterprise Solutions | Elizabeth, NJ — On-site | 3.0/5 | PDF ✅
+- [x] #196 | https://jobs.ashbyhq.com/Forward%20Financing/1b955d68-79af-41da-a959-59620dfe04a1 | Forward Financing | Applied AI Engineer | Boston, MA / Remote-US — Employee Choice | 3.5/5 | PDF ✅
+- [x] #197 | https://job-boards.greenhouse.io/impiricus/jobs/5195577008 | Impiricus | AI Engineer | NYC / Atlanta / Remote-US — Flexible | 4.0/5 | PDF ✅
+- [x] #198 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote - United States | 4.1/5 | PDF ✅
+- [x] #199 | https://job-boards.greenhouse.io/devrev/jobs/5668875004 | DevRev | Forward Deployed Engineer | Remote-US (verify) | 3.4/5 | PDF ✅
