@@ -129,6 +129,21 @@
 - [!] https://jobs.ashbyhq.com/Hippocratic%20AI/bf52b86b-ef5d-4826-bad9-5132ffd8eb57 | Hippocratic AI | Junior Forward Deployment Engineer (Contract) | Remote (verify) — error: posting closed (Ashby jobPosting null + not on board 2026-04-27); archived
 - [!] https://job-boards.greenhouse.io/sezzle/jobs/7710043003 | Sezzle | AI Engineering I - Marketing | Bogota, Colombia / LATAM Remote — moved to Procesadas (#213) 2026-04-27 (2.3/5 — LATAM/Türkiye-only geo + $30-40k comp band)
 - [!] https://job-boards.greenhouse.io/sezzle/jobs/7633952003 | Sezzle | AI Engineer I (Remote) | Türkiye / LATAM Remote — evaluated 2026-04-27 (2.4/5 — same LATAM/Türkiye geo + $30-40k comp); merge-tracker deduped against existing #50 (3.5/5) — kept #50 entry; report archived as orphan
+- [!] https://jobs.ashbyhq.com/supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e | Supabase | AI Tooling Engineer | Remote — moved to Procesadas (#214) 2026-04-27 (3.1/5 — JS/TS-first DX role; adjacent fit)
+- [!] https://jobs.ashbyhq.com/firecrawl/e1543e63-bc33-48df-a823-24c3241748ee | Firecrawl | Forward Deployed Engineer (Integrations) | SF / Remote-Americas — moved to Procesadas (#215) 2026-04-27 (3.5/5)
+- [!] https://jobs.ashbyhq.com/ascertain/d7dbc66f-2c0b-4ee0-9b92-305a243994bb | Ascertain | Forward Deployed Engineer - Remote | Remote-US (NYC hybrid optional) — moved to Procesadas (#216) 2026-04-27 (4.1/5 — strong healthcare AI agent fit)
+- [!] https://jobs.ashbyhq.com/benchling/b3c9b312-6e2b-4dbc-9b15-0b0310d75a7f | Benchling | Software Engineer, New Grad (2026) | San Francisco — Hybrid 3d/wk — moved to Procesadas (#217) 2026-04-27 (2.4/5 — cohort gating: requires currently-enrolled BS/MS expected Summer 2026)
+- [!] https://job-boards.greenhouse.io/figma/jobs/5616603004 | Figma | Early Career, Software Engineer (2026) | San Francisco / NYC — error: posting closed (Greenhouse 302 redirect to ?error=true on 2026-04-27); archived
+- [!] https://job-boards.greenhouse.io/sigmacomputing/jobs/7639838003 | Sigma Computing | Software Engineer (New Grad Program) | Remote - US — error: posting not found on Sigma's Greenhouse board (only listing returned, no JD); likely closed/expired 2026-04-27; archived
+- [!] https://job-boards.greenhouse.io/deepintent/jobs/5979052004 | DeepIntent | Applied AI Engineer | New York, NY (ET; remote-flex) — moved to Procesadas (#218) 2026-04-27 (4.0/5 — strong embedded Applied AI fit)
+- [!] https://www.workatastartup.com/jobs/85445 | Phonely | Forward Deployed Engineer | San Francisco, CA — On-site (relocation OK) — moved to Procesadas (#219) 2026-04-27 (3.4/5 — voice AI gap mitigable)
+- [!] https://www.workatastartup.com/jobs/76656 | Dex | Founding Engineer (new grads ok) | San Francisco / Remote-US — error: WaaS page returned only title (sandbox-degraded extraction 2026-04-27); retry next run with cached/aggregator copy
+- [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-agent-intelligence-retrieval-3227287 | Littlebird | Applied AI Engineer - Agent Intelligence & Retrieval | Remote - US — error: posting closed (Remotive 410 on 2026-04-27); archived
+- [!] https://remotive.com/remote/jobs/software-development/applied-ai-engineer-4116761 | Axiomatic AI | Applied AI Engineer | Remote - US — error: posting closed (Remotive 404 on 2026-04-27); archived
+- [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4468950 | Amigo | Applied AI Engineer | Remote - US (verify) — error: extraction blocked (sandbox 503 on 2026-04-27); retry next run
+- [!] https://himalayas.app/companies/oneforma/jobs/ai-engineer | OneForma | AI Engineer | Remote - US (verify) — error: extraction blocked (himalayas.app sandbox 503 on 2026-04-27); retry next run
+- [!] https://himalayas.app/companies/defense-unicorns/jobs/forward-deployed-ai-engineer-7929817277 | Defense Unicorns | Forward Deployed AI Engineer | Remote - US — moved to Procesadas (#220) 2026-04-27 (1.5/5 — HARD VETO: requires US Citizenship + TS/SCI; F-1 OPT cannot apply)
+
 
 
 ## Procesadas
@@ -311,3 +326,8 @@
 - [x] #203 | https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4471342 | BioRender | Applied AI Engineer | Remote - USA | 3.7/5 | PDF ✅
 - [x] #209 | https://job-boards.greenhouse.io/augmentcomputing/jobs/4680036008 | Augment Code | Applied AI Engineer | Palo Alto, CA — On-site (Augment HQ) | 3.9/5 | PDF ✅
 - [x] #210 | https://velox.breezy.hr/p/42dadbd6181a-artificial-ai-engineer | VELOX | Artificial (AI) Engineer | Boise, ID — On-site | 3.0/5 | PDF ✅
+- [x] #214 | https://jobs.ashbyhq.com/supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e | Supabase | AI Tooling Engineer | Fully Remote (any TZ) — ESOP | 3.1/5 | PDF ✅
+- [x] #215 | https://jobs.ashbyhq.com/firecrawl/e1543e63-bc33-48df-a823-24c3241748ee | Firecrawl | Forward Deployed Engineer (Integrations) | San Francisco, CA / Remote-Americas (UTC-3 to UTC-10) | 3.5/5 | PDF ✅
+- [x] #216 | https://jobs.ashbyhq.com/ascertain/d7dbc66f-2c0b-4ee0-9b92-305a243994bb | Ascertain | Forward Deployed Engineer - Remote | Remote-US (NYC hybrid optional) | 4.1/5 | PDF ✅
+- [x] #218 | https://job-boards.greenhouse.io/deepintent/jobs/5979052004 | DeepIntent | Applied AI Engineer | New York, NY — ET; remote-flex | 4.0/5 | PDF ✅
+- [x] #219 | https://www.workatastartup.com/jobs/85445 | Phonely | Forward Deployed Engineer | San Francisco, CA — On-site (relocation OK) | 3.4/5 | PDF ✅

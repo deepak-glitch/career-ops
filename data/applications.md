@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 214 | 2026-04-27 | Supabase | AI Tooling Engineer | 3.1/5 | Evaluated | ✅ | [214](reports/214-supabase-ai-tooling-2026-04-27.md) | Fully remote OSS dev-tools; JS/TS-first AI tooling (MCP server + dashboard AI assistant); adjacent fit |
+| 215 | 2026-04-27 | Firecrawl | Forward Deployed Engineer (Integrations) | 3.5/5 | Evaluated | ✅ | [215](reports/215-firecrawl-fde-integrations-2026-04-27.md) | YC FDE; SF or Remote-Americas; $160K-$220K; web extraction + customer integration |
+| 216 | 2026-04-27 | Ascertain | Forward Deployed Engineer - Remote | 4.1/5 | Evaluated | ✅ | [216](reports/216-ascertain-fde-remote-2026-04-27.md) | Healthcare AI agents; remote-US; $130K-$175K; strong archetype fit (RAG + agentic + healthcare) |
+| 218 | 2026-04-27 | DeepIntent | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [218](reports/218-deepintent-applied-ai-2026-04-27.md) | NYC/ET; $110K-$150K; OpenAI/Claude/MCP/Python; embedded with commercial-ops; strong fit |
+| 219 | 2026-04-27 | Phonely | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [219](reports/219-phonely-fde-2026-04-27.md) | YC + Series A voice AI; SF on-site (relocation OK); $130K-$190K + 0.2-0.45% equity; voice-AI gap mitigable |
 | 209 | 2026-04-27 | Augment Code | Applied AI Engineer | 3.9/5 | Evaluated | ✅ | [209](reports/209-augment-code-applied-ai-2026-04-27.md) | Bay Area Applied AI at coding-assistant startup; Palo Alto on-site; Context Engine over repo (RAG analog); strong fit; comp band missing (CA SB 1162 minor flag); F-1 OPT viable initially |
 | 210 | 2026-04-27 | VELOX | Artificial (AI) Engineer | 3.0/5 | Evaluated | ✅ | [210](reports/210-velox-ai-engineer-2026-04-27.md) | Boise, ID on-site; small shop; broad AI/ML + RAG + Pinecone/Weaviate + cloud; bonus PHP/Laravel matches Deepak's E-Farming; comp + sponsorship not stated |
 | 202 | 2026-04-27 | Hugging Face | Cloud Machine Learning Engineer (US Remote) | 3.8/5 | Evaluated | ✅ | [202](reports/202-huggingface-cloud-ml-engineer-2026-04-27.md) | US-remote, HF Transformers/Diffusers + cloud partner integrations (SageMaker/Azure/Vertex); 3 HF-stack projects in CV (Pixel Character LoRA, video summarization transformers, healthcare RAG); cloud-platform ramp expected; equity upside. |
