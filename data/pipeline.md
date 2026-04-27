@@ -143,7 +143,13 @@
 - [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4468950 | Amigo | Applied AI Engineer | Remote - US (verify) — error: extraction blocked (sandbox 503 on 2026-04-27); retry next run
 - [!] https://himalayas.app/companies/oneforma/jobs/ai-engineer | OneForma | AI Engineer | Remote - US (verify) — error: extraction blocked (himalayas.app sandbox 503 on 2026-04-27); retry next run
 - [!] https://himalayas.app/companies/defense-unicorns/jobs/forward-deployed-ai-engineer-7929817277 | Defense Unicorns | Forward Deployed AI Engineer | Remote - US — moved to Procesadas (#220) 2026-04-27 (1.5/5 — HARD VETO: requires US Citizenship + TS/SCI; F-1 OPT cannot apply)
-- [ ] https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764 | Supabase | Platform Engineer - Multicloud | Remote
+- [!] https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764 | Supabase | Platform Engineer - Multicloud | Fully Remote (worldwide) — moved to Procesadas (#227) 2026-04-27 (2.6/5 — pure distributed-systems off-archetype)
+- [!] https://urrly.breezy.hr/p/d6e8f8609e72-ai-automation-engineer-remote | Urrly | AI Automation Engineer - Remote | Remote - US (PT hours overlap) — moved to Procesadas (#221) 2026-04-27 (4.0/5 — strong fit, PDF generated)
+- [!] https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/McLean-VA/Applied-Researcher-I--AI-Foundations--LLM-Customization--Finetuning--Reinforcement-Learning-_R241254-1 | Capital One | Applied Researcher I - AI Foundations (LLM Customization, Finetuning, RL) | McLean, VA — moved to Procesadas (#223) 2026-04-27 (2.6/5 — PhD-default research role; SKIP)
+- [!] https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Hartford-CT/Associate-Data-and-AI-Engineer_R2625084 | The Hartford | Associate Data and AI Engineer (Tech Catalyst Program) | Hartford, CT (or Charlotte, NC) — On-site rotational — moved to Procesadas (#224) 2026-04-27 (2.7/5 — data-eng > AI; SKIP)
+- [!] https://job-boards.greenhouse.io/dv01/jobs/8191101002 | dv01 | AI ML Engineer | Remote - USA — moved to Procesadas (#222) 2026-04-27 (3.5/5 — fintech document AI fit, PDF generated)
+- [!] https://cmu.wd5.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Associate-Machine-Learning-Engineer---Secure-AI-Lab_2024337-2 | Carnegie Mellon University | Associate ML Engineer - Secure AI Lab | Pittsburgh, PA — On-site + 25% travel — moved to Procesadas (#225) 2026-04-27 (2.8/5 — federal R&D, likely citizen/clearance veto; SKIP)
+- [!] https://jobs.ashbyhq.com/preference%20model/44642065-e592-44ba-810d-a019703463b6 | Preference Model | ML Engineer - RL Environments | San Francisco, CA — verify on-site vs contractor-remote — moved to Procesadas (#226) 2026-04-27 (3.2/5 — fit, PDF generated)
 
 
 
@@ -333,3 +339,6 @@
 - [x] #216 | https://jobs.ashbyhq.com/ascertain/d7dbc66f-2c0b-4ee0-9b92-305a243994bb | Ascertain | Forward Deployed Engineer - Remote | Remote-US (NYC hybrid optional) | 4.1/5 | PDF ✅
 - [x] #218 | https://job-boards.greenhouse.io/deepintent/jobs/5979052004 | DeepIntent | Applied AI Engineer | New York, NY — ET; remote-flex | 4.0/5 | PDF ✅
 - [x] #219 | https://www.workatastartup.com/jobs/85445 | Phonely | Forward Deployed Engineer | San Francisco, CA — On-site (relocation OK) | 3.4/5 | PDF ✅
+- [x] #221 | https://urrly.breezy.hr/p/d6e8f8609e72-ai-automation-engineer-remote | Urrly | AI Automation Engineer (Remote) | Remote - US (PT hours overlap) | 4.0/5 | PDF ✅
+- [x] #222 | https://job-boards.greenhouse.io/dv01/jobs/8191101002 | dv01 | AI ML Engineer | Remote-first US (NYC HQ) | 3.5/5 | PDF ✅
+- [x] #226 | https://jobs.ashbyhq.com/preference%20model/44642065-e592-44ba-810d-a019703463b6 | Preference Model | ML Engineer - RL Environments | San Francisco, CA (verify on-site vs contractor-remote) | 3.2/5 | PDF ✅

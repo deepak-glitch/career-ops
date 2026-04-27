@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 221 | 2026-04-27 | Urrly | AI Automation Engineer (Remote) | 4.0/5 | Evaluated | ✅ | [221](reports/221-urrly-ai-automation-engineer-2026-04-27.md) | Remote-US PT hours; Health-Tech $100M+ raised; first AI hire; $180-225K stated; strong "ships not papers" archetype fit. |
+| 226 | 2026-04-27 | Preference Model | ML Engineer - RL Environments | 3.2/5 | Evaluated | ✅ | [226](reports/226-preference-model-mle-rl-environments-2026-04-27.md) | SF likely on-site (verify; sister listing is contractor-remote); RL not required; Python+LLM+Docker+agentic match; small co + XOR Inc. routing — verify W-2 vs contractor. |
+| 228 | 2026-04-27 | dv01 | AI ML Engineer | 3.5/5 | Evaluated | ✅ | [222](reports/222-dv01-ai-ml-engineer-2026-04-27.md) | Remote-US; structured finance document AI; $145-160K; PyTorch/TF + MLflow + 1yr GenAI required; healthcare→banking docs transferable. |
 | 214 | 2026-04-27 | Supabase | AI Tooling Engineer | 3.1/5 | Evaluated | ✅ | [214](reports/214-supabase-ai-tooling-2026-04-27.md) | Fully remote OSS dev-tools; JS/TS-first AI tooling (MCP server + dashboard AI assistant); adjacent fit |
 | 215 | 2026-04-27 | Firecrawl | Forward Deployed Engineer (Integrations) | 3.5/5 | Evaluated | ✅ | [215](reports/215-firecrawl-fde-integrations-2026-04-27.md) | YC FDE; SF or Remote-Americas; $160K-$220K; web extraction + customer integration |
 | 216 | 2026-04-27 | Ascertain | Forward Deployed Engineer - Remote | 4.1/5 | Evaluated | ✅ | [216](reports/216-ascertain-fde-remote-2026-04-27.md) | Healthcare AI agents; remote-US; $130K-$175K; strong archetype fit (RAG + agentic + healthcare) |
