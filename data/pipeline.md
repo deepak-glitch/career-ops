@@ -120,6 +120,15 @@
 - [!] https://apply.workable.com/huggingface/j/6DBAC48BB7 | Hugging Face | Machine Learning Engineer, WebML | US Remote — error: posting closed (Workable redirects to ?not_found=true 2026-04-27); archived
 - [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4471342 | BioRender | Applied AI Engineer | Remote - USA — moved to Procesadas (#203) 2026-04-27 (3.7/5 — strong fit, PDF generated)
 - [!] https://tooploox.teamtailor.com/jobs/6973373-ai-engineer | Tooploox | AI Engineer | Warsaw / Wrocław / Remote-Poland — moved to Procesadas (#204) 2026-04-27 (2.5/5 — geography hard block for F-1 OPT)
+- [!] https://mind-computing.breezy.hr/p/edde74233ea2-ai-engineer-remote | Mind Computing | AI Engineer (Remote) | Remote — error: posting closed (Breezy "Position Closed" notice 2026-04-27); archived
+- [!] https://sinai.breezy.hr/p/c2f2e933a655-ai-engineer | SINAI Technologies | AI Engineer | Brazil — moved to Procesadas (#211) 2026-04-27 (2.5/5 — Brazil-only geo block for F-1 OPT US-based)
+- [!] https://velox.breezy.hr/p/42dadbd6181a-artificial-ai-engineer | VELOX | Artificial AI Engineer | Boise, ID — On-site — moved to Procesadas (#210) 2026-04-27 (3.0/5 — small Boise on-site market; viable but tight fit)
+- [!] https://job-boards.greenhouse.io/10alabs/jobs/4002004009 | 10a Labs | AI Red Teamer (Entry Level) | Remote - US — error: posting closed (Greenhouse API 404 on 2026-04-27); archived
+- [!] https://job-boards.greenhouse.io/augmentcomputing/jobs/4680036008 | Augment Code | Applied AI Engineer | Palo Alto, CA — On-site (Augment HQ) — moved to Procesadas (#209) 2026-04-27 (3.9/5 — strong Applied AI fit, on-site Palo Alto)
+- [!] https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702 | Lorikeet | Forward Deployed AI Engineer | Remote (verify) — error: posting closed (Ashby jobPosting null + not on board 2026-04-27); archived
+- [!] https://jobs.ashbyhq.com/Hippocratic%20AI/bf52b86b-ef5d-4826-bad9-5132ffd8eb57 | Hippocratic AI | Junior Forward Deployment Engineer (Contract) | Remote (verify) — error: posting closed (Ashby jobPosting null + not on board 2026-04-27); archived
+- [!] https://job-boards.greenhouse.io/sezzle/jobs/7710043003 | Sezzle | AI Engineering I - Marketing | Bogota, Colombia / LATAM Remote — moved to Procesadas (#213) 2026-04-27 (2.3/5 — LATAM/Türkiye-only geo + $30-40k comp band)
+- [!] https://job-boards.greenhouse.io/sezzle/jobs/7633952003 | Sezzle | AI Engineer I (Remote) | Türkiye / LATAM Remote — evaluated 2026-04-27 (2.4/5 — same LATAM/Türkiye geo + $30-40k comp); merge-tracker deduped against existing #50 (3.5/5) — kept #50 entry; report archived as orphan
 
 
 ## Procesadas
@@ -300,3 +309,5 @@
 - [x] #199 | https://job-boards.greenhouse.io/devrev/jobs/5668875004 | DevRev | Forward Deployed Engineer | Remote-US (verify) | 3.4/5 | PDF ✅
 - [x] #202 | https://apply.workable.com/huggingface/j/A3879724CD | Hugging Face | Cloud Machine Learning Engineer | US Remote | 3.8/5 | PDF ✅
 - [x] #203 | https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4471342 | BioRender | Applied AI Engineer | Remote - USA | 3.7/5 | PDF ✅
+- [x] #209 | https://job-boards.greenhouse.io/augmentcomputing/jobs/4680036008 | Augment Code | Applied AI Engineer | Palo Alto, CA — On-site (Augment HQ) | 3.9/5 | PDF ✅
+- [x] #210 | https://velox.breezy.hr/p/42dadbd6181a-artificial-ai-engineer | VELOX | Artificial (AI) Engineer | Boise, ID — On-site | 3.0/5 | PDF ✅
