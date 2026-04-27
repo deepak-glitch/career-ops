@@ -143,6 +143,8 @@
 - [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4468950 | Amigo | Applied AI Engineer | Remote - US (verify) — error: extraction blocked (sandbox 503 on 2026-04-27); retry next run
 - [!] https://himalayas.app/companies/oneforma/jobs/ai-engineer | OneForma | AI Engineer | Remote - US (verify) — error: extraction blocked (himalayas.app sandbox 503 on 2026-04-27); retry next run
 - [!] https://himalayas.app/companies/defense-unicorns/jobs/forward-deployed-ai-engineer-7929817277 | Defense Unicorns | Forward Deployed AI Engineer | Remote - US — moved to Procesadas (#220) 2026-04-27 (1.5/5 — HARD VETO: requires US Citizenship + TS/SCI; F-1 OPT cannot apply)
+- [ ] https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764 | Supabase | Platform Engineer - Multicloud | Remote
+
 
 
 
