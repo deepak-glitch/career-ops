@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 229 | 2026-04-28 | Snorkel AI | Applied AI Engineer - AI Solutions | 3.7/5 | Evaluated | ✅ | [229](reports/229-snorkelai-applied-ai-solutions-2026-04-28.md) | Hybrid NYC/Redwood/SF; 3+ yrs (0.5 stretch); strong stack overlap; $172-300K |
+| 233 | 2026-04-28 | Tessera Labs | Forward-Deployed Engineer (Pre-Sales) | 4.0/5 | Evaluated | ✅ | [233](reports/233-tessera-labs-fde-presales-2026-04-28.md) | US Remote + 25-40% travel; 2+ yrs exact fit; H1B sponsorship history; $180-233K |
 | 223 | 2026-04-28 | Unison | AI Engineer (U.S. Remote) | 3.5/5 | Evaluated | ✅ | [223](reports/223-unison-ai-engineer-us-remote-2026-04-28.md) | US-remote Applied AI on Azure OpenAI/Llama; RAG + agentic + eval — strong archetype match; C# is ramp gap; Master’s preferred (Deepak meets) |
 | 214 | 2026-04-27 | Supabase | AI Tooling Engineer | 3.1/5 | Evaluated | ✅ | [214](reports/214-supabase-ai-tooling-2026-04-27.md) | Fully remote OSS dev-tools; JS/TS-first AI tooling (MCP server + dashboard AI assistant); adjacent fit |
 | 215 | 2026-04-27 | Firecrawl | Forward Deployed Engineer (Integrations) | 3.5/5 | Evaluated | ✅ | [215](reports/215-firecrawl-fde-integrations-2026-04-27.md) | YC FDE; SF or Remote-Americas; $160K-$220K; web extraction + customer integration |

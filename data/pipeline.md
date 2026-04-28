@@ -154,6 +154,16 @@
 - [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | Amdaris | AI Forward Deployed Engineer | Dubai/UAE / UK / Eastern Europe — moved to Procesadas (#225) 2026-04-28 (2.4/5 — non-US geography; F-1 OPT incompatible)
 - [!] https://himalayas.app/companies/ddn/jobs/forward-deployed-engineer-ai-hpc-infrastructure | DDN | Forward Deployed Engineer (AI & HPC Infrastructure) | Remote - US (verify) — error: posting closed (icims 410 on 2026-04-28); archived
 - [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-4466230 | Weekday AI | AI Engineer | India (Remote) — moved to Procesadas (#226) 2026-04-28 (1.8/5 — India-only remote @ INR 20-100 LPA; F-1 OPT + comp band incompatible)
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences (Beneficial Deployments) | Hybrid SF/NYC — moved to Procesadas (#228) 2026-04-28 (3.4/5 — strong stack but life-sciences research domain gap; PDF generated)
+- [!] https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer - AI Solutions | Hybrid NYC/Redwood/SF — moved to Procesadas (#229) 2026-04-28 (3.7/5 — strong stack overlap; PDF generated)
+- [!] https://job-boards.greenhouse.io/snorkelai/jobs/5721276004 | Snorkel AI | Applied AI Engineer - Federal (TS Required) | Remote-US/DC — moved to Procesadas (#230) 2026-04-28 (1.5/5 — HARD VETO: TS clearance requires US Citizenship)
+- [!] https://himalayas.app/companies/sezzle/jobs/ai-engineer-i-5463338242 | Sezzle | AI Engineer I | Remote — Turkey only — moved to Procesadas (#231) 2026-04-28 (1.8/5 — Turkey-only geo + $30-40K comp; F-1 OPT incompatible)
+- [!] https://himalayas.app/companies/permitflow/jobs/analytics-engineer-new-grad | PermitFlow | Analytics Engineer (New Grad) | Remote-US — moved to Procesadas (#232) 2026-04-28 (2.7/5 — off-archetype BI/analytics, not Applied AI)
+- [!] https://builtin.com/job/forward-deployed-ai-engineer/4748129 | DatologyAI | Forward Deployed AI Engineer | Redwood City, CA — error: posting removed July 2025 (BuiltIn 2026-04-28 stale archive); archived
+- [!] https://builtin.com/job/forward-deployed-ai-engineer/4719018 | MongoDB | Forward Deployed AI Engineer | New York, NY — error: posting removed June 2025 (BuiltIn 2026-04-28 stale archive); archived
+- [!] https://jobs.ashbyhq.com/tessera-labs/b65634c1-29f6-47e4-8743-d283fddfa28a | Tessera Labs | Forward-Deployed Engineer (Pre-Sales) | US Remote + 25-40% travel — moved to Procesadas (#233) 2026-04-28 (4.0/5 — strong FDE Pre-Sales fit + H1B sponsorship history; PDF generated)
+- [!] https://jobs.ashbyhq.com/P-1%20AI/0be87478-22fd-4a03-b1d2-553347f87cf1 | P-1 AI | Forward Deployed Engineer | Location verify — error: Ashby GraphQL jobBoard null + jobPosting null (likely closed posting on 2026-04-28); archived
+- [!] https://himalayas.app/companies/databricks/jobs/ai-engineer-fde-forward-deployed-engineer-5620577413 | Databricks | AI Engineer - FDE | Remote-US (verify) — error: Himalayas detail page extraction blocked (sandbox 2026-04-28); retry next run with cached/aggregator copy
 
 ## Procesadas
 
@@ -344,3 +354,6 @@
 ### 2026-04-28
 
 - [x] #223 | https://himalayas.app/companies/unison/jobs/ai-engineer-u-s-remote | Unison | AI Engineer (U.S. Remote) | Remote - US | 3.5/5 | PDF ✅
+- [x] #228 | https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences (Beneficial Deployments) | Hybrid SF/NYC (25% in-office min) | 3.4/5 | PDF ✅
+- [x] #229 | https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer - AI Solutions | Hybrid NYC/Redwood/SF | 3.7/5 | PDF ✅
+- [x] #233 | https://jobs.ashbyhq.com/tessera-labs/b65634c1-29f6-47e4-8743-d283fddfa28a | Tessera Labs | Forward-Deployed Engineer (Pre-Sales) | US Remote + 25-40% travel; offices SJ/NYC | 4.0/5 | PDF ✅

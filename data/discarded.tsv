@@ -84,3 +84,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-04-28	225	2026-04-28	Amdaris	AI Forward Deployed Engineer	2.4/5	Evaluated	reports/225-amdaris-ai-fde-2026-04-28.md	UAE/UK/Eastern Europe location — F-1 OPT incompatible; founding FDE consultancy stack otherwise close
 2026-04-28	226	2026-04-28	Weekday AI	AI Engineer	1.8/5	Evaluated	reports/226-weekday-ai-engineer-2026-04-28.md	India remote @ INR 20-100 LPA — geography + comp band incompatible with F-1 OPT US
 2026-04-28	227	2026-04-28	Supabase	Platform Engineer - Multicloud	2.6/5	Evaluated	reports/227-supabase-platform-engineer-multicloud-2026-04-28.md	Off-archetype platform/infra (K8s + Pulumi + cloud abstraction) — not Applied AI; SKIP
+2026-04-28	230	2026-04-28	Snorkel AI	Applied AI Engineer - Federal (TS Required)	1.5/5	SKIP	reports/230-snorkelai-applied-ai-federal-2026-04-28.md	HARD VETO: Active TS clearance required; F-1 OPT cannot hold TS
+2026-04-28	232	2026-04-28	PermitFlow	Analytics Engineer (New Grad)	2.7/5	SKIP	reports/232-permitflow-analytics-engineer-newgrad-2026-04-28.md	Off-archetype: BI/analytics not Applied AI; would dilute positioning
