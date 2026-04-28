@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 236 | 2026-04-28 | Arlo | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [236](reports/236-arlo-applied-ai-engineer-2026-04-28.md) | NYC on-site; healthcare-payer Seed (GC-backed); $210-230K + bonus + equity; strong RAG + claims + agentic + full-stack fit; F-1 OPT relocation |
+| 237 | 2026-04-28 | The Prompting Company | Founding Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [237](reports/237-prompting-company-founding-fde-2026-04-28.md) | YC S25; SF on-site; $120-150K base; 1+ yrs friendly; GEO retrieval/ranking transferable from healthcare RAG |
+| 240 | 2026-04-28 | AHEAD | AI Practitioner / Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [240](reports/240-ahead-ai-practitioner-fde-2026-04-28.md) | US Remote; $95-115K OTE (low); Enterprise GPT Platform + MCP + n8n/Zapier/Power Automate + Salesforce/ServiceNow; FDE archetype + agentic + evals fit |
 | 229 | 2026-04-28 | Snorkel AI | Applied AI Engineer - AI Solutions | 3.7/5 | Evaluated | ✅ | [229](reports/229-snorkelai-applied-ai-solutions-2026-04-28.md) | Hybrid NYC/Redwood/SF; 3+ yrs (0.5 stretch); strong stack overlap; $172-300K |
 | 233 | 2026-04-28 | Tessera Labs | Forward-Deployed Engineer (Pre-Sales) | 4.0/5 | Evaluated | ✅ | [233](reports/233-tessera-labs-fde-presales-2026-04-28.md) | US Remote + 25-40% travel; 2+ yrs exact fit; H1B sponsorship history; $180-233K |
 | 223 | 2026-04-28 | Unison | AI Engineer (U.S. Remote) | 3.5/5 | Evaluated | ✅ | [223](reports/223-unison-ai-engineer-us-remote-2026-04-28.md) | US-remote Applied AI on Azure OpenAI/Llama; RAG + agentic + eval — strong archetype match; C# is ramp gap; Master’s preferred (Deepak meets) |

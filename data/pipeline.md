@@ -169,6 +169,16 @@
 - [!] https://bungalow.breezy.hr/p/8fdae10e1b10-software-engineer-forward-deploy | Bungalow | Software Engineer | Forward Deploy | Remote-US (verify) — error: posting closed (Breezy "no longer accepting candidates" notice 2026-04-28); archived
 - [!] https://himalayas.app/companies/langchain/jobs/deployed-engineer-phoenix | LangChain | Deployed Engineer (Phoenix) | Remote — US only — moved to Procesadas (#234) 2026-04-28 (3.8/5 — strong LangChain/agentic stack fit; PDF generated)
 - [!] https://himalayas.app/companies/remote-office/jobs/ai-automation-engineer | Remote Office | AI Automation Engineer | Remote-US listed but Melbourne work-hours mandate — moved to Procesadas (#235) 2026-04-28 (2.2/5 — off-archetype Zapier/n8n + AU-hours collision; SKIP)
+- [!] https://jobs.ashbyhq.com/Arlo/18923aa2-a029-43d8-8fd6-1cf883f14ef8 | Arlo | Applied AI Engineer | New York City, NY — On-site — moved to Procesadas (#236) 2026-04-28 (4.0/5 — healthcare-payer Seed; $210-230K + bonus + equity; strong RAG + claims + agentic + full-stack fit; PDF generated)
+- [!] https://jobs.ashbyhq.com/delphi/472c06df-6934-4fbb-8872-bdfae08d62fc | Delphi | Applied AI Engineer | San Francisco, CA — error: Ashby GraphQL jobPosting null + delphi.ai/careers no longer lists Applied AI Engineer (likely closed posting on 2026-04-28); archived
+- [!] https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442 | HiPeople | Applied AI Engineer – Systems & Reliability | Remote / Berlin — error: Ashby GraphQL jobPosting null + hipeople.io/careers redirected to Notion (likely closed posting on 2026-04-28); archived
+- [!] https://www.workatastartup.com/jobs/91400 | The Prompting Company | Founding Forward Deployed Engineer | San Francisco, CA — On-site — moved to Procesadas (#237) 2026-04-28 (3.4/5 — YC S25; $120-150K base; 1+ yrs friendly; GEO retrieval/ranking transferable; PDF generated)
+- [!] https://himalayas.app/companies/jobgether/jobs/ai-engineer-enterprise-ai-enablement-remote-us | Jobgether | AI Engineer - Enterprise AI Enablement | Remote - US — moved to Procesadas (#238) 2026-04-28 (2.5/5 — Azure-heavy off-archetype + 5+ month aggregator listing)
+- [!] https://himalayas.app/companies/tiger-analytics/jobs/genai-engineer | Tiger Analytics | GenAI Engineer | Canada Remote — moved to Procesadas (#239) 2026-04-28 (1.8/5 — Canada-only + Senior 5+ yrs; F-1 OPT + experience hard gaps)
+- [!] https://urrly.breezy.hr/p/d6e8f8609e72-ai-automation-engineer-remote | Urrly | AI Automation Engineer | Remote - US — error: posting closed (Breezy "no longer accepting candidates" notice 2026-04-28); archived
+- [!] https://techseed.teamtailor.com/jobs/7528600-ai-engineer | TechSeed | AI Engineer | Stockholm, Sweden — Hybrid — moved to Procesadas (#241) 2026-04-28 (1.5/5 — Swedish citizenship required; HARD VETO for F-1 OPT)
+- [!] https://jobs.lever.co/thinkahead/ed0d01dc-3cf0-4693-b770-560609612056 | AHEAD | AI Practitioner / Forward Deployed Engineer | United States — Remote — moved to Procesadas (#240) 2026-04-28 (3.4/5 — Enterprise GPT Platform + MCP + n8n/Zapier; FDE archetype fit; $95-115K OTE; PDF generated)
+- [!] https://job-boards.greenhouse.io/deepmind/jobs/7065652 | DeepMind | Forward Deployment Engineer, Applied AI | Location verify in JD — error: posting not listed on DeepMind Greenhouse careers page on 2026-04-28 (likely closed); archived
 
 ## Procesadas
 
@@ -363,3 +373,6 @@
 - [x] #229 | https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer - AI Solutions | Hybrid NYC/Redwood/SF | 3.7/5 | PDF ✅
 - [x] #233 | https://jobs.ashbyhq.com/tessera-labs/b65634c1-29f6-47e4-8743-d283fddfa28a | Tessera Labs | Forward-Deployed Engineer (Pre-Sales) | US Remote + 25-40% travel; offices SJ/NYC | 4.0/5 | PDF ✅
 - [x] #234 | https://himalayas.app/companies/langchain/jobs/deployed-engineer-phoenix | LangChain | Deployed Engineer (Phoenix) | Remote — US only | 3.8/5 | PDF ✅
+- [x] #236 | https://jobs.ashbyhq.com/Arlo/18923aa2-a029-43d8-8fd6-1cf883f14ef8 | Arlo | Applied AI Engineer | New York City, NY — On-site | 4.0/5 | PDF ✅
+- [x] #237 | https://www.workatastartup.com/jobs/91400 | The Prompting Company | Founding Forward Deployed Engineer | San Francisco, CA — On-site | 3.4/5 | PDF ✅
+- [x] #240 | https://jobs.lever.co/thinkahead/ed0d01dc-3cf0-4693-b770-560609612056 | AHEAD | AI Practitioner / Forward Deployed Engineer | United States — Remote | 3.4/5 | PDF ✅
