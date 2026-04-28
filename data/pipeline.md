@@ -164,6 +164,11 @@
 - [!] https://jobs.ashbyhq.com/tessera-labs/b65634c1-29f6-47e4-8743-d283fddfa28a | Tessera Labs | Forward-Deployed Engineer (Pre-Sales) | US Remote + 25-40% travel — moved to Procesadas (#233) 2026-04-28 (4.0/5 — strong FDE Pre-Sales fit + H1B sponsorship history; PDF generated)
 - [!] https://jobs.ashbyhq.com/P-1%20AI/0be87478-22fd-4a03-b1d2-553347f87cf1 | P-1 AI | Forward Deployed Engineer | Location verify — error: Ashby GraphQL jobBoard null + jobPosting null (likely closed posting on 2026-04-28); archived
 - [!] https://himalayas.app/companies/databricks/jobs/ai-engineer-fde-forward-deployed-engineer-5620577413 | Databricks | AI Engineer - FDE | Remote-US (verify) — error: Himalayas detail page extraction blocked (sandbox 2026-04-28); retry next run with cached/aggregator copy
+- [!] https://glacis.breezy.hr/p/cfc3968d5357-founding-forward-deployed-engineer | Glacis | Founding Forward Deployed Engineer | Remote-US (verify) — error: posting closed (Breezy "no longer accepting candidates" notice 2026-04-28); archived
+- [!] https://archangelautonomy.breezy.hr/p/66cb63036be601-forward-deployed-software-engineer | Archangel Autonomy | Forward Deployed Software Engineer | Remote-US (verify) — error: posting closed (Breezy "no longer accepting candidates" notice 2026-04-28); archived
+- [!] https://bungalow.breezy.hr/p/8fdae10e1b10-software-engineer-forward-deploy | Bungalow | Software Engineer | Forward Deploy | Remote-US (verify) — error: posting closed (Breezy "no longer accepting candidates" notice 2026-04-28); archived
+- [!] https://himalayas.app/companies/langchain/jobs/deployed-engineer-phoenix | LangChain | Deployed Engineer (Phoenix) | Remote — US only — moved to Procesadas (#234) 2026-04-28 (3.8/5 — strong LangChain/agentic stack fit; PDF generated)
+- [!] https://himalayas.app/companies/remote-office/jobs/ai-automation-engineer | Remote Office | AI Automation Engineer | Remote-US listed but Melbourne work-hours mandate — moved to Procesadas (#235) 2026-04-28 (2.2/5 — off-archetype Zapier/n8n + AU-hours collision; SKIP)
 
 ## Procesadas
 
@@ -357,3 +362,4 @@
 - [x] #228 | https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences (Beneficial Deployments) | Hybrid SF/NYC (25% in-office min) | 3.4/5 | PDF ✅
 - [x] #229 | https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer - AI Solutions | Hybrid NYC/Redwood/SF | 3.7/5 | PDF ✅
 - [x] #233 | https://jobs.ashbyhq.com/tessera-labs/b65634c1-29f6-47e4-8743-d283fddfa28a | Tessera Labs | Forward-Deployed Engineer (Pre-Sales) | US Remote + 25-40% travel; offices SJ/NYC | 4.0/5 | PDF ✅
+- [x] #234 | https://himalayas.app/companies/langchain/jobs/deployed-engineer-phoenix | LangChain | Deployed Engineer (Phoenix) | Remote — US only | 3.8/5 | PDF ✅
