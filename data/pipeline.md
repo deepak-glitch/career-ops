@@ -143,10 +143,17 @@
 - [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4468950 | Amigo | Applied AI Engineer | Remote - US (verify) — error: extraction blocked (sandbox 503 on 2026-04-27); retry next run
 - [!] https://himalayas.app/companies/oneforma/jobs/ai-engineer | OneForma | AI Engineer | Remote - US (verify) — error: extraction blocked (himalayas.app sandbox 503 on 2026-04-27); retry next run
 - [!] https://himalayas.app/companies/defense-unicorns/jobs/forward-deployed-ai-engineer-7929817277 | Defense Unicorns | Forward Deployed AI Engineer | Remote - US — moved to Procesadas (#220) 2026-04-27 (1.5/5 — HARD VETO: requires US Citizenship + TS/SCI; F-1 OPT cannot apply)
-- [ ] https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764 | Supabase | Platform Engineer - Multicloud | Remote
+- [!] https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764 | Supabase | Platform Engineer - Multicloud | Remote — moved to Procesadas (#227) 2026-04-28 (2.6/5 — off-archetype platform/infra; K8s+Pulumi+cloud abstraction not Applied AI)
 
+### 2026-04-28
 
-
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5982446004 | Hightouch | AI Creative Technologist | Remote, United States — moved to Procesadas (#221) 2026-04-28 (2.0/5 — off-archetype creative/marketer role)
+- [!] https://himalayas.app/companies/red-hat/jobs/forward-deployed-engineer-ai-inference-vllm-and-kubernetes | Red Hat | Forward Deployed Engineer, AI Inference (vLLM + Kubernetes) | Remote - US — moved to Procesadas (#222) 2026-04-28 (1.8/5 — 8+ yrs senior band; K8s/Go/vLLM internals gap)
+- [!] https://himalayas.app/companies/unison/jobs/ai-engineer-u-s-remote | Unison | AI Engineer (U.S. Remote) | Remote - US — moved to Procesadas (#223) 2026-04-28 (3.5/5 — strong RAG/agentic + US-remote fit; PDF generated)
+- [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4496244 | Built In | Applied AI Engineer | India (Remote) — moved to Procesadas (#224) 2026-04-28 (2.0/5 — India-only remote; F-1 OPT geo block)
+- [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | Amdaris | AI Forward Deployed Engineer | Dubai/UAE / UK / Eastern Europe — moved to Procesadas (#225) 2026-04-28 (2.4/5 — non-US geography; F-1 OPT incompatible)
+- [!] https://himalayas.app/companies/ddn/jobs/forward-deployed-engineer-ai-hpc-infrastructure | DDN | Forward Deployed Engineer (AI & HPC Infrastructure) | Remote - US (verify) — error: posting closed (icims 410 on 2026-04-28); archived
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-4466230 | Weekday AI | AI Engineer | India (Remote) — moved to Procesadas (#226) 2026-04-28 (1.8/5 — India-only remote @ INR 20-100 LPA; F-1 OPT + comp band incompatible)
 
 ## Procesadas
 
@@ -333,3 +340,7 @@
 - [x] #216 | https://jobs.ashbyhq.com/ascertain/d7dbc66f-2c0b-4ee0-9b92-305a243994bb | Ascertain | Forward Deployed Engineer - Remote | Remote-US (NYC hybrid optional) | 4.1/5 | PDF ✅
 - [x] #218 | https://job-boards.greenhouse.io/deepintent/jobs/5979052004 | DeepIntent | Applied AI Engineer | New York, NY — ET; remote-flex | 4.0/5 | PDF ✅
 - [x] #219 | https://www.workatastartup.com/jobs/85445 | Phonely | Forward Deployed Engineer | San Francisco, CA — On-site (relocation OK) | 3.4/5 | PDF ✅
+
+### 2026-04-28
+
+- [x] #223 | https://himalayas.app/companies/unison/jobs/ai-engineer-u-s-remote | Unison | AI Engineer (U.S. Remote) | Remote - US | 3.5/5 | PDF ✅
