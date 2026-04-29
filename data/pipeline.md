@@ -231,6 +231,8 @@
 - [!] https://jobs.lever.co/remofirst/57ccc891-fd85-4cce-b64d-4911d0e2c098 | RemoFirst | AI Engineer | Remote — error: Lever API "Document not found" on 2026-04-29 (closed posting); archived
 - [!] https://job-boards.greenhouse.io/vannevarlabs/jobs/4252109007 | Vannevar Labs | Cleared Forward Deployed Engineer | Remote/Honolulu — error: Greenhouse JD page returned aggregator only (specific JD inaccessible) + TS/SCI clearance hard veto for F-1 OPT on 2026-04-29; archived
 - [!] https://job-boards.greenhouse.io/runpod/jobs/5082425008 | Runpod | Forward Deployed Engineer (EMEA) | EMEA Remote — error: Greenhouse JD page returned APAC role aggregator (specific EMEA JD inaccessible) + EMEA-only geo veto for F-1 OPT on 2026-04-29; archived
+- [ ] https://sumup.com/careers/positions/8525962002?gh_jid=8525962002 | SumUp | Customer Support Agent with Finnish and English | Berlin, Germany
+
 
 ## Procesadas
 
