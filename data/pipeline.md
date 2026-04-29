@@ -245,6 +245,16 @@
 - [!] https://job-boards.greenhouse.io/assemblyai/jobs/4632922005 | AssemblyAI | Forward Deployed Engineer | Remote SF or NYC — moved to Procesadas (#272) 2026-04-29 (2.9/5 — TAM/GTM-leaning off-archetype; voice AI domain gap)
 - [!] https://job-boards.greenhouse.io/gradial/jobs/4209576009 | Gradial | Applied AI Engineer | Seattle, WA — moved to Procesadas (#273) 2026-04-29 (3.7/5 — strong agentic + browser/code/API fit; PDF generated)
 - [!] https://job-boards.greenhouse.io/gradial/jobs/4209573009 | Gradial | Forward Deployed Engineer | Seattle, WA — moved to Procesadas (#274) 2026-04-29 (3.5/5 — TS+APIs+LLM/agent FDE fit; PDF generated)
+- [!] https://job-boards.greenhouse.io/lazarusenterprises/jobs/5089480007 | Lazarus AI | Software Engineer (Forward Deployed) | US Remote (state-restricted) — moved to Procesadas (#275) 2026-04-29 (3.8/5 — junior FDE; $100-120K + equity; LLM + prompt engineering core ask; PDF generated)
+- [!] https://job-boards.greenhouse.io/alphafmcroles/jobs/8521640002 | Alpha FMC | Sr/Lead Forward Deployed Engineer (AI) | United States — moved to Procesadas (#276) 2026-04-29 (1.9/5 — Sr/Lead 5+ yrs + explicit no-sponsorship F-1 OPT veto; SKIP)
+- [!] https://adaptiveteams.teamtailor.com/jobs/7583306-junior-ai-agent-builder | Adaptive Teams | Junior AI Agent Builder | Buenos Aires, Argentina — Remote — moved to Procesadas (#277) 2026-04-29 (2.4/5 — Argentina-only Remote; F-1 OPT geo block; SKIP)
+- [!] https://job-boards.greenhouse.io/dv01/jobs/8191101002 | dv01 | AI ML Engineer | location verify — error: Greenhouse API 404 on 2026-04-29 (job ID closed; not in dv01 active listing); archived
+- [!] https://job-boards.greenhouse.io/addepar1/jobs/8339244002 | Addepar | Software Engineer — AI/ML — AI Platform | location verify — error: Greenhouse API 404 on 2026-04-29 (job ID closed; not in Addepar active listing); archived
+- [!] https://jobs.ashbyhq.com/Resolve%20AI/8f9b7a4c-cded-4acf-8aea-cfa851817d53 | Resolve AI | Forward Deployed Engineer | location verify — error: Ashby GraphQL jobPosting null on 2026-04-29 (slug `Resolve AI` board has no FDE; likely closed); archived
+- [!] https://jobs.ashbyhq.com/go-augment/1900c830-9fa2-45b3-a431-bdf9c067e711 | Augment | Forward-Deployed Engineer | San Francisco, CA — In-person — moved to Procesadas (#278) 2026-04-29 (3.6/5 — freight/3PL AI; founding FDE; 1-5 yrs; PDF generated)
+- [!] https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80 | Exa | Forward Deployed Engineer | San Francisco, CA — In-person (sponsors STEM OPT/H1B) — moved to Procesadas (#279) 2026-04-29 (3.4/5 — $150-250K + equity; explicit visa sponsorship; GTM-tagged 50% sales weight; PDF generated)
+- [!] https://jobs.ashbyhq.com/fractional-ai/d1218507-6d99-4cfb-b7d5-cd34a633cda2 | Fractional AI | Software Engineer (Forward-Deployed Enterprise) | Raleigh-Durham, NC — In-person — moved to Procesadas (#280) 2026-04-29 (3.1/5 — healthcare/LS division founding team; 5+ yrs gap; PDF generated)
+- [!] https://litit.recruitee.com/o/machine-learning-engineer-ai-engineer-aws-cloud-focus | LITIT | Machine Learning / AI Engineer (AWS Cloud Focus) | location verify — error: Recruitee 404 on 2026-04-29 (posting closed); archived
 
 
 ## Procesadas
@@ -463,3 +473,7 @@
 - [x] #269 | https://job-boards.greenhouse.io/humanagency/jobs/7645002003 | Human Agency | Applied AI Engineer | Remote — US/Canada | 3.4/5 | PDF ✅
 - [x] #273 | https://job-boards.greenhouse.io/gradial/jobs/4209576009 | Gradial | Applied AI Engineer | Seattle, WA | 3.7/5 | PDF ✅
 - [x] #274 | https://job-boards.greenhouse.io/gradial/jobs/4209573009 | Gradial | Forward Deployed Engineer | Seattle, WA | 3.5/5 | PDF ✅
+- [x] #275 | https://job-boards.greenhouse.io/lazarusenterprises/jobs/5089480007 | Lazarus AI | Software Engineer (Forward Deployed) | US Remote (state-restricted) | 3.8/5 | PDF ✅
+- [x] #278 | https://jobs.ashbyhq.com/go-augment/1900c830-9fa2-45b3-a431-bdf9c067e711 | Augment | Forward-Deployed Engineer | San Francisco, CA — In-person | 3.6/5 | PDF ✅
+- [x] #279 | https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80 | Exa | Forward Deployed Engineer | San Francisco, CA — In-person (sponsors STEM OPT/H1B) | 3.4/5 | PDF ✅
+- [x] #280 | https://jobs.ashbyhq.com/fractional-ai/d1218507-6d99-4cfb-b7d5-cd34a633cda2 | Fractional AI | Software Engineer (Forward-Deployed Enterprise) | Raleigh-Durham, NC — In-person | 3.1/5 | PDF ✅
