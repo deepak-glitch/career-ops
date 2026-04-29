@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 248 | 2026-04-29 | Avent | Founding Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [248](reports/248-avent-fde-2026-04-29.md) | YC S25 industrial-commerce AI startup; FDE archetype 1:1 to claims agentic + Suvidha + Manga Lens; new grads welcome; SF HQ on-site/hybrid (verify); $100-130K + 1-2% equity; 3-person founding team |
 | 246 | 2026-04-29 | Atomicwork | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [246](reports/246-atomicwork-applied-ai-2026-04-29.md) | Direct Applied AI archetype hit (transformer + RAG + agentic + evals + observability); US office; Khosla/Battery-backed AI digital workplace; PDF generated. |
 | 247 | 2026-04-29 | Automattic | Applied AI Engineer | 3.8/5 | Evaluated | ✅ | [247](reports/247-automattic-applied-ai-2026-04-29.md) | Consumer-AI features at hundreds-of-millions scale across WordPress.com/WooCommerce/Tumblr/Beeper/Mesh; Global Remote (or NYC); PHP partial gap; product-first fit; PDF generated. |
 | 236 | 2026-04-28 | Arlo | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [236](reports/236-arlo-applied-ai-engineer-2026-04-28.md) | NYC on-site; healthcare-payer Seed (GC-backed); $210-230K + bonus + equity; strong RAG + claims + agentic + full-stack fit; F-1 OPT relocation |

@@ -196,6 +196,7 @@
 - [!] https://remotive.com/remote/jobs/artificial-intelligence/ai-engineer-application-development-4512742 | CACI International | AI Engineer - Application Development | Remote - US — moved to Procesadas (#245) 2026-04-29 (2.6/5 — federal contractor; LangGraph/Agno/Haystack/CrewAI stack but 5+ yrs floor + likely citizenship/clearance gating; F-1 OPT incompatible)
 - [!] https://job-boards.greenhouse.io/atomicwork/jobs/5073381008 | Atomicwork | Applied AI Engineer | United States — moved to Procesadas (#246) 2026-04-29 (4.0/5 — direct Applied AI archetype hit; PDF generated)
 - [!] https://job-boards.greenhouse.io/automatticcareers/jobs/7558576 | Automattic | Applied AI Engineer | Remote (or NYC) — moved to Procesadas (#247) 2026-04-29 (3.8/5 — consumer-AI features at hundreds-of-millions scale; Global Remote; PDF generated)
+- [!] https://www.workatastartup.com/jobs/93159 | Avent | Founding Forward Deployed Engineer | San Francisco, CA (HQ) — moved to Procesadas (#248) 2026-04-29 (3.6/5 — YC S25 industrial-commerce FDE; archetype 1:1; new grads welcome; PDF generated)
 
 ## Procesadas
 
@@ -398,3 +399,4 @@
 
 - [x] #246 | https://job-boards.greenhouse.io/atomicwork/jobs/5073381008 | Atomicwork | Applied AI Engineer | United States | 4.0/5 | PDF ✅
 - [x] #247 | https://job-boards.greenhouse.io/automatticcareers/jobs/7558576 | Automattic | Applied AI Engineer | Global Remote (or NYC) | 3.8/5 | PDF ✅
+- [x] #248 | https://www.workatastartup.com/jobs/93159 | Avent | Founding Forward Deployed Engineer | San Francisco, CA (HQ) — On-site/hybrid (verify) | 3.6/5 | PDF ✅
