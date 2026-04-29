@@ -38,6 +38,18 @@ const ROLES = {
     summary: `${BASE} Targeting AI Engineer roles building agent-based systems on top of LLMs for regulated domains — document processing, policy Q&A, and audit-grade compliance workflows.`,
     comps: ['Applied AI / LLMs', 'AI Agent Development', 'LangChain', 'RAG + Grounding', 'Python', 'AWS Serverless', 'Schema Contracts', 'Production ML', 'Eval Harnesses', 'Regulated-Domain AI'],
   },
+  'bandwidth-applied-ai': {
+    summary: `${BASE} Targeting Applied AI Engineer roles inside enterprise IT — owning internal AI platforms, RAG pipelines, LLM APIs, and FastAPI/Docker services that create leverage across infrastructure, identity, monitoring, and automation tooling.`,
+    comps: ['Applied AI / Internal Platforms', 'RAG + LLM APIs', 'Prompt Engineering', 'Python / TypeScript', 'AWS / Docker / Kubernetes', 'MLOps + Model Serving', 'FastAPI Internal APIs', 'Schema Contracts', 'Eval Harnesses', 'CI/CD + Observability'],
+  },
+  'talentpluto-fde': {
+    summary: `${BASE} Targeting Forward Deployed Engineer roles in enterprise AI infrastructure — bridging customer pilots to production with RAG, agentic workflows, and FastAPI/Docker packaging in early-stage venture-backed environments.`,
+    comps: ['Forward Deployed Engineering', 'Enterprise AI Infrastructure', 'RAG + Grounding', 'Agentic AI Systems', 'Python / FastAPI', 'TypeScript', 'Docker / CI-CD', 'Customer-Facing Delivery', 'Eval Harnesses', 'Schema Contracts'],
+  },
+  'warp-fde': {
+    summary: `${BASE} Targeting Forward Deployed Engineer roles in agentic developer platforms — owning enterprise pilots through production agent workflows with prompt engineering, schema contracts, and FastAPI/Docker packaging.`,
+    comps: ['Forward Deployed Engineering', 'Agentic AI Systems', 'Prompt Engineering', 'LLM Production', 'Python / FastAPI', 'Docker / CI-CD', 'AWS / GCP / Azure', 'Schema Contracts', 'Eval Harnesses', 'Customer-Facing Delivery'],
+  },
 };
 
 const EXPERIENCE = `

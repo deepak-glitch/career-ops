@@ -207,6 +207,16 @@
 - [!] https://www.workatastartup.com/jobs/87890 | Dot | Forward Deployed AI Engineer (remote) | Remote (verify) — error: posting closed (YC WaaS 404 on 2026-04-29); archived
 - [!] https://www.workatastartup.com/jobs/74608 | Extend | Forward Deployed Engineer | New York City — In-person — moved to Procesadas (#253) 2026-04-29 (3.6/5 — YC LLM doc-processing; new grads ok; $150-200K + equity; PDF generated)
 - [!] https://www.workatastartup.com/jobs/89154 | JustAI | Full Stack Software Engineer | San Francisco, CA — In-person — moved to Procesadas (#254) 2026-04-29 (2.9/5 — YC + Peak XV; generic full-stack vs Applied AI archetype; SKIP)
+- [!] https://job-boards.greenhouse.io/bandwidth/jobs/7844136 | Bandwidth | Applied AI Engineer | Raleigh, NC — On-site — moved to Procesadas (#255) 2026-04-29 (3.0/5 — internal AI tooling on Corp IT, AWS+K8s+Terraform/Ansible stack; PDF generated)
+- [!] https://apply.workable.com/talentpluto/j/EAC9E37E18 | TalentPluto (recruiting agency) | Forward Deployed Engineer | New York, NY (US-remote possible) — moved to Procesadas (#256) 2026-04-29 (3.2/5 — recruiting agency for unnamed enterprise AI infra startup; PDF generated)
+- [!] https://job-boards.greenhouse.io/cresta/jobs/5107283008 | Cresta | Forward Deployed Engineer (AI Agent) | Australia (APAC) Remote — moved to Procesadas (#257) 2026-04-29 (1.9/5 — Senior + Australia geographic veto for F-1 OPT)
+- [!] https://job-boards.greenhouse.io/warp/jobs/5749183004 | Warp | Founding Forward Deployed Engineer | Remote US/Canada — moved to Procesadas (#258) 2026-04-29 (3.1/5 — agentic dev platform; $200-235K Senior comp band; PDF generated)
+- [!] https://job-boards.greenhouse.io/defenseunicorns/jobs/4980238007 | Defense Unicorns | Forward Deployed AI Engineer | Remote - US — moved to Procesadas (#259) 2026-04-29 (1.5/5 — US Citizenship REQUIRED; F-1 OPT hard veto)
+- [!] https://job-boards.greenhouse.io/knak/jobs/4683178005 | Knak | AI Engineer (AI Internal Tools) | Remote - Canada — moved to Procesadas (#260) 2026-04-29 (2.0/5 — Canada eligibility required; F-1 OPT US-only does not qualify)
+- [!] https://job-boards.greenhouse.io/vannevarlabs/jobs/4172610007 | Vannevar Labs | Forward Deployed Engineer | Location verify — error: posting closed (Greenhouse API 404 on 2026-04-29); archived
+- [!] https://apply.workable.com/palona/j/BF974A3327 | Palona AI | Forward Deployed Engineer | NYC/SF/LA/Seattle — On-site — moved to Procesadas (#262) 2026-04-29 (2.3/5 — 7-month-old posting; ghost-posting concern; SKIP)
+- [!] https://job-boards.greenhouse.io/datacor/jobs/4962021007 | Datacor | Summer 2026 AI Engineer Intern | Location verify — error: posting closed (Greenhouse API 404 on 2026-04-29); archived
+- [!] https://www.workatastartup.com/jobs/89156 | Crustdata | Software Engineering Intern (Forward Deployed) Summer 2026 | Location verify — internship off-archetype + WaaS extraction degraded (sandbox 504 on 2026-04-29); archived
 
 ## Procesadas
 
@@ -413,3 +423,6 @@
 - [x] #249 | https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer (New grads ok) | San Francisco, CA — On-site (Remote-USA possible) | 4.0/5 | PDF ✅
 - [x] #251 | https://continued.breezy.hr/p/84c16df98c29-ai-engineer-remote | Continued | AI Engineer (Remote) | Remote — USA only (W2) | 3.7/5 | PDF ✅
 - [x] #253 | https://www.workatastartup.com/jobs/74608 | Extend | Forward Deployed Engineer | New York City — In-person | 3.6/5 | PDF ✅
+- [x] #255 | https://job-boards.greenhouse.io/bandwidth/jobs/7844136 | Bandwidth | Applied AI Engineer | Raleigh, NC — On-site | 3.0/5 | PDF ✅
+- [x] #256 | https://apply.workable.com/talentpluto/j/EAC9E37E18 | TalentPluto (recruiting agency) | Forward Deployed Engineer | NYC/SF preferred or US-remote | 3.2/5 | PDF ✅
+- [x] #258 | https://job-boards.greenhouse.io/warp/jobs/5749183004 | Warp | Founding Forward Deployed Engineer | Remote US/Canada | 3.1/5 | PDF ✅
