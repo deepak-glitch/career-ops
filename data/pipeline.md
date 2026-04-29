@@ -232,6 +232,19 @@
 - [!] https://job-boards.greenhouse.io/vannevarlabs/jobs/4252109007 | Vannevar Labs | Cleared Forward Deployed Engineer | Remote/Honolulu — error: Greenhouse JD page returned aggregator only (specific JD inaccessible) + TS/SCI clearance hard veto for F-1 OPT on 2026-04-29; archived
 - [!] https://job-boards.greenhouse.io/runpod/jobs/5082425008 | Runpod | Forward Deployed Engineer (EMEA) | EMEA Remote — error: Greenhouse JD page returned APAC role aggregator (specific EMEA JD inaccessible) + EMEA-only geo veto for F-1 OPT on 2026-04-29; archived
 - [ ] https://sumup.com/careers/positions/8525962002?gh_jid=8525962002 | SumUp | Customer Support Agent with Finnish and English | Berlin, Germany
+- [!] https://www.workatastartup.com/jobs/81052 | InQuery | Founding Engineer (New Grad) | location verify — error: WaaS 404 on 2026-04-29 (closed posting); archived
+- [!] https://apply.workable.com/silver-tree-equity/j/ADE1A03419/ | SilverTree Equity | AI Forward Deployed Engineer (Talent Accelerator) | location verify — error: Workable JS-only render returned only meta-description on 2026-04-29; retry next run with cached/aggregator copy
+- [!] https://job-boards.greenhouse.io/axiomaticai/jobs/4720346101 | Axiomatic AI | Applied AI Engineer | Boston / Barcelona / Remote — moved to Procesadas (#268) 2026-04-29 (3.8/5 — strong Applied AI archetype fit; PDF generated)
+- [!] https://job-boards.greenhouse.io/humanagency/jobs/7645002003 | Human Agency | Applied AI Engineer | Remote — US/Canada — moved to Procesadas (#269) 2026-04-29 (3.4/5 — venture-studio Applied AI fit; senior-leaning; PDF generated)
+- [!] https://job-boards.greenhouse.io/gradial/jobs/4006972009 | Gradial | Applied AI Engineer | Seattle, WA (verify) — error: Greenhouse API 404 on 2026-04-29 (stale ID); replaced with active ID 4209576009 + 4209573009 (#273/#274)
+- [!] https://job-boards.greenhouse.io/assemblyai/jobs/4650728005 | AssemblyAI | Applied AI Engineer | location verify — error: Greenhouse API 404 on 2026-04-29 (stale ID); replaced with active FDE ID 4632922005 (#272)
+- [!] https://himalayas.app/companies/servicenow/jobs/forward-deployed-solution-engineer-applied-ai | ServiceNow | Forward Deployed Solution Engineer — Applied AI | Remote — US — moved to Procesadas (#270) 2026-04-29 (2.0/5 — 10+ yrs Senior band; auto-veto per filter hygiene)
+- [!] https://himalayas.app/companies/superplane/jobs/applied-ai-engineer-511297224 | SuperPlane | Applied AI Engineer (Contractor) | Remote — Spain UTC ±0 — moved to Procesadas (#271) 2026-04-29 (2.2/5 — Spain UTC geo block + Go hard gap)
+- [!] https://apply.workable.com/seaplane/j/B709F321EF/ | Seaplane | Forward Deployed Engineer | Remote — US hours — error: extraction blocked (Workable JS-only render returned empty body on 2026-04-29); retry next run
+- [!] https://job-boards.greenhouse.io/doitintl/jobs/7688239003 | DoiT | Applied AI Engineer | Remote — US East — error: Greenhouse API 404 on 2026-04-29 (stale ID); archived
+- [!] https://job-boards.greenhouse.io/assemblyai/jobs/4632922005 | AssemblyAI | Forward Deployed Engineer | Remote SF or NYC — moved to Procesadas (#272) 2026-04-29 (2.9/5 — TAM/GTM-leaning off-archetype; voice AI domain gap)
+- [!] https://job-boards.greenhouse.io/gradial/jobs/4209576009 | Gradial | Applied AI Engineer | Seattle, WA — moved to Procesadas (#273) 2026-04-29 (3.7/5 — strong agentic + browser/code/API fit; PDF generated)
+- [!] https://job-boards.greenhouse.io/gradial/jobs/4209573009 | Gradial | Forward Deployed Engineer | Seattle, WA — moved to Procesadas (#274) 2026-04-29 (3.5/5 — TS+APIs+LLM/agent FDE fit; PDF generated)
 
 
 ## Procesadas
@@ -446,3 +459,7 @@
 - [x] #264 | https://job-boards.greenhouse.io/workato/jobs/8437707002 | Workato | Forward Deployed Engineer (Agentic AI) | Hybrid — Palo Alto 2-3 days/week | 3.0/5 | PDF ✅
 - [x] #265 | https://job-boards.greenhouse.io/niraenergy/jobs/4964468008 | Nira Energy | Forward Deployed Engineer | NYC FiDi — Hybrid Tue-Thu + nationwide travel | 3.2/5 | PDF ✅
 - [x] #267 | https://jobs.lever.co/panopto/4c4fe959-597b-493f-bc08-a3a268153a32 | Panopto | AI Engineer | Remote — US | 3.3/5 | PDF ✅
+- [x] #268 | https://job-boards.greenhouse.io/axiomaticai/jobs/4720346101 | Axiomatic AI | Applied AI Engineer | Boston / Barcelona / Remote | 3.8/5 | PDF ✅
+- [x] #269 | https://job-boards.greenhouse.io/humanagency/jobs/7645002003 | Human Agency | Applied AI Engineer | Remote — US/Canada | 3.4/5 | PDF ✅
+- [x] #273 | https://job-boards.greenhouse.io/gradial/jobs/4209576009 | Gradial | Applied AI Engineer | Seattle, WA | 3.7/5 | PDF ✅
+- [x] #274 | https://job-boards.greenhouse.io/gradial/jobs/4209573009 | Gradial | Forward Deployed Engineer | Seattle, WA | 3.5/5 | PDF ✅

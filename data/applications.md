@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 268 | 2026-04-29 | Axiomatic AI | Applied AI Engineer | 3.8/5 | Evaluated | ✅ | [268](reports/268-axiomatic-ai-applied-ai-2026-04-29.md) | Boston/Barcelona/Remote; 3+ yrs SWE + Python/LangChain/PydanticAI/RAG/KG; comp not disclosed; F-1 OPT US-friendly via Boston; PDF generated |
+| 269 | 2026-04-29 | Human Agency | Applied AI Engineer | 3.4/5 | Evaluated | ✅ | [269](reports/269-human-agency-applied-ai-2026-04-29.md) | Remote US/Canada (US: FT; Canada: contractor); senior-leaning; OpenAI/Anthropic/LangChain/LlamaIndex/agent frameworks; venture studio model; comp not disclosed; PDF generated |
+| 273 | 2026-04-29 | Gradial | Applied AI Engineer | 3.7/5 | Evaluated | ✅ | [273](reports/273-gradial-applied-ai-2026-04-29.md) | Seattle WA on-site; $130-220K + equity + bonus; 4+ yrs SWE + 1+ yr AI/ML; agentic + browser/code/API orchestration + RL eval; F-1 OPT relocation; PDF generated |
+| 274 | 2026-04-29 | Gradial | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [274](reports/274-gradial-fde-2026-04-29.md) | Seattle WA on-site; $130-210K + equity + bonus; 3+ yrs SWE/implementation; TypeScript+APIs+LLM/agent integration; CMS/DAM workflows; F-1 OPT relocation; PDF generated |
 | 263 | 2026-04-29 | Postman | Forward Deployed Engineer | 4.0/5 | Evaluated | ✅ | [263](reports/263-postman-fde-2026-04-29.md) | SF hybrid + 20-30% travel; $150-180K + equity; FDE archetype direct hit; PDF generated |
 | 264 | 2026-04-29 | Workato | Forward Deployed Engineer (Agentic AI) | 3.0/5 | Evaluated | ✅ | [264](reports/264-workato-fde-agentic-ai-2026-04-29.md) | PA hybrid 2-3 days/week; $70-100K + bonus + equity; iPaaS platform mandatory hard gap; PDF generated |
 | 265 | 2026-04-29 | Nira Energy | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [265](reports/265-nira-energy-fde-2026-04-29.md) | NYC FiDi Tue-Thu hybrid + nationwide travel; $190-210K + equity; climate/grid early-stage; PDF generated |
