@@ -197,6 +197,16 @@
 - [!] https://job-boards.greenhouse.io/atomicwork/jobs/5073381008 | Atomicwork | Applied AI Engineer | United States — moved to Procesadas (#246) 2026-04-29 (4.0/5 — direct Applied AI archetype hit; PDF generated)
 - [!] https://job-boards.greenhouse.io/automatticcareers/jobs/7558576 | Automattic | Applied AI Engineer | Remote (or NYC) — moved to Procesadas (#247) 2026-04-29 (3.8/5 — consumer-AI features at hundreds-of-millions scale; Global Remote; PDF generated)
 - [!] https://www.workatastartup.com/jobs/93159 | Avent | Founding Forward Deployed Engineer | San Francisco, CA (HQ) — moved to Procesadas (#248) 2026-04-29 (3.6/5 — YC S25 industrial-commerce FDE; archetype 1:1; new grads welcome; PDF generated)
+- [!] https://job-boards.greenhouse.io/traversal/jobs/4983321008 | Traversal | AI Engineer - New Grad | location verify — error: posting closed (Greenhouse 302 redirect to ?error=true on 2026-04-29); archived
+- [!] https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer (New grads ok) | San Francisco, CA — On-site (Remote-USA possible) — moved to Procesadas (#249) 2026-04-29 (4.0/5 — agentic AI startup; new grads ok; will sponsor visa; PDF generated)
+- [!] https://job-boards.greenhouse.io/stubhubinc/jobs/4739105101 | StubHub | Software Engineer I - Direct Issuance (New Grad) | location verify — error: posting closed (Greenhouse API 404 on 2026-04-29); archived
+- [!] https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer | New York or Toronto Office — In-person (Hybrid) — moved to Procesadas (#250) 2026-04-29 (2.7/5 — RLOps platform; 4-8+ yrs + M.Sc/Ph.D seniority gap)
+- [!] https://continued.breezy.hr/p/84c16df98c29-ai-engineer-remote | Continued | AI Engineer (Remote) | Remote — USA only (W2) — moved to Procesadas (#251) 2026-04-29 (3.7/5 — Applied AI / Platform; LangChain+MCP+vector search; cover letter required; PDF generated)
+- [!] https://vontive.breezy.hr/p/c492bc0fb545-ai-engineer | Vontive | AI Engineer | New York City, NY — Remote within one — moved to Procesadas (#252) 2026-04-29 (2.4/5 — explicit no-visa-sponsorship hard block for F-1 OPT; SKIP)
+- [!] https://elsa.teamtailor.com/jobs/7340954-ai-engineer-remote | ELSA | AI Engineer (Remote) | Remote — error: posting no longer active (TeamTailor "position is no longer active" 2026-04-29); archived
+- [!] https://www.workatastartup.com/jobs/87890 | Dot | Forward Deployed AI Engineer (remote) | Remote (verify) — error: posting closed (YC WaaS 404 on 2026-04-29); archived
+- [!] https://www.workatastartup.com/jobs/74608 | Extend | Forward Deployed Engineer | New York City — In-person — moved to Procesadas (#253) 2026-04-29 (3.6/5 — YC LLM doc-processing; new grads ok; $150-200K + equity; PDF generated)
+- [!] https://www.workatastartup.com/jobs/89154 | JustAI | Full Stack Software Engineer | San Francisco, CA — In-person — moved to Procesadas (#254) 2026-04-29 (2.9/5 — YC + Peak XV; generic full-stack vs Applied AI archetype; SKIP)
 
 ## Procesadas
 
@@ -400,3 +410,6 @@
 - [x] #246 | https://job-boards.greenhouse.io/atomicwork/jobs/5073381008 | Atomicwork | Applied AI Engineer | United States | 4.0/5 | PDF ✅
 - [x] #247 | https://job-boards.greenhouse.io/automatticcareers/jobs/7558576 | Automattic | Applied AI Engineer | Global Remote (or NYC) | 3.8/5 | PDF ✅
 - [x] #248 | https://www.workatastartup.com/jobs/93159 | Avent | Founding Forward Deployed Engineer | San Francisco, CA (HQ) — On-site/hybrid (verify) | 3.6/5 | PDF ✅
+- [x] #249 | https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer (New grads ok) | San Francisco, CA — On-site (Remote-USA possible) | 4.0/5 | PDF ✅
+- [x] #251 | https://continued.breezy.hr/p/84c16df98c29-ai-engineer-remote | Continued | AI Engineer (Remote) | Remote — USA only (W2) | 3.7/5 | PDF ✅
+- [x] #253 | https://www.workatastartup.com/jobs/74608 | Extend | Forward Deployed Engineer | New York City — In-person | 3.6/5 | PDF ✅
