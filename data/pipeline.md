@@ -180,6 +180,23 @@
 - [!] https://jobs.lever.co/thinkahead/ed0d01dc-3cf0-4693-b770-560609612056 | AHEAD | AI Practitioner / Forward Deployed Engineer | United States — Remote — moved to Procesadas (#240) 2026-04-28 (3.4/5 — Enterprise GPT Platform + MCP + n8n/Zapier; FDE archetype fit; $95-115K OTE; PDF generated)
 - [!] https://job-boards.greenhouse.io/deepmind/jobs/7065652 | DeepMind | Forward Deployment Engineer, Applied AI | Location verify in JD — error: posting not listed on DeepMind Greenhouse careers page on 2026-04-28 (likely closed); archived
 
+### 2026-04-29
+
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/5201506008 | Anthropic | Regulatory Counsel, Content & Frontier AI Regulation | Dublin, IE — not archetype match (legal/policy, not engineering); filter slip per _profile.md hygiene
+- [!] https://jobs.ashbyhq.com/lovable/59d85cf1-104b-48cb-956c-bed73ef934c9 | Lovable | AI Researcher, Post Training | Stockholm, SE — research engineer (PhD-gated) + Sweden on-site + F-1 OPT mismatch; not archetype fit
+- [!] https://jobs.ashbyhq.com/withclutch/888a232e-6680-45fc-8992-608f70b81c82 | Clutch | Forward Deployed Engineer | Location verify — error: Ashby GraphQL jobPosting null across slug variants (likely closed posting on 2026-04-29); archived
+- [!] https://jobs.ashbyhq.com/Serval/f55f33e2-f273-4267-b94d-5c94fdcac7d6 | Serval | Forward Deployed Engineer | San Francisco, CA — moved to Procesadas (#242) 2026-04-29 (2.9/5 — Sequoia-backed founding FDE; $200-325K Senior comp band; SF on-site; archetype fit but seniority gap)
+- [!] https://jobs.ashbyhq.com/varick-agents/15a99eff-beb7-4c35-8240-8e1bfd2d912b | Varick Agents | Forward Deployed Engineer | San Francisco, CA — moved to Procesadas (#243) 2026-04-29 (2.4/5 — FDE-strategist not engineering IC; off-archetype)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-platform-engineer-llm-agents-rag-3755764 | Signant Health | AI Platform Engineer - LLM Agents & RAG | Remote - US — error: Remotive 404 on 2026-04-29 + Signant careers 404; archived
+- [!] https://himalayas.app/companies/apptegy/jobs/ai-operations-engineer | Apptegy | AI Operations Engineer | Remote - US — error: Himalayas detail page only renders other companies (sandbox stale 2026-04-29) + Apptegy GH API has 0 AI roles; likely closed; archived
+- [!] https://himalayas.app/companies/jobgether/jobs/ai-operations-engineer-remote-us | Jobgether | AI Operations Engineer | Remote - US — error: Himalayas 404 on 2026-04-29; archived
+- [!] https://himalayas.app/companies/red-hat/jobs/forward-deployed-ai-engineer-customer-adoption-and-innovation | Red Hat | Forward Deployed AI Engineer - Customer Adoption and Innovation | Remote - US — error: Himalayas detail page only renders other companies (sandbox stale 2026-04-29) + Red Hat careers 404; retry next run with cached/aggregator copy
+- [!] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer | Lisbon, PT / Europe — Remote — moved to Procesadas (#244) 2026-04-29 (2.3/5 — stack-perfect Applied AI but EU-only; F-1 OPT geo block)
+- [!] https://www.workatastartup.com/jobs/81810 | VetRec | Forward Deployed Engineer (NY) | New York, NY — error: WaaS page returned only title (sandbox-degraded extraction 2026-04-29) + vetrec.io careers 404; retry next run
+- [!] https://remotive.com/remote/jobs/artificial-intelligence/ai-engineer-application-development-4512742 | CACI International | AI Engineer - Application Development | Remote - US — moved to Procesadas (#245) 2026-04-29 (2.6/5 — federal contractor; LangGraph/Agno/Haystack/CrewAI stack but 5+ yrs floor + likely citizenship/clearance gating; F-1 OPT incompatible)
+- [!] https://job-boards.greenhouse.io/atomicwork/jobs/5073381008 | Atomicwork | Applied AI Engineer | United States — moved to Procesadas (#246) 2026-04-29 (4.0/5 — direct Applied AI archetype hit; PDF generated)
+- [!] https://job-boards.greenhouse.io/automatticcareers/jobs/7558576 | Automattic | Applied AI Engineer | Remote (or NYC) — moved to Procesadas (#247) 2026-04-29 (3.8/5 — consumer-AI features at hundreds-of-millions scale; Global Remote; PDF generated)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -376,3 +393,8 @@
 - [x] #236 | https://jobs.ashbyhq.com/Arlo/18923aa2-a029-43d8-8fd6-1cf883f14ef8 | Arlo | Applied AI Engineer | New York City, NY — On-site | 4.0/5 | PDF ✅
 - [x] #237 | https://www.workatastartup.com/jobs/91400 | The Prompting Company | Founding Forward Deployed Engineer | San Francisco, CA — On-site | 3.4/5 | PDF ✅
 - [x] #240 | https://jobs.lever.co/thinkahead/ed0d01dc-3cf0-4693-b770-560609612056 | AHEAD | AI Practitioner / Forward Deployed Engineer | United States — Remote | 3.4/5 | PDF ✅
+
+### 2026-04-29
+
+- [x] #246 | https://job-boards.greenhouse.io/atomicwork/jobs/5073381008 | Atomicwork | Applied AI Engineer | United States | 4.0/5 | PDF ✅
+- [x] #247 | https://job-boards.greenhouse.io/automatticcareers/jobs/7558576 | Automattic | Applied AI Engineer | Global Remote (or NYC) | 3.8/5 | PDF ✅

@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 246 | 2026-04-29 | Atomicwork | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [246](reports/246-atomicwork-applied-ai-2026-04-29.md) | Direct Applied AI archetype hit (transformer + RAG + agentic + evals + observability); US office; Khosla/Battery-backed AI digital workplace; PDF generated. |
+| 247 | 2026-04-29 | Automattic | Applied AI Engineer | 3.8/5 | Evaluated | ✅ | [247](reports/247-automattic-applied-ai-2026-04-29.md) | Consumer-AI features at hundreds-of-millions scale across WordPress.com/WooCommerce/Tumblr/Beeper/Mesh; Global Remote (or NYC); PHP partial gap; product-first fit; PDF generated. |
 | 236 | 2026-04-28 | Arlo | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [236](reports/236-arlo-applied-ai-engineer-2026-04-28.md) | NYC on-site; healthcare-payer Seed (GC-backed); $210-230K + bonus + equity; strong RAG + claims + agentic + full-stack fit; F-1 OPT relocation |
 | 237 | 2026-04-28 | The Prompting Company | Founding Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [237](reports/237-prompting-company-founding-fde-2026-04-28.md) | YC S25; SF on-site; $120-150K base; 1+ yrs friendly; GEO retrieval/ranking transferable from healthcare RAG |
 | 240 | 2026-04-28 | AHEAD | AI Practitioner / Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [240](reports/240-ahead-ai-practitioner-fde-2026-04-28.md) | US Remote; $95-115K OTE (low); Enterprise GPT Platform + MCP + n8n/Zapier/Power Automate + Salesforce/ServiceNow; FDE archetype + agentic + evals fit |
