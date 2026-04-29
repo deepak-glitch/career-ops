@@ -217,6 +217,20 @@
 - [!] https://apply.workable.com/palona/j/BF974A3327 | Palona AI | Forward Deployed Engineer | NYC/SF/LA/Seattle — On-site — moved to Procesadas (#262) 2026-04-29 (2.3/5 — 7-month-old posting; ghost-posting concern; SKIP)
 - [!] https://job-boards.greenhouse.io/datacor/jobs/4962021007 | Datacor | Summer 2026 AI Engineer Intern | Location verify — error: posting closed (Greenhouse API 404 on 2026-04-29); archived
 - [!] https://www.workatastartup.com/jobs/89156 | Crustdata | Software Engineering Intern (Forward Deployed) Summer 2026 | Location verify — internship off-archetype + WaaS extraction degraded (sandbox 504 on 2026-04-29); archived
+- [!] https://job-boards.greenhouse.io/postman/jobs/6535743003 | Postman | Forward Deployed Engineer | San Francisco, CA — Hybrid (20-30% travel) — moved to Procesadas (#263) 2026-04-29 (4.0/5 — established API platform; FDE archetype direct hit; $150-180K + equity; PDF generated)
+- [!] https://job-boards.greenhouse.io/workato/jobs/8437707002 | Workato | Forward Deployed Engineer (Agentic AI) | Hybrid — Palo Alto 2-3 days/week — moved to Procesadas (#264) 2026-04-29 (3.0/5 — Agentic AI strong; iPaaS/Workato platform mandatory hard gap; $70-100K below market; PDF generated)
+- [!] https://job-boards.greenhouse.io/niraenergy/jobs/4964468008 | Nira Energy | Forward Deployed Engineer | NYC FiDi — Hybrid Tue-Thu + nationwide travel — moved to Procesadas (#265) 2026-04-29 (3.2/5 — climate/grid early-stage; $190-210K + equity; FDE archetype fit; PDF generated)
+- [!] https://job-boards.greenhouse.io/forerunner/jobs/4716512007 | Forerunner | Forward Deployed Engineer (First) | Location verify — error: Greenhouse 404 on 2026-04-29 (likely closed posting); archived
+- [!] https://jobs.ashbyhq.com/new-quest-ai/ccacbf3f-d452-482f-8d0e-9e506e050f13 | Quest | Founding Applied AI Engineer | San Francisco — error: Ashby GraphQL jobPosting null on 2026-04-29 (likely closed posting); archived
+- [!] https://jobs.ashbyhq.com/sygaldry-technologies/7c37a4a4-68e1-4bad-8c37-42d1baa83e5a | Sygaldry Technologies | Applied AI Engineer, Product & GTM | San Francisco — error: Ashby GraphQL jobPosting null on 2026-04-29 + GTM-tagged title (per filter hygiene rules); archived
+- [!] https://www.workatastartup.com/jobs/83441 | Concourse | Founding AI / ML Engineer | New York, NY — On-site — moved to Procesadas (#266) 2026-04-29 (2.4/5 — YC + a16z corporate-finance agents; explicit no-sponsorship + no-newgrad hard block for F-1 OPT; SKIP)
+- [!] https://www.workatastartup.com/jobs/74582 | Synth | Founding AI Engineer | Location verify — error: WaaS 403/404 on 2026-04-29 (likely closed posting); archived
+- [!] https://www.workatastartup.com/jobs/66546 | Modern Realty | Founding AI Engineer | Location verify — error: WaaS URL repurposed to "Mage Legal" (likely closed/repurposed posting on 2026-04-29); archived
+- [!] https://jobs.lever.co/jobgether/c45ce63c-b0c4-432e-8178-587a1219d0ce | Jobgether | Applied AI Engineer (Remote from US) | Remote — US — error: Lever API "Document not found" on 2026-04-29 (closed posting); archived
+- [!] https://jobs.lever.co/panopto/4c4fe959-597b-493f-bc08-a3a268153a32 | Panopto | AI Engineer | Remote — US — moved to Procesadas (#267) 2026-04-29 (3.3/5 — intelligent search + AI tutoring + Anthropic; $130-140K Remote US; ~4mo posting age; PDF generated)
+- [!] https://jobs.lever.co/remofirst/57ccc891-fd85-4cce-b64d-4911d0e2c098 | RemoFirst | AI Engineer | Remote — error: Lever API "Document not found" on 2026-04-29 (closed posting); archived
+- [!] https://job-boards.greenhouse.io/vannevarlabs/jobs/4252109007 | Vannevar Labs | Cleared Forward Deployed Engineer | Remote/Honolulu — error: Greenhouse JD page returned aggregator only (specific JD inaccessible) + TS/SCI clearance hard veto for F-1 OPT on 2026-04-29; archived
+- [!] https://job-boards.greenhouse.io/runpod/jobs/5082425008 | Runpod | Forward Deployed Engineer (EMEA) | EMEA Remote — error: Greenhouse JD page returned APAC role aggregator (specific EMEA JD inaccessible) + EMEA-only geo veto for F-1 OPT on 2026-04-29; archived
 
 ## Procesadas
 
@@ -426,3 +440,7 @@
 - [x] #255 | https://job-boards.greenhouse.io/bandwidth/jobs/7844136 | Bandwidth | Applied AI Engineer | Raleigh, NC — On-site | 3.0/5 | PDF ✅
 - [x] #256 | https://apply.workable.com/talentpluto/j/EAC9E37E18 | TalentPluto (recruiting agency) | Forward Deployed Engineer | NYC/SF preferred or US-remote | 3.2/5 | PDF ✅
 - [x] #258 | https://job-boards.greenhouse.io/warp/jobs/5749183004 | Warp | Founding Forward Deployed Engineer | Remote US/Canada | 3.1/5 | PDF ✅
+- [x] #263 | https://job-boards.greenhouse.io/postman/jobs/6535743003 | Postman | Forward Deployed Engineer | San Francisco, CA — Hybrid (20-30% travel) | 4.0/5 | PDF ✅
+- [x] #264 | https://job-boards.greenhouse.io/workato/jobs/8437707002 | Workato | Forward Deployed Engineer (Agentic AI) | Hybrid — Palo Alto 2-3 days/week | 3.0/5 | PDF ✅
+- [x] #265 | https://job-boards.greenhouse.io/niraenergy/jobs/4964468008 | Nira Energy | Forward Deployed Engineer | NYC FiDi — Hybrid Tue-Thu + nationwide travel | 3.2/5 | PDF ✅
+- [x] #267 | https://jobs.lever.co/panopto/4c4fe959-597b-493f-bc08-a3a268153a32 | Panopto | AI Engineer | Remote — US | 3.3/5 | PDF ✅

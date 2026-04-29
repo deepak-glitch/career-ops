@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 263 | 2026-04-29 | Postman | Forward Deployed Engineer | 4.0/5 | Evaluated | ✅ | [263](reports/263-postman-fde-2026-04-29.md) | SF hybrid + 20-30% travel; $150-180K + equity; FDE archetype direct hit; PDF generated |
+| 264 | 2026-04-29 | Workato | Forward Deployed Engineer (Agentic AI) | 3.0/5 | Evaluated | ✅ | [264](reports/264-workato-fde-agentic-ai-2026-04-29.md) | PA hybrid 2-3 days/week; $70-100K + bonus + equity; iPaaS platform mandatory hard gap; PDF generated |
+| 265 | 2026-04-29 | Nira Energy | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [265](reports/265-nira-energy-fde-2026-04-29.md) | NYC FiDi Tue-Thu hybrid + nationwide travel; $190-210K + equity; climate/grid early-stage; PDF generated |
+| 267 | 2026-04-29 | Panopto | AI Engineer | 3.3/5 | Evaluated | ✅ | [267](reports/267-panopto-ai-engineer-2026-04-29.md) | Remote US; $130-140K; intelligent search + AI tutoring + Anthropic; ~4mo posting age; PDF generated |
 | 255 | 2026-04-29 | Bandwidth | Applied AI Engineer | 3.0/5 | Evaluated | ✅ | [255](reports/255-bandwidth-applied-ai-engineer-2026-04-29.md) | Raleigh, NC on-site; internal AI tooling on Corp IT; AWS+K8s+Terraform/Ansible heavy stack; archetype fit but seniority and IaC depth are stretches. |
 | 256 | 2026-04-29 | TalentPluto (recruiting agency) | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [256](reports/256-talentpluto-fde-nyc-2026-04-29.md) | Recruiting agency for unnamed enterprise AI infra startup; NYC/SF preferred or US-remote; 3+ yrs floor; ask recruiter for client identity. |
 | 258 | 2026-04-29 | Warp | Founding Forward Deployed Engineer | 3.1/5 | Evaluated | ✅ | [258](reports/258-warp-founding-fde-2026-04-29.md) | US/Canada remote; $200-235K + equity (4yr/1yr); founding role for Oz orchestration; comp band signals Senior expectations; permanent work auth required. |
