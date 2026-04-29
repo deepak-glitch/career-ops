@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 287 | 2026-04-29 | Canopy Connect | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [287](reports/287-canopy-connect-fde-2026-04-29.md) | Remote US/Canada $125-150K; insurance API platform; FDE archetype-adjacent; Node + React stack ramp; PDF generated |
+| 292 | 2026-04-29 | Innovaccer Analytics | AI Forward Deployed Engineer (3803) | 3.4/5 | Evaluated | ✅ | [292](reports/292-innovaccer-fde-ai-2026-04-29.md) | US Remote; Healthcare AI vendor; agents + LLM + RAG = direct archetype + domain fit; PDF generated |
 | 281 | 2026-04-29 | Reevo | Builder - Software Engineer (New Grad) | 3.1/5 | Evaluated | ✅ | [281](reports/281-reevo-builder-swe-newgrad-2026-04-29.md) | Santa Clara on-site; substituted for closed AI Engineer New Grad post (`2a1f4f7f`) |
 | 282 | 2026-04-29 | Orb | Software Engineer, Core Product (Early Career) | 3.6/5 | Evaluated | ✅ | [282](reports/282-orb-swe-early-career-2026-04-29.md) | SF Hybrid 3d/wk, $160-175K + equity, 0-2 yrs new grad — strong fit |
 | 275 | 2026-04-29 | Lazarus AI | Software Engineer (Forward Deployed) | 3.8/5 | Evaluated | ✅ | [275](reports/275-lazarus-fde-2026-04-29.md) | Junior FDE; $100-120K + equity; US state-restricted remote; LLM + prompt engineering core ask |

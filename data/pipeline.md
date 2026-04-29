@@ -266,6 +266,18 @@
 - [!] https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80 | Exa | Forward Deployed Engineer | San Francisco, CA — In-person (sponsors STEM OPT/H1B) — moved to Procesadas (#279) 2026-04-29 (3.4/5 — $150-250K + equity; explicit visa sponsorship; GTM-tagged 50% sales weight; PDF generated)
 - [!] https://jobs.ashbyhq.com/fractional-ai/d1218507-6d99-4cfb-b7d5-cd34a633cda2 | Fractional AI | Software Engineer (Forward-Deployed Enterprise) | Raleigh-Durham, NC — In-person — moved to Procesadas (#280) 2026-04-29 (3.1/5 — healthcare/LS division founding team; 5+ yrs gap; PDF generated)
 - [!] https://litit.recruitee.com/o/machine-learning-engineer-ai-engineer-aws-cloud-focus | LITIT | Machine Learning / AI Engineer (AWS Cloud Focus) | location verify — error: Recruitee 404 on 2026-04-29 (posting closed); archived
+- [!] https://jobs.ashbyhq.com/lakera.ai/6eecffdc-5cee-4e66-9697-996f6bb8e90d | Lakera | Executive Assistant, AI Security (NY/NJ) | New York — not archetype match (Executive Assistant), filter slip per _profile.md hygiene; archived
+- [!] https://job-boards.greenhouse.io/sezzle/jobs/7633985003 | Sezzle | AI Engineer II (Remote) | Remote — Latin America only — moved to Procesadas (#286) 2026-04-29 (1.8/5 — LATAM-only contractor; F-1 OPT US ineligible; SKIP)
+- [!] https://job-boards.greenhouse.io/canopyconnect/jobs/5688534004 | Canopy Connect | Forward Deployed Engineer | Remote — USA & Canada — moved to Procesadas (#287) 2026-04-29 (3.2/5 — insurance API platform; FDE archetype-adjacent; PDF generated)
+- [!] https://job-boards.greenhouse.io/caylent/jobs/5973733004 | Caylent | Forward Deployed Engineer | Remote — Canada only — moved to Procesadas (#288) 2026-04-29 (1.5/5 — Canada-only + 8+ yrs Senior + explicit no-sponsorship; SKIP)
+- [!] https://jobs.ashbyhq.com/preludesecurity/75d4cece-45f2-4ad7-9491-55dd8e216298 | Prelude | Forward Deployed Engineer | original ID closed (Ashby GraphQL jobPosting null on 2026-04-29); substituted with active ID `0eb962f4-f0f4-4c07-901f-594cf0d022c9` — moved to Procesadas (#289) 2026-04-29 (2.7/5)
+- [!] https://himalayas.app/companies/silent-eight/jobs/junior-forward-deployed-ai-engineer-llm-ml | Silent Eight | Junior Forward Deployed AI Engineer (LLM/ML) | Remote — Poland only — moved to Procesadas (#290) 2026-04-29 (2.0/5 — Poland-only Remote; F-1 OPT geo block; SKIP)
+- [!] https://himalayas.app/companies/innovationteam/jobs/junior-ai-engineer-computer-vision | InnovationTeam | Junior AI Engineer - Computer Vision | Remote — India only — moved to Procesadas (#291) 2026-04-29 (1.5/5 — India-only IST + 5+ yrs Senior in Junior wrapper; SKIP)
+- [!] https://apply.workable.com/innovaccer-analytics/j/B56C368F77/ | Innovaccer Analytics | AI Forward Deployed Engineer (3803) | Remote — US — moved to Procesadas (#292) 2026-04-29 (3.4/5 — Healthcare AI vendor; agents + LLM + RAG; direct archetype + domain fit; PDF generated)
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/5121563008 | Anthropic | Forward Deployed Engineer | Paris, France — Hybrid — moved to Procesadas (#293) 2026-04-29 (1.6/5 — Paris hybrid + native French + 4+ yrs Senior; SKIP)
+- [!] https://jobs.ashbyhq.com/zapier/83ab14be-cd19-4091-84aa-2aa23833ab7d | Zapier | Applied AI Engineer | error: original posting closed (Ashby GraphQL jobPosting null on 2026-04-29; only Sr/Staff/Director Applied AI roles open); archived
+- [!] https://job-boards.greenhouse.io/sayari/jobs/4053403009 | Sayari | Forward Deployed Engineer, CE | original ID closed (Greenhouse API 404); substituted with active ID `4186776009` — moved to Procesadas (#294) 2026-04-29 (2.7/5)
+
 
 
 ## Procesadas
@@ -490,3 +502,5 @@
 - [x] #280 | https://jobs.ashbyhq.com/fractional-ai/d1218507-6d99-4cfb-b7d5-cd34a633cda2 | Fractional AI | Software Engineer (Forward-Deployed Enterprise) | Raleigh-Durham, NC — In-person | 3.1/5 | PDF ✅
 - [x] #282 | https://jobs.ashbyhq.com/orb/b39f70d0-aaa9-46c1-896a-b064a1d3b2cc | Orb | Software Engineer, Core Product (Early Career) | San Francisco — Hybrid 3d/wk; relocation supported | 3.6/5 | PDF ✅
 - [x] #281 | https://jobs.ashbyhq.com/reevo/2ea4d267-cd80-4481-9965-216ecd469e7e | Reevo | Builder — Software Engineer (New Grad) | Santa Clara, CA — On-site | 3.1/5 | PDF ✅
+- [x] #287 | https://job-boards.greenhouse.io/canopyconnect/jobs/5688534004 | Canopy Connect | Forward Deployed Engineer | Remote — USA & Canada | 3.2/5 | PDF ✅
+- [x] #292 | https://apply.workable.com/innovaccer-analytics/j/B56C368F77/ | Innovaccer Analytics | AI Forward Deployed Engineer (3803) | Remote — United States | 3.4/5 | PDF ✅
