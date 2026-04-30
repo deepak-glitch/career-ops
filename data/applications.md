@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 308 | 2026-04-30 | Corvera | Founding Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [308](reports/308-corvera-founding-fde-2026-04-30.md) | YC W26 + $2M Pre-Seed; agentic CPG back-office; archetype-perfect (agents+customer+production reliability) but 996 schedule; PDF generated |
+| 309 | 2026-04-30 | Gecko Robotics | Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [309](reports/309-gecko-robotics-fde-2026-04-30.md) | Industrial infrastructure data platform; Python/JS/React stack 1:1; office-first Pittsburgh/Boston/Houston (Deepak Kent OH ~2hrs); PDF generated |
+| 311 | 2026-04-30 | Remesh | Software Engineer | 3.4/5 | Evaluated | ✅ | [311](reports/311-remesh-software-engineer-2026-04-30.md) | US Remote + 4DWW + AI-first dev (Claude Code/Cursor) + LLM/agent integration; strong fit for Deepak's AI-tooling fluency; PDF generated |
 | 303 | 2026-04-30 | Adobe | Forward Deployed AI Engineer | 3.4/5 | Evaluated | ✅ | [303](reports/303-adobe-fde-ai-2026-04-30.md) | Mid FDE GenAI customer co-development; LLMs + RAG + diffusion + agents 1:1; Adobe H-1B sponsor; PDF generated |
 | 287 | 2026-04-29 | Canopy Connect | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [287](reports/287-canopy-connect-fde-2026-04-29.md) | Remote US/Canada $125-150K; insurance API platform; FDE archetype-adjacent; Node + React stack ramp; PDF generated |
 | 292 | 2026-04-29 | Innovaccer Analytics | AI Forward Deployed Engineer (3803) | 3.4/5 | Evaluated | ✅ | [292](reports/292-innovaccer-fde-ai-2026-04-29.md) | US Remote; Healthcare AI vendor; agents + LLM + RAG = direct archetype + domain fit; PDF generated |

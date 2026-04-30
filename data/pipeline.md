@@ -293,6 +293,16 @@
 - [!] https://himalayas.app/companies/humana/jobs/applied-ai-engineer | Humana | Applied AI Engineer | Remote — Work From Home (US) — moved to Procesadas (#301) 2026-04-30 (2.6/5 — F50 healthcare insurer; 3+ yrs Master's gap (Deepak 2.5 yrs); USC/PR pref; SKIP)
 - [!] https://silex.teamtailor.com/jobs/7605416-applied-ai-engineer-production | Silex Microsystems | Applied AI Engineer — Production | Järfälla, Sweden — On-site — moved to Procesadas (#302) 2026-04-30 (1.8/5 — Sweden on-site MEMS manufacturing; F-1 OPT + materials-domain veto; SKIP)
 - [!] https://himalayas.app/companies/adobe/jobs/forward-deployed-ai-engineer | Adobe | Forward Deployed AI Engineer | Remote — Home office (US) + 30% travel — moved to Procesadas (#303) 2026-04-30 (3.4/5 — Mid GenAI customer co-development; LLMs+RAG+diffusion+agents 1:1; PDF generated)
+- [!] https://job-boards.greenhouse.io/roadie/jobs/8479096002 | Roadie | AI Engineer Intern - Summer 2026 | Atlanta, GA — error: Greenhouse API 404 (posting closed 2026-04-30); archived
+- [!] https://jobs.ashbyhq.com/openai/c6e5f4a6-8ab1-4653-be9d-e2bca259e84a | OpenAI | Forward Deployed Engineer (FDE), Life Sciences | San Francisco, CA — Hybrid 3d/wk + 30% travel — moved to Procesadas (#305) 2026-04-30 (2.5/5 — Senior 6+ + biotech/pharma domain mismatch with care-delivery healthcare; SKIP)
+- [!] https://jobs.ashbyhq.com/openai/55e611d8-b284-458e-908c-baccd091d0c0 | OpenAI | Forward Deployed Engineer (FDE), Life Sciences | New York, NY — Hybrid 3d/wk + 30% travel — moved to Procesadas (#306) 2026-04-30 (2.5/5 — same canonical Life Sciences JD as #305 (NYC variant); SKIP)
+- [!] https://jobs.ashbyhq.com/openai/cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1 | OpenAI | Forward Deployed Engineer (FDE) | New York, NY — Hybrid 3d/wk + 50% travel — moved to Procesadas (#307) 2026-04-30 (2.7/5 — Senior 5+ + strategic-customer track record; stack 1:1 but experience gap binding; SKIP)
+- [!] https://jobs.ashbyhq.com/corvera/bc574582-7e3d-45ef-8ee2-305cedbe7973 | Corvera | Founding Forward Deployed Engineer | likely SF/NYC — On-site/hybrid + explicit 996 schedule — moved to Procesadas (#308) 2026-04-30 (3.0/5 — YC W26 agentic CPG; archetype-perfect (agents+customer+production reliability) but 996 lifestyle red flag; PDF generated)
+- [!] https://jobs.ashbyhq.com/gecko-robotics/1ae83c3f-565a-48c9-85f7-55ab1c75593d | Gecko Robotics | Forward Deployed Engineer | Pittsburgh, PA HQ / Boston / Houston — Office-first 5d/wk many; travel as needed — moved to Procesadas (#309) 2026-04-30 (3.0/5 — industrial infrastructure data platform; Python/JS/React stack 1:1; PDF generated)
+- [!] https://apply.workable.com/huggingface/j/DF4D141358 | Hugging Face | ML Engineer Internship, Open benchmarks of AI hardware | US Remote — error: Workable widget no longer lists this shortcode (posting closed 2026-04-30); archived
+- [!] https://apply.workable.com/interimage/j/BA5150B6F4/ | InterImage | AI Engineer (TO-005 RAD) | Annapolis Junction, MD — On-site (telecommuting=False); IC contractor (TS/SCI implied) — moved to Procesadas (#310) 2026-04-30 (1.8/5 — F-1 OPT cannot hold US clearance; HARD VETO)
+- [!] https://job-boards.greenhouse.io/remesh/jobs/8450776002 | Remesh | Software Engineer | Remote — must be in United States; SF/NYC office optional; 4DWW — moved to Procesadas (#311) 2026-04-30 (3.4/5 — AI-first dev (Claude Code/Cursor) + LLM/agent integration; strong fit; PDF generated)
+- [!] https://apply.workable.com/jalasoft/j/F8C54A46DD | Jalasoft | AI/ML Engineer (LangGraph + LLM) | LATAM — error: Workable widget no longer lists this shortcode (posting closed 2026-04-30; remaining Jalasoft listings are LATAM-only and F-1 OPT geo-blocked anyway); archived
 
 ## Procesadas
 
@@ -523,3 +533,6 @@
 
 - [x] #296 | https://apply.workable.com/innovaccer-analytics/j/C4ED166AEC | Innovaccer Analytics | Forward Deployed Engineer (3823) | Remote — United States | 3.2/5 | PDF ✅
 - [x] #303 | https://himalayas.app/companies/adobe/jobs/forward-deployed-ai-engineer | Adobe | Forward Deployed AI Engineer | Remote — Home office (US) + 30% travel | 3.4/5 | PDF ✅
+- [x] #308 | https://jobs.ashbyhq.com/corvera/bc574582-7e3d-45ef-8ee2-305cedbe7973 | Corvera | Founding Forward Deployed Engineer | likely SF/NYC — On-site/hybrid + 996 | 3.0/5 | PDF ✅
+- [x] #309 | https://jobs.ashbyhq.com/gecko-robotics/1ae83c3f-565a-48c9-85f7-55ab1c75593d | Gecko Robotics | Forward Deployed Engineer | Pittsburgh, PA HQ / Boston / Houston — Office-first | 3.0/5 | PDF ✅
+- [x] #311 | https://job-boards.greenhouse.io/remesh/jobs/8450776002 | Remesh | Software Engineer | Remote — US-only; 4DWW | 3.4/5 | PDF ✅
