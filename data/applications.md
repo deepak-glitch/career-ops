@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 327 | 2026-04-30 | LaunchDarkly | SDK Software Engineer, AI | 3.0/5 | Evaluated | ✅ | [327](reports/327-launchdarkly-2026-04-30.md) | Senior 5+ band; Remote-US zoned $145-235K; AI SDK (Python+TS) over OpenAI/Vercel AI; Manga Lens multi-provider artifact transferable; PDF generated. |
+| 329 | 2026-04-30 | Cresta | Senior Forward Deployed Engineer (AI Agent) | 3.4/5 | Evaluated | ✅ | [329](reports/329-cresta-fde-aiagent-2026-04-30.md) | Senior 3+ floor (close to 2.5); Remote-US $185-235K + bonus/equity; agent + RAG + function-calling 1:1 stack hit; Go gap; PDF generated. |
+| 331 | 2026-04-30 | NVIDIA | Applied AI Engineer, Silicon Co-Design Group, New College Grad 2026 | 3.7/5 | Evaluated | ✅ | [331](reports/331-nvidia-silicon-codesign-newgrad-2026-04-30.md) | NCG 2026 cohort; M.S. CS Kent State May 2025 fits floor; agentic + RAG + MLOps stack 1:1; Santa Clara on-site; deadline 04-27 may be rolling — apply ASAP; PDF generated. |
 | 324 | 2026-04-30 | Brain Co. | Early Career AI/ML Engineer | 4.0/5 | Evaluated | ✅ | [324](reports/324-brainco-early-career-ai-ml-2026-04-30.md) | Series A $55M Karpathy/Collison/Gil/Kushner backers; 0-2 yrs explicit; LLM agents+RAG+reasoning 1:1; SF Bay on-site; political founder + sovereign-government clients flagged for personal review |
 | 316 | 2026-04-30 | Pallet | Forward Deployed Software Engineer (AI Agents) | 3.0/5 | Evaluated | ✅ | [316](reports/316-pallet-fde-ai-agents-2026-04-30.md) | $50M Series, 700% rev growth — Node/TS/Encore, OpenAI/Anthropic/Vertex, $160-200K + equity; SF in-office 5d/wk + 25% travel |
 | 317 | 2026-04-30 | FourKites | Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [317](reports/317-fourkites-fde-2026-04-30.md) | Public-track supply chain AI; LangGraph + Python + Java MUST; Chicago on-site; $80-110K — Java is the binding gap |
