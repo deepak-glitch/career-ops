@@ -338,6 +338,10 @@
 - [!] https://job-boards.greenhouse.io/coherehealth/jobs/7704116003 | Cohere Health | Senior Forward-Deployed Engineer | Remote — US, ~5% travel — moved to Procesadas (#330) 2026-04-30 (2.7/5 — Senior 6-10+ payer-side floor + FHIR/HL7/X12 hard gap; comp $128-145K below market; SKIP)
 - [!] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4817969007 | Temporal Technologies | Senior Forward Deployed Engineer - Partners & Professional Services | Remote — US — error: posting closed (Temporal Greenhouse listing of 48 open roles on 2026-04-30 does not include this requisition); archived
 - [!] https://jobs.anitab.org/companies/nvidia/jobs/76096622-applied-ai-engineer-silicon-co-design-group-new-college-grad-2026 | NVIDIA | Applied AI Engineer, Silicon Co-Design Group, New College Grad 2026 | Santa Clara, CA — On-site — moved to Procesadas (#331) 2026-04-30 (3.7/5 — NCG 2026; M.S. CS Kent State May 2025 fits; agentic + RAG + MLOps stack 1:1; deadline 04-27 may be rolling — apply ASAP; PDF generated)
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7662738003?gh_jid=7662738003 | Celonis | Associate Applied AI Engineer (APAC) - Orbit Program | Madrid, Spain — moved to Procesadas (#332) 2026-04-30 (1.5/5 — HARD VETO: AU/KR citizenship required; F-1 OPT cannot apply)
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7662718003?gh_jid=7662718003 | Celonis | Associate Applied AI Engineer (Japan) - Orbit Program | Madrid, Spain — moved to Procesadas (#333) 2026-04-30 (1.5/5 — HARD VETO: JP citizenship + Japanese fluency)
+- [!] https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-ai-engineer-4510239 | Flatgigs | Forward Deployed AI Engineer | Remote — Germany — moved to Procesadas (#334) 2026-04-30 (2.7/5 — strong archetype fit but Germany-restricted; F-1 OPT US-based geo block)
+
 
 
 ## Procesadas
