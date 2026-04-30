@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 324 | 2026-04-30 | Brain Co. | Early Career AI/ML Engineer | 4.0/5 | Evaluated | ✅ | [324](reports/324-brainco-early-career-ai-ml-2026-04-30.md) | Series A $55M Karpathy/Collison/Gil/Kushner backers; 0-2 yrs explicit; LLM agents+RAG+reasoning 1:1; SF Bay on-site; political founder + sovereign-government clients flagged for personal review |
 | 316 | 2026-04-30 | Pallet | Forward Deployed Software Engineer (AI Agents) | 3.0/5 | Evaluated | ✅ | [316](reports/316-pallet-fde-ai-agents-2026-04-30.md) | $50M Series, 700% rev growth — Node/TS/Encore, OpenAI/Anthropic/Vertex, $160-200K + equity; SF in-office 5d/wk + 25% travel |
 | 317 | 2026-04-30 | FourKites | Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [317](reports/317-fourkites-fde-2026-04-30.md) | Public-track supply chain AI; LangGraph + Python + Java MUST; Chicago on-site; $80-110K — Java is the binding gap |
 | 319 | 2026-04-30 | Pager Health | Applied AI Engineer | 3.6/5 | Evaluated | ✅ | [319](reports/319-pager-health-applied-ai-2026-04-30.md) | Healthcare care-navigation AI; Mid 3+ yrs; LangChain/LangGraph/CrewAI + Pinecone/pgvector/RAGAS/LangSmith; Remote-US $150-160K |
