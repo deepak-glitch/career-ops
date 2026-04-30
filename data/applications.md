@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 312 | 2026-04-30 | Handshake | Associate Forward Deployed Engineer | 4.0/5 | Evaluated | ✅ | [312](reports/312-handshake-associate-fde-2026-04-30.md) | SF on-site 5d/wk; $135-150K + equity; 0-2 yrs explicit early-career band; AI labs customer + ReactJS/TypeScript/Postgres/AWS+GCP stack 1:1 with CV; F-1 OPT US-OK; relocation cost real but not visa blocker; PDF generated |
+| 313 | 2026-04-30 | AHEAD | AI Engineer, AI Services | 4.1/5 | Evaluated | ✅ | [313](reports/313-ahead-ai-engineer-ai-services-2026-04-30.md) | Remote-US; $180-230K OTE; multi-agent (LangChain/LangGraph) + RAG (pgvector/Pinecone/Elasticsearch) + enterprise integrations; stack 1:1 with CV; deadline 2026-05-08 (apply within 1 week); PDF generated |
 | 308 | 2026-04-30 | Corvera | Founding Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [308](reports/308-corvera-founding-fde-2026-04-30.md) | YC W26 + $2M Pre-Seed; agentic CPG back-office; archetype-perfect (agents+customer+production reliability) but 996 schedule; PDF generated |
 | 309 | 2026-04-30 | Gecko Robotics | Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [309](reports/309-gecko-robotics-fde-2026-04-30.md) | Industrial infrastructure data platform; Python/JS/React stack 1:1; office-first Pittsburgh/Boston/Houston (Deepak Kent OH ~2hrs); PDF generated |
 | 311 | 2026-04-30 | Remesh | Software Engineer | 3.4/5 | Evaluated | ✅ | [311](reports/311-remesh-software-engineer-2026-04-30.md) | US Remote + 4DWW + AI-first dev (Claude Code/Cursor) + LLM/agent integration; strong fit for Deepak's AI-tooling fluency; PDF generated |

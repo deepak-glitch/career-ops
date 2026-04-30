@@ -62,7 +62,7 @@
 - [!] https://numrah.breezy.hr/p/b66161c6d172-machine-learning-engineer-2026 | Numrah | Machine Learning Engineer 2026 | Remote — error: posting closed ("no longer accepting candidates"); archived
 - [!] https://www.workatastartup.com/jobs/88243 | Auctor | Forward Deployed Engineer | New York, NY (verify) — error: sandbox 503 (workatastartup.com egress blocked 2026-04-24); retry next run
 - [!] https://www.workatastartup.com/jobs/80966 | Distro | Forward Deployed Engineer | Remote / San Francisco, CA (verify) — error: posting closed (YC WaaS 404 on 2026-04-24); archived
-- [!] https://himalayas.app/companies/ahead/jobs/ai-engineer-ai-services | AHEAD | AI Engineer, AI Services | Remote - USA (verify) — error: sandbox 503 (himalayas.app egress blocked 2026-04-24); retry next run
+- [!] https://himalayas.app/companies/ahead/jobs/ai-engineer-ai-services | AHEAD | AI Engineer, AI Services | Remote — Work from Home (US-only) — moved to Procesadas (#313) 2026-04-30 (4.1/5 — strong stack 1:1 LangChain/LangGraph + RAG (pgvector/Pinecone/Elasticsearch) + enterprise integrations; OTE $180-230K; deadline 2026-05-08; PDF generated)
 - [!] https://sumup.com/careers/positions/8446060002?gh_jid=8446060002 | SumUp | Customer Support Agent | Amsterdam, Netherlands — not archetype match (Customer Support), filter slip per _profile.md hygiene
 - [!] https://sumup.com/careers/positions/8340139002?gh_jid=8340139002 | SumUp | Customer Support Agent - DE | Berlin, Germany — not archetype match (Customer Support), filter slip per _profile.md hygiene
 - [!] https://sumup.com/careers/positions/8340156002?gh_jid=8340156002 | SumUp | Customer Support Agent- French | Barcelona, Spain — not archetype match (Customer Support), filter slip per _profile.md hygiene
@@ -303,6 +303,12 @@
 - [!] https://apply.workable.com/interimage/j/BA5150B6F4/ | InterImage | AI Engineer (TO-005 RAD) | Annapolis Junction, MD — On-site (telecommuting=False); IC contractor (TS/SCI implied) — moved to Procesadas (#310) 2026-04-30 (1.8/5 — F-1 OPT cannot hold US clearance; HARD VETO)
 - [!] https://job-boards.greenhouse.io/remesh/jobs/8450776002 | Remesh | Software Engineer | Remote — must be in United States; SF/NYC office optional; 4DWW — moved to Procesadas (#311) 2026-04-30 (3.4/5 — AI-first dev (Claude Code/Cursor) + LLM/agent integration; strong fit; PDF generated)
 - [!] https://apply.workable.com/jalasoft/j/F8C54A46DD | Jalasoft | AI/ML Engineer (LangGraph + LLM) | LATAM — error: Workable widget no longer lists this shortcode (posting closed 2026-04-30; remaining Jalasoft listings are LATAM-only and F-1 OPT geo-blocked anyway); archived
+- [!] https://sumup.com/careers/positions/8285232002?gh_jid=8285232002 | SumUp | Customer Support Agent - EN | Barcelona, Barcelona, Spain — not archetype match (Customer Support, repeat filter slip per _profile.md hygiene); archived without report
+- [!] https://jobs.ashbyhq.com/handshake/dfa844d4-3a17-4773-9320-0455499d6f0b | Handshake | Associate Forward Deployed Engineer | San Francisco, CA — In-office 5d/wk — moved to Procesadas (#312) 2026-04-30 (4.0/5 — Associate FDE 0-2 yrs explicit; AI labs customers; ReactJS/TS/Postgres/AWS+GCP stack 1:1; PDF generated)
+- [!] https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b | Candid Health | Forward Deployed Software Engineer (New Grad) | location verify — error: posting closed (Ashby ApiJobPosting returns null on 2026-04-30; not in candidhealth job board listing); archived (Candid Health still has active SWE FDE in SF: id 71365073-41fb-40a8-b23a-3e02306770a5 — distinct posting, not yet evaluated)
+- [!] https://jobs.smartrecruiters.com/IFS1/744000120791987-forward-deployed-ai-engineer | IFS | Forward Deployed AI Engineer | London, UK — Hybrid (URL slug "palo-alto" misleading; £111-125K confirms UK) — moved to Procesadas (#314) 2026-04-30 (2.6/5 — strong stack/seniority fit but F-1 OPT to UK Skilled Worker visa is binding constraint; deprioritized vs #312/#313; no PDF)
+- [!] https://brainbox-automations.breezy.hr/p/31069b5e44d9-ai-engineer-remote | Brain Box Automations | AI Engineer (Remote) | Remote-USA — error: posting closed (Breezy "Sorry, this position is no longer accepting candidates" on 2026-04-30); archived
+
 
 ## Procesadas
 
@@ -536,3 +542,5 @@
 - [x] #308 | https://jobs.ashbyhq.com/corvera/bc574582-7e3d-45ef-8ee2-305cedbe7973 | Corvera | Founding Forward Deployed Engineer | likely SF/NYC — On-site/hybrid + 996 | 3.0/5 | PDF ✅
 - [x] #309 | https://jobs.ashbyhq.com/gecko-robotics/1ae83c3f-565a-48c9-85f7-55ab1c75593d | Gecko Robotics | Forward Deployed Engineer | Pittsburgh, PA HQ / Boston / Houston — Office-first | 3.0/5 | PDF ✅
 - [x] #311 | https://job-boards.greenhouse.io/remesh/jobs/8450776002 | Remesh | Software Engineer | Remote — US-only; 4DWW | 3.4/5 | PDF ✅
+- [x] #312 | https://jobs.ashbyhq.com/handshake/dfa844d4-3a17-4773-9320-0455499d6f0b | Handshake | Associate Forward Deployed Engineer | San Francisco, CA — In-office 5d/wk | 4.0/5 | PDF ✅
+- [x] #313 | https://himalayas.app/companies/ahead/jobs/ai-engineer-ai-services | AHEAD | AI Engineer, AI Services | Remote — Work from Home (US-only) | 4.1/5 | PDF ✅
