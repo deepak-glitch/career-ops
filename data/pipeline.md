@@ -278,7 +278,21 @@
 - [!] https://jobs.ashbyhq.com/zapier/83ab14be-cd19-4091-84aa-2aa23833ab7d | Zapier | Applied AI Engineer | error: original posting closed (Ashby GraphQL jobPosting null on 2026-04-29; only Sr/Staff/Director Applied AI roles open); archived
 - [!] https://job-boards.greenhouse.io/sayari/jobs/4053403009 | Sayari | Forward Deployed Engineer, CE | original ID closed (Greenhouse API 404); substituted with active ID `4186776009` — moved to Procesadas (#294) 2026-04-29 (2.7/5)
 
+### 2026-04-30
 
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5618829004 | Hightouch | AI Strategy Consultant | Remote (North America) — moved to Procesadas (#304) 2026-04-30 (1.5/5 — explicit no-sponsorship + Martech consulting off-archetype; F-1 OPT hard veto; SKIP)
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5718912004 | Hightouch | Forward Deployed Marketing Data Scientist | Remote (North America) — not archetype match (marketing data scientist, off-archetype), filter slip per _profile.md hygiene
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5807949004 | Hightouch | Partner Solutions Engineer | Remote (North America) — not archetype match (partner / channel role, off-archetype), filter slip per _profile.md hygiene
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5809895004 | Hightouch | Staff AI Productivity Engineer | Remote (North America) — moved to Procesadas (#295) 2026-04-30 (1.8/5 — Staff filter veto + $180-320K band; SKIP)
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5852695004 | Hightouch | Solutions Engineer EMEA (German speaking) | EMEA — not archetype match (solutions engineer + German-required + EMEA-only), filter slip
+- [!] https://apply.workable.com/innovaccer-analytics/j/C4ED166AEC | Innovaccer Analytics | Forward Deployed Engineer (3823) | Remote — US — moved to Procesadas (#296) 2026-04-30 (3.2/5 — Healthcare AI FDE production-defense flavor; PDF generated)
+- [!] https://apply.workable.com/j/B2BAB771D2 | Polaron | Forward Deployed Engineer | London, UK — In-person — moved to Procesadas (#297) 2026-04-30 (2.2/5 — F-1 OPT London geo veto; materials AI off-domain; SKIP)
+- [!] https://apply.workable.com/mlabs/j/4600CB261F | MLabs | Forward Deployed Engineer | San Francisco, CA — In-person 9am-9pm — moved to Procesadas (#298) 2026-04-30 (2.5/5 — Junior-friendly band but in-person 12-hr days + Haskell/blockchain consultancy mix; SKIP)
+- [!] https://job-boards.greenhouse.io/isidor/jobs/4048584009 | Isidor | Forward Deployed Engineer | London, UK — In-person (SF relocation H1 2026) — moved to Procesadas (#299) 2026-04-30 (2.4/5 — new-grad-friendly AI eval infra but London-first OPT timing risk; SKIP)
+- [!] https://jobs.ashbyhq.com/nexxa/f7b73d17-675e-4aad-ace4-22abe2b0f9b4 | Nexxa.AI | Applied AI Engineer | Remote — Germany (with travel) — moved to Procesadas (#300) 2026-04-30 (1.8/5 — 5-10+ yrs Senior + Germany-Remote; F-1 OPT + seniority hard veto; SKIP)
+- [!] https://himalayas.app/companies/humana/jobs/applied-ai-engineer | Humana | Applied AI Engineer | Remote — Work From Home (US) — moved to Procesadas (#301) 2026-04-30 (2.6/5 — F50 healthcare insurer; 3+ yrs Master's gap (Deepak 2.5 yrs); USC/PR pref; SKIP)
+- [!] https://silex.teamtailor.com/jobs/7605416-applied-ai-engineer-production | Silex Microsystems | Applied AI Engineer — Production | Järfälla, Sweden — On-site — moved to Procesadas (#302) 2026-04-30 (1.8/5 — Sweden on-site MEMS manufacturing; F-1 OPT + materials-domain veto; SKIP)
+- [!] https://himalayas.app/companies/adobe/jobs/forward-deployed-ai-engineer | Adobe | Forward Deployed AI Engineer | Remote — Home office (US) + 30% travel — moved to Procesadas (#303) 2026-04-30 (3.4/5 — Mid GenAI customer co-development; LLMs+RAG+diffusion+agents 1:1; PDF generated)
 
 ## Procesadas
 
@@ -504,3 +518,8 @@
 - [x] #281 | https://jobs.ashbyhq.com/reevo/2ea4d267-cd80-4481-9965-216ecd469e7e | Reevo | Builder — Software Engineer (New Grad) | Santa Clara, CA — On-site | 3.1/5 | PDF ✅
 - [x] #287 | https://job-boards.greenhouse.io/canopyconnect/jobs/5688534004 | Canopy Connect | Forward Deployed Engineer | Remote — USA & Canada | 3.2/5 | PDF ✅
 - [x] #292 | https://apply.workable.com/innovaccer-analytics/j/B56C368F77/ | Innovaccer Analytics | AI Forward Deployed Engineer (3803) | Remote — United States | 3.4/5 | PDF ✅
+
+### 2026-04-30
+
+- [x] #296 | https://apply.workable.com/innovaccer-analytics/j/C4ED166AEC | Innovaccer Analytics | Forward Deployed Engineer (3823) | Remote — United States | 3.2/5 | PDF ✅
+- [x] #303 | https://himalayas.app/companies/adobe/jobs/forward-deployed-ai-engineer | Adobe | Forward Deployed AI Engineer | Remote — Home office (US) + 30% travel | 3.4/5 | PDF ✅

@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 303 | 2026-04-30 | Adobe | Forward Deployed AI Engineer | 3.4/5 | Evaluated | ✅ | [303](reports/303-adobe-fde-ai-2026-04-30.md) | Mid FDE GenAI customer co-development; LLMs + RAG + diffusion + agents 1:1; Adobe H-1B sponsor; PDF generated |
 | 287 | 2026-04-29 | Canopy Connect | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [287](reports/287-canopy-connect-fde-2026-04-29.md) | Remote US/Canada $125-150K; insurance API platform; FDE archetype-adjacent; Node + React stack ramp; PDF generated |
 | 292 | 2026-04-29 | Innovaccer Analytics | AI Forward Deployed Engineer (3803) | 3.4/5 | Evaluated | ✅ | [292](reports/292-innovaccer-fde-ai-2026-04-29.md) | US Remote; Healthcare AI vendor; agents + LLM + RAG = direct archetype + domain fit; PDF generated |
 | 281 | 2026-04-29 | Reevo | Builder - Software Engineer (New Grad) | 3.1/5 | Evaluated | ✅ | [281](reports/281-reevo-builder-swe-newgrad-2026-04-29.md) | Santa Clara on-site; substituted for closed AI Engineer New Grad post (`2a1f4f7f`) |
