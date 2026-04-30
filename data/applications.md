@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 338 | 2026-04-30 | EvolutionIQ | Senior AI/ML Engineer (LLMs) | 3.6/5 | Evaluated | ✅ | [338](reports/338-evolutioniq-llm-engineer-2026-04-30.md) | Medical claims AI; RAG+LLM+agentic 1:1; explicit visa-transfer; $185-235K Remote-US; PDF generated |
 | 327 | 2026-04-30 | LaunchDarkly | SDK Software Engineer, AI | 3.0/5 | Evaluated | ✅ | [327](reports/327-launchdarkly-2026-04-30.md) | Senior 5+ band; Remote-US zoned $145-235K; AI SDK (Python+TS) over OpenAI/Vercel AI; Manga Lens multi-provider artifact transferable; PDF generated. |
 | 329 | 2026-04-30 | Cresta | Senior Forward Deployed Engineer (AI Agent) | 3.4/5 | Evaluated | ✅ | [329](reports/329-cresta-fde-aiagent-2026-04-30.md) | Senior 3+ floor (close to 2.5); Remote-US $185-235K + bonus/equity; agent + RAG + function-calling 1:1 stack hit; Go gap; PDF generated. |
 | 331 | 2026-04-30 | NVIDIA | Applied AI Engineer, Silicon Co-Design Group, New College Grad 2026 | 3.7/5 | Evaluated | ✅ | [331](reports/331-nvidia-silicon-codesign-newgrad-2026-04-30.md) | NCG 2026 cohort; M.S. CS Kent State May 2025 fits floor; agentic + RAG + MLOps stack 1:1; Santa Clara on-site; deadline 04-27 may be rolling — apply ASAP; PDF generated. |

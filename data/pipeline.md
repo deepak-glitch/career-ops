@@ -341,6 +341,16 @@
 - [!] https://job-boards.greenhouse.io/celonis/jobs/7662738003?gh_jid=7662738003 | Celonis | Associate Applied AI Engineer (APAC) - Orbit Program | Madrid, Spain — moved to Procesadas (#332) 2026-04-30 (1.5/5 — HARD VETO: AU/KR citizenship required; F-1 OPT cannot apply)
 - [!] https://job-boards.greenhouse.io/celonis/jobs/7662718003?gh_jid=7662718003 | Celonis | Associate Applied AI Engineer (Japan) - Orbit Program | Madrid, Spain — moved to Procesadas (#333) 2026-04-30 (1.5/5 — HARD VETO: JP citizenship + Japanese fluency)
 - [!] https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-ai-engineer-4510239 | Flatgigs | Forward Deployed AI Engineer | Remote — Germany — moved to Procesadas (#334) 2026-04-30 (2.7/5 — strong archetype fit but Germany-restricted; F-1 OPT US-based geo block)
+- [!] https://job-boards.greenhouse.io/reflective/jobs/4904163008 | Reflective | AI/ML Engineer | Remote-US — error: posting closed (Greenhouse redirects to "Pitch a Role / General Opportunities" on 2026-04-30); archived
+- [!] https://jobs.ashbyhq.com/avoca/0fc22fe4-6b8c-4c93-9b3f-fa3738054601 | Avoca | Forward Deployed Engineer | New York HQ — In-person 5d/wk + Santa Barbara office — moved to Procesadas (#335) 2026-04-30 (2.9/5 — Conversational AI FDE archetype 1:1 but NYC in-person + 0.5yr seniority gap binding; SKIP)
+- [!] https://jobs.lever.co/outreach/f7531feb-fa79-488b-96dc-0769a748425a | Outreach | Forward Deployed Engineer (FDE) - AI Revenue Agents | Remote-US — error: posting closed (Lever API "Document not found" on 2026-04-30); archived
+- [!] https://job-boards.greenhouse.io/thinkingmachines/jobs/5111543008 | Thinking Machines Lab | Software Engineer, Developer Productivity, AI Tools | San Francisco — On-site — moved to Procesadas (#336) 2026-04-30 (2.7/5 — $350-475K Senior+ band + Rust/K8s/vLLM gaps; SKIP per filter hygiene)
+- [!] https://job-boards.greenhouse.io/proconex/jobs/5970129004 | Proconex | Senior Vision AI Engineer | Royersford, PA — On-site implied — moved to Procesadas (#337) 2026-04-30 (1.7/5 — HARD VETO no-sponsorship + Senior 5+ + PA on-site + CUDA/ONNX gap; SKIP)
+- [!] https://job-boards.greenhouse.io/zeals/jobs/5572548004 | Zeals | AI/ML Engineer (Conversational AI) | Remote — error: posting closed (Greenhouse redirects to Zeals Employee Referral listing 2026-04-30; specific job ID 5572548004 not in active listing); archived
+- [!] https://job-boards.greenhouse.io/evolutioniq/jobs/5751888004 | EvolutionIQ | Senior AI/ML Engineer (LLMs) | New York, NY or Remote — Hybrid — moved to Procesadas (#338) 2026-04-30 (3.6/5 — medical claim AI; RAG+LLM+agentic 1:1; explicit visa-transfer support; $185-235K Remote-US viable; PDF generated)
+- [!] https://job-boards.greenhouse.io/calendly/jobs/8381613002 | Calendly | Machine Learning Engineer | Remote-US — error: posting closed (Greenhouse redirects to Calendly listing index on 2026-04-30; specific job ID 8381613002 not in active listing); archived
+- [!] https://jobs.ashbyhq.com/roboflow/40c3389e-c7ea-4054-8c90-05b1beb38bff | Roboflow | Machine Learning Research Engineer | Remote — moved to Procesadas (#339) 2026-04-30 (2.0/5 — research-track CVPR/NeurIPS/ICLR publication-gated; Deepak Applied not Research; SKIP per filter hygiene)
+- [!] https://jobs.lever.co/jobgether/538ae93e-7330-4a36-b9d9-07476bf27ccf | Jobgether | Forward Deployed Engineer (Remote) | Remote — error: posting closed (Lever API "Document not found" on 2026-04-30); archived
 
 
 
@@ -587,3 +597,4 @@
 - [x] #327 | https://job-boards.greenhouse.io/launchdarkly/jobs/7647797003 | LaunchDarkly | SDK Software Engineer, AI | Remote — US (Zone 1/2/3) | 3.0/5 | PDF ✅
 - [x] #329 | https://job-boards.greenhouse.io/cresta/jobs/4759347008 | Cresta | Senior Forward Deployed Engineer (AI Agent) | Remote — United States | 3.4/5 | PDF ✅
 - [x] #331 | https://jobs.anitab.org/companies/nvidia/jobs/76096622-applied-ai-engineer-silicon-co-design-group-new-college-grad-2026 | NVIDIA | Applied AI Engineer, Silicon Co-Design Group, New College Grad 2026 | Santa Clara, CA — On-site | 3.7/5 | PDF ✅
+- [x] #338 | https://job-boards.greenhouse.io/evolutioniq/jobs/5751888004 | EvolutionIQ | Senior AI/ML Engineer (LLMs) | New York, NY or Remote — Hybrid | 3.6/5 | PDF ✅
