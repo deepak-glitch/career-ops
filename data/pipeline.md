@@ -420,6 +420,18 @@
 - [!] https://wellfound.com/jobs/4077500-applied-ai-full-stack-platform-engineer | Saleschat | Applied AI / Full Stack / Platform Engineer | Mumbai, India — moved to Procesadas (#376) 2026-05-01 (1.5/5 — Mumbai-based early-stage SaaS; F-1 OPT US-residency veto; SKIP)
 - [!] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer | Lisbon (Office) or Europe (remote) — EU-only — moved to Procesadas (#377) 2026-05-01 (2.7/5 — strong tech 1:1 (RAG/FastAPI/Python/AI-coding-tools); EU-only payroll; F-1 OPT relocation barrier; SKIP unless relocating)
 
+<!-- Overnight 2026-05-01 batch 3 — Level 3 WebSearch additions (small-ATS + non-standard titles + aggregators) -->
+- [!] https://www.workatastartup.com/jobs/80597 | Mesh | AI Engineer Intern (Summer 2026) | Remote (verify in JD) — error: WaaS 404 on 2026-05-01; archived
+- [!] https://jobs.ashbyhq.com/adaption/43b683ba-da0a-47c3-9507-6daa55483a81 | Adaption | Founding Forward Deployed Machine Learning Engineer | San Francisco / Bay Area — moved to Procesadas (#378) 2026-05-01 (2.7/5 — 4+y industry + 2+y customer-facing seniority floor binding; founding ML+FDE hybrid; SKIP)
+- [!] https://jobs.ashbyhq.com/nirvana/b1537acb-5ac2-4f9d-9372-52dd09a513d6 | Cooper AI (Nirvana) | Founding Forward Deployed Engineer | San Francisco, CA — moved to Procesadas (#379) 2026-05-01 (3.4/5 — well-funded insurtech spinout; $144-240K transparent; LLMs/VLMs/orchestration/evals 1:1; PDF generated)
+- [!] https://jobs.ashbyhq.com/happyrobot.ai/f86afecf-93d3-4481-af9c-c126992f6968 | HappyRobot | Founding Forward Deployed Engineer (Australia) | Sydney, Australia — moved to Procesadas (#380) 2026-05-01 (1.5/5 — F-1 OPT cannot work in Australia; geo veto; SKIP)
+- [!] https://job-boards.greenhouse.io/noyocareers/jobs/4788597008 | Noyo | Founding Forward Deployed Engineer | Remote — error: posting closed (Greenhouse redirected to ?error=true on 2026-05-01); archived
+- [!] https://mechanizedai.breezy.hr/p/c336088bff3f-genai-engineer | Mechanized AI | GenAI Engineer | Remote — error: posting closed (Breezy "Position Closed" 2026-05-01); archived
+- [!] https://elsa.teamtailor.com/jobs/7340969-machine-learning-speech-engineer-remote | ELSA | Machine Learning / Speech Engineer | Remote — error: posting no longer active (TeamTailor 2026-05-01); archived
+- [!] https://uvation.breezy.hr/p/d23502414dbb-ai-ml-engineer | Uvation | AI/ML Engineer | Remote — error: posting closed (Breezy "Position Closed" 2026-05-01); archived
+- [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-agent-intelligence-retrieval-3227287 | Littlebird | Applied AI Engineer — Agent Intelligence & Retrieval | Remote — error: HTTP 410 (Remotive listing pulled 2026-05-01); archived
+- [!] https://remotive.com/remote/jobs/artificial-intelligence/ai-engineer-4387447 | Fingerpaint Group | AI Agent Engineer | USA Remote — moved to Procesadas (#381) 2026-05-01 (3.4/5 — pharma/healthcare ad agency; full-stack + agents + frontier LLMs 1:1; comp opacity = chief risk; PDF generated)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -688,3 +700,5 @@
 - [x] #365 | https://www.workatastartup.com/jobs/81810 | VetRec | Forward Deployed Engineer (NY) | New York, NY — In-person | 3.0/5 | PDF ✅
 - [x] #366 | https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4468950 | Amigo | Applied AI Engineer | Netherlands — Remote | 3.0/5 | PDF ✅
 - [x] #373 | https://weworkremotely.com/remote-jobs/yobi-machine-learning-engineer-applied-product-multiple-positions-levels | Yobi | Machine Learning Engineer, Applied / Product (Multi-Level) | Remote/Hybrid US (Boston, NYC, SF Bay Area, Seattle) | 3.0/5 | PDF ✅
+- [x] #379 | https://jobs.ashbyhq.com/nirvana/b1537acb-5ac2-4f9d-9372-52dd09a513d6 | Cooper AI (Nirvana) | Founding Forward Deployed Engineer | San Francisco, CA | 3.4/5 | PDF ✅
+- [x] #381 | https://remotive.com/remote/jobs/artificial-intelligence/ai-engineer-4387447 | Fingerpaint Group | AI Agent Engineer | USA — Fully Remote | 3.4/5 | PDF ✅
