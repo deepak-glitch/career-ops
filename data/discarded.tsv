@@ -140,3 +140,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-04-30	336	2026-04-30	Thinking Machines Lab	Software Engineer, Developer Productivity, AI Tools	2.7/5	Evaluated	reports/336-thinking-machines-devprod-ai-2026-04-30.md	$350-475K Senior+ band; SF on-site; Rust/K8s/vLLM gaps; SKIP per comp-band filter veto
 2026-04-30	337	2026-04-30	Proconex	Senior Vision AI Engineer	1.7/5	Evaluated	reports/337-proconex-vision-ai-2026-04-30.md	HARD VETO no-sponsorship + Senior 5+ + PA on-site + CUDA/ONNX gap; SKIP
 2026-04-30	339	2026-04-30	Roboflow	Machine Learning Research Engineer	2/5	Evaluated	reports/339-roboflow-ml-research-2026-04-30.md	Research-track CVPR/NeurIPS/ICLR publication-gated; Deepak Applied not Research; SKIP per filter hygiene
+2026-05-01	341	2026-05-01	Hightouch	AI Strategy Consultant	2.7/5	Evaluated	reports/341-hightouch-ai-strategy-consultant-2026-05-01.md	Off-archetype consulting role; will be archived to below-threshold

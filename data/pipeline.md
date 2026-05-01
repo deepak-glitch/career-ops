@@ -352,7 +352,28 @@
 - [!] https://jobs.ashbyhq.com/roboflow/40c3389e-c7ea-4054-8c90-05b1beb38bff | Roboflow | Machine Learning Research Engineer | Remote — moved to Procesadas (#339) 2026-04-30 (2.0/5 — research-track CVPR/NeurIPS/ICLR publication-gated; Deepak Applied not Research; SKIP per filter hygiene)
 - [!] https://jobs.lever.co/jobgether/538ae93e-7330-4a36-b9d9-07476bf27ccf | Jobgether | Forward Deployed Engineer (Remote) | Remote — error: posting closed (Lever API "Document not found" on 2026-04-30); archived
 
+### 2026-05-01
 
+- [ ] https://jobs.ashbyhq.com/legora/0db5d2c8-f028-49b9-9404-92a654f15a52 | Legora | Legal AI Student Analyst | Remote
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5618829004 | Hightouch | AI Strategy Consultant | Remote (North America) — moved to Procesadas (#341) 2026-05-01 (2.7/5 — off-archetype consulting role; archived to below-threshold)
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5718912004 | Hightouch | Forward Deployed Marketing Data Scientist | Remote (North America) — moved to Procesadas (#340) 2026-05-01 (3.5/5 — FDE+DS hybrid, healthcare→martech translation)
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5807949004 | Hightouch | Partner Solutions Engineer | Remote (North America) — skipped: off-archetype (Solutions Engineer per filter hygiene)
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5809895004 | Hightouch | Software Engineer - AI Productivity | Remote (North America) — skipped: extracted as Staff AI Productivity Engineer ($180-320k); seniority filter (Staff) per profile.md
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5852695004 | Hightouch | Solutions Engineer EMEA (German speaking) | EMEA — skipped: off-archetype (Solutions Engineer + German required)
+- [!] https://continued.breezy.hr/p/84c16df98c29-ai-engineer-remote | Continued | AI Engineer (Remote) | Remote-US — moved to Procesadas (#342) 2026-05-01 (4.0/5 — strong RAG+MCP+LangChain match; tracker dup of #061, report kept)
+- [!] https://aplayers.na.teamtailor.com/jobs/594533-forward-deployed-solutions-engineer-poolday-ai | Poolday.ai | Forward Deployed Solutions Engineer | Remote (Europe, GMT±2) — moved to Procesadas (#343) 2026-05-01 (3.0/5 — multi-agent fit; F-1 OPT EU location penalty)
+- [!] https://www.workatastartup.com/jobs/64767 | Glass Health | Founding AI/Data Engineer (Remote) | Remote-US — moved to Procesadas (#344) 2026-05-01 (3.6/5 — healthcare AI bullseye; 6+y gap mitigated)
+- [!] https://havocai.breezy.hr/p/927df36a3cfb-ai-ml-engineer | HavocAI | AI / ML Engineer | Greater Boston, MA / Remote — error: posting closed (Breezy "Position Closed" 2026-05-01); archived
+- [!] https://mechanizedai.breezy.hr/p/83ac0b9ca75d-ai-engineer | Mechanized AI | AI Engineer | Remote — error: posting closed (Breezy "Position Closed" 2026-05-01); archived
+- [!] https://www.workatastartup.com/jobs/87890 | Dot | Forward Deployed AI Engineer | Remote — error: WaaS 404 on 2026-05-01; archived (re-eval of #095)
+- [!] https://www.workatastartup.com/jobs/73417 | Retell AI | Founding Forward Deployed AI Engineer | SF Bay Area / Remote (verify) — error: WaaS 404 on 2026-05-01; archived
+- [!] https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer | SF on-site only (BuiltIn aggregator confirmed) — error: posting removed 2026-03-31; SF onsite-only anyway; archived (re-eval of #115)
+- [!] https://www.workatastartup.com/jobs/77891 | Synth | Founding Forward Deployed AI/Product Engineer | (verify) — error: WaaS 404 on 2026-05-01; archived
+- [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | Amdaris | AI Forward Deployed Engineer | Remote — error: posting not found on Himalayas listings page (likely closed/expired 2026-05-01); archived
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7662738003?gh_jid=7662738003 | Celonis | Associate Applied AI Engineer (APAC) - Orbit Program | Madrid, Spain — skipped: APAC location off-region; already in tracker variants
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7662718003?gh_jid=7662718003 | Celonis | Associate Applied AI Engineer (Japan) - Orbit Program | Madrid, Spain — skipped: Japan location off-region; already in tracker variants
+- [!] https://sumup.com/careers/positions/8525962002?gh_jid=8525962002 | SumUp | Customer Support Agent with Finnish and English | Berlin, Germany — skipped: off-archetype (Customer Support Agent per filter hygiene)
+- [!] https://jobs.ashbyhq.com/lakera.ai/6eecffdc-5cee-4e66-9697-996f6bb8e90d | Lakera | Executive Assistant, AI Security (NY/NJ) | New York — skipped: off-archetype (Executive Assistant role)
 
 ## Procesadas
 
@@ -598,3 +619,10 @@
 - [x] #329 | https://job-boards.greenhouse.io/cresta/jobs/4759347008 | Cresta | Senior Forward Deployed Engineer (AI Agent) | Remote — United States | 3.4/5 | PDF ✅
 - [x] #331 | https://jobs.anitab.org/companies/nvidia/jobs/76096622-applied-ai-engineer-silicon-co-design-group-new-college-grad-2026 | NVIDIA | Applied AI Engineer, Silicon Co-Design Group, New College Grad 2026 | Santa Clara, CA — On-site | 3.7/5 | PDF ✅
 - [x] #338 | https://job-boards.greenhouse.io/evolutioniq/jobs/5751888004 | EvolutionIQ | Senior AI/ML Engineer (LLMs) | New York, NY or Remote — Hybrid | 3.6/5 | PDF ✅
+
+### 2026-05-01
+
+- [x] #340 | https://job-boards.greenhouse.io/hightouch/jobs/5718912004 | Hightouch | Forward Deployed Marketing Data Scientist | Remote (North America) | 3.5/5 | PDF ✅
+- [x] #342 | https://continued.breezy.hr/p/84c16df98c29-ai-engineer-remote | Continued | AI Engineer (Remote) | Remote-US | 4.0/5 | PDF ✅
+- [x] #343 | https://aplayers.na.teamtailor.com/jobs/594533-forward-deployed-solutions-engineer-poolday-ai | Poolday.ai | Forward Deployed / Solutions Engineer | Remote (Europe, GMT±2) | 3.0/5 | PDF ✅
+- [x] #344 | https://www.workatastartup.com/jobs/64767 | Glass Health | Founding AI/Data Engineer (Remote) | Remote-US (SF 2-day hybrid optional) | 3.6/5 | PDF ✅

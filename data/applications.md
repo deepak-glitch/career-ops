@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 340 | 2026-05-01 | Hightouch | Forward Deployed Marketing Data Scientist | 3.5/5 | Evaluated | ✅ | [340](reports/340-hightouch-fde-marketing-ds-2026-05-01.md) | Remote-NA, $140-220k; FDE+DS hybrid, healthcare→martech translation needed |
+| 343 | 2026-05-01 | Poolday.ai | Forward Deployed / Solutions Engineer | 3.0/5 | Evaluated | ✅ | [343](reports/343-poolday-ai-fde-2026-05-01.md) | EU-priority remote (GMT±2); F-1 OPT location penalty offset by multi-agent fit |
+| 344 | 2026-05-01 | Glass Health | Founding AI/Data Engineer (Remote) | 3.6/5 | Evaluated | ✅ | [344](reports/344-glass-health-founding-ai-data-2026-05-01.md) | Remote-US healthcare AI bullseye; 6+y gap mitigated by RAG+HIPAA proof points |
 | 338 | 2026-04-30 | EvolutionIQ | Senior AI/ML Engineer (LLMs) | 3.6/5 | Evaluated | ✅ | [338](reports/338-evolutioniq-llm-engineer-2026-04-30.md) | Medical claims AI; RAG+LLM+agentic 1:1; explicit visa-transfer; $185-235K Remote-US; PDF generated |
 | 327 | 2026-04-30 | LaunchDarkly | SDK Software Engineer, AI | 3.0/5 | Evaluated | ✅ | [327](reports/327-launchdarkly-2026-04-30.md) | Senior 5+ band; Remote-US zoned $145-235K; AI SDK (Python+TS) over OpenAI/Vercel AI; Manga Lens multi-provider artifact transferable; PDF generated. |
 | 329 | 2026-04-30 | Cresta | Senior Forward Deployed Engineer (AI Agent) | 3.4/5 | Evaluated | ✅ | [329](reports/329-cresta-fde-aiagent-2026-04-30.md) | Senior 3+ floor (close to 2.5); Remote-US $185-235K + bonus/equity; agent + RAG + function-calling 1:1 stack hit; Go gap; PDF generated. |
