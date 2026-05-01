@@ -444,6 +444,18 @@
 - [!] https://remotive.com/remote/jobs/ai-ml/forward-deployed-engineer-4207639 | Appen | Forward Deployed Engineer | Remote — USA only — moved to Procesadas (#384) 2026-05-01 (3.2/5 — GenAI data quality + eval-pipeline FDE; $150-200K; Appen had 2023-25 layoffs; PDF generated)
 - [!] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-3767449 | BigBear.ai | Forward Deployed Engineer | Remote (verify) — error: WebFetch 404 (Remotive listing pulled 2026-05-01); the role exists at careers.bigbear.ai/jobs/4356 (DC, govtech) but this aggregator URL is dead; archived
 
+<!-- Overnight 2026-05-01 batch 5 — Level 3 WebSearch additions (small-ATS + non-standard titles + aggregators) -->
+- [!] https://jobs.smartrecruiters.com/Cinarra/744000109084826-ai-ml-engineer | Cinarra | AI/ML Engineer | San Jose, CA — error: posting expired (SmartRecruiters page reads "Position has expired" on 2026-05-01); archived
+- [!] https://weworkremotely.com/remote-jobs/gc-ai-founding-engineer | GC AI | Founding Engineer | Remote — US/Canada/Europe — moved to Procesadas (#391) 2026-05-01 (3.7/5 — legal AI Series B $60M @ $555M val; ex-Replit CTO; 1000+ legal teams; founding-role 2.5y soft seniority gap; PDF generated)
+- [!] https://weworkremotely.com/remote-jobs/glidely-founding-engineer | Glidely | Founding Engineer | Remote — US (HQ) — moved to Procesadas (#392) 2026-05-01 (1.8/5 — comp $3K/month fixed (~$36K/yr) ~67-85% below US AI market; equity deferred; F-1 OPT cash-runway risk; SKIP per ethical use)
+- [!] https://innodatainc.recruitee.com/o/solution-engineer-aiml-software-data-engineering | Innodata | Solution Engineer (AI/ML + Software + Data Engineering) | Remote — error: WebFetch 404 (Recruitee URL dead 2026-05-01); archived
+- [!] https://hudsonmanpower.recruitee.com/o/genaiml-engineer | Hudson Manpower | GenAI/ML Engineer | Remote — USA (W2) — error: page content truncated by Recruitee SPA + WebFetch could not extract JD reliably (2026-05-01); retry next run with Playwright
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-automation-specialist-engineer-4422143 | Activate Talent | AI Automation Specialist/Engineer | Remote — EST UTC-5 — moved to Procesadas (#393) 2026-05-01 (2.5/5 — recruiting agency placement; GTM/RevOps off-archetype per filter hygiene; no sponsorship; SKIP)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-process-automation-engineer-4456544 | Binalyze | AI & Process Automation Engineer | Remote — Worldwide — moved to Procesadas (#394) 2026-05-01 (2.4/5 — 12-month fixed-term contract incompatible with F-1 OPT W-2 sponsorship pathway; people-team automation off-archetype; SKIP)
+- [!] https://weworkremotely.com/remote-jobs/everai-mid-senior-ai-engineer-remote-worldwide | EverAI | Mid/Senior AI Engineer | Remote — Worldwide — moved to Procesadas (#395) 2026-05-01 (2.7/5 — 5+ yrs ML required vs 2.5y CV (2.5y gap); production LLM fine-tuning at 30M-user consumer scale; SKIP)
+- [!] https://jobs.smartrecruiters.com/Dailymotion/744000119545677-ai-engineer-all-genders- | Dailymotion | AI Engineer (All Genders) | Paris (Issy-les-Moulineaux), France — Hybrid — moved to Procesadas (#396) 2026-05-01 (2.6/5 — Paris hybrid + F-1 OPT geography veto; strong technical fit (LLM/RAG/agents/Vertex); SKIP unless intentionally pursuing EU)
+- [!] https://jobs.smartrecruiters.com/InPost/744000122273457-ai-engineer-m-f-n- | InPost | AI Engineer (m/f/n) | Warsaw, Poland — Office or 100% Remote — skipped: 7+ yrs full-stack senior gate per filter hygiene + Warsaw F-1 OPT geography mismatch
+
 ## Procesadas
 
 ### 2026-04-20
@@ -717,3 +729,4 @@
 - [x] #382 | https://job-boards.greenhouse.io/komodohealth/jobs/8512178002 | Komodo Health | Applied AI Engineer | San Francisco, CA / NYC — Hybrid; Remote-US eligible | 4.2/5 | PDF ✅
 - [x] #384 | https://remotive.com/remote/jobs/ai-ml/forward-deployed-engineer-4207639 | Appen | Forward Deployed Engineer | Remote — USA only | 3.2/5 | PDF ✅
 - [x] #389 | https://apply.workable.com/seaplane/j/B709F321EF/ | Seaplane | Forward Deployed Engineer | Remote — US working hours (UTC-5/-6/-7/-8) | 3.0/5 | PDF ✅
+- [x] #391 | https://weworkremotely.com/remote-jobs/gc-ai-founding-engineer | GC AI | Founding Engineer | Remote — US/Canada/Europe (HQ San Francisco) | 3.7/5 | PDF ✅
