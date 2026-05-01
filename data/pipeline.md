@@ -408,6 +408,18 @@
 - [!] https://weworkremotely.com/remote-jobs/arch-works-forward-deployed-engineer | Arch Works | Forward Deployed Engineer | Remote (Austin, TX HQ) — moved to Procesadas (#363) 2026-05-01 (3.3/5 — AI workflow + HRIS/ERP/payroll integration = direct match (Emerson Synthesis ERP discipline); comp not stated; PDF generated)
 - [!] https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-ai-engineer-4510239 | Flatgigs | Forward Deployed AI Engineer | Remote — Germany-based — moved to Procesadas (#361) 2026-05-01 (2.5/5 — junior FDE w/ FastAPI/LangChain/LangGraph 1:1 stack; Germany-based remote = F-1 OPT soft block; comp opaque; SKIP unless US-eligible)
 
+<!-- Overnight 2026-05-01 batch 2 — Level 3 WebSearch additions (small-ATS + non-standard titles + aggregators) -->
+- [ ] https://job-boards.greenhouse.io/sezzle/jobs/7645199003 | Sezzle | AI Engineer I (Remote) | Remote — USA
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4835292007 | Together AI | Software Engineer - New Grad | verify
+- [ ] https://himalayas.app/companies/defense-unicorns/jobs/forward-deployed-ai-engineer-7929817277 | Defense Unicorns | Forward Deployed AI Engineer | Remote — verify
+- [ ] https://himalayas.app/companies/databricks/jobs/ai-engineer-fde-forward-deployed-engineer-5620577413 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Remote — verify
+- [ ] https://job-boards.greenhouse.io/impiricus/jobs/5195577008 | Impiricus | AI Engineer | verify
+- [ ] https://weworkremotely.com/remote-jobs/yobi-machine-learning-engineer-applied-product-multiple-positions-levels | Yobi | Machine Learning Engineer - Applied / Product | Remote — verify
+- [ ] https://remotive.com/remote/jobs/ai-ml/ai-automation-forward-deployment-engineer-4272140 | Elastic | AI Automation Forward Deployment Engineer | Remote — verify
+- [ ] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-ai-internal-tools-4297535 | Knak | Forward Deployed Engineer (AI Internal Tools) | Remote — verify
+- [ ] https://wellfound.com/jobs/4077500-applied-ai-full-stack-platform-engineer | Saleschat | Applied AI / Full Stack / Platform Engineer | verify
+- [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer | Remote — verify
+
 ## Procesadas
 
 ### 2026-04-20
