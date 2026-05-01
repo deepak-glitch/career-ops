@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 346 | 2026-05-01 | Boomi | AI Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [346](reports/346-boomi-ai-fde-2026-05-01.md) | US Remote; 5+ yrs binding gap (Deepak 2.5y); LangChain/CrewAI 1:1; iPaaS off-archetype; comp $110-163K below market |
+| 347 | 2026-05-01 | OneStream Software | AI Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [347](reports/347-onestream-ai-fde-2026-05-01.md) | US Remote 25% travel; 0-2y SE + 1-2y ML fits; OneStream platform + FP&A domain hard gaps; $120-149K market median |
 | 340 | 2026-05-01 | Hightouch | Forward Deployed Marketing Data Scientist | 3.5/5 | Evaluated | ✅ | [340](reports/340-hightouch-fde-marketing-ds-2026-05-01.md) | Remote-NA, $140-220k; FDE+DS hybrid, healthcare→martech translation needed |
 | 343 | 2026-05-01 | Poolday.ai | Forward Deployed / Solutions Engineer | 3.0/5 | Evaluated | ✅ | [343](reports/343-poolday-ai-fde-2026-05-01.md) | EU-priority remote (GMT±2); F-1 OPT location penalty offset by multi-agent fit |
 | 344 | 2026-05-01 | Glass Health | Founding AI/Data Engineer (Remote) | 3.6/5 | Evaluated | ✅ | [344](reports/344-glass-health-founding-ai-data-2026-05-01.md) | Remote-US healthcare AI bullseye; 6+y gap mitigated by RAG+HIPAA proof points |
@@ -166,7 +168,7 @@
 | 18 | 2026-04-21 | Vyn | GenAI Engineer | 3.6/5 | Evaluated | ⏳ | [18](reports/018-vyn-2026-04-21.md) | Video intelligence + GenAI maps to Deepak's video-summarization + YOLOv8 + RAG; UK geography/visa is the open question. |
 | 19 | 2026-04-21 | Auctor | Software Engineer, Applied AI | 4.0/5 | Evaluated | ⏳ | [19](reports/019-auctor-2026-04-21.md) | YC agentic OS for SI — JD language maps 1:1 to Deepak's eval-first RAG + schema-contract agents; NYC on-site. |
 | 20 | 2026-04-21 | Vapi | Agent Engineer - NY | 3.8/5 | Evaluated | ⏳ | [20](reports/020-vapi-2026-04-21.md) | Voice AI platform NYC — Manga Lens multi-provider pattern transfers directly; voice/telephony is the ramp. |
-| 1 | 2026-04-20 | Anthropic | Forward Deployed Engineer, Applied AI | 3.7/5 | Evaluated | ✅ | [1](reports/001-anthropic-2026-04-20.md) | Strong RAG+agentic fit; 3+ yrs meets floor, visa risk flagged |
+| 1 | 2026-05-01 | Anthropic | Applied AI Engineer, Beneficial Deployments | 4.0/5 | Evaluated | ✅ | [345](reports/345-anthropic-applied-ai-beneficial-2026-05-01.md) | Re-eval 2026-05-01 (3.7→4). SF/NYC hybrid 25%+; mission-driven (healthcare/ed-tech/nonprofits); $280-300K; explicit visa sponsorship; 4+ yrs slight gap mitigated by shipping velocity |
 | 3 | 2026-04-20 | Cohere | Applied AI Engineer - Agentic Workflows | 4.1/5 | Evaluated | ✅ | [3](reports/003-cohere-2026-04-20.md) | Strong agentic+LLM fit; mid level; apply |
 | 4 | 2026-04-20 | Ramp | Applied AI Engineer | 3.4/5 | Evaluated | ✅ | [4](reports/004-ramp-2026-04-20.md) | Full-stack AI fintech; NYC on-site; apply if relocation OK |
 | 5 | 2026-04-20 | Distyl AI | AI Engineer (New Graduate) | 4.5/5 | Evaluated | ✅ | [5](reports/005-distyl-2026-04-20.md) | TOP MATCH — explicit new-grad track, enterprise GenAI, apply now |

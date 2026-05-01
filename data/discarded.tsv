@@ -141,3 +141,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-04-30	337	2026-04-30	Proconex	Senior Vision AI Engineer	1.7/5	Evaluated	reports/337-proconex-vision-ai-2026-04-30.md	HARD VETO no-sponsorship + Senior 5+ + PA on-site + CUDA/ONNX gap; SKIP
 2026-04-30	339	2026-04-30	Roboflow	Machine Learning Research Engineer	2/5	Evaluated	reports/339-roboflow-ml-research-2026-04-30.md	Research-track CVPR/NeurIPS/ICLR publication-gated; Deepak Applied not Research; SKIP per filter hygiene
 2026-05-01	341	2026-05-01	Hightouch	AI Strategy Consultant	2.7/5	Evaluated	reports/341-hightouch-ai-strategy-consultant-2026-05-01.md	Off-archetype consulting role; will be archived to below-threshold
+2026-05-01	348	2026-05-01	Legora	Legal AI Student Analyst	1.5/5	Evaluated	reports/348-legora-legal-ai-student-2026-05-01.md	1099 contractor for 2L/3L US law students; off-archetype; not in candidate pool
+2026-05-01	349	2026-05-01	Rackspace Technology	Forward Deployed Engineer	1.8/5	Evaluated	reports/349-rackspace-fde-2026-05-01.md	India-Remote (F-1 OPT US-veto); stack 1:1 (Python/LangChain/RAG/K8s); SKIP

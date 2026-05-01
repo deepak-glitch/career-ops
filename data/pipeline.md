@@ -354,7 +354,6 @@
 
 ### 2026-05-01
 
-- [ ] https://jobs.ashbyhq.com/legora/0db5d2c8-f028-49b9-9404-92a654f15a52 | Legora | Legal AI Student Analyst | Remote
 - [!] https://job-boards.greenhouse.io/hightouch/jobs/5618829004 | Hightouch | AI Strategy Consultant | Remote (North America) — moved to Procesadas (#341) 2026-05-01 (2.7/5 — off-archetype consulting role; archived to below-threshold)
 - [!] https://job-boards.greenhouse.io/hightouch/jobs/5718912004 | Hightouch | Forward Deployed Marketing Data Scientist | Remote (North America) — moved to Procesadas (#340) 2026-05-01 (3.5/5 — FDE+DS hybrid, healthcare→martech translation)
 - [!] https://job-boards.greenhouse.io/hightouch/jobs/5807949004 | Hightouch | Partner Solutions Engineer | Remote (North America) — skipped: off-archetype (Solutions Engineer per filter hygiene)
@@ -374,6 +373,16 @@
 - [!] https://job-boards.greenhouse.io/celonis/jobs/7662718003?gh_jid=7662718003 | Celonis | Associate Applied AI Engineer (Japan) - Orbit Program | Madrid, Spain — skipped: Japan location off-region; already in tracker variants
 - [!] https://sumup.com/careers/positions/8525962002?gh_jid=8525962002 | SumUp | Customer Support Agent with Finnish and English | Berlin, Germany — skipped: off-archetype (Customer Support Agent per filter hygiene)
 - [!] https://jobs.ashbyhq.com/lakera.ai/6eecffdc-5cee-4e66-9697-996f6bb8e90d | Lakera | Executive Assistant, AI Security (NY/NJ) | New York — skipped: off-archetype (Executive Assistant role)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-4437170 | Boomi | AI Forward Deployed Engineer | Remote — USA | moved to Procesadas (#346) 2026-05-01 (3.0/5 — 5+ yrs gap; LangChain/CrewAI 1:1; iPaaS off-archetype; comp $110-163K below market; PDF generated)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-3992641 | OneStream Software | AI Forward Deployed Engineer | Remote — USA, 25% travel | moved to Procesadas (#347) 2026-05-01 (3.0/5 — seniority fits; OneStream platform + FP&A domain hard gaps; $120-149K market median; PDF generated)
+- [!] https://remotive.com/remote/jobs/ai-ml/forward-deployed-engineer-4384729 | Rackspace Technology | Forward Deployed Engineer | India — Remote | moved to Procesadas (#349) 2026-05-01 (1.8/5 — F-1 OPT US-veto on India location; stack 1:1 but geo-blocked; SKIP)
+- [!] https://remotive.com/remote/jobs/ai-ml/forward-deployed-engineer-ii-4292798 | Rackspace Technology | Forward Deployed Engineer II | Remote — verify | error: 404 (Remotive listing pulled 2026-05-01); archived
+- [!] https://apply.workable.com/valsoft-corp/j/DF0A23B9A3 | Valsoft Corporation | AI Engineer | Remote (verify) | error: extraction blocked (Workable widget did not render JD on 2026-05-01); retry next run
+- [!] https://builtin.com/job/2026-new-grad-olympics-software-engineer/9058165 | New Lantern | 2026 New Grad Olympics — Software Engineer | San Francisco, CA — In-person after 4-week trial | error: posting removed from BuiltIn (2026-04-16); SF in-person + F-1 OPT mobility; archived
+- [!] https://builtin.com/job/forward-deployed-engineer/4653161 | Visia | Forward Deployed Engineer | Remote — US, 60-70% travel | error: posting removed from BuiltIn (2025-05-08); recycling/CCTV-X-ray off-domain anyway; archived
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments | San Francisco, CA or New York City, NY — Hybrid ≥25% on-site + travel | moved to Procesadas (#345) 2026-05-01 (4.0/5 — mission-driven LLM systems w/ healthcare bridge; $280-300K; explicit visa sponsorship; PDF generated; high-priority apply)
+- [!] https://jobs.ashbyhq.com/dust/67cbc47d-0520-4a03-af40-e05271a75946 | Dust | Forward Deployed Engineer (US) | location verify | error: posting closed (Ashby ApiJobPosting null on 2026-05-01; Dust board lists only Founding AI Deployment Strategist SF + Opportunistic AI Builder Paris); archived
+- [!] https://jobs.ashbyhq.com/legora/0db5d2c8-f028-49b9-9404-92a654f15a52 | Legora | Legal AI Student Analyst | Remote — 1099 contractor (US law students only) | moved to Procesadas (#348) 2026-05-01 (1.5/5 — JD requires 2L/3L US law student; off-archetype for engineer; SKIP)
 
 ## Procesadas
 
@@ -626,3 +635,6 @@
 - [x] #342 | https://continued.breezy.hr/p/84c16df98c29-ai-engineer-remote | Continued | AI Engineer (Remote) | Remote-US | 4.0/5 | PDF ✅
 - [x] #343 | https://aplayers.na.teamtailor.com/jobs/594533-forward-deployed-solutions-engineer-poolday-ai | Poolday.ai | Forward Deployed / Solutions Engineer | Remote (Europe, GMT±2) | 3.0/5 | PDF ✅
 - [x] #344 | https://www.workatastartup.com/jobs/64767 | Glass Health | Founding AI/Data Engineer (Remote) | Remote-US (SF 2-day hybrid optional) | 3.6/5 | PDF ✅
+- [x] #345 | https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments | San Francisco, CA or New York City, NY — Hybrid ≥25% on-site + travel | 4.0/5 | PDF ✅
+- [x] #346 | https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-4437170 | Boomi | AI Forward Deployed Engineer | Remote — USA | 3.0/5 | PDF ✅
+- [x] #347 | https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-3992641 | OneStream Software | AI Forward Deployed Engineer | Remote — USA, 25% travel | 3.0/5 | PDF ✅
