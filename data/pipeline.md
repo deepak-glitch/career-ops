@@ -409,16 +409,16 @@
 - [!] https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-ai-engineer-4510239 | Flatgigs | Forward Deployed AI Engineer | Remote — Germany-based — moved to Procesadas (#361) 2026-05-01 (2.5/5 — junior FDE w/ FastAPI/LangChain/LangGraph 1:1 stack; Germany-based remote = F-1 OPT soft block; comp opaque; SKIP unless US-eligible)
 
 <!-- Overnight 2026-05-01 batch 2 — Level 3 WebSearch additions (small-ATS + non-standard titles + aggregators) -->
-- [ ] https://job-boards.greenhouse.io/sezzle/jobs/7645199003 | Sezzle | AI Engineer I (Remote) | Remote — USA
-- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4835292007 | Together AI | Software Engineer - New Grad | verify
-- [ ] https://himalayas.app/companies/defense-unicorns/jobs/forward-deployed-ai-engineer-7929817277 | Defense Unicorns | Forward Deployed AI Engineer | Remote — verify
-- [ ] https://himalayas.app/companies/databricks/jobs/ai-engineer-fde-forward-deployed-engineer-5620577413 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Remote — verify
-- [ ] https://job-boards.greenhouse.io/impiricus/jobs/5195577008 | Impiricus | AI Engineer | verify
-- [ ] https://weworkremotely.com/remote-jobs/yobi-machine-learning-engineer-applied-product-multiple-positions-levels | Yobi | Machine Learning Engineer - Applied / Product | Remote — verify
-- [ ] https://remotive.com/remote/jobs/ai-ml/ai-automation-forward-deployment-engineer-4272140 | Elastic | AI Automation Forward Deployment Engineer | Remote — verify
-- [ ] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-ai-internal-tools-4297535 | Knak | Forward Deployed Engineer (AI Internal Tools) | Remote — verify
-- [ ] https://wellfound.com/jobs/4077500-applied-ai-full-stack-platform-engineer | Saleschat | Applied AI / Full Stack / Platform Engineer | verify
-- [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer | Remote — verify
+- [!] https://job-boards.greenhouse.io/sezzle/jobs/7645199003 | Sezzle | AI Engineer I (Remote) | LATAM/Türkiye-only (Brazil/Mexico/Colombia/Bogota/Türkiye) — moved to Procesadas (#368) 2026-05-01 (1.5/5 — F-1 OPT US-residency veto; SKIP)
+- [!] https://job-boards.greenhouse.io/togetherai/jobs/4835292007 | Together AI | Software Engineer - New Grad | error: Greenhouse API 404 (job not found 2026-05-01); URL dead; archived
+- [!] https://himalayas.app/companies/defense-unicorns/jobs/forward-deployed-ai-engineer-7929817277 | Defense Unicorns | Forward Deployed AI Engineer | United States Remote + 25% travel — moved to Procesadas (#370) 2026-05-01 (1.5/5 — U.S. Citizenship REQUIRED + TS/SCI clearance preferred (DoD contractor); F-1 OPT statutory veto; SKIP)
+- [!] https://himalayas.app/companies/databricks/jobs/ai-engineer-fde-forward-deployed-engineer-5620577413 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | US Remote — moved to Procesadas (#371) 2026-05-01 (2.5/5 — Senior IC: 5+ yrs DS consulting + grad degree; 2.5y soft seniority gap is binding; SKIP)
+- [!] https://job-boards.greenhouse.io/impiricus/jobs/5195577008 | Impiricus | AI Engineer | error: Greenhouse API 404 (job not found 2026-05-01); URL dead; archived
+- [!] https://weworkremotely.com/remote-jobs/yobi-machine-learning-engineer-applied-product-multiple-positions-levels | Yobi | Machine Learning Engineer - Applied / Product | Remote/Hybrid US (Boston, NYC, SF, Seattle) — moved to Procesadas (#373) 2026-05-01 (3.0/5 — multi-level Applied/Product MLE; AdTech off-bullseye but ranking transfers; sibling band $180-275K; PDF generated)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-automation-forward-deployment-engineer-4272140 | Elastic | AI Automation Forward Deployment Engineer | Remote — India only — moved to Procesadas (#374) 2026-05-01 (1.5/5 — India-only restriction; F-1 OPT US-residency veto; SKIP. Stack 1:1.)
+- [!] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-ai-internal-tools-4297535 | Knak | Forward Deployed Engineer (AI Internal Tools) | Remote — Canada only — moved to Procesadas (#375) 2026-05-01 (1.5/5 — Canada-only restriction; JD body has zero LLM/AI content (Laravel/PHP/TS/AWS CDK); SKIP)
+- [!] https://wellfound.com/jobs/4077500-applied-ai-full-stack-platform-engineer | Saleschat | Applied AI / Full Stack / Platform Engineer | Mumbai, India — moved to Procesadas (#376) 2026-05-01 (1.5/5 — Mumbai-based early-stage SaaS; F-1 OPT US-residency veto; SKIP)
+- [!] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer | Lisbon (Office) or Europe (remote) — EU-only — moved to Procesadas (#377) 2026-05-01 (2.7/5 — strong tech 1:1 (RAG/FastAPI/Python/AI-coding-tools); EU-only payroll; F-1 OPT relocation barrier; SKIP unless relocating)
 
 ## Procesadas
 
@@ -687,3 +687,4 @@
 - [x] #364 | https://www.workatastartup.com/jobs/76656 | Dex | Founding Engineer (new grads ok) | San Francisco, CA — On-site (founding-stage) | 3.7/5 | PDF ✅
 - [x] #365 | https://www.workatastartup.com/jobs/81810 | VetRec | Forward Deployed Engineer (NY) | New York, NY — In-person | 3.0/5 | PDF ✅
 - [x] #366 | https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4468950 | Amigo | Applied AI Engineer | Netherlands — Remote | 3.0/5 | PDF ✅
+- [x] #373 | https://weworkremotely.com/remote-jobs/yobi-machine-learning-engineer-applied-product-multiple-positions-levels | Yobi | Machine Learning Engineer, Applied / Product (Multi-Level) | Remote/Hybrid US (Boston, NYC, SF Bay Area, Seattle) | 3.0/5 | PDF ✅
