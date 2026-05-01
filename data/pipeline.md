@@ -394,6 +394,20 @@
 - [!] https://jobs.smartrecruiters.com/ServiceNow/744000116702082-forward-deployed-solution-engineer-applied-ai-fde | ServiceNow | Forward Deployed Solution Engineer — Applied AI | EMEA Remote/Flexible (URL slug "Dublin" misleading) — moved to Procesadas (#354) 2026-05-01 (1.8/5 — 8+ yrs SWE + 2+ yrs customer-facing senior gap; F-1 OPT to EMEA hard blocker; Solutions Engineer on filter hygiene; SKIP)
 - [!] https://himalayas.app/companies/red-hat/jobs/forward-deployed-ai-engineer-customer-adoption-and-innovation | Red Hat | Forward Deployed AI Engineer — Customer Adoption and Innovation | Remote — North America (US preferred); 20% travel — moved to Procesadas (#353) 2026-05-01 (2.0/5 — senior+ band: 10+ yrs consulting + 5+ K8s + 2+ vLLM/Kserve/llm-d; structural seniority gap; SKIP)
 
+<!-- Overnight 2026-05-01 Level 3 WebSearch additions -->
+- [!] https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer | Reveleer | Full Stack AI Engineer | Remote — USA — moved to Procesadas (#362) 2026-05-01 (3.7/5 — healthcare VBC AI bullseye; agentic clinical prospective suspecting = 1:1 to Agentic Claims project; $175-200K; 5+y SWE soft gap; PDF generated)
+- [!] https://job-boards.greenhouse.io/splitero/jobs/5162723008 | Splitero | Applied AI Engineer | Remote — USA — moved to Procesadas (#356) 2026-05-01 (3.0/5 — fintech RAG/agents 1:1; $135-175K; 6+y SWE soft gap + sponsorship screen risk; n8n/Make hard gap; PDF generated)
+- [!] https://jobs.ashbyhq.com/voxel/322edcd6-4baf-4b5f-8fdd-fd89f965255c | Voxel | Founding Forward Deployed Engineer | San Francisco, CA — On-site/Hybrid — moved to Procesadas (#357) 2026-05-01 (3.5/5 — CV (YOLOv8) + full-stack 1:1; legacy data integration via Emerson; $220-250K + equity; PDF generated)
+- [!] https://jobs.ashbyhq.com/modal/0d9c249b-f305-4b0e-b325-3242ac7274e7 | Modal | Forward Deployed Engineer - ML | Stockholm, Sweden — In-person — moved to Procesadas (#358) 2026-05-01 (1.8/5 — F-1 OPT geo veto + ML systems gaps (vLLM/SGLang/GPU programming); SKIP)
+- [!] https://jobs.ashbyhq.com/helios-intelligence-platforms/6eb2627a-e791-4bfc-8091-dd54af8f1395 | Helios Intelligence Platforms | Founding Forward Deployed Engineer | New York City or Washington, DC — moved to Procesadas (#359) 2026-05-01 (2.0/5 — govtech requires 5+y + US-gov RFP/procurement experience; structural mismatch; SKIP)
+- [!] https://job-boards.greenhouse.io/youcom/jobs/4866878008 | You.com | AI Engineer, Enterprise Solutions | Remote — verify | error: posting closed (Greenhouse listing no longer shows the role on You.com 2026-05-01); archived
+- [!] https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9 | Notion | Software Engineer, New Grad (AI) | San Francisco, CA — In-person M/T/Th (Anchor Days) — moved to Procesadas (#360) 2026-05-01 (4.0/5 — premier new-grad AI track; M.S. CS 2025 + 2.5y Applied AI fits; H-1B sponsor history; HIGH PRIORITY apply; PDF generated)
+- [!] https://jobs.smartrecruiters.com/AspenSkiingCompany/744000118213407-ai-engineer | Aspen Skiing Company | AI Engineer | Aspen/Denver, CO | error: posting expired (application deadline April 7, 2026 per SmartRecruiters page on 2026-05-01); archived
+- [!] https://jobs.smartrecruiters.com/Daxko1/744000097335935-ai-software-engineer-i | Daxko | AI Software Engineer I | Remote | error: posting expired ("Job has expired" on SmartRecruiters 2026-05-01); archived
+- [!] https://jobs.smartrecruiters.com/Docplanner/744000093681335-ai-ml-engineer | Docplanner | AI/LLM Engineer | Bologna IT | error: posting expired ("Sorry, this job has expired" on SmartRecruiters 2026-05-01); archived
+- [!] https://weworkremotely.com/remote-jobs/arch-works-forward-deployed-engineer | Arch Works | Forward Deployed Engineer | Remote (Austin, TX HQ) — moved to Procesadas (#363) 2026-05-01 (3.3/5 — AI workflow + HRIS/ERP/payroll integration = direct match (Emerson Synthesis ERP discipline); comp not stated; PDF generated)
+- [!] https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-ai-engineer-4510239 | Flatgigs | Forward Deployed AI Engineer | Remote — Germany-based — moved to Procesadas (#361) 2026-05-01 (2.5/5 — junior FDE w/ FastAPI/LangChain/LangGraph 1:1 stack; Germany-based remote = F-1 OPT soft block; comp opaque; SKIP unless US-eligible)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -653,3 +667,8 @@
 - [x] #350 | https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer | Growth Factory Ventures | Applied AI Engineer | Fully Remote — Worldwide (Sacramento CA HQ) | 3.5/5 | PDF ✅
 - [x] #351 | https://weworkremotely.com/remote-jobs/fusemachines-applied-ai-engineer-automation | Fusemachines | Applied AI Engineer (Automation) | Remote (Nepal HQ; US/CA/DR offices) | 3.4/5 | PDF ✅
 - [x] #352 | https://wellfound.com/jobs/3535404-ai-ml-engineer-forward-deployed-engineer | Hexo | AI/ML Engineer (Forward Deployed Engineer) | SF / Bengaluru / Remote | 3.0/5 | PDF ✅
+- [x] #356 | https://job-boards.greenhouse.io/splitero/jobs/5162723008 | Splitero | Applied AI Engineer | Remote — USA | 3.0/5 | PDF ✅
+- [x] #357 | https://jobs.ashbyhq.com/voxel/322edcd6-4baf-4b5f-8fdd-fd89f965255c | Voxel | Founding Forward Deployed Engineer | San Francisco, CA — On-site/Hybrid | 3.5/5 | PDF ✅
+- [x] #360 | https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9 | Notion | Software Engineer, New Grad (AI) | San Francisco, CA — In-person M/T/Th | 4.0/5 | PDF ✅
+- [x] #362 | https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer | Reveleer | Full Stack AI Engineer | Remote — USA | 3.7/5 | PDF ✅
+- [x] #363 | https://weworkremotely.com/remote-jobs/arch-works-forward-deployed-engineer | Arch Works | Forward Deployed Engineer | Remote (Austin, TX HQ) | 3.3/5 | PDF ✅
