@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 364 | 2026-05-01 | Dex | Founding Engineer (new grads ok) | 3.7/5 | Evaluated | ✅ | [364](reports/364-dex-founding-engineer-2026-05-01.md) | YC W25 AI Coworker in Chrome; SF on-site founding role; explicit new-grads OK; $130-250K + 0.5-2% equity; Python+React+TS+browser internals 1:1 with Manga Lens; founding-stage hours red flag |
+| 365 | 2026-05-01 | VetRec | Forward Deployed Engineer (NY) | 3.0/5 | Evaluated | ✅ | [365](reports/365-vetrec-fde-ny-2026-05-01.md) | YC S23 AI scribe for veterinarians; NY in-person; healthcare-adjacent scribe architecture transfers from Progress RAG; comp not disclosed (yellow flag); F-1 OPT relocation cost |
+| 366 | 2026-05-01 | Amigo | Applied AI Engineer | 3.0/5 | Evaluated | ✅ | [366](reports/366-amigo-applied-ai-2026-05-01.md) | NL-Remote production AI agents; Operational Patient Domains + verification loops + HIPAA preferred 1:1 with Healthcare RAG/agentic Claims; geo soft-veto for F-1 OPT US base; comp not disclosed |
 | 356 | 2026-05-01 | Splitero | Applied AI Engineer | 3.0/5 | Evaluated | ✅ | [356](reports/356-splitero-applied-ai-2026-05-01.md) | Remote-USA fintech/proptech; $135-175K; 6+y SWE soft gap + sponsorship screen; n8n/Make hard gap; PDF generated |
 | 357 | 2026-05-01 | Voxel | Founding Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [357](reports/357-voxel-founding-fde-2026-05-01.md) | SF on-site/hybrid; $220-250K + equity; CV (YOLOv8) + full-stack 1:1; legacy data integration via Emerson Synthesis; PDF generated |
 | 360 | 2026-05-01 | Notion | Software Engineer New Grad (AI) | 4.0/5 | Evaluated | ✅ | [360](reports/360-notion-newgrad-ai-2026-05-01.md) | SF in-person M/T/Th; AI product/systems/evals tracks; M.S. CS 2025 + 2.5y Applied AI fits; H-1B sponsor history; HIGH PRIORITY apply; PDF generated |
