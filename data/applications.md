@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 382 | 2026-05-01 | Komodo Health | Applied AI Engineer | 4.2/5 | Evaluated | ✅ | [382](reports/382-komodo-health-applied-ai-2026-05-01.md) | Healthcare data platform; agent-based AI pipelines + RAG bullseye; $191-224K Bay/NYC or $166-195K Remote-US; sponsorship question in app; high-priority apply |
+| 389 | 2026-05-01 | Seaplane | Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [389](reports/389-seaplane-fde-2026-05-01.md) | Remote US-hours FDE; Workable SPA + limited public info; comp opacity = chief risk; tailor + verify in screen |
 | 379 | 2026-05-01 | Cooper AI (Nirvana spinout) | Founding Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [379](reports/379-cooper-ai-founding-fde-2026-05-01.md) | SF founding role at well-funded insurtech ($1.5B Series D parent); $144-240K transparent; LLMs/VLMs/orchestration/evals 1:1; insurance ↔ healthcare regulated translation; PDF generated. |
 | 381 | 2026-05-01 | Fingerpaint Group | AI Agent Engineer | 3.4/5 | Evaluated | ✅ | [381](reports/381-fingerpaint-ai-agent-engineer-2026-05-01.md) | US-remote AI agent role at independent pharma/healthcare ad agency; full-stack + agents + frontier LLMs 1:1; comp opacity = chief risk; verify role permanence + sponsorship in screen; PDF generated. |
 | 373 | 2026-05-01 | Yobi | Machine Learning Engineer, Applied / Product (Multi-Level) | 3.0/5 | Evaluated | ✅ | [373](reports/373-yobi-ml-engineer-applied-product-2026-05-01.md) | Multi-level Applied/Product MLE; Remote/Hybrid US (Boston/NYC/SF/Seattle); AdTech off-bullseye but ranking transfers from Patient No-Show; sibling band $180-275K; PDF generated; apply. |

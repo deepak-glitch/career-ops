@@ -432,6 +432,18 @@
 - [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-agent-intelligence-retrieval-3227287 | Littlebird | Applied AI Engineer — Agent Intelligence & Retrieval | Remote — error: HTTP 410 (Remotive listing pulled 2026-05-01); archived
 - [!] https://remotive.com/remote/jobs/artificial-intelligence/ai-engineer-4387447 | Fingerpaint Group | AI Agent Engineer | USA Remote — moved to Procesadas (#381) 2026-05-01 (3.4/5 — pharma/healthcare ad agency; full-stack + agents + frontier LLMs 1:1; comp opacity = chief risk; PDF generated)
 
+<!-- Overnight 2026-05-01 batch 4 — Level 3 WebSearch additions (small-ATS + non-standard titles + aggregators) -->
+- [!] https://job-boards.greenhouse.io/komodohealth/jobs/8512178002 | Komodo Health | Applied AI Engineer | San Francisco, CA / NYC — Hybrid; Remote-US eligible — moved to Procesadas (#382) 2026-05-01 (4.2/5 — healthcare data + agent-based AI pipelines bullseye; $191-224K Bay/NYC; sponsorship question in app; PDF generated; HIGH PRIORITY apply)
+- [!] https://job-boards.greenhouse.io/lyratechgroup/jobs/5195593008 | Lyra Technology Group | Forward Deployment AI Engineer | Chicago, IL — Hybrid + 40-60% travel — moved to Procesadas (#383) 2026-05-01 (1.8/5 — JD verbatim "must be authorized w/o sponsorship" = F-1 OPT veto; SKIP)
+- [!] https://apply.workable.com/talentpluto/j/074D28A7A7/ | TalentPluto (recruiting agency) | Forward Deployed Engineer | NYC/SF preferred / Remote-US near major airport — moved to Procesadas (#386) 2026-05-01 (2.7/5 — recruiting agency placement at "well-funded enterprise AI infra/dev-tools" co; comp opacity; below PDF threshold)
+- [!] https://apply.workable.com/virtuhire/j/3EB34EA78B/ | VirtuHire (Finto) | Founding Forward Deployed Engineer | Munich, Germany — relocation likely — moved to Procesadas (#387) 2026-05-01 (1.8/5 — Munich-based AI finance automation YC alum; F-1 OPT to Germany off US trajectory; SKIP)
+- [!] https://apply.workable.com/polaron/j/B2BAB771D2 | Polaron | Forward Deployed Engineer | London, UK — On-site 4d/wk — moved to Procesadas (#385) 2026-05-01 (1.5/5 — Imperial College spinout; materials science off-domain; UK on-site F-1 OPT veto; SKIP)
+- [!] https://apply.workable.com/seaplane/j/B709F321EF/ | Seaplane | Forward Deployed Engineer | Remote — US working hours (UTC-5/-6/-7/-8) — moved to Procesadas (#389) 2026-05-01 (3.0/5 — remote US-hours FDE; Workable SPA + limited public info; comp opacity; PDF generated)
+- [!] https://weworkremotely.com/remote-jobs/h2corporation-forward-deployed-backend-software-engineer | H2 Corporation | Forward Deployed Backend Software Engineer | Tokyo HQ; Remote/Global (EOR unclear) — moved to Procesadas (#388) 2026-05-01 (2.5/5 — Tokyo-HQ construction-AI vertical; off-domain + EOR/timezone ambiguity; below PDF threshold)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-intern-4386612 | Intermedia Intelligent Communications | AI Forward Deployed Engineer Intern | Remote — USA only — moved to Procesadas (#390) 2026-05-01 (1.8/5 — $20/hr intern; "currently enrolled" excludes Deepak post-grad May 2025; SKIP)
+- [!] https://remotive.com/remote/jobs/ai-ml/forward-deployed-engineer-4207639 | Appen | Forward Deployed Engineer | Remote — USA only — moved to Procesadas (#384) 2026-05-01 (3.2/5 — GenAI data quality + eval-pipeline FDE; $150-200K; Appen had 2023-25 layoffs; PDF generated)
+- [!] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-3767449 | BigBear.ai | Forward Deployed Engineer | Remote (verify) — error: WebFetch 404 (Remotive listing pulled 2026-05-01); the role exists at careers.bigbear.ai/jobs/4356 (DC, govtech) but this aggregator URL is dead; archived
+
 ## Procesadas
 
 ### 2026-04-20
@@ -702,3 +714,6 @@
 - [x] #373 | https://weworkremotely.com/remote-jobs/yobi-machine-learning-engineer-applied-product-multiple-positions-levels | Yobi | Machine Learning Engineer, Applied / Product (Multi-Level) | Remote/Hybrid US (Boston, NYC, SF Bay Area, Seattle) | 3.0/5 | PDF ✅
 - [x] #379 | https://jobs.ashbyhq.com/nirvana/b1537acb-5ac2-4f9d-9372-52dd09a513d6 | Cooper AI (Nirvana) | Founding Forward Deployed Engineer | San Francisco, CA | 3.4/5 | PDF ✅
 - [x] #381 | https://remotive.com/remote/jobs/artificial-intelligence/ai-engineer-4387447 | Fingerpaint Group | AI Agent Engineer | USA — Fully Remote | 3.4/5 | PDF ✅
+- [x] #382 | https://job-boards.greenhouse.io/komodohealth/jobs/8512178002 | Komodo Health | Applied AI Engineer | San Francisco, CA / NYC — Hybrid; Remote-US eligible | 4.2/5 | PDF ✅
+- [x] #384 | https://remotive.com/remote/jobs/ai-ml/forward-deployed-engineer-4207639 | Appen | Forward Deployed Engineer | Remote — USA only | 3.2/5 | PDF ✅
+- [x] #389 | https://apply.workable.com/seaplane/j/B709F321EF/ | Seaplane | Forward Deployed Engineer | Remote — US working hours (UTC-5/-6/-7/-8) | 3.0/5 | PDF ✅
