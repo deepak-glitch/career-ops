@@ -500,6 +500,16 @@
 - [!] https://www.workatastartup.com/jobs/67226 | Berry | Founding Full Stack Engineer — LLM/Applied AI | Europe Remote (Spain/Germany) — moved to Procesadas (#421) 2026-05-02 (2.0/5 — 6+y senior gap + $50-85K below-US comp + Europe-only F-1 OPT geo veto; SKIP)
 - [!] https://www.workatastartup.com/jobs/92061 | Hub.xyz | Founding Full Stack AI Engineer | San Francisco, CA — error: HTTP 404 on WaaS 2026-05-02 (posting closed); archived
 
+<!-- Overnight 2026-05-02 batch 3 — Level 3 WebSearch additions (Greenhouse junior + Lever applied AI + small-ATS Breezy) -->
+- [!] https://international-consulting-associates-inc.breezy.hr/p/3bcd9a1d7356-data-science-machine-learning-engineer-remote-continental-united-states | ICA.ai | Data Science / Machine Learning Engineer | Remote — Continental USA (DMV preferred) — moved to Procesadas (#422) 2026-05-02 (2.4/5 — federal-consulting Public Trust Clearance gate (F-1 OPT structural blocker) + 5+ yrs senior gap; SKIP)
+- [!] https://himalayas.app/companies/permitflow/jobs/applied-machine-learning-engineer-8414187266 | PermitFlow | Applied Machine Learning Engineer | NYC Hybrid 3d / Remote-US — moved to Procesadas (#423) 2026-05-02 (3.2/5 — sister role to #28 (4.3/5); $175-250K NYC; PyTorch + FAISS + Pinecone + RAG; 5+ yrs gap binding but stack 1:1; sponsorship not stated; PDF generated)
+- [!] https://job-boards.greenhouse.io/superset/jobs/5124713008 | super{set} Hive Community | Junior AI Solutions Engineer | San Francisco, CA — error: Greenhouse API 404 on 2026-05-02 (job ID closed); board lists only Account Executive / CSM / Head of FDE / AI Solutions Lead / Sr Recruiter; archived
+- [!] https://job-boards.greenhouse.io/algolia/jobs/5562695004 | Algolia | Junior Software Engineer, GenAI | error: Greenhouse API 404 on 2026-05-02 (job ID closed); archived
+- [!] https://job-boards.greenhouse.io/coderoad/jobs/4205500009 | CodeRoad | Jr Agentic AI Engineer | error: Greenhouse API 404 on 2026-05-02 (job ID closed); archived
+- [!] https://jobs.lever.co/jobgether/c45ce63c-b0c4-432e-8178-587a1219d0ce | Jobgether | Applied AI Engineer (Remote from US) | error: HTTP 403 / Lever API "Document not found" on 2026-05-02; archived
+- [!] https://job-boards.greenhouse.io/pairteam/jobs/8470905002 | Pair Team | Senior AI Engineer | Remote — USA — Senior title hits negative filter per _profile.md hygiene; healthcare-Medicaid agentic match would be 4.0+ if mid-band; SKIP
+- [!] https://himalayas.app/companies/ryz-labs/jobs/applied-ai-engineer | Ryz Labs | Applied AI Engineer | Argentina — Remote — Argentina-only geo veto for F-1 OPT (US base); 5+y senior gap + MS+ required; SKIP
+
 ## Procesadas
 
 ### 2026-04-20
@@ -785,3 +795,4 @@
 - [x] #417 | https://www.workatastartup.com/jobs/72554 | Centralize | Founding Engineer (Applied AI) | San Francisco, CA / Remote (US) | 4.0/5 | PDF ✅
 - [x] #419 | https://www.workatastartup.com/jobs/73140 | Kastle | Founding Applied AI Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
 - [x] #420 | https://www.workatastartup.com/jobs/71163 | Flair Labs | Founding Applied AI Engineer | Palo Alto, CA — On-site | 3.3/5 | PDF ✅
+- [x] #423 | https://himalayas.app/companies/permitflow/jobs/applied-machine-learning-engineer-8414187266 | PermitFlow | Applied Machine Learning Engineer | NYC Hybrid 3d / Remote-US | 3.2/5 | PDF ✅
