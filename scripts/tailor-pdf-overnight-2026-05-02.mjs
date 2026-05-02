@@ -15,6 +15,10 @@ const ROLES = {
     summary: `${BASE} Targeting Bask Health's ML Engineer seat — production ML pipelines for personalized health-tech, computer vision adjacency (YOLOv8 + video analytics at Suvidha), Python/PyTorch/scikit-learn stack, FastAPI + Docker production services with structured logging, and HIPAA-conscious data governance translate 1:1 to Bask Health's AI-powered patient experience platform.`,
     comps: ['Machine Learning Engineer', 'Healthcare AI', 'HIPAA-Conscious Governance', 'Predictive ML Pipelines', 'Computer Vision (YOLOv8)', 'Python / PyTorch / scikit-learn', 'FastAPI / Docker', 'Production Deployment', 'Cross-Functional Delivery', 'Cloud-Ready (AWS)'],
   },
+  'nxtlevel-fde': {
+    summary: `${BASE} Targeting NxT Level's Founding Forward Deployed Engineer seat — Agentic Healthcare Claims (5-stage multi-agent w/ schema-validated JSON contracts) + Manga Lens (Chrome Web Store, Manifest V3 service workers, multi-provider AI vision, viewport-slice DOM capture across 29 sites) translate 1:1 to autonomous AI agents in EMR + browser-automation home-based-care workflows. HIPAA-conscious production discipline + customer-onsite stakeholder docs from Progress Solutions. NYC-open, US-based (F-1 OPT, sponsorship).`,
+    comps: ['Founding Forward Deployed Engineer', 'AI Agents in Healthcare Workflows', 'Browser Automation (Manifest V3)', 'EMR-Adjacent Integration', 'Multi-Agent Pipelines', 'Schema-Validated JSON Contracts', 'RAG / Agentic LLM Workflows', 'Python / FastAPI / TypeScript', 'HIPAA-Conscious Governance', 'Customer-Facing Engineering'],
+  },
 };
 
 const EXPERIENCE = `

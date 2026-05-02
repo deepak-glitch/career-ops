@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 411 | 2026-05-02 | NxT Level | Founding Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [411](reports/411-nxtlevel-founding-fde-2026-05-02.md) | Early-stage NYC home-based-care AI startup; founding-FDE archetype 1:1 (browser automation + EMR + AI agents); new-grad-to-mid floor; on-site NYC + 30-50% travel + comp opacity; PDF generated |
 | 410 | 2026-05-02 | Bask Health | Machine Learning Engineer | 3.1/5 | Evaluated | ✅ | [410](reports/410-bask-health-ml-2026-05-02.md) | Healthcare-tech Remote-US ML Engineer; strong domain + archetype fit; Spark/Databricks gap; posting age (Oct 2024 ~18mo) is a legitimacy concern — verify role active before applying; PDF generated |
 | 399 | 2026-05-02 | Scale AI | Forward Deployed Engineer, GenAI | 3.6/5 | Evaluated | ✅ | [399](reports/399-scaleai-fde-genai-2026-05-02.md) | SF/NYC hybrid; 2+ yrs (good fit); $179.4-224.25K base; archetype-perfect (FDE GenAI, top labs + gov customers); F-1 OPT relocation needed; PDF generated |
 | 391 | 2026-05-01 | GC AI | Founding Engineer | 3.7/5 | Evaluated | ✅ | [391](reports/391-gc-ai-founding-engineer-2026-05-01.md) | Legal AI Series B $60M @ $555M val (Scale + Northzone); ex-Replit CTO; 1000+ legal teams (Vercel/Skims/News Corp); Remote US/CA/EU; founding-role 2.5y soft seniority gap; PDF generated |

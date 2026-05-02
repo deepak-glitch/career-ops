@@ -477,6 +477,18 @@
 - [!] https://app.careerpuck.com/job-board/domino-data-lab/job/7275081 | Domino Data Lab | Forward Deployed Engineer — New Grad 2026 | New York, NY — Hybrid — error: posting closed (BuiltIn NYC mirror confirms removed 2026-01-07; $150K base; campus-recruiting role); archived
 - [!] https://jobs.workable.com/view/i6RYcPDF6Bipu53Z8JjSay/remote-machine-learning-engineer-in-united-states-at-bask-health | Bask Health | Machine Learning Engineer | Remote — USA — moved to Procesadas (#410) 2026-05-02 (3.1/5 — healthcare-tech Remote-US ML Engineer; strong domain + archetype fit; Spark/Databricks gap; posting age Oct 2024 ~18mo legitimacy concern — verify role active before applying; PDF generated)
 
+<!-- Overnight 2026-05-02 batch 2 — Level 3 WebSearch additions (small-ATS Personio/Recruitee/Teamtailor + aggregators + non-standard titles) -->
+- [!] https://exmox-gmbh.jobs.personio.com/job/2607195 | exmox | Applied AI Engineer | Hamburg, Germany — Hybrid 3-day in-office — moved to Procesadas (#412) 2026-05-02 (2.5/5 — pipeline URL slug typo (actual /job/2607168); EU geography veto + 5+y senior gap; SKIP)
+- [!] https://innodatainc.recruitee.com/o/aiml-research-engineer-llm-post-training-evaluation | Innodata | AI/ML Research Engineer, LLM Post-Training & Evaluation | Remote — error: posting closed (Recruitee careers page reads "Currently we don't have any open positions" 2026-05-02); archived
+- [!] https://helloinside.jobs.personio.com/job/1058522?language=en | Hello Inside | AI Engineer (Remote) | Remote — error: WebFetch 404 on 2026-05-02; URL dead; archived
+- [!] https://stillfrontgroup.teamtailor.com/jobs/7284543-machine-learning-ops-engineer | Stillfront | Machine Learning Ops Engineer | Hamburg / Sofia / Zagreb / Bucharest — Hybrid — moved to Procesadas (#413) 2026-05-02 (2.4/5 — multi-EU hybrid + 5y senior gap + Spark/K8s gaps; F-1 OPT geo veto; SKIP)
+- [!] https://realitymine.teamtailor.com/jobs/7126489-machine-learning-engineer | RealityMine | Machine Learning Engineer | Remote — error: posting closed (TeamTailor "position no longer active" on 2026-05-02); archived
+- [!] https://jobs.lever.co/conversica/765d2754-a07a-4a83-8a9d-fc25b80d73c3 | Conversica | Software Engineer (AI Platform) | Remote — error: HTTP 403 on Lever (page-level access block 2026-05-02); retry next run
+- [!] https://remoteworld.teamtailor.com/jobs/7629545-machine-learning-engineer | Remote World | Machine Learning Engineer | Remote — UK climate — error: HTTP 410 (TeamTailor listing pulled 2026-05-02); archived
+- [!] https://www.fwddeploy.com/jobs/founding-forward-deployed-engineer-cf282a89 | NxT Level | Founding Forward Deployed Engineer | New York City + 30-50% domestic travel — moved to Procesadas (#411) 2026-05-02 (3.5/5 — early-stage NYC home-based-care AI; founding-FDE archetype 1:1 (browser automation + EMR + AI agents); new-grad-to-mid floor; PDF generated)
+- [!] https://www.workatastartup.com/jobs/93159 | Avent | Founding Forward Deployed Engineer | San Francisco, CA — On-site/hybrid — error: WaaS partial render on 2026-05-02 (page header only); existing report #248 stands; archived re-check
+- [!] https://www.workatastartup.com/jobs/79989 | Novoflow | Founding Forward Deployed Engineer | Remote-US — error: WaaS HTTP 404 on 2026-05-02; existing report #097 stands; archived re-check
+
 ## Procesadas
 
 ### 2026-04-20
@@ -756,3 +768,4 @@
 
 - [x] #399 | https://job-boards.greenhouse.io/scaleai/jobs/4593571005 | Scale AI | Forward Deployed Engineer, GenAI | San Francisco, CA / New York, NY — Hybrid | 3.6/5 | PDF ✅
 - [x] #410 | https://jobs.workable.com/view/i6RYcPDF6Bipu53Z8JjSay/remote-machine-learning-engineer-in-united-states-at-bask-health | Bask Health | Machine Learning Engineer | Remote — USA | 3.1/5 | PDF ✅
+- [x] #411 | https://www.fwddeploy.com/jobs/founding-forward-deployed-engineer-cf282a89 | NxT Level | Founding Forward Deployed Engineer | New York City + 30-50% domestic travel | 3.5/5 | PDF ✅
