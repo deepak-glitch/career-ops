@@ -524,6 +524,14 @@
 - [!] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4226182 | Runpod | Forward Deployed Engineer | APAC (Malaysia/Singapore/South Korea) — Remote — moved to Procesadas (#429) 2026-05-02 (1.8/5 — APAC-only; F-1 OPT US-residency veto; SKIP)
 - [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-fde-forward-deployed-engineer-u-s-federal-sector-3873213 | Databricks | AI Engineer FDE — U.S. Federal Sector | Washington DC/MD/VA — Remote — moved to Procesadas (#430) 2026-05-02 (1.5/5 — HARD VETO US Citizenship + Secret clearance REQUIRED; F-1 OPT statutory blocker; SKIP)
 
+<!-- Overnight 2026-05-02 batch 5 — Level 3 WebSearch additions (small-ATS + non-standard titles + aggregators) -->
+- [!] https://www.workatastartup.com/jobs/76273 | Edexia | Founding AI Engineer | Brisbane, QLD, AU — moved to Procesadas (#431) 2026-05-02 (1.8/5 — YC W25 edtech AI Teacher Assistant; Brisbane AU geo veto for F-1 OPT US-base + "80+ hours/week historically" cultural bar; SKIP per ethical-use)
+- [!] https://himalayas.app/companies/level-ai/jobs/machine-learning-engineer | Level AI | Machine Learning Engineer | Mountain View HQ + India offices (verify) — moved to Procesadas (#432) 2026-05-02 (2.6/5 — Series C CCaaS contact-center AI; Himalayas URL did not render JD body 2026-05-02; canonical Lever lists only Sr. ML Eng (Speech); likely senior gate; verify next scan via Playwright)
+- [!] https://himalayas.app/companies/first-advantage/jobs/ai-engineer-associate-ai-engineer-remote | First Advantage | Associate AI Engineer | Remote — United States — moved to Procesadas (#433) 2026-05-02 (3.6/5 — US-public NASDAQ FA background-screening platform; Associate band fits 2.5y+M.S.; RAG/one-shot/multi-shot/NLP/CV/prompt-eng JD 1:1; H-1B sponsorship history per USCIS; PDF generated)
+- [!] https://weworkremotely.com/listings/berry-ai-founding-full-stack-engineer-llm-applied-ai-no-prior-llm-experience-required | Berry AI | Founding Full Stack Engineer — LLM/Applied AI (no prior LLM exp required) | Europe — Remote (Spain/Germany) — duplicate of #421 (already evaluated 2026-05-02 at 2.0/5 — same role, different aggregator URL); not re-evaluated
+- [!] https://weworkremotely.com/remote-jobs/slidespeak-ai-software-engineer | SlideSpeak | AI Software Engineer | Remote — European timezone required — moved to Procesadas (#434) 2026-05-02 (2.3/5 — stack-perfect NextJS/React/TS+FastAPI+Llama Index+PGVector; EU-timezone HARD requirement + $50-75K below-US comp; F-1 OPT geo veto; SKIP)
+- [!] https://www.remoterocketship.com/us/company/brellium/jobs/software-engineer-ai-new-york-city-hybrid/ | Brellium | Software Engineer — AI | New York City — Hybrid 4d (3d if >1h commute) — moved to Procesadas (#435) 2026-05-02 (4.0/5 — Series A NYC healthcare AI clinical compliance; Menlo Ventures portfolio; LLM integration + healthcare RAG 1:1 with PSI + Healthcare Claims; $130-180K Glassdoor NYC; PDF generated)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -815,3 +823,5 @@
 - [x] #426 | https://jobs.ashbyhq.com/coderabbit/8f17b66f-ea44-4e83-85f6-ef9427d61a01 | CodeRabbit | Applied AI Engineer | San Francisco, CA — Hybrid (weekly in-person) | 3.5/5 | PDF ✅
 - [x] #427 | https://job-boards.greenhouse.io/nice/jobs/4812204101 | NICE | AI Forward Deployed Engineer | USA - Remote | 3.0/5 | PDF ✅
 - [x] #428 | https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4298751 | Vercel | Forward Deployed Engineer | USA Only — Remote | 3.4/5 | PDF ✅
+- [x] #433 | https://himalayas.app/companies/first-advantage/jobs/ai-engineer-associate-ai-engineer-remote | First Advantage | Associate AI Engineer | Remote — United States | 3.6/5 | PDF ✅
+- [x] #435 | https://www.remoterocketship.com/us/company/brellium/jobs/software-engineer-ai-new-york-city-hybrid/ | Brellium | Software Engineer — AI | New York City — Hybrid 4d (3d if >1h commute) | 4.0/5 | PDF ✅
