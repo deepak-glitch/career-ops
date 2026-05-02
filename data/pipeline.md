@@ -489,6 +489,17 @@
 - [!] https://www.workatastartup.com/jobs/93159 | Avent | Founding Forward Deployed Engineer | San Francisco, CA — On-site/hybrid — error: WaaS partial render on 2026-05-02 (page header only); existing report #248 stands; archived re-check
 - [!] https://www.workatastartup.com/jobs/79989 | Novoflow | Founding Forward Deployed Engineer | Remote-US — error: WaaS HTTP 404 on 2026-05-02; existing report #097 stands; archived re-check
 
+- [!] https://job-boards.greenhouse.io/klaviyocampus/jobs/7621072003 | Klaviyo | AI Engineer I (New Grad) | Boston, MA — Hybrid 3 days/week — moved to Procesadas (#414) 2026-05-02 (4.2/5 — campus pipeline w/ explicit F-1/H-1B sponsorship list; $104-156K; agentic + FastAPI + evals 1:1; PDF generated)
+- [!] https://job-boards.greenhouse.io/kodiak/jobs/4139994009 | Kodiak | Sr./Staff Applied AI Engineer — Multimodal Transformers | Mountain View, CA — On-site — moved to Procesadas (#415) 2026-05-02 (1.8/5 — Sr./Staff title auto-veto + AV-perception off-archetype; SKIP)
+- [!] https://jobs.ashbyhq.com/bjakcareer/4eb18042-9a3a-4911-9ff5-0f4797fbb2a6 | Bjak | Founding AI Software Engineer (Remote) | Remote — error: posting closed (Ashby GraphQL ApiJobPosting returned null on 2026-05-02; only org-wide regional Applied AI Engineer postings remain); archived
+- [!] https://www.workatastartup.com/jobs/75647 | Bild AI | Founding Engineer (Applied AI) | San Francisco, CA — On-site full-time — moved to Procesadas (#416) 2026-05-02 (3.0/5 — YC W25 multimodal CV/LLM blueprint understanding; new grads OK; $100-180K + 0.20-0.80% equity; SF relocation friction; PDF generated)
+- [!] https://www.workatastartup.com/jobs/72554 | Centralize | Founding Engineer (Applied AI) | San Francisco, CA / Remote (US) — moved to Procesadas (#417) 2026-05-02 (4.0/5 — YC W24 RAG + rerankers + research agents archetype 1:1; $130-190K + 0.75-1.25% equity; Remote-US supported; PDF generated)
+- [!] https://www.workatastartup.com/jobs/72983 | Saphira AI | Founding Applied AI Engineer | San Francisco, CA / Remote (US) — moved to Procesadas (#418) 2026-05-02 (2.0/5 — YC S24 hardware compliance "Vanta for Hardware"; 5+y senior gap binding; off-archetype; SKIP)
+- [!] https://www.workatastartup.com/jobs/73140 | Kastle | Founding Applied AI Engineer | San Francisco, CA — On-site — moved to Procesadas (#419) 2026-05-02 (3.7/5 — YC S24 voice AI mortgage; $180-220K + 0.50-1.10% equity; new grads OK; HIPAA→CFPB regulated-domain transfer; PDF generated)
+- [!] https://www.workatastartup.com/jobs/71163 | Flair Labs | Founding Applied AI Engineer | Palo Alto, CA — On-site — moved to Procesadas (#420) 2026-05-02 (3.3/5 — YC W24 voice AI real estate/lending; $4M seed + $1M ARR; voice-AI gap with audio-adjacent transferable; PDF generated)
+- [!] https://www.workatastartup.com/jobs/67226 | Berry | Founding Full Stack Engineer — LLM/Applied AI | Europe Remote (Spain/Germany) — moved to Procesadas (#421) 2026-05-02 (2.0/5 — 6+y senior gap + $50-85K below-US comp + Europe-only F-1 OPT geo veto; SKIP)
+- [!] https://www.workatastartup.com/jobs/92061 | Hub.xyz | Founding Full Stack AI Engineer | San Francisco, CA — error: HTTP 404 on WaaS 2026-05-02 (posting closed); archived
+
 ## Procesadas
 
 ### 2026-04-20
@@ -769,3 +780,8 @@
 - [x] #399 | https://job-boards.greenhouse.io/scaleai/jobs/4593571005 | Scale AI | Forward Deployed Engineer, GenAI | San Francisco, CA / New York, NY — Hybrid | 3.6/5 | PDF ✅
 - [x] #410 | https://jobs.workable.com/view/i6RYcPDF6Bipu53Z8JjSay/remote-machine-learning-engineer-in-united-states-at-bask-health | Bask Health | Machine Learning Engineer | Remote — USA | 3.1/5 | PDF ✅
 - [x] #411 | https://www.fwddeploy.com/jobs/founding-forward-deployed-engineer-cf282a89 | NxT Level | Founding Forward Deployed Engineer | New York City + 30-50% domestic travel | 3.5/5 | PDF ✅
+- [x] #414 | https://job-boards.greenhouse.io/klaviyocampus/jobs/7621072003 | Klaviyo | AI Engineer I (New Grad) | Boston, MA — Hybrid 3 days/week | 4.2/5 | PDF ✅
+- [x] #416 | https://www.workatastartup.com/jobs/75647 | Bild AI | Founding Engineer (Applied AI) | San Francisco, CA — On-site full-time | 3.0/5 | PDF ✅
+- [x] #417 | https://www.workatastartup.com/jobs/72554 | Centralize | Founding Engineer (Applied AI) | San Francisco, CA / Remote (US) | 4.0/5 | PDF ✅
+- [x] #419 | https://www.workatastartup.com/jobs/73140 | Kastle | Founding Applied AI Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
+- [x] #420 | https://www.workatastartup.com/jobs/71163 | Flair Labs | Founding Applied AI Engineer | Palo Alto, CA — On-site | 3.3/5 | PDF ✅
