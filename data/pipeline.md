@@ -456,6 +456,20 @@
 - [!] https://jobs.smartrecruiters.com/Dailymotion/744000119545677-ai-engineer-all-genders- | Dailymotion | AI Engineer (All Genders) | Paris (Issy-les-Moulineaux), France — Hybrid — moved to Procesadas (#396) 2026-05-01 (2.6/5 — Paris hybrid + F-1 OPT geography veto; strong technical fit (LLM/RAG/agents/Vertex); SKIP unless intentionally pursuing EU)
 - [!] https://jobs.smartrecruiters.com/InPost/744000122273457-ai-engineer-m-f-n- | InPost | AI Engineer (m/f/n) | Warsaw, Poland — Office or 100% Remote — skipped: 7+ yrs full-stack senior gate per filter hygiene + Warsaw F-1 OPT geography mismatch
 
+### 2026-05-02
+
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/5208218008 | Anthropic | AI Compliance Officer | Dublin, IE — moved to Procesadas (#398) 2026-05-02 (1.3/5 — off-archetype compliance/regulatory; filter slip)
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/5012991008 | Anthropic | Forward Deployed Engineer | London, UK — On-site/Hybrid + 25-50% travel — moved to Procesadas (#397) 2026-05-02 (1.7/5 — UK location + 4+ yrs senior gap; F-1 OPT geography veto)
+- [!] https://job-boards.greenhouse.io/scaleai/jobs/4593571005 | Scale AI | Forward Deployed Engineer, GenAI | San Francisco, CA / New York, NY — Hybrid — moved to Procesadas (#399) 2026-05-02 (3.6/5 — archetype-perfect, 2+ yrs OK, $179.4-224.25K; PDF generated)
+- [!] https://job-boards.greenhouse.io/scaleai/jobs/4549048005 | Scale AI | Forward Deployed Engineer | San Francisco / New York — error: posting closed (Accel mirror confirms "no longer accepting applications"; Greenhouse redirects with `?error=true`); archived
+- [!] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4504860 | Huntress | Forward Deployed Engineer | Remote — USA — moved to Procesadas (#400) 2026-05-02 (2.6/5 — internal-FDE founder-mindset bar + cybersecurity domain gap; SKIP)
+- [!] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4486915 | Elite Talent | Forward Deployed Engineer | Remote — USA — moved to Procesadas (#401) 2026-05-02 (2.2/5 — recruiter posting; 5+ yrs senior bar; SKIP)
+- [!] https://remotive.com/remote/jobs/devops/forward-deployed-infrastructure-engineer-4228383 | Optura | Forward Deployed Infrastructure Engineer | Remote — USA — moved to Procesadas (#402) 2026-05-02 (2.7/5 — DevOps-coded archetype mismatch; K8s/Terraform gap; SKIP)
+- [!] https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-ai-engineer-4510239 | Flatgigs | Forward Deployed AI Engineer | Germany — Remote — moved to Procesadas (#403) 2026-05-02 (2.7/5 — strong stack, geography veto; SKIP unless EU pursuit)
+- [!] https://apply.workable.com/reworkssolutions/j/6D45114C4E | ReWorks Solutions | AI Developer | Remote — US (9-5 EST) — moved to Procesadas (#404) 2026-05-02 (2.7/5 — JD partial via Workable JS-render; staffing-firm pattern; SKIP pending recruiter clarification)
+- [!] https://apply.workable.com/fuku/j/C6B0981CCB/ | Fuku | AI Engineer | likely India HQ — moved to Procesadas (#405) 2026-05-02 (2.4/5 — JD partial; small startup; no comp transparency; SKIP)
+- [!] https://apply.workable.com/silver-tree-equity/j/ADE1A03419/ | SilverTree Equity | AI Forward Deployed Engineer (Talent Accelerator) | likely UK — moved to Procesadas (#406) 2026-05-02 (2.7/5 — graduate/early-career fit but UK PE firm + JD partial; SKIP unless UK relocation)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -730,3 +744,7 @@
 - [x] #384 | https://remotive.com/remote/jobs/ai-ml/forward-deployed-engineer-4207639 | Appen | Forward Deployed Engineer | Remote — USA only | 3.2/5 | PDF ✅
 - [x] #389 | https://apply.workable.com/seaplane/j/B709F321EF/ | Seaplane | Forward Deployed Engineer | Remote — US working hours (UTC-5/-6/-7/-8) | 3.0/5 | PDF ✅
 - [x] #391 | https://weworkremotely.com/remote-jobs/gc-ai-founding-engineer | GC AI | Founding Engineer | Remote — US/Canada/Europe (HQ San Francisco) | 3.7/5 | PDF ✅
+
+### 2026-05-02
+
+- [x] #399 | https://job-boards.greenhouse.io/scaleai/jobs/4593571005 | Scale AI | Forward Deployed Engineer, GenAI | San Francisco, CA / New York, NY — Hybrid | 3.6/5 | PDF ✅
