@@ -469,6 +469,13 @@
 - [!] https://apply.workable.com/reworkssolutions/j/6D45114C4E | ReWorks Solutions | AI Developer | Remote — US (9-5 EST) — moved to Procesadas (#404) 2026-05-02 (2.7/5 — JD partial via Workable JS-render; staffing-firm pattern; SKIP pending recruiter clarification)
 - [!] https://apply.workable.com/fuku/j/C6B0981CCB/ | Fuku | AI Engineer | likely India HQ — moved to Procesadas (#405) 2026-05-02 (2.4/5 — JD partial; small startup; no comp transparency; SKIP)
 - [!] https://apply.workable.com/silver-tree-equity/j/ADE1A03419/ | SilverTree Equity | AI Forward Deployed Engineer (Talent Accelerator) | likely UK — moved to Procesadas (#406) 2026-05-02 (2.7/5 — graduate/early-career fit but UK PE firm + JD partial; SKIP unless UK relocation)
+- [!] https://builtin.com/job/forward-deployed-engineer/6461600 | Endex | Forward Deployed Engineer | New York City, NY (In-Office) — error: posting closed (BuiltIn confirms removed 2026-01-09); archived
+- [!] https://builtin.com/job/forward-deployed-engineer/7718833 | INFINIT | Forward Deployed Engineer | London, UK — Hybrid 3/2 — error: posting closed (BuiltIn confirms removed 2026-02-24); archived (also F-1 OPT geography veto)
+- [!] https://builtin.com/job/forward-deployed-engineer-fde/7717385 | InDebted | Forward Deployed Engineer (FDE) | Auckland, NZ — On-site — moved to Procesadas (#407) 2026-05-02 (2.0/5 — Auckland NZ on-site + 6+ yrs senior gap; "FDE" label but real scope is COBRAR legacy migration; F-1 OPT geo veto; SKIP)
+- [!] https://remotive.com/remote-jobs/ai-ml/ai-engineer-2089958 | Dry Ground AI | AI Engineer | Remote — Brazil/Colombia/Philippines — moved to Procesadas (#408) 2026-05-02 (2.5/5 — BR/CO/PH-only geo veto for F-1 OPT; $40-60K below US market; strong stack match (LangChain/RAG/agents) but structurally not a fit; SKIP)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-ml-engineer-3799387 | Melotech | AI/ML Engineer | Germany — Remote — moved to Procesadas (#409) 2026-05-02 (2.6/5 — Germany-only geo veto for F-1 OPT; "Big Tech / high-growth" pedigree bar; K8s gap; music/video domain soft mismatch; SKIP)
+- [!] https://app.careerpuck.com/job-board/domino-data-lab/job/7275081 | Domino Data Lab | Forward Deployed Engineer — New Grad 2026 | New York, NY — Hybrid — error: posting closed (BuiltIn NYC mirror confirms removed 2026-01-07; $150K base; campus-recruiting role); archived
+- [!] https://jobs.workable.com/view/i6RYcPDF6Bipu53Z8JjSay/remote-machine-learning-engineer-in-united-states-at-bask-health | Bask Health | Machine Learning Engineer | Remote — USA — moved to Procesadas (#410) 2026-05-02 (3.1/5 — healthcare-tech Remote-US ML Engineer; strong domain + archetype fit; Spark/Databricks gap; posting age Oct 2024 ~18mo legitimacy concern — verify role active before applying; PDF generated)
 
 ## Procesadas
 
@@ -748,3 +755,4 @@
 ### 2026-05-02
 
 - [x] #399 | https://job-boards.greenhouse.io/scaleai/jobs/4593571005 | Scale AI | Forward Deployed Engineer, GenAI | San Francisco, CA / New York, NY — Hybrid | 3.6/5 | PDF ✅
+- [x] #410 | https://jobs.workable.com/view/i6RYcPDF6Bipu53Z8JjSay/remote-machine-learning-engineer-in-united-states-at-bask-health | Bask Health | Machine Learning Engineer | Remote — USA | 3.1/5 | PDF ✅
