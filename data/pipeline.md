@@ -510,6 +510,20 @@
 - [!] https://job-boards.greenhouse.io/pairteam/jobs/8470905002 | Pair Team | Senior AI Engineer | Remote — USA — Senior title hits negative filter per _profile.md hygiene; healthcare-Medicaid agentic match would be 4.0+ if mid-band; SKIP
 - [!] https://himalayas.app/companies/ryz-labs/jobs/applied-ai-engineer | Ryz Labs | Applied AI Engineer | Argentina — Remote — Argentina-only geo veto for F-1 OPT (US base); 5+y senior gap + MS+ required; SKIP
 
+<!-- Overnight 2026-05-02 batch 4 — Level 3 WebSearch additions (small-ATS + non-standard titles + Ashby/Greenhouse) -->
+- [!] https://job-boards.greenhouse.io/khanacademy/jobs/7156235 | Khan Academy | AI Engineer (12 months or 18 months fixed-term) | Mountain View, CA / Remote-friendly US — error: posting closed (Greenhouse API 404 on 2026-05-02; board only lists Senior AI Engineer 24-mo fixed-term + 30 other India/intl roles); archived
+- [!] https://jobs.ashbyhq.com/regard/758035db-326c-42a6-9179-f83d793b1e7b | Regard | Generative AI Engineer | Remote (verify in JD) — error: posting closed (Ashby ApiJobPosting null on 2026-05-02); archived
+- [!] https://job-boards.greenhouse.io/meshy/jobs/4932258008 | Meshy | Software Engineer - New Grad | Sunnyvale, CA — Hybrid / US Remote — error: posting closed (Greenhouse API 404 on 2026-05-02); archived
+- [!] https://jobs.ashbyhq.com/handshake/fe2a41ab-14c8-405b-8fd3-bdf7295e044e | Handshake | Forward Deployed Engineer | Remote-US (verify in JD) — error: posting closed (Ashby ApiJobPosting null on 2026-05-02); archived
+- [!] https://jobs.ashbyhq.com/flatfile/dc24cd46-40fd-433b-b757-cea90b676436 | Flatfile | Forward Deployed Engineer - Flatfile Editions | Remote-US (verify in JD) — error: posting closed (Ashby ApiJobPosting null on 2026-05-02); archived
+- [!] https://job-boards.greenhouse.io/babelstreet/jobs/7531339 | Babel Street | Generative & Agentic AI Engineer | Reston, VA / DC / Somerville, MA — Hybrid — moved to Procesadas (#424) 2026-05-02 (3.0/5 — LLM/SLM + RAG + agents 1:1; 5+y senior gap; hybrid VA/MA mandate friction; PDF generated)
+- [!] https://jobs.ashbyhq.com/paraform/ed192d51-74e9-4712-89a6-4503967c4184 | Paraform | Applied AI Engineer | San Francisco, CA — On-site — moved to Procesadas (#425) 2026-05-02 (3.3/5 — AI-native recruiting marketplace; agentic + LLM + ranking 1:1; SF on-site relocation friction; $190-240K + equity; PDF generated)
+- [!] https://jobs.ashbyhq.com/coderabbit/8f17b66f-ea44-4e83-85f6-ef9427d61a01 | CodeRabbit | Applied AI Engineer | San Francisco, CA — Hybrid (weekly in-person) — moved to Procesadas (#426) 2026-05-02 (3.5/5 — AI code-review; LangChain/LlamaIndex/Pinecone 1:1; SF hybrid relocation friction; $200-275K base + equity; PDF generated)
+- [!] https://job-boards.greenhouse.io/nice/jobs/4812204101 | NICE | AI Forward Deployed Engineer | USA - Remote — moved to Procesadas (#427) 2026-05-02 (3.0/5 — CCaaS NICE Aurora; agent + RAG 1:1; Solutions-Engineer-coded reports VP Sales per filter hygiene; salary opacity; PDF generated)
+- [!] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4298751 | Vercel | Forward Deployed Engineer | USA Only — Remote — moved to Procesadas (#428) 2026-05-02 (3.4/5 — v0/Next.js/Cursor/Claude/Codex AI-assisted dev 1:1; SAML/OIDC + Terraform/K8s ramps; $196-294K SF base; PDF generated)
+- [!] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4226182 | Runpod | Forward Deployed Engineer | APAC (Malaysia/Singapore/South Korea) — Remote — moved to Procesadas (#429) 2026-05-02 (1.8/5 — APAC-only; F-1 OPT US-residency veto; SKIP)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-fde-forward-deployed-engineer-u-s-federal-sector-3873213 | Databricks | AI Engineer FDE — U.S. Federal Sector | Washington DC/MD/VA — Remote — moved to Procesadas (#430) 2026-05-02 (1.5/5 — HARD VETO US Citizenship + Secret clearance REQUIRED; F-1 OPT statutory blocker; SKIP)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -796,3 +810,8 @@
 - [x] #419 | https://www.workatastartup.com/jobs/73140 | Kastle | Founding Applied AI Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
 - [x] #420 | https://www.workatastartup.com/jobs/71163 | Flair Labs | Founding Applied AI Engineer | Palo Alto, CA — On-site | 3.3/5 | PDF ✅
 - [x] #423 | https://himalayas.app/companies/permitflow/jobs/applied-machine-learning-engineer-8414187266 | PermitFlow | Applied Machine Learning Engineer | NYC Hybrid 3d / Remote-US | 3.2/5 | PDF ✅
+- [x] #424 | https://job-boards.greenhouse.io/babelstreet/jobs/7531339 | Babel Street | Generative & Agentic AI Engineer | Reston, VA / DC / Somerville, MA — Hybrid | 3.0/5 | PDF ✅
+- [x] #425 | https://jobs.ashbyhq.com/paraform/ed192d51-74e9-4712-89a6-4503967c4184 | Paraform | Applied AI Engineer | San Francisco, CA — On-site | 3.3/5 | PDF ✅
+- [x] #426 | https://jobs.ashbyhq.com/coderabbit/8f17b66f-ea44-4e83-85f6-ef9427d61a01 | CodeRabbit | Applied AI Engineer | San Francisco, CA — Hybrid (weekly in-person) | 3.5/5 | PDF ✅
+- [x] #427 | https://job-boards.greenhouse.io/nice/jobs/4812204101 | NICE | AI Forward Deployed Engineer | USA - Remote | 3.0/5 | PDF ✅
+- [x] #428 | https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4298751 | Vercel | Forward Deployed Engineer | USA Only — Remote | 3.4/5 | PDF ✅
