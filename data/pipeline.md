@@ -532,6 +532,24 @@
 - [!] https://weworkremotely.com/remote-jobs/slidespeak-ai-software-engineer | SlideSpeak | AI Software Engineer | Remote — European timezone required — moved to Procesadas (#434) 2026-05-02 (2.3/5 — stack-perfect NextJS/React/TS+FastAPI+Llama Index+PGVector; EU-timezone HARD requirement + $50-75K below-US comp; F-1 OPT geo veto; SKIP)
 - [!] https://www.remoterocketship.com/us/company/brellium/jobs/software-engineer-ai-new-york-city-hybrid/ | Brellium | Software Engineer — AI | New York City — Hybrid 4d (3d if >1h commute) — moved to Procesadas (#435) 2026-05-02 (4.0/5 — Series A NYC healthcare AI clinical compliance; Menlo Ventures portfolio; LLM integration + healthcare RAG 1:1 with PSI + Healthcare Claims; $130-180K Glassdoor NYC; PDF generated)
 
+### 2026-05-03
+
+<!-- Overnight 2026-05-03 — Level 3 WebSearch additions (small-ATS + Ashby + Greenhouse + aggregators) -->
+- [!] https://jobs.ashbyhq.com/nexxa/f7b73d17-675e-4aad-ace4-22abe2b0f9b4 | Nexxa.AI | Applied AI Engineer | Remote — Germany — moved to Procesadas (#438) 2026-05-03 (2.6/5 — industrial-AI heavy-industries FDE; URL = Germany-Remote (F-1 OPT geo veto); 5–10+ y senior gap; SF Bay/Toronto sibling URLs exist; SKIP this variant)
+- [!] https://jobs.ashbyhq.com/techtorch/db0fbeb2-83db-4b07-bf2a-aed9f0e60ef7 | TechTorch | Applied AI Engineer | error: posting closed (Ashby ApiJobPosting null on 2026-05-03; only sibling roles remain on board); archived
+- [!] https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8 | Whatnot | Software Engineer, Early Career | error: posting closed (Ashby ApiJobPosting null on 2026-05-03; closest match is Early Talent Community 2027/2028 NYC interest form, not a real job); archived
+- [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4496244 | Built In | Applied AI Engineer | Remote — India only — moved to Procesadas (#440) 2026-05-03 (2.0/5 — multi-LLM agentic aggregator; India-only Remote = F-1 OPT US-base geo veto; SKIP)
+- [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-agent-intelligence-retrieval-3227287 | Littlebird | Applied AI Engineer — Agent Intelligence & Retrieval | Remote — USA — error: posting closed (Remotive HTTP 410 on 2026-05-03); archived
+- [!] https://remotive.com/remote/jobs/artificial-intelligence/ai-engineer-4527416 | GSB Solutions | AI Engineer | Mexico — Remote — geo veto: Mexico-only ($73K/yr ~50% below US market; INE/CURP/NSS/RFC required); F-1 OPT US-base + comp gap; SKIP
+- [!] https://www.workatastartup.com/jobs/78325 | Giga | Forward Deployed Engineer | San Francisco, CA — error: WaaS HTTP 404 on 2026-05-03 (posting closed); archived
+- [!] https://givzey.breezy.hr/p/199d76bf2904-machine-learning-engineer | Givzey | Machine Learning Engineer | Remote — USA — moved to Procesadas (#439) 2026-05-03 (1.8/5 — donor-engagement nonprofit-tech ML Engineer; "US Citizen" requirement = F-1 OPT statutory blocker; SKIP)
+- [!] https://job-boards.greenhouse.io/sezzle/jobs/7645199003 | Sezzle | AI Engineer I (Remote) | Remote — USA — error: Greenhouse API 404 on 2026-05-03 (job ID closed; all current Sezzle AI Engineer roles are LATAM/India/Türkiye-only); archived
+- [!] https://job-boards.greenhouse.io/roadie/jobs/8479096002 | Roadie | AI Engineer Intern - Summer 2026 | Remote — error: Greenhouse job ID redirects to Roadie generic listing; AI Engineer Intern role no longer visible (closed/expired); archived
+- [!] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer | Lisbon (Office) / Europe (Remote) Asia-Europe overlap — moved to Procesadas (#441) 2026-05-03 (2.4/5 — recruitment-services AI Engineer; stack 1:1 (Python async+FastAPI+LLM/RAG+LangChain+Pinecone/Weaviate); F-1 OPT US-base geo veto; SKIP)
+- [!] https://converge-cybersecurity-insurance.breezy.hr/p/689049164f02-machine-learning-engineer | Converge Insurance | Machine Learning Engineer | Remote (verify) — error: posting closed (Breezy "this position is no longer accepting candidates" on 2026-05-03); archived
+- [!] https://job-boards.greenhouse.io/splitero/jobs/5162723008 | Splitero | Applied AI Engineer | Remote — US — duplicate of #356 (already evaluated 2026-05-01 at 3.0/5); re-eval 2026-05-03 found 2.7/5 (same 6+y senior gap + no-sponsorship blocker); merge-tracker correctly skipped (existing >= new); not re-evaluated
+- [!] https://job-boards.greenhouse.io/axle/jobs/5114627007 | Axle | AI Engineer II | Remote — moved to Procesadas (#437) 2026-05-03 (3.0/5 — scientific-content RAG/agentic remote AI Engineer II; Python+Docker+PG+vector 1:1; 5+y senior gap (2y short); $120-150K; sponsorship not stated; PDF generated)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -825,3 +843,7 @@
 - [x] #428 | https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4298751 | Vercel | Forward Deployed Engineer | USA Only — Remote | 3.4/5 | PDF ✅
 - [x] #433 | https://himalayas.app/companies/first-advantage/jobs/ai-engineer-associate-ai-engineer-remote | First Advantage | Associate AI Engineer | Remote — United States | 3.6/5 | PDF ✅
 - [x] #435 | https://www.remoterocketship.com/us/company/brellium/jobs/software-engineer-ai-new-york-city-hybrid/ | Brellium | Software Engineer — AI | New York City — Hybrid 4d (3d if >1h commute) | 4.0/5 | PDF ✅
+
+### 2026-05-03
+
+- [x] #437 | https://job-boards.greenhouse.io/axle/jobs/5114627007 | Axle | AI Engineer II | Remote | 3.0/5 | PDF ✅

@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 437 | 2026-05-03 | Axle | AI Engineer II | 3.0/5 | Evaluated | ✅ | [437](reports/437-axle-ai-engineer-ii-2026-05-03.md) | Scientific-content RAG/agentic remote AI Engineer II; Python+Docker+PG+vector 1:1; 5+y senior gap (2y short); $120-150K; sponsorship not stated; PDF generated |
 | 433 | 2026-05-02 | First Advantage | Associate AI Engineer | 3.6/5 | Evaluated | ✅ | [433](reports/433-first-advantage-associate-ai-2026-05-02.md) | US-public (NASDAQ FA) background-screening platform; Remote-US; Associate band fits 2.5y+M.S.; RAG/one-shot/multi-shot/NLP/CV/prompt-eng JD 1:1; H-1B sponsorship history per USCIS; PDF generated |
 | 435 | 2026-05-02 | Brellium | Software Engineer — AI | 4.0/5 | Evaluated | ✅ | [435](reports/435-brellium-swe-ai-2026-05-02.md) | Series A NYC healthcare AI (clinical compliance real-time chart audit); Menlo Ventures portfolio; LLM integration + end-to-end + healthcare RAG 1:1 with PSI + Healthcare Claims; NYC hybrid 4d (3d if >1h); $130-180K Glassdoor; PDF generated |
 | 424 | 2026-05-02 | Babel Street | Generative & Agentic AI Engineer | 3.0/5 | Evaluated | ✅ | [424](reports/424-babelstreet-genai-agentic-2026-05-02.md) | Reston VA / DC / Somerville MA hybrid mandate; $140-180K; LLM/SLM + RAG + agents 1:1; 5+y senior gap binding; F-1 OPT eligible but relocation friction; PDF generated |
