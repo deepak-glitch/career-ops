@@ -594,6 +594,15 @@
 - [!] https://himalayas.app/companies/dmi/jobs/ai-solutions-engineer | DMI | AI Solutions Engineer | Remote — US — moved to Procesadas (#463) 2026-05-03 (3.0/5 — enterprise consulting AWS+Python+MLOps stack 1:1; PDF generated)
 - [!] https://himalayas.app/companies/apexanalytix/jobs/ai-engineer | apexanalytix | AI Engineer | Remote — US — moved to Procesadas (#464) 2026-05-03 (2.3/5 — strong stack but explicit NO VISA SPONSORSHIP = F-1 OPT statutory blocker; SKIP)
 
+<!-- Overnight 2026-05-03 batch 7 — Level 3 WebSearch additions (small-ATS Breezy + WaaS YC + Remotive + Ashby ElevenLabs + Greenhouse new-grad + Greenhouse Scale AI + small-ATS Robots&Pencils) -->
+- [!] https://jway-group.breezy.hr/p/899d0d8fd95a-ml-ai-engineer | JWay Group | ML/AI Engineer | Pasig City, PH — Hybrid Remote — moved to Procesadas (#465) 2026-05-03 (1.9/5 — PH base + F-1 OPT US-residency veto + 3-5y senior gap + no comp transparency; SKIP)
+- [!] https://www.workatastartup.com/jobs/79394 | Datrics | AI Engineer | (YC W21 healthcare claims AI; SF or Remote unverified) — moved to Procesadas (#466) 2026-05-03 (2.8/5 — Agentic Healthcare Claims project 1:1 + RAG production; partial JD via WaaS SPA; verify location/sponsorship before applying)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-ml-engineer-ii-4291280 | Precision Medicine Group | AI/ML Engineer II | India — Remote — moved to Procesadas (#467) 2026-05-03 (2.0/5 — India-only Remote = F-1 OPT US-base geo veto; strong stack but structurally not actionable; SKIP)
+- [!] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | San Francisco + Remote (4 hub offices) — moved to Procesadas (#468) 2026-05-03 (3.4/5 — top-tier voice AI infra; archetype-perfect FDE-SWE; multi-provider AI + production reliability 1:1; voice/audio domain soft gap; PDF generated)
+- [!] https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005 | Underdog | Associate Software Engineer, 2026 New Grad | Remote — USA — moved to Procesadas (#469) 2026-05-03 (1.7/5 — explicit no visa sponsorship + Swift/Kotlin/Rails stack mismatch + off-archetype mobile/Rails; SKIP)
+- [!] https://job-boards.greenhouse.io/scaleai/jobs/4514173005 | Scale AI | Applied AI Engineer, Enterprise GenAI | San Francisco, CA / New York, NY — Hybrid 3d/wk — moved to Procesadas (#470) 2026-05-03 (3.7/5 — archetype 1:1 multi-modal agents + tool-calling + RAG; $216-270K SF/NY hybrid; Agentic Healthcare Claims project mirrors enterprise GenAI delivery; PDF generated)
+- [!] https://job-boards.greenhouse.io/robotsandpencils/jobs/5126523008 | Robots and Pencils | AI Engineer | Bogotá, Colombia — Remote-friendly — moved to Procesadas (#471) 2026-05-03 (1.9/5 — Bogotá-anchored LATAM Remote = F-1 OPT US-base geo veto; strong stack but structurally not actionable; SKIP)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -900,3 +909,5 @@
 - [x] #457 | https://job-boards.greenhouse.io/qualifiedhealth/jobs/4937396008 | Qualified Health | Applied AI Engineer | Hybrid — Palo Alto, CA | 3.6/5 | PDF ✅
 - [x] #461 | https://himalayas.app/companies/cordial/jobs/ai-engineer | Cordial | Applied AI Engineer | Remote — US | 3.3/5 | PDF ✅
 - [x] #463 | https://himalayas.app/companies/dmi/jobs/ai-solutions-engineer | DMI | AI Solutions Engineer | Remote — US | 3.0/5 | PDF ✅
+- [x] #468 | https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer (Software Engineer) | San Francisco + Remote (4 hub offices) | 3.4/5 | PDF ✅
+- [x] #470 | https://job-boards.greenhouse.io/scaleai/jobs/4514173005 | Scale AI | Applied AI Engineer, Enterprise GenAI | San Francisco, CA / New York, NY — Hybrid 3d/wk | 3.7/5 | PDF ✅
