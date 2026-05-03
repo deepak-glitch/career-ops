@@ -603,6 +603,18 @@
 - [!] https://job-boards.greenhouse.io/scaleai/jobs/4514173005 | Scale AI | Applied AI Engineer, Enterprise GenAI | San Francisco, CA / New York, NY — Hybrid 3d/wk — moved to Procesadas (#470) 2026-05-03 (3.7/5 — archetype 1:1 multi-modal agents + tool-calling + RAG; $216-270K SF/NY hybrid; Agentic Healthcare Claims project mirrors enterprise GenAI delivery; PDF generated)
 - [!] https://job-boards.greenhouse.io/robotsandpencils/jobs/5126523008 | Robots and Pencils | AI Engineer | Bogotá, Colombia — Remote-friendly — moved to Procesadas (#471) 2026-05-03 (1.9/5 — Bogotá-anchored LATAM Remote = F-1 OPT US-base geo veto; strong stack but structurally not actionable; SKIP)
 
+<!-- Overnight 2026-05-03 batch 8 — Level 3 WebSearch additions (Workable small-ATS + Greenhouse FDE/Applied AI) -->
+- [!] https://apply.workable.com/enroute/j/968866C119 | Enroute | AI Engineer | Monterrey, MX — Remote — moved to Procesadas (#472) 2026-05-03 (1.7/5 — Mexico-only Remote Mid-Senior temp; F-1 OPT US-base geo veto + employment-type mismatch; SKIP)
+- [!] https://apply.workable.com/nacrecapital/j/60D5701E19 | Nacre Capital (Aquaticode) | AI Engineer | Portugal — Remote — moved to Procesadas (#473) 2026-05-03 (1.9/5 — Portugal-only Remote biotech-aquaculture CV-engineer; F-1 OPT US-base geo veto; SKIP)
+- [!] https://apply.workable.com/progressoft/j/5107FCE8D6/ | ProgressSoft | AI Engineer | Amman, Jordan — Hybrid — moved to Procesadas (#474) 2026-05-03 (1.6/5 — Jordan hybrid fintech-payments AI Engineer; F-1 OPT US-base geo veto; SKIP)
+- [!] https://apply.workable.com/entouragevc/j/C5D40D7805 | Entourage VC | Automation & AI Engineer (Resident) | Ghent, Belgium — Hybrid — moved to Procesadas (#475) 2026-05-03 (1.5/5 — 26-month-old Belgium VC-studio resident posting; F-1 OPT US-base geo veto + ghost age signal; SKIP)
+- [!] https://apply.workable.com/kanbrick/j/CA9D01A008/ | Kanbrick | AI Engineer | Nashville, TN — On-site — moved to Procesadas (#476) 2026-05-03 (2.7/5 — Nashville on-site Associate AI Engineer at long-term investment partnership KBS; US-base ✓ but on-site relocation + investment-firm domain off-archetype + sponsorship/comp opacity; SKIP unless verified)
+- [!] https://apply.workable.com/flatgigs/j/35AE8F2A9A/ | AHOY/Flatgigs | AI Engineer | Karachi, Pakistan — On-site — moved to Procesadas (#477) 2026-05-03 (1.6/5 — 17-month-old Karachi on-site gig-marketplace AI Engineer; F-1 OPT US-base geo veto + ghost age; SKIP)
+- [!] https://apply.workable.com/tarjama/j/1E0831FD5B | Tarjama& | AI Engineer | Amman, Jordan — On-site — moved to Procesadas (#478) 2026-05-03 (1.7/5 — Jordan on-site translation/localization RAG+fine-tuning Engineer; F-1 OPT US-base geo veto; SKIP)
+- [!] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer | London, UK — Hybrid 3d/wk — moved to Procesadas (#479) 2026-05-03 (2.7/5 — top-tier B2B SaaS FDE-SWE; archetype 1:1 + sponsorship offered; F-1 OPT UK-relocation = restart visa runway = SKIP)
+- [!] https://job-boards.greenhouse.io/xai/jobs/5052356007 | xAI | Member Of Technical Staff - Government - New Grad | DC / LA / Palo Alto — In-Person — error: Greenhouse job ID redirects to xAI listing index on 2026-05-03 (specific posting closed/expired); also security clearance = US citizens-only veto; archived
+- [!] https://job-boards.greenhouse.io/deepmind/jobs/7106319 | DeepMind | Applied AI Engineer | (verify in JD) — error: Greenhouse job ID redirects to DeepMind listing index on 2026-05-03 (specific posting closed/expired); archived
+
 ## Procesadas
 
 ### 2026-04-20
