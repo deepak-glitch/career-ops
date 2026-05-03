@@ -603,6 +603,16 @@
 - [!] https://job-boards.greenhouse.io/scaleai/jobs/4514173005 | Scale AI | Applied AI Engineer, Enterprise GenAI | San Francisco, CA / New York, NY — Hybrid 3d/wk — moved to Procesadas (#470) 2026-05-03 (3.7/5 — archetype 1:1 multi-modal agents + tool-calling + RAG; $216-270K SF/NY hybrid; Agentic Healthcare Claims project mirrors enterprise GenAI delivery; PDF generated)
 - [!] https://job-boards.greenhouse.io/robotsandpencils/jobs/5126523008 | Robots and Pencils | AI Engineer | Bogotá, Colombia — Remote-friendly — moved to Procesadas (#471) 2026-05-03 (1.9/5 — Bogotá-anchored LATAM Remote = F-1 OPT US-base geo veto; strong stack but structurally not actionable; SKIP)
 
+<!-- Overnight 2026-05-03 batch 8 — Level 3 WebSearch additions (Greenhouse healthcare + Workable + Lever + Ashby) -->
+- [!] https://job-boards.greenhouse.io/eleoshealth/jobs/4853585101 | Eleos Health | AI Builder | Remote — US (or Israel) — moved to Procesadas (#472) 2026-05-03 (3.0/5 — behavioral-health SaaS internal AI builder; Zapier/Make/n8n/Workato + OpenAI/Anthropic/Gemini stack; $100-120K + 401k match; NO sponsorship (F-1 OPT covers ~36mo via STEM-OPT but blocks long-term H-1B); PDF generated)
+- [!] https://job-boards.greenhouse.io/impiricus/jobs/5160169008 | Impiricus | Intern - Software Engineer (Backend) | Atlanta, GA / NYC / Remote-USA — error: Greenhouse API 404 on 2026-05-03 (intern role closed; only full-time SWE / DevOps roles remain on Impiricus board); archived
+- [!] https://job-boards.greenhouse.io/technergetics/jobs/4656544006 | Technergetics | Full Stack Software Engineer II | Remote — US (10% travel) — error: Greenhouse API 404 on 2026-05-03 (Full Stack SWE II closed; only Quantum/Photonics roles remain on Technergetics board); archived
+- [!] https://apply.workable.com/geodelphi/j/E8A22CF275/ | GeoDelphi | Agentic AI Engineer | Remote / Alexandria, VA (clearance-eligible) — moved to Procesadas (#473) 2026-05-03 (1.8/5 — Iris cyber agentic platform; clearance-eligible (US citizen/GC) = F-1 OPT statutory blocker + 5+y senior gap; SKIP)
+- [!] https://jobs.lever.co/remofirst/13a0f51a-569c-4b5f-ba40-44a9f4e27be5 | RemoFirst | AI Engineer (Revenue & Customer Growth) | Bulgaria — Remote — error: posting closed (Lever API "Document not found" + Octopus Ventures aggregator confirms "no longer accepting applications" on 2026-05-03; Bulgaria-based geo veto for F-1 OPT US-base anyway); archived
+- [!] https://apply.workable.com/ttp/j/8886B47EE3 | TTP | AI/ML Engineer Consultant (Experienced) | Cambridge, England, UK — On-site (Melbourn) — moved to Procesadas (#474) 2026-05-03 (1.9/5 — UK deep-tech consultancy; Cambridge UK on-site = F-1 OPT US-base geo veto; senior consultant ladder gap; SKIP)
+- [!] https://apply.workable.com/suade/j/88CC25FB90/ | Suade | Fintech Graduate Software Engineer (Frontend/Backend) 2026 | London, UK — moved to Procesadas (#475) 2026-05-03 (1.5/5 — UK RegTech graduate program; London UK + explicit no visa sponsorship = double hard blocker for F-1 OPT US-based; SKIP)
+- [!] https://apply.workable.com/ejam/j/06084CAE9A | eJam | AI Engineer (TTS focused + Generative AI) | Newport Beach, CA — Fully Remote (US) — moved to Procesadas (#476) 2026-05-03 (2.7/5 — performance-marketing creative AI; PyTorch+Diffusers+HF stack partial match (Manga Lens) but TTS production hard gap + off-vertical (entertainment vs healthcare); SKIP)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -911,3 +921,4 @@
 - [x] #463 | https://himalayas.app/companies/dmi/jobs/ai-solutions-engineer | DMI | AI Solutions Engineer | Remote — US | 3.0/5 | PDF ✅
 - [x] #468 | https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer (Software Engineer) | San Francisco + Remote (4 hub offices) | 3.4/5 | PDF ✅
 - [x] #470 | https://job-boards.greenhouse.io/scaleai/jobs/4514173005 | Scale AI | Applied AI Engineer, Enterprise GenAI | San Francisco, CA / New York, NY — Hybrid 3d/wk | 3.7/5 | PDF ✅
+- [x] #472 | https://job-boards.greenhouse.io/eleoshealth/jobs/4853585101 | Eleos Health | AI Builder (US, Remote) | Remote — US (or Israel) | 3.0/5 | PDF ✅

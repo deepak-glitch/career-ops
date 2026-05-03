@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 472 | 2026-05-03 | Eleos Health | AI Builder (US, Remote) | 3.0/5 | Evaluated | ✅ | [472](reports/472-eleos-health-ai-builder-2026-05-03.md) | US/Israel Remote behavioral-health SaaS internal AI builder; Zapier/Make/n8n/Workato + OpenAI/Anthropic/Gemini; $100-120K + 401k match; NO sponsorship (F-1 OPT covers ~36mo via STEM-OPT but blocks long-term); PDF generated. |
 | 468 | 2026-05-03 | ElevenLabs | Forward Deployed Engineer (Software Engineer) | 3.4/5 | Evaluated | ✅ | [468](reports/468-elevenlabs-fde-software-engineer-2026-05-03.md) | Top-tier voice AI infra; archetype-perfect FDE-SWE; multi-provider AI integration + production reliability 1:1; voice/audio domain soft gap; partial JD via Ashby SPA + careers page corroboration; PDF generated |
 | 457 | 2026-05-03 | Qualified Health | Applied AI Engineer | 3.6/5 | Evaluated | ✅ | [457](reports/457-qualified-health-applied-ai-engineer-2026-05-03.md) | healthcare-AI agentic + production REST APIs; hybrid Palo Alto; $180-250K; PDF generated |
 | 463 | 2026-05-03 | DMI | AI Solutions Engineer | 3.0/5 | Evaluated | ✅ | [463](reports/463-dmi-ai-solutions-engineer-2026-05-03.md) | enterprise consulting AI delivery; AWS+Python+MLOps stack 1:1; Remote-US; PDF generated |
