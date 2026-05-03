@@ -565,6 +565,18 @@
 - [!] https://jobs.ashbyhq.com/bjakcareer/2410bf26-de9e-471b-9a2c-5bfa2cad4d00 | Bjak | Applied AI Engineer | United States (Ashby) — moved to Procesadas (#448) 2026-05-03 (3.4/5 — A1 proactive AI assistant; Python/agent/eval 1:1 but JAX+vLLM gaps; verify US W-2 on screen; PDF generated)
 - [!] https://job-boards.greenhouse.io/anthropic/jobs/5116274008 | Anthropic | Applied AI Engineer (London) | London, UK — On-site/Hybrid — moved to Procesadas (#449) 2026-05-03 (2.7/5 — top-tier £225-240K; F-1 OPT US-base + UK relocation + 4+y senior gap + sponsorship-not-guaranteed; SKIP)
 
+<!-- Overnight 2026-05-03 batch 4 — Level 3 WebSearch (new-grad Greenhouse + early-career Ashby + Himalayas FDE + YC Founding) -->
+- [!] https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | 2026 New Grad - Software Engineer, AI | SF or NYC — error: posting closed (Greenhouse 302→?error=true on 2026-05-03); archived
+- [!] https://job-boards.greenhouse.io/airtable/jobs/8409376002 | Airtable | Software Engineer, New Grad (2026) | SF or NYC — error: posting closed (Greenhouse 302→?error=true on 2026-05-03); archived
+- [!] https://job-boards.greenhouse.io/scaleai/jobs/4605996005 | Scale AI | Software Engineer - New Grad | San Francisco, CA — On-site — moved to Procesadas (#450) 2026-05-03
+- [!] https://job-boards.greenhouse.io/figma/jobs/5616603004 | Figma | Early Career, Software Engineer (2026) | SF or NYC — error: posting closed (Greenhouse 302→figma.com/careers on 2026-05-03); archived
+- [!] https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa | OpenAI | Software Engineer, Applied Emerging Talent (2026) | SF — error: posting closed (Ashby ApiJobPosting null on 2026-05-03); archived
+- [!] https://himalayas.app/companies/elevenlabs/jobs/forward-deployed-engineer-recent-graduate | ElevenLabs | Forward Deployed Engineer (Recent Graduate) | error: posting closed (Ashby + ElevenLabs.io 404 on 2026-05-03); archived
+- [!] https://creai.na.teamtailor.com/jobs/154222-machine-learning-engineer | Creai | Machine Learning Engineer | 100% Remote — CST hours (LATAM) — moved to Procesadas (#451) 2026-05-03
+- [!] https://www.workatastartup.com/jobs/93159 | Avent | Founding Forward Deployed Engineer | San Francisco, CA — On-site — duplicate of #248 (already evaluated 2026-04-29 at 3.6/5); re-eval 2026-05-03 found 3.4/5; merge-tracker correctly skipped (existing >= new); not re-evaluated
+- [!] https://himalayas.app/companies/hatch/jobs/forward-deployed-engineer | Hatch | Forward Deployed Engineer | Remote — moved to Procesadas (#454) 2026-05-03
+- [!] https://himalayas.app/companies/servicenow/jobs/forward-deployed-solution-engineer-applied-ai | ServiceNow | Senior Forward Deployed Solution Engineer - Applied AI | Remote-USA — moved to Procesadas (#452) 2026-05-03
+
 ## Procesadas
 
 ### 2026-04-20
@@ -866,3 +878,5 @@
 - [x] #444 | https://remotive.com/remote/jobs/ai-ml/ai-engineer-4429700 | Continued | AI Engineer | Remote — USA Only | 3.7/5 | PDF ✅
 - [x] #447 | https://job-boards.greenhouse.io/axiomaticai/jobs/4720346101 | Axiomatic AI | Applied AI Engineer | Boston, US / Barcelona, Spain / Open to Remote | 3.9/5 | PDF ✅
 - [x] #448 | https://jobs.ashbyhq.com/bjakcareer/2410bf26-de9e-471b-9a2c-5bfa2cad4d00 | Bjak | Applied AI Engineer | United States (Ashby) | 3.4/5 | PDF ✅
+- [x] #450 | https://job-boards.greenhouse.io/scaleai/jobs/4605996005 | Scale AI | Software Engineer, New Grad | San Francisco, CA — On-site | 3.5/5 | PDF ✅
+- [x] #454 | https://himalayas.app/companies/hatch/jobs/forward-deployed-engineer | Hatch | Forward Deployed Engineer | Remote (verify US-only) | 3.3/5 | PDF ✅

@@ -197,3 +197,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-03	443	2026-05-03	AMFG	AI Engineer	1.7/5	SKIP	reports/443-amfg-ai-engineer-2026-05-03.md	Kyiv Ukraine on-site; F-1 OPT non-US relocation veto + active war zone; generic ML; SKIP
 2026-05-03	445	2026-05-03	PostHog	Forward Deployed Engineer	2.1/5	Evaluated	reports/445-posthog-fde-2026-05-03.md	Remote GMT to GMT+2 only — F-1 OPT US-base geo veto; SKIP
 2026-05-03	446	2026-05-03	SigNoz	Forward Deployed Engineer	1.9/5	Evaluated	reports/446-signoz-fde-2026-05-03.md	India-filed OSS observability DevOps/SRE FDE; archetype mismatch + F-1 OPT geo friction; SKIP
+2026-05-03	451	2026-05-03	Creai	Machine Learning Engineer	2/5	Evaluated	reports/451-creai-machine-learning-engineer-2026-05-03.md	LATAM consultancy 100% remote CST; Mexico-payroll = F-1 OPT veto; LLM only "deseable" not core; comp not stated; SKIP
+2026-05-03	452	2026-05-03	ServiceNow	Senior Forward Deployed Software Engineer (Applied AI)	2.4/5	Evaluated	reports/452-servicenow-senior-fdse-applied-ai-2026-05-03.md	Senior 10+y SE = hard veto for 2.5y Deepak; Remote-USA + LangChain stack 1:1 + $201-352K but YoE band binding; SKIP
