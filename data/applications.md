@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 442 | 2026-05-03 | Amplitude | Forward Deploy Engineer II | 3.4/5 | Evaluated | ✅ | [442](reports/442-amplitude-fde-ii-2026-05-03.md) | FDE II at Amplitude (NASDAQ:AMPL); TS+React+Python+Node+AWS 1:1; 2-4y band fits Deepak 2.5y; SF on-site relocation friction; PDF generated |
+| 444 | 2026-05-03 | Continued | AI Engineer | 3.7/5 | Evaluated | ✅ | [444](reports/444-continued-ai-engineer-2026-05-03.md) | Remote-USA continuing-ed B2B SaaS GenAI/RAG/embeddings/vector DBs 1:1; 3-5y band slight gap (~3.5y); regulated-domain analog to healthcare; sponsorship not stated; PDF generated |
 | 437 | 2026-05-03 | Axle | AI Engineer II | 3.0/5 | Evaluated | ✅ | [437](reports/437-axle-ai-engineer-ii-2026-05-03.md) | Scientific-content RAG/agentic remote AI Engineer II; Python+Docker+PG+vector 1:1; 5+y senior gap (2y short); $120-150K; sponsorship not stated; PDF generated |
 | 433 | 2026-05-02 | First Advantage | Associate AI Engineer | 3.6/5 | Evaluated | ✅ | [433](reports/433-first-advantage-associate-ai-2026-05-02.md) | US-public (NASDAQ FA) background-screening platform; Remote-US; Associate band fits 2.5y+M.S.; RAG/one-shot/multi-shot/NLP/CV/prompt-eng JD 1:1; H-1B sponsorship history per USCIS; PDF generated |
 | 435 | 2026-05-02 | Brellium | Software Engineer — AI | 4.0/5 | Evaluated | ✅ | [435](reports/435-brellium-swe-ai-2026-05-02.md) | Series A NYC healthcare AI (clinical compliance real-time chart audit); Menlo Ventures portfolio; LLM integration + end-to-end + healthcare RAG 1:1 with PSI + Healthcare Claims; NYC hybrid 4d (3d if >1h); $130-180K Glassdoor; PDF generated |

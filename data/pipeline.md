@@ -550,6 +550,12 @@
 - [!] https://job-boards.greenhouse.io/splitero/jobs/5162723008 | Splitero | Applied AI Engineer | Remote — US — duplicate of #356 (already evaluated 2026-05-01 at 3.0/5); re-eval 2026-05-03 found 2.7/5 (same 6+y senior gap + no-sponsorship blocker); merge-tracker correctly skipped (existing >= new); not re-evaluated
 - [!] https://job-boards.greenhouse.io/axle/jobs/5114627007 | Axle | AI Engineer II | Remote — moved to Procesadas (#437) 2026-05-03 (3.0/5 — scientific-content RAG/agentic remote AI Engineer II; Python+Docker+PG+vector 1:1; 5+y senior gap (2y short); $120-150K; sponsorship not stated; PDF generated)
 
+<!-- Overnight 2026-05-03 batch 2 — Level 3 WebSearch additions (Greenhouse FDE + small-ATS Breezy/Remotive + Ashby) -->
+- [!] https://job-boards.greenhouse.io/amplitude/jobs/8532139002 | Amplitude | Forward Deploy Engineer II | San Francisco, CA — On-site — moved to Procesadas (#442) 2026-05-03 (3.4/5 — FDE II at Amplitude (NASDAQ:AMPL); TS+React+Python+Node+AWS 1:1; 2-4y band fits Deepak 2.5y; SF on-site relocation friction; PDF generated)
+- [!] https://jobs.ashbyhq.com/mercor/b0f12b3f-91ae-4b9e-ad0b-ed0299f80554 | Mercor | Forward Deployed Engineer | (verify in JD) — error: posting closed (Ashby ApiJobPosting null on 2026-05-03); archived
+- [!] https://amfg.breezy.hr/p/166f97c04c1f-ai-engineer | AMFG | AI Engineer | Kyiv, Ukraine — On-site — moved to Procesadas (#443) 2026-05-03 (1.7/5 — Kyiv on-site additive-manufacturing; F-1 OPT non-US relocation veto + active war zone; generic ML; SKIP)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-4429700 | Continued | AI Engineer | Remote — USA Only — moved to Procesadas (#444) 2026-05-03 (3.7/5 — Remote-USA continuing-ed B2B SaaS GenAI/RAG/embeddings/vector DBs 1:1; 3-5y band slight gap (~3.5y); regulated-domain analog to healthcare; sponsorship not stated; PDF generated)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -847,3 +853,5 @@
 ### 2026-05-03
 
 - [x] #437 | https://job-boards.greenhouse.io/axle/jobs/5114627007 | Axle | AI Engineer II | Remote | 3.0/5 | PDF ✅
+- [x] #442 | https://job-boards.greenhouse.io/amplitude/jobs/8532139002 | Amplitude | Forward Deploy Engineer II | San Francisco, CA — On-site | 3.4/5 | PDF ✅
+- [x] #444 | https://remotive.com/remote/jobs/ai-ml/ai-engineer-4429700 | Continued | AI Engineer | Remote — USA Only | 3.7/5 | PDF ✅
