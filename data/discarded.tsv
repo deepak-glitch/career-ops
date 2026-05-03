@@ -195,3 +195,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-03	440	2026-05-03	Built In	Applied AI Engineer	2/5	Evaluated	reports/440-builtin-applied-ai-2026-05-03.md	Multi-LLM agentic aggregator (US-HQ tech-jobs marketplace); India-only Remote = F-1 OPT US-base geo veto; SKIP
 2026-05-03	441	2026-05-03	Remote People	AI Engineer	2.4/5	Evaluated	reports/441-remotepeople-ai-engineer-2026-05-03.md	EU recruitment-services AI Engineer; stack 1:1 (Python async+FastAPI+LLM/RAG+LangChain+Pinecone/Weaviate); Lisbon/EU-Remote w/ Asia-Europe overlap = F-1 OPT US-base geo veto; SKIP
 2026-05-03	443	2026-05-03	AMFG	AI Engineer	1.7/5	SKIP	reports/443-amfg-ai-engineer-2026-05-03.md	Kyiv Ukraine on-site; F-1 OPT non-US relocation veto + active war zone; generic ML; SKIP
+2026-05-03	445	2026-05-03	PostHog	Forward Deployed Engineer	2.1/5	Evaluated	reports/445-posthog-fde-2026-05-03.md	Remote GMT to GMT+2 only — F-1 OPT US-base geo veto; SKIP
+2026-05-03	446	2026-05-03	SigNoz	Forward Deployed Engineer	1.9/5	Evaluated	reports/446-signoz-fde-2026-05-03.md	India-filed OSS observability DevOps/SRE FDE; archetype mismatch + F-1 OPT geo friction; SKIP

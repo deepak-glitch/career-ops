@@ -556,6 +556,15 @@
 - [!] https://amfg.breezy.hr/p/166f97c04c1f-ai-engineer | AMFG | AI Engineer | Kyiv, Ukraine — On-site — moved to Procesadas (#443) 2026-05-03 (1.7/5 — Kyiv on-site additive-manufacturing; F-1 OPT non-US relocation veto + active war zone; generic ML; SKIP)
 - [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-4429700 | Continued | AI Engineer | Remote — USA Only — moved to Procesadas (#444) 2026-05-03 (3.7/5 — Remote-USA continuing-ed B2B SaaS GenAI/RAG/embeddings/vector DBs 1:1; 3-5y band slight gap (~3.5y); regulated-domain analog to healthcare; sponsorship not stated; PDF generated)
 
+<!-- Overnight 2026-05-03 batch 3 — Level 3 WebSearch additions (Ashby FDE + Greenhouse Applied AI + small-ATS) -->
+- [!] https://jobs.ashbyhq.com/posthog/28781aeb-eca4-4713-9a5f-a95b95d5d120 | PostHog | Forward Deployed Engineer | Remote — GMT to GMT+2 only — moved to Procesadas (#445) 2026-05-03 (2.1/5 — OSS dev-tools FDE; explicit GMT/GMT+2 timezone band; F-1 OPT US-base geo veto; SKIP)
+- [!] https://jobs.ashbyhq.com/SigNoz/4b8cd389-88c0-4301-b770-5bc7332f773c | SigNoz | Forward Deployed Engineer | India (Ashby) / Remote globally per JD — moved to Procesadas (#446) 2026-05-03 (1.9/5 — OSS observability DevOps/SRE FDE; archetype mismatch (not LLM) + India-filed; SKIP)
+- [!] https://jobs.ashbyhq.com/a37/53f9f578-98a6-4acf-a00e-43791deb6292 | a37 | Forward Deployed DevOps Engineer | (verify in JD) — error: posting closed (Ashby ApiJobPosting null on 2026-05-03); archived
+- [!] https://job-boards.greenhouse.io/axiomaticai/jobs/4720346101 | Axiomatic AI | Applied AI Engineer | Boston, US / Barcelona, Spain / Open to Remote — moved to Procesadas (#447) 2026-05-03 (3.9/5 — verifiable AI for science; Python+LangChain+FastAPI+Docker 1:1; 3+y soft gap; sponsorship question on application; PDF generated)
+- [!] https://job-boards.greenhouse.io/assemblyai/jobs/4650728005 | AssemblyAI | Applied AI Engineer | (verify in JD) — error: Greenhouse API HTTP 404 on 2026-05-03 (job not found); archived
+- [!] https://jobs.ashbyhq.com/bjakcareer/2410bf26-de9e-471b-9a2c-5bfa2cad4d00 | Bjak | Applied AI Engineer | United States (Ashby) — moved to Procesadas (#448) 2026-05-03 (3.4/5 — A1 proactive AI assistant; Python/agent/eval 1:1 but JAX+vLLM gaps; verify US W-2 on screen; PDF generated)
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/5116274008 | Anthropic | Applied AI Engineer (London) | London, UK — On-site/Hybrid — moved to Procesadas (#449) 2026-05-03 (2.7/5 — top-tier £225-240K; F-1 OPT US-base + UK relocation + 4+y senior gap + sponsorship-not-guaranteed; SKIP)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -855,3 +864,5 @@
 - [x] #437 | https://job-boards.greenhouse.io/axle/jobs/5114627007 | Axle | AI Engineer II | Remote | 3.0/5 | PDF ✅
 - [x] #442 | https://job-boards.greenhouse.io/amplitude/jobs/8532139002 | Amplitude | Forward Deploy Engineer II | San Francisco, CA — On-site | 3.4/5 | PDF ✅
 - [x] #444 | https://remotive.com/remote/jobs/ai-ml/ai-engineer-4429700 | Continued | AI Engineer | Remote — USA Only | 3.7/5 | PDF ✅
+- [x] #447 | https://job-boards.greenhouse.io/axiomaticai/jobs/4720346101 | Axiomatic AI | Applied AI Engineer | Boston, US / Barcelona, Spain / Open to Remote | 3.9/5 | PDF ✅
+- [x] #448 | https://jobs.ashbyhq.com/bjakcareer/2410bf26-de9e-471b-9a2c-5bfa2cad4d00 | Bjak | Applied AI Engineer | United States (Ashby) | 3.4/5 | PDF ✅
