@@ -577,6 +577,13 @@
 - [!] https://himalayas.app/companies/hatch/jobs/forward-deployed-engineer | Hatch | Forward Deployed Engineer | Remote — moved to Procesadas (#454) 2026-05-03
 - [!] https://himalayas.app/companies/servicenow/jobs/forward-deployed-solution-engineer-applied-ai | ServiceNow | Senior Forward Deployed Solution Engineer - Applied AI | Remote-USA — moved to Procesadas (#452) 2026-05-03
 
+<!-- Overnight 2026-05-03 batch 5 — Level 3 WebSearch additions (Workable + BuiltIn small-ATS recheck) -->
+- [!] https://apply.workable.com/fuseenergy/j/64F3A20A10/ | Fuse Energy | Applied AI Engineer | London, UK — moved to Procesadas (#456) 2026-05-03 (2.4/5 — strong content fit; UK location veto for F-1 OPT US-based; archived to below-threshold)
+- [!] https://www.builtinnyc.com/job/ai-implementation-specialist-contech-remote/9187758 | Human Agency | AI Implementation Specialist (Contech) | Remote (US, 60-80% travel) — moved to Procesadas (#455) 2026-05-03 (2.7/5 — 3+ yrs construction-industry vertical floor; off-archetype; archived to below-threshold)
+- [!] https://apply.workable.com/jobgether/j/C61C485858 | Jobgether | AI Engineer (Remote - US) | Remote - US — error: Workable JS-only render returned empty content; aggregator confirms Senior AI Engineer (OCR/document intelligence) — Senior filter slip; archived
+- [!] https://apply.workable.com/volga-partners/j/35FCA61135 | Volga Partners | AI Engineer - AI/LLM (Backend) | Ukraine/Pakistan — error: Workable JS-only render returned empty; aggregator confirms Ukraine/Pakistan-based at $2.5-3.5K/month; geo + comp veto for F-1 OPT US-based; archived
+- [!] https://apply.workable.com/remote-recruitment/j/303D028FD3 | Remote Recruitment | AI Automation Engineer | Remote (verify) — recruitment-agency posting (intermediary, not hiring company); skipped, not actionable for direct application
+
 ## Procesadas
 
 ### 2026-04-20
