@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 457 | 2026-05-03 | Qualified Health | Applied AI Engineer | 3.6/5 | Evaluated | ✅ | [457](reports/457-qualified-health-applied-ai-engineer-2026-05-03.md) | healthcare-AI agentic + production REST APIs; hybrid Palo Alto; $180-250K; PDF generated |
+| 463 | 2026-05-03 | DMI | AI Solutions Engineer | 3.0/5 | Evaluated | ✅ | [463](reports/463-dmi-ai-solutions-engineer-2026-05-03.md) | enterprise consulting AI delivery; AWS+Python+MLOps stack 1:1; Remote-US; PDF generated |
 | 454 | 2026-05-03 | Hatch | Forward Deployed Engineer | 3.3/5 | Evaluated | ✅ | [454](reports/454-hatch-forward-deployed-engineer-2026-05-03.md) | AI CSR (voice/SMS/email) FDE Remote; LLM/generative customer-deploy 1:1; comp opacity (aggregator listing); verify direct ATS + sponsorship before applying; PDF generated |
 | 448 | 2026-05-03 | Bjak | Applied AI Engineer | 3.4/5 | Evaluated | ✅ | [448](reports/448-bjak-applied-ai-engineer-2026-05-03.md) | US-filed (Malaysia HQ); Python/agent/eval 1:1 but JAX+vLLM gaps; mid-IC; verify US W-2 on screen; PDF generated |
 | 442 | 2026-05-03 | Amplitude | Forward Deploy Engineer II | 3.4/5 | Evaluated | ✅ | [442](reports/442-amplitude-fde-ii-2026-05-03.md) | FDE II at Amplitude (NASDAQ:AMPL); TS+React+Python+Node+AWS 1:1; 2-4y band fits Deepak 2.5y; SF on-site relocation friction; PDF generated |

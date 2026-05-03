@@ -584,6 +584,16 @@
 - [!] https://apply.workable.com/volga-partners/j/35FCA61135 | Volga Partners | AI Engineer - AI/LLM (Backend) | Ukraine/Pakistan — error: Workable JS-only render returned empty; aggregator confirms Ukraine/Pakistan-based at $2.5-3.5K/month; geo + comp veto for F-1 OPT US-based; archived
 - [!] https://apply.workable.com/remote-recruitment/j/303D028FD3 | Remote Recruitment | AI Automation Engineer | Remote (verify) — recruitment-agency posting (intermediary, not hiring company); skipped, not actionable for direct application
 
+<!-- Overnight 2026-05-03 batch 6 — Level 3 WebSearch additions (Greenhouse + Workable + Himalayas mid AI) -->
+- [!] https://job-boards.greenhouse.io/qualifiedhealth/jobs/4937396008 | Qualified Health | Applied AI Engineer | Hybrid — Palo Alto, CA — moved to Procesadas (#457) 2026-05-03 (3.6/5 — healthcare-AI agentic + production REST APIs; $180-250K; PDF generated)
+- [!] https://job-boards.greenhouse.io/figma/jobs/5707966004 | Figma | AI Applied Scientist | SF / NYC / Remote-US — moved to Procesadas (#458) 2026-05-03 (1.9/5 — Senior research-track 4+y GenAI / 6+y ML / DPO/PPO veto; SKIP)
+- [!] https://job-boards.greenhouse.io/warp/jobs/5542429004 | Warp | Applied AI Engineer | (verify) — error: posting closed (Greenhouse 302→?error=true on 2026-05-03); archived
+- [!] https://apply.workable.com/futureplc/j/214EDFD0DE/ | Future Publishing | AI Engineer, Open Platform | Remote — UK — moved to Procesadas (#460) 2026-05-03 (2.3/5 — UK-based £60-65K; F-1 OPT US-base geo veto + comp gap; SKIP)
+- [!] https://himalayas.app/companies/cordial/jobs/ai-engineer | Cordial | Applied AI Engineer | Remote — US — moved to Procesadas (#461) 2026-05-03 (3.3/5 — mid-level martech LLM productionization; $140-160K; PDF generated)
+- [!] https://himalayas.app/companies/blueprint/jobs/ai-process-automation-engineer-8108416683 | Blueprint Technologies | AI Process Automation Engineer | Remote — US — moved to Procesadas (#462) 2026-05-03 (2.7/5 — off-archetype TS+DevOps+AI integration; $125-135K; SKIP)
+- [!] https://himalayas.app/companies/dmi/jobs/ai-solutions-engineer | DMI | AI Solutions Engineer | Remote — US — moved to Procesadas (#463) 2026-05-03 (3.0/5 — enterprise consulting AWS+Python+MLOps stack 1:1; PDF generated)
+- [!] https://himalayas.app/companies/apexanalytix/jobs/ai-engineer | apexanalytix | AI Engineer | Remote — US — moved to Procesadas (#464) 2026-05-03 (2.3/5 — strong stack but explicit NO VISA SPONSORSHIP = F-1 OPT statutory blocker; SKIP)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -887,3 +897,6 @@
 - [x] #448 | https://jobs.ashbyhq.com/bjakcareer/2410bf26-de9e-471b-9a2c-5bfa2cad4d00 | Bjak | Applied AI Engineer | United States (Ashby) | 3.4/5 | PDF ✅
 - [x] #450 | https://job-boards.greenhouse.io/scaleai/jobs/4605996005 | Scale AI | Software Engineer, New Grad | San Francisco, CA — On-site | 3.5/5 | PDF ✅
 - [x] #454 | https://himalayas.app/companies/hatch/jobs/forward-deployed-engineer | Hatch | Forward Deployed Engineer | Remote (verify US-only) | 3.3/5 | PDF ✅
+- [x] #457 | https://job-boards.greenhouse.io/qualifiedhealth/jobs/4937396008 | Qualified Health | Applied AI Engineer | Hybrid — Palo Alto, CA | 3.6/5 | PDF ✅
+- [x] #461 | https://himalayas.app/companies/cordial/jobs/ai-engineer | Cordial | Applied AI Engineer | Remote — US | 3.3/5 | PDF ✅
+- [x] #463 | https://himalayas.app/companies/dmi/jobs/ai-solutions-engineer | DMI | AI Solutions Engineer | Remote — US | 3.0/5 | PDF ✅
