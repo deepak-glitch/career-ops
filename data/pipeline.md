@@ -634,6 +634,20 @@
 - [!] https://snapsoft.recruitee.com/o/data-engineer-2 | SnapSoft Kft | AI/ML Engineer | Budapest, Hungary — Hybrid — moved to Procesadas (#485) 2026-05-04 (2.0/5 — AWS-partner consultancy stack 1:1; 3+yr fits; F-1 OPT US-base hard geography veto; SKIP)
 - [!] https://signicat.teamtailor.com/jobs/6005064-machine-learning-engineer | Signicat | Machine Learning Engineer | (verify) — error: posting closed (Teamtailor 410 on 2026-05-04); archived
 
+<!-- Overnight 2026-05-04T08:35Z batch — Level 3 WebSearch additions -->
+- [!] https://jobs.ashbyhq.com/Distyl/ec9e338a-4040-4aa2-b049-424cd343f5f5 | Distyl AI | Forward Deployed Engineer | San Francisco / New York — Hybrid + 25-50% travel — moved to Procesadas (#487) 2026-05-04T08:35 (3.8/5 — strong fit, $150-250K, profitable enterprise compound AI; PDF generated)
+- [!] https://jobs.ashbyhq.com/Concentrate%20AI/29f92690-d97d-4c39-b82b-f998b6a3db7c | Concentrate AI | Forward Deployed AI Engineer | Remote (United States) — moved to Procesadas (#488) 2026-05-04T08:35 (2.7/5 — 5-12 yrs senior floor; SKIP)
+- [!] https://jobs.ashbyhq.com/webai/346b2d54-ec61-406c-9e1e-2c2d1fed84ca | webAI | AI Software Engineer | Austin, TX — On-site — moved to Procesadas (#489) 2026-05-04T08:35 (2.8/5 — 5+ yrs C++ optimization + Austin on-site; SKIP)
+- [!] https://job-boards.greenhouse.io/breezecash/jobs/5116784008 | Breeze | Software Engineer - New Grad - AI Native | New York, NY — error: posting closed (Greenhouse API 404 + not on active board 2026-05-04T08:35); archived
+- [!] https://job-boards.greenhouse.io/traversal/jobs/4983321008 | Traversal | AI Engineer - New Grad | Remote - US — error: posting closed (Greenhouse API 404 + empty org board 2026-05-04T08:35); archived
+- [!] https://himalayas.app/companies/superplane/jobs/applied-ai-engineer | SuperPlane | Applied AI Engineer | Remote — error: Applied AI Engineer no longer on SuperPlane Ashby board (only "Product Engineer / Serbia" active 2026-05-04T08:35); archived
+- [!] https://himalayas.app/companies/llamaindex/jobs/multimodal-ai-engineer-document-understanding | LlamaIndex | Multimodal AI Engineer, Document Understanding | San Francisco — Hybrid — duplicate of #123 (already evaluated 2026-04-23); not re-evaluated
+- [!] https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer [New grads ok] | San Francisco / Remote-US — duplicate of #249 (already evaluated 2026-04-29 4.0/5); not re-evaluated
+- [!] https://www.workatastartup.com/jobs/71033 | StackAI | Forward Deployed AI Engineer | San Francisco / New York — duplicate of #142 (already evaluated 2026-04-22 3.2/5); not re-evaluated
+- [!] https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer | NY/Toronto/Paris — In-person — duplicate of #250 (already evaluated 2026-04-29 2.7/5); not re-evaluated
+- [!] https://jobs.ashbyhq.com/varick-agents/15a99eff-beb7-4c35-8240-8e1bfd2d912b | Varick Agents | Forward Deployed Engineer | San Francisco — In-office — duplicate of #243 (already evaluated 2026-04-29 2.4/5); not re-evaluated
+- [!] https://himalayas.app/companies/humana/jobs/applied-ai-engineer | Humana | Applied AI Engineer | Remote - US — error: extraction blocked (himalayas.app sandbox returns generic listing 2026-05-04T08:35); retry next run
+
 ## Procesadas
 
 ### 2026-04-20
@@ -948,3 +962,4 @@
 
 - [x] #482 | https://job-boards.greenhouse.io/gleanwork/jobs/4632997005 | Glean | Machine Learning Engineer, Enterprise Brain | San Francisco Bay Area (Palo Alto/SF) — Hybrid 4d/wk | 3.6/5 | PDF ✅
 - [x] #483 | https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality | San Francisco Bay Area — Hybrid 3-4d/wk | 3.8/5 | PDF ✅
+- [x] #487 | https://jobs.ashbyhq.com/Distyl/ec9e338a-4040-4aa2-b049-424cd343f5f5 | Distyl AI | Forward Deployed Engineer | San Francisco / New York — Hybrid + 25-50% travel | 3.8/5 | PDF ✅

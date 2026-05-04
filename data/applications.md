@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 487 | 2026-05-04 | Distyl AI | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [487](reports/487-distyl-fde-2026-05-04.md) | Strong fit — 2+ yrs SWE, $150-250K, SF/NY hybrid + 25-50% travel; profitable enterprise compound AI; named blue-chip customers |
 | 482 | 2026-05-04 | Glean | Machine Learning Engineer, Enterprise Brain | 3.6/5 | Evaluated | ✅ | [482](reports/482-glean-ml-engineer-enterprise-brain-2026-05-04.md) | Mid IC ML/LLM (3+yr ~stretch on 2.5y); SF/Palo Alto Hybrid 4d; $200-300K + equity; Enterprise Brain reasoning + ranking + evals; relocation friction |
 | 483 | 2026-05-04 | Glean | Machine Learning Engineer, Search Quality | 3.8/5 | Evaluated | ✅ | [483](reports/483-glean-ml-engineer-search-quality-2026-05-04.md) | Mid IC ML/LLM (2+yr fits); SF Hybrid 3-4d; $140-265K + equity; signal invention + ranking + LLM domain adaptation; best Glean role for Deepak today |
 | 468 | 2026-05-03 | ElevenLabs | Forward Deployed Engineer (Software Engineer) | 3.4/5 | Evaluated | ✅ | [468](reports/468-elevenlabs-fde-software-engineer-2026-05-03.md) | Top-tier voice AI infra; archetype-perfect FDE-SWE; multi-provider AI integration + production reliability 1:1; voice/audio domain soft gap; partial JD via Ashby SPA + careers page corroboration; PDF generated |
