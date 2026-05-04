@@ -679,6 +679,11 @@
 - [!] https://jobs.ashbyhq.com/bjakcareer/d0a18c1a-9956-4ddb-bfde-86bcd1bab0c9 | Bjak | Machine Learning Engineer (LLM) | (verify) — error: posting closed (Ashby jobPosting null + not on active board 2026-05-04T late-2); archived
 - [!] https://jobs.ashbyhq.com/Swoop/90b6eee1-038b-4e1b-a1e6-5b9b882fbb4a | Swoop Technologies | Software Engineer - LLM Infrastructure | Minneapolis-St. Paul / Washington DC — Hybrid 3+d/wk — moved to Procesadas (#505) 2026-05-04 (1.5/5 — defense LLM infra; US Security Clearance required; F-1 OPT cannot be sponsored for clearance; SKIP)
 - [!] https://job-boards.greenhouse.io/neo4j/jobs/4660243006 | Neo4j | Solutions Engineer (US Startup Program) | (verify) — error: posting closed (Greenhouse 302 redirect to ?error=true on 2026-05-04T late-2); archived
+- [!] https://jobs.ashbyhq.com/lovable/0761245c-3120-473a-8cd5-b24d87320ce1 | Lovable | Platform Engineer — Lovable Apps Platform | Stockholm — moved to Procesadas (#506) 2026-05-04 (1.8/5 — Stockholm on-site + F-1 OPT Sweden veto + Platform/SRE off-archetype; SKIP)
+
+<!-- Overnight 2026-05-04T16:02Z batch — Level 3 WebSearch additions -->
+- [!] https://jobs.ashbyhq.com/abridge/fefe2e4a-b05f-430b-b8fe-e748865d9444 | Abridge | Implementation Engineer | Remote — US — error: posting closed (Ashby `jobPosting: null` + not on active board 2026-05-04T16:02Z; only Implementation Director / Manager roles visible); archived
+- [!] https://jobs.ashbyhq.com/firecrawl/bda40f47-a69b-44d4-ac1a-3f86f20d802d | Firecrawl | Forward Deployment Engineer (Developer Success) | SF / Remote — moved to Procesadas (#507) 2026-05-04 (3.5/5 — SF Hybrid OR Remote-Americas Contract; $150-250K + 0.10% equity; 70% customer-facing FDE at YC API/devtools; 3+ yrs slight stretch; F-1 OPT screen; PDF generated)
 
 
 ## Procesadas
@@ -1006,3 +1011,4 @@
 - [x] #500 | https://himalayas.app/companies/mlabs/jobs/ai-data-engineer | MLabs | AI Data Engineer | Remote — USA / Europe / Israel | 4.0/5 | PDF ✅
 - [x] #503 | https://www.workatastartup.com/jobs/78903 | Closure | Founding AI Engineer | New York / Remote (SF/NYC/IL) | 3.5/5 | PDF ✅
 - [x] #504 | https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-ai-specialist-4294291 | H.I.G. Capital | Forward-Deployed AI Specialist | Remote — USA only (40% travel) | 3.2/5 | PDF ✅
+- [x] #507 | https://jobs.ashbyhq.com/firecrawl/bda40f47-a69b-44d4-ac1a-3f86f20d802d | Firecrawl | Forward Deployed Engineer (Developer Success) | San Francisco, CA (Hybrid) OR Remote (Americas, UTC-3 to UTC-10) | 3.5/5 | PDF ✅
