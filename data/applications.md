@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 503 | 2026-05-04 | Closure | Founding AI Engineer | 3.5/5 | Evaluated | ✅ | [503](reports/503-closure-founding-ai-engineer-2026-05-04.md) | YC W25 4-person; NY/Remote SF/IL; will sponsor visa; 3+ yrs borderline (2.5 prod); LE-data search; PDF generated |
+| 504 | 2026-05-04 | H.I.G. Capital | Forward-Deployed AI Specialist | 3.2/5 | Evaluated | ✅ | [504](reports/504-hig-capital-fde-ai-specialist-2026-05-04.md) | PE-portfolio FDE; Remote-US 40% travel; 3+ yrs borderline; no salary/visa disclosed; AI dev tools + Python/TS + prompt engineering; PDF generated |
 | 500 | 2026-05-04 | MLabs | AI Data Engineer | 4.0/5 | Evaluated | ✅ | [500](reports/500-mlabs-ai-data-engineer-2026-05-04.md) | Haskell/Rust consultancy AI division; Mid-level remote USA/EU/Israel; $130-150K; LangGraph+MCP+RAG+MAS+Vector DBs 1:1 fit; 5h EST overlap fits ET; PDF generated |
 | 490 | 2026-05-04 | WeRide | New Grads 2026 - Software Engineer - Computer Vision | 3.2/5 | Evaluated | ✅ | [490](reports/490-weride-newgrad-cv-2026-05-04.md) | NASDAQ-listed L2-L4 autonomous driving; $120-165K San Jose CA on-site new grad; CV archetype hits but robotics/LiDAR/3D specialty gap |
 | 491 | 2026-05-04 | Arize AI | AI Engineer, Instrumentation | 3.1/5 | Evaluated | ✅ | [491](reports/491-arize-ai-engineer-instrumentation-2026-05-04.md) | Series C $135M+ funding; OpenInference OSS lead; $125-225K Remote-US; 3-5y + TS expert + OSS leadership stretches |

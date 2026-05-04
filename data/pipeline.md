@@ -669,7 +669,16 @@
 - [!] https://intenthq.teamtailor.com/jobs/7089459-ai-engineer | Intent HQ | AI Engineer | verify — error: posting closed (Teamtailor 410 on 2026-05-04T late; Intent HQ careers page only lists Marketing Growth Engineer / GRC Lead / Product Quality Lead); archived
 - [!] https://appsilon-1739358905.teamtailor.com/jobs/6902765-ai-engineer | Appsilon | AI Engineer | Remote (verify) — error: extraction blocked (Teamtailor cert error + remoterocketship 403 on 2026-05-04T late); retry next run
 - [!] https://himalayas.app/companies/mlabs/jobs/ai-data-engineer | MLabs | AI Data Engineer | Remote — USA / Europe / Israel — moved to Procesadas (#500) 2026-05-04 (4.0/5 — Haskell/Rust consultancy AI division; mid-level; $130-150K; LangGraph+MCP+RAG+MAS 1:1 fit; PDF generated)
-- [ ] https://sumup.com/careers/positions/7875302002?gh_jid=7875302002 | SumUp | Agent Commercial(e) Terrain (freelance) – Dunkerque | Dunkerque, Nord, France
+- [!] https://sumup.com/careers/positions/7875302002?gh_jid=7875302002 | SumUp | Agent Commercial(e) Terrain (freelance) – Dunkerque | Dunkerque, Nord, France — moved to Procesadas (#501) 2026-05-04 (1.5/5 — France-only freelance commercial; F-1 OPT US-base + off-archetype + commission-only triple veto; SKIP)
+
+<!-- Overnight 2026-05-04T late-2 batch — Level 3 WebSearch additions (YC + small-ATS + non-standard titles) -->
+- [!] https://www.workatastartup.com/jobs/50344 | Layerup | Founding AI Engineer | San Francisco — On-site — moved to Procesadas (#502) 2026-05-04 (2.0/5 — YC S22 SF on-site; explicit no-sponsorship; F-1 OPT short-term only = no long-term tenure; SKIP)
+- [!] https://www.workatastartup.com/jobs/78903 | Closure | Founding AI Engineer | New York / Remote (SF/NYC/IL) — moved to Procesadas (#503) 2026-05-04 (3.5/5 — YC W25 4-person LE-data search; will sponsor visa; 3+ yrs borderline; PDF generated)
+- [!] https://remotive.com/remote/jobs/project-management/forward-deployed-engineer-3284873 | Coworked | Forward Deployed Engineer | Remote — error: posting closed (Remotive HTTP 410 on 2026-05-04T late-2); archived
+- [!] https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-ai-specialist-4294291 | H.I.G. Capital | Forward-Deployed AI Specialist | Remote — USA only (40% travel) — moved to Procesadas (#504) 2026-05-04 (3.2/5 — PE-portfolio FDE; AI dev tools + Python/TS + prompt eng; 3+ yrs borderline; no salary/visa disclosed; PDF generated)
+- [!] https://jobs.ashbyhq.com/bjakcareer/d0a18c1a-9956-4ddb-bfde-86bcd1bab0c9 | Bjak | Machine Learning Engineer (LLM) | (verify) — error: posting closed (Ashby jobPosting null + not on active board 2026-05-04T late-2); archived
+- [!] https://jobs.ashbyhq.com/Swoop/90b6eee1-038b-4e1b-a1e6-5b9b882fbb4a | Swoop Technologies | Software Engineer - LLM Infrastructure | Minneapolis-St. Paul / Washington DC — Hybrid 3+d/wk — moved to Procesadas (#505) 2026-05-04 (1.5/5 — defense LLM infra; US Security Clearance required; F-1 OPT cannot be sponsored for clearance; SKIP)
+- [!] https://job-boards.greenhouse.io/neo4j/jobs/4660243006 | Neo4j | Solutions Engineer (US Startup Program) | (verify) — error: posting closed (Greenhouse 302 redirect to ?error=true on 2026-05-04T late-2); archived
 
 
 ## Procesadas
@@ -995,3 +1004,5 @@
 - [x] #498 | https://www.workatastartup.com/jobs/79989 | Novoflow | Founding Forward Deployed Engineer | Virtual or in-person at clinics | 3.8/5 | PDF ✅
 - [x] #499 | https://www.workatastartup.com/jobs/74124 | Strada | Founding Forward Deployed Engineer | San Francisco — In-person | 3.2/5 | PDF ✅
 - [x] #500 | https://himalayas.app/companies/mlabs/jobs/ai-data-engineer | MLabs | AI Data Engineer | Remote — USA / Europe / Israel | 4.0/5 | PDF ✅
+- [x] #503 | https://www.workatastartup.com/jobs/78903 | Closure | Founding AI Engineer | New York / Remote (SF/NYC/IL) | 3.5/5 | PDF ✅
+- [x] #504 | https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-ai-specialist-4294291 | H.I.G. Capital | Forward-Deployed AI Specialist | Remote — USA only (40% travel) | 3.2/5 | PDF ✅
