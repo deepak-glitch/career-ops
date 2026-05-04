@@ -669,6 +669,8 @@
 - [!] https://intenthq.teamtailor.com/jobs/7089459-ai-engineer | Intent HQ | AI Engineer | verify — error: posting closed (Teamtailor 410 on 2026-05-04T late; Intent HQ careers page only lists Marketing Growth Engineer / GRC Lead / Product Quality Lead); archived
 - [!] https://appsilon-1739358905.teamtailor.com/jobs/6902765-ai-engineer | Appsilon | AI Engineer | Remote (verify) — error: extraction blocked (Teamtailor cert error + remoterocketship 403 on 2026-05-04T late); retry next run
 - [!] https://himalayas.app/companies/mlabs/jobs/ai-data-engineer | MLabs | AI Data Engineer | Remote — USA / Europe / Israel — moved to Procesadas (#500) 2026-05-04 (4.0/5 — Haskell/Rust consultancy AI division; mid-level; $130-150K; LangGraph+MCP+RAG+MAS 1:1 fit; PDF generated)
+- [ ] https://sumup.com/careers/positions/7875302002?gh_jid=7875302002 | SumUp | Agent Commercial(e) Terrain (freelance) – Dunkerque | Dunkerque, Nord, France
+
 
 ## Procesadas
 
