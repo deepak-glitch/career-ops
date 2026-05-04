@@ -657,6 +657,18 @@
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5396470004 | Arize AI | AI Product Engineer, New Grad | Remote-US — error: posting closed (Greenhouse API 404 on 2026-05-04 overnight; only Senior AI Product Engineer Backend/Fullstack on board); archived
 - [!] https://job-boards.greenhouse.io/labelbox/jobs/4719221007 | Labelbox | AI Engineer | (verify) — error: posting closed (Greenhouse API 404 on 2026-05-04 overnight; only Full-Stack AI Data Platform + Managing Partner Frontier AI on board); archived
 - [!] https://job-boards.greenhouse.io/ketryx/jobs/4611169008 | Ketryx | AI Engineer - US or CAN Remote | (verify) — error: posting closed (Greenhouse API returned empty payload 2026-05-04 overnight); archived
+- [!] https://sumup.com/careers/positions/7875332002?gh_jid=7875332002 | SumUp | Agent Commercial(e) Terrain Freelance – Calais  | Calais, Pas-de-Calais, France — moved to Procesadas (#495) 2026-05-04 (1.5/5 — field commercial freelance off-archetype + France-only F-1 OPT veto; SKIP)
+
+<!-- Overnight 2026-05-04T late batch — Level 3 WebSearch additions (YC + small-ATS + non-standard titles) -->
+- [!] https://www.workatastartup.com/jobs/87890 | Dot | Forward Deployed AI Engineer (Remote) | Remote — moved to Procesadas (#497) 2026-05-04 (3.2/5 — YC AI data assistant Slack/Teams; EU-leaning customer roster; PDF generated)
+- [!] https://www.workatastartup.com/jobs/74608 | Extend | Forward Deployed Engineer | New York City — In-person — moved to Procesadas (#496) 2026-05-04 (3.6/5 — YC LLM document processing; new grads OK; $150-200K NYC in-person; "US citizen/visa only" needs screen; PDF generated)
+- [!] https://www.workatastartup.com/jobs/78325 | Giga | Forward Deployed Engineer | (verify) — error: posting closed (workatastartup 404 + YC main 404 on 2026-05-04T late); archived
+- [!] https://www.workatastartup.com/jobs/79989 | Novoflow | Founding Forward Deployed Engineer | Virtual or in-person at clinics — moved to Procesadas (#498) 2026-05-04 (3.8/5 — YC X25 healthcare-clinic AI agents; 2-6 yrs explicit; 1:1 healthcare archetype; PDF generated)
+- [!] https://www.workatastartup.com/jobs/77891 | Synth | Founding Forward Deployed AI/Product Engineer | San Francisco / verify — error: workatastartup 404 + YC main 404 on 2026-05-04T late (closed/expired); archived
+- [!] https://www.workatastartup.com/jobs/74124 | Strada | Founding Forward Deployed Engineer | San Francisco — In-person 156 2nd St — moved to Procesadas (#499) 2026-05-04 (3.2/5 — YC S23 conversational AI for insurance distributors; SF in-person; PDF generated)
+- [!] https://intenthq.teamtailor.com/jobs/7089459-ai-engineer | Intent HQ | AI Engineer | verify — error: posting closed (Teamtailor 410 on 2026-05-04T late; Intent HQ careers page only lists Marketing Growth Engineer / GRC Lead / Product Quality Lead); archived
+- [!] https://appsilon-1739358905.teamtailor.com/jobs/6902765-ai-engineer | Appsilon | AI Engineer | Remote (verify) — error: extraction blocked (Teamtailor cert error + remoterocketship 403 on 2026-05-04T late); retry next run
+- [!] https://himalayas.app/companies/mlabs/jobs/ai-data-engineer | MLabs | AI Data Engineer | Remote — USA / Europe / Israel — moved to Procesadas (#500) 2026-05-04 (4.0/5 — Haskell/Rust consultancy AI division; mid-level; $130-150K; LangGraph+MCP+RAG+MAS 1:1 fit; PDF generated)
 
 ## Procesadas
 
@@ -976,3 +988,8 @@
 - [x] #490 | https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96 | WeRide | New Grads 2026 - Software Engineer - Computer Vision | San Jose, CA — On-site | 3.2/5 | PDF ✅
 - [x] #491 | https://job-boards.greenhouse.io/arizeai/jobs/5661972004 | Arize AI | AI Engineer, Instrumentation | Remote (United States) | 3.1/5 | PDF ✅
 - [x] #492 | https://job-boards.greenhouse.io/labelbox/jobs/5019254007 | Labelbox | Full-Stack Engineer, AI Data Platform | San Francisco Bay Area — Hybrid | 3.5/5 | PDF ✅
+- [x] #496 | https://www.workatastartup.com/jobs/74608 | Extend | Forward Deployed Engineer (New Grads OK) | New York City — In-person | 3.6/5 | PDF ✅
+- [x] #497 | https://www.workatastartup.com/jobs/87890 | Dot | Forward Deployed AI Engineer (Remote) | Remote | 3.2/5 | PDF ✅
+- [x] #498 | https://www.workatastartup.com/jobs/79989 | Novoflow | Founding Forward Deployed Engineer | Virtual or in-person at clinics | 3.8/5 | PDF ✅
+- [x] #499 | https://www.workatastartup.com/jobs/74124 | Strada | Founding Forward Deployed Engineer | San Francisco — In-person | 3.2/5 | PDF ✅
+- [x] #500 | https://himalayas.app/companies/mlabs/jobs/ai-data-engineer | MLabs | AI Data Engineer | Remote — USA / Europe / Israel | 4.0/5 | PDF ✅
