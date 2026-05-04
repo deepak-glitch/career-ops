@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 490 | 2026-05-04 | WeRide | New Grads 2026 - Software Engineer - Computer Vision | 3.2/5 | Evaluated | ✅ | [490](reports/490-weride-newgrad-cv-2026-05-04.md) | NASDAQ-listed L2-L4 autonomous driving; $120-165K San Jose CA on-site new grad; CV archetype hits but robotics/LiDAR/3D specialty gap |
+| 491 | 2026-05-04 | Arize AI | AI Engineer, Instrumentation | 3.1/5 | Evaluated | ✅ | [491](reports/491-arize-ai-engineer-instrumentation-2026-05-04.md) | Series C $135M+ funding; OpenInference OSS lead; $125-225K Remote-US; 3-5y + TS expert + OSS leadership stretches |
+| 492 | 2026-05-04 | Labelbox | Full-Stack Engineer, AI Data Platform | 3.5/5 | Evaluated | ✅ | [492](reports/492-labelbox-fullstack-ai-data-platform-2026-05-04.md) | Frontier AI data platform; 2+ yrs explicit (fits); $130-200K SF Bay Area Hybrid; HITL+RLHF+eval tooling 1:1 fit |
 | 487 | 2026-05-04 | Distyl AI | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [487](reports/487-distyl-fde-2026-05-04.md) | Strong fit — 2+ yrs SWE, $150-250K, SF/NY hybrid + 25-50% travel; profitable enterprise compound AI; named blue-chip customers |
 | 482 | 2026-05-04 | Glean | Machine Learning Engineer, Enterprise Brain | 3.6/5 | Evaluated | ✅ | [482](reports/482-glean-ml-engineer-enterprise-brain-2026-05-04.md) | Mid IC ML/LLM (3+yr ~stretch on 2.5y); SF/Palo Alto Hybrid 4d; $200-300K + equity; Enterprise Brain reasoning + ranking + evals; relocation friction |
 | 483 | 2026-05-04 | Glean | Machine Learning Engineer, Search Quality | 3.8/5 | Evaluated | ✅ | [483](reports/483-glean-ml-engineer-search-quality-2026-05-04.md) | Mid IC ML/LLM (2+yr fits); SF Hybrid 3-4d; $140-265K + equity; signal invention + ranking + LLM domain adaptation; best Glean role for Deepak today |

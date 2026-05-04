@@ -648,6 +648,16 @@
 - [!] https://jobs.ashbyhq.com/varick-agents/15a99eff-beb7-4c35-8240-8e1bfd2d912b | Varick Agents | Forward Deployed Engineer | San Francisco — In-office — duplicate of #243 (already evaluated 2026-04-29 2.4/5); not re-evaluated
 - [!] https://himalayas.app/companies/humana/jobs/applied-ai-engineer | Humana | Applied AI Engineer | Remote - US — error: extraction blocked (himalayas.app sandbox returns generic listing 2026-05-04T08:35); retry next run
 
+<!-- Overnight 2026-05-04T overnight batch — Level 3 WebSearch additions (newgrad/junior + Greenhouse + Ashby + Lever) -->
+- [!] https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96 | WeRide | New Grads 2026 - Software Engineer - Computer Vision | San Jose, CA — On-site — moved to Procesadas (#490) 2026-05-04 (3.2/5 — CV archetype hits but robotics/LiDAR/3D specialty gap; PDF generated)
+- [!] https://job-boards.greenhouse.io/arizeai/jobs/5661972004 | Arize AI | AI Engineer, Instrumentation | Remote (United States) — moved to Procesadas (#491) 2026-05-04 (3.1/5 — eval-first/multi-provider fit; 3-5y + TS expert + OSS leadership stretches; PDF generated)
+- [!] https://job-boards.greenhouse.io/labelbox/jobs/5019254007 | Labelbox | Full-Stack Engineer, AI Data Platform | San Francisco Bay Area — Hybrid — moved to Procesadas (#492) 2026-05-04 (3.5/5 — HITL+RLHF+eval tooling 1:1; 2+y fits; PDF generated)
+- [!] https://jobs.lever.co/RadicalAI/078f84f2-0e62-4d51-8d2f-ce898ef9ea6e | Radical AI | ML Engineer | New York, NY — On-site — moved to Procesadas (#493) 2026-05-04 (2.0/5 — Senior/Staff/Principal explicit + NYC on-site + foundation-model materials science; SKIP)
+- [!] https://job-boards.greenhouse.io/sezzle/jobs/7633989003 | Sezzle | AI Engineer II | Mexico — Remote — moved to Procesadas (#494) 2026-05-04 (2.1/5 — Mexico-only payroll + $40-72K Mexico comp tier; F-1 OPT US-base hard veto; SKIP)
+- [!] https://job-boards.greenhouse.io/arizeai/jobs/5396470004 | Arize AI | AI Product Engineer, New Grad | Remote-US — error: posting closed (Greenhouse API 404 on 2026-05-04 overnight; only Senior AI Product Engineer Backend/Fullstack on board); archived
+- [!] https://job-boards.greenhouse.io/labelbox/jobs/4719221007 | Labelbox | AI Engineer | (verify) — error: posting closed (Greenhouse API 404 on 2026-05-04 overnight; only Full-Stack AI Data Platform + Managing Partner Frontier AI on board); archived
+- [!] https://job-boards.greenhouse.io/ketryx/jobs/4611169008 | Ketryx | AI Engineer - US or CAN Remote | (verify) — error: posting closed (Greenhouse API returned empty payload 2026-05-04 overnight); archived
+
 ## Procesadas
 
 ### 2026-04-20
@@ -963,3 +973,6 @@
 - [x] #482 | https://job-boards.greenhouse.io/gleanwork/jobs/4632997005 | Glean | Machine Learning Engineer, Enterprise Brain | San Francisco Bay Area (Palo Alto/SF) — Hybrid 4d/wk | 3.6/5 | PDF ✅
 - [x] #483 | https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality | San Francisco Bay Area — Hybrid 3-4d/wk | 3.8/5 | PDF ✅
 - [x] #487 | https://jobs.ashbyhq.com/Distyl/ec9e338a-4040-4aa2-b049-424cd343f5f5 | Distyl AI | Forward Deployed Engineer | San Francisco / New York — Hybrid + 25-50% travel | 3.8/5 | PDF ✅
+- [x] #490 | https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96 | WeRide | New Grads 2026 - Software Engineer - Computer Vision | San Jose, CA — On-site | 3.2/5 | PDF ✅
+- [x] #491 | https://job-boards.greenhouse.io/arizeai/jobs/5661972004 | Arize AI | AI Engineer, Instrumentation | Remote (United States) | 3.1/5 | PDF ✅
+- [x] #492 | https://job-boards.greenhouse.io/labelbox/jobs/5019254007 | Labelbox | Full-Stack Engineer, AI Data Platform | San Francisco Bay Area — Hybrid | 3.5/5 | PDF ✅
