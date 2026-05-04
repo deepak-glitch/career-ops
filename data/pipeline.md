@@ -634,6 +634,16 @@
 - [!] https://snapsoft.recruitee.com/o/data-engineer-2 | SnapSoft Kft | AI/ML Engineer | Budapest, Hungary — Hybrid — moved to Procesadas (#485) 2026-05-04 (2.0/5 — AWS-partner consultancy stack 1:1; 3+yr fits; F-1 OPT US-base hard geography veto; SKIP)
 - [!] https://signicat.teamtailor.com/jobs/6005064-machine-learning-engineer | Signicat | Machine Learning Engineer | (verify) — error: posting closed (Teamtailor 410 on 2026-05-04); archived
 
+<!-- Overnight 2026-05-04 #2 — Level 3 WebSearch additions (Ashby + Greenhouse + Lever + small-ATS + aggregators) -->
+- [!] https://jobs.ashbyhq.com/stack-ai/f6b1d010-12ea-460e-aebb-85e2f7e6de45 | StackAI | Forward Deployed Engineer - Healthcare | NYC Office — On-site — moved to Procesadas (#487) 2026-05-04 (3.6/5 — healthcare RAG/LLM stack 1:1 + EHR/PHI/HIPAA fit; 3+ yr 2.5y stretch; NYC on-site relocation friction; $120-200K + equity + commission; PDF generated)
+- [!] https://jobs.ashbyhq.com/ascertain/8585e400-f993-46ef-b443-2ad6bbe485b9 | Ascertain | Forward Deployed Engineer | NYC or Remote-US — moved to Procesadas (#488) 2026-05-04 (4.0/5 — healthcare AI agents same role family as #216 (4.1) different posting ID; stack 1:1 RAG/LLM/EHR; NYC-or-Remote flexibility; $130-175K; PDF generated)
+- [!] https://job-boards.greenhouse.io/stackadapt/jobs/4131244009 | StackAdapt | Machine Learning Engineer (Remote) | UK / Ireland / Germany — Remote-first — moved to Procesadas (#489) 2026-05-04 (2.0/5 — F-1 OPT US-base hard geo veto; SKIP unless relocating; legitimate ML posting just wrong geography)
+- [!] https://himalayas.app/companies/snorkel-ai/jobs/applied-ai-engineer-federal | Snorkel AI | Applied AI Engineer - Federal | DC / Remote-US — TS Required — moved to Procesadas (#490) 2026-05-04 (1.5/5 — TS Clearance F-1 OPT US-citizenship hard veto; SKIP; pivot to non-federal #229 (3.7); $164-260K OTE)
+- [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4471342 | BioRender | Applied AI Engineer | Remote — USA — moved to Procesadas (#491) 2026-05-04 (3.6/5 — internal AI tools at scientific-viz SaaS; multi-provider AI 1:1 to Manga Lens; 4+ yr 2.5y stretch; related to #203; PDF generated)
+- [!] https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96 | WeRide.ai | New Grads 2026 - Software Engineer - Computer Vision | San Jose, CA — On-site — moved to Procesadas (#492) 2026-05-04 (3.5/5 — autonomous driving CV new grad; YOLOv8/transformer-video/ControlNet stack 1:1; grad-window edge case; SF Bay relocation friction; $120-165K; PDF generated)
+- [!] https://jobs.lever.co/nextech/f941fd47-8283-40f7-a5aa-a48b6446733c | Nextech | Software Engineer I (Remote) | error: Lever API "Document not found" on 2026-05-04 (closed posting); archived
+- [!] https://himalayas.app/companies/aegis-ventures/jobs/ai-software-engineer | Aegis Ventures | AI Software Engineer | NYC office (with US-Remote framing) — error: BuiltIn confirmed posting removed 2025-08-22 (closed); archived (Aegis Ventures = Ascertain parent — see #216/#488)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -948,3 +958,7 @@
 
 - [x] #482 | https://job-boards.greenhouse.io/gleanwork/jobs/4632997005 | Glean | Machine Learning Engineer, Enterprise Brain | San Francisco Bay Area (Palo Alto/SF) — Hybrid 4d/wk | 3.6/5 | PDF ✅
 - [x] #483 | https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality | San Francisco Bay Area — Hybrid 3-4d/wk | 3.8/5 | PDF ✅
+- [x] #487 | https://jobs.ashbyhq.com/stack-ai/f6b1d010-12ea-460e-aebb-85e2f7e6de45 | StackAI | Forward Deployed Engineer - Healthcare | NYC Office — On-site (10-20% travel) | 3.6/5 | PDF ✅
+- [x] #488 | https://jobs.ashbyhq.com/ascertain/8585e400-f993-46ef-b443-2ad6bbe485b9 | Ascertain | Forward Deployed Engineer | NYC or Remote-US — occasional travel | 4.0/5 | PDF ✅
+- [x] #491 | https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4471342 | BioRender | Applied AI Engineer | USA — Remote | 3.6/5 | PDF ✅
+- [x] #492 | https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96 | WeRide.ai | New Grads 2026 - Software Engineer - Computer Vision | San Jose, CA — On-site | 3.5/5 | PDF ✅
