@@ -622,6 +622,18 @@
 - [!] https://remotive.com/remote/jobs/artificial-intelligence/junior-ai-engineer-4102584 | PwC | Junior AI Engineer | Ukraine (Remote or Lviv office) — error: PwC Slovakia / Ukraine-located role (Lviv office, remote within Ukraine); F-1 OPT US-base geography veto; SKIP
 - [!] https://himalayas.app/companies/entangle-labs/jobs/junior-ai-engineer-2536152426 | Entangle Labs | Junior AI Engineer | Remote (verify) — error: Himalayas page returned generic listing (Barchester / Vantum unrelated jobs); JD extraction blocked 2026-05-04; retry next run
 
+<!-- Overnight 2026-05-04 batch — Level 3 WebSearch additions (Greenhouse + Ashby + Lever + small-ATS) -->
+- [!] https://job-boards.greenhouse.io/gleanwork/jobs/4632997005 | Glean | Machine Learning Engineer, Enterprise Brain | San Francisco Bay Area (Palo Alto/SF) — Hybrid 4d/wk — moved to Procesadas (#482) 2026-05-04 (3.6/5 — Mid IC ML/LLM stack 1:1; 3+yr ~stretch on 2.5y; SF/Palo Alto Hybrid 4d relocation friction; comp $200-300K; PDF generated)
+- [!] https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality | San Francisco Bay Area — Hybrid 3-4d/wk — moved to Procesadas (#483) 2026-05-04 (3.8/5 — best Glean role for Deepak today; 2+yr fits; signal invention + ranking + LLM domain adaptation; comp $140-265K; PDF generated)
+- [!] https://jobs.ashbyhq.com/valthos/6f460b05-94b1-457a-ac7d-17af48425ca2 | Valthos | Member of Technical Staff - Forward Deployed Engineer | New York, NY — On-Site — moved to Procesadas (#484) 2026-05-04 (2.5/5 — biodefense FDE; founders ex-Palantir + MIT Broad + DeepMind; F-1 OPT clearance veto + NYC on-site relocation; SKIP unless commercial-pharma confirmed)
+- [!] https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6 | Palantir | Software Engineer, New Grad - Production Infrastructure | (verify) — error: not in active Lever postings list 2026-05-04 (closed/expired); archived
+- [!] https://jobs.lever.co/palantir/73f6f11a-8165-4009-8dba-cc78ab9ca990 | Palantir | Forward Deployed Software Engineer, New Grad | (verify) — error: not in active Lever postings list 2026-05-04 (closed/expired); archived
+- [!] https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f | Mistral AI | Software Engineer, New Grad | Paris, France (verify) — error: not in active Lever postings list 2026-05-04 (closed/expired); archived
+- [!] https://job-boards.greenhouse.io/newsbreak/jobs/4615879006 | NewsBreak | Software Engineer, ML Infra (Junior & New Grad) | Mountain View, CA — error: Greenhouse redirects to NewsBreak listing index on 2026-05-04 (junior posting closed; only Senior + Staff variants now visible); archived
+- [!] https://techseed.teamtailor.com/jobs/7528517-machine-learning-engineer | TechSeed | Machine Learning Engineer | Stockholm, Sweden — On-site — moved to Procesadas (#486) 2026-05-04 (1.7/5 — Swedish citizenship + Swedish language fluency required; F-1 OPT + non-Swedish = three independent hard blockers; SKIP)
+- [!] https://snapsoft.recruitee.com/o/data-engineer-2 | SnapSoft Kft | AI/ML Engineer | Budapest, Hungary — Hybrid — moved to Procesadas (#485) 2026-05-04 (2.0/5 — AWS-partner consultancy stack 1:1; 3+yr fits; F-1 OPT US-base hard geography veto; SKIP)
+- [!] https://signicat.teamtailor.com/jobs/6005064-machine-learning-engineer | Signicat | Machine Learning Engineer | (verify) — error: posting closed (Teamtailor 410 on 2026-05-04); archived
+
 ## Procesadas
 
 ### 2026-04-20
@@ -933,3 +945,6 @@
 
 ### 2026-05-04
 
+
+- [x] #482 | https://job-boards.greenhouse.io/gleanwork/jobs/4632997005 | Glean | Machine Learning Engineer, Enterprise Brain | San Francisco Bay Area (Palo Alto/SF) — Hybrid 4d/wk | 3.6/5 | PDF ✅
+- [x] #483 | https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality | San Francisco Bay Area — Hybrid 3-4d/wk | 3.8/5 | PDF ✅

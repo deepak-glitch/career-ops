@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 482 | 2026-05-04 | Glean | Machine Learning Engineer, Enterprise Brain | 3.6/5 | Evaluated | ✅ | [482](reports/482-glean-ml-engineer-enterprise-brain-2026-05-04.md) | Mid IC ML/LLM (3+yr ~stretch on 2.5y); SF/Palo Alto Hybrid 4d; $200-300K + equity; Enterprise Brain reasoning + ranking + evals; relocation friction |
+| 483 | 2026-05-04 | Glean | Machine Learning Engineer, Search Quality | 3.8/5 | Evaluated | ✅ | [483](reports/483-glean-ml-engineer-search-quality-2026-05-04.md) | Mid IC ML/LLM (2+yr fits); SF Hybrid 3-4d; $140-265K + equity; signal invention + ranking + LLM domain adaptation; best Glean role for Deepak today |
 | 468 | 2026-05-03 | ElevenLabs | Forward Deployed Engineer (Software Engineer) | 3.4/5 | Evaluated | ✅ | [468](reports/468-elevenlabs-fde-software-engineer-2026-05-03.md) | Top-tier voice AI infra; archetype-perfect FDE-SWE; multi-provider AI integration + production reliability 1:1; voice/audio domain soft gap; partial JD via Ashby SPA + careers page corroboration; PDF generated |
 | 457 | 2026-05-03 | Qualified Health | Applied AI Engineer | 3.6/5 | Evaluated | ✅ | [457](reports/457-qualified-health-applied-ai-engineer-2026-05-03.md) | healthcare-AI agentic + production REST APIs; hybrid Palo Alto; $180-250K; PDF generated |
 | 463 | 2026-05-03 | DMI | AI Solutions Engineer | 3.0/5 | Evaluated | ✅ | [463](reports/463-dmi-ai-solutions-engineer-2026-05-03.md) | enterprise consulting AI delivery; AWS+Python+MLOps stack 1:1; Remote-US; PDF generated |
