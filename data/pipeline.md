@@ -615,6 +615,13 @@
 - [!] https://job-boards.greenhouse.io/xai/jobs/5052356007 | xAI | Member Of Technical Staff - Government - New Grad | DC / LA / Palo Alto — In-Person — error: Greenhouse job ID redirects to xAI listing index on 2026-05-03 (specific posting closed/expired); also security clearance = US citizens-only veto; archived
 - [!] https://job-boards.greenhouse.io/deepmind/jobs/7106319 | DeepMind | Applied AI Engineer | (verify in JD) — error: Greenhouse job ID redirects to DeepMind listing index on 2026-05-03 (specific posting closed/expired); archived
 
+### 2026-05-04
+
+- [!] https://international-consulting-associates-inc.breezy.hr/p/3bcd9a1d7356-machine-learning-engineers-remote-continental-united-states | ICA.ai | Machine Learning Engineers | Remote — Continental US (DMV preferred) — moved to Procesadas (#480) 2026-05-04 (2.6/5 — federal contractor stack 1:1 but 5+ YOE gate + Public Trust Clearance F-1 OPT veto; SKIP)
+- [!] https://www.fwddeploy.com/jobs/forward-deployed-ai-engineer-open-to-remote-022d96b7 | Recruiting From Scratch (client undisclosed) | Forward Deployed AI Engineer | Los Angeles, CA — On-site — moved to Procesadas (#481) 2026-05-04 (2.7/5 — recruiter-sourced LA on-site FDE for undisclosed client; YOE 1:1 but no visa sponsorship + LA on-site + opaque client = SKIP unless recruiter clarifies)
+- [!] https://remotive.com/remote/jobs/artificial-intelligence/junior-ai-engineer-4102584 | PwC | Junior AI Engineer | Ukraine (Remote or Lviv office) — error: PwC Slovakia / Ukraine-located role (Lviv office, remote within Ukraine); F-1 OPT US-base geography veto; SKIP
+- [!] https://himalayas.app/companies/entangle-labs/jobs/junior-ai-engineer-2536152426 | Entangle Labs | Junior AI Engineer | Remote (verify) — error: Himalayas page returned generic listing (Barchester / Vantum unrelated jobs); JD extraction blocked 2026-05-04; retry next run
+
 ## Procesadas
 
 ### 2026-04-20
@@ -923,3 +930,6 @@
 - [x] #463 | https://himalayas.app/companies/dmi/jobs/ai-solutions-engineer | DMI | AI Solutions Engineer | Remote — US | 3.0/5 | PDF ✅
 - [x] #468 | https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer (Software Engineer) | San Francisco + Remote (4 hub offices) | 3.4/5 | PDF ✅
 - [x] #470 | https://job-boards.greenhouse.io/scaleai/jobs/4514173005 | Scale AI | Applied AI Engineer, Enterprise GenAI | San Francisco, CA / New York, NY — Hybrid 3d/wk | 3.7/5 | PDF ✅
+
+### 2026-05-04
+
