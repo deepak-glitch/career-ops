@@ -725,6 +725,15 @@
 - [!] https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer | Remote — US — moved to Procesadas (#527) 2026-05-05 (2.5/5 — LangChain+LlamaIndex+vector DBs+OpenAI/Anthropic/Mistral stack 1:1; 7+y overall + 3+y AI/ML senior floor = 50% YOE gap on Deepak 3.3y total; SKIP unless recruiter down-levels)
 - [!] https://jobs.lever.co/jobgether/4390a581-32c9-4af7-8bdc-37d90e98d6b3 | Jobgether | Forward Deployed AI Engineer | Remote (verify) — error: posting closed (Lever API HTTP 404 on 2026-05-05; replaced on Lever board by 50+ "Field Strategist FDE" variants for various end-clients); archived
 
+<!-- Overnight 2026-05-05T06:30Z batch — Level 3 WebSearch additions (Greenhouse + Remotive + Custom healthcare/fintech/enterprise) -->
+- [!] https://www.chartahealth.com/jobs/forward-deployed-ai-engineer | Charta Health | Forward Deployed AI Engineer | San Francisco, CA — error: careers page shows "No items found" (role pulled 2026-05-05T06:30Z); archived
+- [!] https://job-boards.greenhouse.io/oddball/jobs/7598223003 | Oddball | Applied AI/ML Engineer | Washington DC area — error: Greenhouse API HTTP 404 on 2026-05-05T06:30Z (role still listed on parent board but specific gh_jid 7598223003 is closed; Oddball is federal contractor — clearance + US Citizen typical); archived
+- [!] https://job-boards.greenhouse.io/truveta/jobs/5555763004 | Truveta | Machine Learning Engineer - LLMs & Generative AI | Seattle, WA — Hybrid — moved to Procesadas (#528) 2026-05-05 (1.8/5 — 6+y SWE/ML + 3+y training LLMs senior floor; RLHF/RLVR/distributed-TPU outside Deepak's RAG/agentic stack; HARD VETO explicit no F-1 OPT or H1-B sponsorship; SKIP)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-4498339 | dexter health | AI Engineer | Worldwide remote (DACH-anchored, German nice-to-have) — moved to Procesadas (#530) 2026-05-05 (3.3/5 — Python+LLMs+healthcare 1:1 stack; Manga Lens 4-provider routing + Ollama local + structured outputs match; comp + F-1 OPT sponsorship unverified — flag in screen; PDF generated)
+- [!] https://job-boards.greenhouse.io/point72/jobs/8331069002 | Point72 | Machine Learning Engineer, GenAI Technology | New York, NY — error: Greenhouse 302 redirect to careers.point72.com (role closed on Greenhouse board 2026-05-05T06:30Z); archived
+- [!] https://job-boards.greenhouse.io/reddit/jobs/7131932 | Reddit | Machine Learning Engineer, Ads | Remote — US — error: Greenhouse API HTTP 404 on 2026-05-05T06:30Z (Reddit's Ads ML board now lists only Senior/Staff variants); archived
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-3818612 | Confiz | AI Engineer | Pakistan — Remote (Lahore HQ) — moved to Procesadas (#529) 2026-05-05 (1.7/5 — 3+y ML/DL/NLP + Azure + GenAI; F-1 OPT US-base geo veto + comp opacity (Pakistan IT-services market); SKIP)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-3877979 | Netguru | AI Engineer | Remote — Europe/Poland — error: Remotive HTTP 404 on 2026-05-05T06:30Z; archived
 
 ## Procesadas
 
@@ -1064,3 +1073,4 @@
 
 - [x] #523 | https://jobs.ashbyhq.com/fieldguide/f4f0aea0-826d-451f-bd17-b04772e221cc | Fieldguide | AI Engineer, Quality | San Francisco, CA or Remote (USA) | 3.7/5 | PDF ✅
 - [x] #526 | https://job-boards.greenhouse.io/cresta/jobs/5155673008 | Cresta | AI Language Engineer | Remote — United States | 3.4/5 | PDF ✅
+- [x] #530 | https://remotive.com/remote/jobs/ai-ml/ai-engineer-4498339 | dexter health | AI Engineer | Worldwide remote (DACH-anchored) | 3.3/5 | PDF ✅
