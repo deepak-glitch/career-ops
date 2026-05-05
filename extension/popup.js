@@ -15,6 +15,10 @@ const els = {
   minScore: document.getElementById("min-score"),
   portalFilter: document.getElementById("portal-filter"),
   pdfOnly: document.getElementById("pdf-only"),
+  sortBy: document.getElementById("sort-by"),
+  dateFrom: document.getElementById("date-from"),
+  dateTo: document.getElementById("date-to"),
+  dateClearBtn: document.getElementById("date-clear-btn"),
   selectAll: document.getElementById("select-all"),
   selectedCount: document.getElementById("selected-count"),
   clearSelBtn: document.getElementById("clear-sel-btn"),
@@ -59,13 +63,40 @@ function filteredJobs() {
   const minScore = parseFloat(els.minScore.value) || 0;
   const portal = els.portalFilter.value;
   const pdfOnly = els.pdfOnly.checked;
-  return JOBS.filter((j) => {
+  const dateFrom = els.dateFrom.value || null; // YYYY-MM-DD
+  const dateTo = els.dateTo.value || null;
+  const sortBy = els.sortBy.value;
+
+  const filtered = JOBS.filter((j) => {
     if (j.score == null && minScore > 0) return false;
     if (j.score != null && j.score < minScore) return false;
     if (portal && j.portal !== portal) return false;
     if (pdfOnly && !j.hasPdf) return false;
+    if (dateFrom && (!j.date || j.date < dateFrom)) return false;
+    if (dateTo && (!j.date || j.date > dateTo)) return false;
     return true;
   });
+
+  // Sort. Tracker dates are YYYY-MM-DD strings → string compare is correct.
+  filtered.sort((a, b) => {
+    if (sortBy === "date-desc") {
+      const d = (b.date || "").localeCompare(a.date || "");
+      if (d !== 0) return d;
+      return (b.score ?? 0) - (a.score ?? 0);
+    }
+    if (sortBy === "date-asc") {
+      const d = (a.date || "").localeCompare(b.date || "");
+      if (d !== 0) return d;
+      return (b.score ?? 0) - (a.score ?? 0);
+    }
+    if (sortBy === "company") {
+      return (a.company || "").localeCompare(b.company || "");
+    }
+    // default: score desc, then most recent date
+    return (b.score ?? 0) - (a.score ?? 0)
+      || (b.date || "").localeCompare(a.date || "");
+  });
+  return filtered;
 }
 
 function renderJobs() {
@@ -258,12 +289,54 @@ async function triggerFill() {
   }, 4000);
 }
 
+// ---- filter persistence ---------------------------------------------
+// Remember sort + date range across popup re-opens.
+
+const FILTER_KEY = "filterPrefs";
+
+async function loadFilterPrefs() {
+  const stored = await chrome.storage.local.get(FILTER_KEY);
+  const prefs = stored[FILTER_KEY] || {};
+  if (prefs.minScore != null) els.minScore.value = prefs.minScore;
+  if (prefs.portal != null) els.portalFilter.value = prefs.portal;
+  if (prefs.pdfOnly != null) els.pdfOnly.checked = prefs.pdfOnly;
+  if (prefs.sortBy) els.sortBy.value = prefs.sortBy;
+  if (prefs.dateFrom) els.dateFrom.value = prefs.dateFrom;
+  if (prefs.dateTo) els.dateTo.value = prefs.dateTo;
+}
+
+async function saveFilterPrefs() {
+  await chrome.storage.local.set({
+    [FILTER_KEY]: {
+      minScore: els.minScore.value,
+      portal: els.portalFilter.value,
+      pdfOnly: els.pdfOnly.checked,
+      sortBy: els.sortBy.value,
+      dateFrom: els.dateFrom.value,
+      dateTo: els.dateTo.value,
+    },
+  });
+}
+
+function onFilterChange() {
+  saveFilterPrefs();
+  renderJobs();
+}
+
 // ---- wiring ----------------------------------------------------------
 
 els.refreshBtn.addEventListener("click", loadJobs);
-els.minScore.addEventListener("input", renderJobs);
-els.portalFilter.addEventListener("change", renderJobs);
-els.pdfOnly.addEventListener("change", renderJobs);
+els.minScore.addEventListener("input", onFilterChange);
+els.portalFilter.addEventListener("change", onFilterChange);
+els.pdfOnly.addEventListener("change", onFilterChange);
+els.sortBy.addEventListener("change", onFilterChange);
+els.dateFrom.addEventListener("change", onFilterChange);
+els.dateTo.addEventListener("change", onFilterChange);
+els.dateClearBtn.addEventListener("click", () => {
+  els.dateFrom.value = "";
+  els.dateTo.value = "";
+  onFilterChange();
+});
 els.fillBtn.addEventListener("click", triggerFill);
 els.applySelectedBtn.addEventListener("click", applySelected);
 els.clearSelBtn.addEventListener("click", () => {
@@ -283,6 +356,7 @@ els.selectAll.addEventListener("change", () => {
 });
 
 (async () => {
+  await loadFilterPrefs();
   await loadSelection();
   const ok = await checkBridge();
   if (ok) await loadJobs();

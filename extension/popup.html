@@ -37,6 +37,23 @@
       <input type="checkbox" id="pdf-only" checked/>
     </label>
   </div>
+  <div class="filters">
+    <label>sort
+      <select id="sort-by">
+        <option value="score">score (high → low)</option>
+        <option value="date-desc">date (newest first)</option>
+        <option value="date-asc">date (oldest first)</option>
+        <option value="company">company A → Z</option>
+      </select>
+    </label>
+    <label>from
+      <input type="date" id="date-from"/>
+    </label>
+    <label>to
+      <input type="date" id="date-to"/>
+    </label>
+    <button id="date-clear-btn" class="ghost">clear dates</button>
+  </div>
   <div class="select-bar">
     <label class="select-all-label">
       <input type="checkbox" id="select-all"/> select all visible
