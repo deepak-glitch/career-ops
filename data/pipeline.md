@@ -777,6 +777,17 @@
 - [!] https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798 | Palantir | Forward Deployed AI Engineer | London, United Kingdom — Hybrid — moved to Procesadas (#551) 2026-05-05 (1.5/5 — London UK Hybrid; F-1 OPT US-only geo veto (UK Skilled Worker visa separate process); stack 1:1 if US analogue opens; SKIP)
 - [!] https://job-boards.greenhouse.io/heraldapi/jobs/4976239008 | Herald | Software Engineer - AI Products | New York, NY — Hybrid (relocation stipend) — moved to Procesadas (#552) 2026-05-05 (3.7/5 — NYC Hybrid Series A insurtech (Lightspeed/Brewer Lane/Afore/Underscore); Python+LLMs+vector DBs+Docker+Postgres 1:1; 2+y matches Deepak 2.5y; $140-200K + relocation stipend; visa question asked (not vetoed); explicit open-framing; strong fit; PDF generated)
 
+<!-- Overnight 2026-05-05T22:30Z batch — Level 3 WebSearch additions (Greenhouse PitchBook/QualifiedHealth/Roadie + Adobe careers FDE Creative + Loop AI new grad + Together AI ML Research + apexanalytix) -->
+- [!] https://job-boards.greenhouse.io/pitchbookdata/jobs/4614594006 | PitchBook Data | Machine Learning Engineer | Seattle, WA — On-site 5d/wk — moved to Procesadas (#553) 2026-05-05 (3.0/5 — Morningstar subsidiary capital-markets data; $125-180K + 10% bonus; 2+y matches Deepak 2.5y; NLP/GenAI/LLM Python+SQL+PyTorch+Docker 1:1 stack; PitchBook H-1B sponsor history; relocation + sponsorship verify in screen; PDF generated)
+- [!] https://job-boards.greenhouse.io/qualifiedhealth/jobs/4058138008 | Qualified Health | Machine Learning Engineer | Palo Alto, CA — error: posting closed (Greenhouse API HTTP 404 on 2026-05-05T22:30Z; only Applied AI 4937396008 active — already evaluated as #457); archived
+- [!] https://careers.adobe.com/us/en/job/R166206/Forward-Deployed-AI-Engineer-Creative-Technologist | Adobe | Creative Pipeline Specialist - Forward Deployed Engineering | San Jose, CA — error: posting filled ("the job you are trying to apply for has been filled" 2026-05-05T22:30Z); archived
+- [!] https://job-boards.greenhouse.io/roadie/jobs/8479096002 | Roadie | AI Engineer Intern - Summer 2026 | Atlanta, GA / Remote-US — error: posting closed (Greenhouse API HTTP 404 on 2026-05-05T22:30Z); archived
+- [!] https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | 2026 New Grad - Software Engineer, AI | San Francisco, CA / NYC — error: posting closed (Greenhouse API HTTP 404 on 2026-05-05T22:30Z; substituted active Loop AI Engineer 5391540004 — see #554)
+- [!] https://job-boards.greenhouse.io/loop/jobs/5391540004 | Loop | AI Engineer | San Francisco, CA — On-site/Hybrid — moved to Procesadas (#554) 2026-05-05 (3.8/5 — supply-chain freight automation; multimodal LLM + agentic doc-extraction 1:1 fit (Manga Lens 4-provider + Agentic Healthcare Claims schema-validated JSON contracts); $130-200K + equity; 1+y floor matches Deepak 2.5y; Loop H-1B sponsor history; relocation + sponsorship verify in screen; PDF generated)
+- [!] https://job-boards.greenhouse.io/togetherai/jobs/4835315007 | Together AI | Machine Learning / Research Engineer (New Grad) | San Francisco, CA — error: posting closed (Greenhouse API HTTP 404 on 2026-05-05T22:30Z; substituted active Together AI ML Engineer 4626694007 — see #555)
+- [!] https://job-boards.greenhouse.io/togetherai/jobs/4626694007 | Together AI | Machine Learning Engineer | San Francisco, CA — On-site — moved to Procesadas (#555) 2026-05-05 (2.5/5 — LLM inference infrastructure (vLLM/SGLang/Go/Rust/C++); 5+y senior floor (50% YOE gap on Deepak 2.5y); inference internals stack pivot from RAG/agentic; SKIP unless recruiter down-levels)
+- [!] https://himalayas.app/companies/apexanalytix/jobs/ai-engineer | apexanalytix | AI Engineer | Remote-US — error: Himalayas page returned aggregated listing on 2026-05-05T22:30Z (no apexanalytix-specific JD content; sandbox stale); retry next run with cached/aggregator copy
+
 
 
 ## Procesadas
@@ -1125,4 +1136,6 @@
 - [x] #542 | https://job-boards.greenhouse.io/interwellhealth/jobs/5136653008 | Interwell Health | Machine Learning Engineer | Remote — United States | 3.2/5 | PDF ✅
 - [x] #548 | https://jobs.ashbyhq.com/neara/08bc82a3-aff3-4060-b57c-a7788dd75d8f | Neara | Forward Deployed Engineer (Los Angeles) | Los Angeles, CA — Hybrid | 3.0/5 | PDF ✅
 - [x] #550 | https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4416948 | National Debt Relief | Applied AI Engineer | Remote — USA Only | 3.0/5 | PDF ✅
+- [x] #553 | https://job-boards.greenhouse.io/pitchbookdata/jobs/4614594006 | PitchBook Data | Machine Learning Engineer | Seattle, WA — On-site 5d/wk | 3.0/5 | PDF ✅
+- [x] #554 | https://job-boards.greenhouse.io/loop/jobs/5391540004 | Loop | AI Engineer | San Francisco, CA — On-site/Hybrid | 3.8/5 | PDF ✅
 - [x] #552 | https://job-boards.greenhouse.io/heraldapi/jobs/4976239008 | Herald | Software Engineer - AI Products | New York, NY — Hybrid (relocation stipend) | 3.7/5 | PDF ✅
