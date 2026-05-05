@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 550 | 2026-05-05 | National Debt Relief | Applied AI Engineer | 3.0/5 | Evaluated | ✅ | [550](reports/550-national-debt-relief-applied-ai-2026-05-05.md) | Remote-USA $129.5-149K consumer-finance Python+LangChain+RAG+vector DB 1:1; 4y+2y production GenAI senior floor (~50% YOE gap on Deepak 2.5y); comp below Applied AI median; PDF generated |
+| 552 | 2026-05-05 | Herald | Software Engineer - AI Products | 3.7/5 | Evaluated | ✅ | [552](reports/552-herald-software-engineer-ai-products-2026-05-05.md) | NYC Hybrid Series A insurtech (Lightspeed/Brewer Lane); Python+LLMs+vector DBs+Docker+Postgres 1:1; 2+y matches Deepak 2.5y; $140-200K + relocation stipend; visa question asked (not vetoed); strong fit; PDF generated |
 | 548 | 2026-05-05 | Neara | Forward Deployed Engineer (Los Angeles) | 3.0/5 | Evaluated | ✅ | [548](reports/548-neara-fde-la-2026-05-05.md) | FDE archetype 1:1; TS/JS-primary stack pivot; $130-250K + equity; LA Hybrid US-base; PDF generated |
 | 540 | 2026-05-05 | Cohere Health | Machine Learning Engineer II | 4.1/5 | Evaluated | ✅ | [540](reports/540-cohere-health-ml-engineer-ii-2026-05-05.md) | Strongest fit of batch: 2-4y band matches 2.5y; PyTorch+SLM+clinical ML 1:1; $119-140K Remote-US; sponsorship clarify; PDF generated |
 | 542 | 2026-05-05 | Interwell Health | Machine Learning Engineer | 3.2/5 | Evaluated | ✅ | [542](reports/542-interwell-health-ml-engineer-2026-05-05.md) | 3+y MLOps Spark/Databricks senior floor (17% YOE gap); healthcare kidney care; LLM-based solutions plus; PDF generated |

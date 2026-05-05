@@ -768,14 +768,14 @@
 - [!] https://himalayas.app/companies/genesys/jobs/genesys-cloud-ai-forward-deployed-engineer | Genesys | Genesys Cloud AI Forward Deployed Engineer | Remote — verify — error: Himalayas HTTP 404 on 2026-05-05T12:05Z; archived
 - [!] https://jobs.ashbyhq.com/neara/08bc82a3-aff3-4060-b57c-a7788dd75d8f | Neara | Forward Deployed Engineer - USA (Los Angeles) | Los Angeles, CA — Hybrid — moved to Procesadas (#548) 2026-05-05 (3.0/5 — FDE archetype 1:1 customer-embedded + SDK/API + custom solutions; TS/JS-primary stack pivot; $130-250K + equity wide LA band; PDF generated)
 - [!] https://weworkremotely.com/remote-jobs/bitovi-applied-ai-engineer-consultant | Bitovi | Applied AI Engineer Consultant | Remote — verify — error: WeWorkRemotely HTTP 403 + Bitovi /jobs HTTP 404 on 2026-05-05T12:05Z; archived
-- [ ] https://jobs.ashbyhq.com/legora/e4ce19dc-e800-42cd-835f-dcc43b96d004 | Legora | Software Engineer - AI Enablement & Workplace Technology | Stockholm HQ
+- [!] https://jobs.ashbyhq.com/legora/e4ce19dc-e800-42cd-835f-dcc43b96d004 | Legora | Software Engineer - AI Enablement & Workplace Technology | Stockholm HQ — On-site — moved to Procesadas (#549) 2026-05-05 (1.5/5 — Stockholm-HQ on-site + 6+y senior floor + Claude Code production core req = triple veto; F-1 OPT geo block; SKIP)
 
 <!-- Overnight 2026-05-05T20:30Z batch — Level 3 WebSearch additions (Lever Palantir/Welocalize + Greenhouse Herald + Remotive National Debt Relief + YC Rejoy Health) -->
-- [ ] https://www.workatastartup.com/jobs/61911 | Rejoy Health | AI Engineer | Remote — verify
-- [ ] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4416948 | National Debt Relief | Applied AI Engineer | Remote — USA
-- [ ] https://jobs.lever.co/welocalize/3e54f14f-96f7-49cd-87aa-a9b0c4042b8c | Welocalize | Forward Deployment Engineer | Remote — verify
-- [ ] https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798 | Palantir | Forward Deployed AI Engineer | Remote — verify
-- [ ] https://job-boards.greenhouse.io/heraldapi/jobs/4976239008 | Herald | Software Engineer - AI Products | Remote — verify
+- [!] https://www.workatastartup.com/jobs/61911 | Rejoy Health | AI Engineer | Palo Alto — error: posting REMOVED (workatastartup.com HTTP 404 + YC company page reads "No jobs at Rejoy Health are currently posted on the YC platform" 2026-05-05T20:30Z); archived
+- [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4416948 | National Debt Relief | Applied AI Engineer | Remote — USA — moved to Procesadas (#550) 2026-05-05 (3.0/5 — consumer-finance/debt-relief Python+LangChain+RAG+vector DB 1:1; 4y total + 2y production GenAI senior floor (~50% YOE gap on Deepak 2.5y); $129.5-149K below Applied AI median; visa unverified; PDF generated)
+- [!] https://jobs.lever.co/welocalize/3e54f14f-96f7-49cd-87aa-a9b0c4042b8c | Welocalize | Forward Deployment Engineer | Remote — verify — error: posting closed (Lever API "Document not found" on 2026-05-05T20:30Z; Welocalize Lever board fully removed); archived
+- [!] https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798 | Palantir | Forward Deployed AI Engineer | London, United Kingdom — Hybrid — moved to Procesadas (#551) 2026-05-05 (1.5/5 — London UK Hybrid; F-1 OPT US-only geo veto (UK Skilled Worker visa separate process); stack 1:1 if US analogue opens; SKIP)
+- [!] https://job-boards.greenhouse.io/heraldapi/jobs/4976239008 | Herald | Software Engineer - AI Products | New York, NY — Hybrid (relocation stipend) — moved to Procesadas (#552) 2026-05-05 (3.7/5 — NYC Hybrid Series A insurtech (Lightspeed/Brewer Lane/Afore/Underscore); Python+LLMs+vector DBs+Docker+Postgres 1:1; 2+y matches Deepak 2.5y; $140-200K + relocation stipend; visa question asked (not vetoed); explicit open-framing; strong fit; PDF generated)
 
 
 
@@ -1124,3 +1124,5 @@
 - [x] #537 | https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer | Long Island City, NY — Hybrid | 3.5/5 | PDF ✅
 - [x] #542 | https://job-boards.greenhouse.io/interwellhealth/jobs/5136653008 | Interwell Health | Machine Learning Engineer | Remote — United States | 3.2/5 | PDF ✅
 - [x] #548 | https://jobs.ashbyhq.com/neara/08bc82a3-aff3-4060-b57c-a7788dd75d8f | Neara | Forward Deployed Engineer (Los Angeles) | Los Angeles, CA — Hybrid | 3.0/5 | PDF ✅
+- [x] #550 | https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4416948 | National Debt Relief | Applied AI Engineer | Remote — USA Only | 3.0/5 | PDF ✅
+- [x] #552 | https://job-boards.greenhouse.io/heraldapi/jobs/4976239008 | Herald | Software Engineer - AI Products | New York, NY — Hybrid (relocation stipend) | 3.7/5 | PDF ✅
