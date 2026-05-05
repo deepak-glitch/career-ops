@@ -770,6 +770,13 @@
 - [!] https://weworkremotely.com/remote-jobs/bitovi-applied-ai-engineer-consultant | Bitovi | Applied AI Engineer Consultant | Remote — verify — error: WeWorkRemotely HTTP 403 + Bitovi /jobs HTTP 404 on 2026-05-05T12:05Z; archived
 - [ ] https://jobs.ashbyhq.com/legora/e4ce19dc-e800-42cd-835f-dcc43b96d004 | Legora | Software Engineer - AI Enablement & Workplace Technology | Stockholm HQ
 
+<!-- Overnight 2026-05-05T20:30Z batch — Level 3 WebSearch additions (Lever Palantir/Welocalize + Greenhouse Herald + Remotive National Debt Relief + YC Rejoy Health) -->
+- [ ] https://www.workatastartup.com/jobs/61911 | Rejoy Health | AI Engineer | Remote — verify
+- [ ] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-4416948 | National Debt Relief | Applied AI Engineer | Remote — USA
+- [ ] https://jobs.lever.co/welocalize/3e54f14f-96f7-49cd-87aa-a9b0c4042b8c | Welocalize | Forward Deployment Engineer | Remote — verify
+- [ ] https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798 | Palantir | Forward Deployed AI Engineer | Remote — verify
+- [ ] https://job-boards.greenhouse.io/heraldapi/jobs/4976239008 | Herald | Software Engineer - AI Products | Remote — verify
+
 
 
 ## Procesadas
