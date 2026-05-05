@@ -41,3 +41,6 @@ bun.lock
 .claude/memory/
 career-dashboard
 package-lock.json
+.venv/
+data/auto-apply/forms/
+data/auto-apply/prefilled/

@@ -18,6 +18,8 @@
     "auto-apply": "node auto-apply.mjs",
     "auto-apply:plan": "node auto-apply.mjs --plan",
     "auto-apply:bridge": "node auto-apply-bridge.mjs",
+    "auto-apply:prefill": "node prefill.mjs",
+    "auto-apply:scrape": "./.venv/bin/python3 scrape-forms.py",
     "gemini:eval": "node gemini-eval.mjs"
   },
   "keywords": [

@@ -304,6 +304,30 @@
 
   // ---------- main fill orchestration -----------------------------------
 
+  // Look up a prefilled answer for the discovered field by label+kind.
+  // Returns null if no match. The scraper's labels can drift slightly from
+  // the live DOM (e.g. extra whitespace / ":" / "*"), so we normalize and
+  // compare.
+  function normLabel(s) {
+    return String(s || "").toLowerCase().replace(/\*+$/, "").replace(/[:*]/g, "")
+      .replace(/\s+/g, " ").trim();
+  }
+  function findPrefilled(prefill, field) {
+    if (!prefill || !prefill.fields) return null;
+    const wantLabel = normLabel(field.label);
+    if (!wantLabel) return null;
+    const candidates = prefill.fields.filter((p) => p.kind === field.kind);
+    // 1. exact normalized label match
+    const exact = candidates.find((p) => normLabel(p.label) === wantLabel);
+    if (exact) return exact;
+    // 2. one contains the other (handles "Are you authorized…" truncation)
+    const partial = candidates.find((p) => {
+      const pl = normLabel(p.label);
+      return pl && (pl.includes(wantLabel) || wantLabel.includes(pl));
+    });
+    return partial || null;
+  }
+
   async function runFill(bridge) {
     // Click apply entry-point if the form isn't visible yet.
     const initialFields = discoverFields();
@@ -317,13 +341,27 @@
 
     const url = location.href;
     const portal = detectPortal(url);
+
+    // Try the pre-scraped/prefilled answers first; fall back to /resolve
+    // (live applicant + drafts) if no prefill exists.
+    let prefill = null;
+    try {
+      const pre = await fetch(`${bridge}/prefill?url=${encodeURIComponent(url)}`);
+      if (pre.ok) prefill = await pre.json();
+    } catch {}
+
     const resp = await fetch(`${bridge}/resolve?url=${encodeURIComponent(url)}`);
     if (!resp.ok) throw new Error(`bridge /resolve failed: ${resp.status}`);
     const data = await resp.json();
     const applicant = data.applicant || {};
     const drafts = data.drafts || {};
-    const resumeUrl = data.resumePdfUrl ? bridge + data.resumePdfUrl : null;
-    const resumeName = data.slug ? `cv-deepak-mallampati-${data.slug}.pdf` : "cv-deepak-mallampati.pdf";
+    const resumeUrl = (prefill?.resumePdfUrl || data.resumePdfUrl)
+      ? bridge + (prefill?.resumePdfUrl || data.resumePdfUrl)
+      : null;
+    const resumeSlug = prefill?.resumeSlug || data.slug;
+    const resumeName = resumeSlug
+      ? `cv-deepak-mallampati-${resumeSlug}.pdf`
+      : "cv-deepak-mallampati.pdf";
 
     const fields = discoverFields();
     const summary = {
@@ -332,18 +370,20 @@
       filled: 0,
       skipped: 0,
       needsReview: 0,
+      prefillUsed: 0,
       gaps: [],
     };
 
     for (const field of fields) {
       let value = null;
       let confidence = "needs-review";
+      let source = null;
 
       if (field.kind === "file") {
         if (isResumeUpload(field) && resumeUrl) {
           try {
             const ok = await fillFileFromUrl(field.el, resumeUrl, resumeName);
-            if (ok) { summary.filled++; confidence = "high"; continue; }
+            if (ok) { summary.filled++; continue; }
           } catch (e) { /* fall through */ }
         }
         summary.skipped++;
@@ -352,13 +392,25 @@
         continue;
       }
 
-      const direct = answerFor(applicant, field.label);
-      if (direct) {
-        value = direct; confidence = "high";
-      } else {
-        const narrativeKey = classifyNarrative(field.label);
-        if (narrativeKey && drafts[narrativeKey]) {
-          value = drafts[narrativeKey]; confidence = "draft";
+      // 1. prefilled answer (best — already validated against the form schema)
+      const pre = findPrefilled(prefill, field);
+      if (pre && pre.value != null && pre.confidence !== "needs-review") {
+        value = pre.matchedOption?.value ?? pre.value;
+        confidence = pre.confidence;
+        source = "prefill";
+        summary.prefillUsed++;
+      }
+
+      // 2. fall back to live alias / narrative drafts
+      if (value == null) {
+        const direct = answerFor(applicant, field.label);
+        if (direct) {
+          value = direct; confidence = "high"; source = "live";
+        } else {
+          const narrativeKey = classifyNarrative(field.label);
+          if (narrativeKey && drafts[narrativeKey]) {
+            value = drafts[narrativeKey]; confidence = "draft"; source = "draft";
+          }
         }
       }
 
@@ -389,17 +441,18 @@
         event: "fill",
         url,
         portal,
-        company: data.report?.company || "",
-        role: data.report?.role || "",
-        slug: data.slug || "",
+        company: prefill?.company || data.report?.company || "",
+        role: prefill?.role || data.report?.role || "",
+        slug: prefill?.slug || data.slug || "",
         filled: summary.filled,
         skipped: summary.skipped,
         needsReview: summary.needsReview,
-        notes: summary.gaps.map((g) => g.label).join("; "),
+        notes: `prefill=${summary.prefillUsed}; gaps=${summary.gaps.map((g) => g.label).join("; ")}`,
       }),
     }).catch(() => {});
 
     summary.report = data.report;
+    summary.prefill = !!prefill;
     return summary;
   }
 

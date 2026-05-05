@@ -23,6 +23,7 @@ import {
   mkdirSync,
   createReadStream,
   statSync,
+  readdirSync,
 } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -93,6 +94,15 @@ function listJobs() {
     const slug = reportFile ? reportSlug(reportFile) : null;
     const pdfPath = slug ? findPdfForSlug(slug) : null;
     const score = parseFloat((r.score || "").split("/")[0]) || null;
+    const prefillPath = slug
+      ? join(PROJECT_ROOT, "data", "auto-apply", "prefilled", `${slug}.json`)
+      : null;
+    let prefillSummary = null;
+    if (prefillPath && existsSync(prefillPath)) {
+      try {
+        prefillSummary = JSON.parse(readFileSync(prefillPath, "utf8")).summary;
+      } catch {}
+    }
     out.push({
       num: parseInt(r.num, 10),
       company: r.company,
@@ -105,12 +115,27 @@ function listJobs() {
       portal: detectPortal(url),
       reportFile,
       hasPdf: Boolean(pdfPath),
+      hasPrefill: Boolean(prefillSummary),
+      prefillSummary,
       notes: r.notes,
     });
   }
   // Sort: highest score first, then most recent.
   out.sort((a, b) => (b.score ?? 0) - (a.score ?? 0) || (b.date > a.date ? 1 : -1));
   return out;
+}
+
+function findPrefillForUrl(url) {
+  const dir = join(PROJECT_ROOT, "data", "auto-apply", "prefilled");
+  if (!existsSync(dir)) return null;
+  for (const f of readdirSync(dir)) {
+    if (!f.endsWith(".json")) continue;
+    try {
+      const data = JSON.parse(readFileSync(join(dir, f), "utf8"));
+      if (data.url === url) return data;
+    } catch {}
+  }
+  return null;
 }
 
 // --- response helpers --------------------------------------------------
@@ -145,6 +170,18 @@ function handleHealth(res) {
 
 function handleJobs(res) {
   json(res, { jobs: listJobs() });
+}
+
+function handlePrefill(req, res, urlObj) {
+  const target = urlObj.searchParams.get("url");
+  if (!target) return badRequest(res, "missing ?url=");
+  const data = findPrefillForUrl(target);
+  if (!data) return notFound(res, "no prefill for this url; run scrape-forms.py + prefill.mjs");
+  // Replace absolute filesystem path with the bridge URL the extension can fetch.
+  if (data.resumeSlug) {
+    data.resumePdfUrl = `/pdf?slug=${encodeURIComponent(data.resumeSlug)}`;
+  }
+  json(res, data);
 }
 
 function handleResolve(req, res, urlObj) {
@@ -267,6 +304,8 @@ const server = createServer((req, res) => {
     if (path === "/jobs" && req.method === "GET") return handleJobs(res);
     if (path === "/resolve" && req.method === "GET")
       return handleResolve(req, res, urlObj);
+    if (path === "/prefill" && req.method === "GET")
+      return handlePrefill(req, res, urlObj);
     if (path === "/pdf" && req.method === "GET")
       return handlePdf(req, res, urlObj);
     if (path === "/audit" && req.method === "POST")
@@ -283,6 +322,7 @@ server.listen(PORT, "127.0.0.1", () => {
   console.log(`  GET  /health`);
   console.log(`  GET  /jobs`);
   console.log(`  GET  /resolve?url=<jobUrl>`);
+  console.log(`  GET  /prefill?url=<jobUrl>`);
   console.log(`  GET  /pdf?slug=<slug>`);
   console.log(`  POST /audit`);
 });

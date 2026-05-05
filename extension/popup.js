@@ -82,6 +82,9 @@ function renderJobs() {
     check.addEventListener("change", () => toggleSelected(job.url, check.checked, li));
     const body = document.createElement("div");
     body.className = "body";
+    const prefillBadge = job.hasPrefill
+      ? `<span class="prefill-ok" title="all ${job.prefillSummary?.total ?? "?"} fields prefilled (${job.prefillSummary?.high ?? "?"} high · ${job.prefillSummary?.draft ?? "?"} draft · ${job.prefillSummary?.needsReview ?? "?"} review)">prefilled ✓</span>`
+      : `<span class="prefill-no">no prefill</span>`;
     body.innerHTML = `
       <div class="row1">
         <span class="company">${escape(job.company)}</span>
@@ -92,6 +95,7 @@ function renderJobs() {
         <span>#${job.num}</span>
         <span>${job.portal}</span>
         <span class="${job.hasPdf ? "" : "no-pdf"}">${job.hasPdf ? "PDF ✓" : "no PDF"}</span>
+        ${prefillBadge}
         <span>${job.date}</span>
       </div>
     `;
@@ -200,19 +204,30 @@ async function inspectCurrentTab() {
     return;
   }
   try {
-    const r = await fetch(`${BRIDGE}/resolve?url=${encodeURIComponent(tab.url)}`);
-    const j = await r.json();
+    const [resolveResp, prefillResp] = await Promise.all([
+      fetch(`${BRIDGE}/resolve?url=${encodeURIComponent(tab.url)}`).then((r) => r.json()),
+      fetch(`${BRIDGE}/prefill?url=${encodeURIComponent(tab.url)}`).then((r) => r.ok ? r.json() : null).catch(() => null),
+    ]);
+    const j = resolveResp;
+    let html = "";
     if (!j.report) {
-      els.currentInfo.innerHTML =
+      html =
         `<div>portal: <b>${escape(j.portal)}</b></div>` +
         `<div>no career-ops report for this URL</div>` +
         `<div>(will fill applicant fields, no tailored PDF)</div>`;
     } else {
-      els.currentInfo.innerHTML =
+      html =
         `<div><b>${escape(j.report.company || "?")}</b> — ${escape(j.report.role || "?")}</div>` +
         `<div>portal: ${escape(j.portal)} · slug: ${escape(j.slug || "—")}</div>` +
         `<div>resume: ${j.resumePdfUrl ? "✓" : "✗"}</div>`;
     }
+    if (prefillResp?.summary) {
+      const s = prefillResp.summary;
+      html += `<div class="prefill-info">prefill: ${s.high}/${s.total} high · ${s.draft} draft · ${s.needsReview} review</div>`;
+    } else {
+      html += `<div class="prefill-info muted">no prefill (run scrape-forms.py + prefill.mjs)</div>`;
+    }
+    els.currentInfo.innerHTML = html;
     els.fillBtn.disabled = false;
   } catch (e) {
     els.currentInfo.textContent = `bridge error: ${e.message}`;

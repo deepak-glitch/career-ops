@@ -109,10 +109,51 @@ batch over multiple sessions.
 | Path | Returns |
 |---|---|
 | `GET /health` | Liveness check |
-| `GET /jobs` | Evaluated jobs + slug + PDF presence + portal |
-| `GET /resolve?url=<u>` | Applicant fields + narrative drafts + resume URL |
+| `GET /jobs` | Evaluated jobs + slug + PDF presence + prefill summary + portal |
+| `GET /resolve?url=<u>` | Applicant fields + narrative drafts + resume URL (live) |
+| `GET /prefill?url=<u>` | Pre-scraped + pre-mapped per-field answers |
 | `GET /pdf?slug=<s>` | Streams the tailored PDF |
 | `POST /audit` | Logs fill events to `data/auto-apply/audit.tsv` |
+
+### Pre-scraping form schemas (Scrapling)
+
+The extension can fill any form from `/resolve` alone (live discovery in the
+page), but pre-scraping each posting's form ahead of time gives:
+
+- **Per-field validation against the actual select / radio options.** If
+  the form expects `"Yes, I am authorized"` not just `"Yes"`, the prefill
+  step picks the matching option and stores it. Live discovery only knows
+  options once the page is open.
+- **Custom-question discovery before you open the tab.** Workday-style
+  unique questions surface in the form schema so you can review the gaps.
+- **Anti-bot + JS rendering at scrape time, not fill time** — the extension
+  itself runs in your real browser, but the scraper uses Camoufox-based
+  stealth (Scrapling's `StealthyFetcher`) so we can crawl postings without
+  burning sessions.
+
+Workflow:
+
+```bash
+# one-time setup: install Scrapling + browsers
+python3 -m venv .venv && source .venv/bin/activate
+pip install "scrapling[fetchers]"
+
+# scrape forms for every evaluated job with score >= 4.0
+npm run auto-apply:scrape -- --min-score 4.0
+# or for one URL
+npm run auto-apply:scrape -- --url <jobUrl>
+
+# build the answer files (re-run whenever applicant data or reports change)
+npm run auto-apply:prefill
+
+# start the bridge (extension reads prefill via /prefill?url=...)
+npm run auto-apply:bridge
+```
+
+After this, the popup shows a `prefilled ✓` badge per job and a per-field
+breakdown (`high / draft / review`) in the current-page panel. Clicking
+**Fill this form** uses the prefilled answers first and only falls back to
+live discovery for fields the schema didn't cover.
 
 ### Architecture
 
