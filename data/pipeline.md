@@ -768,6 +768,8 @@
 - [!] https://himalayas.app/companies/genesys/jobs/genesys-cloud-ai-forward-deployed-engineer | Genesys | Genesys Cloud AI Forward Deployed Engineer | Remote — verify — error: Himalayas HTTP 404 on 2026-05-05T12:05Z; archived
 - [!] https://jobs.ashbyhq.com/neara/08bc82a3-aff3-4060-b57c-a7788dd75d8f | Neara | Forward Deployed Engineer - USA (Los Angeles) | Los Angeles, CA — Hybrid — moved to Procesadas (#548) 2026-05-05 (3.0/5 — FDE archetype 1:1 customer-embedded + SDK/API + custom solutions; TS/JS-primary stack pivot; $130-250K + equity wide LA band; PDF generated)
 - [!] https://weworkremotely.com/remote-jobs/bitovi-applied-ai-engineer-consultant | Bitovi | Applied AI Engineer Consultant | Remote — verify — error: WeWorkRemotely HTTP 403 + Bitovi /jobs HTTP 404 on 2026-05-05T12:05Z; archived
+- [ ] https://jobs.ashbyhq.com/legora/e4ce19dc-e800-42cd-835f-dcc43b96d004 | Legora | Software Engineer - AI Enablement & Workplace Technology | Stockholm HQ
+
 
 
 ## Procesadas
