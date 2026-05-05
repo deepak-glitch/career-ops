@@ -745,6 +745,18 @@
 - [!] https://www.fwddeploy.com/jobs/forward-deployed-ai-engineer-3768d818 | Jobgether (fwddeploy listing) | Forward Deployed AI Engineer | Remote — United States — moved to Procesadas (#534) 2026-05-05 (2.0/5 — anonymized FinServ end client (fraud/compliance); 5+y senior floor (2x gap on Deepak 2.5y); comp undisclosed; same recruiter-aggregator pattern as #525; SKIP unless recruiter names client + down-levels)
 - [!] https://remotive.com/remote/jobs/ai-ml/ai-cloud-engineering-4294654 | Remote Raven | AI & Cloud Engineering | Worldwide Remote — moved to Procesadas (#535) 2026-05-05 (1.2/5 — **$10/hr full-time** for 3+y AI w/ HIPAA+SOC2+AWS+LangChain+RAG; offshore-staffing economics; F-1 OPT prevailing-wage incompatible; SKIP)
 
+<!-- Overnight 2026-05-05T10:30Z batch — Level 3 WebSearch additions (Greenhouse healthcare/fintech + Ashby + Workable HF) -->
+- [!] https://job-boards.greenhouse.io/sezzle/jobs/7645199003 | Sezzle | AI Engineer I | error: posting closed (Greenhouse API HTTP 404 on 2026-05-05T10:30Z); archived
+- [!] https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer | Long Island City, NY — Hybrid — moved to Procesadas (#537) 2026-05-05 (3.5/5 — NYC hybrid martech LLM/agents/RAG fit; multi-level $90.9-254.1K; sponsorship not vetoed; PDF generated)
+- [!] https://apply.workable.com/huggingface/j/6B3D67931F/ | Hugging Face | On-device ML Engineer | Remote — United States — moved to Procesadas (#538) 2026-05-05 (2.2/5 — Apple Silicon mobile/desktop ML CoreML/MLX/Swift; off Deepak archetype; SKIP)
+- [!] https://jobs.ashbyhq.com/magicschool/fd3d740a-78a9-4395-b481-5503e4c43dd3 | MagicSchool | GenAI Engineer | error: posting closed (Ashby board no longer lists this jobId on 2026-05-05T10:30Z; only 7 active roles, none GenAI Engineer); archived
+- [!] https://job-boards.greenhouse.io/coherehealth/jobs/7628281003 | Cohere Health | Machine Learning Engineer II | Remote — United States (~5% travel) — moved to Procesadas (#540) 2026-05-05 (4.1/5 — strongest fit of batch; 2-4y band matches 2.5y; PyTorch+SLM+clinical ML 1:1; $119-140K; sponsorship clarify; PDF generated)
+- [!] https://job-boards.greenhouse.io/coherehealth/jobs/6645231003 | Cohere Health | Machine Learning Engineer I | error: posting closed (Greenhouse API HTTP 404 on 2026-05-05T10:30Z; only ML II variant active); archived
+- [!] https://job-boards.greenhouse.io/interwellhealth/jobs/5136653008 | Interwell Health | Machine Learning Engineer | Remote — United States — moved to Procesadas (#542) 2026-05-05 (3.2/5 — 3+y MLOps Spark/Databricks senior floor (17% YOE gap); kidney care; LLM-based plus; PDF generated)
+- [!] https://jobs.ashbyhq.com/brainco/58cff031-5b0b-4b92-a1ea-2ebf2495d89d | Brain Co. | AI/ML Engineer | San Francisco Bay Area — On-site — moved to Procesadas (#543) 2026-05-05 (3.6/5 — GenAI Agents/RAG 1:1; SF Bay relocation; political founder + sovereign-gov client flag for personal review; PDF generated)
+- [!] https://jobs.ashbyhq.com/openai/16df5b48-917d-41d8-b0c6-dbfdf11400f7 | OpenAI | AI Deployment Engineer, Startups | Singapore — Hybrid 3d/wk — moved to Procesadas (#544) 2026-05-05 (2.0/5 — Singapore office voids F-1 OPT; GTM/customer-facing role bar; SKIP)
+- [!] https://job-boards.greenhouse.io/snorkelai/jobs/5811245004 | Snorkel AI | Forward Deployed Researcher - Data as a Service | NYC/RWC/SF Hybrid + Remote-US — moved to Procesadas (#545) 2026-05-05 (2.5/5 — 4+y senior research floor (38% YOE gap); frontier-lab eval/RLHF research framing; SKIP)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -1085,3 +1097,7 @@
 - [x] #526 | https://job-boards.greenhouse.io/cresta/jobs/5155673008 | Cresta | AI Language Engineer | Remote — United States | 3.4/5 | PDF ✅
 - [x] #530 | https://remotive.com/remote/jobs/ai-ml/ai-engineer-4498339 | dexter health | AI Engineer | Worldwide remote (DACH-anchored) | 3.3/5 | PDF ✅
 - [x] #531 | https://job-boards.greenhouse.io/federato/jobs/5206958008 | Federato | Forward Deployed Machine Learning Engineer | Remote — United States or Canada | 3.6/5 | PDF ✅
+- [x] #540 | https://job-boards.greenhouse.io/coherehealth/jobs/7628281003 | Cohere Health | Machine Learning Engineer II | Remote — United States (~5% travel) | 4.1/5 | PDF ✅
+- [x] #543 | https://jobs.ashbyhq.com/brainco/58cff031-5b0b-4b92-a1ea-2ebf2495d89d | Brain Co. | AI/ML Engineer | San Francisco Bay Area — On-site | 3.6/5 | PDF ✅
+- [x] #537 | https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer | Long Island City, NY — Hybrid | 3.5/5 | PDF ✅
+- [x] #542 | https://job-boards.greenhouse.io/interwellhealth/jobs/5136653008 | Interwell Health | Machine Learning Engineer | Remote — United States | 3.2/5 | PDF ✅
