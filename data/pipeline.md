@@ -735,6 +735,16 @@
 - [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-3818612 | Confiz | AI Engineer | Pakistan — Remote (Lahore HQ) — moved to Procesadas (#529) 2026-05-05 (1.7/5 — 3+y ML/DL/NLP + Azure + GenAI; F-1 OPT US-base geo veto + comp opacity (Pakistan IT-services market); SKIP)
 - [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-3877979 | Netguru | AI Engineer | Remote — Europe/Poland — error: Remotive HTTP 404 on 2026-05-05T06:30Z; archived
 
+<!-- Overnight 2026-05-05T08:30Z batch — Level 3 WebSearch additions (Lever Jobgether + Greenhouse Federato/Oddball/Automattic + fwddeploy + Remotive) -->
+- [!] https://job-boards.greenhouse.io/federato/jobs/5206958008 | Federato | Forward Deployed Machine Learning Engineer | Remote — United States or Canada — moved to Procesadas (#531) 2026-05-05 (3.6/5 — InsureTech RiskOps; $155-180K + bonus/stock; 2+y matches Deepak 2.5y; LLMs + agentic + evals + production monitoring 1:1; Series-B Emergence/Caffeinated; F-1 OPT sponsorship verify in screen; PDF generated)
+- [!] https://jobs.lever.co/jobgether/20d359e3-485d-489a-a966-4ca761edcd5e | Jobgether (recruiter) | Applied AI Engineer | Remote — verify — error: posting closed (Lever API "Document not found" on 2026-05-05T08:30Z); archived
+- [!] https://jobs.lever.co/jobgether/3ba9b53c-efc4-4228-a392-6d179af53413 | Jobgether (recruiter) | AI/ML Engineer | Remote — verify — error: posting closed (Lever API "Document not found" on 2026-05-05T08:30Z); archived
+- [!] https://jobs.lever.co/jobgether/da074dcf-1a08-4098-9421-902cad3a1009 | Jobgether (recruiter) | Remote AI/ML Engineer | Remote — verify — error: posting closed (Lever API "Document not found" on 2026-05-05T08:30Z); archived
+- [!] https://job-boards.greenhouse.io/oddball/jobs/7677731003 | Oddball | Applied AI/ML Engineer | DMV (DC/MD/VA) — Hybrid — moved to Procesadas (#532) 2026-05-05 (1.8/5 — federal contractor; "may require US citizenship + clearance" disclosed; F-1 OPT structural blocker for federal-clearance billable work; SKIP unless commercial/non-clearance + sponsorship)
+- [!] https://job-boards.greenhouse.io/automatticcareers/jobs/7558709 | Automattic | Applied AI Engineer, Internal Tooling | New York, NY (NoHo) — On-site 5d/wk — moved to Procesadas (#533) 2026-05-05 (2.7/5 — TS/Node primary + Docker/K8s + LibreChat self-host + LLM APIs + agent skills for 1500+ employees; $170-230K NYC band; F-1 OPT relocation + sponsorship gap; SKIP unless relocation/sponsorship confirmed)
+- [!] https://www.fwddeploy.com/jobs/forward-deployed-ai-engineer-3768d818 | Jobgether (fwddeploy listing) | Forward Deployed AI Engineer | Remote — United States — moved to Procesadas (#534) 2026-05-05 (2.0/5 — anonymized FinServ end client (fraud/compliance); 5+y senior floor (2x gap on Deepak 2.5y); comp undisclosed; same recruiter-aggregator pattern as #525; SKIP unless recruiter names client + down-levels)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-cloud-engineering-4294654 | Remote Raven | AI & Cloud Engineering | Worldwide Remote — moved to Procesadas (#535) 2026-05-05 (1.2/5 — **$10/hr full-time** for 3+y AI w/ HIPAA+SOC2+AWS+LangChain+RAG; offshore-staffing economics; F-1 OPT prevailing-wage incompatible; SKIP)
+
 ## Procesadas
 
 ### 2026-04-20
@@ -1074,3 +1084,4 @@
 - [x] #523 | https://jobs.ashbyhq.com/fieldguide/f4f0aea0-826d-451f-bd17-b04772e221cc | Fieldguide | AI Engineer, Quality | San Francisco, CA or Remote (USA) | 3.7/5 | PDF ✅
 - [x] #526 | https://job-boards.greenhouse.io/cresta/jobs/5155673008 | Cresta | AI Language Engineer | Remote — United States | 3.4/5 | PDF ✅
 - [x] #530 | https://remotive.com/remote/jobs/ai-ml/ai-engineer-4498339 | dexter health | AI Engineer | Worldwide remote (DACH-anchored) | 3.3/5 | PDF ✅
+- [x] #531 | https://job-boards.greenhouse.io/federato/jobs/5206958008 | Federato | Forward Deployed Machine Learning Engineer | Remote — United States or Canada | 3.6/5 | PDF ✅
