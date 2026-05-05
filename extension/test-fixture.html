@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html><head><title>Test Greenhouse-like Form</title></head>
+<body>
+<h1>Application — Test Job</h1>
+<form id="app">
+  <label for="first_name">First Name *</label>
+  <input id="first_name" name="first_name" required type="text"/>
+
+  <label for="last_name">Last Name *</label>
+  <input id="last_name" name="last_name" required type="text"/>
+
+  <label for="email">Email *</label>
+  <input id="email" name="email" required type="email"/>
+
+  <label for="phone">Phone *</label>
+  <input id="phone" name="phone" required type="tel"/>
+
+  <label for="city">City *</label>
+  <input id="city" name="city" required type="text"/>
+
+  <label for="linkedin">LinkedIn URL</label>
+  <input id="linkedin" name="linkedin" type="url"/>
+
+  <label for="resume">Resume *</label>
+  <input id="resume" name="resume" type="file" required/>
+
+  <label for="auth">Are you authorized to work lawfully in the United States?</label>
+  <select id="auth" name="auth">
+    <option value="">Select</option>
+    <option value="Yes">Yes</option>
+    <option value="No">No</option>
+  </select>
+
+  <label for="sponsor_now">Do you require visa sponsorship now?</label>
+  <select id="sponsor_now" name="sponsor_now">
+    <option value="">Select</option>
+    <option value="Yes">Yes</option>
+    <option value="No">No</option>
+  </select>
+
+  <label for="sponsor_future">Will you require sponsorship in the future?</label>
+  <select id="sponsor_future" name="sponsor_future">
+    <option value="">Select</option>
+    <option value="Yes">Yes</option>
+    <option value="No">No</option>
+  </select>
+
+  <label for="cover_letter">Cover Letter</label>
+  <textarea id="cover_letter" name="cover_letter" rows="5"></textarea>
+
+  <label for="why_us">Why do you want to join us?</label>
+  <textarea id="why_us" name="why_us" rows="5"></textarea>
+
+  <fieldset>
+    <legend>Gender</legend>
+    <label><input type="radio" name="gender" value="Male"/>Male</label>
+    <label><input type="radio" name="gender" value="Female"/>Female</label>
+    <label><input type="radio" name="gender" value="Other"/>Other</label>
+  </fieldset>
+
+  <button type="submit">Submit Application</button>
+</form>
+</body></html>

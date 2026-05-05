@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="popup.css"/>
+</head>
+<body>
+<header>
+  <h1>career-ops</h1>
+  <span id="bridge-status" class="status">checking…</span>
+</header>
+
+<section id="current">
+  <h2>Current page</h2>
+  <div id="current-info">no job match</div>
+  <button id="fill-btn" disabled>Fill this form</button>
+</section>
+
+<section id="queue">
+  <h2>Pipeline <small id="queue-count"></small></h2>
+  <div class="filters">
+    <label>min score
+      <input type="number" id="min-score" value="4.0" min="0" max="5" step="0.1"/>
+    </label>
+    <label>portal
+      <select id="portal-filter">
+        <option value="">all</option>
+        <option value="greenhouse">greenhouse</option>
+        <option value="ashby">ashby</option>
+        <option value="lever">lever</option>
+        <option value="workday">workday</option>
+        <option value="breezy">breezy</option>
+        <option value="generic">generic</option>
+      </select>
+    </label>
+  </div>
+  <ul id="job-list"></ul>
+</section>
+
+<footer>
+  <button id="refresh-btn">Refresh jobs</button>
+  <span class="hint">Submit is never auto-clicked.</span>
+</footer>
+<script src="popup.js"></script>
+</body>
+</html>

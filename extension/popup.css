@@ -1,0 +1,54 @@
+* { box-sizing: border-box; }
+body {
+  width: 380px;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 13px;
+  color: #222;
+  background: #fafafa;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  background: #1a1a1a;
+  color: #fff;
+}
+h1 { font-size: 14px; margin: 0; font-weight: 600; }
+h2 { font-size: 12px; margin: 0 0 6px; text-transform: uppercase; letter-spacing: 0.05em; color: #555; }
+.status { font-size: 11px; padding: 2px 6px; border-radius: 3px; background: #444; }
+.status.ok { background: #2e7d32; }
+.status.err { background: #c62828; }
+section { padding: 10px 12px; border-bottom: 1px solid #eee; background: #fff; }
+section:last-of-type { border-bottom: none; }
+#current-info { padding: 6px 8px; background: #f4f4f4; border-radius: 4px; margin-bottom: 8px; min-height: 18px; font-family: ui-monospace, monospace; font-size: 11px; }
+button {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #1976d2;
+  background: #1976d2;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+button:disabled { background: #aaa; border-color: #aaa; cursor: not-allowed; }
+button:hover:not(:disabled) { background: #1565c0; }
+.filters { display: flex; gap: 12px; margin-bottom: 6px; font-size: 11px; }
+.filters label { display: flex; flex-direction: column; gap: 2px; }
+.filters input, .filters select { font-size: 11px; padding: 2px 4px; }
+#job-list { list-style: none; margin: 0; padding: 0; max-height: 300px; overflow-y: auto; border: 1px solid #eee; border-radius: 4px; }
+#job-list li { padding: 6px 8px; border-bottom: 1px solid #f0f0f0; cursor: pointer; }
+#job-list li:hover { background: #f5f5f5; }
+#job-list li:last-child { border-bottom: none; }
+.row1 { display: flex; justify-content: space-between; gap: 8px; }
+.company { font-weight: 600; color: #111; }
+.score { color: #2e7d32; font-weight: 600; }
+.role { color: #555; font-size: 11px; }
+.meta { font-size: 10px; color: #999; margin-top: 2px; display: flex; gap: 8px; }
+.no-pdf { color: #c62828; }
+footer { padding: 8px 12px; display: flex; justify-content: space-between; align-items: center; background: #fafafa; }
+.hint { font-size: 10px; color: #888; }
+small { font-weight: normal; color: #999; text-transform: none; letter-spacing: 0; }

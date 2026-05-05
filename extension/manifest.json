@@ -1,0 +1,57 @@
+{
+  "manifest_version": 3,
+  "name": "career-ops auto-apply",
+  "version": "0.1.0",
+  "description": "Fill job application forms from your career-ops pipeline. Halts at Submit.",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "host_permissions": [
+    "http://127.0.0.1:7777/*",
+    "http://localhost:7777/*",
+    "https://*.greenhouse.io/*",
+    "https://*.ashbyhq.com/*",
+    "https://*.lever.co/*",
+    "https://*.myworkdayjobs.com/*",
+    "https://*.workday.com/*",
+    "https://*.breezy.hr/*",
+    "https://*.smartrecruiters.com/*",
+    "https://*.workable.com/*",
+    "https://*.icims.com/*",
+    "https://*.taleo.net/*",
+    "https://*.jobvite.com/*",
+    "https://*.bamboohr.com/*",
+    "https://*.successfactors.com/*",
+    "https://*.wellfound.com/*",
+    "https://*.linkedin.com/*"
+  ],
+  "action": {
+    "default_title": "career-ops auto-apply",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.greenhouse.io/*",
+        "https://*.ashbyhq.com/*",
+        "https://*.lever.co/*",
+        "https://*.myworkdayjobs.com/*",
+        "https://*.workday.com/*",
+        "https://*.breezy.hr/*",
+        "https://*.smartrecruiters.com/*",
+        "https://*.workable.com/*",
+        "https://*.icims.com/*",
+        "https://*.taleo.net/*",
+        "https://*.jobvite.com/*",
+        "https://*.bamboohr.com/*",
+        "https://*.successfactors.com/*",
+        "https://*.wellfound.com/*",
+        "https://*.linkedin.com/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

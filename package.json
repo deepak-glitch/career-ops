@@ -17,6 +17,7 @@
     "scan": "node scan.mjs",
     "auto-apply": "node auto-apply.mjs",
     "auto-apply:plan": "node auto-apply.mjs --plan",
+    "auto-apply:bridge": "node auto-apply-bridge.mjs",
     "gemini:eval": "node gemini-eval.mjs"
   },
   "keywords": [

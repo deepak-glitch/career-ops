@@ -69,6 +69,60 @@ After running, the audit JSON in `data/auto-apply/` records every field's
 label, kind, value, source, and confidence — useful for debugging selector
 mismatches per portal.
 
+## Chrome extension (recommended)
+
+The extension is the better path for day-to-day use: it runs inside your
+real Chrome session so cookies, SSO, and captchas Just Work, and you can
+review every fill before clicking Submit yourself.
+
+### Install (one-time)
+
+1. Start the local bridge:
+   ```bash
+   npm run auto-apply:bridge
+   # auto-apply bridge listening on http://127.0.0.1:7777
+   ```
+2. Load the unpacked extension:
+   - Open `chrome://extensions` → toggle **Developer mode** on
+   - Click **Load unpacked** → select the `extension/` folder
+3. Pin the extension in the toolbar.
+
+### Use
+
+1. Click the extension icon. The popup shows your evaluated jobs (highest
+   score first), filtered by `min score` and `portal`.
+2. Click a job → opens the posting in a new tab.
+3. On the posting page, click the extension icon again → **Fill this form**.
+4. The content script discovers fields, pulls applicant data + the tailored
+   PDF from the bridge, fills everything, **does not click Submit**. You
+   review and submit.
+
+### Endpoints
+
+| Path | Returns |
+|---|---|
+| `GET /health` | Liveness check |
+| `GET /jobs` | Evaluated jobs + slug + PDF presence + portal |
+| `GET /resolve?url=<u>` | Applicant fields + narrative drafts + resume URL |
+| `GET /pdf?slug=<s>` | Streams the tailored PDF |
+| `POST /audit` | Logs fill events to `data/auto-apply/audit.tsv` |
+
+### Architecture
+
+```
+Chrome page
+  └── content.js            (discovers + fills the form)
+       └─ fetch ──► bridge :7777
+                     ├── /resolve   → applicant + drafts + pdf URL
+                     └── /pdf       → resume bytes (turned into a File)
+popup.html
+  └── popup.js              (lists jobs from /jobs, sends fill message)
+       └─ chrome.tabs.sendMessage ──► content.js
+```
+
+The extension never auto-submits. The bridge logs every fill to
+`data/auto-apply/audit.tsv` so you have a record of what was prepared.
+
 ## Adding a new portal
 
 `lib/auto-apply/portals.mjs`:

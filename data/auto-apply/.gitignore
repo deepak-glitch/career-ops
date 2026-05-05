@@ -1,2 +1,3 @@
 # Per-run audit logs are local; only the directory is tracked.
 *.json
+audit.tsv
