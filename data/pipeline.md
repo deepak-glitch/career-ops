@@ -756,6 +756,19 @@
 - [!] https://jobs.ashbyhq.com/brainco/58cff031-5b0b-4b92-a1ea-2ebf2495d89d | Brain Co. | AI/ML Engineer | San Francisco Bay Area — On-site — moved to Procesadas (#543) 2026-05-05 (3.6/5 — GenAI Agents/RAG 1:1; SF Bay relocation; political founder + sovereign-gov client flag for personal review; PDF generated)
 - [!] https://jobs.ashbyhq.com/openai/16df5b48-917d-41d8-b0c6-dbfdf11400f7 | OpenAI | AI Deployment Engineer, Startups | Singapore — Hybrid 3d/wk — moved to Procesadas (#544) 2026-05-05 (2.0/5 — Singapore office voids F-1 OPT; GTM/customer-facing role bar; SKIP)
 - [!] https://job-boards.greenhouse.io/snorkelai/jobs/5811245004 | Snorkel AI | Forward Deployed Researcher - Data as a Service | NYC/RWC/SF Hybrid + Remote-US — moved to Procesadas (#545) 2026-05-05 (2.5/5 — 4+y senior research floor (38% YOE gap); frontier-lab eval/RLHF research framing; SKIP)
+- [!] https://careers.hellofresh.com/global/en/job/7869765?gh_jid=7869765 | HelloFresh | Automation Engineer (all genders) | Magdeburg (Barleben), Saxony-Anhalt, Germany — On-site, Shift Work — moved to Procesadas (#549) 2026-05-05 (1.2/5 — industrial OT Siemens TIA + WinCC + Rockwell + SCADA + Cognex + EtherNet/IP + Profibus filter slip; DE on-site + German required + non-AI archetype = quadruple veto; SKIP)
+
+<!-- Overnight 2026-05-05T12:05Z batch — Level 3 WebSearch additions (Remotive + Himalayas + Ashby + WeWorkRemotely) -->
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-engineer-ii-3759676 | Sezzle | AI Engineer II | LATAM — Remote — moved to Procesadas (#546) 2026-05-05 (2.0/5 — RAG + agentic + transformers + Pinecone/Weaviate stack 1:1; LATAM-only band F-1 OPT US-base hard block + 17% YOE shortfall; SKIP)
+- [!] https://remotive.com/remote/jobs/artificial-intelligence/ai-engineer-4512161 | GitLab | AI Engineer | India — Remote — moved to Procesadas (#547) 2026-05-05 (2.2/5 — internal AI tooling for Sales/Marketing/Support; India-only band F-1 OPT US-base mismatch; senior framing; SKIP)
+- [!] https://himalayas.app/companies/jobgether/jobs/ml-engineer-remote-us | Jobgether (recruiter) | ML Engineer | Remote — United States — error: Himalayas HTTP 404 on 2026-05-05T12:05Z (recruiter listing rotated/closed); archived
+- [!] https://himalayas.app/companies/jobgether/jobs/ai-engineer-remote-us | Jobgether (recruiter) | AI Engineer | Remote — United States — error: Himalayas HTTP 404 on 2026-05-05T12:05Z (recruiter listing rotated/closed); archived
+- [!] https://himalayas.app/companies/jobgether/jobs/artificial-intelligence-hardware-engineer-remote-us | Jobgether (recruiter) | Artificial Intelligence Hardware Engineer | Remote — United States — error: Himalayas HTTP 404 on 2026-05-05T12:05Z (recruiter listing rotated/closed); archived
+- [!] https://himalayas.app/companies/inv/jobs/ai-ml-engineer-specialist | Invisible Technologies | AI/ML Engineer Specialist | Remote — United States — error: Himalayas page returned aggregated listing (no jobId match) on 2026-05-05T12:05Z; archived
+- [!] https://himalayas.app/companies/genesys/jobs/genesys-cloud-ai-forward-deployed-engineer | Genesys | Genesys Cloud AI Forward Deployed Engineer | Remote — verify — error: Himalayas HTTP 404 on 2026-05-05T12:05Z; archived
+- [!] https://jobs.ashbyhq.com/neara/08bc82a3-aff3-4060-b57c-a7788dd75d8f | Neara | Forward Deployed Engineer - USA (Los Angeles) | Los Angeles, CA — Hybrid — moved to Procesadas (#548) 2026-05-05 (3.0/5 — FDE archetype 1:1 customer-embedded + SDK/API + custom solutions; TS/JS-primary stack pivot; $130-250K + equity wide LA band; PDF generated)
+- [!] https://weworkremotely.com/remote-jobs/bitovi-applied-ai-engineer-consultant | Bitovi | Applied AI Engineer Consultant | Remote — verify — error: WeWorkRemotely HTTP 403 + Bitovi /jobs HTTP 404 on 2026-05-05T12:05Z; archived
+
 
 ## Procesadas
 
@@ -1101,3 +1114,4 @@
 - [x] #543 | https://jobs.ashbyhq.com/brainco/58cff031-5b0b-4b92-a1ea-2ebf2495d89d | Brain Co. | AI/ML Engineer | San Francisco Bay Area — On-site | 3.6/5 | PDF ✅
 - [x] #537 | https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer | Long Island City, NY — Hybrid | 3.5/5 | PDF ✅
 - [x] #542 | https://job-boards.greenhouse.io/interwellhealth/jobs/5136653008 | Interwell Health | Machine Learning Engineer | Remote — United States | 3.2/5 | PDF ✅
+- [x] #548 | https://jobs.ashbyhq.com/neara/08bc82a3-aff3-4060-b57c-a7788dd75d8f | Neara | Forward Deployed Engineer (Los Angeles) | Los Angeles, CA — Hybrid | 3.0/5 | PDF ✅

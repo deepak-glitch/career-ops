@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 548 | 2026-05-05 | Neara | Forward Deployed Engineer (Los Angeles) | 3.0/5 | Evaluated | ✅ | [548](reports/548-neara-fde-la-2026-05-05.md) | FDE archetype 1:1; TS/JS-primary stack pivot; $130-250K + equity; LA Hybrid US-base; PDF generated |
 | 540 | 2026-05-05 | Cohere Health | Machine Learning Engineer II | 4.1/5 | Evaluated | ✅ | [540](reports/540-cohere-health-ml-engineer-ii-2026-05-05.md) | Strongest fit of batch: 2-4y band matches 2.5y; PyTorch+SLM+clinical ML 1:1; $119-140K Remote-US; sponsorship clarify; PDF generated |
 | 542 | 2026-05-05 | Interwell Health | Machine Learning Engineer | 3.2/5 | Evaluated | ✅ | [542](reports/542-interwell-health-ml-engineer-2026-05-05.md) | 3+y MLOps Spark/Databricks senior floor (17% YOE gap); healthcare kidney care; LLM-based solutions plus; PDF generated |
 | 531 | 2026-05-05 | Federato | Forward Deployed Machine Learning Engineer | 3.6/5 | Evaluated | ✅ | [531](reports/531-federato-fde-ml-engineer-2026-05-05.md) | Remote — US/Canada; $155-180K + bonus/stock; 2+y matches Deepak 2.5y; LLMs + agentic + evals + production monitoring 1:1; InsureTech (commercial underwriting) Series-B (Emergence/Caffeinated); F-1 OPT sponsorship verify in screen; PDF generated |
