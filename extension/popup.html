@@ -33,12 +33,25 @@
         <option value="generic">generic</option>
       </select>
     </label>
+    <label>only with PDF
+      <input type="checkbox" id="pdf-only" checked/>
+    </label>
+  </div>
+  <div class="select-bar">
+    <label class="select-all-label">
+      <input type="checkbox" id="select-all"/> select all visible
+    </label>
+    <span id="selected-count">0 selected</span>
+    <button id="clear-sel-btn" class="ghost">clear</button>
   </div>
   <ul id="job-list"></ul>
+  <div class="batch-bar">
+    <button id="apply-selected-btn" disabled>Apply to selected</button>
+  </div>
 </section>
 
 <footer>
-  <button id="refresh-btn">Refresh jobs</button>
+  <button id="refresh-btn" class="ghost">Refresh jobs</button>
   <span class="hint">Submit is never auto-clicked.</span>
 </footer>
 <script src="popup.js"></script>

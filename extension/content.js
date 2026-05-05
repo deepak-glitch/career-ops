@@ -415,4 +415,74 @@
       return true; // async response
     }
   });
+
+  // ---------- queued auto-fill ----------------------------------------
+  //
+  // When the popup's "Apply to selected" button writes URLs into
+  // chrome.storage.local.fillQueue, every matching tab auto-fills itself
+  // once on page load. We pop the URL from the queue immediately so a
+  // refresh / SPA-navigation won't re-trigger.
+
+  async function checkQueueAndFill() {
+    if (!chrome?.storage?.local) return;
+    let stored;
+    try { stored = await chrome.storage.local.get("fillQueue"); }
+    catch { return; }
+    const queue = stored.fillQueue || {};
+    const url = location.href;
+    // Match exact URL OR same path/JD ID — many portals append fragments / utm.
+    let matchKey = null;
+    if (queue[url]) matchKey = url;
+    else {
+      // Strip query/hash and try a prefix match.
+      const base = url.split("#")[0].split("?")[0];
+      for (const k of Object.keys(queue)) {
+        const kb = k.split("#")[0].split("?")[0];
+        if (kb === base) { matchKey = k; break; }
+      }
+    }
+    if (!matchKey) return;
+
+    // Pop from queue first so a refresh doesn't re-trigger.
+    delete queue[matchKey];
+    try { await chrome.storage.local.set({ fillQueue: queue }); } catch {}
+
+    // Show a small in-page banner so the user sees what's happening.
+    const banner = document.createElement("div");
+    banner.textContent = "career-ops: auto-filling… (Submit will NOT be clicked)";
+    Object.assign(banner.style, {
+      position: "fixed", top: "0", left: "0", right: "0", zIndex: "2147483647",
+      background: "#1976d2", color: "#fff", padding: "6px 12px",
+      fontFamily: "-apple-system, BlinkMacSystemFont, sans-serif",
+      fontSize: "13px", textAlign: "center",
+      boxShadow: "0 1px 4px rgba(0,0,0,0.2)",
+    });
+    document.documentElement.appendChild(banner);
+
+    try {
+      // Give SPA portals (Workday, Ashby) a moment to mount the form.
+      await sleep(2000);
+      const result = await runFill("http://127.0.0.1:7777");
+      banner.textContent = result.ok
+        ? `career-ops: filled ${result.filled}/${result.total} fields — review and submit`
+        : `career-ops: fill failed — ${result.error || "unknown"}`;
+      banner.style.background = result.ok ? "#2e7d32" : "#c62828";
+    } catch (e) {
+      banner.textContent = `career-ops: fill error — ${e.message || String(e)}`;
+      banner.style.background = "#c62828";
+    }
+    setTimeout(() => banner.remove(), 8000);
+  }
+
+  // Run the queue check after document_idle so multi-step portals have a
+  // chance to render their form. Re-check on SPA URL changes too.
+  checkQueueAndFill();
+  let lastHref = location.href;
+  const spaWatcher = setInterval(() => {
+    if (location.href !== lastHref) {
+      lastHref = location.href;
+      checkQueueAndFill();
+    }
+  }, 1500);
+  window.addEventListener("beforeunload", () => clearInterval(spaWatcher));
 })();

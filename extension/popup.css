@@ -36,13 +36,27 @@ button {
 }
 button:disabled { background: #aaa; border-color: #aaa; cursor: not-allowed; }
 button:hover:not(:disabled) { background: #1565c0; }
+button.ghost { background: #fff; color: #1976d2; border: 1px solid #1976d2; padding: 4px 8px; width: auto; font-size: 11px; }
+button.ghost:hover:not(:disabled) { background: #e3f2fd; color: #1976d2; }
 .filters { display: flex; gap: 12px; margin-bottom: 6px; font-size: 11px; }
 .filters label { display: flex; flex-direction: column; gap: 2px; }
 .filters input, .filters select { font-size: 11px; padding: 2px 4px; }
-#job-list { list-style: none; margin: 0; padding: 0; max-height: 300px; overflow-y: auto; border: 1px solid #eee; border-radius: 4px; }
-#job-list li { padding: 6px 8px; border-bottom: 1px solid #f0f0f0; cursor: pointer; }
+#job-list { list-style: none; margin: 0; padding: 0; max-height: 280px; overflow-y: auto; border: 1px solid #eee; border-radius: 4px; }
+#job-list li { padding: 6px 8px; border-bottom: 1px solid #f0f0f0; display: flex; gap: 8px; align-items: flex-start; }
 #job-list li:hover { background: #f5f5f5; }
 #job-list li:last-child { border-bottom: none; }
+#job-list li.selected { background: #e3f2fd; }
+#job-list li input[type="checkbox"] { margin-top: 4px; flex-shrink: 0; }
+#job-list li .body { flex: 1; min-width: 0; cursor: pointer; }
+.select-bar {
+  display: flex; align-items: center; justify-content: space-between;
+  margin: 6px 0; font-size: 11px; gap: 6px;
+}
+.select-all-label { display: flex; align-items: center; gap: 4px; cursor: pointer; }
+#selected-count { color: #666; font-variant-numeric: tabular-nums; }
+.batch-bar { margin-top: 8px; }
+#apply-selected-btn { background: #2e7d32; border-color: #2e7d32; }
+#apply-selected-btn:hover:not(:disabled) { background: #1b5e20; border-color: #1b5e20; }
 .row1 { display: flex; justify-content: space-between; gap: 8px; }
 .company { font-weight: 600; color: #111; }
 .score { color: #2e7d32; font-weight: 600; }

@@ -90,12 +90,19 @@ review every fill before clicking Submit yourself.
 ### Use
 
 1. Click the extension icon. The popup shows your evaluated jobs (highest
-   score first), filtered by `min score` and `portal`.
-2. Click a job → opens the posting in a new tab.
-3. On the posting page, click the extension icon again → **Fill this form**.
-4. The content script discovers fields, pulls applicant data + the tailored
-   PDF from the bridge, fills everything, **does not click Submit**. You
-   review and submit.
+   score first), filtered by `min score`, `portal`, and `only with PDF`.
+2. **Single job**: click a row → opens the posting in a new tab. Click the
+   extension icon again → **Fill this form**. Review, submit.
+3. **Batch**: tick the checkboxes next to the jobs you want, or use **select
+   all visible**. Click **Apply to selected (N)** → the extension opens
+   each job in its own background tab and auto-fills it on load. A blue
+   banner appears in each tab while filling, turning green when done.
+   You review every tab and click Submit yourself — Submit is never
+   auto-clicked.
+
+The selection persists across popup re-opens (stored in
+`chrome.storage.local`), so you can tweak filters and add to the same
+batch over multiple sessions.
 
 ### Endpoints
 
