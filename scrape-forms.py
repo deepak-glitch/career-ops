@@ -253,6 +253,7 @@ def discover_form(page) -> list[dict[str, Any]]:
     """Walk every visible input/select/textarea on `page` (a Scrapling Selector)."""
     fields: list[dict[str, Any]] = []
     seen_groups: set[str] = set()
+    seen_names: set[str] = set()
     for node in page.css("input, select, textarea"):
         tag = node.tag.lower()
         raw_type = (node.attrib.get("type") or tag).lower()
@@ -265,6 +266,14 @@ def discover_form(page) -> list[dict[str, Any]]:
             if gk in seen_groups:
                 continue
             seen_groups.add(gk)
+        elif name and kind not in ("radio", "checkbox", "file"):
+            # Greenhouse and other portals render mobile + desktop copies of
+            # the same field side-by-side. Dedupe by name to keep the first
+            # one (file inputs are sometimes legitimately duplicated for
+            # primary + supplementary uploads, so leave them alone).
+            if name in seen_names:
+                continue
+            seen_names.add(name)
         label = _label_for(node).replace("*", "").strip()
         field: dict[str, Any] = {
             "kind": kind,
@@ -287,20 +296,35 @@ def discover_form(page) -> list[dict[str, Any]]:
 
 # --- fetch -------------------------------------------------------------
 
+def _stealthy_fetch(url: str, **kw):
+    """Try StealthyFetcher (Camoufox); fall back to DynamicFetcher if Camoufox
+    isn't installed. The user can `python3 -m camoufox fetch` later to enable
+    full stealth."""
+    from scrapling.fetchers import StealthyFetcher, DynamicFetcher
+    try:
+        return StealthyFetcher.fetch(url, **kw)
+    except Exception as e:
+        if "camoufox" in str(e).lower() or "403" in str(e):
+            print(f"  [stealth unavailable: {e}] using DynamicFetcher")
+            kw.pop("solve_cloudflare", None)
+            return DynamicFetcher.fetch(url, **kw)
+        raise
+
+
 def fetch_page(url: str, portal: str):
     """Return a Scrapling Adaptor for the post-apply page (form visible).
 
-    Raises RuntimeError if anti-bot blocks us or the form isn't found.
+    Strategy:
+      1. JS-required portals → DynamicFetcher / StealthyFetcher.
+      2. Static portals → plain Fetcher first (fast). On 403/429/503 or
+         a too-empty response, fall back to a JS-rendering fetcher.
     """
-    from scrapling.fetchers import Fetcher, StealthyFetcher, DynamicFetcher
+    from scrapling.fetchers import Fetcher, DynamicFetcher
 
     if portal in JS_PORTALS:
         if portal in STEALTH_PORTALS:
-            page = StealthyFetcher.fetch(
-                url,
-                headless=True,
-                network_idle=True,
-                wait=2000,
+            page = _stealthy_fetch(
+                url, headless=True, network_idle=True, wait=2000,
                 wait_selector="form, [data-automation-id]",
                 solve_cloudflare=True,
             )
@@ -309,28 +333,29 @@ def fetch_page(url: str, portal: str):
                 url, headless=True, network_idle=True, wait=2000,
                 wait_selector="form",
             )
-        # Some portals hide the form behind an "Apply" button.
-        # Scrapling's DynamicFetcher exposes page interactions via
-        # `.page_action` (a callable that runs in browser context).
-        # Cheap path: re-fetch with a click action if first page has no inputs.
-        if portal in JS_PORTALS and len(page.css("input, select, textarea")) < 3:
+        if len(page.css("input, select, textarea")) < 3:
             page = _retry_with_apply_click(url, portal)
         return page
 
-    # Static portals: try plain HTTP first. Greenhouse/Lever JD pages embed the form.
-    if portal in STEALTH_PORTALS:
-        try:
-            return StealthyFetcher.fetch(url, headless=True, network_idle=True, wait=2000)
-        except Exception:
-            pass
-    return Fetcher.get(url, timeout=20)
+    # Static path: try plain HTTP first (fast, free).
+    try:
+        r = Fetcher.get(url, timeout=20)
+        status = getattr(r, "status", 200)
+        if status in (403, 429, 503):
+            raise RuntimeError(f"http {status}")
+        n_fields = len(r.css("input, select, textarea"))
+        if n_fields < 3:
+            raise RuntimeError(f"only {n_fields} fields, retrying with browser")
+        return r
+    except Exception as e:
+        print(f"  [retry] {type(e).__name__}: {e} — falling back to DynamicFetcher")
+        return DynamicFetcher.fetch(
+            url, headless=True, network_idle=True, wait=2500,
+        )
 
 
 def _retry_with_apply_click(url: str, portal: str):
-    from scrapling.fetchers import StealthyFetcher
-
     def click_apply(page):
-        # Try each candidate apply button text.
         for txt in APPLY_BUTTON_TEXTS:
             sel = page.locator(f"text={txt}").first
             try:
@@ -341,8 +366,7 @@ def _retry_with_apply_click(url: str, portal: str):
                     return
             except Exception:
                 continue
-
-    return StealthyFetcher.fetch(
+    return _stealthy_fetch(
         url, headless=True, network_idle=True, wait=2500,
         page_action=click_apply, solve_cloudflare=True,
     )
