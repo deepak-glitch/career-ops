@@ -711,6 +711,20 @@
 - [!] https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-3992641 | OneStream Software | AI Forward Deployed Engineer | Remote — USA ($120-149K) — moved to Procesadas (#520) 2026-05-04 (3.4/5 — SensibleAI cross-product FDE; 0-2y SWE + 1-2y AI/ML + 1-3y enterprise delivery early-career bands fit Deepak 2.5y; SQL/ETL/Python/REST 1:1 stack; F-1 OPT clarification needed; PDF generated)
 - [!] https://remotive.com/remote/jobs/software-development/forward-deployed-ai-engineer-3598425 | PicnicHealth | Forward Deployed AI Engineer | verify — error: posting closed (Remotive HTTP 410 on 2026-05-04T20:30Z); archived
 
+### 2026-05-05
+
+<!-- Overnight 2026-05-05T02:30Z batch — Level 3 WebSearch additions (Ashby + Greenhouse + Workable + Lever + smarthires) -->
+- [!] https://jobs.ashbyhq.com/lovable/7fe39289-1f7f-47d4-8002-d3aeeaaaabc6 | Lovable | Forward Deployed Engineer | London, UK — On-site / hybrid — moved to Procesadas (#521) 2026-05-05 (1.7/5 — founding-FDE function w/ React/TS/Golang/Rust stack; 5+y senior floor + London on-site + Stockholm-HQ EU/UK visa pathway opaque for F-1 OPT = triple blocker; SKIP)
+- [!] https://jobs.ashbyhq.com/pulsora%20inc/40114f0d-d976-43b6-867c-23e52d6c6fff | Pulsora | Applied AI Engineer - US | Remote — United States — moved to Procesadas (#522) 2026-05-05 (2.0/5 — ESG SaaS w/ LLM/RAG/agents/LangChain stack 1:1; 1-2y AI floor fits Deepak 2.5y; HARD VETO explicit "unable to offer employment-based visa sponsorship in the United States"; F-1 OPT incompatible; SKIP)
+- [!] https://jobs.ashbyhq.com/fieldguide/d86bef91-71ab-494f-a3c8-393ad8c55063 | Fieldguide | AI Engineer, Quality | original ID closed (Ashby `jobPosting: null`); substituted active ID `f4f0aea0-826d-451f-bd17-b04772e221cc` — moved to Procesadas (#523) 2026-05-05 (3.7/5 — vertical AI for audit/assurance; SF or Remote-USA; $170-220K + equity; multi-level "hiring across all levels"; eval-infra + LangSmith + LangGraph + observability 1:1; YC + Goldman Growth Equity + Bessemer + 8VC; PDF generated)
+- [!] https://apply.workable.com/geodelphi/j/E8A22CF275/ | GeoDelphi (Whitespace) | Agentic AI Engineer | Remote / Alexandria, VA — moved to Procesadas (#524) 2026-05-05 (1.5/5 — defense intel Iris platform DoW+IC; HARD VETO requires US Citizen + clearance eligibility; F-1 OPT categorical fail; SKIP)
+- [!] https://apply.workable.com/jobgether/j/0C895CA0C5 | Jobgether (recruiting agency) | Forward Deployed AI Engineer (Remote - US) | Remote — United States — moved to Procesadas (#525) 2026-05-05 (2.5/5 — recruiter-sourced placement w/ undisclosed end-client; 5+y DS/Applied AI senior floor; 50% YOE gap on Deepak 2.5y; comp opacity; SKIP unless recruiter down-levels + names client)
+- [!] https://www.smarthires.ai/jobs/dominodatalab/forward-deployed-engineer-new-grad-2026 | Domino Data Lab | Forward Deployed Engineer - New Grad 2026 | New York, NY — Hybrid — error: posting REMOVED 2026-01-07 (BuiltInNYC mirror confirms position removed; 7275081 careerpuck shows no listing 2026-05-05); archived
+- [!] https://job-boards.greenhouse.io/cresta/jobs/5155673008 | Cresta | AI Language Engineer | Remote — United States — moved to Procesadas (#526) 2026-05-05 (3.4/5 — conversational-AI contact center; $90-160K + equity; BS/MS req PhD pref; NLP+RAG+summarization+LLM workflows 1:1; ASR/TTS adjacent (Suvidha video summarization closest analog); F-1 OPT sponsorship verify in screen; PDF generated)
+- [!] https://job-boards.greenhouse.io/momentmarkets/jobs/5006294007 | Moment | AI Engineer | New York, NY — error: posting closed (Greenhouse careers page shows "There are no current openings" 2026-05-05); archived
+- [!] https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer | Remote — US — moved to Procesadas (#527) 2026-05-05 (2.5/5 — LangChain+LlamaIndex+vector DBs+OpenAI/Anthropic/Mistral stack 1:1; 7+y overall + 3+y AI/ML senior floor = 50% YOE gap on Deepak 3.3y total; SKIP unless recruiter down-levels)
+- [!] https://jobs.lever.co/jobgether/4390a581-32c9-4af7-8bdc-37d90e98d6b3 | Jobgether | Forward Deployed AI Engineer | Remote (verify) — error: posting closed (Lever API HTTP 404 on 2026-05-05; replaced on Lever board by 50+ "Field Strategist FDE" variants for various end-clients); archived
+
 
 ## Procesadas
 
@@ -1045,3 +1059,8 @@
 - [x] #517 | https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a | Promise | Software Engineer — Forward Deployed AI (New Grad) | San Francisco, CA — Hybrid 4d/wk | 3.5/5 | PDF ✅
 - [x] #518 | https://jobs.ashbyhq.com/ramp/d204e136-2749-42de-82b4-88a0dd352090 | Ramp | Applied AI Engineer | New York City + San Francisco — Hybrid | 3.6/5 | PDF ✅
 - [x] #520 | https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-3992641 | OneStream Software | AI Forward Deployed Engineer | Remote — USA | 3.4/5 | PDF ✅
+
+### 2026-05-05
+
+- [x] #523 | https://jobs.ashbyhq.com/fieldguide/f4f0aea0-826d-451f-bd17-b04772e221cc | Fieldguide | AI Engineer, Quality | San Francisco, CA or Remote (USA) | 3.7/5 | PDF ✅
+- [x] #526 | https://job-boards.greenhouse.io/cresta/jobs/5155673008 | Cresta | AI Language Engineer | Remote — United States | 3.4/5 | PDF ✅
