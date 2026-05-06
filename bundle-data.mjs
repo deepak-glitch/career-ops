@@ -44,10 +44,12 @@ const BUNDLE_RESOLVED = join(BUNDLE_DIR, "resolved");
 const BUNDLE_PREFILLED = join(BUNDLE_DIR, "prefilled");
 
 function parseArgs(argv) {
-  const args = { minScore: 4.0, max: 0, all: false };
+  // Default: bundle every Evaluated job in the tracker. Use --min-score to
+  // shrink the bundle (e.g. for size-sensitive distribution).
+  const args = { minScore: 0, max: 0, all: true };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
-    if (a === "--min-score") args.minScore = parseFloat(argv[++i]);
+    if (a === "--min-score") { args.minScore = parseFloat(argv[++i]); args.all = false; }
     else if (a === "--max") args.max = parseInt(argv[++i], 10);
     else if (a === "--all") { args.all = true; args.minScore = 0; }
   }
@@ -192,7 +194,11 @@ function main() {
     });
     if (args.max && jobs.length >= args.max) break;
   }
-  jobs.sort((a, b) => (b.score ?? 0) - (a.score ?? 0) || (b.date > a.date ? 1 : -1));
+  // Default sort: most recent first, matching the popup's default view.
+  jobs.sort((a, b) =>
+    (b.date || "").localeCompare(a.date || "")
+    || (b.score ?? 0) - (a.score ?? 0)
+  );
   writeFileSync(
     join(BUNDLE_DIR, "jobs.json"),
     JSON.stringify({

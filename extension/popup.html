@@ -20,7 +20,7 @@
   <h2>Pipeline <small id="queue-count"></small></h2>
   <div class="filters">
     <label>min score
-      <input type="number" id="min-score" value="4.0" min="0" max="5" step="0.1"/>
+      <input type="number" id="min-score" value="0" min="0" max="5" step="0.1"/>
     </label>
     <label>portal
       <select id="portal-filter">
@@ -34,15 +34,15 @@
       </select>
     </label>
     <label>only with PDF
-      <input type="checkbox" id="pdf-only" checked/>
+      <input type="checkbox" id="pdf-only"/>
     </label>
   </div>
   <div class="filters">
     <label>sort
       <select id="sort-by">
-        <option value="score">score (high → low)</option>
-        <option value="date-desc">date (newest first)</option>
+        <option value="date-desc" selected>date (newest first)</option>
         <option value="date-asc">date (oldest first)</option>
+        <option value="score">score (high → low)</option>
         <option value="company">company A → Z</option>
       </select>
     </label>

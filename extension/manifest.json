@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "career-ops auto-apply",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Fill job application forms from your career-ops pipeline. Halts at Submit.",
   "permissions": [
     "activeTab",

@@ -99,13 +99,21 @@ async function checkBridge() {
   }
 }
 
+// Re-checked on every popup open. If the local bridge comes online or new
+// data is bundled, the popup picks it up immediately.
 async function loadJobs() {
   try {
     if (BUNDLED) {
-      const j = await fetch(chrome.runtime.getURL("data/jobs.json")).then((r) => r.json());
+      // cache-bust so we always get the latest bundled file (Chrome can
+      // aggressively cache extension resources).
+      const url = chrome.runtime.getURL("data/jobs.json") + "?t=" + Date.now();
+      const j = await fetch(url, { cache: "no-store" }).then((r) => r.json());
       JOBS = j.jobs || [];
+      // Surface bundle freshness in the status badge.
+      const stamp = (j.bundledAt || "").slice(0, 19).replace("T", " ");
+      if (stamp) els.bridgeStatus.textContent = `bundle ${stamp}`;
     } else {
-      const j = await fetch(`${BRIDGE}/jobs`).then((r) => r.json());
+      const j = await fetch(`${BRIDGE}/jobs`, { cache: "no-store" }).then((r) => r.json());
       JOBS = j.jobs || [];
     }
   } catch {
