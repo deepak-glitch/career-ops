@@ -852,8 +852,13 @@
 - [!] https://jobs.ashbyhq.com/percepta/bbfe8035-2364-419b-bb36-500aaa542fb2 | Percepta | Applied AI Engineer | New York City — On-site (verify hybrid in screen) — moved to Procesadas (#588) 2026-05-06 (4.0/5 — GC-backed vertical AI healthcare/manufacturing/energy; $150-300K + equity; 1:1 healthcare RAG + agentic + multi-provider stack; PDF generated)
 - [!] https://jobs.ashbyhq.com/latent/bf2e495f-4a9c-4d60-9c12-28339e032185 | Latent | Machine Learning Engineer | Remote — error: posting closed (Ashby GraphQL `jobPosting: null` 2026-05-06T12Z); replaced with current live Latent posting 233bbaac (Machine Learning Engineer SF)
 - [!] https://jobs.ashbyhq.com/latent/233bbaac-d589-49f4-a8eb-6bb16673b060 | Latent Health | Machine Learning Engineer | San Francisco — On-site most-of-week — moved to Procesadas (#589) 2026-05-06 (2.6/5 — explicit senior/staff gate + RL/mid-training gap; healthcare LLM domain 1:1 but tier mismatch; SKIP)
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/7610416003?gh_jid=7610416003 | Celonis | Field CTO - AI & Enterprise Modernization | Munich, Germany
-
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7610416003?gh_jid=7610416003 | Celonis | Field CTO - AI & Enterprise Modernization | Munich, Germany — On-site/Hybrid — moved to Procesadas (#592) 2026-05-06 (1.5/5 — Field CTO 15-20yr executive bar + Munich on-site + F-1 OPT triple veto; SKIP)
+<!-- Overnight 2026-05-06T~14Z Level 3 WebSearch additions (Workable junior + Ashby healthcare RCM + BuiltIn FDE) -->
+- [!] https://apply.workable.com/maneva/j/BFB7B810E9/ | Maneva | Junior AI Engineer | Toronto / Montreal / SF (preferred) — moved to Procesadas (#593) 2026-05-06 (2.5/5 — manufacturing-CV junior with Canada-leaning location + thesis off-target healthcare-AI; SKIP unless SF firm)
+- [!] https://apply.workable.com/translation-empire/j/6E41412053 | Translation Empire | Junior AI Engineer | Remote — limited US states (15 niche states excluding CA/NY/TX/WA/MA) — moved to Procesadas (#594) 2026-05-06 (1.8/5 — Pakistan-HQ translation services co.; offshore-arbitrage state pattern + no comp + small vendor brand; SKIP)
+- [!] https://apply.workable.com/acoladgroup/j/FA55F76E1A | Acolad | Junior AI Engineer | EU — Remote likely (Acolad HQ Paris) — moved to Procesadas (#595) 2026-05-06 (1.8/5 — Paris-HQ EU translation/localization leader; F-1 OPT geo veto + EU comp arbitrage + translation domain off-thesis; SKIP)
+- [!] https://jobs.ashbyhq.com/phare-r1-r37/0b315831-5eef-42a3-93be-45967f13a969 | R37 Lab (R1 RCM) | ML Engineer | New York | Remote — US-Remote with NYC primary + SF/Austin/Chicago hubs — moved to Procesadas (#596) 2026-05-06 (3.5/5 — AI-native healthcare RCM at 95 of top 100 US health systems; $140-300K + bonus + equity; healthcare RAG + agentic + ML 1:1 thesis; soft 5-yr SWE seniority gap with explicit L2 entry; PDF generated)
+- [!] https://builtin.com/job/forward-deployed-engineer/4653161 | Visia | Forward Deployed Engineer | Remote-US — error: posting closed (BuiltIn snapshot reads "removed May 8, 2025 at 3:20 PM CST"); archived
 
 
 
@@ -1220,3 +1225,4 @@
 - [x] #580 | https://jobs.smartrecruiters.com/AspenSkiingCompany/744000118213407-ai-engineer | Aspen Skiing Company | AI Engineer | Aspen / Denver, CO — On-site (verify) | 3.0/5 | PDF ✅
 - [x] #588 | https://jobs.ashbyhq.com/percepta/bbfe8035-2364-419b-bb36-500aaa542fb2 | Percepta | Applied AI Engineer | New York City — On-site | 4.0/5 | PDF ✅
 - [x] #591 | https://remotive.com/remote/jobs/ai-ml/ai-implementation-engineer-4183812 | ServiceNow (Moveworks) | AI Implementation Engineer | Remote - USA | 3.7/5 | PDF ✅
+- [x] #596 | https://jobs.ashbyhq.com/phare-r1-r37/0b315831-5eef-42a3-93be-45967f13a969 | R37 Lab (R1 RCM) | ML Engineer | New York | Remote — US-Remote with NYC primary + SF/Austin/Chicago hubs | 3.5/5 | PDF ✅

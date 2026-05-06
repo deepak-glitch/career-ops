@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 596 | 2026-05-06 | R37 Lab (R1 RCM) | ML Engineer | 3.5/5 | Evaluated | ✅ | [596](reports/596-r37-lab-r1-rcm-ml-engineer-2026-05-06.md) | NY|Remote US-Remote with NYC primary + SF/Austin/Chicago hubs; $140-300K + bonus + equity; AI-native healthcare RCM at national scale (95 of top 100 US health systems); healthcare RAG + agentic + ML 1:1 thesis; soft 5-yr SWE seniority gap with explicit L2 entry; PDF generated |
 | 591 | 2026-05-06 | ServiceNow (Moveworks) | AI Implementation Engineer | 3.7/5 | Evaluated | ✅ | [591](reports/591-servicenow-moveworks-ai-implementation-2026-05-06.md) | US Remote post-sale Implementation Engineer; $83-129K modest but Mid bar 2+ yr fits; Moveworks (ServiceNow Apr-2025 acq) Now Assist; Emerson ERP + Manga Lens transferable enterprise integration; PDF generated |
 | 579 | 2026-05-06 | Daxko | AI Software Engineer I | 3.6/5 | Evaluated | ✅ | [579](reports/579-daxko-ai-software-engineer-i-2026-05-06.md) | $95.7-160K disclosed; remote-US; RAG + multi-provider LLM API + vector DB 1:1 fit; AWS Bedrock/SageMaker ramp gap acceptable; PDF generated |
 | 580 | 2026-05-06 | Aspen Skiing | AI Engineer | 3.0/5 | Evaluated | ✅ | [580](reports/580-aspen-skiing-ai-engineer-2026-05-06.md) | $103-144K disclosed CO; Aspen/Denver on-site verify; Azure/Copilot/Power Platform ramp gap; deadline 2026-04-07 may have closed; PDF generated |
