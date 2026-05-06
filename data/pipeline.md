@@ -806,6 +806,14 @@
 - [!] https://remotive.com/remote/jobs/ai-ml/machine-learning-engineer-consultant-4498846 | iScale Solutions | Machine Learning Engineer (Consultant) | Worldwide Remote (Contract 15-20 hrs/wk) — moved to Procesadas (#564) 2026-05-06 (2.3/5 — AWS ML Specialty Cert hard gate + SageMaker gap + F-1 OPT 1099 friction; comp not disclosed; SKIP)
 - [!] https://www.workatastartup.com/jobs/80966 | Distro | Forward Deployed Engineer | Palo Alto (per YC) — error: posting closed (workatastartup.com HTTP 404 + YC company page reads "No jobs at Distro are currently posted on the YC platform" 2026-05-06T02:25Z); archived
 - [!] https://apply.workable.com/neurohire-dot-a-i/j/23AB9552F9/ | neurohire.ai | AI Engineer | California City CA / Texas City TX — On-site (per BeBee/ZipRecruiter mirrors) — moved to Procesadas (#565) 2026-05-06 (2.0/5 — small TX SaaS; $70-100K below market; generic Python/Java/Hadoop/TF/Spark legacy stack; small-town on-site relocation friction; SKIP)
+- [!] https://jobs.ashbyhq.com/elevenlabs/275f43d0-b62d-401d-830c-7c1ac0e688aa | ElevenLabs | Enterprise Solutions Engineer - North America | Remote — Global (NA preferred); 7 hub offices — moved to Procesadas (#566) 2026-05-06 (3.2/5 — $11B voice AI; Python SE for ElevenAgents/ElevenCreative; Manga Lens public ship + multi-provider integration directly maps; voice AI domain ramp gap; PDF generated)
+- [!] https://jobs.ashbyhq.com/elevenlabs/b95f7f0b-f22f-4fc4-9d9f-87f5485b0a1f | ElevenLabs | Enterprise Solutions Engineer - EU (German Speaking) | Germany — Remote — moved to Procesadas (#567) 2026-05-06 (1.5/5 — fluent German hard requirement + EU work auth implied; F-1 OPT geo + language double veto; SKIP)
+<!-- Overnight 2026-05-06T~04Z Level 3 WebSearch additions (Lever FDE-net) -->
+- [!] https://jobs.lever.co/researchinnovations.com/9d0442ea-7080-4c4f-ad4e-91afa64dd239 | Research Innovations | Forward Deployed Engineer (TC2259) | Aberdeen Proving Grounds (per fwddeploy.com mirror) — error: posting closed (Lever direct URL HTTP 404 + posting absent from Lever feed 2026-05-06T04Z; fwddeploy.com cached snapshot reveals defense/EW role requiring active US Secret clearance + 8-12 yrs DoD exp = hard F-1 OPT veto regardless); archived
+- [!] https://jobs.lever.co/JetBridge/be83be0c-2e90-48fa-9180-50d8859a67b3 | JetBridge | Forward Deployed Engineer (Open-Source AI Platform Client) | Remote — Latin America only — moved to Procesadas (#568) 2026-05-06 (2.4/5 — JetBridge LATAM-only staffing FDE for open-source AI agent platform client; strong tech fit but F-1 OPT US-base geo veto on LATAM-only contracts; SKIP)
+- [!] https://jobs.lever.co/zaimler/3166d3f5-53c2-4cf7-8d5f-3d9191d1f5a2 | zaimler | Forward Deployed Engineer | New York, NY — On-site/EST + customer travel — moved to Procesadas (#569) 2026-05-06 (2.7/5 — Series A knowledge-graph infra startup; K8s/Terraform/Helm/Ray quad gap from Applied-AI background; 3+ yrs borderline; SKIP unless infra ramp possible)
+- [!] https://jobs.lever.co/SymmetrySystems/a7915476-8b5b-4c02-9c2a-d3fdabec3fdf | Symmetry Systems | Associate Forward Deployed Engineer (L3) | Remote — US (verify) — moved to Procesadas (#570) 2026-05-06 (3.0/5 — Series B DSPM Data + AI Security; L3 Associate variant of #105 L4; AWS/Azure/GCP IAM gap; HIPAA + Emerson RBAC closest adjacencies; not primarily AI; PDF generated)
+
 
 ## Procesadas
 
@@ -1163,3 +1171,5 @@
 ### 2026-05-06
 
 - [x] #563 | https://remotive.com/remote/jobs/ai-ml/machine-learning-engineer-4220102 | Spotify | Machine Learning Engineer | Remote — EST timezone (UTC-5) US-leaning | 3.2/5 | PDF ✅
+- [x] #566 | https://jobs.ashbyhq.com/elevenlabs/275f43d0-b62d-401d-830c-7c1ac0e688aa | ElevenLabs | Enterprise Solutions Engineer - North America | Remote — Global (NA preferred); 7 hub offices | 3.2/5 | PDF ✅
+- [x] #570 | https://jobs.lever.co/SymmetrySystems/a7915476-8b5b-4c02-9c2a-d3fdabec3fdf | Symmetry Systems | Associate Forward Deployed Engineer (L3) | Remote — US (verify) | 3.0/5 | PDF ✅
