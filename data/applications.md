@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 563 | 2026-05-06 | Spotify | Machine Learning Engineer | 3.2/5 | Evaluated | ✅ | [563](reports/563-spotify-ml-engineer-2026-05-06.md) | Remote (EST timezone) US-leaning; $170-212K + equity; ML Engineer (Applied AI Systems) archetype; Java/Scala/GCP/Beam ramp gap; F-1 OPT sponsorship verify in screen; PDF generated |
 | 559 | 2026-05-05 | Vettura LLC | AI/ML Engineer | 3.0/5 | Evaluated | ✅ | [559](reports/559-vettura-aiml-engineer-2026-05-05.md) | Mid-level 3+y NLP+CV+GenAI breadth; Workable widget partial — corroborated via aggregators; comp & sponsorship verify in screen; PDF generated |
 | 561 | 2026-05-05 | Littlebird | Applied AI Engineer (Agent Intelligence & Retrieval) | 3.5/5 | Evaluated | ✅ | [561](reports/561-littlebird-applied-ai-2026-05-05.md) | Remote-US RAG/hybrid search core ML; Remotive 410 direct + corroborated via Web search; comp/sponsorship verify in screen; PDF generated |
 | 562 | 2026-05-05 | P-1 AI | Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [558](reports/558-p1-ai-fde-2026-05-05.md) | US/Canada remote (quarterly SF travel); $160-200K + equity; engineering AGI seed; F-1 OPT sponsorship verify in screen; PDF generated |

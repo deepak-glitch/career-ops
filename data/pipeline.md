@@ -798,8 +798,14 @@
 - [!] https://himalayas.app/companies/robots-pencils/jobs/ai-engineer-ai-architect | Robots & Pencils | AI Engineer / AI Architect | Colombia — Remote — moved to Procesadas (#560) 2026-05-05 (1.8/5 — "Level 4 leader" + 5+y senior floor (50% YOE gap) + Architect/leadership tier; Colombia-base F-1 OPT US-base mismatch; SKIP)
 - [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-agent-intelligence-retrieval-3227287 | Littlebird | Applied AI Engineer - Agent Intelligence & Retrieval | Remote-US — moved to Procesadas (#561) 2026-05-05 (3.5/5 — RAG hybrid search BM25+vector+RRF+re-ranker + agent logic 1:1 fit; consumer AI personal-thought-partner; Remotive HTTP 410 direct + corroborated via Web search + littlebird.ai/careers; comp/sponsorship verify in screen; PDF generated)
 
+### 2026-05-06
 
-
+<!-- Overnight 2026-05-06T02:08Z batch — scan.mjs (Clay Labs) + Level 3 WebSearch additions (Remotive Spotify/iScale + YC WaaS Distro + Workable neurohire retry) -->
+- [!] https://jobs.ashbyhq.com/claylabs/1b1c004f-0e6a-41b6-bac3-971448b63a07 | Clay Labs | GTME Ecosystem - GTME & AI Teacher | New York, NY — On-site (verify) — moved to Procesadas (#562) 2026-05-06 (1.5/5 — Clay Series C $5B GTM/AI content creator role; $125-190K + equity; off-archetype on-camera production + Clay-native + GTM-domain triple gap; SKIP)
+- [!] https://remotive.com/remote/jobs/ai-ml/machine-learning-engineer-4220102 | Spotify | Machine Learning Engineer | Remote — EST timezone (UTC-5) US-leaning — moved to Procesadas (#563) 2026-05-06 (3.2/5 — $170-212K + equity; ML Engineer Applied AI Systems archetype; Java/Scala/GCP/Beam ramp gap; F-1 OPT sponsorship verify in screen; PDF generated)
+- [!] https://remotive.com/remote/jobs/ai-ml/machine-learning-engineer-consultant-4498846 | iScale Solutions | Machine Learning Engineer (Consultant) | Worldwide Remote (Contract 15-20 hrs/wk) — moved to Procesadas (#564) 2026-05-06 (2.3/5 — AWS ML Specialty Cert hard gate + SageMaker gap + F-1 OPT 1099 friction; comp not disclosed; SKIP)
+- [!] https://www.workatastartup.com/jobs/80966 | Distro | Forward Deployed Engineer | Palo Alto (per YC) — error: posting closed (workatastartup.com HTTP 404 + YC company page reads "No jobs at Distro are currently posted on the YC platform" 2026-05-06T02:25Z); archived
+- [!] https://apply.workable.com/neurohire-dot-a-i/j/23AB9552F9/ | neurohire.ai | AI Engineer | California City CA / Texas City TX — On-site (per BeBee/ZipRecruiter mirrors) — moved to Procesadas (#565) 2026-05-06 (2.0/5 — small TX SaaS; $70-100K below market; generic Python/Java/Hadoop/TF/Spark legacy stack; small-town on-site relocation friction; SKIP)
 
 ## Procesadas
 
@@ -1153,3 +1159,7 @@
 - [x] #558 | https://jobs.ashbyhq.com/P-1%20AI/0be87478-22fd-4a03-b1d2-553347f87cf1 | P-1 AI | Forward Deployed Engineer | US/Canada Remote (quarterly San Mateo) OR San Mateo Bay Area | 3.0/5 | PDF ✅
 - [x] #559 | https://apply.workable.com/vettura/j/3DE0A35175/ | Vettura LLC | AI/ML Engineer | Remote (verify in screen) | 3.0/5 | PDF ✅
 - [x] #561 | https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-agent-intelligence-retrieval-3227287 | Littlebird | Applied AI Engineer (Agent Intelligence & Retrieval) | Remote — USA | 3.5/5 | PDF ✅
+
+### 2026-05-06
+
+- [x] #563 | https://remotive.com/remote/jobs/ai-ml/machine-learning-engineer-4220102 | Spotify | Machine Learning Engineer | Remote — EST timezone (UTC-5) US-leaning | 3.2/5 | PDF ✅
