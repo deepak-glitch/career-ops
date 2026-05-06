@@ -1,0 +1,71 @@
+{
+  "fields": {
+    "firstName": "Deepak",
+    "middleName": null,
+    "lastName": "Mallampati",
+    "fullName": "Deepak Mallampati",
+    "email": "deepakmallampati00@gmail.com",
+    "phone": "3305540770",
+    "phoneFull": "+1 3305540770",
+    "countryCode": "+1",
+    "dateOfBirth": "05/19/2001",
+    "country": "United States of America",
+    "currentLocation": "Kent, OH, Portage",
+    "addressLine1": "1557 Stratford Dr",
+    "addressLine2": null,
+    "city": "Kent",
+    "state": "Ohio",
+    "county": "Portage",
+    "postalCode": "44240",
+    "workAuthorized": "Yes",
+    "visaStatus": "F1 Opt",
+    "sponsorshipNow": "No",
+    "sponsorshipFuture": "Yes",
+    "over18": "Yes",
+    "workArrangement": "Flexible",
+    "compensationRange": "85000-150000 dollars",
+    "openToRelocation": "Yes",
+    "currentCompany": "Progress Solutions",
+    "gender": "Male",
+    "transgender": null,
+    "race": "Asian",
+    "veteranStatus": "No, I am not a veteran or active member",
+    "disability": null,
+    "companiesWorkedIn": "Progress Solutions, Emerson, Suvidha Foundation",
+    "languages": "English, etc.",
+    "linkedin": "https://www.linkedin.com/in/deepak-mallampati/",
+    "totalExperience": "2.5Yrs",
+    "highestEducation": "Masters",
+    "targetedRoles": "Applied AI Engineer, Generative AI Engineer, LLM Engineer, Machine Learning Engineer (Applied AI Systems), AI Software Engineer, AI Platform Engineer, Machine Learning Engineer – Computer Vision, AI Solutions Engineer, AI Product Engineer",
+    "references": [
+      {
+        "name": "Mohith",
+        "phone": "+1 (469) 789 5222",
+        "email": "progress@psitcorp.com",
+        "relation": "Reporting Manager",
+        "title": "Manager"
+      },
+      {
+        "name": "K . V. Siva Rao",
+        "phone": "+919848029451",
+        "email": "siva.rao@emerson.com",
+        "relation": "Reporting Manager",
+        "title": "Manager"
+      },
+      {
+        "name": "Suvidha Mahila Mandal\t- shobha Motghare",
+        "phone": "+917020044091",
+        "email": "info@suvidhafoundationedutech.org",
+        "relation": "Hiring Manager",
+        "title": "Team Leader"
+      },
+      {
+        "name": "Helen Hathaway Alexander",
+        "phone": "---",
+        "email": "hhathawa@kent.edu",
+        "relation": "Hiring Manager",
+        "title": "Supervisor"
+      }
+    ]
+  }
+}

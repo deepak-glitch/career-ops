@@ -7,6 +7,10 @@ const FILL_QUEUE_KEY = "fillQueue";          // map of url → { slug, queuedAt 
 const SELECTION_KEY = "selectedUrls";        // string[] persisted across re-opens
 const BATCH_OPEN_DELAY_MS = 800;             // stagger tab creation
 
+// `BUNDLED` is set to true once we've confirmed the local bridge is offline
+// and we're falling back to the data shipped inside the extension itself.
+let BUNDLED = false;
+
 const els = {
   bridgeStatus: document.getElementById("bridge-status"),
   currentInfo: document.getElementById("current-info"),
@@ -33,26 +37,77 @@ let CURRENT_TAB = null;
 
 // ---- bridge + jobs ---------------------------------------------------
 
+// ---- bundled-mode helpers ------------------------------------------
+// When the local bridge isn't running we serve the same shapes from files
+// shipped inside the extension (built by `node bundle-data.mjs`).
+
+async function resolveFromBundle(url) {
+  // Find the slug that matches this URL and load its resolved snapshot.
+  const snap = await fetch(chrome.runtime.getURL("data/jobs.json")).then((r) => r.json());
+  const job = (snap.jobs || []).find((j) => j.url === url);
+  if (!job || !job.slug) {
+    return { url, portal: "generic", report: null, slug: null, applicant: {}, drafts: {}, resumePdfUrl: null };
+  }
+  const resolved = await fetch(chrome.runtime.getURL(`data/resolved/${job.slug}.json`))
+    .then((r) => r.json())
+    .catch(() => null);
+  if (!resolved) {
+    return { url, portal: job.portal, report: null, slug: job.slug, applicant: {}, drafts: {}, resumePdfUrl: null };
+  }
+  // Prefix the bundled PDF URL with chrome.runtime.getURL so the content
+  // script can fetch it without going through the bridge.
+  if (resolved.resumePdfUrl) {
+    resolved.resumePdfUrl = chrome.runtime.getURL(resolved.resumePdfUrl);
+  }
+  return resolved;
+}
+
+async function prefillFromBundle(url) {
+  const snap = await fetch(chrome.runtime.getURL("data/jobs.json")).then((r) => r.json());
+  const job = (snap.jobs || []).find((j) => j.url === url);
+  if (!job || !job.slug) return null;
+  try {
+    return await fetch(chrome.runtime.getURL(`data/prefilled/${job.slug}.json`)).then((r) => r.json());
+  } catch {
+    return null;
+  }
+}
+
 async function checkBridge() {
   try {
     const r = await fetch(`${BRIDGE}/health`);
     if (!r.ok) throw new Error(`status ${r.status}`);
     const j = await r.json();
-    els.bridgeStatus.textContent = `bridge ok :${j.port}`;
+    els.bridgeStatus.textContent = `bridge :${j.port}`;
     els.bridgeStatus.classList.add("ok");
+    BUNDLED = false;
     return true;
   } catch (e) {
-    els.bridgeStatus.textContent = "bridge offline";
-    els.bridgeStatus.classList.add("err");
-    return false;
+    // Bridge offline — fall back to the snapshot bundled into the extension.
+    BUNDLED = true;
+    try {
+      const snap = await fetch(chrome.runtime.getURL("data/jobs.json")).then((r) => r.json());
+      const stamp = (snap.bundledAt || "").slice(0, 10);
+      els.bridgeStatus.textContent = `bundle ${stamp}`;
+      els.bridgeStatus.classList.add("ok");
+      return true;
+    } catch {
+      els.bridgeStatus.textContent = "no bridge / bundle";
+      els.bridgeStatus.classList.add("err");
+      return false;
+    }
   }
 }
 
 async function loadJobs() {
   try {
-    const r = await fetch(`${BRIDGE}/jobs`);
-    const j = await r.json();
-    JOBS = j.jobs || [];
+    if (BUNDLED) {
+      const j = await fetch(chrome.runtime.getURL("data/jobs.json")).then((r) => r.json());
+      JOBS = j.jobs || [];
+    } else {
+      const j = await fetch(`${BRIDGE}/jobs`).then((r) => r.json());
+      JOBS = j.jobs || [];
+    }
   } catch {
     JOBS = [];
   }
@@ -235,10 +290,13 @@ async function inspectCurrentTab() {
     return;
   }
   try {
-    const [resolveResp, prefillResp] = await Promise.all([
-      fetch(`${BRIDGE}/resolve?url=${encodeURIComponent(tab.url)}`).then((r) => r.json()),
-      fetch(`${BRIDGE}/prefill?url=${encodeURIComponent(tab.url)}`).then((r) => r.ok ? r.json() : null).catch(() => null),
-    ]);
+    const fetchResolve = BUNDLED
+      ? resolveFromBundle(tab.url)
+      : fetch(`${BRIDGE}/resolve?url=${encodeURIComponent(tab.url)}`).then((r) => r.json());
+    const fetchPrefill = BUNDLED
+      ? prefillFromBundle(tab.url)
+      : fetch(`${BRIDGE}/prefill?url=${encodeURIComponent(tab.url)}`).then((r) => r.ok ? r.json() : null).catch(() => null);
+    const [resolveResp, prefillResp] = await Promise.all([fetchResolve, fetchPrefill]);
     const j = resolveResp;
     let html = "";
     if (!j.report) {

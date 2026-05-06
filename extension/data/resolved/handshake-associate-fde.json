@@ -1,0 +1,89 @@
+{
+  "url": "https://jobs.ashbyhq.com/handshake/dfa844d4-3a17-4773-9320-0455499d6f0b",
+  "portal": "ashby",
+  "report": {
+    "num": 312,
+    "file": "312-handshake-associate-fde-2026-04-30.md",
+    "company": "Handshake",
+    "role": "Associate Forward Deployed Engineer"
+  },
+  "slug": "handshake-associate-fde",
+  "resumePdfUrl": "data/pdfs/handshake-associate-fde.pdf",
+  "applicant": {
+    "firstName": "Deepak",
+    "middleName": null,
+    "lastName": "Mallampati",
+    "fullName": "Deepak Mallampati",
+    "email": "deepakmallampati00@gmail.com",
+    "phone": "3305540770",
+    "phoneFull": "+1 3305540770",
+    "countryCode": "+1",
+    "dateOfBirth": "05/19/2001",
+    "country": "United States of America",
+    "currentLocation": "Kent, OH, Portage",
+    "addressLine1": "1557 Stratford Dr",
+    "addressLine2": null,
+    "city": "Kent",
+    "state": "Ohio",
+    "county": "Portage",
+    "postalCode": "44240",
+    "workAuthorized": "Yes",
+    "visaStatus": "F1 Opt",
+    "sponsorshipNow": "No",
+    "sponsorshipFuture": "Yes",
+    "over18": "Yes",
+    "workArrangement": "Flexible",
+    "compensationRange": "85000-150000 dollars",
+    "openToRelocation": "Yes",
+    "currentCompany": "Progress Solutions",
+    "gender": "Male",
+    "transgender": null,
+    "race": "Asian",
+    "veteranStatus": "No, I am not a veteran or active member",
+    "disability": null,
+    "companiesWorkedIn": "Progress Solutions, Emerson, Suvidha Foundation",
+    "languages": "English, etc.",
+    "linkedin": "https://www.linkedin.com/in/deepak-mallampati/",
+    "totalExperience": "2.5Yrs",
+    "highestEducation": "Masters",
+    "targetedRoles": "Applied AI Engineer, Generative AI Engineer, LLM Engineer, Machine Learning Engineer (Applied AI Systems), AI Software Engineer, AI Platform Engineer, Machine Learning Engineer – Computer Vision, AI Solutions Engineer, AI Product Engineer",
+    "references": [
+      {
+        "name": "Mohith",
+        "phone": "+1 (469) 789 5222",
+        "email": "progress@psitcorp.com",
+        "relation": "Reporting Manager",
+        "title": "Manager"
+      },
+      {
+        "name": "K . V. Siva Rao",
+        "phone": "+919848029451",
+        "email": "siva.rao@emerson.com",
+        "relation": "Reporting Manager",
+        "title": "Manager"
+      },
+      {
+        "name": "Suvidha Mahila Mandal\t- shobha Motghare",
+        "phone": "+917020044091",
+        "email": "info@suvidhafoundationedutech.org",
+        "relation": "Hiring Manager",
+        "title": "Team Leader"
+      },
+      {
+        "name": "Helen Hathaway Alexander",
+        "phone": "---",
+        "email": "hhathawa@kent.edu",
+        "relation": "Hiring Manager",
+        "title": "Supervisor"
+      }
+    ]
+  },
+  "drafts": {
+    "Cover Letter": "Hi Handshake team,\n\nI'm Deepak Mallampati — Applied AI engineer building RAG, agentic workflows, and predictive ML for healthcare and enterprise. Recent example: Healthcare RAG system — ~30-35% contextual retrieval precision improvement.\n\nWhy Associate Forward Deployed Engineer: the work centers on shipping LLM/agentic systems with measurable impact, which is the loop I run today at Progress Solutions (RAG precision +30-35%, hallucinations reduced >30%). I'd love to do that with you.\n\nResume attached. Happy to dig into specifics on a call.\n\nThanks,\nDeepak",
+    "Why do you want to join us?": "Handshake is shipping the kind of applied AI work I want to do for the next several years — production LLM/RAG systems with real measurement discipline. My current work at Progress Solutions sits on the same problem shape (clinical RAG, agentic workflows, predictive ML), and I want to take that into a higher-leverage product surface alongside an experienced team.",
+    "Why this role?": "Associate Forward Deployed Engineer maps directly to my targeted archetypes (Applied AI Engineer, Generative AI Engineer, LLM Engineer, Machine Learning Engineer (Applied AI Systems), AI Software Engineer, AI Platform Engineer, Machine Learning Engineer – Computer Vision, AI Solutions Engineer, AI Product Engineer). I've shipped end-to-end RAG with ~30-35% retrieval precision gains, agentic LLM workflows with >30% reduction in hallucinated outputs, and predictive ML pipelines lifting high-risk recall by 15-20%. I'm looking for a place where that work can compound, and Associate Forward Deployed Engineer is that.",
+    "Tell us about yourself": "Currently at Progress Solutions shipping healthcare RAG and agentic LLM systems with measurable impact on retrieval precision, hallucination reduction, and risk-prediction recall.",
+    "Notice period": "Two weeks",
+    "Where did you hear about us?": "Company website / job board"
+  }
+}
