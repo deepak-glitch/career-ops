@@ -822,6 +822,16 @@
 - [!] https://job-boards.greenhouse.io/fireworksai/jobs/4001304009 | Fireworks AI | Applied Machine Learning Engineer | NYC / San Mateo / Remote-US — moved to Procesadas (#572) 2026-05-06 (2.7/5 — LLM inference platform; $170-240K disclosed; 5+ yr hard gate vs 2.5 yr; no SFT/RLHF on LLMs; SKIP unless directional)
 - [!] https://himalayas.app/companies/q-centrix/jobs/junior-ai-engineer | Q-Centrix | Junior AI Engineer | Remote/Hybrid USA — error: posting closed (BuiltIn snapshot reads "removed at 04:08 p.m. (CST) on Tuesday, Jul 15, 2025"); also "U.S. work authorization without sponsorship required" hard veto for F-1 OPT; archived
 - [!] https://builtin.com/job/forward-deployed-aiml-engineer/4031235 | Groq | Forward Deployed AI/ML Engineer | Mountain View, CA (Remote/Hybrid) — error: posting closed (BuiltIn snapshot reads "removed April 30, 2025 at 8:15 PM CST"); archived
+- [!] https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee | Mistral AI | Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris | Paris, France — Hybrid — moved to Procesadas (#573) 2026-05-06 (1.5/5 — French citizenship + high-level security clearance hard requirement; F-1 OPT non-French citizen; tech stack 1:1 fit but citizenship+geo double veto; SKIP)
+- [!] https://sumup.com/careers/positions/8340146002?gh_jid=8340146002 | SumUp | Customer Support Agent - SP/PT | Barcelona, Spain — not archetype match (Customer Support Agent), filter slip per _profile.md hygiene; archived
+<!-- Overnight 2026-05-06T~12Z Level 3 WebSearch additions (Greenhouse + Smartrecruiters + Ashby + Workable) -->
+- [!] https://job-boards.greenhouse.io/stackadapt/jobs/4131244009 | StackAdapt | Machine Learning Engineer (Remote) | Remote — UK / Ireland / Germany only — moved to Procesadas (#575) 2026-05-06 (1.8/5 — geo-restricted to UK/IE/DE; F-1 OPT US-base hard veto on EMEA work auth; SKIP)
+- [!] https://jobs.smartrecruiters.com/Socotec/744000124433581-applied-ai-engineer | SOCOTEC | Applied AI Engineer | Dallas, TX — On-site 4d/wk — moved to Procesadas (#574) 2026-05-06 (1.8/5 — explicit "no sponsorship now or future" hard veto for F-1 OPT post-STEM; tech stack 1:1 fit; SKIP)
+- [!] https://jobs.ashbyhq.com/pear-vc/b78ff453-6996-4e0d-8e1e-a7ad61a71092 | Pear VC (Atrix) | Forward Deployed Engineer (AI Solutions) | New York City — Hybrid — moved to Procesadas (#576) 2026-05-06 (4.0/5 — earliest-FDE at Pear-backed pharma AI startup; healthcare AI + RAG/agentic/evals 1:1 stack; 2-5 yr fit; NYC relocation needed; PDF generated)
+- [!] https://apply.workable.com/cxg/j/5ED4EB3757 | CXG | AI Engineer (GenAI, LLMs & Computer Vision) | Morocco — Remote (per Workable mirror) — error: Workable jobs.workable.com mirror returns HTTP 410 (posting closed 2026-05-06T12Z); also Morocco-based F-1 OPT geo veto regardless; archived
+- [!] https://apply.workable.com/datagalaxy/j/7FA28E54A5 | DataGalaxy | Software Engineer (GenAI / MLOps & ModelOps) AI-Share | Lyon, France — Remote possible within EU under CDI — moved to Procesadas (#577) 2026-05-06 (1.8/5 — Lyon FR HQ + CDI permanent contract; F-1 OPT US-base no EU work auth; tech stack 1:1 fit; SKIP)
+- [!] https://apply.workable.com/third-eye-software/j/3E2496C610/ | Third Eye Software | Senior Software Engineer (GenAI) (25091601) | Austin, TX — Remote/Hybrid (per ZipRecruiter mirror) — moved to Procesadas (#578) 2026-05-06 (2.6/5 — Senior 5+ yr stretch (2.5y); staffing W2 model + comp ~10-30% below in-house; sponsorship uncertain; SKIP)
+
 
 
 ## Procesadas
@@ -1182,3 +1192,4 @@
 - [x] #563 | https://remotive.com/remote/jobs/ai-ml/machine-learning-engineer-4220102 | Spotify | Machine Learning Engineer | Remote — EST timezone (UTC-5) US-leaning | 3.2/5 | PDF ✅
 - [x] #566 | https://jobs.ashbyhq.com/elevenlabs/275f43d0-b62d-401d-830c-7c1ac0e688aa | ElevenLabs | Enterprise Solutions Engineer - North America | Remote — Global (NA preferred); 7 hub offices | 3.2/5 | PDF ✅
 - [x] #570 | https://jobs.lever.co/SymmetrySystems/a7915476-8b5b-4c02-9c2a-d3fdabec3fdf | Symmetry Systems | Associate Forward Deployed Engineer (L3) | Remote — US (verify) | 3.0/5 | PDF ✅
+- [x] #576 | https://jobs.ashbyhq.com/pear-vc/b78ff453-6996-4e0d-8e1e-a7ad61a71092 | Pear VC (Atrix) | Forward Deployed Engineer (AI Solutions) | New York City — Hybrid | 4.0/5 | PDF ✅
