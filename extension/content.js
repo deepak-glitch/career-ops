@@ -290,9 +290,14 @@
   }
 
   async function fillFileFromUrl(el, fileUrl, suggestedName = "resume.pdf") {
-    const resp = await fetch(fileUrl);
-    if (!resp.ok) return false;
-    const blob = await resp.blob();
+    let blob;
+    try {
+      // Use the shared resolver so github raw URLs get the auth header.
+      blob = await window.careerOpsSources.fetchPdfBlob(fileUrl);
+    } catch {
+      return false;
+    }
+    if (!blob) return false;
     const file = new File([blob], suggestedName, { type: blob.type || "application/pdf" });
     const dt = new DataTransfer();
     dt.items.add(file);
@@ -328,57 +333,18 @@
     return partial || null;
   }
 
-  // Try the local bridge first; if it isn't reachable, fall back to the data
-  // bundled inside the extension itself (built by `node bundle-data.mjs`).
-  async function fetchResolveAndPrefill(bridge, url) {
-    let bridgeUp = false;
-    try {
-      const h = await fetch(`${bridge}/health`, { cache: "no-store" });
-      bridgeUp = h.ok;
-    } catch {}
-
-    if (bridgeUp) {
-      let prefill = null;
-      try {
-        const pre = await fetch(`${bridge}/prefill?url=${encodeURIComponent(url)}`);
-        if (pre.ok) prefill = await pre.json();
-      } catch {}
-      const resp = await fetch(`${bridge}/resolve?url=${encodeURIComponent(url)}`);
-      if (!resp.ok) throw new Error(`bridge /resolve failed: ${resp.status}`);
-      const data = await resp.json();
-      // Resume URL: bridge serves a relative path; prefix with bridge origin.
-      if (data.resumePdfUrl) data.resumePdfUrl = bridge + data.resumePdfUrl;
-      if (prefill && prefill.resumePdfUrl) prefill.resumePdfUrl = bridge + prefill.resumePdfUrl;
-      return { data, prefill, mode: "bridge" };
-    }
-
-    // Bundled fallback. Look up the slug from data/jobs.json, then load the
-    // per-slug resolved + prefilled snapshots.
-    const snap = await fetch(chrome.runtime.getURL("data/jobs.json"))
-      .then((r) => r.json())
-      .catch(() => null);
-    if (!snap) throw new Error("no bridge AND no bundle (chrome.runtime.getURL failed)");
-    const job = (snap.jobs || []).find((j) => j.url === url);
-    if (!job || !job.slug) {
-      // Last resort: applicant only, no per-job context.
-      const applicant = await fetch(chrome.runtime.getURL("data/applicant.json"))
-        .then((r) => r.json()).catch(() => ({ fields: {} }));
-      return {
-        data: { url, portal: detectPortal(url), report: null, slug: null,
-                applicant: applicant.fields || {}, drafts: {}, resumePdfUrl: null },
-        prefill: null,
-        mode: "bundle-no-match",
-      };
-    }
-    const data = await fetch(chrome.runtime.getURL(`data/resolved/${job.slug}.json`))
-      .then((r) => r.json());
-    if (data.resumePdfUrl) data.resumePdfUrl = chrome.runtime.getURL(data.resumePdfUrl);
-    let prefill = null;
-    try {
-      prefill = await fetch(chrome.runtime.getURL(`data/prefilled/${job.slug}.json`))
-        .then((r) => r.json());
-    } catch {}
-    return { data, prefill, mode: "bundle" };
+  // Source resolution lives in sources.js (loaded before this script via
+  // manifest). Pulls in this priority: bridge → github (auth) → bundle.
+  async function fetchResolveAndPrefill(_bridge, url) {
+    const [resolved, pre] = await Promise.all([
+      window.careerOpsSources.fetchResolve(url),
+      window.careerOpsSources.fetchPrefill(url),
+    ]);
+    return {
+      data: resolved.value || { url, portal: detectPortal(url), applicant: {}, drafts: {}, resumePdfUrl: null },
+      prefill: pre.value,
+      mode: resolved.mode,
+    };
   }
 
   async function runFill(bridge) {

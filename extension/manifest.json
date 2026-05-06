@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "career-ops auto-apply",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Fill job application forms from your career-ops pipeline. Halts at Submit.",
   "permissions": [
     "activeTab",
@@ -11,6 +11,8 @@
   "host_permissions": [
     "http://127.0.0.1:7777/*",
     "http://localhost:7777/*",
+    "https://api.github.com/*",
+    "https://raw.githubusercontent.com/*",
     "https://*.greenhouse.io/*",
     "https://*.ashbyhq.com/*",
     "https://*.lever.co/*",
@@ -31,6 +33,7 @@
     "default_title": "career-ops auto-apply",
     "default_popup": "popup.html"
   },
+  "options_page": "options.html",
   "background": {
     "service_worker": "background.js",
     "type": "module"
@@ -55,6 +58,7 @@
         "https://*.linkedin.com/*"
       ],
       "js": [
+        "sources.js",
         "content.js"
       ],
       "run_at": "document_idle"

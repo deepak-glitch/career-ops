@@ -7,9 +7,9 @@ const FILL_QUEUE_KEY = "fillQueue";          // map of url → { slug, queuedAt 
 const SELECTION_KEY = "selectedUrls";        // string[] persisted across re-opens
 const BATCH_OPEN_DELAY_MS = 800;             // stagger tab creation
 
-// `BUNDLED` is set to true once we've confirmed the local bridge is offline
-// and we're falling back to the data shipped inside the extension itself.
-let BUNDLED = false;
+let CURRENT_MODE = "bundle";                 // "bridge" | "github" | "bundle"
+let LAST_BUNDLED_AT = null;                  // string from jobs.json; used to detect changes
+let POLL_TIMER = null;
 
 const els = {
   bridgeStatus: document.getElementById("bridge-status"),
@@ -29,6 +29,7 @@ const els = {
   jobList: document.getElementById("job-list"),
   applySelectedBtn: document.getElementById("apply-selected-btn"),
   refreshBtn: document.getElementById("refresh-btn"),
+  settingsBtn: document.getElementById("settings-btn"),
 };
 
 let JOBS = [];
@@ -37,89 +38,54 @@ let CURRENT_TAB = null;
 
 // ---- bridge + jobs ---------------------------------------------------
 
-// ---- bundled-mode helpers ------------------------------------------
-// When the local bridge isn't running we serve the same shapes from files
-// shipped inside the extension (built by `node bundle-data.mjs`).
-
-async function resolveFromBundle(url) {
-  // Find the slug that matches this URL and load its resolved snapshot.
-  const snap = await fetch(chrome.runtime.getURL("data/jobs.json")).then((r) => r.json());
-  const job = (snap.jobs || []).find((j) => j.url === url);
-  if (!job || !job.slug) {
-    return { url, portal: "generic", report: null, slug: null, applicant: {}, drafts: {}, resumePdfUrl: null };
-  }
-  const resolved = await fetch(chrome.runtime.getURL(`data/resolved/${job.slug}.json`))
-    .then((r) => r.json())
-    .catch(() => null);
-  if (!resolved) {
-    return { url, portal: job.portal, report: null, slug: job.slug, applicant: {}, drafts: {}, resumePdfUrl: null };
-  }
-  // Prefix the bundled PDF URL with chrome.runtime.getURL so the content
-  // script can fetch it without going through the bridge.
-  if (resolved.resumePdfUrl) {
-    resolved.resumePdfUrl = chrome.runtime.getURL(resolved.resumePdfUrl);
-  }
-  return resolved;
-}
-
-async function prefillFromBundle(url) {
-  const snap = await fetch(chrome.runtime.getURL("data/jobs.json")).then((r) => r.json());
-  const job = (snap.jobs || []).find((j) => j.url === url);
-  if (!job || !job.slug) return null;
-  try {
-    return await fetch(chrome.runtime.getURL(`data/prefilled/${job.slug}.json`)).then((r) => r.json());
-  } catch {
-    return null;
-  }
-}
-
-async function checkBridge() {
-  try {
-    const r = await fetch(`${BRIDGE}/health`);
-    if (!r.ok) throw new Error(`status ${r.status}`);
-    const j = await r.json();
-    els.bridgeStatus.textContent = `bridge :${j.port}`;
+function modeBadge(mode, snap) {
+  els.bridgeStatus.classList.remove("ok", "err");
+  if (mode === "bridge") {
+    els.bridgeStatus.textContent = `bridge`;
     els.bridgeStatus.classList.add("ok");
-    BUNDLED = false;
-    return true;
-  } catch (e) {
-    // Bridge offline — fall back to the snapshot bundled into the extension.
-    BUNDLED = true;
-    try {
-      const snap = await fetch(chrome.runtime.getURL("data/jobs.json")).then((r) => r.json());
-      const stamp = (snap.bundledAt || "").slice(0, 10);
-      els.bridgeStatus.textContent = `bundle ${stamp}`;
-      els.bridgeStatus.classList.add("ok");
-      return true;
-    } catch {
-      els.bridgeStatus.textContent = "no bridge / bundle";
-      els.bridgeStatus.classList.add("err");
-      return false;
-    }
+  } else if (mode === "github") {
+    const stamp = (snap?.bundledAt || "").slice(0, 19).replace("T", " ");
+    els.bridgeStatus.textContent = `github · ${stamp || "live"}`;
+    els.bridgeStatus.classList.add("ok");
+  } else if (mode === "bundle") {
+    const stamp = (snap?.bundledAt || "").slice(0, 19).replace("T", " ");
+    els.bridgeStatus.textContent = `bundle ${stamp}`;
+    els.bridgeStatus.classList.add("ok");
+  } else {
+    els.bridgeStatus.textContent = "no source";
+    els.bridgeStatus.classList.add("err");
   }
 }
 
-// Re-checked on every popup open. If the local bridge comes online or new
-// data is bundled, the popup picks it up immediately.
-async function loadJobs() {
-  try {
-    if (BUNDLED) {
-      // cache-bust so we always get the latest bundled file (Chrome can
-      // aggressively cache extension resources).
-      const url = chrome.runtime.getURL("data/jobs.json") + "?t=" + Date.now();
-      const j = await fetch(url, { cache: "no-store" }).then((r) => r.json());
-      JOBS = j.jobs || [];
-      // Surface bundle freshness in the status badge.
-      const stamp = (j.bundledAt || "").slice(0, 19).replace("T", " ");
-      if (stamp) els.bridgeStatus.textContent = `bundle ${stamp}`;
-    } else {
-      const j = await fetch(`${BRIDGE}/jobs`, { cache: "no-store" }).then((r) => r.json());
-      JOBS = j.jobs || [];
-    }
-  } catch {
-    JOBS = [];
+// Re-checked on every popup open. The source resolver in sources.js picks
+// the highest-priority backend (bridge → github → bundle) so the popup auto-
+// updates whenever live data appears.
+async function loadJobs(opts = {}) {
+  const result = await window.careerOpsSources.fetchJobs();
+  CURRENT_MODE = result.mode;
+  JOBS = result.value?.jobs || [];
+  const stamp = result.value?.bundledAt || null;
+  modeBadge(result.mode, result.value);
+  // Detect change-since-last-poll so we can flash the status badge.
+  if (LAST_BUNDLED_AT && stamp && LAST_BUNDLED_AT !== stamp && !opts.firstLoad) {
+    els.bridgeStatus.classList.add("flash");
+    setTimeout(() => els.bridgeStatus.classList.remove("flash"), 1500);
   }
+  LAST_BUNDLED_AT = stamp;
   renderJobs();
+}
+
+async function startPolling() {
+  if (POLL_TIMER) clearInterval(POLL_TIMER);
+  const cfg = await window.careerOpsSources.getGithubSettings();
+  // Bridge mode polls fast (it's local); github/bundle modes use the user-
+  // configured cadence (default 60s, 0 = disabled).
+  let intervalMs = 0;
+  if (CURRENT_MODE === "bridge") intervalMs = 30 * 1000;
+  else if (cfg && cfg.pollSecs > 0) intervalMs = cfg.pollSecs * 1000;
+  if (intervalMs > 0) {
+    POLL_TIMER = setInterval(loadJobs, intervalMs);
+  }
 }
 
 function filteredJobs() {
@@ -298,14 +264,12 @@ async function inspectCurrentTab() {
     return;
   }
   try {
-    const fetchResolve = BUNDLED
-      ? resolveFromBundle(tab.url)
-      : fetch(`${BRIDGE}/resolve?url=${encodeURIComponent(tab.url)}`).then((r) => r.json());
-    const fetchPrefill = BUNDLED
-      ? prefillFromBundle(tab.url)
-      : fetch(`${BRIDGE}/prefill?url=${encodeURIComponent(tab.url)}`).then((r) => r.ok ? r.json() : null).catch(() => null);
-    const [resolveResp, prefillResp] = await Promise.all([fetchResolve, fetchPrefill]);
-    const j = resolveResp;
+    const [resolveResult, prefillResult] = await Promise.all([
+      window.careerOpsSources.fetchResolve(tab.url),
+      window.careerOpsSources.fetchPrefill(tab.url),
+    ]);
+    const j = resolveResult.value || {};
+    const prefillResp = prefillResult.value;
     let html = "";
     if (!j.report) {
       html =
@@ -391,7 +355,8 @@ function onFilterChange() {
 
 // ---- wiring ----------------------------------------------------------
 
-els.refreshBtn.addEventListener("click", loadJobs);
+els.refreshBtn.addEventListener("click", () => loadJobs({ firstLoad: false }));
+els.settingsBtn.addEventListener("click", () => chrome.runtime.openOptionsPage());
 els.minScore.addEventListener("input", onFilterChange);
 els.portalFilter.addEventListener("change", onFilterChange);
 els.pdfOnly.addEventListener("change", onFilterChange);
@@ -424,7 +389,11 @@ els.selectAll.addEventListener("change", () => {
 (async () => {
   await loadFilterPrefs();
   await loadSelection();
-  const ok = await checkBridge();
-  if (ok) await loadJobs();
+  await loadJobs({ firstLoad: true });
+  await startPolling();
   await inspectCurrentTab();
 })();
+
+window.addEventListener("unload", () => {
+  if (POLL_TIMER) clearInterval(POLL_TIMER);
+});
