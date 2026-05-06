@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.6.0](https://github.com/deepak-glitch/career-ops/compare/v1.5.0...v1.6.0) (2026-05-06)
+
+
+### Features
+
+* add Gemini CLI native integration and evaluator script  ([#349](https://github.com/deepak-glitch/career-ops/issues/349)) ([0853486](https://github.com/deepak-glitch/career-ops/commit/0853486d2c01a35adafea2cc6b6d8c429b843588))
+* add Gemini CLI native integration and evaluator script (closes [#344](https://github.com/deepak-glitch/career-ops/issues/344)) ([0853486](https://github.com/deepak-glitch/career-ops/commit/0853486d2c01a35adafea2cc6b6d8c429b843588))
+* add LaTeX/Overleaf CV export mode with pdflatex compilation ([#362](https://github.com/deepak-glitch/career-ops/issues/362)) ([b824953](https://github.com/deepak-glitch/career-ops/commit/b824953d0e3b7f8c6105dfcce7e17257c95ce6cd))
+* add LaTeX/Overleaf CV export mode with pdflatex compilation (closes [#47](https://github.com/deepak-glitch/career-ops/issues/47)) ([b824953](https://github.com/deepak-glitch/career-ops/commit/b824953d0e3b7f8c6105dfcce7e17257c95ce6cd))
+* **scan:** add posting-age filter (default 48h) with CLI overrides ([36cfa86](https://github.com/deepak-glitch/career-ops/commit/36cfa869be4bfb9c41f2e09ada82622db4345e49))
+* **scan:** add USA/Europe location filter; widen age window; fix title word boundaries ([e34c30f](https://github.com/deepak-glitch/career-ops/commit/e34c30f4eedff387143355e31f7cfaf02d58af7d))
+* **scan:** exclude senior+ roles; keep mid + entry-level only ([3e7be27](https://github.com/deepak-glitch/career-ops/commit/3e7be2706b6b0c3e718a3aa7d3a477f9b320b612))
+
+
+### Bug Fixes
+
+* **ci:** gracefully handle missing dependency graph in dependency-review ([#343](https://github.com/deepak-glitch/career-ops/issues/343)) ([7c5fecb](https://github.com/deepak-glitch/career-ops/commit/7c5fecb00d60521f77b33724eb345a28257d8832))
+* **ci:** gracefully handle missing dependency graph in dependency-review workflow ([#352](https://github.com/deepak-glitch/career-ops/issues/352)) ([7c5fecb](https://github.com/deepak-glitch/career-ops/commit/7c5fecb00d60521f77b33724eb345a28257d8832))
+* **pt:** restore diacritical marks in PT-BR modes ([#358](https://github.com/deepak-glitch/career-ops/issues/358)) ([3a4c596](https://github.com/deepak-glitch/career-ops/commit/3a4c596cb0a522f562ba38b35c210facaf38a503))
+* **pt:** restore diacritical marks in PT-BR modes ([#359](https://github.com/deepak-glitch/career-ops/issues/359)) ([3a4c596](https://github.com/deepak-glitch/career-ops/commit/3a4c596cb0a522f562ba38b35c210facaf38a503))
+* **scan:** reduce concurrency and widen fetch timeout ([766fd51](https://github.com/deepak-glitch/career-ops/commit/766fd519f1c4c17e3982ea694d779a1a6f268142))
+
 ## [1.5.0](https://github.com/santifer/career-ops/compare/v1.4.0...v1.5.0) (2026-04-14)
 
 
