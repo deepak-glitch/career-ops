@@ -882,6 +882,18 @@
 - [!] https://himalayas.app/companies/harris-global-business-services-inc/jobs/ai-ml-engineer | Harris Global Business Services | AI/ML Engineer | Costa Rica — Remote (Work from Home) — moved to Procesadas (#612) 2026-05-07 (1.8/5 — Costa Rica-only offshore; F-1 OPT US-base hard geo veto; Java/.NET multi-stack; 4+yr LLM gate; SKIP)
 - [!] https://job-boards.greenhouse.io/figma/jobs/4756707004 | Figma | Applied Research ML/AI Engineer | location verify — error: posting closed (Greenhouse 302 redirects to careers index with `?error=true` 2026-05-07T05Z); archived
 
+<!-- Overnight 2026-05-07T~04Z second pass: Level 3 WebSearch additions (Ashby + Greenhouse + SmartRecruiters + Rippling) -->
+- [!] https://jobs.ashbyhq.com/pulsora%20inc/40114f0d-d976-43b6-867c-23e52d6c6fff | Pulsora | Applied AI Engineer - US | Remote — United States — moved to Procesadas (#613) 2026-05-07 (3.0/5 — full-stack agentic LLM 1:1 archetype OpenAI/Anthropic/Gemini multi-provider; comp $50-60K far below US-remote market — Proceed with Caution; PDF generated)
+- [!] https://jobs.ashbyhq.com/sygaldry-technologies/7c37a4a4-68e1-4bad-8c37-42d1baa83e5a | Sygaldry Technologies | Applied AI Engineer, Product & GTM | San Francisco, CA — On-site — moved to Procesadas (#614) 2026-05-07 (2.5/5 — quantum-AI servers SF $200-240K; ASTRA-sim/gem5 + quantum domain hard gap; SKIP)
+- [!] https://job-boards.greenhouse.io/coherehealth/jobs/6645231003 | Cohere Health | Machine Learning Engineer I | Remote — USA — error: posting closed (Greenhouse 302 redirects to careers index w/ `?error=true` 2026-05-07T04Z); archived
+- [!] https://job-boards.greenhouse.io/truveta/jobs/5555763004 | Truveta | Machine Learning Engineer - LLMs & Generative AI | Seattle, WA — Hybrid — moved to Procesadas (#615) 2026-05-07 (1.8/5 — healthcare LLM 1:1 archetype but 6+y SWE/3+y LLM gap + foundation-model distributed training scope + NO SPONSORSHIP; SKIP)
+- [!] https://jobs.smartrecruiters.com/Socotec/744000124433581-applied-ai-engineer | SOCOTEC | Applied AI Engineer | Dallas, TX — On-site 4 days/week — moved to Procesadas (#616) 2026-05-07 (2.0/5 — chatbot/NLP + LangChain + Python 1:1 stack but NO SPONSORSHIP hard veto + Dallas relocation; SKIP)
+- [!] https://ats.rippling.com/knotch-inc/jobs/d8977ec5-c591-4809-8b2a-2d289a142ed9 | Knotch | Senior AI Engineer | Remote — United States (EST preferred) — moved to Procesadas (#617) 2026-05-07 (2.5/5 — LangGraph/LangChain agentic + RAG + eval suites 1:1 stack; Senior 3+y SaaS gate + Snowflake hard gap + filter-hygiene Senior auto-filter; SKIP)
+- [!] https://ats.rippling.com/agilitypr/jobs/fc443495-2b9c-468a-b0d9-d3742f30d6fa | Agility PR Solutions | AI Software Engineer (Agentic Systems & LLM) | Ottawa, Canada — Remote distributed (CA/US/UK/PH/IN) — moved to Procesadas (#618) 2026-05-07 (2.5/5 — TypeScript primary 1:1 Manga Lens but Java/Maven/Hadoop/Solr hard gap + Mid-Senior mentor floor + offshore-arbitrage comp; SKIP)
+- [!] https://ats.rippling.com/interplaylearning/jobs/bf7165c5-4d4e-4554-87bd-f460a44fd424 | Interplay Learning | Applied AI Business Systems Engineer | Remote — US — error: posting closed (Rippling redirects to careers index w/ `rr_message=job_not_found` 2026-05-07T04Z); archived
+- [!] https://ats.rippling.com/bizzycar/jobs/6c967928-18be-46c4-935e-34e313e33bd7 | BizzyCar | AI Engineer | Remote — US — error: posting closed (Rippling redirects to careers index w/ `rr_message=job_not_found` 2026-05-07T04Z); archived
+- [!] https://ats.rippling.com/latitudesh-jobs/jobs/b9b35bb5-a53a-4ede-bcda-8c51a7897a8d | Latitude.sh | AI Engineer | Remote — Global — error: posting closed (Rippling redirects to careers index w/ `rr_message=job_not_found` 2026-05-07T04Z); archived
+
 
 
 ## Procesadas
@@ -1257,3 +1269,4 @@
 - [x] #605 | https://www.workatastartup.com/jobs/70857 | Metriport | Founding AI Engineer | San Francisco / Bay Area — On-site (relocation OK) | 4.0/5 | PDF ✅
 - [x] #606 | https://www.workatastartup.com/jobs/75300 | Paratus Health | Founding Engineer | Menlo Park, CA — On-site | 4.1/5 | PDF ✅
 - [x] #607 | https://www.workatastartup.com/jobs/69270 | SimCare AI | Founding Engineer | San Francisco, CA — Remote (US) accepted | 3.1/5 | PDF ✅
+- [x] #613 | https://jobs.ashbyhq.com/pulsora%20inc/40114f0d-d976-43b6-867c-23e52d6c6fff | Pulsora | Applied AI Engineer - US | Remote — United States | 3.0/5 | PDF ✅
