@@ -943,6 +943,19 @@
 - [!] https://job-boards.greenhouse.io/hoppr/jobs/4515692008 | HOPPR | Machine Learning Engineer | Remote (NYC/SF hybrid option) — F-1 OPT veto: "open exclusively to US citizens and permanent residents"; not added (per filter hygiene, citizenship-only postings auto-skip)
 - [!] https://job-boards.greenhouse.io/mcghealth/jobs/8376819002 | MCG Health | Generative AI Engineer | Remote (Seattle HQ) — error: specific job ID redirects to listing index; only "Senior Gen AI Engineer" visible (auto-filtered Senior); archived
 - [!] https://jobs.lever.co/weloglobal/00460b83-6e7e-4ab1-b0b6-74ef88446049 | Welo Global | Generative AI Data Analyst (Remote USA) | Remote — USA — error: posting closed (Lever API "Document not found" 2026-05-07T18Z); archived
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7726080003?gh_jid=7726080003 | Celonis | Applied (AI) Engineer (Value Engineering) | New York, US, New York — moved to Procesadas (#641) 2026-05-07 (1.5/5 — NYC pre-sales hybrid Applied AI; HARD VETO no sponsorship for F-1 OPT; LangChain/RAG/agentic stack 1:1 but non-actionable; SKIP)
+
+<!-- Overnight 2026-05-07T~20Z eighth pass: Level 3 WebSearch additions (Greenhouse + Ashby + Remotive + SmartRecruiters + TeamTailor + Custom) -->
+- [!] https://job-boards.greenhouse.io/defenseunicorns/jobs/4980238007 | Defense Unicorns | Forward Deployed AI Engineer | Remote — United States — moved to Procesadas (#642) 2026-05-07 (1.5/5 — Remote-US $123-201K; HARD VETO U.S. Citizenship required for DoD/IC; SKIP)
+- [!] https://jobs.smartrecruiters.com/PubMatic/743999877674231-machine-learning-engineer-associate- | PubMatic | Machine Learning Engineer (Associate) | Remote — US (Work from Anywhere) — error: posting closed ("Job has expired" on SmartRecruiters 2026-05-07T20Z); archived
+- [!] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4504860 | Huntress | Forward Deployed Engineer | Remote — USA — moved to Procesadas (#643) 2026-05-07 (2.7/5 — Remote-US $215-250K Senior tier auto-filter + cybersecurity domain hard gap; SKIP)
+- [!] https://jobs.ashbyhq.com/modal/0d9c249b-f305-4b0e-b325-3242ac7274e7 | Modal | Forward Deployed Engineer - ML | Stockholm — In-person — moved to Procesadas (#644) 2026-05-07 (1.8/5 — Series-B $1.1B AI infra FDE; Stockholm in-person veto for F-1 OPT; SKIP)
+- [!] https://jobs.ashbyhq.com/varick-agents/15a99eff-beb7-4c35-8240-8e1bfd2d912b | Varick Agents | Forward Deployed Engineer | San Francisco, CA — likely On-site/Hybrid — moved to Procesadas (#645) 2026-05-07 (2.4/5 — SF FDE-Operator hybrid; "no production code" off Deepak IC builder; SKIP)
+- [!] https://jobs.ashbyhq.com/mercura/c3311550-1d26-46fb-8439-9a74805ad943 | Mercura | Forward Deployed Engineer (FDE) | Munich, Germany — likely On-site — moved to Procesadas (#646) 2026-05-07 (1.8/5 — YC-backed B2B supplier AI agents Munich on-site; F-1 OPT geo veto; SKIP)
+- [!] https://jobs.ashbyhq.com/helios-intelligence-platforms/6eb2627a-e791-4bfc-8091-dd54af8f1395 | Helios Intelligence Platforms | Founding Forward Deployed Engineer | New York City or Washington, D.C. — likely On-site/Hybrid — moved to Procesadas (#647) 2026-05-07 (2.2/5 — gov-tech founding FDE; 5+y senior gate + US-gov domain niche + relocation; SKIP)
+- [!] https://join.com/companies/coworkedai/15828100-forward-deployed-engineer-fde | Coworked | Forward Deployed Engineer (FDE) | Remote — United States — moved to Procesadas (#648) 2026-05-07 (2.6/5 — Remote-US PM-leaning FDE; PMP+MS Project/Jira primary; off Deepak IC builder; SKIP)
+- [!] https://realitymine.teamtailor.com/jobs/7126489-machine-learning-engineer | RealityMine | Machine Learning Engineer | Location verify (UK/EU likely) — error: posting closed ("This position is no longer active" on TeamTailor 2026-05-07T20Z); archived
+
 
 
 ## Procesadas
