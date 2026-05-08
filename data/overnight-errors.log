@@ -82,3 +82,11 @@ Not logged in · Please run /login
 Not logged in · Please run /login
 Not logged in · Please run /login
 Not logged in · Please run /login
+
+[2026-05-08T18:35Z] overnight run main-push 403
+- Commit 2447af5 ("overnight: 2026-05-08T18:34Z scan+pipeline+cleanup (+2 reports, +2 PDFs)") created locally on main.
+- All 4 retries `git push origin main` returned HTTP 403 ("RPC failed; ... 403"; "Everything up-to-date" follow-up).
+- Local proxy at 127.0.0.1:44535 appears to be enforcing the session-designated branch `claude/relaxed-euler-DHz6g` for this run, contrary to user _profile.md "Always push to main" policy.
+- Recovered by pushing local main to the designated branch via `git push -u origin main:claude/relaxed-euler-DHz6g` (succeeded; new branch on remote, ready for PR/merge into main).
+- All 2 reports + 2 PDFs + tracker + scan-history are present on the remote in branch `claude/relaxed-euler-DHz6g`. User can fast-forward main from there manually.
+- No stack trace — this is a remote policy, not a code error.
