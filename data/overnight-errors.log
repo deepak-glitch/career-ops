@@ -82,3 +82,13 @@ Not logged in · Please run /login
 Not logged in · Please run /login
 Not logged in · Please run /login
 Not logged in · Please run /login
+
+---
+2026-05-08T22:24Z — Push to main BLOCKED by proxy (HTTP 403 Forbidden)
+Commit SHA: 98fa7fd
+Retry attempts: 5 (initial + 2s,4s,8s,16s backoff)
+Proxy diagnostic: GET /info/refs?service=git-receive-pack succeeds (200)
+                  POST /git-receive-pack returns 403 Forbidden
+Cause: Session-level branch policy enforces claude/relaxed-euler-gGkms;
+       proxy rejects push to main despite user policy "always push to main".
+Fallback: pushing to claude/relaxed-euler-gGkms so commit is persisted.
