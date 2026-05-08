@@ -1004,6 +1004,14 @@
 - [!] https://www.workatastartup.com/jobs/92848 | Uplane | Forward Deployed Software Engineer | San Francisco, CA — On-site — moved to Procesadas (#668) 2026-05-08 (3.5/5 — YC F25 marketing-AI; $150-200K + 0.20-0.50% equity; 2+yr SWE floor fits; full-stack TS/Node + Vue/Nuxt + LangGraph; PDF generated)
 - [!] https://www.workatastartup.com/jobs/94139 | Paragon | Founding Forward Deployed Engineer | San Francisco, CA — On-site — duplicate of #631 (same role evaluated 2026-05-07 at 3.5/5); archived without re-evaluation per CLAUDE.md "no new entry if company+role exists"
 
+<!-- Overnight 2026-05-08T~09Z fourth pass: scan.mjs Level 1/2 (0 new) + Level 3 WebSearch (Breezy + TeamTailor + Himalayas + workatastartup + Custom-domain Specialist titles) -->
+- [!] https://himalayas.app/companies/silent-eight/jobs/junior-forward-deployed-ai-engineer-llm-ml | Silent Eight | Junior Forward Deployed AI Engineer (LLM/ML) | Poland — Fully Remote (Polish entity) — moved to Procesadas (#669) 2026-05-08 (2.5/5 — strong stack 1:1 (FastAPI/Postgres/vector/NetworkX/agentic) but Polish-payroll fully remote = F-1 OPT geo veto; comp not disclosed; SKIP)
+- [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | Amdaris | AI Forward Deployed Engineer | Bristol, England (UK) — moved to Procesadas (#670) 2026-05-08 (1.8/5 — UK consultancy FDE; £31-41K below market; 3+yr floor stretches 2.5y; F-1 OPT geo block; SKIP)
+- [!] https://himalayas.app/companies/indg/jobs/forward-deployed-engineer | INDG | Forward Deployed Engineer | Amsterdam, NL HQ — Remote with client embeds — moved to Procesadas (#671) 2026-05-08 (2.0/5 — Grip CGI/digital-twin platform; Photoshop scripting + 3D off-archetype; EU base + F-1 OPT geo block; SKIP)
+- [!] https://www.workatastartup.com/jobs/78325 | GigaML | Forward Deployed Engineer | San Francisco, CA — On-site 100% — moved to Procesadas (#672) 2026-05-08 (3.4/5 — YC S23 conversational AI agents 1M+ tickets/mo; $130-300K + equity; agentic/FastAPI/Docker stack 1:1; verify F-1 OPT W-2 sponsorship; PDF generated)
+- [!] https://www.workatastartup.com/jobs/79772 | Hadrius | Founding Forward Deployed Engineer | New York, NY — On-site 5d/wk — moved to Procesadas (#673) 2026-05-08 (3.7/5 — YC W23 RegTech compliance $4T+ AUM 300+ FI customers; ~$157-167K + equity; HIPAA + O&G audit logging adjacent compliance; verify F-1 OPT W-2 sponsorship; PDF generated)
+- [!] https://ioet.na.teamtailor.com/jobs/607618-ai-engineer | ioet | AI Engineer | LATAM Fully Remote (LATAM-residency required) — moved to Procesadas (#674) 2026-05-08 (1.5/5 — LangChain/LangGraph/RAG stack 1:1 but LATAM-residency hard veto for F-1 OPT US-based candidate; SKIP)
+
 
 ## Procesadas
 
@@ -1394,3 +1402,5 @@
 - [x] #658 | https://jobs.ashbyhq.com/assorthealth/64876579-05a2-40b6-a772-d1ce8b0ac8c4 | Assort Health | Agent Engineer (New Grad, Summer 2026) | San Francisco (HQ) — On-site | 4.4/5 | PDF ✅
 - [x] #660 | https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer | Remote — US (25-50% travel) | 3.0/5 | PDF ✅
 - [x] #668 | https://www.workatastartup.com/jobs/92848 | Uplane | Forward Deployed Software Engineer | San Francisco, CA — On-site | 3.5/5 | PDF ✅
+- [x] #672 | https://www.workatastartup.com/jobs/78325 | GigaML | Forward Deployed Engineer | San Francisco, CA — On-site 100% | 3.4/5 | PDF ✅
+- [x] #673 | https://www.workatastartup.com/jobs/79772 | Hadrius | Founding Forward Deployed Engineer | New York, NY — On-site 5d/wk | 3.7/5 | PDF ✅

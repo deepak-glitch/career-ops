@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 672 | 2026-05-08 | GigaML | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [672](reports/672-gigaml-fde-2026-05-08.md) | YC S23 conversational-AI agents 1M+ tickets/mo; SF on-site 5d/wk; $130-300K + equity; 3+yr floor stretches 2.5y; agentic/FastAPI/Docker stack 1:1; verify F-1 OPT W-2 sponsorship; PDF generated |
+| 673 | 2026-05-08 | Hadrius | Founding Forward Deployed Engineer | 3.7/5 | Evaluated | ✅ | [673](reports/673-hadrius-founding-fde-2026-05-08.md) | YC W23 RegTech compliance automation $4T+ AUM 300+ FI customers; NYC on-site 5d/wk; ~$157-167K + equity; HIPAA + O&G audit logging adjacent compliance; verify F-1 OPT W-2 sponsorship; PDF generated |
 | 668 | 2026-05-08 | Uplane | Forward Deployed Software Engineer | 3.5/5 | Evaluated | ✅ | [668](reports/668-uplane-fde-software-engineer-2026-05-08.md) | YC F25 marketing-AI startup; SF on-site; $150-200K + 0.20-0.50% equity; 2+yr SWE floor fits Deepak; full-stack TS/Node + Vue/Nuxt + LangGraph; Vue stretch (React analog); F-1 OPT relocation; PDF generated |
 | 658 | 2026-05-08 | Assort Health | Agent Engineer (New Grad, Summer 2026) | 4.4/5 | Evaluated | ✅ | [658](reports/658-assort-health-agent-engineer-new-grad-2026-05-08.md) | Strong healthcare agentic AI new-grad fit; SF on-site $135-150K + equity; PDF generated |
 | 655 | 2026-05-08 | Bierman Autism Centers | Junior AI Engineer | 3.4/5 | Evaluated | ✅ | [655](reports/655-bierman-autism-junior-ai-engineer-2026-05-08.md) | Junior tier 1:1 + healthcare AI 1:1 + Master's degree match; Carmel IN hybrid soft block (fully remote possible); multi-provider AI primitives match Manga Lens; PDF generated |
