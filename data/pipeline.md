@@ -1024,6 +1024,11 @@
 - [!] https://builtin.com/job/junior-ai-prompt-engineer-contract/4455928 | Hippocratic AI | Junior AI Prompt Engineer (Contract) | Palo Alto, CA — error: posting removed from BuiltIn (2025-05-21); archived. Hippocratic AI active postings already covered (#657 Akron OH FDE)
 - [!] https://apply.workable.com/translation-empire/j/6E41412053 | Translation Empire | Junior AI Engineer | Pakistan-headquartered — moved to Procesadas (#680) 2026-05-08 (1.5/5 — PK-headquartered translation SaaS; Workable JS-only render returned thin content; PK-payroll geo veto for F-1 OPT US-based candidate; SKIP)
 
+<!-- Overnight 2026-05-08T~12:30Z sixth pass: Level 3 WebSearch additions (Ashby Jerry.ai + Lever Nelly + Lever Nord Security) -->
+- [!] https://jobs.ashbyhq.com/Jerry.ai/7305d042-76fb-4618-a9c5-78bdb1efac02 | Jerry.ai | Software Engineer I (entry) | location verify — error: Ashby GraphQL `jobPosting` returned null on 2026-05-08T12:30Z (posting de-listed); archived
+- [!] https://jobs.lever.co/nelly/a77b5335-74fa-4be1-b2c2-3e6a2d80204e | Nelly Solutions | Junior AI Engineer | Berlin, DE — error: Lever API "Document not found" on 2026-05-08T12:30Z (posting closed); archived
+- [!] https://jobs.lever.co/nordsec/dbeedda0-a159-459e-9231-27cb8f784490 | Nord Security (Saily) | Agentic Product Engineer — Junior, Full-stack | Vilnius / Kaunas, Lithuania — Hybrid 3d office — moved to Procesadas (#682) 2026-05-08 (2.0/5 — genuine entry-level + AI-native culture (Claude Code/Cursor) but Lithuania hybrid + Go/iOS/Android stack mismatch + F-1 OPT relocation veto; SKIP)
+
 
 ## Procesadas
 
