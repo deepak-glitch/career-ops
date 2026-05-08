@@ -1041,6 +1041,20 @@
 - [!] https://apply.workable.com/memrise/j/4BA29FC5E4 | Memrise | Junior AI Engineer | London, UK / UK Remote — moved to Procesadas (#685) 2026-05-08 (2.8/5 — junior prompt chains + RAG + recommendations + eval 1:1 with Healthcare RAG + Dream Decoder; Kotlin gap; F-1 OPT UK geo block (UK-payroll only likely); SKIP unless remote-from-anywhere/US-payroll variant confirmed)
 - [!] https://apply.workable.com/neurohire-dot-a-i/j/23AB9552F9/ | neurohire.ai | AI Engineer | Texas City, TX (verify remote/hybrid) — moved to Procesadas (#686) 2026-05-08 (2.4/5 — HR-tech AI engineer; ML/DL/NLP/CV breadth covers surface but $70-85K disclosed band materially below US AI engineer market; off-archetype hiring/recruitment domain; SKIP unless comp band moves)
 
+<!-- Overnight 2026-05-08T~18Z eighth pass: scan.mjs Level 1/2 (0 new) + Level 3 WebSearch (Ashby new-grad + Greenhouse FDE + BuiltIn FDE + Breezy small-ATS + Greenhouse FDE pipeline) -->
+- [!] https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff | Harvey | Software Engineer, New Grad (2026) | location verify — error: posting closed (Ashby GraphQL `jobPosting: null` 2026-05-08T18Z); archived
+- [!] https://builtin.com/job/forward-deployed-ai-engineer/4748129 | DatologyAI | Forward Deployed AI Engineer | Redwood City, CA — error: posting expired (BuiltIn page shows "removed Jul 11, 2025"; closed); archived
+- [!] https://builtin.com/job/forward-deployed-ai-engineer/4719018 | MongoDB | Forward Deployed AI Engineer | NYC Hybrid — error: BuiltIn removed Jun 2025 + mongodb.com gh_jid=7123769 returns 404; archived. MongoDB still has live FDE AI postings — re-discover via direct careers page next pass.
+- [!] https://builtin.com/job/forward-deployed-aiml-engineer/4031235 | Groq | Forward Deployed AI/ML Engineer | Mountain View hybrid — error: BuiltIn removed Apr 30, 2025; archived
+- [!] https://havocai.breezy.hr/p/927df36a3cfb-ai-ml-engineer | HavocAI | AI/ML Engineer | location verify — error: Breezy "Position Closed" 2026-05-08T18Z; archived
+- [!] https://avasure.breezy.hr/p/fc76ef574d66-machine-learning-engineer | AvaSure | Machine Learning Engineer | location verify — error: Breezy "Position Closed" 2026-05-08T18Z; archived
+- [!] https://mechanizedai.breezy.hr/p/6bcfb99640f0-machine-learning-engineer | Mechanized AI | Machine Learning Engineer | location verify — error: Breezy "Position Closed" 2026-05-08T18Z; archived
+- [!] https://mind-computing.breezy.hr/p/edde74233ea2-ai-engineer-remote | Mind Computing | AI Engineer (Remote) | Continental US — error: Breezy "Position Closed" 2026-05-08T18Z; archived
+- [!] https://beli.breezy.hr/p/1efa764b292e-ai-ml-engineer-intern-summer-2026 | Beli | AI/ML Engineer Intern (Summer 2026) | location verify — error: Breezy "Position Closed" 2026-05-08T18Z; archived
+- [!] https://job-boards.greenhouse.io/wonderschool/jobs/7626995003 | Wonderschool | Forward Deployed AI Engineering – Future Opportunities | San Francisco Hybrid 3d/wk — talent-pipeline only (page explicit: "not an active job opening", $181-203K CA range); archived without report (no real opening)
+- [!] https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex | Forward Deployed AI Engineer | New York City — On-site 5d/wk — moved to Procesadas (#687) 2026-05-08 (3.5/5 — AI-native consultancy embedding into client codebases; $180K guaranteed base + uncapped story-points bonus ($80/pt above 562.5/qtr); FDE + agentic + full-stack archetype 1:1; 3+yr floor stretches 2.5y by ~6mo but production-shipped Manga Lens covers; NYC 5d/wk relocation from Kent OH; verify F-1 OPT sponsorship; PDF generated)
+- [!] https://job-boards.greenhouse.io/newtonresearch/jobs/5202112008 | Newton Research | Junior Software Engineer (Backend + AI) | Greater Boston Area — Hybrid — moved to Procesadas (#688) 2026-05-08 (3.7/5 — Boston Hybrid junior tier $90-110K; Python 3.13 + Django 5.2 + DRF + Postgres + LangChain + LangGraph + sentence-transformers + RAGAS + React 19/TS direct stack 1:1 with Healthcare RAG + agentic Claims; relocation from Kent OH; verify F-1 OPT sponsorship; PDF generated)
+
 
 ## Procesadas
 
@@ -1436,3 +1450,5 @@
 - [x] #675 | https://jobs.ashbyhq.com/zip/19f459ee-4907-4883-9d70-35eb96f62082 | Zip | Software Engineer, New Grad (2026 Start) | San Francisco, CA — Hybrid | 3.8/5 | PDF ✅
 - [x] #676 | https://jobs.ashbyhq.com/Speakeasy/def210b2-b6aa-421b-84c4-dcd278f95db9 | Speakeasy | Forward Deployed Engineer | San Francisco, CA — Remote/hybrid | 3.5/5 | PDF ✅
 - [x] #684 | https://apply.workable.com/m-files/j/2FB1B7812A | M-Files | AI Operations Engineer (Internal Agents & Workflow Automation) | Remote — United States | 3.4/5 | PDF ✅
+- [x] #687 | https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex | Forward Deployed AI Engineer | New York City — On-site 5d/wk | 3.5/5 | PDF ✅
+- [x] #688 | https://job-boards.greenhouse.io/newtonresearch/jobs/5202112008 | Newton Research | Junior Software Engineer (Backend + AI) | Greater Boston Area — Hybrid | 3.7/5 | PDF ✅
