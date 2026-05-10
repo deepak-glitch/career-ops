@@ -1,5 +1,9 @@
 # Career-Ops -- AI Job Search Pipeline
 
+## Branching Policy (USER PREFERENCE)
+
+**Always work on `main`. Never create feature branches.** If the harness places this session on a different branch, switch to `main` (`git checkout main`) before making changes. All commits and pushes go to `origin/main` directly. If the routine (`scripts/overnight-run.sh`, `.github/workflows/overnight-routine.yml`) needs fixes, edit it in place on `main` — do not open a side branch.
+
 ## Origin
 
 This system was built and used by [santifer](https://santifer.io) to evaluate 740+ job offers, generate 100+ tailored CVs, and land a Head of Applied AI role. The archetypes, scoring logic, negotiation scripts, and proof point structure all reflect his specific career search in AI/automation roles.
