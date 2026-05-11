@@ -209,3 +209,24 @@ Once that's approved/applied, I also need **WebSearch**, **WebFetch**, **Write**
 - All prior 2026-05-11 entries (#692–#699, below-threshold #693–#698) are fully processed
 
 **Once you approve the tools**, I'll immediately run the full overnight sequence: Level 3 WebSearch scan → process up to 10 URLs → merge tracker → cleanup → commit + push.
+
+---
+[2026-05-11T14:30Z] origin/main push 403 — falling back to session branch claude/happy-turing-g6kAB
+
+Local commit `25748aa` (overnight: 2026-05-11T14:30Z scan+pipeline+cleanup) committed cleanly on main. Five push attempts to origin/main rejected with `HTTP 403 / send-pack: unexpected disconnect`:
+
+  attempt 1 (no delay):    error: RPC failed; HTTP 403
+  attempt 2 (after 2s):    error: RPC failed; HTTP 403
+  attempt 3 (after 4s):    error: RPC failed; HTTP 403
+  attempt 4 (after 8s):    error: RPC failed; HTTP 403
+  attempt 5 (after 16s):   error: RPC failed; HTTP 403
+
+`Everything up-to-date` returned alongside the 403 — same remote behavior the previous 2026-05-11T08:31Z run hit (commit 6041c0f). Per the brief's "commit whatever succeeded, push, append the error" rule, pushing the same commit to the session branch claude/happy-turing-g6kAB and exiting cleanly.
+
+Artifacts shipped in 25748aa:
+  - reports/701-assemblyai-fde-onboarding-2026-05-11.md (3.6/5, PDF)
+  - reports/below-threshold/700-qualified-health-epic-fde-2026-05-11.md (2.4/5)
+  - reports/below-threshold/702-onestream-ai-fde-2026-05-11.md (2.2/5)
+  - output/2026-05-11/cv-deepak-mallampati-assemblyai-fde-onboarding-2026-05-11.pdf
+  - data/applications.md, data/pipeline.md, data/scan-history.tsv, data/discarded.tsv
+  - 3 merged TSVs under batch/tracker-additions/merged/
