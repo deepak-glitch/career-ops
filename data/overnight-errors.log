@@ -290,3 +290,10 @@ claude -p --dangerously-skip-permissions "$PROMPT" 2>&1 | tee -a "$ERRLOG" || { 
         proxy enforces designated branch claude/happy-turing-qtml6. Pushed there as
         fallback to preserve work; user should fast-forward main from the feature
         branch when proxy permits, or open a PR claude/happy-turing-qtml6 → main.
+
+[2026-05-11T22:50Z] PUSH-MAIN-403 FALLBACK
+- Direct push to origin/main blocked: HTTP 403 (protected-branch / proxy)
+- Retried 4× with exponential backoff (2s, 4s, 8s, 16s) — all failed identically
+- Fallback: pushed to claude/overnight-2026-05-11T22-50Z + opened PR #9
+- PR URL: https://github.com/deepak-glitch/career-ops/pull/9
+- Commit SHA: 64ad5c956b412a808b5ac75afdd969fb8978c12e
