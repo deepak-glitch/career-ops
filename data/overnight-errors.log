@@ -168,3 +168,20 @@ Since I'm in an interactive session right now and you're seeing this — **pleas
 Processed 0 URLs, generated 0 PDFs, archived 0 low-score, no push needed (repo unchanged).
 
 [2026-05-11T08:32Z] direct push to origin/main returned HTTP 403 x4 (exponential backoff 2s/4s/8s/16s); fallback: pushed main contents to origin/claude/happy-turing-EU7Rv. Commit SHA 68bf07395a5e66d4848052d13e438510ca1bacae lands on session branch — open PR at https://github.com/deepak-glitch/career-ops/pull/new/claude/happy-turing-EU7Rv to land on main (matches 2026-05-11T07:49Z PR #5 fallback pattern documented in 7629f2e).
+
+=========================================================================
+2026-05-11T10:26Z — git push origin main FAILED (4 retries with backoff 2s/4s/8s/16s)
+=========================================================================
+Symptom: HTTP 403 on every attempt; "Everything up-to-date" trailer
+Commit: 75f8ed0 overnight: 2026-05-11T10:26Z scan+pipeline+cleanup (+6 reports, +0 PDFs, archived 6 below-threshold)
+Branch: main (per CLAUDE.md branching policy)
+Stack:
+  error: RPC failed; HTTP 403 curl 22 The requested URL returned error: 403
+  send-pack: unexpected disconnect while reading sideband packet
+  fatal: the remote end hung up unexpectedly
+
+Same root cause as 2026-05-11T08:31Z run (commit 6041c0f). Harness restricts
+push permissions to the session-designated branch (claude/happy-turing-2lgRR)
+even though CLAUDE.md policy requires main. Fell back to session branch push
+to land the work; user can merge via PR or admin push to main.
+=========================================================================
