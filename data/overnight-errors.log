@@ -290,3 +290,4 @@ claude -p --dangerously-skip-permissions "$PROMPT" 2>&1 | tee -a "$ERRLOG" || { 
         proxy enforces designated branch claude/happy-turing-qtml6. Pushed there as
         fallback to preserve work; user should fast-forward main from the feature
         branch when proxy permits, or open a PR claude/happy-turing-qtml6 → main.
+2026-05-11T23:56Z push-to-main HTTP 403 after 4 retries (2s/4s/8s/16s backoff). Falling back to claude/overnight-2026-05-11T2356Z. PR will be opened next.

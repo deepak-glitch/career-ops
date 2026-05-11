@@ -1079,6 +1079,9 @@
 - [!] https://jobs.ashbyhq.com/magical/4f32b8ee-f773-4981-8cf0-df008e598aab | Magical | Software Engineer, AI (New Grad OK) | location verify — error: posting closed (Ashby GraphQL `jobPosting: null` 2026-05-11); canonical Magical "Junior Software Engineer, AI (New Grad OK)" already evaluated #6 (4.2/5 2026-04-20) — per CLAUDE.md "no new entry if company+role exists"; archived
 - [x] #700 | https://jobs.ashbyhq.com/qualified-health-pbc/88dc8b6a-8aaf-4f0a-8c1a-a0249d647dd4 | Qualified Health | Epic Forward Deployed Engineer | United States — Remote (up to 30% travel) — moved to Procesadas (#700) 2026-05-11 (2.4/5 — Healthcare AI FDE $150-200K US-Remote; hard gate 5+y Epic implementation + HL7 v2/FHIR R4/SMART on FHIR; Deepak has clinical AI but zero Epic EHR build; SKIP unless QH opens non-Epic Healthcare AI Engineer seat)
 - [!] https://jobs.ashbyhq.com/aptura/b2d03a54-f9c1-4af8-9bbd-71bb5ae9a581 | Aptura | Insurance Expert (AI Residency) (US) | Remote — US — error: posting closed (Ashby GraphQL `jobPosting: null` 2026-05-11; Aptura board has 51 active postings but mostly UK/India-focused — no Insurance Expert AI Residency US currently); archived
+- [!] https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East | Remote (New York) — sibling of #128 (Arize AI Solutions Engineer 3.6/5 2026-04-24); East variant adds NYC-metro EST friction without new content — per CLAUDE.md "no new entry if company+role exists"; skipped 2026-05-11T23:55Z
+- [!] https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54 | LangChain | Deployed Engineer (Seattle) | Seattle, WA — same canonical LangChain Deployed Engineer JD shell already covered by #157/#167/#172/#173/#174 + April-25 city variants; skipping repetitive city variant 2026-05-11T23:55Z
+
 
 
 
