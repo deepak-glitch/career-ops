@@ -1079,6 +1079,11 @@
 - [!] https://jobs.ashbyhq.com/magical/4f32b8ee-f773-4981-8cf0-df008e598aab | Magical | Software Engineer, AI (New Grad OK) | location verify — error: posting closed (Ashby GraphQL `jobPosting: null` 2026-05-11); canonical Magical "Junior Software Engineer, AI (New Grad OK)" already evaluated #6 (4.2/5 2026-04-20) — per CLAUDE.md "no new entry if company+role exists"; archived
 - [x] #700 | https://jobs.ashbyhq.com/qualified-health-pbc/88dc8b6a-8aaf-4f0a-8c1a-a0249d647dd4 | Qualified Health | Epic Forward Deployed Engineer | United States — Remote (up to 30% travel) — moved to Procesadas (#700) 2026-05-11 (2.4/5 — Healthcare AI FDE $150-200K US-Remote; hard gate 5+y Epic implementation + HL7 v2/FHIR R4/SMART on FHIR; Deepak has clinical AI but zero Epic EHR build; SKIP unless QH opens non-Epic Healthcare AI Engineer seat)
 - [!] https://jobs.ashbyhq.com/aptura/b2d03a54-f9c1-4af8-9bbd-71bb5ae9a581 | Aptura | Insurance Expert (AI Residency) (US) | Remote — US — error: posting closed (Ashby GraphQL `jobPosting: null` 2026-05-11; Aptura board has 51 active postings but mostly UK/India-focused — no Insurance Expert AI Residency US currently); archived
+<!-- Overnight 2026-05-11 fourth pass: scan.mjs + Level 3 WebSearch (Breezy + TeamTailor + Himalayas + WaaS + BuiltIn + WWR + Wellfound + Non-standard titles + Automation specialists) — most candidates were duplicates of prior batches; 3 fresh URLs processed below -->
+- [x] #702 | https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East | Remote (New York City metro / EST required) — moved to Procesadas (#702) 2026-05-11 (3.4/5 — Series C $135M LLM observability/eval platform; SE-leaning client-facing role; strong tech 1:1 RAG+agents+eval but no prior customer-facing SE experience; comp $125-175K + equity; PDF generated)
+- [x] #703 | https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54 | LangChain | Deployed Engineer (Seattle) | Seattle, WA — On-site/hybrid — moved to Procesadas (#703) 2026-05-11 (2.9/5 — Series B $125M LangChain ecosystem FDE; 5+ years floor (Deepak ~2.5y) hard gap; tech 1:1 LangChain/LangGraph/agents but tenure shortfall + Seattle relocation; OTE $165-280K; SKIP unless founder-shipping narrative wins)
+- [x] #704 | https://himalayas.app/companies/onestream/jobs/ai-forward-deployed-engineer | OneStream | AI Forward Deployed Engineer | Remote — US (up to 25% travel) — moved to Procesadas (#704) 2026-05-11 (3.1/5 — Public CPM/EPM SensibleAI FDE; 0-2y SWE + 1-2y AI/ML floor matches Deepak; $120-149K + equity; Emerson Synthesis Order-to-Cash gives enterprise-data lane; HARD GAP visa sponsorship not available — verify F-1 OPT remaining-window covers tenure; PDF generated)
+
 
 
 
@@ -1486,3 +1491,5 @@
 
 - [x] #692 | https://jobs.ashbyhq.com/julius/83d88b90-1b7f-476c-a0e8-10b1cb71639e | Julius AI | Software Engineer - Product (New Grad) | San Francisco, CA — On-site | 3.8/5 | PDF ✅
 - [x] #699 | https://jobs.ashbyhq.com/bland/823904dd-f958-45c8-8e9a-4d9755cd03f0 | Bland AI | Forward Deployed Engineer | San Francisco, CA — Frequent in-person | 3.0/5 | PDF ✅
+- [x] #702 | https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East | Remote (NYC metro / EST) | 3.4/5 | PDF ✅
+- [x] #704 | https://himalayas.app/companies/onestream/jobs/ai-forward-deployed-engineer | OneStream | AI Forward Deployed Engineer | Remote — US (25% travel) | 3.1/5 | PDF ✅
