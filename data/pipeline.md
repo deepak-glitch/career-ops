@@ -1080,6 +1080,19 @@
 - [x] #700 | https://jobs.ashbyhq.com/qualified-health-pbc/88dc8b6a-8aaf-4f0a-8c1a-a0249d647dd4 | Qualified Health | Epic Forward Deployed Engineer | United States — Remote (up to 30% travel) — moved to Procesadas (#700) 2026-05-11 (2.4/5 — Healthcare AI FDE $150-200K US-Remote; hard gate 5+y Epic implementation + HL7 v2/FHIR R4/SMART on FHIR; Deepak has clinical AI but zero Epic EHR build; SKIP unless QH opens non-Epic Healthcare AI Engineer seat)
 - [!] https://jobs.ashbyhq.com/aptura/b2d03a54-f9c1-4af8-9bbd-71bb5ae9a581 | Aptura | Insurance Expert (AI Residency) (US) | Remote — US — error: posting closed (Ashby GraphQL `jobPosting: null` 2026-05-11; Aptura board has 51 active postings but mostly UK/India-focused — no Insurance Expert AI Residency US currently); archived
 
+### 2026-05-12
+<!-- Overnight 2026-05-12: scan.mjs Level 1/2 (0 new — most ATS endpoints HTTP 503) + Level 3 WebSearch (Ashby + Greenhouse + Lever + Workable + BreezyHR + Himalayas + workatastartup + builtin) -->
+- [!] https://job-boards.greenhouse.io/smithrx/jobs/8431453002 | SmithRx | Software Engineer, New Grad (Recent 2025 Grads) | Remote (United States) — moved to Procesadas (#702) 2026-05-12 (3.4/5 — Recent 2025 Grad cohort match Master's May 2025; healthcare/PBM 1:1 with Progress; Go/Java/K8s gaps; PDF generated)
+- [!] https://job-boards.greenhouse.io/airbnb/jobs/7773838 | Airbnb | Software Engineer, Airbnb - New Grad | San Francisco, CA / Seattle, WA — Hybrid 3d/wk — moved to Procesadas (#703) 2026-05-12 (3.5/5 — Public-co new-grad pipeline $128-142K; AI-feature contribution 1:1; Java/Scala gap, < 1y floor borderline; PDF generated)
+- [!] https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex | Forward Deployed AI Engineer | New York City — On-site 5d/wk — moved to Procesadas (#704) 2026-05-12 (2.6/5 — NYC 5d/wk + 3+y SWE floor + story-point variable comp; agent-architecture stack 1:1 but two structural blockers; SKIP)
+- [!] https://jobs.ashbyhq.com/latentlabs/8dc5159a-d6fc-4fe2-8731-84c6f0f3f559 | Latent Labs | Forward Deployed AI Engineer | London, UK — Hybrid + travel — moved to Procesadas (#705) 2026-05-12 (1.9/5 — UK-payroll F-1 OPT veto + biomedical research/genomics domain mismatch; SKIP)
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/Chicago/NYC/SF/Seattle/DC — Hybrid 25%+ + 25% travel — moved to Procesadas (#706) 2026-05-12 (3.6/5 — Frontier AI lab FDE $200-300K + explicit visa sponsorship; Claude/MCP/sub-agent stack 1:1 + healthcare preferred vertical; 3+y customer-facing floor stretch; PDF generated)
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences (Beneficial Deployments) | San Francisco / NYC — Hybrid — moved to Procesadas (#707) 2026-05-12 (2.4/5 — 4+y floor + biomedical research/genomics gate; healthcare-AI clinical workflow not biomedical R&D; SKIP)
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments | San Francisco / NYC — Hybrid + occasional travel — moved to Procesadas (#708) 2026-05-12 (3.0/5 — Mission-driven verticals 1:1 healthcare + nonprofit; comp $280-300K + visa sponsorship; 4+y SWE/FDE/founder floor stretch; PDF generated)
+- [!] https://builtin.com/job/2026-new-grad-olympics-software-engineer/9058165 | New Lantern | 2026 New Grad Olympics — Software Engineer | San Francisco, CA — error: posting removed (BuiltIn 2026-04-16); archived
+- [!] https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | 2026 New Grad — Software Engineer, AI | San Francisco, CA / NYC — Hybrid 4d/wk — moved to Procesadas (#709) 2026-05-12 (3.7/5 — Series B+ AI-native supply-chain data platform new-grad program (Velocity → Rotation → Mid-Level); explicit Agents + Modeling + Platform + Infrastructure tracks 1:1 with Deepak's portfolio; H1B sponsorship history; PDF generated)
+- [!] https://job-boards.greenhouse.io/togetherai/jobs/4835292007 | Together AI | Software Engineer - New Grad | location verify — error: posting closed (Together AI Greenhouse board has 53 active openings but no New Grad SWE in current listing 2026-05-12); archived
+
 
 
 ## Procesadas
@@ -1486,3 +1499,11 @@
 
 - [x] #692 | https://jobs.ashbyhq.com/julius/83d88b90-1b7f-476c-a0e8-10b1cb71639e | Julius AI | Software Engineer - Product (New Grad) | San Francisco, CA — On-site | 3.8/5 | PDF ✅
 - [x] #699 | https://jobs.ashbyhq.com/bland/823904dd-f958-45c8-8e9a-4d9755cd03f0 | Bland AI | Forward Deployed Engineer | San Francisco, CA — Frequent in-person | 3.0/5 | PDF ✅
+
+### 2026-05-12
+
+- [x] #702 | https://job-boards.greenhouse.io/smithrx/jobs/8431453002 | SmithRx | Software Engineer, New Grad (Recent 2025 Grads) | Remote (United States) | 3.4/5 | PDF ✅
+- [x] #703 | https://job-boards.greenhouse.io/airbnb/jobs/7773838 | Airbnb | Software Engineer, Airbnb - New Grad | San Francisco, CA / Seattle, WA — Hybrid 3d/wk | 3.5/5 | PDF ✅
+- [x] #706 | https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/Chicago/NYC/SF/Seattle/DC — Hybrid 25%+ + 25% travel | 3.6/5 | PDF ✅
+- [x] #708 | https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments | San Francisco / NYC — Hybrid + occasional travel | 3.0/5 | PDF ✅
+- [x] #709 | https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | 2026 New Grad — Software Engineer, AI | San Francisco, CA / NYC — Hybrid 4d/wk | 3.7/5 | PDF ✅

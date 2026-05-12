@@ -290,3 +290,9 @@ claude -p --dangerously-skip-permissions "$PROMPT" 2>&1 | tee -a "$ERRLOG" || { 
         proxy enforces designated branch claude/happy-turing-qtml6. Pushed there as
         fallback to preserve work; user should fast-forward main from the feature
         branch when proxy permits, or open a PR claude/happy-turing-qtml6 → main.
+
+[2026-05-12T00:46Z] git push origin main failed with HTTP 403 Forbidden (4 retries exhausted: 2s/4s/8s/16s).
+Local HEAD: a618b09 (overnight: 2026-05-12T00:45:35Z scan+pipeline+cleanup +8 reports +5 PDFs)
+Remote main: 7f71d26 (no advance)
+Likely cause: sandbox proxy enforces push to designated session branch only.
+Recovery: pushing to claude/lucid-bell-haamf (system-designated branch) so user can merge to main manually.
