@@ -290,3 +290,62 @@ claude -p --dangerously-skip-permissions "$PROMPT" 2>&1 | tee -a "$ERRLOG" || { 
         proxy enforces designated branch claude/happy-turing-qtml6. Pushed there as
         fallback to preserve work; user should fast-forward main from the feature
         branch when proxy permits, or open a PR claude/happy-turing-qtml6 → main.
+The overnight run is **blocked on permissions** — this interactive session doesn't have the tool grants needed to run the automation. Here's what's happening and how to fix it:
+
+---
+
+## What's blocked
+
+| Tool | Needed for | Status |
+|------|-----------|--------|
+| `Bash(node scan.mjs)` | Level 1/2 portal scan | ❌ needs approval |
+| `Bash(node merge-tracker.mjs)` | Merge TSVs into tracker | ❌ needs approval |
+| `Bash(node verify-pipeline.mjs)` | Pipeline health check | ❌ needs approval |
+| `Bash(node cleanup-low-scores.mjs)` | Archive low scores | ❌ needs approval |
+| `Bash(node generate-pdf.mjs *)` | Generate CVs | ❌ needs approval |
+| `Bash(git add/commit/push *)` | Commit & push results | ❌ needs approval |
+| `WebFetch(*)` | Fetch JDs from portals | ❌ needs approval |
+| `WebSearch(*)` | Level 3 discovery queries | ❌ needs approval |
+| `Write(*)` | Write reports, TSVs, settings | ❌ needs approval |
+
+The automation works in GitHub Actions via `claude -p` because that mode uses different defaults. In this interactive session, every tool requires explicit approval.
+
+---
+
+## Fix: Create `.claude/settings.json`
+
+Create this file at `/home/runner/work/career-ops/career-ops/.claude/settings.json`:
+
+```json
+{
+  "permissions": {
+    "allow": [
+      "Bash(node merge-tracker.mjs)",
+      "Bash(node verify-pipeline.mjs)",
+      "Bash(node cleanup-low-scores.mjs)",
+      "Bash(node dedup-tracker.mjs)",
+      "Bash(node normalize-statuses.mjs)",
+      "Bash(node scan.mjs)",
+      "Bash(node scan.mjs --dry-run)",
+      "Bash(node scan.mjs --all)",
+      "Bash(node generate-pdf.mjs *)",
+      "Bash(node test-all.mjs)",
+      "Bash(node doctor.mjs)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(mkdir -p *)",
+      "Bash(cp *)",
+      "WebFetch(*)",
+      "WebSearch(*)"
+    ],
+    "deny": []
+  }
+}
+```
+
+Alternatively, click **"Yes, always allow"** on the pending permission prompts for `WebFetch`, `WebSearch`, `Write`, and `Bash(node ...)` — once approved, I'll proceed immediately with the full overnight run.
+
+---
+
+**Current pipeline state:** 0 pending URLs. All previous entries are processed. Once permissions are granted, I'll run the scanner to discover new roles, then evaluate up to 10.
