@@ -349,3 +349,85 @@ Alternatively, click **"Yes, always allow"** on the pending permission prompts f
 ---
 
 **Current pipeline state:** 0 pending URLs. All previous entries are processed. Once permissions are granted, I'll run the scanner to discover new roles, then evaluate up to 10.
+The write was blocked — the `.claude` directory exists (the skill lives there) but writing `settings.json` into it needs permission approval. This is the bootstrapping problem: the bot can't pre-approve its own commands.
+
+Here's what I found and what's needed:
+
+---
+
+## Analysis Results
+
+**Transcripts scanned:** 1 session (only transcript available for this project)
+
+### Read-only commands blocked in session (eligible to add):
+
+| # | Pattern | Count | Notes |
+|---|---------|-------|-------|
+| 1 | `Bash(node update-system.mjs check)` | 2 | Fetches remote version JSON, no writes |
+| 2 | `Bash(node verify-pipeline.mjs)` | 0* | Read-only health check; blocked before it was reached |
+| 3 | `Bash(node analyze-patterns.mjs)` | 0* | Outputs JSON analysis, no writes |
+| 4 | `Bash(node followup-cadence.mjs)` | 0* | Outputs JSON, no writes |
+| 5 | `Bash(node check-liveness.mjs)` | 0* | HTTP GETs only, no writes |
+
+*The session was blocked at step 1 (`node scan.mjs`) so later read-only scripts never ran — but they'd all prompt if they did.
+
+### Skipped (not read-only — cannot add via this skill):
+
+| Command | Why skipped |
+|---------|-------------|
+| `Bash(node scan.mjs)` | Writes to `pipeline.md` + `scan-history.tsv` |
+| `Bash(node generate-pdf.mjs *)` | Generates PDF files |
+| `Bash(node merge-tracker.mjs)` | Writes to `applications.md` |
+| `Bash(node cleanup-low-scores.mjs)` | Archives report files |
+| `Bash(git add *)` / `git commit *` / `git push *` | All mutate state |
+| `Bash(mkdir *)` | Creates directories |
+
+### Already auto-allowed (no entry needed):
+`ls`, `wc`, `git status`, `git log`, `git diff`, `cat`, `head`, `tail` — all covered by Claude Code's built-in read-only allowlist.
+
+---
+
+## The Real Problem: Overnight Automation Needs Write Permissions
+
+The overnight bot is blocked at `node scan.mjs` — a write operation — which this skill cannot allowlist. Two options to fix this:
+
+**Option A — Add `--dangerously-skip-permissions` to `overnight-run.sh`** (simplest, trusted environment):
+```bash
+claude --dangerously-skip-permissions -p "$PROMPT" 2>&1 | tee -a "$ERRLOG"
+```
+
+**Option B — Pre-create `.claude/settings.json` in the GitHub Actions workflow** before the `claude -p` call, with explicit allowlist for the overnight scripts:
+```yaml
+- name: Pre-configure Claude permissions
+  run: |
+    mkdir -p .claude
+    cat > .claude/settings.json << 'EOF'
+    {
+      "permissions": {
+        "allow": [
+          "Bash(node scan.mjs)",
+          "Bash(node generate-pdf.mjs *)",
+          "Bash(node merge-tracker.mjs)",
+          "Bash(node verify-pipeline.mjs)",
+          "Bash(node cleanup-low-scores.mjs)",
+          "Bash(node normalize-statuses.mjs)",
+          "Bash(node dedup-tracker.mjs)",
+          "Bash(node update-system.mjs check)",
+          "Bash(node update-system.mjs apply)",
+          "Bash(node update-system.mjs dismiss)",
+          "Bash(node check-liveness.mjs)",
+          "Bash(node analyze-patterns.mjs)",
+          "Bash(node followup-cadence.mjs)",
+          "Bash(git push origin main)",
+          "Bash(git add -A)",
+          "Bash(git commit -m *)",
+          "Bash(mkdir -p *)"
+        ]
+      }
+    }
+    EOF
+```
+
+---
+
+**I was unable to write `.claude/settings.json`** — the write itself requires approval (the same bootstrapping problem). If you approve that write, I can create the file with the read-only entries. For the full overnight fix, choose Option A or Option B above — would you like me to implement one of them?
