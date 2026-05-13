@@ -431,3 +431,61 @@ claude --dangerously-skip-permissions -p "$PROMPT" 2>&1 | tee -a "$ERRLOG"
 ---
 
 **I was unable to write `.claude/settings.json`** — the write itself requires approval (the same bootstrapping problem). If you approve that write, I can create the file with the read-only entries. For the full overnight fix, choose Option A or Option B above — would you like me to implement one of them?
+The overnight automation is blocked: `WebSearch`, `WebFetch`, `Bash(node*)`, `Bash(git*)`, and `Write` all require user approval in this interactive session. The GitHub Actions workflow runs `claude -p` (pipe mode) which typically grants these automatically, but this session is running interactively without pre-approved tools.
+
+**Root cause:** No `.claude/settings.json` exists in the project to pre-authorize these tools.
+
+**What ran successfully:**
+- Read-only file inspection (CLAUDE.md, _profile.md, _shared.md, portals.yml, cv.md, profile.yml, oferta.md, pipeline.md)
+- Identified 36 pending items from the 2026-05-13 scan already in pipeline.md (report numbers #700–735 range)
+- Selected top 10 items for processing: Glean FDE Remote, Decagon Customer Engineer, LiveKit FDE, ElevenLabs FDE, Arize AI SE East, Vercel FDE v0, Tavily FDE, Sana AI Engineer Agents, Quora AI Automation, Elite Talent FDE
+
+**What's blocked (needs approval):**
+1. `Write` → create `.claude/settings.json` to unblock all future automated runs
+2. `WebFetch` / `WebSearch` → JD extraction and Level 3 scan
+3. `Bash(node scan.mjs)` → Level 1/2 scanner (already ran earlier today, 36 items added)
+4. `Bash(node generate-pdf.mjs)` → PDF generation
+5. `Bash(node merge-tracker.mjs)`, `Bash(node verify-pipeline.mjs)`, `Bash(node cleanup-low-scores.mjs)` → post-pipeline steps
+6. `Bash(git add/commit/push)` → committing results
+
+**Fastest fix — please approve either option:**
+
+**Option A (one-time UI approval):** Click "Allow" when the harness prompts for each tool. I'll retry all blocked operations in sequence.
+
+**Option B (permanent fix):** Create this file manually so all future overnight runs work without prompts:
+
+```
+/home/runner/work/career-ops/career-ops/.claude/settings.json
+```
+
+Content:
+```json
+{
+  "permissions": {
+    "allow": [
+      "Bash(node*)",
+      "Bash(git add*)",
+      "Bash(git commit*)",
+      "Bash(git push*)",
+      "Bash(git pull*)",
+      "Bash(git log*)",
+      "Bash(git status*)",
+      "Bash(git checkout*)",
+      "Bash(git diff*)",
+      "Bash(mkdir*)",
+      "Bash(ls*)",
+      "Bash(wc*)",
+      "Bash(grep*)",
+      "Bash(cat*)",
+      "Bash(tail*)",
+      "Bash(head*)",
+      "Bash(sort*)",
+      "Bash(npm*)",
+      "WebFetch(*)",
+      "WebSearch(*)"
+    ]
+  }
+}
+```
+
+Once you've approved the `Write` for settings.json (Option B) or clicked Allow for each blocked tool (Option A), reply and I'll immediately resume the full automation: Level 3 scan → 10 pipeline evaluations → PDFs → merge/verify → cleanup → commit+push.
