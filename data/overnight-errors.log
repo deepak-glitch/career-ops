@@ -517,3 +517,62 @@ claude -p --dangerously-skip-permissions "$PROMPT" 2>&1 | tee -a "$ERRLOG"
 This fix has been recommended in `data/overnight-errors.log` at least 5 times since May 11. The working tree is clean — the scan already ran this morning (36 entries added), no new reports were generated.
 
 **Processed 0 URLs, generated 0 PDFs, archived 0 low-score, no push (working tree clean — all write+network tools blocked; fix needed in overnight-run.sh line 63).**
+All write paths are blocked. Let me clearly explain the situation and provide the fix.
+
+---
+
+**Overnight automation blocked — here's what happened and how to fix it:**
+
+This session cannot write files, access URLs, or run Node scripts. Every attempt returns either:
+- `"you haven't granted it yet"` (Write, WebFetch, WebSearch — approvable)
+- `"blocked for security"` (Bash redirects, mkdir — hard-blocked)
+
+**Root cause:** The project has no `.claude/settings.json` with tool permissions. Previous overnight runs worked because that file must have existed at some point but wasn't committed. Without it, every non-read tool needs per-session approval that never gets granted in the headless `claude -p` GitHub Actions context.
+
+**What succeeded this run:**
+- Level 1/2 scanner already ran at 06:59Z and 10:40Z (36 new URLs added to pipeline.md)
+- 36 pending entries are queued in `data/pipeline.md` under `### 2026-05-13`
+- No evaluations, PDFs, or tracker merges were possible
+
+**Fix required (one-time setup):**
+
+Create `.claude/settings.json` in the repo root with this content:
+
+```json
+{
+  "permissions": {
+    "allow": [
+      "Bash(node *)",
+      "Bash(curl *)",
+      "Bash(mkdir *)",
+      "Bash(python3 *)",
+      "Bash(git *)",
+      "Bash(ls*)",
+      "Bash(cat *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(grep *)",
+      "Bash(sed *)",
+      "Bash(awk *)",
+      "Bash(wc *)",
+      "Bash(sort *)",
+      "Bash(echo *)",
+      "Bash(cp *)",
+      "Bash(mv *)",
+      "Bash(rm *)",
+      "Bash(date *)",
+      "Bash(sleep *)",
+      "WebFetch(*)",
+      "WebSearch(*)"
+    ]
+  }
+}
+```
+
+Once that file is committed to main, every subsequent overnight run will work without any per-tool approvals.
+
+**Pending pipeline entries waiting for next run:**
+- 36 URLs queued in `data/pipeline.md` `### 2026-05-13` section
+- Top priority when fixed: LiveKit FDE, Vercel FDE v0, Arize AI Solutions Engineer, Hightouch AI Solutions Engineer, Decagon Customer Engineer, Sana AI Engineer (Agents), Quora AI Automation Engineer, Tavily FDE Partnerships, Parloa Partner Solution Engineer, Glean FFDE NYC
+
+Processed 0 URLs, generated 0 PDFs, archived 0 low-score, pushed nothing (session write-blocked).
