@@ -1080,6 +1080,51 @@
 - [x] #700 | https://jobs.ashbyhq.com/qualified-health-pbc/88dc8b6a-8aaf-4f0a-8c1a-a0249d647dd4 | Qualified Health | Epic Forward Deployed Engineer | United States — Remote (up to 30% travel) — moved to Procesadas (#700) 2026-05-11 (2.4/5 — Healthcare AI FDE $150-200K US-Remote; hard gate 5+y Epic implementation + HL7 v2/FHIR R4/SMART on FHIR; Deepak has clinical AI but zero Epic EHR build; SKIP unless QH opens non-Epic Healthcare AI Engineer seat)
 - [!] https://jobs.ashbyhq.com/aptura/b2d03a54-f9c1-4af8-9bbd-71bb5ae9a581 | Aptura | Insurance Expert (AI Residency) (US) | Remote — US — error: posting closed (Ashby GraphQL `jobPosting: null` 2026-05-11; Aptura board has 51 active postings but mostly UK/India-focused — no Insurance Expert AI Residency US currently); archived
 
+### 2026-05-13
+
+<!-- scan.mjs Level 2 Greenhouse (29 companies) + Level 2b Lever (9 companies) + Level 3 WebSearch (50 queries) -->
+
+<!-- Level 2 Greenhouse API — inherently fresh -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer | New York, NY
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer | Remote - US
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659409005 | Glean | Forward Deployed Product Manager | New York, NY
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651950005 | Glean | Forward Deployed Product Manager | Remote - US
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8409168002 | Airtable | AI Agent Architect, Customer Experience | Remote - US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0 | Remote - United States
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5777645004 | Vercel | GTM Engineer | Hybrid - San Francisco, New York City, Austin
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704320004 | Vercel | Software Engineer, Agent | Hybrid - San Francisco
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway | Hybrid - San Francisco, New York City
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK | Hybrid - San Francisco, New York City
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5806749004 | Vercel | Solutions Architect | Hybrid - San Francisco, New York City, Austin
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East | Remote - New York
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5818115004 | Arize AI | AI Product Manager | United States (Remote)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704428004 | Arize AI | Developer Relations Engineer | Remote - San Francisco
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704417004 | Arize AI | Developer Relations Engineer | Remote - New York
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5134194004 | Hightouch | AI Solutions Engineer, Enterprise East | East and Central Timezones (North America)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | AI Solutions Engineer, Mid-Market | Remote (North America)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/Chicago/NYC/Seattle/SF/DC
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977624008 | Anthropic | Applied AI Architect, Industries | Munich, Germany
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977626008 | Anthropic | Applied AI Architect, Industries | Paris, France
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4848010101 | PolyAI | Developer Relations Manager | New York, USA
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4780830101 | Parloa | Partner Solution Engineer | Remotely in the USA
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4794825101 | Parloa | Deployment Strategist - US | New York Office
+- [ ] https://helsing.ai/jobs/4516967101?gh_jid=4516967101 | Helsing | Deployed AI Engineer | Munich/Berlin/Paris/Warsaw/Tallinn (EU)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7627647003?gh_jid=7627647003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program | New York, US
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7669112003?gh_jid=7669112003 | Celonis | Associate Applied AI Engineer (Madrid/Spain) - Orbit Program | Madrid, Spain
+
+<!-- Level 2b Lever API — inherently fresh -->
+- [ ] https://jobs.lever.co/palantir/50a8a83d-cc13-44b2-bc0c-4730fd7aa51c | Palantir | American Tech Fellowship - Frontier | North America
+
+<!-- Level 3 WebSearch — liveness-checked or likely active -->
+- [ ] https://jobs.ashbyhq.com/decagon/8c40fb7a-5f25-4112-a1df-f1c22b81042c | Decagon | Customer Engineer, Agent Builder | Remote - US
+- [ ] https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee | LiveKit | Forward Deployed Engineer | Remote - US
+- [ ] https://jobs.ashbyhq.com/fiddler-ai/640c12b9-6a07-4be1-a542-d76e4240e2ff | Fiddler AI | Solutions Architect, Customer Success - US | Remote - US
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | Remote - Global hub offices
+- [ ] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4486915 | Elite Talent | Forward Deployed Engineer | Remote - USA
+- [ ] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | Quora | AI Automation Engineer | Remote - US
+- [ ] https://jobs.ashbyhq.com/sana-roles/d3b49a65-86b3-4608-a2d3-047ea76dfcc5 | Sana | AI Engineer (Agents) | Remote - EU/US
+- [ ] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships | Remote
 
 
 ## Procesadas
