@@ -489,3 +489,31 @@ Content:
 ```
 
 Once you've approved the `Write` for settings.json (Option B) or clicked Allow for each blocked tool (Option A), reply and I'll immediately resume the full automation: Level 3 scan → 10 pipeline evaluations → PDFs → merge/verify → cleanup → commit+push.
+The entire environment is blocked — this is the same root cause documented in `data/overnight-errors.log` from multiple prior sessions. The `claude -p` invocation in `scripts/overnight-run.sh` is missing `--dangerously-skip-permissions`, so every tool with side-effects (Write, Edit, WebFetch, WebSearch, `node *`, `curl *`) is denied immediately in non-interactive mode.
+
+**What ran successfully:**
+- All file reads (cv.md, modes/, portals.yml, pipeline.md, scan-history.tsv, etc.)
+- Identified 36 pending entries from today's morning scan (#700–735 range)
+- Identified 2 duplicate entries to mark `[!]` (Anthropic FDE = duplicate of #1, Glean Remote FDE = duplicate of #660)
+- Selected top 10 URLs for evaluation (Glean NY, Vercel FDE v0, Decagon, LiveKit, Arize AI SE, Hightouch SE, ElevenLabs FDE, Tavily FDE, Parloa PSE, Quora AI Automation)
+
+**What was blocked (all write + network operations):**
+- `Write`/`Edit` (all file writes)
+- `WebFetch`, `WebSearch`
+- `Bash(node*)`, `Bash(curl*)`
+- Git commit/push (no changes to commit anyway)
+
+**The fix (requires human action — one-line change):**
+
+In `scripts/overnight-run.sh` line 63, change:
+```bash
+claude -p "$PROMPT" 2>&1 | tee -a "$ERRLOG"
+```
+to:
+```bash
+claude -p --dangerously-skip-permissions "$PROMPT" 2>&1 | tee -a "$ERRLOG"
+```
+
+This fix has been recommended in `data/overnight-errors.log` at least 5 times since May 11. The working tree is clean — the scan already ran this morning (36 entries added), no new reports were generated.
+
+**Processed 0 URLs, generated 0 PDFs, archived 0 low-score, no push (working tree clean — all write+network tools blocked; fix needed in overnight-run.sh line 63).**
