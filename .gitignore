@@ -3,10 +3,14 @@ cv.md
 data/applications.md
 data/pipeline.md
 data/scan-history.tsv
+data/intl/pipeline.md
+data/intl/scan-history.tsv
 reports/*.md
 !reports/.gitkeep
 output/*
 !output/.gitkeep
+output-intl/*
+!output-intl/.gitkeep
 batch/logs/*
 !batch/logs/.gitkeep
 batch/batch-state.tsv

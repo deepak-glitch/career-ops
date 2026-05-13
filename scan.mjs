@@ -10,7 +10,8 @@
  * Zero Claude API tokens — pure HTTP + JSON.
  *
  * Usage:
- *   node scan.mjs                       # scan with max_age_hours from portals.yml (default 48h)
+ *   node scan.mjs                       # US track: scan with max_age_hours (default 48h)
+ *   node scan.mjs --intl                # Intl track: writes to data/intl/, uses intl_location_filter
  *   node scan.mjs --dry-run             # preview without writing files
  *   node scan.mjs --company Cohere      # scan a single company
  *   node scan.mjs --max-age-hours 168   # override freshness cutoff (here: last 7 days)
@@ -24,12 +25,15 @@ const parseYaml = yaml.load;
 // ── Config ──────────────────────────────────────────────────────────
 
 const PORTALS_PATH = 'portals.yml';
-const SCAN_HISTORY_PATH = 'data/scan-history.tsv';
-const PIPELINE_PATH = 'data/pipeline.md';
-const APPLICATIONS_PATH = 'data/applications.md';
+const INTL_MODE = process.argv.includes('--intl');
+const SCAN_HISTORY_PATH = INTL_MODE ? 'data/intl/scan-history.tsv' : 'data/scan-history.tsv';
+const PIPELINE_PATH = INTL_MODE ? 'data/intl/pipeline.md' : 'data/pipeline.md';
+const APPLICATIONS_PATH = 'data/applications.md'; // unified tracker across tracks
+const LOCATION_FILTER_KEY = INTL_MODE ? 'intl_location_filter' : 'location_filter';
+const TRACK_LABEL = INTL_MODE ? 'INTL' : 'US';
 
 // Ensure required directories exist (fresh setup)
-mkdirSync('data', { recursive: true });
+mkdirSync(INTL_MODE ? 'data/intl' : 'data', { recursive: true });
 
 const CONCURRENCY = 3;
 const FETCH_TIMEOUT_MS = 15_000;
@@ -170,24 +174,31 @@ function buildLocationFilter(locationFilter) {
 function loadSeenUrls() {
   const seen = new Set();
 
-  // scan-history.tsv
-  if (existsSync(SCAN_HISTORY_PATH)) {
-    const lines = readFileSync(SCAN_HISTORY_PATH, 'utf-8').split('\n');
-    for (const line of lines.slice(1)) { // skip header
-      const url = line.split('\t')[0];
-      if (url) seen.add(url);
+  // Always dedup against BOTH tracks' scan-history + pipeline so a URL
+  // accepted by the US filter doesn't double-add to the intl queue (and vice versa).
+  const tsvPaths = ['data/scan-history.tsv', 'data/intl/scan-history.tsv'];
+  const pipelinePaths = ['data/pipeline.md', 'data/intl/pipeline.md'];
+
+  for (const tsv of tsvPaths) {
+    if (existsSync(tsv)) {
+      const lines = readFileSync(tsv, 'utf-8').split('\n');
+      for (const line of lines.slice(1)) { // skip header
+        const url = line.split('\t')[0];
+        if (url) seen.add(url);
+      }
     }
   }
 
-  // pipeline.md — extract URLs from checkbox lines
-  if (existsSync(PIPELINE_PATH)) {
-    const text = readFileSync(PIPELINE_PATH, 'utf-8');
-    for (const match of text.matchAll(/- \[[ x]\] (https?:\/\/\S+)/g)) {
-      seen.add(match[1]);
+  for (const md of pipelinePaths) {
+    if (existsSync(md)) {
+      const text = readFileSync(md, 'utf-8');
+      for (const match of text.matchAll(/- \[[ x!]\] (https?:\/\/\S+)/g)) {
+        seen.add(match[1]);
+      }
     }
   }
 
-  // applications.md — extract URLs from report links and any inline URLs
+  // applications.md — unified across tracks
   if (existsSync(APPLICATIONS_PATH)) {
     const text = readFileSync(APPLICATIONS_PATH, 'utf-8');
     for (const match of text.matchAll(/https?:\/\/[^\s|)]+/g)) {
@@ -318,7 +329,12 @@ async function main() {
   const config = parseYaml(readFileSync(PORTALS_PATH, 'utf-8'));
   const companies = config.tracked_companies || [];
   const titleFilter = buildTitleFilter(config.title_filter);
-  const locationFilter = buildLocationFilter(config.location_filter);
+  const locationConfig = config[LOCATION_FILTER_KEY];
+  if (!locationConfig) {
+    console.error(`Error: ${LOCATION_FILTER_KEY} block missing from portals.yml. Add it or remove --intl.`);
+    process.exit(1);
+  }
+  const locationFilter = buildLocationFilter(locationConfig);
 
   const maxAgeHours = disableAgeFilter
     ? null
@@ -405,12 +421,12 @@ async function main() {
 
   // 6. Print summary
   console.log(`\n${'━'.repeat(45)}`);
-  console.log(`Portal Scan — ${date}`);
+  console.log(`Portal Scan [${TRACK_LABEL}] — ${date}`);
   console.log(`${'━'.repeat(45)}`);
   console.log(`Companies scanned:     ${targets.length}`);
   console.log(`Total jobs found:      ${totalFound}`);
   console.log(`Filtered by title:     ${totalFiltered} removed`);
-  console.log(`Outside USA/Europe:    ${totalOutOfRegion} removed`);
+  console.log(`Outside region:        ${totalOutOfRegion} removed`);
   if (ageCutoffMs != null) {
     console.log(`Older than ${maxAgeHours}h:     ${totalStale} skipped`);
   }
