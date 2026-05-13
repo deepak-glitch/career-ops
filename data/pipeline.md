@@ -1086,24 +1086,28 @@
 
 <!-- Level 2 Greenhouse API — inherently fresh -->
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer | New York, NY
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer | Remote - US
+<!-- moved to Procesadas: Glean Founding FDE Remote-US #700 -->
+
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer | Mountain View, CA
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659409005 | Glean | Forward Deployed Product Manager | New York, NY
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651950005 | Glean | Forward Deployed Product Manager | Remote - US
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8409168002 | Airtable | AI Agent Architect, Customer Experience | Remote - US
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0 | Remote - United States
+<!-- moved to Procesadas: Vercel FDE v0 #701 -->
+
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5777645004 | Vercel | GTM Engineer | Hybrid - San Francisco, New York City, Austin
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5704320004 | Vercel | Software Engineer, Agent | Hybrid - San Francisco
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway | Hybrid - San Francisco, New York City
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK | Hybrid - San Francisco, New York City
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5806749004 | Vercel | Solutions Architect | Hybrid - San Francisco, New York City, Austin
-- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East | Remote - New York
+<!-- moved to Procesadas: Arize AI SE East #702 -->
+
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5818115004 | Arize AI | AI Product Manager | United States (Remote)
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704428004 | Arize AI | Developer Relations Engineer | Remote - San Francisco
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704417004 | Arize AI | Developer Relations Engineer | Remote - New York
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5134194004 | Hightouch | AI Solutions Engineer, Enterprise East | East and Central Timezones (North America)
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | AI Solutions Engineer, Mid-Market | Remote (North America)
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/Chicago/NYC/Seattle/SF/DC
+<!-- moved to Procesadas: Anthropic FDE Applied AI #703 -->
+
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977624008 | Anthropic | Applied AI Architect, Industries | Munich, Germany
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977626008 | Anthropic | Applied AI Architect, Industries | Paris, France
 - [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4848010101 | PolyAI | Developer Relations Manager | New York, USA
@@ -1117,14 +1121,131 @@
 - [ ] https://jobs.lever.co/palantir/50a8a83d-cc13-44b2-bc0c-4730fd7aa51c | Palantir | American Tech Fellowship - Frontier | North America
 
 <!-- Level 3 WebSearch — liveness-checked or likely active -->
-- [ ] https://jobs.ashbyhq.com/decagon/8c40fb7a-5f25-4112-a1df-f1c22b81042c | Decagon | Customer Engineer, Agent Builder | Remote - US
-- [ ] https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee | LiveKit | Forward Deployed Engineer | Remote - US
+<!-- moved to Procesadas: Decagon CE Agent Builder #704 -->
+
+<!-- moved to Procesadas: LiveKit FDE #705 -->
+
 - [ ] https://jobs.ashbyhq.com/fiddler-ai/640c12b9-6a07-4be1-a542-d76e4240e2ff | Fiddler AI | Solutions Architect, Customer Success - US | Remote - US
 - [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | Remote - Global hub offices
 - [ ] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4486915 | Elite Talent | Forward Deployed Engineer | Remote - USA
-- [ ] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | Quora | AI Automation Engineer | Remote - US
-- [ ] https://jobs.ashbyhq.com/sana-roles/d3b49a65-86b3-4608-a2d3-047ea76dfcc5 | Sana | AI Engineer (Agents) | Remote - EU/US
+- [!] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | Quora | AI Automation Engineer | Remote - US — error: Ashby GraphQL returns jobPosting:null (URL listed by WebSearch but not on current Quora board); substituted with Sierra SWE Agent Builder #710
+<!-- moved to Procesadas: Sana AI Engineer (Agents) #706 -->
+
 - [ ] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships | Remote
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7824142 | Intercom | AI Infrastructure Engineer | Berlin, Germany
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694716005 | Glean | Machine Learning Engineer, LLM Evals & Observability | Mountain View, CA
+- [ ] https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2 | Decagon | Customer Engineer, Agent Builder | New York City
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7713599003?gh_jid=7713599003 | Celonis | Working Student Applied AI Brand Solutions  | Munich, Germany
+- [ ] https://jobs.ashbyhq.com/lakera.ai/da6a7e0b-39bc-4bec-aafe-10669baf2434 | Lakera | Solutions Engineer (New York City, New York) | New York
+- [ ] https://jobs.ashbyhq.com/lakera.ai/dcaef0d1-fdcb-4299-9f3e-1aba87dc33b2 | Lakera | Solutions Engineer (Boston, Massachusetts) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/dfd089cb-7f93-4174-b883-69cf33740aac | Lakera | Solutions Engineer (Maryland) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/12b50d6e-3977-45e7-975a-6a72ebb1312d | Lakera | Solutions Engineer (Washington D.C.) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/c3666818-1432-4959-ab55-7e44a34e6ff2 | Lakera | Solutions Engineer (Raleigh-Durham, North Carolina) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/f476a0ea-dfda-459e-a90d-e28bc9c6a2a1 | Lakera | Solutions Engineer (Philadelphia, Pennsylvania) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/5e6ad31b-5597-4106-a864-2db3d8ad7f91 | Lakera | Solutions Engineer (Miami, Florida) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/b286cb02-de27-4f6b-866a-2262dfcacacd | Lakera | Solutions Engineer (Jersey City, New Jersey) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/24ddfe7e-f7f8-41f9-b3c9-26f59f636c7e | Lakera | Solutions Engineer (Pittsburgh, Pennsylvania) | Boston
+- [ ] https://jobs.ashbyhq.com/lakera.ai/94bb2dfd-f3b8-4fd9-86b8-465cf7aafa0d | Lakera | Solutions Engineer (San Francisco, California) | New York
+- [ ] https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54 | LangChain | Deployed Engineer (Seattle) | Seattle, WA
+
+
+
+
+<!-- Level 1 agent scan — direct ATS API (Ashby/Lever/Greenhouse) on companies scan.mjs missed -->
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7 | ElevenLabs | Automations Engineer | United States
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23 | ElevenLabs | Enterprise Solutions Engineer - France | France
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234 | ElevenLabs | Enterprise Solutions Engineer - Spain | Spain
+- [ ] https://jobs.ashbyhq.com/attio/d48617ff-be9b-41cd-aff7-3ad2f826ca74 | Attio | Solutions Engineer [Pre and Post-Sales] - Mid-Market | New York
+- [ ] https://jobs.ashbyhq.com/attio/ce226be1-8237-41ce-b5ca-97c18d3ca8e6 | Attio | Solutions Engineer [Pre and Post-Sales] - SMB | New York
+- [ ] https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683 | Lovable | Data Platform Engineer | Stockholm
+- [ ] https://jobs.ashbyhq.com/lovable/9f4963e7-be14-4dd9-99ce-05df2f06e22d | Lovable | Engineer - Agents & Evals | Stockholm
+- [ ] https://jobs.ashbyhq.com/lovable/e27e931e-79f3-483a-b543-57e42633ac5c | Lovable | Fullstack Engineer - AI Code Security | Stockholm
+- [ ] https://jobs.ashbyhq.com/lovable/99f2854e-4937-4227-b96a-81269b5f871d | Lovable | Platform Engineer - Developer Experience | Stockholm
+- [ ] https://jobs.ashbyhq.com/legora/8f04eacb-b330-4166-8c88-a77c9cc4f46f | Legora | Platform Engineer | Stockholm HQ
+- [ ] https://jobs.ashbyhq.com/legora/f3c0712a-f8e2-4dc1-8e83-23da7891a1c2 | Legora | Solutions Engineer | New York City
+- [ ] https://jobs.ashbyhq.com/lakera.ai/6affd7e7-4efa-49d0-b577-571177d533d2 | Lakera | Solutions Engineer (Germany) | Germany
+- [ ] https://jobs.ashbyhq.com/sierra/df431e56-56f5-42ed-bc62-7d6f7041bd27 | Sierra | Software Engineer, Agent | Madrid
+<!-- moved to Procesadas: Sierra SWE Agent Builder #710 -->
+
+- [ ] https://jobs.ashbyhq.com/sierra/0c892d11-9f19-4b8d-9c2b-409346c52b7a | Sierra | Software Engineer, Agent Data Platform | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66 | Sierra | Software Engineer, Agent - Healthcare | San Francisco, CA
+<!-- moved to Procesadas: Decagon AI Engineer #707 -->
+
+- [ ] https://jobs.ashbyhq.com/decagon/534658d0-9772-441e-8c06-ed6cdcd355e1 | Decagon | Research Engineer, Agents | San Francisco
+- [ ] https://jobs.ashbyhq.com/decagon/6431a6f9-2ebe-4b68-beb6-200b42aeeca8 | Decagon | Strategic Solutions Engineer, East | Remote
+- [ ] https://jobs.ashbyhq.com/decagon/78745829-74ee-41cb-836c-480ca7bf9edc | Decagon | Strategic Solutions Engineer, West | Remote
+- [ ] https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer | San Francisco
+- [ ] https://jobs.ashbyhq.com/deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1 | Deepgram | Backend Software Engineer - Engine Team (Voice Agent) | USA | Remote
+- [ ] https://jobs.ashbyhq.com/deepgram/a58e4a11-7f98-4686-98e8-2612b52d7bbd | Deepgram | Forward Deployed Engineer, Deepgram for Restaurants | New York City, NY
+- [ ] https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST) | USA | Remote
+- [ ] https://jobs.ashbyhq.com/deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2 | Deepgram | Pre-Sales Solutions Engineer - Europe | EU | Remote
+- [ ] https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (San Francisco, CA) | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278 | Deepgram | Software Engineer, Voice Agents / AI - Deepgram for Restaurants | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/deepgram/6ab5816d-bbe1-4383-bb53-675e9f641528 | Deepgram | Solutions Engineer, Enterprise | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/vapi/a69077ea-c968-42ae-bb74-bd782c790211 | Vapi | Agent Engineer | San Francisco
+- [ ] https://jobs.ashbyhq.com/langchain/671f9372-8646-4f6a-a473-61bfa7cafa4b | LangChain | Deployed Engineer (Amsterdam) | Amsterdam
+- [ ] https://jobs.ashbyhq.com/langchain/937e131f-1055-4f1f-bd8a-f036e4ba0666 | LangChain | Deployed Engineer (Austin) | Austin, TX
+- [ ] https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e | LangChain | Deployed Engineer (Chicago) | Chicago, IL
+- [ ] https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927 | LangChain | Deployed Engineer (Dallas) | Dallas, TX
+- [ ] https://jobs.ashbyhq.com/langchain/31ff2b5b-d5c5-443e-bf11-ef02481df579 | LangChain | Deployed Engineer (Germany) | Germany
+- [ ] https://jobs.ashbyhq.com/langchain/2d920c9c-abf2-4c46-a01b-03e61a03c8e6 | LangChain | Deployed Engineer (Los Angeles) | Los Angeles, CA
+- [ ] https://jobs.ashbyhq.com/langchain/86d0df4d-e000-403d-aca8-ee6896aa5420 | LangChain | Deployed Engineer (San Diego) | San Diego, CA
+- [ ] https://jobs.ashbyhq.com/langchain/31483b31-68c5-4603-8a84-0051634100c0 | LangChain | Deployed Engineer (Stockholm) | Sweden
+- [ ] https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | LangChain | FullStack Engineer,  AI Observability & Evals Platform (LangSmith) | San Francisco, CA
+<!-- moved to Procesadas: LangChain Fullstack Applied AI #708 -->
+
+- [ ] https://jobs.ashbyhq.com/claylabs/26c9a251-b616-49f7-a489-4d393a02ea5f | Clay Labs | Forward Deployed GTME | New York
+- [ ] https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874 | Clay Labs | Software Engineer, Developer Experience (AI) | New York
+- [ ] https://jobs.ashbyhq.com/claylabs/232ab8c1-36d7-4114-91c1-0f9c9e4064bc | Clay Labs | Solutions Engineer | New York
+- [ ] https://jobs.ashbyhq.com/workos/dc23fd7b-ee4c-4e6a-959a-209b2eab8b17 | WorkOS | Solutions Engineer | San Francisco
+- [ ] https://jobs.ashbyhq.com/sana-roles/301d4cca-0619-4a29-a80e-fe4f0d2a828b | Sana | Backend Engineer (Core, Learn, & Agents) | Stockholm
+- [ ] https://jobs.ashbyhq.com/sana-roles/7a9b7a07-f510-42b7-8f9d-a5d4104a8b9f | Sana | Fullstack Product Engineer (Learn & Agents) | Stockholm
+- [ ] https://jobs.ashbyhq.com/sana-roles/455270d4-a2e2-44d5-aaba-1b7b919816a0 | Sana | Integration Engineer | Stockholm
+- [ ] https://jobs.ashbyhq.com/sana-roles/8f5204b0-a970-475f-b2ab-119459df8212 | Sana | Solutions Engineer | Stockholm
+- [ ] https://jobs.ashbyhq.com/tavily/1999e01d-f9e3-4f43-a097-812c0800fb0f | Tavily | Forward Deployed Engineer | New York City
+- [ ] https://jobs.ashbyhq.com/modal/44b57790-528e-4f97-8613-03564316be8a | Modal | Customer Engineer | New York
+- [ ] https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9 | Modal | Forward Deployed Engineer - ML | New York
+<!-- moved to Procesadas: Modal FDE Systems #709 -->
+
+- [ ] https://jobs.ashbyhq.com/crosby/73c2e629-8b13-40a3-9c50-d8af4fcf5d10 | Crosby | AI Developer Experience Engineer | New York City
+- [ ] https://jobs.ashbyhq.com/baseten/508b792d-57a0-467e-9a89-76fe72e84433 | Baseten | AI Solutions Engineer | San Francisco
+- [ ] https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa | Baseten | Applied AI Inference Engineer | San Francisco
+- [ ] https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392 | Baseten | Cloud Platform Engineer | San Francisco Office
+- [ ] https://jobs.ashbyhq.com/baseten/68328a94-f785-463b-a3d7-b0dfc11839b5 | Baseten | Post-Training Research Engineer | San Francisco
+- [ ] https://jobs.ashbyhq.com/baseten/b88a68b7-d2bc-4a30-a79a-3ef292ad7c26 | Baseten | Software Engineer - AI Enablement | San Francisco
+- [ ] https://jobs.ashbyhq.com/baseten/6f947409-2bc0-491a-81b3-507cdc95df85 | Baseten | Software Engineer - Training Infrastructure | San Francisco
+- [ ] https://jobs.ashbyhq.com/baseten/126d54b4-a7bc-4456-bf4d-5d224e4f5d63 | Baseten | Software Engineer - Training Product | San Francisco
+- [ ] https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2 | Baseten | Software Engineer - Voice AI (Inference Runtime) | San Francisco
+- [ ] https://jobs.lever.co/palantir/96a0ce26-cf84-4fa8-934b-acc4363620b2 | Palantir | Forward Deployed Engineer - Mixed Reality | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/492a16bb-6b9f-457e-82c3-294e1a2c565d | Palantir | Forward Deployed Software Engineer | Amsterdam, Netherlands
+- [ ] https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b | Palantir | Forward Deployed Software Engineer  - Edge Autonomous Systems | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430 | Palantir | Forward Deployed Software Engineer - Autonomous Systems C2 | Seattle, WA
+- [ ] https://jobs.lever.co/palantir/215bfcd6-c929-45ae-a11b-3fa59ed78025 | Palantir | Forward Deployed Software Engineer - France Government | Paris, France
+- [ ] https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f | Palantir | Forward Deployed Software Engineer - Intel | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/8aba5995-653d-4805-96e8-24488e6abf37 | Palantir | Forward Deployed Software Engineer - Japan Forward Deployed | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/a39bf84c-6648-4871-bd07-9b882d401c4c | Palantir | Forward Deployed Software Engineer - Korea Forward Deployed | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43 | Palantir | Forward Deployed Software Engineer - Tactical Edge | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/289ad049-7b4e-41e3-8a39-146fbeb6fb64 | Palantir | Forward Deployed Software Engineer - US Government | Washington, D.C.
+- [ ] https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18 | Palantir | Forward Deployed Software Engineer - Warp Speed | New York, NY
+- [ ] https://jobs.lever.co/palantir/78dbb616-cf3c-489c-9eb2-e6fc9bd9993a | Palantir | Systems Engineer - Business Systems | New York, NY
+- [ ] https://jobs.lever.co/mistral/fd865fe4-7344-43b0-9d8d-600e8b366725 | Mistral AI | AI Developer Advocate | Paris
+- [ ] https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product | Paris
+- [ ] https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping | Paris
+- [ ] https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer | Paris
+- [ ] https://jobs.lever.co/mistral/18be2b70-c05d-48e4-82ac-e5cb462c96c0 | Mistral AI | Research Platform Engineer | Paris
+- [ ] https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents | Paris
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/7792237 | Talkdesk | Solutions Engineer - Enterprise - Mixed Industries | Remote - United States
+- [ ] https://coreweave.com/careers/job?4651439006&board=coreweave&gh_jid=4651439006 | Weights & Biases (via CoreWeave) | AI Solutions Engineer, Post Sales Scale - W&B | Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / Philadelphia, PA
+- [ ] https://coreweave.com/careers/job?4676234006&board=coreweave&gh_jid=4676234006 | Weights & Biases (via CoreWeave) | Integration Engineer Enterprise Systems | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA
+- [ ] https://coreweave.com/careers/job?4670034006&board=coreweave&gh_jid=4670034006 | Weights & Biases (via CoreWeave) | Integration Engineer, People Technologies | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA
+- [ ] https://coreweave.com/careers/job?4680813006&board=coreweave&gh_jid=4680813006 | Weights & Biases (via CoreWeave) | Product Growth Strategist - AI & Engineering | New York, NY
+- [ ] https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006 | Weights & Biases (via CoreWeave) | Software Engineer, Inference AI/ML |  Sunnyvale, CA / Bellevue, WA
+
+<!-- Level 3 WebSearch — 12 queries, liveness-checked 2026-05-13 -->
+- [ ] https://super-ai.jobs.personio.com/job/1592103?language=en | super.AI | Machine Learning Engineer | Berlin / Remote Europe
+- [ ] https://jobs.smartrecruiters.com/Swissquote/744000111808661-junior-machine-learning-engineer | Swissquote | Junior Machine Learning Engineer | Gland, Switzerland
+- [ ] https://ats.rippling.com/essor/jobs/824ba339-2c67-4e5f-bd46-684d4533743f | Essor | AI Automation Engineer | Paris, France (Hybrid)
+
 
 
 ## Procesadas
@@ -1531,3 +1652,17 @@
 
 - [x] #692 | https://jobs.ashbyhq.com/julius/83d88b90-1b7f-476c-a0e8-10b1cb71639e | Julius AI | Software Engineer - Product (New Grad) | San Francisco, CA — On-site | 3.8/5 | PDF ✅
 - [x] #699 | https://jobs.ashbyhq.com/bland/823904dd-f958-45c8-8e9a-4d9755cd03f0 | Bland AI | Forward Deployed Engineer | San Francisco, CA — Frequent in-person | 3.0/5 | PDF ✅
+
+### 2026-05-13
+
+- [x] #703 | https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/Chicago/NYC/Seattle/SF/DC — Hybrid 25% in-office + 25% travel | 4.2/5 | PDF ✅
+- [x] #702 | https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East | Remote (New York), EST required | 4.1/5 | PDF ✅
+- [x] #700 | https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer | Remote - US (25-50% travel) | 4.0/5 | PDF ✅
+- [x] #708 | https://jobs.ashbyhq.com/langchain/c75915ba-a32b-4e17-873d-19b47564170d | LangChain | Fullstack Software Engineer, Applied AI | San Francisco, CA / New York, NY — In-office 5d/wk | 4.0/5 | PDF ✅
+- [x] #710 | https://jobs.ashbyhq.com/sierra/2fdb200f-c5cf-420c-9997-5e5cea6e1e20 | Sierra | Software Engineer, Agent Builder | San Francisco, CA — In-person | 3.8/5 | PDF ✅
+- [x] #704 | https://jobs.ashbyhq.com/decagon/8c40fb7a-5f25-4112-a1df-f1c22b81042c | Decagon | Customer Engineer, Agent Builder | San Francisco — In-office | 3.7/5 | PDF ✅
+- [x] #707 | https://jobs.ashbyhq.com/decagon/c2ea9bd2-7a20-4fbb-b301-5e587415baeb | Decagon | AI Engineer | San Francisco — In-office 5d/wk | 3.5/5 | PDF ✅
+- [x] #709 | https://jobs.ashbyhq.com/modal/cbbbee50-3d3b-4873-8ae8-ff4b885b8e54 | Modal | Forward Deployed Engineer - Systems | New York / SF (secondary) — In-person | 3.5/5 | PDF ✅
+- [x] #701 | https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0 | Remote - United States | 3.4/5 | PDF ✅
+- [x] #705 | https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee | LiveKit | Forward Deployed Engineer | Remote, U.S. | 3.4/5 | PDF ✅
+- [x] #706 | https://jobs.ashbyhq.com/sana-roles/d3b49a65-86b3-4608-a2d3-047ea76dfcc5 | Sana | AI Engineer (Agents) | Stockholm (primary) — verify Remote EU/US | 3.3/5 | PDF ✅

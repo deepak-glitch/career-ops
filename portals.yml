@@ -694,10 +694,8 @@ tracked_companies:
   # -- Contact Center AI & CX --
 
   - name: Ada
-    careers_url: https://job-boards.greenhouse.io/ada
-    scan_method: websearch
-    scan_query: '"ada.cx" OR "ada" "AI" "Solutions" OR "Engineer" site:jobs.ashbyhq.com OR site:job-boards.greenhouse.io'
-    notes: "Toronto + remote. AI customer service."
+    careers_url: https://job-boards.greenhouse.io/ada18
+    notes: "Toronto + remote. AI customer service. Correct GH slug is 'ada18' (not 'ada')."
     enabled: true
 
   - name: LivePerson
@@ -841,9 +839,9 @@ tracked_companies:
     notes: "Paris. European AI lab."
     enabled: true
 
-  - name: Weights & Biases
-    careers_url: https://jobs.lever.co/wandb
-    notes: "MLOps platform."
+  - name: Weights & Biases (via CoreWeave)
+    careers_url: https://job-boards.greenhouse.io/coreweave
+    notes: "MLOps platform. Acquired by CoreWeave; W&B roles now posted on CoreWeave's Greenhouse. title_filter narrows results."
     enabled: true
 
   - name: Palantir
@@ -854,10 +852,10 @@ tracked_companies:
   # -- European tech (EMEA-friendly) --
 
   - name: Factorial
-    careers_url: https://job-boards.greenhouse.io/factorial
+    careers_url: https://apply.workable.com/factorialhr/
     scan_method: websearch
-    scan_query: 'site:jobs.greenhouse.io/factorial'
-    notes: "Barcelona. HR SaaS unicorn."
+    scan_query: 'site:apply.workable.com/factorialhr OR site:careers.factorialhr.com "AI" OR "Engineer" OR "Product"'
+    notes: "Barcelona. HR SaaS unicorn. Uses Workable (not auto-detected by scan.mjs); discovered via Level 3 WebSearch."
     enabled: true
 
   - name: Attio
@@ -875,10 +873,8 @@ tracked_companies:
     enabled: true
 
   - name: Clarity AI
-    careers_url: https://jobs.lever.co/clarity-ai
-    scan_method: websearch
-    scan_query: 'site:clarity.ai/careers OR site:jobs.lever.co/clarity-ai'
-    notes: "Madrid/Remote. Sustainability analytics with AI."
+    careers_url: https://job-boards.greenhouse.io/clarityai
+    notes: "Madrid/Remote. Sustainability analytics with AI. Migrated from Lever to Greenhouse 'clarityai' slug. (Note: Ashby 'clarity' is a different UK fintech.)"
     enabled: true
 
   - name: Travelperk
@@ -1092,8 +1088,10 @@ tracked_companies:
     enabled: true
 
   - name: Vinted
-    careers_url: https://jobs.lever.co/vinted
-    notes: "Vilnius LT / Berlin. C2C marketplace unicorn, data science & ML roles."
+    careers_url: https://careers.vinted.com/jobs
+    scan_method: websearch
+    scan_query: 'site:careers.vinted.com "Machine Learning" OR "AI" OR "Data Science" OR "Engineer"'
+    notes: "Vilnius LT / Berlin. Custom careers portal — no public ATS API; discovered via Level 3 WebSearch."
     enabled: true
 
   # -- Iberia AI --
@@ -1121,9 +1119,8 @@ tracked_companies:
     enabled: true
 
   - name: Runway
-    careers_url: https://job-boards.greenhouse.io/runwayml
-    api: https://boards-api.greenhouse.io/v1/boards/runwayml/jobs
-    notes: "Generative AI video and creative tooling platform."
+    careers_url: https://jobs.ashbyhq.com/runway-ml
+    notes: "Generative AI video and creative tooling platform. Migrated from Greenhouse to Ashby 'runway-ml' slug."
     enabled: true
 
   - name: Hightouch
