@@ -1088,15 +1088,15 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer | New York, NY
 <!-- moved to Procesadas: Glean Founding FDE Remote-US #700 -->
 
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer | Mountain View, CA
+<!-- moved to Procesadas: Glean Founding FDE Mountain View #711 -->
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659409005 | Glean | Forward Deployed Product Manager | New York, NY
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651950005 | Glean | Forward Deployed Product Manager | Remote - US
-- [ ] https://job-boards.greenhouse.io/airtable/jobs/8409168002 | Airtable | AI Agent Architect, Customer Experience | Remote - US
+<!-- moved to Procesadas: Airtable AI Agent Architect CX #712 -->
 <!-- moved to Procesadas: Vercel FDE v0 #701 -->
 
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5777645004 | Vercel | GTM Engineer | Hybrid - San Francisco, New York City, Austin
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704320004 | Vercel | Software Engineer, Agent | Hybrid - San Francisco
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway | Hybrid - San Francisco, New York City
+<!-- moved to Procesadas: Vercel SWE Agent #713 -->
+<!-- moved to Procesadas: Vercel SWE AI Gateway #714 -->
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK | Hybrid - San Francisco, New York City
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5806749004 | Vercel | Solutions Architect | Hybrid - San Francisco, New York City, Austin
 <!-- moved to Procesadas: Arize AI SE East #702 -->
@@ -1104,7 +1104,7 @@
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5818115004 | Arize AI | AI Product Manager | United States (Remote)
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704428004 | Arize AI | Developer Relations Engineer | Remote - San Francisco
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704417004 | Arize AI | Developer Relations Engineer | Remote - New York
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5134194004 | Hightouch | AI Solutions Engineer, Enterprise East | East and Central Timezones (North America)
+<!-- moved to Procesadas: Hightouch AI SE East #715 (low score 2.6, archived) -->
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | AI Solutions Engineer, Mid-Market | Remote (North America)
 <!-- moved to Procesadas: Anthropic FDE Applied AI #703 -->
 
@@ -1146,7 +1146,7 @@
 - [ ] https://jobs.ashbyhq.com/lakera.ai/b286cb02-de27-4f6b-866a-2262dfcacacd | Lakera | Solutions Engineer (Jersey City, New Jersey) | Boston
 - [ ] https://jobs.ashbyhq.com/lakera.ai/24ddfe7e-f7f8-41f9-b3c9-26f59f636c7e | Lakera | Solutions Engineer (Pittsburgh, Pennsylvania) | Boston
 - [ ] https://jobs.ashbyhq.com/lakera.ai/94bb2dfd-f3b8-4fd9-86b8-465cf7aafa0d | Lakera | Solutions Engineer (San Francisco, California) | New York
-- [ ] https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54 | LangChain | Deployed Engineer (Seattle) | Seattle, WA
+<!-- moved to Procesadas: LangChain Deployed Engineer Seattle #719 -->
 
 
 
@@ -1202,7 +1202,7 @@
 - [ ] https://jobs.ashbyhq.com/sana-roles/7a9b7a07-f510-42b7-8f9d-a5d4104a8b9f | Sana | Fullstack Product Engineer (Learn & Agents) | Stockholm
 - [ ] https://jobs.ashbyhq.com/sana-roles/455270d4-a2e2-44d5-aaba-1b7b919816a0 | Sana | Integration Engineer | Stockholm
 - [ ] https://jobs.ashbyhq.com/sana-roles/8f5204b0-a970-475f-b2ab-119459df8212 | Sana | Solutions Engineer | Stockholm
-- [ ] https://jobs.ashbyhq.com/tavily/1999e01d-f9e3-4f43-a097-812c0800fb0f | Tavily | Forward Deployed Engineer | New York City
+<!-- moved to Procesadas: Tavily FDE NYC #720 -->
 - [ ] https://jobs.ashbyhq.com/modal/44b57790-528e-4f97-8613-03564316be8a | Modal | Customer Engineer | New York
 - [ ] https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9 | Modal | Forward Deployed Engineer - ML | New York
 <!-- moved to Procesadas: Modal FDE Systems #709 -->
@@ -1245,6 +1245,12 @@
 - [ ] https://super-ai.jobs.personio.com/job/1592103?language=en | super.AI | Machine Learning Engineer | Berlin / Remote Europe
 - [ ] https://jobs.smartrecruiters.com/Swissquote/744000111808661-junior-machine-learning-engineer | Swissquote | Junior Machine Learning Engineer | Gland, Switzerland
 - [ ] https://ats.rippling.com/essor/jobs/824ba339-2c67-4e5f-bd46-684d4533743f | Essor | AI Automation Engineer | Paris, France (Hybrid)
+- [ ] https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93 | LangChain | Principle Software Engineer, AI Observability & Evals Platform | Boston, MA
+
+<!-- Level 3 WebSearch overnight sweep — liveness-checked 2026-05-13 -->
+<!-- moved to Procesadas: SF Compute Applied AI Engineer #716 -->
+<!-- moved to Procesadas: Writer AI Deployment Engineer East #717 -->
+<!-- moved to Procesadas: Credal Customer Deployment Engineer #718 -->
 
 
 
@@ -1666,3 +1672,12 @@
 - [x] #701 | https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0 | Remote - United States | 3.4/5 | PDF ✅
 - [x] #705 | https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee | LiveKit | Forward Deployed Engineer | Remote, U.S. | 3.4/5 | PDF ✅
 - [x] #706 | https://jobs.ashbyhq.com/sana-roles/d3b49a65-86b3-4608-a2d3-047ea76dfcc5 | Sana | AI Engineer (Agents) | Stockholm (primary) — verify Remote EU/US | 3.3/5 | PDF ✅
+- [x] #711 | https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer (Mountain View) | Mountain View, CA — Hybrid 3-4d/wk | 3.9/5 | PDF ✅
+- [x] #712 | https://job-boards.greenhouse.io/airtable/jobs/8409168002 | Airtable | AI Agent Architect, Customer Experience | Remote - US | 3.6/5 | PDF ✅
+- [x] #713 | https://job-boards.greenhouse.io/vercel/jobs/5704320004 | Vercel | Software Engineer, Agent | Hybrid - San Francisco | 3.2/5 | PDF ✅
+- [x] #714 | https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway | Hybrid - San Francisco, NYC | 3.3/5 | PDF ✅
+- [x] #716 | https://jobs.ashbyhq.com/sfcompute/d188ef67-774b-42ac-8ebd-072fd53deafa | SF Compute | Applied AI Engineer (Tooling Team) | San Francisco, CA | 3.7/5 | PDF ✅
+- [x] #717 | https://jobs.ashbyhq.com/WRITER/e86dd425-0711-4a28-af87-355f4a83b7bc | Writer | AI Deployment Engineer (East) | Hybrid - NYC (also SF/Chicago/Austin) | 3.8/5 | PDF ✅
+- [x] #718 | https://jobs.ashbyhq.com/credal/2c84846c-9b17-4e0a-84d4-922431d7eabc | Credal | Customer Deployment Engineer | Credal HQ (Brooklyn, NY) — In-person | 3.5/5 | PDF ✅
+- [x] #719 | https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54 | LangChain | Deployed Engineer (Seattle) | Seattle, WA | 3.8/5 | PDF ✅
+- [x] #720 | https://jobs.ashbyhq.com/tavily/1999e01d-f9e3-4f43-a097-812c0800fb0f | Tavily | Forward Deployed Engineer (NYC) | New York City — On-site | 3.7/5 | PDF ✅
