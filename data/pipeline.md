@@ -1085,7 +1085,7 @@
 <!-- scan.mjs Level 2 Greenhouse (29 companies) + Level 2b Lever (9 companies) + Level 3 WebSearch (50 queries) -->
 
 <!-- Level 2 Greenhouse API — inherently fresh -->
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer | New York, NY
+- [!] https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer | New York, NY — moved to Procesadas (#742) 2026-05-14 (3.2/5 — NYC hybrid 4+y stretch; re-eval of posting also processed as #130)
 <!-- moved to Procesadas: Glean Founding FDE Remote-US #700 -->
 
 <!-- moved to Procesadas: Glean Founding FDE Mountain View #711 -->
@@ -1105,14 +1105,14 @@
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704428004 | Arize AI | Developer Relations Engineer | Remote - San Francisco
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704417004 | Arize AI | Developer Relations Engineer | Remote - New York
 <!-- moved to Procesadas: Hightouch AI SE East #715 (low score 2.6, archived) -->
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | AI Solutions Engineer, Mid-Market | Remote (North America)
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | AI Solutions Engineer, Mid-Market | Remote (North America) — moved to Procesadas (#741) 2026-05-14 (2.5/5 — pre-sales SE + GTM/dbt domain gap; SKIP)
 <!-- moved to Procesadas: Anthropic FDE Applied AI #703 -->
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977624008 | Anthropic | Applied AI Architect, Industries | Munich, Germany
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977626008 | Anthropic | Applied AI Architect, Industries | Paris, France
 - [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4848010101 | PolyAI | Developer Relations Manager | New York, USA
-- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4780830101 | Parloa | Partner Solution Engineer | Remotely in the USA
-- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4794825101 | Parloa | Deployment Strategist - US | New York Office
+- [!] https://job-boards.eu.greenhouse.io/parloa/jobs/4780830101 | Parloa | Partner Solution Engineer | Remotely in the USA — moved to Procesadas (#747) 2026-05-14 (2.0/5 — 5+y hard gate + CCaaS off-archetype; SKIP)
+- [!] https://job-boards.eu.greenhouse.io/parloa/jobs/4794825101 | Parloa | Deployment Strategist - US | New York Office — moved to Procesadas (#748) 2026-05-14 (1.5/5 — 7-12y required; Deepak has ~2.5y; insurmountable gap; SKIP)
 - [ ] https://helsing.ai/jobs/4516967101?gh_jid=4516967101 | Helsing | Deployed AI Engineer | Munich/Berlin/Paris/Warsaw/Tallinn (EU)
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7627647003?gh_jid=7627647003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program | New York, US
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7669112003?gh_jid=7669112003 | Celonis | Associate Applied AI Engineer (Madrid/Spain) - Orbit Program | Madrid, Spain
@@ -1126,14 +1126,14 @@
 <!-- moved to Procesadas: LiveKit FDE #705 -->
 
 - [ ] https://jobs.ashbyhq.com/fiddler-ai/640c12b9-6a07-4be1-a542-d76e4240e2ff | Fiddler AI | Solutions Architect, Customer Success - US | Remote - US
-- [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | Remote - Global hub offices
+- [!] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | Remote - Global hub offices — moved to Procesadas (#740) 2026-05-14 (4.0/5 — voice AI FDE; apply; re-eval of #468; PDF generated)
 - [ ] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4486915 | Elite Talent | Forward Deployed Engineer | Remote - USA
 - [!] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | Quora | AI Automation Engineer | Remote - US — error: Ashby GraphQL returns jobPosting:null (URL listed by WebSearch but not on current Quora board); substituted with Sierra SWE Agent Builder #710
 <!-- moved to Procesadas: Sana AI Engineer (Agents) #706 -->
 
-- [ ] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships | Remote
+- [!] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships | Remote — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7824142 | Intercom | AI Infrastructure Engineer | Berlin, Germany
-- [ ] https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2 | Decagon | Customer Engineer, Agent Builder | New York City
+- [!] https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2 | Decagon | Customer Engineer, Agent Builder | New York City — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived (see also moved to Procesadas #704 note above)
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7713599003?gh_jid=7713599003 | Celonis | Working Student Applied AI Brand Solutions  | Munich, Germany
 - [ ] https://jobs.ashbyhq.com/lakera.ai/da6a7e0b-39bc-4bec-aafe-10669baf2434 | Lakera | Solutions Engineer (New York City, New York) | New York
 - [ ] https://jobs.ashbyhq.com/lakera.ai/dcaef0d1-fdcb-4299-9f3e-1aba87dc33b2 | Lakera | Solutions Engineer (Boston, Massachusetts) | Boston
@@ -1151,10 +1151,10 @@
 
 
 <!-- Level 1 agent scan — direct ATS API (Ashby/Lever/Greenhouse) on companies scan.mjs missed -->
-- [ ] https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7 | ElevenLabs | Automations Engineer | United States
+- [!] https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7 | ElevenLabs | Automations Engineer | United States — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived
 - [ ] https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23 | ElevenLabs | Enterprise Solutions Engineer - France | France
 - [ ] https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234 | ElevenLabs | Enterprise Solutions Engineer - Spain | Spain
-- [ ] https://jobs.ashbyhq.com/attio/d48617ff-be9b-41cd-aff7-3ad2f826ca74 | Attio | Solutions Engineer [Pre and Post-Sales] - Mid-Market | New York
+- [!] https://jobs.ashbyhq.com/attio/d48617ff-be9b-41cd-aff7-3ad2f826ca74 | Attio | Solutions Engineer [Pre and Post-Sales] - Mid-Market | New York — moved to Procesadas (#749) 2026-05-14 (2.5/5 — GTM/CRM domain hard miss; SKIP)
 - [ ] https://jobs.ashbyhq.com/attio/ce226be1-8237-41ce-b5ca-97c18d3ca8e6 | Attio | Solutions Engineer [Pre and Post-Sales] - SMB | New York
 - [ ] https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683 | Lovable | Data Platform Engineer | Stockholm
 - [ ] https://jobs.ashbyhq.com/lovable/9f4963e7-be14-4dd9-99ce-05df2f06e22d | Lovable | Engineer - Agents & Evals | Stockholm
@@ -1171,7 +1171,7 @@
 <!-- moved to Procesadas: Decagon AI Engineer #707 -->
 
 - [ ] https://jobs.ashbyhq.com/decagon/534658d0-9772-441e-8c06-ed6cdcd355e1 | Decagon | Research Engineer, Agents | San Francisco
-- [ ] https://jobs.ashbyhq.com/decagon/6431a6f9-2ebe-4b68-beb6-200b42aeeca8 | Decagon | Strategic Solutions Engineer, East | Remote
+- [!] https://jobs.ashbyhq.com/decagon/6431a6f9-2ebe-4b68-beb6-200b42aeeca8 | Decagon | Strategic Solutions Engineer, East | Remote — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived
 - [ ] https://jobs.ashbyhq.com/decagon/78745829-74ee-41cb-836c-480ca7bf9edc | Decagon | Strategic Solutions Engineer, West | Remote
 - [ ] https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer | San Francisco
 - [ ] https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST) | USA | Remote
@@ -1198,8 +1198,8 @@
 - [ ] https://jobs.ashbyhq.com/sana-roles/455270d4-a2e2-44d5-aaba-1b7b919816a0 | Sana | Integration Engineer | Stockholm
 - [ ] https://jobs.ashbyhq.com/sana-roles/8f5204b0-a970-475f-b2ab-119459df8212 | Sana | Solutions Engineer | Stockholm
 <!-- moved to Procesadas: Tavily FDE NYC #720 -->
-- [ ] https://jobs.ashbyhq.com/modal/44b57790-528e-4f97-8613-03564316be8a | Modal | Customer Engineer | New York
-- [ ] https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9 | Modal | Forward Deployed Engineer - ML | New York
+- [!] https://jobs.ashbyhq.com/modal/44b57790-528e-4f97-8613-03564316be8a | Modal | Customer Engineer | New York — moved to Procesadas (#746) 2026-05-14 (3.2/5 — ML/AI OR infra clause satisfied; apply NYC/SF; PDF generated)
+- [!] https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9 | Modal | Forward Deployed Engineer - ML | New York — moved to Procesadas (#745) 2026-05-14 (2.5/5 — GPU/distributed training gap is core req; SKIP)
 <!-- moved to Procesadas: Modal FDE Systems #709 -->
 
 - [ ] https://jobs.ashbyhq.com/baseten/508b792d-57a0-467e-9a89-76fe72e84433 | Baseten | AI Solutions Engineer | San Francisco
@@ -1223,8 +1223,8 @@
 - [ ] https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer | Paris
 - [ ] https://jobs.lever.co/mistral/18be2b70-c05d-48e4-82ac-e5cb462c96c0 | Mistral AI | Research Platform Engineer | Paris
 - [ ] https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents | Paris
-- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/7792237 | Talkdesk | Solutions Engineer - Enterprise - Mixed Industries | Remote - United States
-- [ ] https://coreweave.com/careers/job?4651439006&board=coreweave&gh_jid=4651439006 | Weights & Biases (via CoreWeave) | AI Solutions Engineer, Post Sales Scale - W&B | Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / Philadelphia, PA
+- [!] https://job-boards.greenhouse.io/talkdesk2/jobs/7792237 | Talkdesk | Solutions Engineer - Enterprise - Mixed Industries | Remote - United States — moved to Procesadas (#743) 2026-05-14 (1.5/5 — 5+y + bilingual French hard gates; SKIP)
+- [!] https://coreweave.com/careers/job?4651439006&board=coreweave&gh_jid=4651439006 | Weights & Biases (via CoreWeave) | AI Solutions Engineer, Post Sales Scale - W&B | Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / Philadelphia, PA — moved to Procesadas (#744) 2026-05-14 (3.5/5 — PyTorch/MLOps strong match; apply; PDF generated)
 - [ ] https://coreweave.com/careers/job?4676234006&board=coreweave&gh_jid=4676234006 | Weights & Biases (via CoreWeave) | Integration Engineer Enterprise Systems | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA
 - [ ] https://coreweave.com/careers/job?4670034006&board=coreweave&gh_jid=4670034006 | Weights & Biases (via CoreWeave) | Integration Engineer, People Technologies | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA
 - [ ] https://coreweave.com/careers/job?4680813006&board=coreweave&gh_jid=4680813006 | Weights & Biases (via CoreWeave) | Product Growth Strategist - AI & Engineering | New York, NY
@@ -1242,7 +1242,20 @@
 
 
 
+### 2026-05-14
+
+<!-- scan.mjs Level 1+2+3 overnight sweep — new URLs discovered 2026-05-14 -->
+- [ ] https://jobs.ashbyhq.com/tavily/1999e01d-f9e3-4f43-a097-812c0800fb0f | Tavily | Forward Deployed Engineer | New York, NY
+
 ## Procesadas
+
+### 2026-05-14
+
+- [x] #740 | https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | Remote globally (SF hub) | 4.0/5 | PDF ✅
+- [x] #742 | https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer | New York, NY (Hybrid) | 3.2/5 | PDF ✅
+- [x] #744 | https://coreweave.com/careers/job?4651439006&board=coreweave&gh_jid=4651439006 | Weights & Biases | AI Solutions Engineer, Post Sales Scale | NJ/NYC/Sunnyvale/Bellevue/Philly (Hybrid) | 3.5/5 | PDF ✅
+- [x] #746 | https://jobs.ashbyhq.com/modal/44b57790-528e-4f97-8613-03564316be8a | Modal | Customer Engineer | New York / San Francisco / Stockholm | 3.2/5 | PDF ✅
+
 
 ### 2026-04-20
 

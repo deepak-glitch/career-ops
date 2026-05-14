@@ -25,9 +25,16 @@
 
 ### 2026-05-14
 
-- [ ] https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8 | ElevenLabs | Enterprise Solutions Engineer - Middle East | UAE 
+- [!] https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8 | ElevenLabs | Enterprise Solutions Engineer - Middle East | UAE — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived
+- [!] https://helsing.ai/jobs/4778869101?gh_jid=4778869101 | Helsing | AI Research Engineer - ML Engineering | Berlin; London; Munich — moved to Procesadas (#750) 2026-05-14 (2.5/5 — EU geo veto F-1 OPT + GPU cluster gap + defense domain; SKIP)
+ 
 
 ## Procesadas
+
+### 2026-05-14
+
+- [x] #750 | https://helsing.ai/jobs/4778869101?gh_jid=4778869101 | Helsing | AI Research Engineer - ML Engineering | Berlin; London; Munich | 2.5/5 | PDF ❌
+
 
 ### 2026-05-13
 
