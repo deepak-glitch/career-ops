@@ -581,3 +581,13 @@ Write permissions are not being auto-approved. I need permission to write files 
 If you'd like to grant blanket permission for this session, you can update your Claude Code settings to allow writes to this directory automatically, or simply approve each prompt as it appears.
 
 Shall I proceed with writing the reports one by one (waiting for your approval each time), or would you like to adjust the permission settings first?
+Pushed successfully. Overnight run complete.
+
+**2026-05-14 overnight summary:**
+- **11 reports** written (#740–#750): 10 US + 1 Intl (Helsing)
+- **4 PDFs** generated: ElevenLabs FDE-SWE (4.0/5), Glean Founding FDE NYC (3.2/5), W&B AI SE Post Sales (3.5/5), Modal Customer Engineer (3.2/5)
+- **6 below-threshold** archived to `reports/below-threshold/` (scores 1.5–2.5)
+- **Pipeline**: 0 errors, 0 warnings — 296 entries in applications.md
+- **Dedup**: 2 URLs skipped by merge-tracker (ElevenLabs #468 updated 3.4→4.0; Glean #129 retained higher score); 4 expired URLs marked `[!]` (Tavily, Decagon ×2, ElevenLabs Automations)
+
+**Apply candidates from this run:** ElevenLabs FDE-SWE (4.0/5, remote), W&B AI SE Post Sales (3.5/5, hybrid), Glean Founding FDE NYC (3.2/5, NYC hybrid + relocation needed), Modal Customer Engineer (3.2/5, NYC/SF relocation needed).
