@@ -591,3 +591,32 @@ Pushed successfully. Overnight run complete.
 - **Dedup**: 2 URLs skipped by merge-tracker (ElevenLabs #468 updated 3.4→4.0; Glean #129 retained higher score); 4 expired URLs marked `[!]` (Tavily, Decagon ×2, ElevenLabs Automations)
 
 **Apply candidates from this run:** ElevenLabs FDE-SWE (4.0/5, remote), W&B AI SE Post Sales (3.5/5, hybrid), Glean Founding FDE NYC (3.2/5, NYC hybrid + relocation needed), Modal Customer Engineer (3.2/5, NYC/SF relocation needed).
+Pushed successfully. Here's the final summary:
+
+**Processed 14 URLs (US:10 + Intl:4), generated 11 PDFs, archived 3 low-score, pushed 605c0b5**
+
+---
+
+**US results (#751–#760):**
+| # | Company | Role | Score | PDF |
+|---|---------|------|-------|-----|
+| 751 | Sierra | SWE, Agent Healthcare | 4.0 | ✅ |
+| 752 | LangChain | Deployed Engineer (Austin) | 4.1 | ✅ |
+| 753 | LangChain | Fullstack SWE, LangSmith | 3.5 | ✅ |
+| 754 | Baseten | AI Solutions Engineer | 3.8 | ✅ |
+| 755 | Vercel | SWE, AI SDK | 2.8 | ❌ archived |
+| 756 | Sierra | SWE, Agent Data Platform | 3.8 | ✅ |
+| 757 | LangChain | Deployed Engineer (Chicago) | 4.0 | ✅ |
+| 758 | Middesk | Forward Deployed Engineer | 2.5 | ❌ archived |
+| 759 | Ascertain | Forward Deployed Engineer | 3.3 | ✅ |
+| 760 | Decagon | Research Engineer, Agents | 3.0 | ✅ |
+
+**Intl results (#761–#764):**
+| # | Company | Role | Score | PDF |
+|---|---------|------|-------|-----|
+| 761 | OpenAI | FDE Munich | 3.5 | ✅ |
+| 762 | OpenAI | FDE Paris | 3.3 | ✅ |
+| 763 | ElevenLabs | FDE Strategist Europe | 3.0 | ✅ |
+| 764 | ElevenLabs | FDE Strategist Spain | 2.8 | ❌ archived |
+
+**Top priority applications:** LangChain Austin (4.1), LangChain Chicago (4.0), Sierra Healthcare (4.0), OpenAI Munich (3.5).
