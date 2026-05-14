@@ -1133,7 +1133,6 @@
 
 - [ ] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships | Remote
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7824142 | Intercom | AI Infrastructure Engineer | Berlin, Germany
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694716005 | Glean | Machine Learning Engineer, LLM Evals & Observability | Mountain View, CA
 - [ ] https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2 | Decagon | Customer Engineer, Agent Builder | New York City
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7713599003?gh_jid=7713599003 | Celonis | Working Student Applied AI Brand Solutions  | Munich, Germany
 - [ ] https://jobs.ashbyhq.com/lakera.ai/da6a7e0b-39bc-4bec-aafe-10669baf2434 | Lakera | Solutions Engineer (New York City, New York) | New York
@@ -1175,12 +1174,9 @@
 - [ ] https://jobs.ashbyhq.com/decagon/6431a6f9-2ebe-4b68-beb6-200b42aeeca8 | Decagon | Strategic Solutions Engineer, East | Remote
 - [ ] https://jobs.ashbyhq.com/decagon/78745829-74ee-41cb-836c-480ca7bf9edc | Decagon | Strategic Solutions Engineer, West | Remote
 - [ ] https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer | San Francisco
-- [ ] https://jobs.ashbyhq.com/deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1 | Deepgram | Backend Software Engineer - Engine Team (Voice Agent) | USA | Remote
-- [ ] https://jobs.ashbyhq.com/deepgram/a58e4a11-7f98-4686-98e8-2612b52d7bbd | Deepgram | Forward Deployed Engineer, Deepgram for Restaurants | New York City, NY
 - [ ] https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST) | USA | Remote
 - [ ] https://jobs.ashbyhq.com/deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2 | Deepgram | Pre-Sales Solutions Engineer - Europe | EU | Remote
 - [ ] https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (San Francisco, CA) | San Francisco, CA
-- [ ] https://jobs.ashbyhq.com/deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278 | Deepgram | Software Engineer, Voice Agents / AI - Deepgram for Restaurants | San Francisco, CA
 - [ ] https://jobs.ashbyhq.com/deepgram/6ab5816d-bbe1-4383-bb53-675e9f641528 | Deepgram | Solutions Engineer, Enterprise | San Francisco, CA
 - [ ] https://jobs.ashbyhq.com/vapi/a69077ea-c968-42ae-bb74-bd782c790211 | Vapi | Agent Engineer | San Francisco
 - [ ] https://jobs.ashbyhq.com/langchain/671f9372-8646-4f6a-a473-61bfa7cafa4b | LangChain | Deployed Engineer (Amsterdam) | Amsterdam
@@ -1195,7 +1191,6 @@
 <!-- moved to Procesadas: LangChain Fullstack Applied AI #708 -->
 
 - [ ] https://jobs.ashbyhq.com/claylabs/26c9a251-b616-49f7-a489-4d393a02ea5f | Clay Labs | Forward Deployed GTME | New York
-- [ ] https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874 | Clay Labs | Software Engineer, Developer Experience (AI) | New York
 - [ ] https://jobs.ashbyhq.com/claylabs/232ab8c1-36d7-4114-91c1-0f9c9e4064bc | Clay Labs | Solutions Engineer | New York
 - [ ] https://jobs.ashbyhq.com/workos/dc23fd7b-ee4c-4e6a-959a-209b2eab8b17 | WorkOS | Solutions Engineer | San Francisco
 - [ ] https://jobs.ashbyhq.com/sana-roles/301d4cca-0619-4a29-a80e-fe4f0d2a828b | Sana | Backend Engineer (Core, Learn, & Agents) | Stockholm
@@ -1207,15 +1202,10 @@
 - [ ] https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9 | Modal | Forward Deployed Engineer - ML | New York
 <!-- moved to Procesadas: Modal FDE Systems #709 -->
 
-- [ ] https://jobs.ashbyhq.com/crosby/73c2e629-8b13-40a3-9c50-d8af4fcf5d10 | Crosby | AI Developer Experience Engineer | New York City
 - [ ] https://jobs.ashbyhq.com/baseten/508b792d-57a0-467e-9a89-76fe72e84433 | Baseten | AI Solutions Engineer | San Francisco
-- [ ] https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa | Baseten | Applied AI Inference Engineer | San Francisco
 - [ ] https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392 | Baseten | Cloud Platform Engineer | San Francisco Office
 - [ ] https://jobs.ashbyhq.com/baseten/68328a94-f785-463b-a3d7-b0dfc11839b5 | Baseten | Post-Training Research Engineer | San Francisco
-- [ ] https://jobs.ashbyhq.com/baseten/b88a68b7-d2bc-4a30-a79a-3ef292ad7c26 | Baseten | Software Engineer - AI Enablement | San Francisco
 - [ ] https://jobs.ashbyhq.com/baseten/6f947409-2bc0-491a-81b3-507cdc95df85 | Baseten | Software Engineer - Training Infrastructure | San Francisco
-- [ ] https://jobs.ashbyhq.com/baseten/126d54b4-a7bc-4456-bf4d-5d224e4f5d63 | Baseten | Software Engineer - Training Product | San Francisco
-- [ ] https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2 | Baseten | Software Engineer - Voice AI (Inference Runtime) | San Francisco
 - [ ] https://jobs.lever.co/palantir/96a0ce26-cf84-4fa8-934b-acc4363620b2 | Palantir | Forward Deployed Engineer - Mixed Reality | Washington, D.C.
 - [ ] https://jobs.lever.co/palantir/492a16bb-6b9f-457e-82c3-294e1a2c565d | Palantir | Forward Deployed Software Engineer | Amsterdam, Netherlands
 - [ ] https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b | Palantir | Forward Deployed Software Engineer  - Edge Autonomous Systems | Washington, D.C.
@@ -1229,7 +1219,6 @@
 - [ ] https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18 | Palantir | Forward Deployed Software Engineer - Warp Speed | New York, NY
 - [ ] https://jobs.lever.co/palantir/78dbb616-cf3c-489c-9eb2-e6fc9bd9993a | Palantir | Systems Engineer - Business Systems | New York, NY
 - [ ] https://jobs.lever.co/mistral/fd865fe4-7344-43b0-9d8d-600e8b366725 | Mistral AI | AI Developer Advocate | Paris
-- [ ] https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product | Paris
 - [ ] https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping | Paris
 - [ ] https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer | Paris
 - [ ] https://jobs.lever.co/mistral/18be2b70-c05d-48e4-82ac-e5cb462c96c0 | Mistral AI | Research Platform Engineer | Paris
@@ -1242,7 +1231,6 @@
 - [ ] https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006 | Weights & Biases (via CoreWeave) | Software Engineer, Inference AI/ML |  Sunnyvale, CA / Bellevue, WA
 
 <!-- Level 3 WebSearch — 12 queries, liveness-checked 2026-05-13 -->
-- [ ] https://super-ai.jobs.personio.com/job/1592103?language=en | super.AI | Machine Learning Engineer | Berlin / Remote Europe
 - [ ] https://jobs.smartrecruiters.com/Swissquote/744000111808661-junior-machine-learning-engineer | Swissquote | Junior Machine Learning Engineer | Gland, Switzerland
 - [ ] https://ats.rippling.com/essor/jobs/824ba339-2c67-4e5f-bd46-684d4533743f | Essor | AI Automation Engineer | Paris, France (Hybrid)
 - [ ] https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93 | LangChain | Principle Software Engineer, AI Observability & Evals Platform | Boston, MA
@@ -1681,3 +1669,14 @@
 - [x] #718 | https://jobs.ashbyhq.com/credal/2c84846c-9b17-4e0a-84d4-922431d7eabc | Credal | Customer Deployment Engineer | Credal HQ (Brooklyn, NY) — In-person | 3.5/5 | PDF ✅
 - [x] #719 | https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54 | LangChain | Deployed Engineer (Seattle) | Seattle, WA | 3.8/5 | PDF ✅
 - [x] #720 | https://jobs.ashbyhq.com/tavily/1999e01d-f9e3-4f43-a097-812c0800fb0f | Tavily | Forward Deployed Engineer (NYC) | New York City — On-site | 3.7/5 | PDF ✅
+
+- [x] #728 | https://job-boards.greenhouse.io/gleanwork/jobs/4694716005 | Glean | Machine Learning Engineer, LLM Evals & Observability | Mountain View, CA — Hybrid 3-4d/wk | 4.0/5 | PDF ✅
+- [x] #730 | https://jobs.ashbyhq.com/deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1 | Deepgram | Backend Software Engineer, Engine Team (Voice Agent) | USA — Remote | 3.5/5 | PDF ✅
+- [x] #729 | https://jobs.ashbyhq.com/deepgram/a58e4a11-7f98-4686-98e8-2612b52d7bbd | Deepgram | Forward Deployed Engineer, Deepgram for Restaurants | New York City, NY — On-site | 3.6/5 | PDF ✅
+- [x] #731 | https://jobs.ashbyhq.com/deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278 | Deepgram | Software Engineer, Voice Agents / AI - Deepgram for Restaurants | San Francisco, CA — On-site | 3.4/5 | PDF ✅
+- [x] #732 | https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874 | Clay Labs | Software Engineer, Developer Experience (AI) | New York / San Francisco | 3.9/5 | PDF ✅
+- [x] #735 | https://jobs.ashbyhq.com/crosby/73c2e629-8b13-40a3-9c50-d8af4fcf5d10 | Crosby | AI Developer Experience Engineer | New York City — On-site | 3.9/5 | PDF ✅
+- [x] #733 | https://jobs.ashbyhq.com/baseten/90e9ff4e-1225-4b1b-b0b4-2362e36d9cfa | Baseten | Applied AI Inference Engineer | San Francisco + New York/Remote secondary | 4.1/5 | PDF ✅
+- [x] #734 | https://jobs.ashbyhq.com/baseten/b88a68b7-d2bc-4a30-a79a-3ef292ad7c26 | Baseten | Software Engineer - AI Enablement | San Francisco + Montreal/New York | 3.8/5 | PDF ✅
+- [x] #737 | https://jobs.ashbyhq.com/baseten/126d54b4-a7bc-4456-bf4d-5d224e4f5d63 | Baseten | Software Engineer - Training Product | San Francisco + New York | 3.5/5 | PDF ✅
+- [x] #736 | https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2 | Baseten | Software Engineer - Voice AI (Inference Runtime) | San Francisco + New York | 3.4/5 | PDF ✅
