@@ -576,3 +576,8 @@ Once that file is committed to main, every subsequent overnight run will work wi
 - Top priority when fixed: LiveKit FDE, Vercel FDE v0, Arize AI Solutions Engineer, Hightouch AI Solutions Engineer, Decagon Customer Engineer, Sana AI Engineer (Agents), Quora AI Automation Engineer, Tavily FDE Partnerships, Parloa Partner Solution Engineer, Glean FFDE NYC
 
 Processed 0 URLs, generated 0 PDFs, archived 0 low-score, pushed nothing (session write-blocked).
+Write permissions are not being auto-approved. I need permission to write files to the `reports/` directory to continue the overnight run. Please approve the file write operations — there are 20 reports to create plus pipeline/tracker updates.
+
+If you'd like to grant blanket permission for this session, you can update your Claude Code settings to allow writes to this directory automatically, or simply approve each prompt as it appears.
+
+Shall I proceed with writing the reports one by one (waiting for your approval each time), or would you like to adjust the permission settings first?
