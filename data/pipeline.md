@@ -1097,7 +1097,7 @@
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5777645004 | Vercel | GTM Engineer | Hybrid - San Francisco, New York City, Austin
 <!-- moved to Procesadas: Vercel SWE Agent #713 -->
 <!-- moved to Procesadas: Vercel SWE AI Gateway #714 -->
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK | Hybrid - San Francisco, New York City
+- [!] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK | Hybrid - San Francisco, New York City — moved to Procesadas (#755) 2026-05-14 (2.8/5 no PDF; 5+ yr hard gate; SKIP)
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5806749004 | Vercel | Solutions Architect | Hybrid - San Francisco, New York City, Austin
 <!-- moved to Procesadas: Arize AI SE East #702 -->
 
@@ -1166,11 +1166,11 @@
 - [ ] https://jobs.ashbyhq.com/sierra/df431e56-56f5-42ed-bc62-7d6f7041bd27 | Sierra | Software Engineer, Agent | Madrid
 <!-- moved to Procesadas: Sierra SWE Agent Builder #710 -->
 
-- [ ] https://jobs.ashbyhq.com/sierra/0c892d11-9f19-4b8d-9c2b-409346c52b7a | Sierra | Software Engineer, Agent Data Platform | San Francisco, CA
-- [ ] https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66 | Sierra | Software Engineer, Agent - Healthcare | San Francisco, CA
+- [!] https://jobs.ashbyhq.com/sierra/0c892d11-9f19-4b8d-9c2b-409346c52b7a | Sierra | Software Engineer, Agent Data Platform | San Francisco, CA — moved to Procesadas (#756) 2026-05-14 (3.8/5 PDF ✅)
+- [!] https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66 | Sierra | Software Engineer, Agent - Healthcare | San Francisco, CA — moved to Procesadas (#751) 2026-05-14 as 52375d9d (active URL replaced stale eb3ee157); 4.0/5 PDF ✅
 <!-- moved to Procesadas: Decagon AI Engineer #707 -->
 
-- [ ] https://jobs.ashbyhq.com/decagon/534658d0-9772-441e-8c06-ed6cdcd355e1 | Decagon | Research Engineer, Agents | San Francisco
+- [!] https://jobs.ashbyhq.com/decagon/534658d0-9772-441e-8c06-ed6cdcd355e1 | Decagon | Research Engineer, Agents | San Francisco — moved to Procesadas (#760) 2026-05-14 (3.0/5 PDF ✅)
 - [!] https://jobs.ashbyhq.com/decagon/6431a6f9-2ebe-4b68-beb6-200b42aeeca8 | Decagon | Strategic Solutions Engineer, East | Remote — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived
 - [ ] https://jobs.ashbyhq.com/decagon/78745829-74ee-41cb-836c-480ca7bf9edc | Decagon | Strategic Solutions Engineer, West | Remote
 - [ ] https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer | San Francisco
@@ -1178,16 +1178,16 @@
 - [ ] https://jobs.ashbyhq.com/deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2 | Deepgram | Pre-Sales Solutions Engineer - Europe | EU | Remote
 - [ ] https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (San Francisco, CA) | San Francisco, CA
 - [ ] https://jobs.ashbyhq.com/deepgram/6ab5816d-bbe1-4383-bb53-675e9f641528 | Deepgram | Solutions Engineer, Enterprise | San Francisco, CA
-- [ ] https://jobs.ashbyhq.com/vapi/a69077ea-c968-42ae-bb74-bd782c790211 | Vapi | Agent Engineer | San Francisco
+- [!] https://jobs.ashbyhq.com/vapi/a69077ea-c968-42ae-bb74-bd782c790211 | Vapi | Agent Engineer | San Francisco — error: posting closed (Ashby API returned null; no active listing on Vapi board 2026-05-14); archived
 - [ ] https://jobs.ashbyhq.com/langchain/671f9372-8646-4f6a-a473-61bfa7cafa4b | LangChain | Deployed Engineer (Amsterdam) | Amsterdam
-- [ ] https://jobs.ashbyhq.com/langchain/937e131f-1055-4f1f-bd8a-f036e4ba0666 | LangChain | Deployed Engineer (Austin) | Austin, TX
-- [ ] https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e | LangChain | Deployed Engineer (Chicago) | Chicago, IL
+- [!] https://jobs.ashbyhq.com/langchain/937e131f-1055-4f1f-bd8a-f036e4ba0666 | LangChain | Deployed Engineer (Austin) | Austin, TX — moved to Procesadas (#752) 2026-05-14 (4.1/5 PDF ✅)
+- [!] https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e | LangChain | Deployed Engineer (Chicago) | Chicago, IL — moved to Procesadas (#757) 2026-05-14 (4.0/5 PDF ✅)
 - [ ] https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927 | LangChain | Deployed Engineer (Dallas) | Dallas, TX
 - [ ] https://jobs.ashbyhq.com/langchain/31ff2b5b-d5c5-443e-bf11-ef02481df579 | LangChain | Deployed Engineer (Germany) | Germany
 - [ ] https://jobs.ashbyhq.com/langchain/2d920c9c-abf2-4c46-a01b-03e61a03c8e6 | LangChain | Deployed Engineer (Los Angeles) | Los Angeles, CA
 - [ ] https://jobs.ashbyhq.com/langchain/86d0df4d-e000-403d-aca8-ee6896aa5420 | LangChain | Deployed Engineer (San Diego) | San Diego, CA
 - [ ] https://jobs.ashbyhq.com/langchain/31483b31-68c5-4603-8a84-0051634100c0 | LangChain | Deployed Engineer (Stockholm) | Sweden
-- [ ] https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | LangChain | FullStack Engineer,  AI Observability & Evals Platform (LangSmith) | San Francisco, CA
+- [!] https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | LangChain | FullStack Engineer,  AI Observability & Evals Platform (LangSmith) | San Francisco, CA — moved to Procesadas (#753) 2026-05-14 (3.5/5 PDF ✅)
 <!-- moved to Procesadas: LangChain Fullstack Applied AI #708 -->
 
 - [ ] https://jobs.ashbyhq.com/claylabs/26c9a251-b616-49f7-a489-4d393a02ea5f | Clay Labs | Forward Deployed GTME | New York
@@ -1202,7 +1202,7 @@
 - [!] https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9 | Modal | Forward Deployed Engineer - ML | New York — moved to Procesadas (#745) 2026-05-14 (2.5/5 — GPU/distributed training gap is core req; SKIP)
 <!-- moved to Procesadas: Modal FDE Systems #709 -->
 
-- [ ] https://jobs.ashbyhq.com/baseten/508b792d-57a0-467e-9a89-76fe72e84433 | Baseten | AI Solutions Engineer | San Francisco
+- [!] https://jobs.ashbyhq.com/baseten/508b792d-57a0-467e-9a89-76fe72e84433 | Baseten | AI Solutions Engineer | San Francisco — moved to Procesadas (#754) 2026-05-14 (3.8/5 PDF ✅)
 - [ ] https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392 | Baseten | Cloud Platform Engineer | San Francisco Office
 - [ ] https://jobs.ashbyhq.com/baseten/68328a94-f785-463b-a3d7-b0dfc11839b5 | Baseten | Post-Training Research Engineer | San Francisco
 - [ ] https://jobs.ashbyhq.com/baseten/6f947409-2bc0-491a-81b3-507cdc95df85 | Baseten | Software Engineer - Training Infrastructure | San Francisco
@@ -1245,11 +1245,24 @@
 ### 2026-05-14
 
 <!-- scan.mjs Level 1+2+3 overnight sweep — new URLs discovered 2026-05-14 -->
-- [ ] https://jobs.ashbyhq.com/tavily/1999e01d-f9e3-4f43-a097-812c0800fb0f | Tavily | Forward Deployed Engineer | New York, NY
+- [!] https://jobs.ashbyhq.com/tavily/1999e01d-f9e3-4f43-a097-812c0800fb0f | Tavily | Forward Deployed Engineer | New York, NY — duplicate of #720 (already processed 2026-05-13); skip
+
+<!-- Level 3 WebSearch overnight — 2026-05-14 -->
+- [!] https://jobs.ashbyhq.com/middesk/a72b1048-1001-49b1-92bd-9c44574f939b | Middesk | Forward Deployed Engineer | Remote — US — moved to Procesadas (#758) 2026-05-14 (2.5/5 no PDF; 6+ yr hard gate; SKIP)
+- [!] https://jobs.ashbyhq.com/ascertain/8585e400-f993-46ef-b443-2ad6bbe485b9 | Ascertain | Forward Deployed Engineer | Remote — US — moved to Procesadas (#759) 2026-05-14 (3.3/5 PDF ✅)
 
 ## Procesadas
 
 ### 2026-05-14
+
+- [x] #751 | https://jobs.ashbyhq.com/sierra/52375d9d-29ad-41ab-a1cf-c7afab14cfce | Sierra | Software Engineer, Agent - Healthcare | San Francisco, CA — In-person | 4.0/5 | PDF ✅
+- [x] #752 | https://jobs.ashbyhq.com/langchain/937e131f-1055-4f1f-bd8a-f036e4ba0666 | LangChain | Deployed Engineer (Austin) | Austin, TX — Hybrid | 4.1/5 | PDF ✅
+- [x] #753 | https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | LangChain | FullStack Engineer, AI Observability & Evals Platform (LangSmith) | San Francisco, CA — In-office 5d/wk | 3.5/5 | PDF ✅
+- [x] #754 | https://jobs.ashbyhq.com/baseten/508b792d-57a0-467e-9a89-76fe72e84433 | Baseten | AI Solutions Engineer | San Francisco, CA — In-person | 3.8/5 | PDF ✅
+- [x] #756 | https://jobs.ashbyhq.com/sierra/0c892d11-9f19-4b8d-9c2b-409346c52b7a | Sierra | Software Engineer, Agent Data Platform | San Francisco, CA — In-person | 3.8/5 | PDF ✅
+- [x] #757 | https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e | LangChain | Deployed Engineer (Chicago) | Chicago, IL — Hybrid | 4.0/5 | PDF ✅
+- [x] #759 | https://jobs.ashbyhq.com/ascertain/8585e400-f993-46ef-b443-2ad6bbe485b9 | Ascertain | Forward Deployed Engineer | Remote — US | 3.3/5 | PDF ✅
+- [x] #760 | https://jobs.ashbyhq.com/decagon/534658d0-9772-441e-8c06-ed6cdcd355e1 | Decagon | Research Engineer, Agents | San Francisco, CA — In-office | 3.0/5 | PDF ✅
 
 - [x] #740 | https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | Remote globally (SF hub) | 4.0/5 | PDF ✅
 - [x] #742 | https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer | New York, NY (Hybrid) | 3.2/5 | PDF ✅
