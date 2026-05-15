@@ -1,79 +1,99 @@
 #!/usr/bin/env node
-// One-off: sort the Procesadas section of a pipeline file chronologically (oldest → newest).
-// Pendientes is left untouched.
-// Usage: node scripts/sort-procesadas.mjs [path/to/pipeline.md]
+// Sort the date sections within both Pendientes and Procesadas of a pipeline file.
+// Default order: newest → oldest (latest date on top).
+// Pass `--asc` for oldest → newest.
+// Usage: node scripts/sort-procesadas.mjs [path/to/pipeline.md] [--asc]
 
 import { readFileSync, writeFileSync } from 'fs';
 
-const path = process.argv[2] || 'data/pipeline.md';
-const text = readFileSync(path, 'utf-8');
+const args = process.argv.slice(2);
+const ascending = args.includes('--asc');
+const path = args.find(a => !a.startsWith('--')) || 'data/pipeline.md';
 
-const procIdx = text.indexOf('## Procesadas');
-if (procIdx === -1) {
-  console.error(`No "## Procesadas" section in ${path}`);
+const text = readFileSync(path, 'utf-8');
+const lines = text.split('\n');
+
+// Locate ## Pendientes and ## Procesadas section bounds
+const pendStart = lines.findIndex(l => /^## Pendientes\b/.test(l));
+const procStart = lines.findIndex(l => /^## Procesadas\b/.test(l));
+
+if (pendStart === -1 && procStart === -1) {
+  console.error(`No "## Pendientes" or "## Procesadas" in ${path}`);
   process.exit(1);
 }
 
-const before = text.slice(0, procIdx);
-const proc = text.slice(procIdx);
+function sortSection(start, end) {
+  // start..end is [inclusive, exclusive); start points at "## Pendientes"/"## Procesadas" line
+  // Find first ### YYYY-MM-DD line inside the section; everything before it is the section header.
+  const sec = lines.slice(start, end);
+  const firstDate = sec.findIndex(l => /^### \d{4}-\d{2}-\d{2}/.test(l));
+  if (firstDate === -1) return sec; // no date sub-sections — return as-is
 
-// Split Procesadas into header + date sections.
-// Date section pattern: starts with "### YYYY-MM-DD" line, continues until next "### " or EOF.
-const dateRe = /^### (\d{4}-\d{2}-\d{2}).*$/m;
-const lines = proc.split('\n');
+  const sectionHeader = sec.slice(0, firstDate); // includes the "## Foo" line + any preamble
+  const body = sec.slice(firstDate);
 
-// Find the first "### YYYY-MM-DD" line — anything before that is the header (e.g. "## Procesadas\n\n")
-let firstDateLine = lines.findIndex(l => /^### \d{4}-\d{2}-\d{2}/.test(l));
-if (firstDateLine === -1) {
-  console.error(`No "### YYYY-MM-DD" sections in Procesadas of ${path} — nothing to sort`);
-  process.exit(0);
-}
-
-const header = lines.slice(0, firstDateLine).join('\n');
-const body = lines.slice(firstDateLine);
-
-// Walk body and accumulate sections, keyed by date.
-// If multiple ### YYYY-MM-DD sections exist for same date, MERGE their contents.
-const sections = new Map(); // date -> array of body lines (excluding the ### header)
-let currentDate = null;
-let currentLines = [];
-
-const flush = () => {
-  if (currentDate) {
-    const existing = sections.get(currentDate) || [];
-    sections.set(currentDate, existing.concat(currentLines));
+  // Parse date blocks. If the same date appears multiple times, merge them.
+  const blocks = new Map(); // date -> array of body lines (excluding the ### header)
+  let currentDate = null;
+  let currentLines = [];
+  const flush = () => {
+    if (currentDate) {
+      const existing = blocks.get(currentDate) || [];
+      blocks.set(currentDate, existing.concat(currentLines));
+    }
+  };
+  for (const l of body) {
+    const m = l.match(/^### (\d{4}-\d{2}-\d{2})/);
+    if (m) {
+      flush();
+      currentDate = m[1];
+      currentLines = [];
+    } else {
+      currentLines.push(l);
+    }
   }
-};
+  flush();
 
-for (const line of body) {
-  const m = line.match(/^### (\d{4}-\d{2}-\d{2})/);
-  if (m) {
-    flush();
-    currentDate = m[1];
-    currentLines = [];
-  } else {
-    currentLines.push(line);
+  const sortedDates = [...blocks.keys()].sort();
+  if (!ascending) sortedDates.reverse();
+
+  const out = [...sectionHeader];
+  for (const d of sortedDates) {
+    out.push(`### ${d}`);
+    let secLines = blocks.get(d);
+    while (secLines.length && secLines[0].trim() === '') secLines.shift();
+    while (secLines.length && secLines[secLines.length - 1].trim() === '') secLines.pop();
+    out.push(...secLines);
+    out.push(''); // blank line between sections
   }
-}
-flush();
-
-// Sort dates oldest → newest
-const sortedDates = [...sections.keys()].sort();
-
-// Rebuild Procesadas
-const rebuilt = [header];
-for (const date of sortedDates) {
-  rebuilt.push(`### ${date}`);
-  // Trim leading/trailing blank lines from each section body
-  let secLines = sections.get(date);
-  while (secLines.length && secLines[0].trim() === '') secLines.shift();
-  while (secLines.length && secLines[secLines.length - 1].trim() === '') secLines.pop();
-  rebuilt.push(secLines.join('\n'));
-  rebuilt.push(''); // blank line between sections
+  return out;
 }
 
-const newProc = rebuilt.join('\n').replace(/\n{3,}/g, '\n\n'); // collapse triple blanks
-writeFileSync(path, before + newProc, 'utf-8');
+// Determine section bounds
+const endOfFile = lines.length;
+const pendEnd = procStart !== -1 ? procStart : endOfFile;
+const procEnd = endOfFile;
 
-console.log(`Sorted ${sortedDates.length} date sections in ${path}`);
-console.log(`Order: ${sortedDates[0]} → ${sortedDates[sortedDates.length - 1]}`);
+const before = pendStart === -1
+  ? lines.slice(0, procStart === -1 ? endOfFile : procStart)
+  : lines.slice(0, pendStart);
+
+const pendBlock = pendStart === -1 ? [] : sortSection(pendStart, pendEnd);
+const procBlock = procStart === -1 ? [] : sortSection(procStart, procEnd);
+
+const result = [...before, ...pendBlock, ...procBlock]
+  .join('\n')
+  .replace(/\n{3,}/g, '\n\n'); // collapse extra blank lines
+
+writeFileSync(path, result, 'utf-8');
+
+const order = ascending ? 'oldest → newest' : 'newest → oldest';
+console.log(`Sorted ${path} (${order})`);
+if (pendStart !== -1) {
+  const pendDates = pendBlock.filter(l => /^### \d{4}-\d{2}-\d{2}/.test(l)).length;
+  console.log(`  Pendientes: ${pendDates} date sections`);
+}
+if (procStart !== -1) {
+  const procDates = procBlock.filter(l => /^### \d{4}-\d{2}-\d{2}/.test(l)).length;
+  console.log(`  Procesadas: ${procDates} date sections`);
+}
