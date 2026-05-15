@@ -42,9 +42,24 @@
 - [!] https://jobs.ashbyhq.com/percepta/cede64f9-f495-4382-b8e9-f8a3c4e75a91 | Percepta | Applied AI Engineer - Europe | London, UK — moved to Procesadas (#814) 2026-05-15 (3.7/5 PDF ✅; healthcare AI strong match; F-1 OPT EU relocation needed)
 - [!] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder | Berlin Office — moved to Procesadas (#815) 2026-05-15 (2.5/5 no PDF; PM role off-archetype for IC engineer; SKIP)
 
+<!-- ▼ Manual additions — paste new URLs below as: `- [ ] {url} | {Company} | {Role} | {Location}` -->
+
+
+
 ## Procesadas
 
 ### 2026-05-15
+- [x] #823 | https://job-boards.greenhouse.io/anthropic/jobs/4977624008 | Anthropic | Applied AI Architect, Industries (Munich) | Munich, Germany — Hybrid | 2.4/5 | PDF ❌
+- [x] #824 | https://job-boards.greenhouse.io/anthropic/jobs/4977626008 | Anthropic | Applied AI Architect, Industries (Paris) | Paris, France — Hybrid 25% | 2.4/5 | PDF ❌
+- [x] #825 | https://jobs.ashbyhq.com/sierra/df431e56-56f5-42ed-bc62-7d6f7041bd27 | Sierra | Software Engineer, Agent (Madrid) | Madrid, Spain — In-office | 3.4/5 | PDF ✅
+- [x] #826 | https://jobs.ashbyhq.com/sana-roles/301d4cca-0619-4a29-a80e-fe4f0d2a828b | Sana (Workday) | Backend Engineer (Core, Learn, Agents) | Stockholm, Sweden | 2.9/5 | PDF ❌
+- [x] #827 | https://jobs.ashbyhq.com/sana-roles/7a9b7a07-f510-42b7-8f9d-a5d4104a8b9f | Sana (Workday) | Fullstack Product Engineer (Learn & Agents) | Stockholm, Sweden | 3.2/5 | PDF ✅
+- [x] #828 | https://jobs.ashbyhq.com/sana-roles/455270d4-a2e2-44d5-aaba-1b7b919816a0 | Sana (Workday) | Integration Engineer (Founding) | Stockholm, Sweden | 3.3/5 | PDF ✅
+- [x] #829 | https://jobs.ashbyhq.com/sana-roles/8f5204b0-a970-475f-b2ab-119459df8212 | Sana (Workday) | Solutions Engineer | Stockholm, Sweden | 2.6/5 | PDF ❌
+- [x] #830 | https://jobs.ashbyhq.com/lakera.ai/6affd7e7-4efa-49d0-b577-571177d533d2 | Lakera (Check Point) | Solutions Engineer (Germany) | Germany — Hybrid | 2.4/5 | PDF ❌
+- [x] #831 | https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234 | ElevenLabs | Enterprise Solutions Engineer (Spain) | Spain | 2.5/5 | PDF ❌
+- [x] #832 | https://jobs.ashbyhq.com/legora/8f04eacb-b330-4166-8c88-a77c9cc4f46f | Legora | Platform Engineer | Stockholm HQ | 2.8/5 | PDF ❌
+- [x] #833 | https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683 | Lovable | Data Platform Engineer | Stockholm, Sweden | 2.6/5 | PDF ❌
 - [x] #814 | https://jobs.ashbyhq.com/percepta/cede64f9-f495-4382-b8e9-f8a3c4e75a91 | Percepta | Applied AI Engineer (Europe) | London, UK | 3.7/5 | PDF ✅
 - [x] #815 | https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder | Berlin, Germany | 2.5/5 | PDF ❌
 - [x] #816 | https://jobs.ashbyhq.com/langchain/671f9372-8646-4f6a-a473-61bfa7cafa4b | LangChain | Deployed Engineer (Amsterdam) | Amsterdam, NL | 3.5/5 | PDF ✅
