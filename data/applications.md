@@ -2,6 +2,12 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 778 | 2026-05-15 | Bland AI | Customer Engineer | 3.8/5 | Evaluated | ✅ | [778](reports/778-bland-ai-customer-engineer-2026-05-15.md) | [US] Strong CE/FDE archetype fit; voice AI learnable; Python+LLM+REST match; SF in-person relocation flag; $120-175K base; F-1 OPT verify |
+| 779 | 2026-05-15 | Attio | Solutions Engineer (SMB) | 3.0/5 | Evaluated | ✅ | [779](reports/779-attio-se-smb-2026-05-15.md) | [US] CRM domain mismatch but 1-3yr level fit + $110-130K on-target comp; NYC in-person; borderline vs #749 Mid-Market 2.5/5 |
+| 781 | 2026-05-15 | Deepgram | Solutions Engineer, Enterprise | 3.3/5 | Evaluated | ✅ | [781](reports/781-deepgram-se-enterprise-2026-05-15.md) | [US] Enterprise SE with post-sales scope; Python+REST+POC match; voice AI domain ramp; SF relocation flag; est $130-175K; sister to #774 |
+| 782 | 2026-05-15 | WorkOS | Solutions Engineer | 3.2/5 | Evaluated | ✅ | [782](reports/782-workos-se-2026-05-15.md) | [US] Developer-tooling SE; strong API/Python match; SF in-person friction; identity protocols learnable gap; APPLY |
+| 783 | 2026-05-15 | Legora | Solutions Engineer | 3.1/5 | Evaluated | ✅ | [783](reports/783-legora-se-nyc-2026-05-15.md) | [US] AI legal tech SE; 2-4yr level fit; $114k-$184k comp; NYC 5-day in-person requires full relocation from Kent OH; F-1 OPT friction; APPLY WITH CAVEAT |
+| 785 | 2026-05-15 | Arize AI | Developer Relations Engineer | 3.2/5 | Evaluated | ✅ | [785](reports/785-arize-ai-devrel-sf-2026-05-15.md) | [US] DevRel at LLM eval platform; perfect RAG/agent stack match; SF Bay Area residency required; public content portfolio thin; sponsorship unconfirmed; APPLY WITH CAVEAT |
 | 767 | 2026-05-15 | Ramp | Software Engineer, AI Forward Deployed | 3.8/5 | Evaluated | ✅ | [767](reports/767-ramp-swe-ai-forward-deployed-2026-05-15.md) | [US] Strong RAG/agentic fit; fintech domain gap; SF/NYC hybrid relocation required |
 | 769 | 2026-05-15 | Inkeep | Forward Deployed Engineer, AI Agents | 3.6/5 | Evaluated | ✅ | [769](reports/769-inkeep-fde-ai-agents-2026-05-15.md) | [US] Good archetype fit; NYC in-office 5d/wk + relocation required; $120-180K |
 | 774 | 2026-05-15 | Deepgram | Pre-Sales Solutions Engineer (EST or PST) | 3.3/5 | Evaluated | ✅ | [774](reports/774-deepgram-presales-solutions-engineer-2026-05-15.md) | [US] Remote EST; $165-220K; senior role (5+ yr); voice AI domain gap; pre-sales adjacent |
