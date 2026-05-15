@@ -620,3 +620,49 @@ Pushed successfully. Here's the final summary:
 | 764 | ElevenLabs | FDE Strategist Spain | 2.8 | ❌ archived |
 
 **Top priority applications:** LangChain Austin (4.1), LangChain Chicago (4.0), Sierra Healthcare (4.0), OpenAI Munich (3.5).
+Pushed successfully (`b5d436e`).
+
+---
+
+**Processed 11 URLs (US:10 + Intl:1), generated 8 PDFs, archived 3 low-score, pushed b5d436e**
+
+| # | Company | Score | Region | PDF |
+|---|---------|-------|--------|-----|
+| 765 | Anthropic — FDE Custom Agents | 4.1/5 | US | ✅ |
+| 767 | Ramp — Software Engineer AI FDE | 3.8/5 | US | ✅ |
+| **768** | **PicnicHealth — FDE AI Engineer** | **4.4/5** | **US** | **✅** |
+| 769 | Inkeep — FDE AI Agents | 3.6/5 | US | ✅ |
+| 771 | Boomi — AI FDE | 3.5/5 | US | ✅ |
+| 772 | Pallet — FDE SW Eng AI Agents | 3.4/5 | US | ✅ |
+| 773 | NICE — FDE | 3.7/5 | US | ✅ |
+| 774 | Deepgram — Pre-Sales SE | 3.3/5 | US | ✅ |
+| 766 | Opaque Systems — FDE AI | 2.8/5 → archived | US | ❌ |
+| 770 | Periodic Labs — FDE LLM Systems | 2.9/5 → archived | US | ❌ |
+| 775 | Runpod — FDE APAC | 2.6/5 → archived | Intl | ❌ |
+
+**Top immediate apply priorities:** PicnicHealth #768 (healthcare RAG perfect-fit, remote US) · Anthropic #765 (FDE Custom Agents, SF/NY) · NICE #773 (remote US, healthcare vertical) · Ramp #767 (AI FDE, NYC).
+
+Sources:
+- [Forward Deployed AI Engineer @ Adaptive ML](https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2)
+- [Forward Deployed AI Engineer @ Variance](https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426)
+- [Forward Deployed AI Engineer @ Lorikeet](https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702)
+- [Forward Deployed Engineer - ML @ Modal](https://jobs.ashbyhq.com/modal/0d9c249b-f305-4b0e-b325-3242ac7274e7)
+- [Forward Deployed Engineer - LLM Systems @ Periodic Labs](https://jobs.ashbyhq.com/periodic-labs/dbac407f-a408-44a3-9e7a-895d42649edc)
+- [Job Application for Forward Deployed Engineer (AI) at Opaque Systems](https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009)
+- [Job Application for Forward Deployed Engineer at Warp](https://job-boards.greenhouse.io/warp/jobs/5749183004)
+- [Job Application for Forward Deployed Engineer, Custom Agents at Anthropic](https://job-boards.greenhouse.io/anthropic/jobs/5074695008)
+- [Job Application for Forward Deployed Software Engineer (AI Agents) at Pallet](https://job-boards.greenhouse.io/pallet/jobs/5072543007)
+- [Palantir Technologies - Forward Deployed AI Engineer](https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488)
+- [Agiloft - Forward Deployed Engineer - AI Solutions](https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb)
+- [AHEAD - AI Practitioner/Forward Deployed Engineer](https://jobs.lever.co/thinkahead/ed0d01dc-3cf0-4693-b770-560609612056)
+- [Forward Deployed Engineer @ Baseten](https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e)
+- [Software Engineer, AI Forward Deployed @ Ramp](https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f)
+- [Forward Deployed Engineer @ Synthflow AI](https://jobs.ashbyhq.com/synthflow/5e7b11f1-b915-46f2-bab4-ec2782118373)
+- [Senior Forward Deployed AI Engineer @Smartsheet](https://remotive.com/remote/jobs/ai-ml/senior-forward-deployed-ai-engineer-4308281)
+- [Forward Deployed AI Engineer @PicnicHealth](https://remotive.com/remote/jobs/software-development/forward-deployed-ai-engineer-3598425)
+- [AI Forward Deployed Engineer @Boomi](https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-4437170)
+- [Forward Deployed Engineer @Qdrant](https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4430608)
+- [AI Engineer @ fastino.ai](https://jobs.ashbyhq.com/fastino-ai/d0fe2e39-6cf2-4972-8266-461bd447468a)
+- [Applied AI Engineer – Agentic Workflows @ Cohere](https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9)
+- [AI Automation Engineer (Remote) @ Quora](https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5)
+- [Job Application for Senior AI Automation Engineer at Appfire](https://job-boards.greenhouse.io/appfire/jobs/4667233005)
