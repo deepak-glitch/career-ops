@@ -39,10 +39,21 @@
 
 <!-- Level 3 WebSearch overnight sweep — 2026-05-15 -->
 - [!] https://job-boards.greenhouse.io/runpod/jobs/5173070008 | Runpod | Forward Deployed Engineer APAC | Remote APAC (Malaysia/Singapore/South Korea) — moved to Procesadas (#775) 2026-05-15 (2.6/5 no PDF; APAC residency required + no visa sponsorship — F-1 OPT hard blocker; SKIP)
+- [ ] https://jobs.ashbyhq.com/percepta/cede64f9-f495-4382-b8e9-f8a3c4e75a91 | Percepta | Applied AI Engineer - Europe | London, UK (verify) — healthcare AI
 
 ## Procesadas
 
 ### 2026-05-15
+- [x] #796 | https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping | Paris, France - On-site | 3.9/5 | PDF OK
+- [x] #797 | https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer | Paris, France - On-site (CDI) | 4.1/5 | PDF OK
+- [x] #798 | https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents | Paris, France - Hybrid | 3.3/5 | PDF OK
+- [x] #799 | https://jobs.ashbyhq.com/langchain/31ff2b5b-d5c5-443e-bf11-ef02481df579 | LangChain | Deployed Engineer (Germany) | Germany - Hybrid | 3.6/5 | PDF OK
+- [x] #800 | https://jobs.ashbyhq.com/langchain/31483b31-68c5-4603-8a84-0051634100c0 | LangChain | Deployed Engineer (Stockholm) | Stockholm, Sweden - Hybrid | 3.5/5 | PDF OK
+- [x] #801 | https://jobs.ashbyhq.com/lovable/9f4963e7-be14-4dd9-99ce-05df2f06e22d | Lovable | Engineer - Agents & Evals | Stockholm, Sweden - On-Site | 3.5/5 | PDF OK
+- [x] #802 | https://job-boards.greenhouse.io/intercom/jobs/7824142 | Intercom (Fin) | AI Infrastructure Engineer | Berlin, Germany - Hybrid | 2.8/5 | PDF N/A
+- [x] #803 | https://job-boards.greenhouse.io/celonis/jobs/7669112003?gh_jid=7669112003 | Celonis | Associate Applied AI Engineer (Orbit) | Madrid, Spain | 2.5/5 | PDF N/A
+- [x] #804 | https://jobs.ashbyhq.com/deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2 | Deepgram | Pre-Sales Solutions Engineer (Europe) | EU Remote | 2.5/5 | PDF N/A
+- [x] #805 | https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23 | ElevenLabs | Enterprise Solutions Engineer (France) | France | 2.5/5 | PDF N/A
 
 - [x] #775 | https://job-boards.greenhouse.io/runpod/jobs/5173070008 | Runpod | Forward Deployed Engineer APAC | Remote APAC | 2.6/5 | PDF ❌
 

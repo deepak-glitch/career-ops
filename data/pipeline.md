@@ -1089,33 +1089,33 @@
 <!-- moved to Procesadas: Glean Founding FDE Remote-US #700 -->
 
 <!-- moved to Procesadas: Glean Founding FDE Mountain View #711 -->
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659409005 | Glean | Forward Deployed Product Manager | New York, NY
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651950005 | Glean | Forward Deployed Product Manager | Remote - US
+- [!] https://job-boards.greenhouse.io/gleanwork/jobs/4659409005 | Glean | Forward Deployed Product Manager | New York, NY — filter slip (Product Manager is not in target archetypes)
+- [!] https://job-boards.greenhouse.io/gleanwork/jobs/4651950005 | Glean | Forward Deployed Product Manager | Remote - US — filter slip (Product Manager is not in target archetypes)
 <!-- moved to Procesadas: Airtable AI Agent Architect CX #712 -->
 <!-- moved to Procesadas: Vercel FDE v0 #701 -->
 
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5777645004 | Vercel | GTM Engineer | Hybrid - San Francisco, New York City, Austin
+- [!] https://job-boards.greenhouse.io/vercel/jobs/5777645004 | Vercel | GTM Engineer | Hybrid - SF/NYC/Austin — filter slip (GTM is in negative title list per _profile.md)
 <!-- moved to Procesadas: Vercel SWE Agent #713 -->
 <!-- moved to Procesadas: Vercel SWE AI Gateway #714 -->
 - [!] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK | Hybrid - San Francisco, New York City — moved to Procesadas (#755) 2026-05-14 (2.8/5 no PDF; 5+ yr hard gate; SKIP)
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/5806749004 | Vercel | Solutions Architect | Hybrid - San Francisco, New York City, Austin
+- [!] https://job-boards.greenhouse.io/vercel/jobs/5806749004 | Vercel | Solutions Architect | Hybrid - SF/NYC/Austin — filter slip (Solutions Architect is not primary archetype; requires 5+ yr enterprise background)
 <!-- moved to Procesadas: Arize AI SE East #702 -->
 
-- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5818115004 | Arize AI | AI Product Manager | United States (Remote)
+- [!] https://job-boards.greenhouse.io/arizeai/jobs/5818115004 | Arize AI | AI Product Manager | United States (Remote) — filter slip (Product Manager is not in target archetypes)
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5704428004 | Arize AI | Developer Relations Engineer | Remote - San Francisco — moved to Procesadas (#785) 2026-05-15 (3.2/5 PDF ✅; DevRel; RAG/LLM platform match; SF Bay Area location req)
-- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704417004 | Arize AI | Developer Relations Engineer | Remote - New York
+- [!] https://job-boards.greenhouse.io/arizeai/jobs/5704417004 | Arize AI | Developer Relations Engineer | Remote - New York -- moved to Procesadas (#789) 2026-05-15 (3.3/5 PDF OK)
 <!-- moved to Procesadas: Hightouch AI SE East #715 (low score 2.6, archived) -->
 - [!] https://job-boards.greenhouse.io/hightouch/jobs/5535187004 | Hightouch | AI Solutions Engineer, Mid-Market | Remote (North America) — moved to Procesadas (#741) 2026-05-14 (2.5/5 — pre-sales SE + GTM/dbt domain gap; SKIP)
 <!-- moved to Procesadas: Anthropic FDE Applied AI #703 -->
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977624008 | Anthropic | Applied AI Architect, Industries | Munich, Germany
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977626008 | Anthropic | Applied AI Architect, Industries | Paris, France
-- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4848010101 | PolyAI | Developer Relations Manager | New York, USA
+- [!] https://job-boards.eu.greenhouse.io/polyai/jobs/4848010101 | PolyAI | Developer Relations Manager | New York, USA — filter slip (Manager title not in target archetypes)
 - [!] https://job-boards.eu.greenhouse.io/parloa/jobs/4780830101 | Parloa | Partner Solution Engineer | Remotely in the USA — moved to Procesadas (#747) 2026-05-14 (2.0/5 — 5+y hard gate + CCaaS off-archetype; SKIP)
 - [!] https://job-boards.eu.greenhouse.io/parloa/jobs/4794825101 | Parloa | Deployment Strategist - US | New York Office — moved to Procesadas (#748) 2026-05-14 (1.5/5 — 7-12y required; Deepak has ~2.5y; insurmountable gap; SKIP)
 - [ ] https://helsing.ai/jobs/4516967101?gh_jid=4516967101 | Helsing | Deployed AI Engineer | Munich/Berlin/Paris/Warsaw/Tallinn (EU)
 - [!] https://job-boards.greenhouse.io/celonis/jobs/7627647003?gh_jid=7627647003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program | New York, US — moved to Procesadas (#784) 2026-05-15 (2.0/5 no PDF; HARD VETO no visa sponsorship; F-1 OPT blocker; SKIP)
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/7669112003?gh_jid=7669112003 | Celonis | Associate Applied AI Engineer (Madrid/Spain) - Orbit Program | Madrid, Spain
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7669112003?gh_jid=7669112003 | Celonis | Associate Applied AI Engineer (Madrid/Spain) - Orbit Program | Madrid, Spain -- routed to Intl track (#803) 2026-05-15 (2.5/5 SKIP)
 
 <!-- Level 2b Lever API — inherently fresh -->
 - [ ] https://jobs.lever.co/palantir/50a8a83d-cc13-44b2-bc0c-4730fd7aa51c | Palantir | American Tech Fellowship - Frontier | North America
@@ -1125,16 +1125,16 @@
 
 <!-- moved to Procesadas: LiveKit FDE #705 -->
 
-- [ ] https://jobs.ashbyhq.com/fiddler-ai/640c12b9-6a07-4be1-a542-d76e4240e2ff | Fiddler AI | Solutions Architect, Customer Success - US | Remote - US
+- [!] https://jobs.ashbyhq.com/fiddler-ai/640c12b9-6a07-4be1-a542-d76e4240e2ff | Fiddler AI | Solutions Architect, Customer Success - US | Remote - US -- moved to Procesadas (#793) 2026-05-15 (0/5 CLOSED)
 - [!] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | Remote - Global hub offices — moved to Procesadas (#740) 2026-05-14 (4.0/5 — voice AI FDE; apply; re-eval of #468; PDF generated)
 - [!] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4486915 | Elite Talent | Forward Deployed Engineer | Remote - USA — moved to Procesadas (#780) 2026-05-15 (2.0/5 no PDF; 3rd eval same URL; recruiter posting; 5+yr bar; SKIP)
 - [!] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | Quora | AI Automation Engineer | Remote - US — error: Ashby GraphQL returns jobPosting:null (URL listed by WebSearch but not on current Quora board); substituted with Sierra SWE Agent Builder #710
 <!-- moved to Procesadas: Sana AI Engineer (Agents) #706 -->
 
 - [!] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships | Remote — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7824142 | Intercom | AI Infrastructure Engineer | Berlin, Germany
+- [!] https://job-boards.greenhouse.io/intercom/jobs/7824142 | Intercom | AI Infrastructure Engineer | Berlin, Germany -- routed to Intl track (#802) 2026-05-15 (2.8/5 SKIP)
 - [!] https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2 | Decagon | Customer Engineer, Agent Builder | New York City — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived (see also moved to Procesadas #704 note above)
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/7713599003?gh_jid=7713599003 | Celonis | Working Student Applied AI Brand Solutions  | Munich, Germany
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7713599003?gh_jid=7713599003 | Celonis | Working Student Applied AI Brand Solutions | Munich, Germany — filter slip (Working Student role; EU on-site; not target archetype)
 - [ ] https://jobs.ashbyhq.com/lakera.ai/da6a7e0b-39bc-4bec-aafe-10669baf2434 | Lakera | Solutions Engineer (New York City, New York) | New York
 - [ ] https://jobs.ashbyhq.com/lakera.ai/dcaef0d1-fdcb-4299-9f3e-1aba87dc33b2 | Lakera | Solutions Engineer (Boston, Massachusetts) | Boston
 - [ ] https://jobs.ashbyhq.com/lakera.ai/dfd089cb-7f93-4174-b883-69cf33740aac | Lakera | Solutions Engineer (Maryland) | Boston
@@ -1152,12 +1152,12 @@
 
 <!-- Level 1 agent scan — direct ATS API (Ashby/Lever/Greenhouse) on companies scan.mjs missed -->
 - [!] https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7 | ElevenLabs | Automations Engineer | United States — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived
-- [ ] https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23 | ElevenLabs | Enterprise Solutions Engineer - France | France
+- [!] https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23 | ElevenLabs | Enterprise Solutions Engineer - France | France -- routed to Intl track (#805) 2026-05-15 (2.5/5 SKIP)
 - [ ] https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234 | ElevenLabs | Enterprise Solutions Engineer - Spain | Spain
 - [!] https://jobs.ashbyhq.com/attio/d48617ff-be9b-41cd-aff7-3ad2f826ca74 | Attio | Solutions Engineer [Pre and Post-Sales] - Mid-Market | New York — moved to Procesadas (#749) 2026-05-14 (2.5/5 — GTM/CRM domain hard miss; SKIP)
 - [!] https://jobs.ashbyhq.com/attio/ce226be1-8237-41ce-b5ca-97c18d3ca8e6 | Attio | Solutions Engineer [Pre and Post-Sales] - SMB | New York — moved to Procesadas (#779) 2026-05-15 (3.0/5 PDF ✅; level fit; CRM domain gap)
 - [ ] https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683 | Lovable | Data Platform Engineer | Stockholm
-- [ ] https://jobs.ashbyhq.com/lovable/9f4963e7-be14-4dd9-99ce-05df2f06e22d | Lovable | Engineer - Agents & Evals | Stockholm
+- [!] https://jobs.ashbyhq.com/lovable/9f4963e7-be14-4dd9-99ce-05df2f06e22d | Lovable | Engineer - Agents & Evals | Stockholm -- routed to Intl track (#801) 2026-05-15 (3.5/5 PDF OK)
 - [ ] https://jobs.ashbyhq.com/lovable/e27e931e-79f3-483a-b543-57e42633ac5c | Lovable | Fullstack Engineer - AI Code Security | Stockholm
 - [ ] https://jobs.ashbyhq.com/lovable/99f2854e-4937-4227-b96a-81269b5f871d | Lovable | Platform Engineer - Developer Experience | Stockholm
 - [ ] https://jobs.ashbyhq.com/legora/8f04eacb-b330-4166-8c88-a77c9cc4f46f | Legora | Platform Engineer | Stockholm HQ
@@ -1175,22 +1175,22 @@
 - [!] https://jobs.ashbyhq.com/decagon/78745829-74ee-41cb-836c-480ca7bf9edc | Decagon | Strategic Solutions Engineer, West | Remote — moved to Procesadas (#777) 2026-05-15 (2.8/5 no PDF; pre-sales archetype mismatch + 4-6yr bar; SKIP)
 - [!] https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer | San Francisco — moved to Procesadas (#778) 2026-05-15 (3.8/5 PDF ✅; CE/FDE fit; voice AI domain; SF relocation needed)
 - [ ] https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST) | USA | Remote
-- [ ] https://jobs.ashbyhq.com/deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2 | Deepgram | Pre-Sales Solutions Engineer - Europe | EU | Remote
-- [ ] https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (San Francisco, CA) | San Francisco, CA
+- [!] https://jobs.ashbyhq.com/deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2 | Deepgram | Pre-Sales Solutions Engineer - Europe | EU | Remote -- routed to Intl track (#804) 2026-05-15 (2.5/5 SKIP)
+- [!] https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (San Francisco, CA) | San Francisco, CA -- moved to Procesadas (#792) 2026-05-15 (3.0/5 PDF OK)
 - [!] https://jobs.ashbyhq.com/deepgram/6ab5816d-bbe1-4383-bb53-675e9f641528 | Deepgram | Solutions Engineer, Enterprise | San Francisco, CA — moved to Procesadas (#781) 2026-05-15 (3.3/5 PDF ✅; voice AI SE; SF relocation needed)
 - [!] https://jobs.ashbyhq.com/vapi/a69077ea-c968-42ae-bb74-bd782c790211 | Vapi | Agent Engineer | San Francisco — error: posting closed (Ashby API returned null; no active listing on Vapi board 2026-05-14); archived
 - [ ] https://jobs.ashbyhq.com/langchain/671f9372-8646-4f6a-a473-61bfa7cafa4b | LangChain | Deployed Engineer (Amsterdam) | Amsterdam
 - [!] https://jobs.ashbyhq.com/langchain/937e131f-1055-4f1f-bd8a-f036e4ba0666 | LangChain | Deployed Engineer (Austin) | Austin, TX — moved to Procesadas (#752) 2026-05-14 (4.1/5 PDF ✅)
 - [!] https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e | LangChain | Deployed Engineer (Chicago) | Chicago, IL — moved to Procesadas (#757) 2026-05-14 (4.0/5 PDF ✅)
-- [ ] https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927 | LangChain | Deployed Engineer (Dallas) | Dallas, TX
-- [ ] https://jobs.ashbyhq.com/langchain/31ff2b5b-d5c5-443e-bf11-ef02481df579 | LangChain | Deployed Engineer (Germany) | Germany
-- [ ] https://jobs.ashbyhq.com/langchain/2d920c9c-abf2-4c46-a01b-03e61a03c8e6 | LangChain | Deployed Engineer (Los Angeles) | Los Angeles, CA
-- [ ] https://jobs.ashbyhq.com/langchain/86d0df4d-e000-403d-aca8-ee6896aa5420 | LangChain | Deployed Engineer (San Diego) | San Diego, CA
-- [ ] https://jobs.ashbyhq.com/langchain/31483b31-68c5-4603-8a84-0051634100c0 | LangChain | Deployed Engineer (Stockholm) | Sweden
+- [!] https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927 | LangChain | Deployed Engineer (Dallas) | Dallas, TX -- moved to Procesadas (#786) 2026-05-15 (4.1/5 PDF OK)
+- [!] https://jobs.ashbyhq.com/langchain/31ff2b5b-d5c5-443e-bf11-ef02481df579 | LangChain | Deployed Engineer (Germany) | Germany -- routed to Intl track (#799) 2026-05-15 (3.6/5 PDF OK)
+- [!] https://jobs.ashbyhq.com/langchain/2d920c9c-abf2-4c46-a01b-03e61a03c8e6 | LangChain | Deployed Engineer (Los Angeles) | Los Angeles, CA -- moved to Procesadas (#787) 2026-05-15 (4.0/5 PDF OK)
+- [!] https://jobs.ashbyhq.com/langchain/86d0df4d-e000-403d-aca8-ee6896aa5420 | LangChain | Deployed Engineer (San Diego) | San Diego, CA -- moved to Procesadas (#788) 2026-05-15 (3.9/5 PDF OK)
+- [!] https://jobs.ashbyhq.com/langchain/31483b31-68c5-4603-8a84-0051634100c0 | LangChain | Deployed Engineer (Stockholm) | Sweden -- routed to Intl track (#800) 2026-05-15 (3.5/5 PDF OK)
 - [!] https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | LangChain | FullStack Engineer,  AI Observability & Evals Platform (LangSmith) | San Francisco, CA — moved to Procesadas (#753) 2026-05-14 (3.5/5 PDF ✅)
 <!-- moved to Procesadas: LangChain Fullstack Applied AI #708 -->
 
-- [ ] https://jobs.ashbyhq.com/claylabs/26c9a251-b616-49f7-a489-4d393a02ea5f | Clay Labs | Forward Deployed GTME | New York
+- [!] https://jobs.ashbyhq.com/claylabs/26c9a251-b616-49f7-a489-4d393a02ea5f | Clay Labs | Forward Deployed GTME | New York — filter slip (GTM in title per negative list)
 - [ ] https://jobs.ashbyhq.com/claylabs/232ab8c1-36d7-4114-91c1-0f9c9e4064bc | Clay Labs | Solutions Engineer | New York
 - [!] https://jobs.ashbyhq.com/workos/dc23fd7b-ee4c-4e6a-959a-209b2eab8b17 | WorkOS | Solutions Engineer | San Francisco — moved to Procesadas (#782) 2026-05-15 (3.2/5 PDF ✅; developer auth SE; SF relocation needed)
 - [ ] https://jobs.ashbyhq.com/sana-roles/301d4cca-0619-4a29-a80e-fe4f0d2a828b | Sana | Backend Engineer (Core, Learn, & Agents) | Stockholm
@@ -1204,36 +1204,36 @@
 
 - [!] https://jobs.ashbyhq.com/baseten/508b792d-57a0-467e-9a89-76fe72e84433 | Baseten | AI Solutions Engineer | San Francisco — moved to Procesadas (#754) 2026-05-14 (3.8/5 PDF ✅)
 - [ ] https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392 | Baseten | Cloud Platform Engineer | San Francisco Office
-- [ ] https://jobs.ashbyhq.com/baseten/68328a94-f785-463b-a3d7-b0dfc11839b5 | Baseten | Post-Training Research Engineer | San Francisco
+- [!] https://jobs.ashbyhq.com/baseten/68328a94-f785-463b-a3d7-b0dfc11839b5 | Baseten | Post-Training Research Engineer | San Francisco — filter slip (Research Engineer typically PhD-gated; post-training alignment out of archetype)
 - [ ] https://jobs.ashbyhq.com/baseten/6f947409-2bc0-491a-81b3-507cdc95df85 | Baseten | Software Engineer - Training Infrastructure | San Francisco
 - [ ] https://jobs.lever.co/palantir/96a0ce26-cf84-4fa8-934b-acc4363620b2 | Palantir | Forward Deployed Engineer - Mixed Reality | Washington, D.C.
 - [ ] https://jobs.lever.co/palantir/492a16bb-6b9f-457e-82c3-294e1a2c565d | Palantir | Forward Deployed Software Engineer | Amsterdam, Netherlands
-- [ ] https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b | Palantir | Forward Deployed Software Engineer  - Edge Autonomous Systems | Washington, D.C.
-- [ ] https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430 | Palantir | Forward Deployed Software Engineer - Autonomous Systems C2 | Seattle, WA
+- [!] https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b | Palantir | Forward Deployed Software Engineer - Edge Autonomous Systems | Washington, D.C. — filter slip (defense/autonomous systems domain; likely clearance required; F-1 OPT blocker)
+- [!] https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430 | Palantir | Forward Deployed Software Engineer - Autonomous Systems C2 | Seattle, WA — filter slip (C2 = command & control; defense/classified domain; F-1 OPT blocker)
 - [ ] https://jobs.lever.co/palantir/215bfcd6-c929-45ae-a11b-3fa59ed78025 | Palantir | Forward Deployed Software Engineer - France Government | Paris, France
-- [ ] https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f | Palantir | Forward Deployed Software Engineer - Intel | Washington, D.C.
+- [!] https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f | Palantir | Forward Deployed Software Engineer - Intel | Washington, D.C. — filter slip (intelligence community; clearance required; F-1 OPT hard blocker)
 - [ ] https://jobs.lever.co/palantir/8aba5995-653d-4805-96e8-24488e6abf37 | Palantir | Forward Deployed Software Engineer - Japan Forward Deployed | Washington, D.C.
 - [ ] https://jobs.lever.co/palantir/a39bf84c-6648-4871-bd07-9b882d401c4c | Palantir | Forward Deployed Software Engineer - Korea Forward Deployed | Washington, D.C.
-- [ ] https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43 | Palantir | Forward Deployed Software Engineer - Tactical Edge | Washington, D.C.
-- [ ] https://jobs.lever.co/palantir/289ad049-7b4e-41e3-8a39-146fbeb6fb64 | Palantir | Forward Deployed Software Engineer - US Government | Washington, D.C.
-- [ ] https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18 | Palantir | Forward Deployed Software Engineer - Warp Speed | New York, NY
+- [!] https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43 | Palantir | Forward Deployed Software Engineer - Tactical Edge | Washington, D.C. — filter slip (tactical military domain; clearance required; F-1 OPT hard blocker)
+- [!] https://jobs.lever.co/palantir/289ad049-7b4e-41e3-8a39-146fbeb6fb64 | Palantir | Forward Deployed Software Engineer - US Government | Washington, D.C. -- moved to Procesadas (#795) 2026-05-15 (1.0/5 US citizenship req; SKIP)
+- [!] https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18 | Palantir | Forward Deployed Software Engineer - Warp Speed | New York, NY -- moved to Procesadas (#794) 2026-05-15 (1.5/5 US Person req; SKIP)
 - [ ] https://jobs.lever.co/palantir/78dbb616-cf3c-489c-9eb2-e6fc9bd9993a | Palantir | Systems Engineer - Business Systems | New York, NY
-- [ ] https://jobs.lever.co/mistral/fd865fe4-7344-43b0-9d8d-600e8b366725 | Mistral AI | AI Developer Advocate | Paris
-- [ ] https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping | Paris
-- [ ] https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer | Paris
-- [ ] https://jobs.lever.co/mistral/18be2b70-c05d-48e4-82ac-e5cb462c96c0 | Mistral AI | Research Platform Engineer | Paris
-- [ ] https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents | Paris
+- [!] https://jobs.lever.co/mistral/fd865fe4-7344-43b0-9d8d-600e8b366725 | Mistral AI | AI Developer Advocate | Paris — filter slip (DevRel/advocacy role; Paris EU geo; not primary engineering archetype)
+- [!] https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping | Paris -- routed to Intl track (#796) 2026-05-15 (3.9/5 PDF OK)
+- [!] https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer | Paris -- routed to Intl track (#797) 2026-05-15 (4.1/5 PDF OK)
+- [!] https://jobs.lever.co/mistral/18be2b70-c05d-48e4-82ac-e5cb462c96c0 | Mistral AI | Research Platform Engineer | Paris — filter slip (research infrastructure engineering; Paris EU geo + not applied AI archetype)
+- [!] https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents | Paris -- routed to Intl track (#798) 2026-05-15 (3.3/5 PDF OK)
 - [!] https://job-boards.greenhouse.io/talkdesk2/jobs/7792237 | Talkdesk | Solutions Engineer - Enterprise - Mixed Industries | Remote - United States — moved to Procesadas (#743) 2026-05-14 (1.5/5 — 5+y + bilingual French hard gates; SKIP)
 - [!] https://coreweave.com/careers/job?4651439006&board=coreweave&gh_jid=4651439006 | Weights & Biases (via CoreWeave) | AI Solutions Engineer, Post Sales Scale - W&B | Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / Philadelphia, PA — moved to Procesadas (#744) 2026-05-14 (3.5/5 — PyTorch/MLOps strong match; apply; PDF generated)
-- [ ] https://coreweave.com/careers/job?4676234006&board=coreweave&gh_jid=4676234006 | Weights & Biases (via CoreWeave) | Integration Engineer Enterprise Systems | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA
-- [ ] https://coreweave.com/careers/job?4670034006&board=coreweave&gh_jid=4670034006 | Weights & Biases (via CoreWeave) | Integration Engineer, People Technologies | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA
-- [ ] https://coreweave.com/careers/job?4680813006&board=coreweave&gh_jid=4680813006 | Weights & Biases (via CoreWeave) | Product Growth Strategist - AI & Engineering | New York, NY
-- [ ] https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006 | Weights & Biases (via CoreWeave) | Software Engineer, Inference AI/ML |  Sunnyvale, CA / Bellevue, WA
+- [!] https://coreweave.com/careers/job?4676234006&board=coreweave&gh_jid=4676234006 | Weights & Biases (via CoreWeave) | Integration Engineer Enterprise Systems | NJ/NYC/Sunnyvale/SF/Bellevue — filter slip (IT systems integration, not applied AI engineering)
+- [!] https://coreweave.com/careers/job?4670034006&board=coreweave&gh_jid=4670034006 | Weights & Biases (via CoreWeave) | Integration Engineer, People Technologies | NJ/NYC/Sunnyvale/SF/Bellevue — filter slip (HR tech integration, not applied AI engineering)
+- [!] https://coreweave.com/careers/job?4680813006&board=coreweave&gh_jid=4680813006 | Weights & Biases (via CoreWeave) | Product Growth Strategist - AI & Engineering | New York, NY — filter slip (Strategy/growth role, not engineering)
+- [!] https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006 | Weights & Biases (via CoreWeave) | Software Engineer, Inference AI/ML | Sunnyvale, CA / Bellevue, WA -- moved to Procesadas (#790) 2026-05-15 (3.0/5 PDF OK)
 
 <!-- Level 3 WebSearch — 12 queries, liveness-checked 2026-05-13 -->
 - [ ] https://jobs.smartrecruiters.com/Swissquote/744000111808661-junior-machine-learning-engineer | Swissquote | Junior Machine Learning Engineer | Gland, Switzerland
 - [ ] https://ats.rippling.com/essor/jobs/824ba339-2c67-4e5f-bd46-684d4533743f | Essor | AI Automation Engineer | Paris, France (Hybrid)
-- [ ] https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93 | LangChain | Principle Software Engineer, AI Observability & Evals Platform | Boston, MA
+- [!] https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93 | LangChain | Principle Software Engineer, AI Observability & Evals Platform | Boston, MA -- moved to Procesadas (#791) 2026-05-15 (2.5/5 no PDF)
 
 <!-- Level 3 WebSearch overnight sweep — liveness-checked 2026-05-13 -->
 <!-- moved to Procesadas: SF Compute Applied AI Engineer #716 -->
@@ -1255,6 +1255,7 @@
 
 <!-- Level 3 WebSearch overnight sweep — 2026-05-15 -->
 - [!] https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007 | Defense Unicorns | Forward Deployed AI Engineer | Remote — US — moved to Procesadas (#776) 2026-05-15 (2.2/5 no PDF; US citizenship + clearance required; F-1 OPT hard veto; SKIP)
+- [ ] https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote — Continental US | $215K–250K
 - [!] https://job-boards.greenhouse.io/anthropic/jobs/5074695008 | Anthropic | Forward Deployed Engineer, Custom Agents | San Francisco, CA or New York, NY — moved to Procesadas (#765) 2026-05-15 (4.1/5 PDF ✅; posting may be closed — verify)
 - [!] https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009 | Opaque Systems | Forward Deployed Engineer (AI) | Romania — moved to Procesadas (#766) 2026-05-15 (2.8/5 no PDF; F-1 OPT hard blocker Romania; SKIP)
 - [!] https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f | Ramp | Software Engineer, AI Forward Deployed | San Francisco, CA or New York, NY — moved to Procesadas (#767) 2026-05-15 (3.8/5 PDF ✅)
@@ -1269,6 +1270,12 @@
 ## Procesadas
 
 ### 2026-05-15
+- [x] #786 | https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927 | LangChain | Deployed Engineer (Dallas) | Dallas, TX | 4.1/5 | PDF OK
+- [x] #787 | https://jobs.ashbyhq.com/langchain/2d920c9c-abf2-4c46-a01b-03e61a03c8e6 | LangChain | Deployed Engineer (Los Angeles) | Los Angeles, CA | 4.0/5 | PDF OK
+- [x] #788 | https://jobs.ashbyhq.com/langchain/86d0df4d-e000-403d-aca8-ee6896aa5420 | LangChain | Deployed Engineer (San Diego) | San Diego, CA | 3.9/5 | PDF OK
+- [x] #789 | https://job-boards.greenhouse.io/arizeai/jobs/5704417004 | Arize AI | Developer Relations Engineer (New York) | Remote - New York metro | 3.3/5 | PDF OK
+- [x] #790 | https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006 | Weights & Biases (CoreWeave) | Software Engineer, Inference AI/ML | Bellevue, WA / Sunnyvale, CA | 3.0/5 | PDF OK
+- [x] #792 | https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (SF) | San Francisco, CA | 3.0/5 | PDF OK
 
 - [x] #765 | https://job-boards.greenhouse.io/anthropic/jobs/5074695008 | Anthropic | Forward Deployed Engineer, Custom Agents | San Francisco, CA or New York, NY — Hybrid | 4.1/5 | PDF ✅
 - [x] #767 | https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f | Ramp | Software Engineer, AI Forward Deployed | San Francisco, CA or New York, NY — Hybrid | 3.8/5 | PDF ✅
