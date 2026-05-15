@@ -39,11 +39,17 @@
 
 <!-- Level 3 WebSearch overnight sweep — 2026-05-15 -->
 - [!] https://job-boards.greenhouse.io/runpod/jobs/5173070008 | Runpod | Forward Deployed Engineer APAC | Remote APAC (Malaysia/Singapore/South Korea) — moved to Procesadas (#775) 2026-05-15 (2.6/5 no PDF; APAC residency required + no visa sponsorship — F-1 OPT hard blocker; SKIP)
-- [ ] https://jobs.ashbyhq.com/percepta/cede64f9-f495-4382-b8e9-f8a3c4e75a91 | Percepta | Applied AI Engineer - Europe | London, UK (verify) — healthcare AI
+- [!] https://jobs.ashbyhq.com/percepta/cede64f9-f495-4382-b8e9-f8a3c4e75a91 | Percepta | Applied AI Engineer - Europe | London, UK — moved to Procesadas (#814) 2026-05-15 (3.7/5 PDF ✅; healthcare AI strong match; F-1 OPT EU relocation needed)
+- [!] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder | Berlin Office — moved to Procesadas (#815) 2026-05-15 (2.5/5 no PDF; PM role off-archetype for IC engineer; SKIP)
 
 ## Procesadas
 
 ### 2026-05-15
+- [x] #814 | https://jobs.ashbyhq.com/percepta/cede64f9-f495-4382-b8e9-f8a3c4e75a91 | Percepta | Applied AI Engineer (Europe) | London, UK | 3.7/5 | PDF ✅
+- [x] #815 | https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder | Berlin, Germany | 2.5/5 | PDF ❌
+- [x] #816 | https://jobs.ashbyhq.com/langchain/671f9372-8646-4f6a-a473-61bfa7cafa4b | LangChain | Deployed Engineer (Amsterdam) | Amsterdam, NL | 3.5/5 | PDF ✅
+- [x] #817 | https://ats.rippling.com/essor/jobs/824ba339-2c67-4e5f-bd46-684d4533743f | Essor | AI Automation Engineer | Paris, France - Hybrid | 3.0/5 | PDF ✅
+- [x] #818 | https://jobs.lever.co/palantir/492a16bb-6b9f-457e-82c3-294e1a2c565d | Palantir | Forward Deployed Software Engineer | Amsterdam, NL | 1.6/5 | PDF ❌
 - [x] #796 | https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping | Paris, France - On-site | 3.9/5 | PDF OK
 - [x] #797 | https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer | Paris, France - On-site (CDI) | 4.1/5 | PDF OK
 - [x] #798 | https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents | Paris, France - Hybrid | 3.3/5 | PDF OK
