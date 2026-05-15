@@ -360,3 +360,6 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-14	755	2026-05-14	Vercel	SWE, AI SDK	2.8/5	SKIP	reports/755-vercel-swe-ai-sdk-2026-05-14.md	[US] 5+ yr hard gate; SDK/OSS contribution gap; $196K-$294K SF; do not apply
 2026-05-14	758	2026-05-14	Middesk	Forward Deployed Engineer	2.5/5	SKIP	reports/758-middesk-fde-2026-05-14.md	[US] 6+ yr hard gate; fintech/KYC domain; NYC hybrid; $148K-$275K; revisit in 3-4 yr
 2026-05-14	764	2026-05-14	ElevenLabs	FDE Strategist (Spain)	2.8/5	SKIP	reports/764-elevenlabs-fde-strategist-spain-2026-05-14.md	[Intl] Spanish language risk + Spain work auth; apply Europe version instead (#763)
+2026-05-15	766	2026-05-15	Opaque Systems	Forward Deployed Engineer (AI)	2.8/5	Evaluated	reports/766-opaque-systems-fde-ai-2026-05-15.md	[Intl] Romania location — F-1 OPT hard blocker; 5+ yr gap; SKIP
+2026-05-15	770	2026-05-15	Periodic Labs	Forward Deployed Engineer - LLM Systems	2.9/5	Evaluated	reports/770-periodic-labs-fde-llm-systems-2026-05-15.md	[US] Semiconductor domain + air-gapped infra hard gap; $350-400K senior; SKIP
+2026-05-15	775	2026-05-15	Runpod	Forward Deployed Engineer APAC	2.6/5	Evaluated	reports/775-runpod-fde-apac-2026-05-15.md	[Intl] APAC residency required + no visa sponsorship — F-1 OPT hard blocker; SKIP

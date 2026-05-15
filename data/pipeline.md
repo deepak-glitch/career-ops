@@ -1251,7 +1251,32 @@
 - [!] https://jobs.ashbyhq.com/middesk/a72b1048-1001-49b1-92bd-9c44574f939b | Middesk | Forward Deployed Engineer | Remote — US — moved to Procesadas (#758) 2026-05-14 (2.5/5 no PDF; 6+ yr hard gate; SKIP)
 - [!] https://jobs.ashbyhq.com/ascertain/8585e400-f993-46ef-b443-2ad6bbe485b9 | Ascertain | Forward Deployed Engineer | Remote — US — moved to Procesadas (#759) 2026-05-14 (3.3/5 PDF ✅)
 
+### 2026-05-15
+
+<!-- Level 3 WebSearch overnight sweep — 2026-05-15 -->
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/5074695008 | Anthropic | Forward Deployed Engineer, Custom Agents | San Francisco, CA or New York, NY — moved to Procesadas (#765) 2026-05-15 (4.1/5 PDF ✅; posting may be closed — verify)
+- [!] https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009 | Opaque Systems | Forward Deployed Engineer (AI) | Romania — moved to Procesadas (#766) 2026-05-15 (2.8/5 no PDF; F-1 OPT hard blocker Romania; SKIP)
+- [!] https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f | Ramp | Software Engineer, AI Forward Deployed | San Francisco, CA or New York, NY — moved to Procesadas (#767) 2026-05-15 (3.8/5 PDF ✅)
+- [!] https://remotive.com/remote/jobs/software-development/forward-deployed-ai-engineer-3598425 | PicnicHealth | Forward Deployed AI Engineer | Remote — US — moved to Procesadas (#768) 2026-05-15 (4.4/5 PDF ✅; verify posting status 410 Gone)
+- [!] https://jobs.ashbyhq.com/inkeep/f277f68d-c397-4919-beeb-67ee1e19dc91 | Inkeep | Forward Deployed Engineer, AI Agents | New York City — In-office 5d/wk — moved to Procesadas (#769) 2026-05-15 (3.6/5 PDF ✅)
+- [!] https://jobs.ashbyhq.com/periodic-labs/dbac407f-a408-44a3-9e7a-895d42649edc | Periodic Labs | Forward Deployed Engineer - LLM Systems | Menlo Park, CA — On-site — moved to Procesadas (#770) 2026-05-15 (2.9/5 no PDF; semiconductor domain + $350-400K senior; SKIP)
+- [!] https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-4437170 | Boomi | AI Forward Deployed Engineer | Remote — US — moved to Procesadas (#771) 2026-05-15 (3.5/5 PDF ✅)
+- [!] https://job-boards.greenhouse.io/pallet/jobs/5072543007 | Pallet | Forward Deployed Software Engineer (AI Agents) | San Francisco, CA or New York, NY — In-office 5d/wk — moved to Procesadas (#772) 2026-05-15 (3.4/5 PDF ✅)
+- [!] https://job-boards.greenhouse.io/nice/jobs/4837037101 | NICE | Forward Deployed Engineer | USA — Remote — moved to Procesadas (#773) 2026-05-15 (3.7/5 PDF ✅)
+- [!] https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST) | New York, NY — Remote — moved to Procesadas (#774) 2026-05-15 (3.3/5 PDF ✅)
+
 ## Procesadas
+
+### 2026-05-15
+
+- [x] #765 | https://job-boards.greenhouse.io/anthropic/jobs/5074695008 | Anthropic | Forward Deployed Engineer, Custom Agents | San Francisco, CA or New York, NY — Hybrid | 4.1/5 | PDF ✅
+- [x] #767 | https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f | Ramp | Software Engineer, AI Forward Deployed | San Francisco, CA or New York, NY — Hybrid | 3.8/5 | PDF ✅
+- [x] #768 | https://remotive.com/remote/jobs/software-development/forward-deployed-ai-engineer-3598425 | PicnicHealth | Forward Deployed AI Engineer | Remote — US | 4.4/5 | PDF ✅
+- [x] #769 | https://jobs.ashbyhq.com/inkeep/f277f68d-c397-4919-beeb-67ee1e19dc91 | Inkeep | Forward Deployed Engineer, AI Agents | New York City — In-office 5d/wk | 3.6/5 | PDF ✅
+- [x] #771 | https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-4437170 | Boomi | AI Forward Deployed Engineer | Remote — US | 3.5/5 | PDF ✅
+- [x] #772 | https://job-boards.greenhouse.io/pallet/jobs/5072543007 | Pallet | Forward Deployed Software Engineer (AI Agents) | San Francisco, CA or New York, NY — In-office 5d/wk | 3.4/5 | PDF ✅
+- [x] #773 | https://job-boards.greenhouse.io/nice/jobs/4837037101 | NICE | Forward Deployed Engineer | USA — Remote | 3.7/5 | PDF ✅
+- [x] #774 | https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST) | New York, NY — Remote | 3.3/5 | PDF ✅
 
 ### 2026-05-14
 

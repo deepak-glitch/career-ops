@@ -35,7 +35,16 @@
 - [!] https://jobs.ashbyhq.com/elevenlabs/5d1390e2-a6e8-4f8b-b01f-ad7e286009d2 | ElevenLabs | Forward Deployed Engineer - Strategist - Europe | Remote — Europe — moved to Procesadas (#763) 2026-05-14 (3.0/5 PDF ✅; voice AI adjacent; F-1 OPT soft blocker remote EU)
 - [!] https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd | ElevenLabs | Forward Deployed Engineer - Strategist - Spain | Spain — moved to Procesadas (#764) 2026-05-14 (2.8/5 no PDF; Spanish language risk + Spain work auth; SKIP — apply Europe version instead)
 
+### 2026-05-15
+
+<!-- Level 3 WebSearch overnight sweep — 2026-05-15 -->
+- [!] https://job-boards.greenhouse.io/runpod/jobs/5173070008 | Runpod | Forward Deployed Engineer APAC | Remote APAC (Malaysia/Singapore/South Korea) — moved to Procesadas (#775) 2026-05-15 (2.6/5 no PDF; APAC residency required + no visa sponsorship — F-1 OPT hard blocker; SKIP)
+
 ## Procesadas
+
+### 2026-05-15
+
+- [x] #775 | https://job-boards.greenhouse.io/runpod/jobs/5173070008 | Runpod | Forward Deployed Engineer APAC | Remote APAC | 2.6/5 | PDF ❌
 
 ### 2026-05-14
 
