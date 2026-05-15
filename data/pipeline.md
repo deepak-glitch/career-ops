@@ -1286,54 +1286,7 @@
 
 ## Procesadas
 
-### 2026-05-15
-- [x] #819 | https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/NYC/Seattle/SF/DC — Hybrid 25% | 4.3/5 | PDF ✅
-- [x] #820 | https://himalayas.app/companies/onestream/jobs/ai-forward-deployed-engineer | OneStream | AI Forward Deployed Engineer | Remote — USA | 4.4/5 | PDF ✅
-- [x] #821 | https://job-boards.greenhouse.io/warp/jobs/5749183004 | Warp | Forward Deployed Engineer (Founding) | Remote — US/Canada | 4.2/5 | PDF ✅
-- [x] #806 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote — Continental US | 4.2/5 | PDF ✅
-- [x] #807 | https://job-boards.greenhouse.io/gleanwork/jobs/4695206005 | Glean | Software Engineer, AI Infrastructure | San Francisco, CA — Hybrid | 3.6/5 | PDF ✅
-- [x] #808 | https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer – Full Stack AI | Remote US | 4.0/5 | PDF ✅
-- [x] #786 | https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927 | LangChain | Deployed Engineer (Dallas) | Dallas, TX | 4.1/5 | PDF OK
-- [x] #787 | https://jobs.ashbyhq.com/langchain/2d920c9c-abf2-4c46-a01b-03e61a03c8e6 | LangChain | Deployed Engineer (Los Angeles) | Los Angeles, CA | 4.0/5 | PDF OK
-- [x] #788 | https://jobs.ashbyhq.com/langchain/86d0df4d-e000-403d-aca8-ee6896aa5420 | LangChain | Deployed Engineer (San Diego) | San Diego, CA | 3.9/5 | PDF OK
-- [x] #789 | https://job-boards.greenhouse.io/arizeai/jobs/5704417004 | Arize AI | Developer Relations Engineer (New York) | Remote - New York metro | 3.3/5 | PDF OK
-- [x] #790 | https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006 | Weights & Biases (CoreWeave) | Software Engineer, Inference AI/ML | Bellevue, WA / Sunnyvale, CA | 3.0/5 | PDF OK
-- [x] #792 | https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (SF) | San Francisco, CA | 3.0/5 | PDF OK
-
-- [x] #765 | https://job-boards.greenhouse.io/anthropic/jobs/5074695008 | Anthropic | Forward Deployed Engineer, Custom Agents | San Francisco, CA or New York, NY — Hybrid | 4.1/5 | PDF ✅
-- [x] #767 | https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f | Ramp | Software Engineer, AI Forward Deployed | San Francisco, CA or New York, NY — Hybrid | 3.8/5 | PDF ✅
-- [x] #768 | https://remotive.com/remote/jobs/software-development/forward-deployed-ai-engineer-3598425 | PicnicHealth | Forward Deployed AI Engineer | Remote — US | 4.4/5 | PDF ✅
-- [x] #769 | https://jobs.ashbyhq.com/inkeep/f277f68d-c397-4919-beeb-67ee1e19dc91 | Inkeep | Forward Deployed Engineer, AI Agents | New York City — In-office 5d/wk | 3.6/5 | PDF ✅
-- [x] #771 | https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-4437170 | Boomi | AI Forward Deployed Engineer | Remote — US | 3.5/5 | PDF ✅
-- [x] #772 | https://job-boards.greenhouse.io/pallet/jobs/5072543007 | Pallet | Forward Deployed Software Engineer (AI Agents) | San Francisco, CA or New York, NY — In-office 5d/wk | 3.4/5 | PDF ✅
-- [x] #773 | https://job-boards.greenhouse.io/nice/jobs/4837037101 | NICE | Forward Deployed Engineer | USA — Remote | 3.7/5 | PDF ✅
-- [x] #774 | https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST) | New York, NY — Remote | 3.3/5 | PDF ✅
-- [x] #778 | https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer | San Francisco, CA | 3.8/5 | PDF ✅
-- [x] #779 | https://jobs.ashbyhq.com/attio/ce226be1-8237-41ce-b5ca-97c18d3ca8e6 | Attio | Solutions Engineer (SMB) | New York, NY | 3.0/5 | PDF ✅
-- [x] #781 | https://jobs.ashbyhq.com/deepgram/6ab5816d-bbe1-4383-bb53-675e9f641528 | Deepgram | Solutions Engineer, Enterprise | San Francisco, CA | 3.3/5 | PDF ✅
-- [x] #782 | https://jobs.ashbyhq.com/workos/dc23fd7b-ee4c-4e6a-959a-209b2eab8b17 | WorkOS | Solutions Engineer | San Francisco, CA | 3.2/5 | PDF ✅
-- [x] #783 | https://jobs.ashbyhq.com/legora/f3c0712a-f8e2-4dc1-8e83-23da7891a1c2 | Legora | Solutions Engineer | New York City — In-person 5d/wk | 3.1/5 | PDF ✅
-- [x] #785 | https://job-boards.greenhouse.io/arizeai/jobs/5704428004 | Arize AI | Developer Relations Engineer | Remote — San Francisco Bay Area | 3.2/5 | PDF ✅
-
-### 2026-05-14
-
-- [x] #751 | https://jobs.ashbyhq.com/sierra/52375d9d-29ad-41ab-a1cf-c7afab14cfce | Sierra | Software Engineer, Agent - Healthcare | San Francisco, CA — In-person | 4.0/5 | PDF ✅
-- [x] #752 | https://jobs.ashbyhq.com/langchain/937e131f-1055-4f1f-bd8a-f036e4ba0666 | LangChain | Deployed Engineer (Austin) | Austin, TX — Hybrid | 4.1/5 | PDF ✅
-- [x] #753 | https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | LangChain | FullStack Engineer, AI Observability & Evals Platform (LangSmith) | San Francisco, CA — In-office 5d/wk | 3.5/5 | PDF ✅
-- [x] #754 | https://jobs.ashbyhq.com/baseten/508b792d-57a0-467e-9a89-76fe72e84433 | Baseten | AI Solutions Engineer | San Francisco, CA — In-person | 3.8/5 | PDF ✅
-- [x] #756 | https://jobs.ashbyhq.com/sierra/0c892d11-9f19-4b8d-9c2b-409346c52b7a | Sierra | Software Engineer, Agent Data Platform | San Francisco, CA — In-person | 3.8/5 | PDF ✅
-- [x] #757 | https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e | LangChain | Deployed Engineer (Chicago) | Chicago, IL — Hybrid | 4.0/5 | PDF ✅
-- [x] #759 | https://jobs.ashbyhq.com/ascertain/8585e400-f993-46ef-b443-2ad6bbe485b9 | Ascertain | Forward Deployed Engineer | Remote — US | 3.3/5 | PDF ✅
-- [x] #760 | https://jobs.ashbyhq.com/decagon/534658d0-9772-441e-8c06-ed6cdcd355e1 | Decagon | Research Engineer, Agents | San Francisco, CA — In-office | 3.0/5 | PDF ✅
-
-- [x] #740 | https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | Remote globally (SF hub) | 4.0/5 | PDF ✅
-- [x] #742 | https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer | New York, NY (Hybrid) | 3.2/5 | PDF ✅
-- [x] #744 | https://coreweave.com/careers/job?4651439006&board=coreweave&gh_jid=4651439006 | Weights & Biases | AI Solutions Engineer, Post Sales Scale | NJ/NYC/Sunnyvale/Bellevue/Philly (Hybrid) | 3.5/5 | PDF ✅
-- [x] #746 | https://jobs.ashbyhq.com/modal/44b57790-528e-4f97-8613-03564316be8a | Modal | Customer Engineer | New York / San Francisco / Stockholm | 3.2/5 | PDF ✅
-
-
 ### 2026-04-20
-
 - [x] #5  | https://jobs.ashbyhq.com/Distyl/a7674245-72ee-403e-8653-6edfca8a89ce | Distyl AI | AI Engineer (New Graduate) | 4.5/5 | PDF ✅
 - [x] #7  | https://jobs.ashbyhq.com/quora/6df58d3e-855a-423e-99fd-a56ac8824b34 | Quora | AI Engineer New Grad 2025-2026 — Poe (Remote) | 4.4/5 | PDF ✅
 - [x] #6  | https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249 | Magical | Junior Software Engineer, AI (New Grad OK) | 4.2/5 | PDF ✅
@@ -1344,7 +1297,6 @@
 - [x] #10 | https://jobs.ashbyhq.com/Hippocratic%20AI/eef8a721-23de-4c20-bff0-56088b39afa0 | Hippocratic AI | LLM Inference Engineer | 3.1/5 | PDF ✅
 
 ### 2026-04-21
-
 - [x] #16 | https://boards.greenhouse.io/cordial81/jobs/6972466002 | Cordial | Applied AI Engineer, Generative | 4.1/5 | PDF ✅
 - [x] #11 | https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa | OpenAI | Software Engineer, Applied Emerging Talent (2026) | 4.0/5 | PDF ✅
 - [x] #19 | https://jobs.ashbyhq.com/auctor/ca5b0c44-cafb-48ad-99fa-84aa3cfc5179 | Auctor | Software Engineer, Applied AI | 4.0/5 | PDF ✅
@@ -1356,7 +1308,6 @@
 - [x] #15 | https://jobs.ashbyhq.com/spaak/d47e53c0-cd11-4b3c-a242-832a9e985a5e | Spaak Technologies | Applied LLM Engineer | 3.2/5 | PDF ✅
 
 ### 2026-04-22
-
 - [x] #27 | https://jobs.ashbyhq.com/zello/2fa8cd4a-7ddb-40c6-8577-4a004c182e80 | Zello | Applied AI Engineer | 4.4/5 | PDF ✅
 - [x] #24 | https://jobs.ashbyhq.com/healthleap/67700f1d-ddbe-4e5e-938b-0c2d535aab50 | HealthLeap | Machine Learning Engineer | 4.3/5 | PDF ✅
 - [x] #28 | https://jobs.ashbyhq.com/permitflow/08b96a9a-b344-42cc-8c69-a1c1e0babb90 | PermitFlow | Applied AI Engineer | 4.3/5 | PDF ✅
@@ -1436,7 +1387,6 @@
 - [x] #076 | https://jobs.ashbyhq.com/zapier/cac70300-4e62-4299-bc34-aab69e7498f4 | Zapier | AI Automation Expert | Fully Remote (Zapier 40+ countries) — verify US + OPT | 3.5/5 | PDF ✅
 
 ### 2026-04-23
-
 - [x] #115 | https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer (new grads ok) | San Francisco HQ / Remote US for exceptional candidates — YC + a16z $25M Series A | 4.3/5 | PDF ✅
 - [x] #112 | https://careers.salesforce.com/en/jobs/jr312405/ai-forward-deployed-engineer-early-career/ | Salesforce | AI Forward Deployed Engineer (Early Career) | US multi-city + 10+ Remote US state variants — F-1 OPT friendly | 4.2/5 | PDF ✅
 - [x] #113 | https://www.databricks.com/company/careers/professional-services-operations/ai-engineer---fde-forward-deployed-engineer-8335860002 | Databricks | AI Engineer - FDE | Remote US — Mosaic AI team; F-1 OPT friendly | 3.7/5 | PDF ✅
@@ -1447,7 +1397,6 @@
 - [x] #111 | https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7 | Mistral AI | Applied AI, Forward Deployed ML Engineer — CSI EMEA | Paris, France — CDI on-site/hybrid — F-1 OPT + EU work permit blocker | 3.0/5 | PDF ✅
 
 ### 2026-04-24
-
 - [x] #124 | https://job-boards.greenhouse.io/gleanwork/jobs/4669417005 | Glean | ML Engineer, LLM Evals & Observability | San Francisco Bay Area — hybrid 3-4d Palo Alto | 3.8/5 | PDF ✅
 - [x] #122 | https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer | Remote - US (25-50% travel) | 3.5/5 | PDF ✅
 - [x] #125 | https://job-boards.greenhouse.io/gleanwork/jobs/4616929005 | Glean | Software Engineer, Agentic Runtime | San Francisco Bay Area — hybrid 3-4d | 3.6/5 | PDF ✅
@@ -1468,7 +1417,6 @@
 - [x] #146 | https://remotive.com/remote/jobs/ai-ml/ai-engineer-4431185 | Million Dollar Sellers | AI Engineer | Remote — EST (UTC-5) | 3.5/5 | PDF ✅
 
 ### 2026-04-25
-
 - [x] #147 | https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer | Long Island City, NY (Queens) — Hybrid | 4.1/5 | PDF ✅
 - [x] #148 | https://job-boards.greenhouse.io/fortifyiq/jobs/4661408005 | FortifyIQ | Data & AI Engineer (Remote) | Remote — verify TZ in screen | 3.3/5 | PDF ✅
 - [x] #156 | https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer | San Francisco — Hybrid | 4.0/5 | PDF ✅
@@ -1484,7 +1432,6 @@
 - [x] #166 | https://jobs.lever.co/regalvoice/7bbea0f0-9f63-4cc8-8d02-8eeec018bbcd | Regal | AI Forward Deployed Engineer (NYC) | New York, NY — Hybrid | 3.6/5 | PDF ✅
 
 ### 2026-04-26
-
 - [x] #167 | https://jobs.ashbyhq.com/langchain/25d40647-c821-46ff-bf25-bacf21fa38b5 | LangChain | Deployed Engineer (NYC) | New York, NY — On-site | 3.8/5 | PDF ✅
 - [x] #168 | https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0 | Remote - United States | 3.4/5 | PDF ✅
 - [x] #172 | https://jobs.ashbyhq.com/langchain/3f793a73-9b0d-456b-9a7c-16441e3e6e69 | LangChain | Deployed Engineer (Denver) | Denver, CO — In-region | 3.7/5 | PDF ✅
@@ -1498,7 +1445,6 @@
 - [x] #185 | https://job-boards.greenhouse.io/buzzsolutions/jobs/5195601008 | Buzz Solutions | Computer Vision & Machine Learning Engineer | Remote - US (no visa sponsorship) | 3.0/5 | PDF ✅
 
 ### 2026-04-27
-
 - [x] #192 | https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee | Perplexity | Forward Deployed Engineer, Applied AI | San Francisco, CA / New York, NY / Seattle, WA / London — In-office | 3.8/5 | PDF ✅
 - [x] #193 | https://jobs.ashbyhq.com/synthflow/575cc030-79c1-45a5-a2f0-7a32071c5411 | Synthflow AI | Forward Deployed Engineer | Berlin, Germany / Remote-first | 3.2/5 | PDF ✅
 - [x] #194 | https://jobs.ashbyhq.com/osmo/7f37ca45-489e-40a7-8940-41e6aebb9d21 | Osmo | Forward Deployed AI Engineer - Enterprise Solutions | Elizabeth, NJ — On-site | 3.0/5 | PDF ✅
@@ -1517,7 +1463,6 @@
 - [x] #219 | https://www.workatastartup.com/jobs/85445 | Phonely | Forward Deployed Engineer | San Francisco, CA — On-site (relocation OK) | 3.4/5 | PDF ✅
 
 ### 2026-04-28
-
 - [x] #223 | https://himalayas.app/companies/unison/jobs/ai-engineer-u-s-remote | Unison | AI Engineer (U.S. Remote) | Remote - US | 3.5/5 | PDF ✅
 - [x] #228 | https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences (Beneficial Deployments) | Hybrid SF/NYC (25% in-office min) | 3.4/5 | PDF ✅
 - [x] #229 | https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer - AI Solutions | Hybrid NYC/Redwood/SF | 3.7/5 | PDF ✅
@@ -1528,7 +1473,6 @@
 - [x] #240 | https://jobs.lever.co/thinkahead/ed0d01dc-3cf0-4693-b770-560609612056 | AHEAD | AI Practitioner / Forward Deployed Engineer | United States — Remote | 3.4/5 | PDF ✅
 
 ### 2026-04-29
-
 - [x] #246 | https://job-boards.greenhouse.io/atomicwork/jobs/5073381008 | Atomicwork | Applied AI Engineer | United States | 4.0/5 | PDF ✅
 - [x] #247 | https://job-boards.greenhouse.io/automatticcareers/jobs/7558576 | Automattic | Applied AI Engineer | Global Remote (or NYC) | 3.8/5 | PDF ✅
 - [x] #248 | https://www.workatastartup.com/jobs/93159 | Avent | Founding Forward Deployed Engineer | San Francisco, CA (HQ) — On-site/hybrid (verify) | 3.6/5 | PDF ✅
@@ -1556,7 +1500,6 @@
 - [x] #292 | https://apply.workable.com/innovaccer-analytics/j/B56C368F77/ | Innovaccer Analytics | AI Forward Deployed Engineer (3803) | Remote — United States | 3.4/5 | PDF ✅
 
 ### 2026-04-30
-
 - [x] #296 | https://apply.workable.com/innovaccer-analytics/j/C4ED166AEC | Innovaccer Analytics | Forward Deployed Engineer (3823) | Remote — United States | 3.2/5 | PDF ✅
 - [x] #303 | https://himalayas.app/companies/adobe/jobs/forward-deployed-ai-engineer | Adobe | Forward Deployed AI Engineer | Remote — Home office (US) + 30% travel | 3.4/5 | PDF ✅
 - [x] #308 | https://jobs.ashbyhq.com/corvera/bc574582-7e3d-45ef-8ee2-305cedbe7973 | Corvera | Founding Forward Deployed Engineer | likely SF/NYC — On-site/hybrid + 996 | 3.0/5 | PDF ✅
@@ -1576,7 +1519,6 @@
 - [x] #338 | https://job-boards.greenhouse.io/evolutioniq/jobs/5751888004 | EvolutionIQ | Senior AI/ML Engineer (LLMs) | New York, NY or Remote — Hybrid | 3.6/5 | PDF ✅
 
 ### 2026-05-01
-
 - [x] #340 | https://job-boards.greenhouse.io/hightouch/jobs/5718912004 | Hightouch | Forward Deployed Marketing Data Scientist | Remote (North America) | 3.5/5 | PDF ✅
 - [x] #342 | https://continued.breezy.hr/p/84c16df98c29-ai-engineer-remote | Continued | AI Engineer (Remote) | Remote-US | 4.0/5 | PDF ✅
 - [x] #343 | https://aplayers.na.teamtailor.com/jobs/594533-forward-deployed-solutions-engineer-poolday-ai | Poolday.ai | Forward Deployed / Solutions Engineer | Remote (Europe, GMT±2) | 3.0/5 | PDF ✅
@@ -1606,7 +1548,6 @@
 - [x] #391 | https://weworkremotely.com/remote-jobs/gc-ai-founding-engineer | GC AI | Founding Engineer | Remote — US/Canada/Europe (HQ San Francisco) | 3.7/5 | PDF ✅
 
 ### 2026-05-02
-
 - [x] #399 | https://job-boards.greenhouse.io/scaleai/jobs/4593571005 | Scale AI | Forward Deployed Engineer, GenAI | San Francisco, CA / New York, NY — Hybrid | 3.6/5 | PDF ✅
 - [x] #410 | https://jobs.workable.com/view/i6RYcPDF6Bipu53Z8JjSay/remote-machine-learning-engineer-in-united-states-at-bask-health | Bask Health | Machine Learning Engineer | Remote — USA | 3.1/5 | PDF ✅
 - [x] #411 | https://www.fwddeploy.com/jobs/founding-forward-deployed-engineer-cf282a89 | NxT Level | Founding Forward Deployed Engineer | New York City + 30-50% domestic travel | 3.5/5 | PDF ✅
@@ -1625,7 +1566,6 @@
 - [x] #435 | https://www.remoterocketship.com/us/company/brellium/jobs/software-engineer-ai-new-york-city-hybrid/ | Brellium | Software Engineer — AI | New York City — Hybrid 4d (3d if >1h commute) | 4.0/5 | PDF ✅
 
 ### 2026-05-03
-
 - [x] #437 | https://job-boards.greenhouse.io/axle/jobs/5114627007 | Axle | AI Engineer II | Remote | 3.0/5 | PDF ✅
 - [x] #442 | https://job-boards.greenhouse.io/amplitude/jobs/8532139002 | Amplitude | Forward Deploy Engineer II | San Francisco, CA — On-site | 3.4/5 | PDF ✅
 - [x] #444 | https://remotive.com/remote/jobs/ai-ml/ai-engineer-4429700 | Continued | AI Engineer | Remote — USA Only | 3.7/5 | PDF ✅
@@ -1640,8 +1580,6 @@
 - [x] #470 | https://job-boards.greenhouse.io/scaleai/jobs/4514173005 | Scale AI | Applied AI Engineer, Enterprise GenAI | San Francisco, CA / New York, NY — Hybrid 3d/wk | 3.7/5 | PDF ✅
 
 ### 2026-05-04
-
-
 - [x] #482 | https://job-boards.greenhouse.io/gleanwork/jobs/4632997005 | Glean | Machine Learning Engineer, Enterprise Brain | San Francisco Bay Area (Palo Alto/SF) — Hybrid 4d/wk | 3.6/5 | PDF ✅
 - [x] #483 | https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality | San Francisco Bay Area — Hybrid 3-4d/wk | 3.8/5 | PDF ✅
 - [x] #487 | https://jobs.ashbyhq.com/Distyl/ec9e338a-4040-4aa2-b049-424cd343f5f5 | Distyl AI | Forward Deployed Engineer | San Francisco / New York — Hybrid + 25-50% travel | 3.8/5 | PDF ✅
@@ -1665,7 +1603,6 @@
 - [x] #520 | https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-3992641 | OneStream Software | AI Forward Deployed Engineer | Remote — USA | 3.4/5 | PDF ✅
 
 ### 2026-05-05
-
 - [x] #523 | https://jobs.ashbyhq.com/fieldguide/f4f0aea0-826d-451f-bd17-b04772e221cc | Fieldguide | AI Engineer, Quality | San Francisco, CA or Remote (USA) | 3.7/5 | PDF ✅
 - [x] #526 | https://job-boards.greenhouse.io/cresta/jobs/5155673008 | Cresta | AI Language Engineer | Remote — United States | 3.4/5 | PDF ✅
 - [x] #530 | https://remotive.com/remote/jobs/ai-ml/ai-engineer-4498339 | dexter health | AI Engineer | Worldwide remote (DACH-anchored) | 3.3/5 | PDF ✅
@@ -1684,7 +1621,6 @@
 - [x] #561 | https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-agent-intelligence-retrieval-3227287 | Littlebird | Applied AI Engineer (Agent Intelligence & Retrieval) | Remote — USA | 3.5/5 | PDF ✅
 
 ### 2026-05-06
-
 - [x] #563 | https://remotive.com/remote/jobs/ai-ml/machine-learning-engineer-4220102 | Spotify | Machine Learning Engineer | Remote — EST timezone (UTC-5) US-leaning | 3.2/5 | PDF ✅
 - [x] #566 | https://jobs.ashbyhq.com/elevenlabs/275f43d0-b62d-401d-830c-7c1ac0e688aa | ElevenLabs | Enterprise Solutions Engineer - North America | Remote — Global (NA preferred); 7 hub offices | 3.2/5 | PDF ✅
 - [x] #570 | https://jobs.lever.co/SymmetrySystems/a7915476-8b5b-4c02-9c2a-d3fdabec3fdf | Symmetry Systems | Associate Forward Deployed Engineer (L3) | Remote — US (verify) | 3.0/5 | PDF ✅
@@ -1698,7 +1634,6 @@
 - [x] #603 | https://jobs.smartrecruiters.com/M3USA/744000114731437-ai-engineer-remote- | M3 USA | AI Engineer | Remote — US (HQ Fort Washington, PA) | 3.7/5 | PDF ✅
 
 ### 2026-05-07
-
 - [x] #604 | https://www.workatastartup.com/jobs/89580 | goodfin | AI Engineer | San Francisco, CA — On-site | 3.6/5 | PDF ✅
 - [x] #605 | https://www.workatastartup.com/jobs/70857 | Metriport | Founding AI Engineer | San Francisco / Bay Area — On-site (relocation OK) | 4.0/5 | PDF ✅
 - [x] #606 | https://www.workatastartup.com/jobs/75300 | Paratus Health | Founding Engineer | Menlo Park, CA — On-site | 4.1/5 | PDF ✅
@@ -1713,7 +1648,6 @@
 - [x] #639 | https://job-boards.greenhouse.io/thenewyorktimes/jobs/4655096005 | The New York Times | ML Ops Engineer, Machine Learning & AI | New York, NY — Hybrid (NYC tri-state) | 3.9/5 | PDF ✅
 
 ### 2026-05-08
-
 - [x] #655 | https://himalayas.app/companies/bierman-autism-centers/jobs/junior-ai-engineer | Bierman Autism Centers | Junior AI Engineer | Hybrid 4d/wk Carmel IN OR fully remote | 3.4/5 | PDF ✅
 - [x] #657 | https://jobs.ashbyhq.com/Hippocratic%20AI/b4d1b03e-fabf-4139-9fcc-0b5b3ac9e2b6 | Hippocratic AI | Forward Deployment Engineer (Akron, OH) | Akron OH on-site 5d/wk + occasional Palo Alto travel | 4.0/5 | PDF ✅
 - [x] #658 | https://jobs.ashbyhq.com/assorthealth/64876579-05a2-40b6-a772-d1ce8b0ac8c4 | Assort Health | Agent Engineer (New Grad, Summer 2026) | San Francisco (HQ) — On-site | 4.4/5 | PDF ✅
@@ -1726,17 +1660,14 @@
 - [x] #684 | https://apply.workable.com/m-files/j/2FB1B7812A | M-Files | AI Operations Engineer (Internal Agents & Workflow Automation) | Remote — United States | 3.4/5 | PDF ✅
 
 ### 2026-05-10
-
 - [x] #688 | https://jobs.ashbyhq.com/ravenna/c4f3cfdd-353c-47b5-ac25-3c8359d2b590 | Ravenna | Forward Deployed Engineer | Remote — United States | 3.5/5 | PDF ✅
 - [x] #691 | https://www.workatastartup.com/jobs/86648 | Legion Health | Founding Engineer (AI-Native Mental Health Care) | San Francisco, CA — On-site | 4.4/5 | PDF ✅
 
 ### 2026-05-11
-
 - [x] #692 | https://jobs.ashbyhq.com/julius/83d88b90-1b7f-476c-a0e8-10b1cb71639e | Julius AI | Software Engineer - Product (New Grad) | San Francisco, CA — On-site | 3.8/5 | PDF ✅
 - [x] #699 | https://jobs.ashbyhq.com/bland/823904dd-f958-45c8-8e9a-4d9755cd03f0 | Bland AI | Forward Deployed Engineer | San Francisco, CA — Frequent in-person | 3.0/5 | PDF ✅
 
 ### 2026-05-13
-
 - [x] #703 | https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/Chicago/NYC/Seattle/SF/DC — Hybrid 25% in-office + 25% travel | 4.2/5 | PDF ✅
 - [x] #702 | https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East | Remote (New York), EST required | 4.1/5 | PDF ✅
 - [x] #700 | https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer | Remote - US (25-50% travel) | 4.0/5 | PDF ✅
@@ -1768,3 +1699,47 @@
 - [x] #734 | https://jobs.ashbyhq.com/baseten/b88a68b7-d2bc-4a30-a79a-3ef292ad7c26 | Baseten | Software Engineer - AI Enablement | San Francisco + Montreal/New York | 3.8/5 | PDF ✅
 - [x] #737 | https://jobs.ashbyhq.com/baseten/126d54b4-a7bc-4456-bf4d-5d224e4f5d63 | Baseten | Software Engineer - Training Product | San Francisco + New York | 3.5/5 | PDF ✅
 - [x] #736 | https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2 | Baseten | Software Engineer - Voice AI (Inference Runtime) | San Francisco + New York | 3.4/5 | PDF ✅
+
+### 2026-05-14
+- [x] #751 | https://jobs.ashbyhq.com/sierra/52375d9d-29ad-41ab-a1cf-c7afab14cfce | Sierra | Software Engineer, Agent - Healthcare | San Francisco, CA — In-person | 4.0/5 | PDF ✅
+- [x] #752 | https://jobs.ashbyhq.com/langchain/937e131f-1055-4f1f-bd8a-f036e4ba0666 | LangChain | Deployed Engineer (Austin) | Austin, TX — Hybrid | 4.1/5 | PDF ✅
+- [x] #753 | https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | LangChain | FullStack Engineer, AI Observability & Evals Platform (LangSmith) | San Francisco, CA — In-office 5d/wk | 3.5/5 | PDF ✅
+- [x] #754 | https://jobs.ashbyhq.com/baseten/508b792d-57a0-467e-9a89-76fe72e84433 | Baseten | AI Solutions Engineer | San Francisco, CA — In-person | 3.8/5 | PDF ✅
+- [x] #756 | https://jobs.ashbyhq.com/sierra/0c892d11-9f19-4b8d-9c2b-409346c52b7a | Sierra | Software Engineer, Agent Data Platform | San Francisco, CA — In-person | 3.8/5 | PDF ✅
+- [x] #757 | https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e | LangChain | Deployed Engineer (Chicago) | Chicago, IL — Hybrid | 4.0/5 | PDF ✅
+- [x] #759 | https://jobs.ashbyhq.com/ascertain/8585e400-f993-46ef-b443-2ad6bbe485b9 | Ascertain | Forward Deployed Engineer | Remote — US | 3.3/5 | PDF ✅
+- [x] #760 | https://jobs.ashbyhq.com/decagon/534658d0-9772-441e-8c06-ed6cdcd355e1 | Decagon | Research Engineer, Agents | San Francisco, CA — In-office | 3.0/5 | PDF ✅
+
+- [x] #740 | https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | Remote globally (SF hub) | 4.0/5 | PDF ✅
+- [x] #742 | https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer | New York, NY (Hybrid) | 3.2/5 | PDF ✅
+- [x] #744 | https://coreweave.com/careers/job?4651439006&board=coreweave&gh_jid=4651439006 | Weights & Biases | AI Solutions Engineer, Post Sales Scale | NJ/NYC/Sunnyvale/Bellevue/Philly (Hybrid) | 3.5/5 | PDF ✅
+- [x] #746 | https://jobs.ashbyhq.com/modal/44b57790-528e-4f97-8613-03564316be8a | Modal | Customer Engineer | New York / San Francisco / Stockholm | 3.2/5 | PDF ✅
+
+### 2026-05-15
+- [x] #819 | https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/NYC/Seattle/SF/DC — Hybrid 25% | 4.3/5 | PDF ✅
+- [x] #820 | https://himalayas.app/companies/onestream/jobs/ai-forward-deployed-engineer | OneStream | AI Forward Deployed Engineer | Remote — USA | 4.4/5 | PDF ✅
+- [x] #821 | https://job-boards.greenhouse.io/warp/jobs/5749183004 | Warp | Forward Deployed Engineer (Founding) | Remote — US/Canada | 4.2/5 | PDF ✅
+- [x] #806 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote — Continental US | 4.2/5 | PDF ✅
+- [x] #807 | https://job-boards.greenhouse.io/gleanwork/jobs/4695206005 | Glean | Software Engineer, AI Infrastructure | San Francisco, CA — Hybrid | 3.6/5 | PDF ✅
+- [x] #808 | https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer – Full Stack AI | Remote US | 4.0/5 | PDF ✅
+- [x] #786 | https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927 | LangChain | Deployed Engineer (Dallas) | Dallas, TX | 4.1/5 | PDF OK
+- [x] #787 | https://jobs.ashbyhq.com/langchain/2d920c9c-abf2-4c46-a01b-03e61a03c8e6 | LangChain | Deployed Engineer (Los Angeles) | Los Angeles, CA | 4.0/5 | PDF OK
+- [x] #788 | https://jobs.ashbyhq.com/langchain/86d0df4d-e000-403d-aca8-ee6896aa5420 | LangChain | Deployed Engineer (San Diego) | San Diego, CA | 3.9/5 | PDF OK
+- [x] #789 | https://job-boards.greenhouse.io/arizeai/jobs/5704417004 | Arize AI | Developer Relations Engineer (New York) | Remote - New York metro | 3.3/5 | PDF OK
+- [x] #790 | https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006 | Weights & Biases (CoreWeave) | Software Engineer, Inference AI/ML | Bellevue, WA / Sunnyvale, CA | 3.0/5 | PDF OK
+- [x] #792 | https://jobs.ashbyhq.com/deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer (SF) | San Francisco, CA | 3.0/5 | PDF OK
+
+- [x] #765 | https://job-boards.greenhouse.io/anthropic/jobs/5074695008 | Anthropic | Forward Deployed Engineer, Custom Agents | San Francisco, CA or New York, NY — Hybrid | 4.1/5 | PDF ✅
+- [x] #767 | https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f | Ramp | Software Engineer, AI Forward Deployed | San Francisco, CA or New York, NY — Hybrid | 3.8/5 | PDF ✅
+- [x] #768 | https://remotive.com/remote/jobs/software-development/forward-deployed-ai-engineer-3598425 | PicnicHealth | Forward Deployed AI Engineer | Remote — US | 4.4/5 | PDF ✅
+- [x] #769 | https://jobs.ashbyhq.com/inkeep/f277f68d-c397-4919-beeb-67ee1e19dc91 | Inkeep | Forward Deployed Engineer, AI Agents | New York City — In-office 5d/wk | 3.6/5 | PDF ✅
+- [x] #771 | https://remotive.com/remote/jobs/ai-ml/ai-forward-deployed-engineer-4437170 | Boomi | AI Forward Deployed Engineer | Remote — US | 3.5/5 | PDF ✅
+- [x] #772 | https://job-boards.greenhouse.io/pallet/jobs/5072543007 | Pallet | Forward Deployed Software Engineer (AI Agents) | San Francisco, CA or New York, NY — In-office 5d/wk | 3.4/5 | PDF ✅
+- [x] #773 | https://job-boards.greenhouse.io/nice/jobs/4837037101 | NICE | Forward Deployed Engineer | USA — Remote | 3.7/5 | PDF ✅
+- [x] #774 | https://jobs.ashbyhq.com/deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Pre-Sales Solutions Engineer (EST or PST) | New York, NY — Remote | 3.3/5 | PDF ✅
+- [x] #778 | https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer | San Francisco, CA | 3.8/5 | PDF ✅
+- [x] #779 | https://jobs.ashbyhq.com/attio/ce226be1-8237-41ce-b5ca-97c18d3ca8e6 | Attio | Solutions Engineer (SMB) | New York, NY | 3.0/5 | PDF ✅
+- [x] #781 | https://jobs.ashbyhq.com/deepgram/6ab5816d-bbe1-4383-bb53-675e9f641528 | Deepgram | Solutions Engineer, Enterprise | San Francisco, CA | 3.3/5 | PDF ✅
+- [x] #782 | https://jobs.ashbyhq.com/workos/dc23fd7b-ee4c-4e6a-959a-209b2eab8b17 | WorkOS | Solutions Engineer | San Francisco, CA | 3.2/5 | PDF ✅
+- [x] #783 | https://jobs.ashbyhq.com/legora/f3c0712a-f8e2-4dc1-8e83-23da7891a1c2 | Legora | Solutions Engineer | New York City — In-person 5d/wk | 3.1/5 | PDF ✅
+- [x] #785 | https://job-boards.greenhouse.io/arizeai/jobs/5704428004 | Arize AI | Developer Relations Engineer | Remote — San Francisco Bay Area | 3.2/5 | PDF ✅

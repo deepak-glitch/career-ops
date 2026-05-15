@@ -48,6 +48,25 @@
 
 ## Procesadas
 
+### 2026-05-13
+- [x] #721 | https://job-boards.greenhouse.io/intercom/jobs/7824137 | Intercom | AI Infrastructure Engineer | London, England — Hybrid 3d/wk | 3.0/5 | PDF ✅
+- [x] #722 | https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer | Hybrid - London, Berlin | 3.1/5 | PDF ✅
+- [x] #723 | https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ | Remote (Singapore) | 3.6/5 | PDF ✅
+- [x] #724 | https://helsing.ai/jobs/4334849101?gh_jid=4334849101 | Helsing | AI Research Engineer - AI Safety | Berlin/London/Munich | 2.7/5 | PDF ❌
+- [x] #725 | https://helsing.ai/jobs/4766708101?gh_jid=4766708101 | Helsing | AI Research Engineer - Foundation Models | Berlin/London/Munich/Paris | 2.5/5 | PDF ❌
+- [x] #726 | https://helsing.ai/jobs/4676357101?gh_jid=4676357101 | Helsing | AI Research Engineer - Reinforcement Learning | Berlin/London/Munich | 2.4/5 | PDF ❌
+- [x] #727 | https://jobs.ashbyhq.com/openai/16df5b48-917d-41d8-b0c6-dbfdf11400f7 | OpenAI | AI Deployment Engineer, Startups | Singapore — Hybrid 3d/wk + relocation | 3.5/5 | PDF ✅
+- [x] #738 | https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product (Paris) | Paris HQ — Hybrid 3d/wk | 3.5/5 | PDF ✅
+- [x] #739 | https://super-ai.jobs.personio.com/job/1592103?language=en | super.AI | Machine Learning Engineer | Berlin / Remote Europe | 3.2/5 | PDF ✅
+
+### 2026-05-14
+- [x] #761 | https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef | OpenAI | Forward Deployed Engineer (Munich) | Munich, Germany — Hybrid 3d/wk + 50% travel | 3.5/5 | PDF ✅
+- [x] #762 | https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93 | OpenAI | Forward Deployed Engineer (Paris) | Paris, France — Hybrid 3d/wk + 50% travel | 3.3/5 | PDF ✅
+- [x] #763 | https://jobs.ashbyhq.com/elevenlabs/5d1390e2-a6e8-4f8b-b01f-ad7e286009d2 | ElevenLabs | FDE Strategist (Europe) | Remote — Europe | 3.0/5 | PDF ✅
+- [x] #764 | https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd | ElevenLabs | FDE Strategist (Spain) | Spain | 2.8/5 | PDF ❌
+
+- [x] #750 | https://helsing.ai/jobs/4778869101?gh_jid=4778869101 | Helsing | AI Research Engineer - ML Engineering | Berlin; London; Munich | 2.5/5 | PDF ❌
+
 ### 2026-05-15
 - [x] #823 | https://job-boards.greenhouse.io/anthropic/jobs/4977624008 | Anthropic | Applied AI Architect, Industries (Munich) | Munich, Germany — Hybrid | 2.4/5 | PDF ❌
 - [x] #824 | https://job-boards.greenhouse.io/anthropic/jobs/4977626008 | Anthropic | Applied AI Architect, Industries (Paris) | Paris, France — Hybrid 25% | 2.4/5 | PDF ❌
@@ -77,26 +96,3 @@
 - [x] #805 | https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23 | ElevenLabs | Enterprise Solutions Engineer (France) | France | 2.5/5 | PDF N/A
 
 - [x] #775 | https://job-boards.greenhouse.io/runpod/jobs/5173070008 | Runpod | Forward Deployed Engineer APAC | Remote APAC | 2.6/5 | PDF ❌
-
-### 2026-05-14
-
-- [x] #761 | https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef | OpenAI | Forward Deployed Engineer (Munich) | Munich, Germany — Hybrid 3d/wk + 50% travel | 3.5/5 | PDF ✅
-- [x] #762 | https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93 | OpenAI | Forward Deployed Engineer (Paris) | Paris, France — Hybrid 3d/wk + 50% travel | 3.3/5 | PDF ✅
-- [x] #763 | https://jobs.ashbyhq.com/elevenlabs/5d1390e2-a6e8-4f8b-b01f-ad7e286009d2 | ElevenLabs | FDE Strategist (Europe) | Remote — Europe | 3.0/5 | PDF ✅
-- [x] #764 | https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd | ElevenLabs | FDE Strategist (Spain) | Spain | 2.8/5 | PDF ❌
-
-- [x] #750 | https://helsing.ai/jobs/4778869101?gh_jid=4778869101 | Helsing | AI Research Engineer - ML Engineering | Berlin; London; Munich | 2.5/5 | PDF ❌
-
-
-### 2026-05-13
-
-- [x] #721 | https://job-boards.greenhouse.io/intercom/jobs/7824137 | Intercom | AI Infrastructure Engineer | London, England — Hybrid 3d/wk | 3.0/5 | PDF ✅
-- [x] #722 | https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer | Hybrid - London, Berlin | 3.1/5 | PDF ✅
-- [x] #723 | https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ | Remote (Singapore) | 3.6/5 | PDF ✅
-- [x] #724 | https://helsing.ai/jobs/4334849101?gh_jid=4334849101 | Helsing | AI Research Engineer - AI Safety | Berlin/London/Munich | 2.7/5 | PDF ❌
-- [x] #725 | https://helsing.ai/jobs/4766708101?gh_jid=4766708101 | Helsing | AI Research Engineer - Foundation Models | Berlin/London/Munich/Paris | 2.5/5 | PDF ❌
-- [x] #726 | https://helsing.ai/jobs/4676357101?gh_jid=4676357101 | Helsing | AI Research Engineer - Reinforcement Learning | Berlin/London/Munich | 2.4/5 | PDF ❌
-- [x] #727 | https://jobs.ashbyhq.com/openai/16df5b48-917d-41d8-b0c6-dbfdf11400f7 | OpenAI | AI Deployment Engineer, Startups | Singapore — Hybrid 3d/wk + relocation | 3.5/5 | PDF ✅
-- [x] #738 | https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product (Paris) | Paris HQ — Hybrid 3d/wk | 3.5/5 | PDF ✅
-- [x] #739 | https://super-ai.jobs.personio.com/job/1592103?language=en | super.AI | Machine Learning Engineer | Berlin / Remote Europe | 3.2/5 | PDF ✅
-
