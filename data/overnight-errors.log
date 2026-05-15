@@ -669,3 +669,35 @@ Sources:
 Pushed. Commit `77ff891`.
 
 **Processed 10 URLs (US:10 + Intl:0), generated 6 PDFs, archived 4 low-score, pushed 77ff891.**
+Pushed. Here's the final summary:
+
+---
+
+**Processed 20 URLs (US:10 + Intl:10), generated 11 PDFs, archived 3 low-score, pushed d7a2673**
+
+### Score table
+
+| # | Company | Role | Score | Region | PDF |
+|---|---------|------|-------|--------|-----|
+| 786 | LangChain | Deployed Engineer (Dallas) | 4.1/5 | US | ✅ |
+| 787 | LangChain | Deployed Engineer (Los Angeles) | 4.0/5 | US | ✅ |
+| 788 | LangChain | Deployed Engineer (San Diego) | 3.9/5 | US | ✅ |
+| 797 | Mistral AI | Applied AI, Evaluation Engineer | 4.1/5 | Intl | ✅ |
+| 796 | Mistral AI | Applied AI Engineer, Prototyping | 3.9/5 | Intl | ✅ |
+| 789 | Arize AI | Developer Relations Engineer (NY) | 3.3/5 | US | ✅ |
+| 799 | LangChain | Deployed Engineer (Germany) | 3.6/5 | Intl | ✅ |
+| 800 | LangChain | Deployed Engineer (Stockholm) | 3.5/5 | Intl | ✅ |
+| 801 | Lovable | Engineer - Agents & Evals | 3.5/5 | Intl | ✅ |
+| 790 | W&B (CoreWeave) | Software Engineer, Inference AI/ML | 3.0/5 | US | ✅ |
+| 792 | Deepgram | Pre-Sales SE (SF) | 3.0/5 | US | ✅ |
+| 798 | Mistral AI | Software Engineer, Enterprise Agents | 3.3/5 | Intl | ✅ |
+| 791 | LangChain | Principal SE, AI Observability & Evals | 2.5/5 | US | ❌ |
+| 804 | Deepgram | Pre-Sales SE (Europe) | 2.5/5 | Intl | ❌ |
+| 805 | ElevenLabs | Enterprise SE (France) | 2.5/5 | Intl | ❌ |
+| 794 | Palantir | FDE Warp Speed | 1.5/5 | US | ❌ |
+| 795 | Palantir | FDE US Government | 1.0/5 | US | ❌ |
+| 793 | Fiddler AI | Solutions Architect (CLOSED) | 0/5 | US | ❌ archived |
+| 802 | Intercom | AI Infrastructure Engineer (Berlin) | 2.8/5 | Intl | ❌ archived |
+| 803 | Celonis | Associate Applied AI Engineer (Madrid) | 2.5/5 | Intl | ❌ archived |
+
+**Top picks to action:** #797 Mistral Evaluation Engineer (4.1/5, Paris on-site) is the standout — Deepak's production eval pipelines are a rare and direct match for this greenfield first-hire role at a frontier lab. Verify Mistral's sponsorship stance first. LangChain Dallas/LA/SD (#786-788, 4.0-4.1/5) are strong FDE matches — same JD family as Austin (#752, 4.1/5), different markets.
