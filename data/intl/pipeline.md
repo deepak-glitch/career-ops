@@ -21,6 +21,8 @@
 - [!] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder | Berlin Office — moved to Procesadas (#815) 2026-05-15 (2.5/5 no PDF; PM role off-archetype for IC engineer; SKIP)
 
 <!-- ▼ Manual additions — paste new URLs below as: `- [ ] {url} | {Company} | {Role} | {Location}` -->
+<!-- Level 3 WebSearch overnight sweep — 2026-05-16 -->
+- [!] https://jobs.ashbyhq.com/dash0/1937975c-df33-47e9-b6ae-e9d446bdfc1f | Dash0 | Forward Deployed Engineer - EMEA | Remote — Europe / EMEA — moved to Procesadas (#839) 2026-05-16 (1.8/5 no PDF; EMEA geo hard blocker F-1 OPT; off-archetype K8s/OTel observability; SKIP)
 
 ### 2026-05-14
 - [!] https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8 | ElevenLabs | Enterprise Solutions Engineer - Middle East | UAE — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived
@@ -42,6 +44,9 @@
 <!-- moved to Procesadas: OpenAI AI Deployment Engineer Startups Singapore #727 -->
 
 ## Procesadas
+
+### 2026-05-16
+- [x] #839 | https://jobs.ashbyhq.com/dash0/1937975c-df33-47e9-b6ae-e9d446bdfc1f | Dash0 | Forward Deployed Engineer - EMEA | Remote — EMEA | 1.8/5 | PDF ❌
 
 ### 2026-05-15
 - [x] #823 | https://job-boards.greenhouse.io/anthropic/jobs/4977624008 | Anthropic | Applied AI Architect, Industries (Munich) | Munich, Germany — Hybrid | 2.4/5 | PDF ❌
