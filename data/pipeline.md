@@ -12,6 +12,12 @@
 - [!] https://job-boards.greenhouse.io/fixify/jobs/5214979008 | Fixify | Forward Deployed Engineer | Remote — US — moved to Procesadas (#841) 2026-05-16 (2.8/5 no PDF; IT helpdesk domain mismatch; AI depth underutilized; SKIP)
 - [!] https://job-boards.greenhouse.io/speechmatics/jobs/4792165101 | Speechmatics | Forward Deployed Engineer | San Francisco, CA — Hybrid — moved to Procesadas (#842) 2026-05-16 (2.9/5 no PDF; voice AI domain gap; SF hybrid relocation; sponsorship unconfirmed; SKIP)
 - [!] https://builtin.com/job/forward-deployed-engineer/4693577 | Hippocratic AI | Forward Deployed Engineer | Palo Alto, CA — In-Office — moved to Procesadas (#843) 2026-05-16 (0/5 CLOSED; listing removed May 24 2025; 5+y gate; different from #657 Akron OH; SKIP)
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-16 (AM run) -->
+- [!] https://jobs.ashbyhq.com/kognitos/bc1b3306-6d2b-41cc-b0ff-7ccb839778f5 | Kognitos | Applied ML Engineer | Redwood City, CA or Remote -- US -- error: Ashby board empty (posting closed as of 2026-05-16); archived
+- [!] https://job-boards.greenhouse.io/assemblyai/jobs/4693817005 | AssemblyAI | Forward Deployed Engineer, Onboarding | Remote -- US -- moved to Procesadas (#846) 2026-05-16 (3.2/5 PDF pending; speech/audio domain gap; sales KPI culture; OTE $150-200K)
+- [!] https://himalayas.app/companies/wewe/jobs/forward-deployed-developer-applied-ai | wewe | Forward Deployed Developer, Applied AI | Remote -- US -- error: Himalayas page not rendering job details (posting may be closed or company mismatch); archived
+- [!] https://himalayas.app/companies/impiricus/jobs/ai-solutions-builder | Impiricus | AI Solutions Builder | Remote -- US -- moved to Procesadas (#847) 2026-05-16 (4.0/5 PDF pending; pharma AI LangChain/LlamaIndex strong match; $165-210K; apply)
+- [!] https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391 | TRM Labs | AI Agent Engineer | Remote -- US -- moved to Procesadas (#848) 2026-05-16 (3.5/5 PDF pending; crypto domain gap; agentic+RAG tech match; verify posting active)
 
 ### 2026-05-15
 <!-- Level 3 WebSearch overnight sweep — 2026-05-15 -->
@@ -1283,6 +1289,9 @@
 ## Procesadas
 
 ### 2026-05-16
+- [x] #846 | https://job-boards.greenhouse.io/assemblyai/jobs/4693817005 | AssemblyAI | Forward Deployed Engineer, Onboarding | Remote — US | 3.2/5 | PDF ✅
+- [x] #847 | https://himalayas.app/companies/impiricus/jobs/ai-solutions-builder | Impiricus | AI Solutions Builder | Remote — US | 4.0/5 | PDF ✅
+- [x] #848 | https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391 | TRM Labs | AI Agent Engineer | Remote — US | 3.5/5 | PDF ✅
 - [x] #840 | https://jobs.ashbyhq.com/assorthealth/694e3f5a-c777-4db9-9b62-3db952e629fd | Assort Health | Forward Deployed Engineer | San Francisco, CA — In-Office | 3.4/5 | PDF ✅
 - [x] #843 | https://builtin.com/job/forward-deployed-engineer/4693577 | Hippocratic AI | Forward Deployed Engineer | Palo Alto, CA — In-Office | 0/5 CLOSED | PDF ❌
 - [x] #837 | https://jobs.ashbyhq.com/sphinx/bf2a74ab-2340-4eda-b9b8-3f05af59183f | Sphinx | Forward Deployed Engineer | San Francisco, CA — On-site | 3.0/5 | PDF ✅

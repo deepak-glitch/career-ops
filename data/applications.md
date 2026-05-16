@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 846 | 2026-05-16 | AssemblyAI | Forward Deployed Engineer, Onboarding | 3.2/5 | Evaluated | ✅ | [846](reports/846-assemblyai-fde-onboarding-2026-05-16.md) | [US] Remote-US; speech/audio domain gap; sales KPI culture; OTE $150-200K; Python+LLM fit; audio infra gap |
+| 847 | 2026-05-16 | Impiricus | AI Solutions Builder | 4.0/5 | Evaluated | ✅ | [847](reports/847-impiricus-ai-solutions-builder-2026-05-16.md) | [US] NYC/Atlanta/Remote; pharma AI; LangChain/LlamaIndex/Python strong match; $165-210K; apply |
+| 848 | 2026-05-16 | TRM Labs | AI Agent Engineer | 3.5/5 | Evaluated | ✅ | [848](reports/848-trm-labs-ai-agent-engineer-2026-05-16.md) | [US] Remote-US; crypto/blockchain domain gap; agentic+RAG+eval tech match excellent; verify posting active before applying |
 | 840 | 2026-05-16 | Assort Health | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [840](reports/840-assort-health-forward-deployed-engineer-2026-05-16.md) | [US] Healthcare AI FDE; SF in-office (relocation needed); strong domain/archetype match; verify full JD + sponsorship |
 | 835 | 2026-05-16 | LlamaIndex | Founding Applied AI Engineer | 3.5/5 | Evaluated | ✅ | [835](reports/835-llamaindex-founding-applied-ai-engineer-2026-05-16.md) | [US] Strong domain match (LlamaIndex user + healthcare RAG production); founding/senior bar is stretch; visa sponsorship unconfirmed |
 | 837 | 2026-05-16 | Sphinx | Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [837](reports/837-sphinx-forward-deployed-engineer-2026-05-16.md) | [US] AI compliance agents FDE; on-site SF; seed stage risk; domain gap (fintech); relocation required |

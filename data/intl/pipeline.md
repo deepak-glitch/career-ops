@@ -26,6 +26,8 @@
 - [!] https://jobs.lever.co/mistral/dedd74e7-794a-49aa-8ccd-1ffe33fb20b8 | Mistral AI | Applied AI, Forward Deployed ML Engineer | Luxembourg — moved to Procesadas (#844) 2026-05-16 (0/5; Lever 403 — posting unverifiable/likely closed; EU work auth required; F-1 OPT blocker; SKIP)
 - [!] https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5 | Mistral AI | Applied AI, Forward Deployed ML Engineer (Internship) | Unknown EU — moved to Procesadas (#845) 2026-05-16 (0/5; internship skip + Lever 403 unverifiable; Deepak May 2025 grad FT employed; SKIP)
 - [!] https://jobs.ashbyhq.com/dash0/1937975c-df33-47e9-b6ae-e9d446bdfc1f | Dash0 | Forward Deployed Engineer - EMEA | Remote — Europe / EMEA — moved to Procesadas (#839) 2026-05-16 (1.8/5 no PDF; EMEA geo hard blocker F-1 OPT; off-archetype K8s/OTel observability; SKIP)
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-16 (AM run) -->
+- [!] https://jobs.ashbyhq.com/maihem/85f34c60-2f89-4f90-ae2d-65414b22a6ee | MAIHEM | Founding AI Engineer (LLM & ML) | London, UK -- error: Ashby board empty (posting closed as of 2026-05-16); archived
 
 ### 2026-05-14
 - [!] https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8 | ElevenLabs | Enterprise Solutions Engineer - Middle East | UAE — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived
