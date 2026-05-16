@@ -725,3 +725,23 @@ Clean. Overnight run complete.
 | Commit | `9cfdbbb` → `origin/main` |
 
 **Action item:** Haast FDE (#832, 3.8/5) is the standout from today — agentic compliance AI, remote US, $180–220K, Series A. Apply after confirming F-1 OPT sponsorship.
+**Processed 4 URLs (US:3 + Intl:1), generated 2 PDFs, archived 2 low-score, pushed 330bc4f.**
+
+---
+
+### Overnight Run Summary — 2026-05-16T10:08Z
+
+**Scan:** Level 1/2 scans found 0 new offers across 71 companies. Level 3 WebSearch surfaced 6 new URLs (5 US + 1 Intl). 2 were confirmed closed before evaluation.
+
+**Pipeline:**
+
+| # | Company | Role | Score | PDF | Region | Notes |
+|---|---------|------|-------|-----|--------|-------|
+| 835 | LlamaIndex | Founding Applied AI Engineer | 3.5/5 | ✅ | US | Strong RAG/agent domain match; founding bar is stretch; verify sponsorship |
+| 837 | Sphinx | Forward Deployed Engineer | 3.0/5 | ✅ | US | AI compliance agents (AML/KYC); on-site SF; seed stage; relocation needed |
+| 834 | Loop | Forward Deployed Engineer | 2.0/5 | ❌ | US | Off-archetype (ERP/EDI, no AI); on-site SF → archived |
+| 839 | Dash0 | FDE - EMEA | 1.8/5 | ❌ | Intl | EU geo blocker + K8s/OTel off-archetype → archived |
+| — | KnowBe4 | AI Solutions Eng | CLOSED | — | US | Deleted May 7, 2025 |
+| — | Aircall | Forward Deployed Eng | CLOSED | — | US | Lever 403 inaccessible |
+
+**Cleanup:** 2 reports archived to `reports/below-threshold/`. Pipeline verify: 0 errors / 0 warnings.
