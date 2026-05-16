@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 832 | 2026-05-16 | Haast | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [832](reports/832-haast-fde-2026-05-16.md) | [US] Remote US; $180-220K + equity; agentic compliance AI; Series A; apply after verifying F-1 OPT sponsorship |
 | 820 | 2026-05-15 | OneStream | AI Forward Deployed Engineer | 4.4/5 | Evaluated | ✅ | [820](reports/820-onestream-ai-fde-2026-05-15.md) | [US] Remote USA; $120-149K; 0-2y SWE + 1-2y AI explicit early-career band; SensibleAI + REST/SQL/ETL/Docker 1:1; PDF ✅ |
 | 827 | 2026-05-15 | Sana (Workday) | Fullstack Product Engineer (Learn & Agents) | 3.2/5 | Evaluated | ✅ | [827](reports/827-sana-fullstack-stockholm-2026-05-15.md) | [Intl] Stockholm office; TS+React+agents 1:1 (Dream Decoder + Manga Lens); F-1 OPT relocation needed; PDF ✅ |
 | 828 | 2026-05-15 | Sana (Workday) | Integration Engineer (Founding) | 3.3/5 | Evaluated | ✅ | [828](reports/828-sana-integration-stockholm-2026-05-15.md) | [Intl] Stockholm office; founding integration engineer; E-Farming + Emerson + Manga Lens proof; F-1 OPT relocation; PDF ✅ |

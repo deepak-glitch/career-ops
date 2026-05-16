@@ -1261,7 +1261,17 @@
 - [!] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer — EMEA | Paris, France — duplicate of #164 (already evaluated 2026-04-25); not re-evaluated
 - [!] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer (different ID from #166) | error: posting closed (Lever API 404 on 2026-04-26); archived
 
+### 2026-05-16
+
+- [!] https://jobs.ashbyhq.com/lakera.ai/f258a3ea-273d-4c07-b8f1-e01134149456 | Lakera | AI Sales Specialist, Check Point AI Security | San Francisco — filter slip: pure sales role, not archetype match; skipped
+- [!] https://jobs.ashbyhq.com/haast/8d123db2-7e16-4cb7-8423-9324fa80666e | Haast | Forward Deployed Engineer | Remote, US — moved to Procesadas (#832) 2026-05-16 (3.8/5 PDF ✅)
+- [!] https://jobs.ashbyhq.com/Varick-Agents/30e16a2a-6374-475d-9154-2e186c481319 | Varick Agents | AI Engineer | San Francisco, CA (on-site) — moved to Procesadas (#833) 2026-05-16 (2.8/5 — on-site SF + no sponsorship info; SKIP)
+- [!] https://jobs.ashbyhq.com/revenuecat/998a9cef-3ea5-45c2-885b-8a00c4eeb149 | RevenueCat | Agentic AI Advocate | Remote — filter slip: contract role for AI agents ($10k/month), DevRel advocacy, not engineering IC; skipped
+
 ## Procesadas
+
+### 2026-05-16
+- [x] #832 | https://jobs.ashbyhq.com/haast/8d123db2-7e16-4cb7-8423-9324fa80666e | Haast | Forward Deployed Engineer | Remote, US | 3.8/5 | PDF ✅
 
 ### 2026-05-15
 - [x] #819 | https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/NYC/Seattle/SF/DC — Hybrid 25% | 4.3/5 | PDF ✅

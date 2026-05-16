@@ -385,3 +385,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-15	830	2026-05-15	Lakera (Check Point)	Solutions Engineer (Germany)	2.4/5	Evaluated	reports/830-lakera-se-germany-2026-05-15.md	[Intl] Germany Hybrid; canonical Lakera SE — same as #809/#176; SKIP
 2026-05-15	832	2026-05-15	Legora	Platform Engineer	2.8/5	Evaluated	reports/832-legora-platform-engineer-stockholm-2026-05-15.md	[Intl] Stockholm HQ; platform/infra off-archetype; F-1 OPT relocation; SKIP
 2026-05-15	833	2026-05-15	Lovable	Data Platform Engineer	2.6/5	Evaluated	reports/833-lovable-data-platform-engineer-stockholm-2026-05-15.md	[Intl] Stockholm office; cloud DW hard gap + data platform off-archetype; SKIP
+2026-05-16	833	2026-05-16	Varick Agents	AI Engineer	2.8/5	Evaluated	reports/833-varick-agents-ai-engineer-2026-05-16.md	[US] SF on-site; excellent tech fit (LangGraph/evals/RAG); $175-225K; SKIP pending sponsorship+relocation confirmation
