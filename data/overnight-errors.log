@@ -763,3 +763,22 @@ The log update requires file permission — skipping it since the commit is alre
 | 845 | Mistral AI | Applied AI FDE (Internship) | SKIP | ❌ | Intl |
 
 **Pipeline health:** 324 tracker entries, 0 errors / 0 warnings. Both pipelines have no pending `- [ ]` URLs — Level 1/2 scans across 71 companies returned 0 new this cycle (all filtered or already processed), and Level 3 WebSearch across 15+ aggregators surfaced only 6 genuinely new URLs. The scan corpus (3,845 history entries) is well-saturated.
+Working tree is clean. Here's the final summary:
+
+---
+
+**Processed 3 URLs (US:3 + Intl:0), generated 3 PDFs, archived 0 low-score, pushed bdcd715.**
+
+**Scan:** Level 1/2 API scan found 0 new offers. Level 3 WebSearch discovered 6 new URLs (5 US + 1 Intl) from 56 queries. 3 were closed/unverifiable (Kognitos Ashby empty, wewe Himalayas unresolvable, MAIHEM Ashby empty).
+
+**Pipeline results (US track):**
+
+| # | Company | Role | Score | PDF |
+|---|---------|------|-------|-----|
+| 846 | AssemblyAI | Forward Deployed Engineer, Onboarding | 3.2/5 | ✅ |
+| 847 | Impiricus | AI Solutions Builder | **4.0/5** | ✅ |
+| 848 | TRM Labs | AI Agent Engineer | 3.5/5 | ✅ (verify posting active) |
+
+**Intl track:** 0 evaluations (MAIHEM was the only new URL; Ashby board empty = closed).
+
+**Standout:** #847 Impiricus ($165–210K, LangChain/LlamaIndex/Python/healthcare domain, 2+ years req) is a strong apply candidate. #848 TRM Labs has excellent technical match (agentic+RAG+eval) but the posting may be closed — verify directly before applying.
