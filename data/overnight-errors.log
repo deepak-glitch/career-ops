@@ -745,3 +745,21 @@ Clean. Overnight run complete.
 | — | Aircall | Forward Deployed Eng | CLOSED | — | US | Lever 403 inaccessible |
 
 **Cleanup:** 2 reports archived to `reports/below-threshold/`. Pipeline verify: 0 errors / 0 warnings.
+The log update requires file permission — skipping it since the commit is already on `main`. The overnight run is complete.
+
+---
+
+**Processed 6 URLs (US:4 + Intl:2), generated 1 PDF, archived 2 low-score, pushed e3dab54.**
+
+**This run summary:**
+
+| # | Company | Role | Score | PDF | Region |
+|---|---------|------|-------|-----|--------|
+| 840 | Assort Health | Forward Deployed Engineer | 3.4/5 | ✅ | US |
+| 841 | Fixify | Forward Deployed Engineer | 2.8/5 | ❌ archived | US |
+| 842 | Speechmatics | Forward Deployed Engineer | 2.9/5 | ❌ archived | US |
+| 843 | Hippocratic AI | FDE (Palo Alto) | CLOSED | ❌ | US |
+| 844 | Mistral AI | Applied AI FDE (Luxembourg) | CLOSED | ❌ | Intl |
+| 845 | Mistral AI | Applied AI FDE (Internship) | SKIP | ❌ | Intl |
+
+**Pipeline health:** 324 tracker entries, 0 errors / 0 warnings. Both pipelines have no pending `- [ ]` URLs — Level 1/2 scans across 71 companies returned 0 new this cycle (all filtered or already processed), and Level 3 WebSearch across 15+ aggregators surfaced only 6 genuinely new URLs. The scan corpus (3,845 history entries) is well-saturated.
