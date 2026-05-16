@@ -701,3 +701,27 @@ Pushed. Here's the final summary:
 | 803 | Celonis | Associate Applied AI Engineer (Madrid) | 2.5/5 | Intl | ❌ archived |
 
 **Top picks to action:** #797 Mistral Evaluation Engineer (4.1/5, Paris on-site) is the standout — Deepak's production eval pipelines are a rare and direct match for this greenfield first-hire role at a frontier lab. Verify Mistral's sponsorship stance first. LangChain Dallas/LA/SD (#786-788, 4.0-4.1/5) are strong FDE matches — same JD family as Austin (#752, 4.1/5), different markets.
+Clean. Overnight run complete.
+
+---
+
+**Processed 2 URLs (US:2 + Intl:0), generated 1 PDF, archived 1 low-score, pushed 9cfdbbb.**
+
+---
+
+**Overnight summary:**
+
+| Step | Result |
+|---|---|
+| Scan L1/L2 US | 1 new offer found (Lakera AI Sales Specialist) |
+| Scan L1/L2 Intl | 0 new offers |
+| Scan L3 WebSearch | 3 additional US URLs found (Haast FDE, Varick Agents AI Eng, RevenueCat Advocate) |
+| Filter slips removed | Lakera (pure sales role) + RevenueCat ($10k/month AI-agent DevRel contract) |
+| Evaluated | **#832 Haast FDE — 3.8/5** (Remote US, $180–220K, agentic compliance AI, Series A) |
+| Evaluated | **#833 Varick Agents AI Engineer — 2.8/5** (SF on-site, excellent tech fit but no sponsorship info → archived) |
+| PDF generated | `output/2026-05-16/cv-deepak-mallampati-haast-fde-2026-05-16.pdf` (2 pages) |
+| Archived below-threshold | 1 report (Varick Agents 2.8/5 → `reports/below-threshold/`) |
+| Pipeline health | 0 errors · 0 warnings |
+| Commit | `9cfdbbb` → `origin/main` |
+
+**Action item:** Haast FDE (#832, 3.8/5) is the standout from today — agentic compliance AI, remote US, $180–220K, Series A. Apply after confirming F-1 OPT sponsorship.
