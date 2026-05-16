@@ -7,6 +7,12 @@
 
 ## Pendientes
 
+### 2026-05-16
+- [!] https://jobs.ashbyhq.com/assorthealth/694e3f5a-c777-4db9-9b62-3db952e629fd | Assort Health | Forward Deployed Engineer | San Francisco, CA (In-Office) — moved to Procesadas (#840) 2026-05-16 (3.4/5 PDF ✅; healthcare AI FDE; SF in-office relocation needed; strong domain match)
+- [!] https://job-boards.greenhouse.io/fixify/jobs/5214979008 | Fixify | Forward Deployed Engineer | Remote — US — moved to Procesadas (#841) 2026-05-16 (2.8/5 no PDF; IT helpdesk domain mismatch; AI depth underutilized; SKIP)
+- [!] https://job-boards.greenhouse.io/speechmatics/jobs/4792165101 | Speechmatics | Forward Deployed Engineer | San Francisco, CA — Hybrid — moved to Procesadas (#842) 2026-05-16 (2.9/5 no PDF; voice AI domain gap; SF hybrid relocation; sponsorship unconfirmed; SKIP)
+- [!] https://builtin.com/job/forward-deployed-engineer/4693577 | Hippocratic AI | Forward Deployed Engineer | Palo Alto, CA — In-Office — moved to Procesadas (#843) 2026-05-16 (0/5 CLOSED; listing removed May 24 2025; 5+y gate; different from #657 Akron OH; SKIP)
+
 ### 2026-05-15
 <!-- Level 3 WebSearch overnight sweep — 2026-05-15 -->
 - [!] https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007 | Defense Unicorns | Forward Deployed AI Engineer | Remote — US — moved to Procesadas (#776) 2026-05-15 (2.2/5 no PDF; US citizenship + clearance required; F-1 OPT hard veto; SKIP)
@@ -1277,6 +1283,8 @@
 ## Procesadas
 
 ### 2026-05-16
+- [x] #840 | https://jobs.ashbyhq.com/assorthealth/694e3f5a-c777-4db9-9b62-3db952e629fd | Assort Health | Forward Deployed Engineer | San Francisco, CA — In-Office | 3.4/5 | PDF ✅
+- [x] #843 | https://builtin.com/job/forward-deployed-engineer/4693577 | Hippocratic AI | Forward Deployed Engineer | Palo Alto, CA — In-Office | 0/5 CLOSED | PDF ❌
 - [x] #837 | https://jobs.ashbyhq.com/sphinx/bf2a74ab-2340-4eda-b9b8-3f05af59183f | Sphinx | Forward Deployed Engineer | San Francisco, CA — On-site | 3.0/5 | PDF ✅
 - [x] #835 | https://jobs.ashbyhq.com/llamaindex/c7335674-745e-4e1d-9d30-2277583c7c77 | LlamaIndex | Founding Applied AI Engineer | Remote — US | 3.5/5 | PDF ✅
 - [x] #832 | https://jobs.ashbyhq.com/haast/8d123db2-7e16-4cb7-8423-9324fa80666e | Haast | Forward Deployed Engineer | Remote, US | 3.8/5 | PDF ✅

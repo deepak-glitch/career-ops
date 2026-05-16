@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 840 | 2026-05-16 | Assort Health | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [840](reports/840-assort-health-forward-deployed-engineer-2026-05-16.md) | [US] Healthcare AI FDE; SF in-office (relocation needed); strong domain/archetype match; verify full JD + sponsorship |
 | 835 | 2026-05-16 | LlamaIndex | Founding Applied AI Engineer | 3.5/5 | Evaluated | ✅ | [835](reports/835-llamaindex-founding-applied-ai-engineer-2026-05-16.md) | [US] Strong domain match (LlamaIndex user + healthcare RAG production); founding/senior bar is stretch; visa sponsorship unconfirmed |
 | 837 | 2026-05-16 | Sphinx | Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [837](reports/837-sphinx-forward-deployed-engineer-2026-05-16.md) | [US] AI compliance agents FDE; on-site SF; seed stage risk; domain gap (fintech); relocation required |
 | 832 | 2026-05-16 | Haast | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [832](reports/832-haast-fde-2026-05-16.md) | [US] Remote US; $180-220K + equity; agentic compliance AI; Series A; apply after verifying F-1 OPT sponsorship |

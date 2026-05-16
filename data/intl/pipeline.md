@@ -21,7 +21,10 @@
 - [!] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder | Berlin Office — moved to Procesadas (#815) 2026-05-15 (2.5/5 no PDF; PM role off-archetype for IC engineer; SKIP)
 
 <!-- ▼ Manual additions — paste new URLs below as: `- [ ] {url} | {Company} | {Role} | {Location}` -->
+### 2026-05-16
 <!-- Level 3 WebSearch overnight sweep — 2026-05-16 -->
+- [!] https://jobs.lever.co/mistral/dedd74e7-794a-49aa-8ccd-1ffe33fb20b8 | Mistral AI | Applied AI, Forward Deployed ML Engineer | Luxembourg — moved to Procesadas (#844) 2026-05-16 (0/5; Lever 403 — posting unverifiable/likely closed; EU work auth required; F-1 OPT blocker; SKIP)
+- [!] https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5 | Mistral AI | Applied AI, Forward Deployed ML Engineer (Internship) | Unknown EU — moved to Procesadas (#845) 2026-05-16 (0/5; internship skip + Lever 403 unverifiable; Deepak May 2025 grad FT employed; SKIP)
 - [!] https://jobs.ashbyhq.com/dash0/1937975c-df33-47e9-b6ae-e9d446bdfc1f | Dash0 | Forward Deployed Engineer - EMEA | Remote — Europe / EMEA — moved to Procesadas (#839) 2026-05-16 (1.8/5 no PDF; EMEA geo hard blocker F-1 OPT; off-archetype K8s/OTel observability; SKIP)
 
 ### 2026-05-14
@@ -46,6 +49,8 @@
 ## Procesadas
 
 ### 2026-05-16
+- [x] #844 | https://jobs.lever.co/mistral/dedd74e7-794a-49aa-8ccd-1ffe33fb20b8 | Mistral AI | Applied AI, Forward Deployed ML Engineer (Luxembourg) | Luxembourg | 0/5 CLOSED | PDF ❌
+- [x] #845 | https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5 | Mistral AI | Applied AI, Forward Deployed ML Engineer (Internship) | Unknown EU | 0/5 SKIP | PDF ❌
 - [x] #839 | https://jobs.ashbyhq.com/dash0/1937975c-df33-47e9-b6ae-e9d446bdfc1f | Dash0 | Forward Deployed Engineer - EMEA | Remote — EMEA | 1.8/5 | PDF ❌
 
 ### 2026-05-15
