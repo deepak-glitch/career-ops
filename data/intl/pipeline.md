@@ -25,7 +25,6 @@
 - [!] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer | EMEA — moved to Procesadas (#872) 2026-05-17 (3.8/5 PDF ✅; Paris on-site; same JD as #863 US; EU work auth needed; apply alongside Palo Alto)
 - [!] https://jobs.lever.co/resilinc/46bc503f-3697-4d33-9d94-4de35ff35667 | Resilinc | Software Engineer, Forward Deployed | India Remote — moved to Procesadas (#873) 2026-05-17 (3.0/5 PDF ✅; India remote; India-market comp far below min; Databricks gap; supply chain off-archetype)
 - [!] https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702 | Lorikeet | Forward Deployed AI Engineer | Remote — APAC (verify) — moved to Procesadas (#874) 2026-05-17 (3.0/5 PDF ✅; APAC remote Sydney HQ; posting possibly stale; APAC work auth uncertainty)
-- [!] https://jobs.ashbyhq.com/lorikeet/8fd5c0c5-dd89-471a-b4f5-d9101b208cdc | Lorikeet | Forward Deployed AI Engineer | Europe (verify) — moved to Procesadas (#875) 2026-05-17 (2.5/5 no PDF; London posting likely stale (removed Aug 2025); UK work auth explicitly required; SKIP)
 
 ### 2026-05-16
 <!-- Level 3 WebSearch overnight sweep — 2026-05-16 -->
