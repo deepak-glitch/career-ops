@@ -20,6 +20,17 @@
 - [!] https://ramp.com/careers/jobs/ai-operations-specialist | Ramp | AI Operations Specialist | Remote — filter slip: BizOps/enablement, not IC engineering; requires 2-5y product mgmt/BizOps + Gumloop/n8n low-code tools; skipped
 - [!] https://jobs.lever.co/applied-intuition/fde-defense | Applied Intuition | Forward Deployed Engineer - Defense | Remote — instant veto: US Citizen + clearance required; F-1 OPT ineligible; skipped
 - [!] https://www.theglobaltalent.co/jobs/ai-engineer | The Global Talent Co | AI Engineer | Africa/LATAM staffing — not a US employer; off-track; skipped
+<!-- Level 3 WebSearch overnight sweep — 2026-05-17 (overnight batch 2) -->
+- [!] https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer | Remote (verify) — moved to Procesadas (#857) 2026-05-17 (4.0/5 PDF ✅; RAG+agentic match; NY hybrid; visa sponsorship unconfirmed; posting may be stale)
+- [!] https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer | San Francisco, CA — moved to Procesadas (#858) 2026-05-17 (3.5/5 PDF ✅; SF in-person required; fraud AI = agentic claims match; $115-200K + equity)
+- [!] https://jobs.ashbyhq.com/fastino-ai/d0fe2e39-6cf2-4972-8266-461bd447468a | fastino.ai | AI Engineer | Remote (verify) — moved to Procesadas (#859) 2026-05-17 (3.8/5 PDF ✅; remote US; SLM/inference focus; Khosla/Microsoft backed; comp undisclosed)
+- [!] https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee | Perplexity | Forward Deployed Engineer — Applied AI | Remote (verify) — moved to Procesadas (#860) 2026-05-17 (3.5/5 PDF ✅; NYC/SF 4d/wk; 5yr req; Dream Decoder Sonar API differentiator; stretch)
+- [!] https://job-boards.greenhouse.io/workato/jobs/8437707002 | Workato | Forward Deployed Engineer | Remote (verify) — moved to Procesadas (#861) 2026-05-17 (3.0/5 PDF ✅; Boston/NYC/Palo Alto hybrid; $70-100K below target; Workato platform exp required unmet)
+- [!] https://job-boards.greenhouse.io/lyratechgroup/jobs/5195593008 | Lyra Technology Group | Forward Deployed AI Engineer | Remote — US (verify) — moved to Procesadas (#862) 2026-05-17 (2.5/5 no PDF; no sponsorship hard blocker; F-1 OPT ineligible; SKIP)
+- [!] https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328 | Mistral AI | Applied AI, Forward Deployed ML Engineer | Palo Alto, CA — moved to Procesadas (#863) 2026-05-17 (4.2/5 PDF ✅; PRIORITY: visa sponsorship confirmed; RAG+agentic+eval match)
+- [!] https://jobs.lever.co/agiloft/e85a0460-4a4c-48b4-a42e-0ff4f124d890 | Agiloft | Forward Deployed Engineer — AI Solutions | Remote (verify) — moved to Procesadas (#864) 2026-05-17 (3.5/5 PDF ✅; remote US; CLM/compliance maps to HIPAA AI; 3-6yr req)
+- [!] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer | United States — moved to Procesadas (#865) 2026-05-17 (3.0/5 PDF ✅; employer undisclosed; URL 404; verify before applying)
+- [!] https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer | Remote — US (verify) — moved to Procesadas (#866) 2026-05-17 (4.2/5 PDF ✅; PRIORITY: YC W24; visa sponsorship; $120-180K; insurance claims AI = agentic project match)
 
 ### 2026-05-16
 - [!] https://jobs.ashbyhq.com/assorthealth/694e3f5a-c777-4db9-9b62-3db952e629fd | Assort Health | Forward Deployed Engineer | San Francisco, CA (In-Office) — moved to Procesadas (#840) 2026-05-16 (3.4/5 PDF ✅; healthcare AI FDE; SF in-office relocation needed; strong domain match)
@@ -1304,6 +1315,15 @@
 ### 2026-05-17
 - [x] #851 | https://jobs.ashbyhq.com/hackerone/9721a4c7-ff1e-47ca-a89e-97688ebff96c | HackerOne | Software Engineer, Applied AI | Seattle WA — Hybrid 1d/wk | 3.0/5 | PDF ✅
 - [x] #854 | https://jobs.ashbyhq.com/qualified-health-pbc/376e24b1-764f-4a71-8bf9-a94356ec4ded | Qualified Health PBC | Healthcare AI Solutions Engineer | Remote — US | 3.0/5 | PDF ✅
+- [x] #857 | https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer | New York, NY (Hybrid) | 4.0/5 | PDF ✅
+- [x] #858 | https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer | San Francisco, CA | 3.5/5 | PDF ✅
+- [x] #859 | https://jobs.ashbyhq.com/fastino-ai/d0fe2e39-6cf2-4972-8266-461bd447468a | fastino.ai | AI Engineer | Remote | 3.8/5 | PDF ✅
+- [x] #860 | https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee | Perplexity | Forward Deployed Engineer (Applied AI) | NYC/SF 4d/wk | 3.5/5 | PDF ✅
+- [x] #861 | https://job-boards.greenhouse.io/workato/jobs/8437707002 | Workato | Forward Deployed Engineer | Boston/NYC/Palo Alto (Hybrid) | 3.0/5 | PDF ✅
+- [x] #863 | https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328 | Mistral AI | Applied AI / Forward Deployed ML Engineer | Palo Alto, CA | 4.2/5 | PDF ✅
+- [x] #864 | https://jobs.lever.co/agiloft/e85a0460-4a4c-48b4-a42e-0ff4f124d890 | Agiloft | Forward Deployed Engineer — AI Solutions | Remote | 3.5/5 | PDF ✅
+- [x] #865 | https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer | United States | 3.0/5 | PDF ✅
+- [x] #866 | https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer | Remote — US | 4.2/5 | PDF ✅
 
 ### 2026-05-16
 - [x] #849 | https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Applied AI Engineer – Agentic Workflows | San Francisco (also NY/Toronto/Montreal/London) | 3.4/5 | PDF ✅

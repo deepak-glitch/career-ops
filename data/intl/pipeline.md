@@ -16,6 +16,16 @@
 
 ### 2026-05-17
 - [!] https://job-boards.greenhouse.io/devrev/jobs/5722574004 | DevRev | Software Engineer, Applied AI | Philippines Remote — rerouted from US track, moved to Procesadas (#855) 2026-05-17 (3.0/5 PDF ✅; Philippines remote + F-1 OPT work auth blocks geography)
+<!-- Level 3 WebSearch overnight sweep — 2026-05-17 (overnight batch 2) -->
+- [!] https://jobs.ashbyhq.com/owkin/306c60e3-9ecf-40a1-b82a-16976bcfef87 | Owkin | Forward Deployed Engineer | Remote — UK/Germany/France — moved to Procesadas (#867) 2026-05-17 (3.5/5 PDF ✅; pharma AI + clinical RAG match; F-1 OPT EU work auth needed)
+- [!] https://jobs.ashbyhq.com/openai/9b3f6bfd-2b8a-4de1-b05f-65ea74b736fa | OpenAI | Forward Deployed Engineer (FDE), Life Sciences | Paris, France — moved to Procesadas (#868) 2026-05-17 (3.5/5 PDF ✅; life sciences clinical AI match; F-1 OPT France work auth; French lang risk; 50% travel)
+- [!] https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023 | OpenAI | Forward Deployed Engineer (FDE), Life Sciences | London, UK — moved to Procesadas (#869) 2026-05-17 (3.5/5 PDF ✅; London preferred over Paris; UK work auth needed; English-language advantage)
+- [!] https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist | UK/EU/ME — moved to Procesadas (#870) 2026-05-17 (3.0/5 PDF ✅; infra specialist off-archetype; K8s/private cloud gap; EU work auth needed)
+- [!] https://jobs.ashbyhq.com/mercura/c3311550-1d26-46fb-8439-9a74805ad943 | Mercura | Forward Deployed Engineer | Europe — Healthcare/Pharma (verify) — moved to Procesadas (#871) 2026-05-17 (3.0/5 PDF ✅; Munich on-site; construction supply chain off-archetype; German work auth; SAP gap)
+- [!] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer | EMEA — moved to Procesadas (#872) 2026-05-17 (3.8/5 PDF ✅; Paris on-site; same JD as #863 US; EU work auth needed; apply alongside Palo Alto)
+- [!] https://jobs.lever.co/resilinc/46bc503f-3697-4d33-9d94-4de35ff35667 | Resilinc | Software Engineer, Forward Deployed | India Remote — moved to Procesadas (#873) 2026-05-17 (3.0/5 PDF ✅; India remote; India-market comp far below min; Databricks gap; supply chain off-archetype)
+- [!] https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702 | Lorikeet | Forward Deployed AI Engineer | Remote — APAC (verify) — moved to Procesadas (#874) 2026-05-17 (3.0/5 PDF ✅; APAC remote Sydney HQ; posting possibly stale; APAC work auth uncertainty)
+- [!] https://jobs.ashbyhq.com/lorikeet/8fd5c0c5-dd89-471a-b4f5-d9101b208cdc | Lorikeet | Forward Deployed AI Engineer | Europe (verify) — moved to Procesadas (#875) 2026-05-17 (2.5/5 no PDF; London posting likely stale (removed Aug 2025); UK work auth explicitly required; SKIP)
 
 ### 2026-05-16
 <!-- Level 3 WebSearch overnight sweep — 2026-05-16 -->
@@ -56,6 +66,14 @@
 
 ### 2026-05-17
 - [x] #855 | https://job-boards.greenhouse.io/devrev/jobs/5722574004 | DevRev | Software Engineer, Applied AI | Philippines Remote | 3.0/5 | PDF ✅
+- [x] #867 | https://jobs.ashbyhq.com/owkin/306c60e3-9ecf-40a1-b82a-16976bcfef87 | Owkin | Forward Deployed Engineer | Remote — UK/Germany/France | 3.5/5 | PDF ✅
+- [x] #868 | https://jobs.ashbyhq.com/openai/9b3f6bfd-2b8a-4de1-b05f-65ea74b736fa | OpenAI | Forward Deployed Engineer (FDE), Life Sciences | Paris, France | 3.5/5 | PDF ✅
+- [x] #869 | https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023 | OpenAI | Forward Deployed Engineer (FDE), Life Sciences | London, UK | 3.5/5 | PDF ✅
+- [x] #870 | https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist | UK/EU/ME | 3.0/5 | PDF ✅
+- [x] #871 | https://jobs.ashbyhq.com/mercura/c3311550-1d26-46fb-8439-9a74805ad943 | Mercura | Forward Deployed Engineer (FDE) | Munich, Germany | 3.0/5 | PDF ✅
+- [x] #872 | https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI / Forward Deployed ML Engineer | EMEA | 3.8/5 | PDF ✅
+- [x] #873 | https://jobs.lever.co/resilinc/46bc503f-3697-4d33-9d94-4de35ff35667 | Resilinc | Software Engineer, Forward Deployed | India Remote | 3.0/5 | PDF ✅
+- [x] #874 | https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702 | Lorikeet | Forward Deployed AI Engineer | Remote — APAC | 3.0/5 | PDF ✅
 
 ### 2026-05-16
 - [x] #844 | https://jobs.lever.co/mistral/dedd74e7-794a-49aa-8ccd-1ffe33fb20b8 | Mistral AI | Applied AI, Forward Deployed ML Engineer (Luxembourg) | Luxembourg | 0/5 CLOSED | PDF ❌
@@ -75,12 +93,10 @@
 - [x] #800 | https://jobs.ashbyhq.com/langchain/31483b31-68c5-4603-8a84-0051634100c0 | LangChain | Deployed Engineer (Stockholm) | Stockholm, Sweden - Hybrid | 3.5/5 | PDF OK
 - [x] #801 | https://jobs.ashbyhq.com/lovable/9f4963e7-be14-4dd9-99ce-05df2f06e22d | Lovable | Engineer - Agents & Evals | Stockholm, Sweden - On-Site | 3.5/5 | PDF OK
 
-
 ### 2026-05-14
 - [x] #761 | https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef | OpenAI | Forward Deployed Engineer (Munich) | Munich, Germany — Hybrid 3d/wk + 50% travel | 3.5/5 | PDF ✅
 - [x] #762 | https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93 | OpenAI | Forward Deployed Engineer (Paris) | Paris, France — Hybrid 3d/wk + 50% travel | 3.3/5 | PDF ✅
 - [x] #763 | https://jobs.ashbyhq.com/elevenlabs/5d1390e2-a6e8-4f8b-b01f-ad7e286009d2 | ElevenLabs | FDE Strategist (Europe) | Remote — Europe | 3.0/5 | PDF ✅
-
 
 ### 2026-05-13
 - [x] #721 | https://job-boards.greenhouse.io/intercom/jobs/7824137 | Intercom | AI Infrastructure Engineer | London, England — Hybrid 3d/wk | 3.0/5 | PDF ✅

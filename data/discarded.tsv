@@ -414,3 +414,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-17	845		orphan	orphan	0/5		reports\845-mistral-ai-applied-ai-fde-internship-2026-05-16.md	
 2026-05-17	852	2026-05-17	Nevis Wealth	Applied AI Engineer	2.5/5	Evaluated	reports/852-nevis-wealth-applied-ai-engineer-2026-05-17.md	[US] NYC on-site; 6-month stale posting; EU company no comp disclosed; SKIP
 2026-05-17	853	2026-05-17	Pulsora Inc	AI Engineer - United States	2.5/5	Evaluated	reports/853-pulsora-ai-engineer-2026-05-17.md	[US] Remote US; $50-60K far below $85K floor; 5yr experience gate; LangChain/RAG tech match strong; SKIP
+2026-05-17	862	2026-05-17	Lyra Technology Group	Forward Deployment AI Engineer	2.5/5	Evaluated	reports/862-lyra-tech-fde-ai-2026-05-17.md	[US] HARD BLOCK: "no sponsorship" language explicit; F-1 OPT ineligible; Chicago hybrid; SKIP
+2026-05-17	875	2026-05-17	Lorikeet	Forward Deployed AI Engineer (Europe)	2.5/5	Evaluated	reports/875-lorikeet-fde-ai-europe-2026-05-17.md	[Intl] London posting likely stale (removed Aug 2025); UK work auth explicitly required; SKIP
