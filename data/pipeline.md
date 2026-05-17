@@ -16,6 +16,10 @@
 - [!] https://jobs.ashbyhq.com/nevis/682261e2-85ac-4869-a74f-be54ec9b3e39 | Nevis Wealth | Applied AI Engineer | Remote — US — moved to Procesadas (#852) 2026-05-17 (2.5/5 no PDF; NYC on-site; 6-month stale posting; EU company; SKIP)
 - [!] https://jobs.ashbyhq.com/qualified-health-pbc/376e24b1-764f-4a71-8bf9-a94356ec4ded | Qualified Health PBC | Healthcare AI Solutions Engineer | Remote — US — moved to Procesadas (#854) 2026-05-17 (3.0/5 PDF ✅; healthcare domain excellent; ETL/PySpark gap; 7-month stale; verify liveness)
 - [!] https://job-boards.greenhouse.io/devrev/jobs/5722574004 | DevRev | Software Engineer, Applied AI | Philippines Remote — rerouted to Intl track, moved to Procesadas (#855) 2026-05-17 (3.0/5 PDF ✅; Philippines remote + F-1 OPT work auth blocks geography)
+- [!] https://job-boards.greenhouse.io/wonderschool/jobs/6622628003 | Wonderschool | Forward Deployed Engineer - Applied AI | Gallup NM / Michigan / Missouri / SF / West Virginia — moved to Procesadas (#856) 2026-05-17 (3.0/5 PDF ✅; FDE ed-tech; Python/AI/LLMs match; no comp disclosed; F-1 OPT sponsorship unclear; apply if comp ≥$120K confirmed)
+- [!] https://ramp.com/careers/jobs/ai-operations-specialist | Ramp | AI Operations Specialist | Remote — filter slip: BizOps/enablement, not IC engineering; requires 2-5y product mgmt/BizOps + Gumloop/n8n low-code tools; skipped
+- [!] https://jobs.lever.co/applied-intuition/fde-defense | Applied Intuition | Forward Deployed Engineer - Defense | Remote — instant veto: US Citizen + clearance required; F-1 OPT ineligible; skipped
+- [!] https://www.theglobaltalent.co/jobs/ai-engineer | The Global Talent Co | AI Engineer | Africa/LATAM staffing — not a US employer; off-track; skipped
 
 ### 2026-05-16
 - [!] https://jobs.ashbyhq.com/assorthealth/694e3f5a-c777-4db9-9b62-3db952e629fd | Assort Health | Forward Deployed Engineer | San Francisco, CA (In-Office) — moved to Procesadas (#840) 2026-05-16 (3.4/5 PDF ✅; healthcare AI FDE; SF in-office relocation needed; strong domain match)

@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 856 | 2026-05-17 | Wonderschool | Forward Deployed Engineer - Applied AI | 3.0/5 | Evaluated | ✅ | [856](reports/856-wonderschool-fde-applied-ai-2026-05-17.md) | [US] FDE ed-tech; Python/AI/LLMs match; no comp disclosed; F-1 OPT sponsorship unclear; apply if comp ≥$120K confirmed |
 | 851 | 2026-05-17 | HackerOne | Software Engineer, Applied AI | 3.0/5 | Evaluated | ✅ | [851](reports/851-hackerone-swe-applied-ai-2026-05-17.md) | [US] Seattle hybrid 1d/wk; excellent comp $166-203K + equity; no visa sponsorship hard blocker; strong LLM/RAG/agentic match |
 | 854 | 2026-05-17 | Qualified Health PBC | Healthcare AI Solutions Engineer | 3.0/5 | Evaluated | ✅ | [854](reports/854-qualified-health-ai-solutions-engineer-2026-05-17.md) | [US] Remote US; healthcare domain excellent; ETL/PySpark heavy gap; 7-month stale posting; verify liveness before applying |
 | 855 | 2026-05-17 | DevRev | Software Engineer, Applied AI | 3.0/5 | Evaluated | ✅ | [855](reports/855-devrev-swe-applied-ai-2026-05-17.md) | [Intl] Philippines remote; strong FDE+AI tech match; F-1 OPT work auth blocks Philippines geo; rerouted from US track |

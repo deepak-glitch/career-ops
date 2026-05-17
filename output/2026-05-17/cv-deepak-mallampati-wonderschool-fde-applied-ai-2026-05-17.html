@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Deepak Mallampati -- CV</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { background: #ffffff; color: #000000; }
+  body { font-family: 'Times New Roman', Times, serif; font-size: 10pt; line-height: 1.35; }
+  a { color: #000000; text-decoration: underline; white-space: nowrap; }
+  .page { width: 100%; max-width: 780px; margin: 0 auto; padding: 2px 0; }
+  .header { margin-bottom: 14px; text-align: center; }
+  .header h1 { font-family: 'Times New Roman', Times, serif; font-size: 18pt; font-weight: 700; color: #000000; margin-bottom: 3px; line-height: 1.1; }
+  .header-gradient { height: 1px; background: #000000; margin: 6px 0 8px 0; }
+  .contact-row { display: flex; flex-wrap: wrap; justify-content: center; gap: 3px 8px; font-size: 9.5pt; line-height: 1.3; color: #000000; }
+  .contact-row a { color: #000000; text-decoration: none; }
+  .separator { color: #000000; }
+  .section { margin-bottom: 12px; }
+  .section-title { font-family: 'Times New Roman', Times, serif; font-size: 11pt; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: #000000; border-bottom: 1px solid #000000; padding-bottom: 2px; margin-bottom: 5px; line-height: 1.2; }
+  .summary-text { font-size: 10pt; line-height: 1.35; color: #000000; text-align: justify; }
+  .competency-tag { font-family: 'Times New Roman', Times, serif; font-size: 10pt; font-weight: 400; color: #000000; background: transparent; padding: 0; border: none; display: inline; }
+  .competency-tag:not(:last-child)::after { content: " • "; color: #000000; }
+  .job { margin-bottom: 10px; }
+  .job-header { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; margin-bottom: 2px; }
+  .job-company { font-family: 'Times New Roman', Times, serif; font-size: 10.5pt; font-weight: 700; color: #000000; }
+  .job-period { font-size: 9.5pt; font-style: italic; color: #000000; white-space: nowrap; }
+  .job-role { font-size: 10pt; font-weight: 400; font-style: italic; color: #000000; margin-bottom: 3px; }
+  .job-location { font-size: 9.5pt; font-style: italic; color: #000000; }
+  .job ul { padding-left: 16px; margin-top: 3px; list-style-type: disc; }
+  .job li { font-size: 10pt; line-height: 1.35; color: #000000; margin-bottom: 2px; }
+  .job li strong { font-weight: 700; }
+  .project { margin-bottom: 8px; }
+  .project-title { font-family: 'Times New Roman', Times, serif; font-size: 10.5pt; font-weight: 700; color: #000000; }
+  .project-badge { font-size: 9pt; font-weight: 400; color: #000000; background: transparent; border: 1px solid #000000; margin-left: 6px; padding: 0 4px; }
+  .project-desc { font-size: 10pt; color: #000000; margin-top: 2px; line-height: 1.35; }
+  .project-tech { font-size: 9.5pt; font-style: italic; color: #000000; margin-top: 2px; }
+  .edu-item { margin-bottom: 6px; }
+  .edu-header { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+  .edu-title { font-weight: 700; font-size: 10pt; color: #000000; }
+  .edu-org { color: #000000; font-weight: 400; font-style: italic; }
+  .edu-year { font-size: 9.5pt; font-style: italic; color: #000000; white-space: nowrap; }
+  .edu-desc { font-size: 9.5pt; color: #000000; margin-top: 2px; line-height: 1.35; }
+  .skill-item { font-size: 10pt; color: #000000; display: block; margin-bottom: 2px; }
+  .skill-category { font-weight: 700; color: #000000; font-size: 10pt; }
+  .avoid-break, .job, .project, .edu-item { break-inside: avoid; page-break-inside: avoid; }
+  @media print { body { -webkit-print-color-adjust: exact; print-color-adjust: exact; } .page { padding: 0; } }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header avoid-break">
+    <h1>Deepak Mallampati</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>(330) 554-0770</span>
+      <span class="separator">|</span>
+      <span>deepakmallampati00@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://www.linkedin.com/in/deepak-mallampati/">linkedin.com/in/deepak-mallampati</a>
+      <span class="separator">|</span>
+      <span>Kent, OH -- F-1 OPT, open to sponsorship</span>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section avoid-break">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">Applied AI engineer (2.5+ years) who builds production AI systems and deploys them to non-technical domain users. Track record of shipping end-to-end: RAG systems (~35% retrieval precision gain), agentic LLM workflows (&gt;30% hallucination reduction), and predictive ML pipelines (15-20% recall improvement on high-risk categories) -- all in HIPAA-conscious healthcare environments where guardrails and user trust matter more than raw model accuracy. Independently shipped <strong>Manga Lens</strong> (live Chrome extension, 4 AI providers, 29 sites) and co-built <strong>E-Farming</strong> (80-120 active users). Comfortable owning the full loop: discovery with domain stakeholders through code, deployment, monitoring, and iteration.</div>
+  </div>
+
+  <!-- CORE COMPETENCIES -->
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div>
+      <span class="competency-tag">Forward Deployment</span>
+      <span class="competency-tag">Agentic LLM Workflows</span>
+      <span class="competency-tag">RAG Systems</span>
+      <span class="competency-tag">Python / FastAPI / Flask</span>
+      <span class="competency-tag">TypeScript / React</span>
+      <span class="competency-tag">AI Workflow Automation</span>
+      <span class="competency-tag">LangChain / LlamaIndex</span>
+      <span class="competency-tag">Docker / CI/CD</span>
+      <span class="competency-tag">Non-technical User Tooling</span>
+      <span class="competency-tag">End-to-end Product Ownership</span>
+      <span class="competency-tag">scikit-learn / XGBoost</span>
+      <span class="competency-tag">Production ML Deployment</span>
+    </div>
+  </div>
+
+  <!-- WORK EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Progress Solutions Inc.</span>
+        <span class="job-period">Jul 2025 -- Present</span>
+      </div>
+      <div class="job-role"><em>Jr. AI/ML Engineer Trainee</em> &mdash; <span class="job-location">USA | Healthcare Technology, AI Consulting</span></div>
+      <ul>
+        <li>Built and deployed <strong>RAG systems</strong> for clinical knowledge retrieval; recursive semantic chunking + transformer embeddings improved retrieval precision by <strong>~35%</strong> and reduced irrelevant retrieval by <strong>&gt;30%</strong>; response alignment &gt;90% in evaluation.</li>
+        <li>Developed <strong>agentic LLM workflows</strong> for multi-step healthcare queries (eligibility checks, care navigation, documentation) with structured reasoning and grounding rules; improved agent stability by <strong>~25%</strong>.</li>
+        <li>Packaged ML/LLM inference as <strong>FastAPI/Flask</strong> RESTful services with Docker; structured logging and load simulation reduced post-deployment defects by <strong>~30%</strong>.</li>
+        <li>Produced stakeholder-facing system-limitation documentation for non-technical clinical staff; enabled confident, audit-ready AI usage across teams with no ML background.</li>
+        <li>Shipped predictive ML pipelines (scikit-learn, XGBoost) for patient no-show and care engagement scoring; improved recall by <strong>15-20%</strong> on high-risk categories.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Suvidha Foundation</span>
+        <span class="job-period">Jan 2022 -- Mar 2022</span>
+      </div>
+      <div class="job-role"><em>Machine Learning Engineer</em> &mdash; <span class="job-location">Hyderabad, India | Nonprofit</span></div>
+      <ul>
+        <li>Built transformer-based video summarization for 5,000+ sessions; reduced manual review time by <strong>60-70%</strong> for non-technical staff.</li>
+        <li>Implemented document Q&amp;A with RAG; reduced hallucinated outputs by <strong>~30%</strong> and raised answer accuracy &gt;85%.</li>
+        <li>Deployed as a Flask API with a web interface designed for non-technical users -- same audience type as childcare providers.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Energy Solutions International (Emerson)</span>
+        <span class="job-period">Jun 2022 -- Apr 2023</span>
+      </div>
+      <div class="job-role"><em>Database &amp; DevOps Performance Engineer (Intern)</em> &mdash; <span class="job-location">Hyderabad, India</span></div>
+      <ul>
+        <li>Built CI/CD pipelines with Jenkins; reduced deployment errors &gt;30% and improved release cycle by ~35-40%.</li>
+        <li>Designed Grafana observability dashboards for production SQL systems; cut incident recurrence ~25%.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section">
+    <div class="section-title">Projects</div>
+
+    <div class="project avoid-break">
+      <span class="project-title">Manga Lens</span> <span class="project-badge">shipped -- Chrome Web Store</span>
+      <div class="project-desc">Solo-built and shipped a Chrome extension integrating <strong>4 AI vision providers</strong> (Claude, GPT-4o, Ollama) for real-time manga/webtoon translation. Manifest V3, content scripts, multi-section capture pipeline with viewport-slice screenshots. Seven-day translation cache, per-domain configs for 29 sites, live users. Full product ownership: design, code, privacy policy, Chrome review, user feedback loop.</div>
+      <div class="project-tech"><em>Python, TypeScript, Chrome APIs, Claude/GPT-4o/Ollama, Manifest V3</em></div>
+    </div>
+
+    <div class="project avoid-break">
+      <span class="project-title">Agentic Healthcare Claims Processing &amp; Fraud Risk Intelligence</span>
+      <div class="project-desc">Multi-agent pipeline (Intake Normalization &rarr; Validation &rarr; Consistency Analysis &rarr; Duplicate Detection &rarr; Fraud Risk Scoring) with schema-validated JSON contracts between agents to prevent cascading hallucinations. RAG-grounded CPT/ICD validation; explainable risk scoring with audit-ready reasoning traces.</div>
+      <div class="project-tech"><em>Python, LangChain, vector search, FastAPI, Docker</em></div>
+    </div>
+
+    <div class="project avoid-break">
+      <span class="project-title">E-Farming Digital Marketplace</span> <span class="project-badge">founder</span>
+      <div class="project-desc">Independently designed and shipped a PHP/MySQL/Bootstrap AgriTech marketplace connecting small-scale farmers with buyers. Onboarded <strong>80-120 active users</strong> in phase one through direct farmer outreach; iterated on cart, reviews, and community blogging based on user feedback.</div>
+      <div class="project-tech"><em>PHP, MySQL, Bootstrap -- full-cycle owner: discovery, build, launch, user feedback</em></div>
+    </div>
+
+    <div class="project avoid-break">
+      <span class="project-title">Dream Decoder -- AI Multimodal Platform</span>
+      <div class="project-desc">Full-stack FastAPI + React/TypeScript app with coordinated multimodal APIs (Perplexity Sonar, Replicate). Intermediate prompt transformation layers improved contextual alignment <strong>~30%</strong> and first-pass image success by <strong>~25-30%</strong>.</div>
+      <div class="project-tech"><em>FastAPI, React, TypeScript, Perplexity Sonar, Replicate</em></div>
+    </div>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span class="edu-title">Master's Degree &mdash; <span class="edu-org">Kent State University, Ohio, USA</span></span>
+        <span class="edu-year">Aug 2023 -- May 2025</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="section avoid-break">
+    <div class="section-title">Technical Skills</div>
+    <div class="skills-grid">
+      <div class="skill-item"><span class="skill-category">Languages &amp; Frameworks:</span> Python, TypeScript, JavaScript, React, FastAPI, Flask, SQL (PostgreSQL, T-SQL)</div>
+      <div class="skill-item"><span class="skill-category">AI/LLM &amp; Automation:</span> LLM APIs (Claude, GPT-4o, Gemini, Ollama), RAG, agentic workflows, LangChain, LlamaIndex, prompt engineering, structured outputs, evaluation pipelines</div>
+      <div class="skill-item"><span class="skill-category">Developer Tooling:</span> Cursor, Claude Code, Docker, CI/CD (Jenkins), Grafana, RESTful APIs, MLOps/LLMOps</div>
+      <div class="skill-item"><span class="skill-category">ML Libraries:</span> scikit-learn, XGBoost, PyTorch, Hugging Face Transformers, YOLOv8</div>
+      <div class="skill-item"><span class="skill-category">Work Authorization:</span> F-1 OPT -- authorized to work in the United States now; future sponsorship required</div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
