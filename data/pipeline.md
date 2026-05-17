@@ -19,6 +19,22 @@
 - [!] https://himalayas.app/companies/impiricus/jobs/ai-solutions-builder | Impiricus | AI Solutions Builder | Remote -- US -- moved to Procesadas (#847) 2026-05-16 (4.0/5 PDF pending; pharma AI LangChain/LlamaIndex strong match; $165-210K; apply)
 - [!] https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391 | TRM Labs | AI Agent Engineer | Remote -- US -- moved to Procesadas (#848) 2026-05-16 (3.5/5 PDF pending; crypto domain gap; agentic+RAG tech match; verify posting active)
 
+
+- [!] https://jobs.ashbyhq.com/lakera.ai/f258a3ea-273d-4c07-b8f1-e01134149456 | Lakera | AI Sales Specialist, Check Point AI Security | San Francisco — filter slip: pure sales role, not archetype match; skipped
+- [!] https://jobs.ashbyhq.com/haast/8d123db2-7e16-4cb7-8423-9324fa80666e | Haast | Forward Deployed Engineer | Remote, US — moved to Procesadas (#832) 2026-05-16 (3.8/5 PDF ✅)
+- [!] https://jobs.ashbyhq.com/Varick-Agents/30e16a2a-6374-475d-9154-2e186c481319 | Varick Agents | AI Engineer | San Francisco, CA (on-site) — moved to Procesadas (#833) 2026-05-16 (2.8/5 — on-site SF + no sponsorship info; SKIP)
+- [!] https://jobs.ashbyhq.com/revenuecat/998a9cef-3ea5-45c2-885b-8a00c4eeb149 | RevenueCat | Agentic AI Advocate | Remote — filter slip: contract role for AI agents ($10k/month), DevRel advocacy, not engineering IC; skipped
+<!-- Level 3 WebSearch overnight sweep — 2026-05-16 -->
+- [!] https://job-boards.greenhouse.io/loop/jobs/5986356004 | Loop | Forward Deployed Engineer | Remote — US — moved to Procesadas (#834) 2026-05-16 (2.0/5 no PDF; off-archetype ERP/EDI integration, no AI; on-site SF; 3-5y exp gap; SKIP)
+- [!] https://jobs.ashbyhq.com/llamaindex/c7335674-745e-4e1d-9d30-2277583c7c77 | LlamaIndex | Founding Applied AI Engineer | Remote — US — moved to Procesadas (#835) 2026-05-16 (3.5/5 PDF ✅; strong domain match LlamaIndex+RAG+agents; founding/senior bar stretch; visa sponsorship unconfirmed)
+- [!] https://job-boards.greenhouse.io/knowbe4/jobs/7913316002 | KnowBe4 | AI Solutions Engineer (Internal Engineering) | Remote — US — error: posting closed (deleted May 7, 2025); archived
+- [!] https://jobs.ashbyhq.com/sphinx/bf2a74ab-2340-4eda-b9b8-3f05af59183f | Sphinx | Forward Deployed Engineer | US / Canada / Europe / LatAm — moved to Procesadas (#837) 2026-05-16 (3.0/5 PDF ✅; AI compliance agents FDE; on-site SF; seed stage; domain gap fintech; relocation required)
+- [!] https://jobs.lever.co/aircall/f7eef342-5593-4d3c-9a7c-1259182e1482 | Aircall | Forward Deployed Engineer | Remote — US or EU (verify) — error: posting inaccessible (Lever API 403); archived
+<!-- Level 3 WebSearch overnight sweep — 2026-05-16 (PM run, liveness-checked) -->
+- [!] https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Applied AI Engineer – Agentic Workflows | San Francisco (also NY/Toronto/Montreal/London) — moved to Procesadas (#849) 2026-05-16 (3.4/5 PDF ✅; mid-senior IC stretch + LangGraph/CrewAI soft gap; re-eval of role originally seen in #3)
+- [!] https://jobs.ashbyhq.com/eliseai/5b6f3775-3e79-4269-a255-47ee3057265d | EliseAI | Associate Solutions Engineer | Housing (New Grads 2025-2026) | New York City — filter slip (Customer Support / Solutions Support role; off-archetype IC engineer; 5d/wk in-office)
+- [!] https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents | Remote — North America — moved to Procesadas (#850) 2026-05-16 (3.7/5 PDF ✅; product-minded AI for composable CDP data agents; re-eval of role originally seen in #42)
+
 ### 2026-05-15
 <!-- Level 3 WebSearch overnight sweep — 2026-05-15 -->
 - [!] https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007 | Defense Unicorns | Forward Deployed AI Engineer | Remote — US — moved to Procesadas (#776) 2026-05-15 (2.2/5 no PDF; US citizenship + clearance required; F-1 OPT hard veto; SKIP)
@@ -1273,22 +1289,11 @@
 - [!] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer — EMEA | Paris, France — duplicate of #164 (already evaluated 2026-04-25); not re-evaluated
 - [!] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer (different ID from #166) | error: posting closed (Lever API 404 on 2026-04-26); archived
 
-### 2026-05-16
-
-- [!] https://jobs.ashbyhq.com/lakera.ai/f258a3ea-273d-4c07-b8f1-e01134149456 | Lakera | AI Sales Specialist, Check Point AI Security | San Francisco — filter slip: pure sales role, not archetype match; skipped
-- [!] https://jobs.ashbyhq.com/haast/8d123db2-7e16-4cb7-8423-9324fa80666e | Haast | Forward Deployed Engineer | Remote, US — moved to Procesadas (#832) 2026-05-16 (3.8/5 PDF ✅)
-- [!] https://jobs.ashbyhq.com/Varick-Agents/30e16a2a-6374-475d-9154-2e186c481319 | Varick Agents | AI Engineer | San Francisco, CA (on-site) — moved to Procesadas (#833) 2026-05-16 (2.8/5 — on-site SF + no sponsorship info; SKIP)
-- [!] https://jobs.ashbyhq.com/revenuecat/998a9cef-3ea5-45c2-885b-8a00c4eeb149 | RevenueCat | Agentic AI Advocate | Remote — filter slip: contract role for AI agents ($10k/month), DevRel advocacy, not engineering IC; skipped
-<!-- Level 3 WebSearch overnight sweep — 2026-05-16 -->
-- [!] https://job-boards.greenhouse.io/loop/jobs/5986356004 | Loop | Forward Deployed Engineer | Remote — US — moved to Procesadas (#834) 2026-05-16 (2.0/5 no PDF; off-archetype ERP/EDI integration, no AI; on-site SF; 3-5y exp gap; SKIP)
-- [!] https://jobs.ashbyhq.com/llamaindex/c7335674-745e-4e1d-9d30-2277583c7c77 | LlamaIndex | Founding Applied AI Engineer | Remote — US — moved to Procesadas (#835) 2026-05-16 (3.5/5 PDF ✅; strong domain match LlamaIndex+RAG+agents; founding/senior bar stretch; visa sponsorship unconfirmed)
-- [!] https://job-boards.greenhouse.io/knowbe4/jobs/7913316002 | KnowBe4 | AI Solutions Engineer (Internal Engineering) | Remote — US — error: posting closed (deleted May 7, 2025); archived
-- [!] https://jobs.ashbyhq.com/sphinx/bf2a74ab-2340-4eda-b9b8-3f05af59183f | Sphinx | Forward Deployed Engineer | US / Canada / Europe / LatAm — moved to Procesadas (#837) 2026-05-16 (3.0/5 PDF ✅; AI compliance agents FDE; on-site SF; seed stage; domain gap fintech; relocation required)
-- [!] https://jobs.lever.co/aircall/f7eef342-5593-4d3c-9a7c-1259182e1482 | Aircall | Forward Deployed Engineer | Remote — US or EU (verify) — error: posting inaccessible (Lever API 403); archived
-
 ## Procesadas
 
 ### 2026-05-16
+- [x] #849 | https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Applied AI Engineer – Agentic Workflows | San Francisco (also NY/Toronto/Montreal/London) | 3.4/5 | PDF ✅
+- [x] #850 | https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents | Remote — North America | 3.7/5 | PDF ✅
 - [x] #846 | https://job-boards.greenhouse.io/assemblyai/jobs/4693817005 | AssemblyAI | Forward Deployed Engineer, Onboarding | Remote — US | 3.2/5 | PDF ✅
 - [x] #847 | https://himalayas.app/companies/impiricus/jobs/ai-solutions-builder | Impiricus | AI Solutions Builder | Remote — US | 4.0/5 | PDF ✅
 - [x] #848 | https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391 | TRM Labs | AI Agent Engineer | Remote — US | 3.5/5 | PDF ✅

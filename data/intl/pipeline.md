@@ -14,13 +14,6 @@
 
 ## Pendientes
 
-### 2026-05-15
-<!-- Level 3 WebSearch overnight sweep — 2026-05-15 -->
-- [!] https://job-boards.greenhouse.io/runpod/jobs/5173070008 | Runpod | Forward Deployed Engineer APAC | Remote APAC (Malaysia/Singapore/South Korea) — moved to Procesadas (#775) 2026-05-15 (2.6/5 no PDF; APAC residency required + no visa sponsorship — F-1 OPT hard blocker; SKIP)
-- [!] https://jobs.ashbyhq.com/percepta/cede64f9-f495-4382-b8e9-f8a3c4e75a91 | Percepta | Applied AI Engineer - Europe | London, UK — moved to Procesadas (#814) 2026-05-15 (3.7/5 PDF ✅; healthcare AI strong match; F-1 OPT EU relocation needed)
-- [!] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder | Berlin Office — moved to Procesadas (#815) 2026-05-15 (2.5/5 no PDF; PM role off-archetype for IC engineer; SKIP)
-
-<!-- ▼ Manual additions — paste new URLs below as: `- [ ] {url} | {Company} | {Role} | {Location}` -->
 ### 2026-05-16
 <!-- Level 3 WebSearch overnight sweep — 2026-05-16 -->
 - [!] https://jobs.lever.co/mistral/dedd74e7-794a-49aa-8ccd-1ffe33fb20b8 | Mistral AI | Applied AI, Forward Deployed ML Engineer | Luxembourg — moved to Procesadas (#844) 2026-05-16 (0/5; Lever 403 — posting unverifiable/likely closed; EU work auth required; F-1 OPT blocker; SKIP)
@@ -28,6 +21,14 @@
 - [!] https://jobs.ashbyhq.com/dash0/1937975c-df33-47e9-b6ae-e9d446bdfc1f | Dash0 | Forward Deployed Engineer - EMEA | Remote — Europe / EMEA — moved to Procesadas (#839) 2026-05-16 (1.8/5 no PDF; EMEA geo hard blocker F-1 OPT; off-archetype K8s/OTel observability; SKIP)
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-16 (AM run) -->
 - [!] https://jobs.ashbyhq.com/maihem/85f34c60-2f89-4f90-ae2d-65414b22a6ee | MAIHEM | Founding AI Engineer (LLM & ML) | London, UK -- error: Ashby board empty (posting closed as of 2026-05-16); archived
+
+### 2026-05-15
+<!-- Level 3 WebSearch overnight sweep — 2026-05-15 -->
+- [!] https://job-boards.greenhouse.io/runpod/jobs/5173070008 | Runpod | Forward Deployed Engineer APAC | Remote APAC (Malaysia/Singapore/South Korea) — moved to Procesadas (#775) 2026-05-15 (2.6/5 no PDF; APAC residency required + no visa sponsorship — F-1 OPT hard blocker; SKIP)
+- [!] https://jobs.ashbyhq.com/percepta/cede64f9-f495-4382-b8e9-f8a3c4e75a91 | Percepta | Applied AI Engineer - Europe | London, UK — moved to Procesadas (#814) 2026-05-15 (3.7/5 PDF ✅; healthcare AI strong match; F-1 OPT EU relocation needed)
+- [!] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder | Berlin Office — moved to Procesadas (#815) 2026-05-15 (2.5/5 no PDF; PM role off-archetype for IC engineer; SKIP)
+
+<!-- ▼ Manual additions — paste new URLs below as: `- [ ] {url} | {Company} | {Role} | {Location}` -->
 
 ### 2026-05-14
 - [!] https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8 | ElevenLabs | Enterprise Solutions Engineer - Middle East | UAE — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived
