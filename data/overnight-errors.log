@@ -782,3 +782,18 @@ Working tree is clean. Here's the final summary:
 **Intl track:** 0 evaluations (MAIHEM was the only new URL; Ashby board empty = closed).
 
 **Standout:** #847 Impiricus ($165–210K, LangChain/LlamaIndex/Python/healthcare domain, 2+ years req) is a strong apply candidate. #848 TRM Labs has excellent technical match (agentic+RAG+eval) but the posting may be closed — verify directly before applying.
+Pushed. Commit SHA: `7bd06bc`.
+
+---
+
+**Processed 5 URLs (US:4 + Intl:1), generated 3 PDFs, deleted 2 low-score artifacts, pushed 7bd06bc.**
+
+Score table for the 3 surviving reports:
+
+| # | Company | Role | Score | PDF | Note |
+|---|---------|------|-------|-----|------|
+| 851 | HackerOne | SWE, Applied AI | 3.0/5 | ✅ | $166–203K + equity; Seattle hybrid 1d/wk; **no visa sponsorship** — OPT-period apply only |
+| 854 | Qualified Health PBC | Healthcare AI Solutions Engineer | 3.0/5 | ✅ | Healthcare domain match; PySpark/ETL heavy; 7-month stale posting — verify still live before applying |
+| 855 | DevRev | SWE, Applied AI | 3.0/5 | ✅ | Intl — Philippines Remote; strong FDE/AI tech fit; F-1 OPT geography blocker |
+
+Two entries (#852 Nevis Wealth 2.5/5, #853 Pulsora 2.5/5) were hard-deleted by cleanup — stale/in-office and below-comp respectively. Both are in `data/discarded.tsv` for audit only.
