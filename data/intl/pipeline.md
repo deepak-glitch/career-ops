@@ -14,6 +14,9 @@
 
 ## Pendientes
 
+### 2026-05-17
+- [!] https://job-boards.greenhouse.io/devrev/jobs/5722574004 | DevRev | Software Engineer, Applied AI | Philippines Remote — rerouted from US track, moved to Procesadas (#855) 2026-05-17 (3.0/5 PDF ✅; Philippines remote + F-1 OPT work auth blocks geography)
+
 ### 2026-05-16
 <!-- Level 3 WebSearch overnight sweep — 2026-05-16 -->
 - [!] https://jobs.lever.co/mistral/dedd74e7-794a-49aa-8ccd-1ffe33fb20b8 | Mistral AI | Applied AI, Forward Deployed ML Engineer | Luxembourg — moved to Procesadas (#844) 2026-05-16 (0/5; Lever 403 — posting unverifiable/likely closed; EU work auth required; F-1 OPT blocker; SKIP)
@@ -50,6 +53,9 @@
 <!-- moved to Procesadas: OpenAI AI Deployment Engineer Startups Singapore #727 -->
 
 ## Procesadas
+
+### 2026-05-17
+- [x] #855 | https://job-boards.greenhouse.io/devrev/jobs/5722574004 | DevRev | Software Engineer, Applied AI | Philippines Remote | 3.0/5 | PDF ✅
 
 ### 2026-05-16
 - [x] #844 | https://jobs.lever.co/mistral/dedd74e7-794a-49aa-8ccd-1ffe33fb20b8 | Mistral AI | Applied AI, Forward Deployed ML Engineer (Luxembourg) | Luxembourg | 0/5 CLOSED | PDF ❌

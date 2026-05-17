@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 851 | 2026-05-17 | HackerOne | Software Engineer, Applied AI | 3.0/5 | Evaluated | ✅ | [851](reports/851-hackerone-swe-applied-ai-2026-05-17.md) | [US] Seattle hybrid 1d/wk; excellent comp $166-203K + equity; no visa sponsorship hard blocker; strong LLM/RAG/agentic match |
+| 854 | 2026-05-17 | Qualified Health PBC | Healthcare AI Solutions Engineer | 3.0/5 | Evaluated | ✅ | [854](reports/854-qualified-health-ai-solutions-engineer-2026-05-17.md) | [US] Remote US; healthcare domain excellent; ETL/PySpark heavy gap; 7-month stale posting; verify liveness before applying |
+| 855 | 2026-05-17 | DevRev | Software Engineer, Applied AI | 3.0/5 | Evaluated | ✅ | [855](reports/855-devrev-swe-applied-ai-2026-05-17.md) | [Intl] Philippines remote; strong FDE+AI tech match; F-1 OPT work auth blocks Philippines geo; rerouted from US track |
 | 846 | 2026-05-16 | AssemblyAI | Forward Deployed Engineer, Onboarding | 3.2/5 | Evaluated | ✅ | [846](reports/846-assemblyai-fde-onboarding-2026-05-16.md) | [US] Remote-US; speech/audio domain gap; sales KPI culture; OTE $150-200K; Python+LLM fit; audio infra gap |
 | 847 | 2026-05-16 | Impiricus | AI Solutions Builder | 4.0/5 | Evaluated | ✅ | [847](reports/847-impiricus-ai-solutions-builder-2026-05-16.md) | [US] NYC/Atlanta/Remote; pharma AI; LangChain/LlamaIndex/Python strong match; $165-210K; apply |
 | 848 | 2026-05-16 | TRM Labs | AI Agent Engineer | 3.5/5 | Evaluated | ✅ | [848](reports/848-trm-labs-ai-agent-engineer-2026-05-16.md) | [US] Remote-US; crypto/blockchain domain gap; agentic+RAG+eval tech match excellent; verify posting active before applying |

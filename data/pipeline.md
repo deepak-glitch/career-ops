@@ -7,6 +7,16 @@
 
 ## Pendientes
 
+### 2026-05-17
+<!-- Level 3 WebSearch overnight sweep — 2026-05-17 -->
+- [!] https://jobs.ashbyhq.com/aim4hire/46530da4-9402-4b6e-8899-b30717127e82 | Aim4Hire | ML Engineer | Remote — US — error: Ashby board empty (posting closed as of 2026-05-17); archived
+- [!] https://jobs.ashbyhq.com/speak/ccb7142b-0828-4294-ba1c-454e87b7239b | Speak | Applied ML Engineer, LLM | Remote — US — error: Ashby board empty (posting closed as of 2026-05-17); archived
+- [!] https://jobs.ashbyhq.com/Pulsora%20Inc/030c8e56-a7df-4986-b8af-104a1c9ec701 | Pulsora Inc | AI Engineer | Remote — US — moved to Procesadas (#853) 2026-05-17 (2.5/5 no PDF; $50-60K far below $85K floor; 5yr gate; LangChain/RAG match; SKIP)
+- [!] https://jobs.ashbyhq.com/hackerone/9721a4c7-ff1e-47ca-a89e-97688ebff96c | HackerOne | Software Engineer, Applied AI | Remote — US — moved to Procesadas (#851) 2026-05-17 (3.0/5 PDF ✅; Seattle hybrid 1d/wk; $166-203K + equity; no visa sponsorship hard blocker)
+- [!] https://jobs.ashbyhq.com/nevis/682261e2-85ac-4869-a74f-be54ec9b3e39 | Nevis Wealth | Applied AI Engineer | Remote — US — moved to Procesadas (#852) 2026-05-17 (2.5/5 no PDF; NYC on-site; 6-month stale posting; EU company; SKIP)
+- [!] https://jobs.ashbyhq.com/qualified-health-pbc/376e24b1-764f-4a71-8bf9-a94356ec4ded | Qualified Health PBC | Healthcare AI Solutions Engineer | Remote — US — moved to Procesadas (#854) 2026-05-17 (3.0/5 PDF ✅; healthcare domain excellent; ETL/PySpark gap; 7-month stale; verify liveness)
+- [!] https://job-boards.greenhouse.io/devrev/jobs/5722574004 | DevRev | Software Engineer, Applied AI | Philippines Remote — rerouted to Intl track, moved to Procesadas (#855) 2026-05-17 (3.0/5 PDF ✅; Philippines remote + F-1 OPT work auth blocks geography)
+
 ### 2026-05-16
 - [!] https://jobs.ashbyhq.com/assorthealth/694e3f5a-c777-4db9-9b62-3db952e629fd | Assort Health | Forward Deployed Engineer | San Francisco, CA (In-Office) — moved to Procesadas (#840) 2026-05-16 (3.4/5 PDF ✅; healthcare AI FDE; SF in-office relocation needed; strong domain match)
 - [!] https://job-boards.greenhouse.io/fixify/jobs/5214979008 | Fixify | Forward Deployed Engineer | Remote — US — moved to Procesadas (#841) 2026-05-16 (2.8/5 no PDF; IT helpdesk domain mismatch; AI depth underutilized; SKIP)
@@ -18,7 +28,6 @@
 - [!] https://himalayas.app/companies/wewe/jobs/forward-deployed-developer-applied-ai | wewe | Forward Deployed Developer, Applied AI | Remote -- US -- error: Himalayas page not rendering job details (posting may be closed or company mismatch); archived
 - [!] https://himalayas.app/companies/impiricus/jobs/ai-solutions-builder | Impiricus | AI Solutions Builder | Remote -- US -- moved to Procesadas (#847) 2026-05-16 (4.0/5 PDF pending; pharma AI LangChain/LlamaIndex strong match; $165-210K; apply)
 - [!] https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391 | TRM Labs | AI Agent Engineer | Remote -- US -- moved to Procesadas (#848) 2026-05-16 (3.5/5 PDF pending; crypto domain gap; agentic+RAG tech match; verify posting active)
-
 
 - [!] https://jobs.ashbyhq.com/lakera.ai/f258a3ea-273d-4c07-b8f1-e01134149456 | Lakera | AI Sales Specialist, Check Point AI Security | San Francisco — filter slip: pure sales role, not archetype match; skipped
 - [!] https://jobs.ashbyhq.com/haast/8d123db2-7e16-4cb7-8423-9324fa80666e | Haast | Forward Deployed Engineer | Remote, US — moved to Procesadas (#832) 2026-05-16 (3.8/5 PDF ✅)
@@ -138,9 +147,6 @@
 - [!] https://jobs.ashbyhq.com/lakera.ai/24ddfe7e-f7f8-41f9-b3c9-26f59f636c7e | Lakera | Solutions Engineer (Pittsburgh, Pennsylvania) | Boston — canonical duplicate of #822; SKIP
 - [!] https://jobs.ashbyhq.com/lakera.ai/94bb2dfd-f3b8-4fd9-86b8-465cf7aafa0d | Lakera | Solutions Engineer (San Francisco, California) | New York — canonical duplicate of #822 Boston / #809 NYC; SKIP
 <!-- moved to Procesadas: LangChain Deployed Engineer Seattle #719 -->
-
-
-
 
 <!-- Level 1 agent scan — direct ATS API (Ashby/Lever/Greenhouse) on companies scan.mjs missed -->
 - [!] https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7 | ElevenLabs | Automations Engineer | United States — error: posting closed (Ashby API confirms job no longer active 2026-05-14); archived
@@ -1290,6 +1296,10 @@
 - [!] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer (different ID from #166) | error: posting closed (Lever API 404 on 2026-04-26); archived
 
 ## Procesadas
+
+### 2026-05-17
+- [x] #851 | https://jobs.ashbyhq.com/hackerone/9721a4c7-ff1e-47ca-a89e-97688ebff96c | HackerOne | Software Engineer, Applied AI | Seattle WA — Hybrid 1d/wk | 3.0/5 | PDF ✅
+- [x] #854 | https://jobs.ashbyhq.com/qualified-health-pbc/376e24b1-764f-4a71-8bf9-a94356ec4ded | Qualified Health PBC | Healthcare AI Solutions Engineer | Remote — US | 3.0/5 | PDF ✅
 
 ### 2026-05-16
 - [x] #849 | https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Applied AI Engineer – Agentic Workflows | San Francisco (also NY/Toronto/Montreal/London) | 3.4/5 | PDF ✅

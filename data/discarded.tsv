@@ -412,3 +412,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-17	843		orphan	orphan	0/5		reports\843-hippocratic-ai-palo-alto-fde-2026-05-16.md	
 2026-05-17	844		orphan	orphan	0/5		reports\844-mistral-ai-applied-ai-fde-luxembourg-2026-05-16.md	
 2026-05-17	845		orphan	orphan	0/5		reports\845-mistral-ai-applied-ai-fde-internship-2026-05-16.md	
+2026-05-17	852	2026-05-17	Nevis Wealth	Applied AI Engineer	2.5/5	Evaluated	reports/852-nevis-wealth-applied-ai-engineer-2026-05-17.md	[US] NYC on-site; 6-month stale posting; EU company no comp disclosed; SKIP
+2026-05-17	853	2026-05-17	Pulsora Inc	AI Engineer - United States	2.5/5	Evaluated	reports/853-pulsora-ai-engineer-2026-05-17.md	[US] Remote US; $50-60K far below $85K floor; 5yr experience gate; LangChain/RAG tech match strong; SKIP
