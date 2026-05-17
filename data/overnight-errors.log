@@ -797,3 +797,4 @@ Score table for the 3 surviving reports:
 | 855 | DevRev | SWE, Applied AI | 3.0/5 | ✅ | Intl — Philippines Remote; strong FDE/AI tech fit; F-1 OPT geography blocker |
 
 Two entries (#852 Nevis Wealth 2.5/5, #853 Pulsora 2.5/5) were hard-deleted by cleanup — stale/in-office and below-comp respectively. Both are in `data/discarded.tsv` for audit only.
+Processed 1 URL (US:1 + Intl:0), generated 1 PDF (#856 Wonderschool FDE Applied AI, 3.0/5), archived 0 low-score, pushed `84287b6`.
