@@ -798,3 +798,27 @@ Score table for the 3 surviving reports:
 
 Two entries (#852 Nevis Wealth 2.5/5, #853 Pulsora 2.5/5) were hard-deleted by cleanup — stale/in-office and below-comp respectively. Both are in `data/discarded.tsv` for audit only.
 Processed 1 URL (US:1 + Intl:0), generated 1 PDF (#856 Wonderschool FDE Applied AI, 3.0/5), archived 0 low-score, pushed `84287b6`.
+Processed 19 URLs (US:10 + Intl:9), generated 17 PDFs, deleted 2 low-score, pushed `9a511bb`.
+
+---
+
+**Tonight's results by track:**
+
+| # | Company | Role | Score | PDF | Track | Note |
+|---|---------|------|-------|-----|-------|------|
+| 857 | Adaptive ML | FDE AI Engineer | 4.0 | ✅ | US | NY hybrid; strong LLM+RAG match |
+| 863 | Mistral AI | Applied AI FDE | **4.2** | ✅ | US | **Palo Alto on-site; visa sponsorship confirmed** |
+| 866 | FurtherAI | FDE | **4.2** | ✅ | US | **YC W24; $120-180K; visa OK; agentic claims match** |
+| 859 | fastino.ai | AI Engineer | 3.8 | ✅ | US | Remote; SLM focus; good CV overlap |
+| 858 | Variance | FDE AI Engineer | 3.5 | ✅ | US | SF in-person; strong match |
+| 860 | Perplexity | FDE Applied AI | 3.5 | ✅ | US | NYC/SF 4d/wk; AI retrieval fit |
+| 864 | Agiloft | FDE AI Solutions | 3.5 | ✅ | US | Remote; contract AI delivery |
+| 861 | Workato | FDE | 3.0 | ✅ | US | Boston/NYC/PA hybrid; agentic focus |
+| 865 | Jobgether | FDE AI | 3.0 | ✅ | US | Undisclosed employer — verify liveness |
+| 872 | Mistral AI | Applied AI FDE | 3.8 | ✅ | Intl | Paris on-site; EU work auth needed |
+| 867 | Owkin | FDE | 3.5 | ✅ | Intl | Remote UK/DE/FR; biotech AI |
+| 868 | OpenAI | FDE Life Sciences | 3.5 | ✅ | Intl | Paris hybrid; EU work auth |
+| 869 | OpenAI | FDE Life Sciences | 3.5 | ✅ | Intl | London hybrid; EU/UK work auth |
+| 870–874 | Cohere/Mercura/Resilinc/Lorikeet×2 | FDE variants | 3.0 | ✅/✅/✅/✅ | Intl | Various geo + off-archetype flags |
+
+**Two immediate priorities:** #863 Mistral Palo Alto and #866 FurtherAI — both 4.2/5, both confirm visa sponsorship, both strong archetype matches. FurtherAI specifically maps to the Agentic Claims Processing project.
