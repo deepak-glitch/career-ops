@@ -31,6 +31,9 @@
 - [!] https://jobs.lever.co/agiloft/e85a0460-4a4c-48b4-a42e-0ff4f124d890 | Agiloft | Forward Deployed Engineer — AI Solutions | Remote (verify) — moved to Procesadas (#864) 2026-05-17 (3.5/5 PDF ✅; remote US; CLM/compliance maps to HIPAA AI; 3-6yr req)
 - [!] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer | United States — moved to Procesadas (#865) 2026-05-17 (3.0/5 PDF ✅; employer undisclosed; URL 404; verify before applying)
 - [!] https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer | Remote — US (verify) — moved to Procesadas (#866) 2026-05-17 (4.2/5 PDF ✅; PRIORITY: YC W24; visa sponsorship; $120-180K; insurance claims AI = agentic project match)
+<!-- Level 3 WebSearch overnight sweep — 2026-05-17 (overnight batch 3) -->
+- [!] https://jobs.lever.co/copilotkit/d134b481-f042-45b1-b908-dd38ff72fdd0 | CopilotKit | Forward Deployed Engineer | Seattle, WA — Remote-first — moved to Procesadas (#876) 2026-05-17 (3.3/5 PDF ✅; FDE archetype match; pre-sales gap; sponsorship unconfirmed; verify before applying)
+- [!] https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex Labs | Forward Deployed AI Engineer | New York City, NY — In-office 5d/wk — moved to Procesadas (#877) 2026-05-17 (3.0/5 PDF ✅; $180K base excellent; in-office NYC hard constraint; sponsorship unconfirmed; relocate + verify)
 
 ### 2026-05-16
 - [!] https://jobs.ashbyhq.com/assorthealth/694e3f5a-c777-4db9-9b62-3db952e629fd | Assort Health | Forward Deployed Engineer | San Francisco, CA (In-Office) — moved to Procesadas (#840) 2026-05-16 (3.4/5 PDF ✅; healthcare AI FDE; SF in-office relocation needed; strong domain match)
@@ -1324,6 +1327,8 @@
 - [x] #864 | https://jobs.lever.co/agiloft/e85a0460-4a4c-48b4-a42e-0ff4f124d890 | Agiloft | Forward Deployed Engineer — AI Solutions | Remote | 3.5/5 | PDF ✅
 - [x] #865 | https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer | United States | 3.0/5 | PDF ✅
 - [x] #866 | https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer | Remote — US | 4.2/5 | PDF ✅
+- [x] #876 | https://jobs.lever.co/copilotkit/d134b481-f042-45b1-b908-dd38ff72fdd0 | CopilotKit | Forward Deployed Engineer | Seattle, WA — Remote-first | 3.3/5 | PDF ✅
+- [x] #877 | https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex Labs | Forward Deployed AI Engineer | New York City, NY — In-office 5d/wk | 3.0/5 | PDF ✅
 
 ### 2026-05-16
 - [x] #849 | https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Applied AI Engineer – Agentic Workflows | San Francisco (also NY/Toronto/Montreal/London) | 3.4/5 | PDF ✅

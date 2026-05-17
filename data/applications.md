@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 876 | 2026-05-17 | CopilotKit | Forward Deployed Engineer | 3.3/5 | Evaluated | ✅ | [876](reports/876-copilotkit-fde-2026-05-17.md) | [US] FDE archetype match; pre-sales gap; sponsorship unconfirmed; Seattle remote-first; verify sponsorship before applying |
+| 877 | 2026-05-17 | Tenex Labs | Forward Deployed AI Engineer | 3.0/5 | Evaluated | ✅ | [877](reports/877-tenex-labs-fde-2026-05-17.md) | [US] NYC in-office 5d/wk hard constraint; $180K base strong; sponsorship unconfirmed; relocate + verify before applying |
+| 878 | 2026-05-17 | n8n | AI Workflow Automation Engineer | 3.2/5 | Evaluated | ✅ | [878](reports/878-n8n-ai-workflow-automation-engineer-2026-05-17.md) | [Intl] Germany remote; visa sponsorship available; LLM/RAG match strong; n8n-specific gap; EU comp below US target |
 | 857 | 2026-05-17 | Adaptive ML | Forward Deployed AI Engineer | 4.0/5 | Evaluated | ✅ | [857](reports/857-adaptive-ml-fde-ai-2026-05-17.md) | [US] RAG+agentic match; visa sponsorship unconfirmed; NY hybrid; posting may be stale (not on Himalayas active list) |
 | 859 | 2026-05-17 | fastino.ai | AI Engineer | 3.8/5 | Evaluated | ✅ | [859](reports/859-fastino-ai-engineer-2026-05-17.md) | [US] Remote; SLM/inference focus; Khosla/Microsoft backed; comp undisclosed; K8s gap; solid applied AI match |
 | 865 | 2026-05-17 | Jobgether (undisclosed) | Forward Deployed AI Engineer | 3.0/5 | Evaluated | ✅ | [865](reports/865-jobgether-fde-ai-2026-05-17.md) | [US] Remote; employer undisclosed; URL 404; verify liveness + employer before investing tailoring |
