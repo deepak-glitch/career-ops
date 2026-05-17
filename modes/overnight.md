@@ -76,7 +76,7 @@ Steps:
 
 3. **MERGE + VERIFY.** `node merge-tracker.mjs`, `node verify-pipeline.mjs`. The verifier should check BOTH pipelines (US + Intl); if it only checks one, run it twice with the path overridden, or check manually that both Pendientes/Procesadas sections are consistent. Must end with 0 errors / 0 warnings overall.
 
-4. **CLEANUP.** `node cleanup-low-scores.mjs` archives any score < 3.0 (from both tracks — reports/ is shared) to `reports/below-threshold/`.
+4. **CLEANUP — HARD RULE: DELETE scores < 3.0.** Run `node cleanup-low-scores.mjs`. This **DELETES** (does NOT archive) every artifact for evaluations with score < 3.0: report file, applications.md row, pipeline.md/intl-pipeline.md `- [x]` row, tracker-addition TSV, any stray PDF. The legacy `reports/below-threshold/` directory must remain empty. Only `data/discarded.tsv` retains a thin audit row.
 
 5. **(always to main) COMMIT + PUSH.** `git add -A`, commit with message `overnight: {ISO-timestamp} scan+pipeline+cleanup (+N reports, +M PDFs, US:{n_us} Intl:{n_intl})`, `git push origin main`. Retry push up to 4 times with exponential backoff (2s, 4s, 8s, 16s).
 

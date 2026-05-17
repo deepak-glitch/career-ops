@@ -55,7 +55,7 @@ Steps:
 
 3. MERGE + VERIFY. node merge-tracker.mjs, node verify-pipeline.mjs. Must be 0 errors / 0 warnings across both tracks.
 
-4. CLEANUP. node cleanup-low-scores.mjs to archive any score < 3.0 to reports/below-threshold/.
+4. CLEANUP. node cleanup-low-scores.mjs — HARD RULE: this DELETES every artifact (report file, applications.md row, pipeline.md/intl-pipeline.md `- [x]` row, tracker-addition TSV, any stray PDF) for evaluations with score < 3.0. The legacy reports/below-threshold/ directory must remain empty — NEVER archive low-score reports there. Only data/discarded.tsv retains a thin audit row (metadata only).
 
 5. (always to main) COMMIT + PUSH. git add -A, commit with message "overnight: {ISO-timestamp} scan+pipeline+cleanup (+N reports, +M PDFs, US:{n_us} Intl:{n_intl})", git push origin main. Retry push up to 4 times with exponential backoff (2s, 4s, 8s, 16s).
 

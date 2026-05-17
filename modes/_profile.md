@@ -156,7 +156,9 @@ output/
 
 Skip PDF only when score < 3.0 — those are explicit "don't apply" flags.
 
-## Your Below-Threshold Cleanup
+## Your Below-Threshold Cleanup — HARD RULE: DELETE, never archive
+
+**Scores < 3.0 must not be persisted anywhere.** This is binding for every mode (pipeline, auto-pipeline, overnight, batch). No exceptions.
 
 After every pipeline batch completes and tracker is merged, run:
 
@@ -164,13 +166,20 @@ After every pipeline batch completes and tracker is merged, run:
 node cleanup-low-scores.mjs
 ```
 
-This removes any evaluations scoring below 3.0 from the active tracker:
-- Row deleted from `data/applications.md`
-- Report moved to `reports/below-threshold/{same-filename}.md` (preserved for patterns analysis)
-- Any stray PDF is deleted (shouldn't exist per PDF policy, but defensive)
-- Action logged to `data/discarded.tsv` for audit
+This **DELETES** every artifact for any evaluation with score < 3.0:
+- Report file in `reports/` → **deleted** (NOT moved to `reports/below-threshold/`)
+- Row in `data/applications.md` → **deleted**
+- `- [x]` row in `data/pipeline.md` and `data/intl/pipeline.md` Procesadas → **deleted**
+- TSV in `batch/tracker-additions/` (incl. `merged/`) → **deleted**
+- Any stray PDF in `output/{date}/` or `output-intl/{date}/` → **deleted**
 
-Rationale: low-score roles clog the tracker and distract from high-priority apply work. Archiving (not deleting) keeps them available for `patterns` mode, which learns what archetype mismatches look like.
+The legacy `reports/below-threshold/` directory must remain **empty**. The script also cleans it if it exists.
+
+The only thing that survives is a thin audit row in `data/discarded.tsv` (metadata only: number, date, company, role, score — no JD content). This is purely for the user's audit trail; it is NOT consulted by any mode and is not a "job record".
+
+**Rationale:** the user explicitly required low-score jobs be removed everywhere — they clog the workspace, distract from real apply work, and create misleading "history". The old archive-to-subfolder behavior violated this rule.
+
+**Agent obligation in `overnight` / `pipeline` / `batch` modes:** after evaluating, ALWAYS run `node cleanup-low-scores.mjs` as a step BEFORE the commit. Do not commit any artifact whose report header shows `**Score:** < 3.0/5`.
 
 Use `node cleanup-low-scores.mjs --dry-run` to preview without applying.
 

@@ -390,3 +390,25 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-16	839	2026-05-16	Dash0	Forward Deployed Engineer - EMEA	1.8/5	Evaluated	reports/839-dash0-forward-deployed-engineer-emea-2026-05-16.md	[Intl] EMEA geo hard blocker (F-1 OPT); off-archetype (K8s/OTel observability); SKIP
 2026-05-16	841	2026-05-16	Fixify	Forward Deployed Engineer	2.8/5	SKIP	reports/841-fixify-forward-deployed-engineer-2026-05-16.md	[US] IT helpdesk domain mismatch; AI/ML depth underutilized; remote US is only positive; score below threshold
 2026-05-16	842	2026-05-16	Speechmatics	Forward Deployed Engineer	2.9/5	SKIP	reports/842-speechmatics-forward-deployed-engineer-2026-05-16.md	[US] Voice AI domain gap; SF hybrid relocation; DevRel angle off-archetype; sponsorship unconfirmed; $100-150K comp
+2026-05-17	092		orphan	orphan	0/5		reports\092-synthflow-ai-2026-04-22.md	
+2026-05-17	135		orphan	orphan	0/5		reports\135-vercel-ai-sdk-software-engineer-2026-04-24.md	
+2026-05-17	380		orphan	orphan	0/5		reports\380-happyrobot-founding-fde-australia-2026-05-01.md	
+2026-05-17	386		orphan	orphan	0/5		reports\386-talentpluto-fde-2026-05-01.md	
+2026-05-17	449		orphan	orphan	0/5		reports\449-anthropic-applied-ai-engineer-london-2026-05-03.md	
+2026-05-17	509		orphan	orphan	0/5		reports\509-scale-ai-fde-ai-engineer-enterprise-2026-05-04.md	
+2026-05-17	519		orphan	orphan	0/5		reports\519-boomi-fde-ai-2026-05-04.md	
+2026-05-17	590		orphan	orphan	0/5		reports\590-mistral-applied-ai-fullstack-emea-2026-05-06.md	
+2026-05-17	623		orphan	orphan	0/5		reports\623-glass-health-founding-product-engineer-2026-05-07.md	
+2026-05-17	650		orphan	orphan	0/5		reports\650-palantir-fdse-federal-health-civilian-2026-05-07.md	
+2026-05-17	689		orphan	orphan	0/5		reports\689-aircall-fde-seattle-2026-05-10.md	
+2026-05-17	690		orphan	orphan	0/5		reports\690-spruce-fullstack-newgrad-2026-05-10.md	
+2026-05-17	745		orphan	orphan	0/5		reports\745-modal-fde-ml-2026-05-14.md	
+2026-05-17	791		orphan	orphan	0/5		reports\791-langchain-principal-se-evals-2026-05-15.md	
+2026-05-17	794		orphan	orphan	0/5		reports\794-palantir-fde-warpspeed-2026-05-15.md	
+2026-05-17	795		orphan	orphan	0/5		reports\795-palantir-fde-usgov-2026-05-15.md	
+2026-05-17	804		orphan	orphan	0/5		reports\804-deepgram-presales-se-europe-2026-05-15.md	
+2026-05-17	805		orphan	orphan	0/5		reports\805-elevenlabs-ese-france-2026-05-15.md	
+2026-05-17	831		orphan	orphan	0/5		reports\831-elevenlabs-ese-spain-2026-05-15.md	
+2026-05-17	843		orphan	orphan	0/5		reports\843-hippocratic-ai-palo-alto-fde-2026-05-16.md	
+2026-05-17	844		orphan	orphan	0/5		reports\844-mistral-ai-applied-ai-fde-luxembourg-2026-05-16.md	
+2026-05-17	845		orphan	orphan	0/5		reports\845-mistral-ai-applied-ai-fde-internship-2026-05-16.md	
