@@ -7,6 +7,19 @@
 
 ## Pendientes
 
+### 2026-05-18
+<!-- Level 3 WebSearch overnight sweep — 2026-05-18 -->
+- [!] https://www.ycombinator.com/companies/clarion/jobs/mVHG3z1-forward-deployed-engineer | Clarion | Forward Deployed Engineer | Remote — US (verify) — moved to Procesadas (#878) 2026-05-18 (3.6/5 PDF ✅; YC W24 healthcare comm AI; voice agents 1:1; JD body unfetchable but corroborated)
+- [!] https://www.ycombinator.com/companies/paratus-health/jobs/lvkvIu2-forward-deployed-engineer | Paratus Health | Forward Deployed Engineer | Menlo Park, CA — moved to Procesadas (#877) 2026-05-18 (4.0/5 PDF ✅; healthcare voice AI; visa sponsored; $140-180K + 0.6-1% equity; archetype 1:1)
+- [!] https://www.ycombinator.com/companies/medplum/jobs/uXnVfEt-forward-deployed-engineer | Medplum | Forward Deployed Engineer | San Francisco, CA — moved to Procesadas (#879) 2026-05-18 (2.0/5 SKIP; "US citizen/visa only" hard blocker on F-1 OPT)
+- [!] https://jobs.ashbyhq.com/decagon/6660ae61-ae18-4b67-9cc2-6fb9ed0c088e | Decagon | Applied AI Engineer | Remote — US — error: Ashby GraphQL returned CLOSED/MISSING on 2026-05-18; archived
+- [!] https://jobs.ashbyhq.com/tandem/09564102-1713-4941-bbd5-77eaac9ca88e | Forus (Ashby slug "tandem") | Applied AI Engineer | New York City — In-person 5d/wk — moved to Procesadas (#875) 2026-05-18 (3.4/5 PDF ✅; pharma access AI-native; $170-300K + equity; visa unstated)
+- [!] https://jobs.ashbyhq.com/gradient/1005abd1-db4a-4b0e-b898-1f804236aeda | Gradient | Applied AI Engineer | Remote — US — error: Ashby GraphQL returned CLOSED/MISSING on 2026-05-18; archived
+- [!] https://jobs.ashbyhq.com/rillet/fa5a733f-84aa-41af-8b4d-0b5be16d1e64 | Rillet | Applied AI Engineer | NYC / SF — Hybrid 3d/wk — moved to Procesadas (#876) 2026-05-18 (4.0/5 PDF ✅; AI-native ERP RAG+agentic 1:1; $180-240K + equity; relocate)
+- [!] https://himalayas.app/companies/automattic/jobs/forward-deployed-engineer | Automattic | Forward Deployed Engineer (WordPress VIP) | Remote — Worldwide — filter slip: explicit 5+ years (Senior gate); WordPress/PHP domain off-archetype; skipped
+- [!] https://himalayas.app/companies/openai/jobs/platform-engineer-forward-deployed-engineering-fde-nyc | OpenAI | Platform Engineer, FDE — NYC | New York City — filter slip: explicit 5+ years (Senior gate per profile filter); skipped
+- [!] https://himalayas.app/companies/addepar/jobs/forward-deployed-engineer | Addepar | Forward Deployed Engineer | Remote — US — moved to Procesadas (#880) 2026-05-18 (2.0/5 SKIP; "H-1B not sponsored" hard blocker on F-1 OPT)
+
 ### 2026-05-17
 <!-- Level 3 WebSearch overnight sweep — 2026-05-17 -->
 - [!] https://jobs.ashbyhq.com/aim4hire/46530da4-9402-4b6e-8899-b30717127e82 | Aim4Hire | ML Engineer | Remote — US — error: Ashby board empty (posting closed as of 2026-05-17); archived
@@ -961,6 +974,12 @@
 - [!] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer (different ID from #166) | error: posting closed (Lever API 404 on 2026-04-26); archived
 
 ## Procesadas
+
+### 2026-05-18
+- [x] #875 | https://jobs.ashbyhq.com/tandem/09564102-1713-4941-bbd5-77eaac9ca88e | Forus | Applied AI Engineer | New York City — In-person 5d/wk | 3.4/5 | PDF ✅
+- [x] #876 | https://jobs.ashbyhq.com/rillet/fa5a733f-84aa-41af-8b4d-0b5be16d1e64 | Rillet | Applied AI Engineer | NYC / SF — Hybrid 3d/wk | 4.0/5 | PDF ✅
+- [x] #877 | https://www.ycombinator.com/companies/paratus-health/jobs/lvkvIu2-forward-deployed-engineer | Paratus Health | Forward Deployed Engineer | Menlo Park, CA | 4.0/5 | PDF ✅
+- [x] #878 | https://www.ycombinator.com/companies/clarion/jobs/mVHG3z1-forward-deployed-engineer | Clarion | Forward Deployed Engineer | Remote — US (verify) | 3.6/5 | PDF ✅
 
 ### 2026-05-17
 - [x] #851 | https://jobs.ashbyhq.com/hackerone/9721a4c7-ff1e-47ca-a89e-97688ebff96c | HackerOne | Software Engineer, Applied AI | Seattle WA — Hybrid 1d/wk | 3.0/5 | PDF ✅

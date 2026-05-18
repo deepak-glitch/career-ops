@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 875 | 2026-05-18 | Forus | Applied AI Engineer | 3.4/5 | Evaluated | ✅ | [875](reports/875-forus-applied-ai-engineer-2026-05-18.md) | [US] NYC SoHo 5d/wk in-person; $170-300K + equity; pharma access AI-native; visa unstated; archetype 1:1 |
+| 876 | 2026-05-18 | Rillet | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [876](reports/876-rillet-applied-ai-engineer-2026-05-18.md) | [US] NYC/SF hybrid 3d/wk; $180-240K + equity; AI-native ERP RAG+agentic 1:1; relocate; visa unstated |
+| 877 | 2026-05-18 | Paratus Health | Forward Deployed Engineer | 4.0/5 | Evaluated | ✅ | [877](reports/877-paratus-health-fde-2026-05-18.md) | [US] Menlo Park CA on-site; $140-180K + 0.6-1.0% equity; voice AI healthcare; visa sponsored; archetype 1:1 |
+| 878 | 2026-05-18 | Clarion | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [878](reports/878-clarion-fde-2026-05-18.md) | [US] YC W24 healthcare comm AI; remote/SF/NYC hybrid (verify); voice agents 1:1; visa unconfirmed |
 | 857 | 2026-05-17 | Adaptive ML | Forward Deployed AI Engineer | 4.0/5 | Evaluated | ✅ | [857](reports/857-adaptive-ml-fde-ai-2026-05-17.md) | [US] RAG+agentic match; visa sponsorship unconfirmed; NY hybrid; posting may be stale (not on Himalayas active list) |
 | 859 | 2026-05-17 | fastino.ai | AI Engineer | 3.8/5 | Evaluated | ✅ | [859](reports/859-fastino-ai-engineer-2026-05-17.md) | [US] Remote; SLM/inference focus; Khosla/Microsoft backed; comp undisclosed; K8s gap; solid applied AI match |
 | 865 | 2026-05-17 | Jobgether (undisclosed) | Forward Deployed AI Engineer | 3.0/5 | Evaluated | ✅ | [865](reports/865-jobgether-fde-ai-2026-05-17.md) | [US] Remote; employer undisclosed; URL 404; verify liveness + employer before investing tailoring |
