@@ -18,6 +18,11 @@
 <!-- Level 3 WebSearch overnight sweep — 2026-05-18 -->
 - [!] https://apply.workable.com/sidetrade/j/00A24913FD/ | Sidetrade | AI Engineer | Paris/Birmingham/Calgary tech hubs — Hybrid — moved to Procesadas (#884) 2026-05-18 (3.0/5 PDF ✅; agentic B2B AI Aimie; F-1 OPT geo blocker; verify location+sponsorship)
 - [!] https://apply.workable.com/boardofinnovation/j/50EB96733C | Board of Innovation | AI Engineer | Antwerp/Lisbon — Hybrid — moved to Procesadas (#885) 2026-05-18 (3.0/5 PDF ✅; AI transformation consultancy; ING/Nestlé/Walmart/GSK clients; F-1 OPT geo blocker; verify location+sponsorship)
+<!-- Level 3 WebSearch overnight sweep — 2026-05-18 (PM run) -->
+- [!] https://jobs.ashbyhq.com/relay/0b645cf4-3c04-41e5-a610-c46544b5cec6 | Relay Technologies | Forward Deployed Engineer | London — On-site — moved to Procesadas (#891) 2026-05-18 (3.0/5 PDF ✅; logistics/e-comm + ML/LLM inference daily; $35M Plural Series A; F-1 OPT UK relocation hard blocker)
+- [!] https://job-boards.greenhouse.io/axiomaticai/jobs/4720346101 | Axiomatic AI | Applied AI Engineer | Barcelona / Boston / Remote — moved to Procesadas (#892) 2026-05-18 (3.4/5 PDF ✅; stack 1:1 LangChain+PydanticAI+RAG+FastAPI+Docker; Boston option viable for US F-1 OPT; visa indicate-if-required)
+- [!] https://jobs.ashbyhq.com/truelogic/02ce1aae-f344-4e10-9b47-956ad5a51714 | Truelogic | Forward Deployed Engineer (AI-native) | Bogotá, Colombia — moved to Procesadas (#893) 2026-05-18 (3.0/5 PDF ✅; AI agents + FDE archetype; F-1 OPT Colombian work auth structural blocker; apply only if US-remote variant)
+- [!] https://jobs.ashbyhq.com/truelogic/cee25dcf-9a7f-474b-9724-abb510bc3968 | Truelogic | Forward Deployed Engineer (FDE) - Technology | São Paulo, Brazil — moved to Procesadas (#894) 2026-05-18 (3.0/5 PDF ✅; AI codegen agent client "Autonomy"; F-1 OPT Brazilian work auth structural blocker; apply only if US-remote variant)
 
 ### 2026-05-17
 - [!] https://job-boards.greenhouse.io/devrev/jobs/5722574004 | DevRev | Software Engineer, Applied AI | Philippines Remote — rerouted from US track, moved to Procesadas (#855) 2026-05-17 (3.0/5 PDF ✅; Philippines remote + F-1 OPT work auth blocks geography)
@@ -66,6 +71,10 @@
 ### 2026-05-18
 - [x] #884 | https://apply.workable.com/sidetrade/j/00A24913FD/ | Sidetrade | AI Engineer | Paris/Birmingham/Calgary — Hybrid | 3.0/5 | PDF ✅
 - [x] #885 | https://apply.workable.com/boardofinnovation/j/50EB96733C | Board of Innovation | AI Engineer | Antwerp/Lisbon — Hybrid | 3.0/5 | PDF ✅
+- [x] #891 | https://jobs.ashbyhq.com/relay/0b645cf4-3c04-41e5-a610-c46544b5cec6 | Relay Technologies | Forward Deployed Engineer | London — On-site | 3.0/5 | PDF ✅
+- [x] #892 | https://job-boards.greenhouse.io/axiomaticai/jobs/4720346101 | Axiomatic AI | Applied AI Engineer | Barcelona / Boston / Remote | 3.4/5 | PDF ✅
+- [x] #893 | https://jobs.ashbyhq.com/truelogic/02ce1aae-f344-4e10-9b47-956ad5a51714 | Truelogic | Forward Deployed Engineer (AI-native) | Bogotá, Colombia | 3.0/5 | PDF ✅
+- [x] #894 | https://jobs.ashbyhq.com/truelogic/cee25dcf-9a7f-474b-9724-abb510bc3968 | Truelogic | Forward Deployed Engineer (FDE) - Technology | São Paulo, Brazil | 3.0/5 | PDF ✅
 
 ### 2026-05-17
 - [x] #855 | https://job-boards.greenhouse.io/devrev/jobs/5722574004 | DevRev | Software Engineer, Applied AI | Philippines Remote | 3.0/5 | PDF ✅

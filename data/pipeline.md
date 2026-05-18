@@ -20,6 +20,15 @@
 - [!] https://jobs.ashbyhq.com/lotushealth/1d89d1ed-ed4d-448c-82e4-234124cadc31 | Lotus Health AI | AI Engineer | San Francisco — OnSite 5d/wk — moved to Procesadas (#881) 2026-05-18 (3.5/5 PDF ✅; consumer healthcare AI; KP/CRV backed; clinical RAG+agents+voice/video; comp + visa unstated)
 - [!] https://jobs.ashbyhq.com/Commure/7d4ec84a-9fdc-4238-81e7-8f666836006e | Commure | Software Engineer, Applied AI | Mountain View, CA — moved to Procesadas (#882) 2026-05-18 (3.8/5 PDF ✅; ambient AI healthcare; $130-180K + equity; GC/Sequoia/YC; visa unstated)
 - [!] https://himalayas.app/companies/scaled-cognition/jobs/forward-deployed-engineer | Scaled Cognition | Forward Deployed Engineer | Mountain View, CA (verify) — moved to Procesadas (#883) 2026-05-18 (3.2/5 PDF ✅; AI agents enterprise workflows; JD body partial; verify comp+visa before applying)
+<!-- Level 3 WebSearch overnight sweep — 2026-05-18 (PM run) -->
+- [!] https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a | Northslope Technologies | Forward Deployed Software Engineer, New Grad | New York / London — Hybrid — moved to Procesadas (#886) 2026-05-18 (4.2/5 PDF ✅; explicit 2025/2026 grad gate; $135-155K + equity; archetype 1:1; visa unstated; priority apply if NY-based)
+- [!] https://jobs.ashbyhq.com/gecko-robotics/1ae83c3f-565a-48c9-85f7-55ab1c75593d | Gecko Robotics | Forward Deployed Engineer | NYC / DC / Boston / Houston / Pittsburgh — moved to Procesadas (#887) 2026-05-18 (3.2/5 PDF ✅; $140-245K; 5d/wk office-first; critical infrastructure/energy off-archetype; 3+y stretch)
+- [!] https://job-boards.greenhouse.io/splitero/jobs/5162723008 | Splitero | Applied AI Engineer | Remote — US — filter slip: explicit 6+ years required (Senior gate); skipped
+- [!] https://job-boards.greenhouse.io/deepintent/jobs/5979052004 | DeepIntent | Applied AI Engineer | New York, NY — moved to Procesadas (#888) 2026-05-18 (3.4/5 PDF ✅; $110-150K + bonus; 2+y mid; healthcare ad-tech; OpenAI+Anthropic+MCP+agents stack 1:1; RPA-to-AI angle)
+- [!] https://job-boards.greenhouse.io/humanagency/jobs/7645002003 | Human Agency | Applied AI Engineer | Remote — US/Canada — filter slip: no visa sponsorship hard block + mid-senior "proven track record"; skipped
+- [!] https://job-boards.greenhouse.io/canopyconnect/jobs/5688534004 | Canopy Connect | Forward Deployed Engineer | Remote — US/Canada — filter slip: no visa sponsorship hard block + 3-5y + non-AI Node/React/Postgres stack; skipped
+- [!] https://jobs.ashbyhq.com/qualified-health-pbc/88dc8b6a-8aaf-4f0a-8c1a-a0249d647dd4 | Qualified Health PBC | Forward Deployed Engineer, Epic Specialist | Remote — US (up to 30% travel) — moved to Procesadas (#889) 2026-05-18 (3.1/5 PDF ✅; Epic implementation experience gate Deepak doesn't meet; FHIR/CDS Hooks gap; QH already has #854 closer fit)
+- [!] https://jobs.ashbyhq.com/lorikeet/a00d35af-2d47-4ed6-8d99-2cb1fb86e44f | Lorikeet | Forward Deployed Engineer | Remote — US — moved to Procesadas (#890) 2026-05-18 (3.6/5 PDF ✅; US Remote; healthtech vertical 1:1; $50M+ raised; "curiosity about AI" friendly framing; comp opaque)
 
 ### 2026-05-17
 <!-- Level 3 WebSearch overnight sweep — 2026-05-17 -->
@@ -308,7 +317,6 @@
 - [!] https://remotive.com/remote/jobs/ai-ml/applied-ai-engineer-agent-intelligence-retrieval-3227287 | Littlebird | Applied AI Engineer - Agent Intelligence & Retrieval | Remote-US — moved to Procesadas (#561) 2026-05-05 (3.5/5 — RAG hybrid search BM25+vector+RRF+re-ranker + agent logic 1:1 fit; consumer AI personal-thought-partner; Remotive HTTP 410 direct + corroborated via Web search + littlebird.ai/careers; comp/sponsorship verify in screen; PDF generated)
 
 ### 2026-05-04
-
 <!-- Overnight 2026-05-04 batch — Level 3 WebSearch additions (Greenhouse + Ashby + Lever + small-ATS) -->
 - [!] https://job-boards.greenhouse.io/gleanwork/jobs/4632997005 | Glean | Machine Learning Engineer, Enterprise Brain | San Francisco Bay Area (Palo Alto/SF) — Hybrid 4d/wk — moved to Procesadas (#482) 2026-05-04 (3.6/5 — Mid IC ML/LLM stack 1:1; 3+yr ~stretch on 2.5y; SF/Palo Alto Hybrid 4d relocation friction; comp $200-300K; PDF generated)
 - [!] https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality | San Francisco Bay Area — Hybrid 3-4d/wk — moved to Procesadas (#483) 2026-05-04 (3.8/5 — best Glean role for Deepak today; 2+yr fits; signal invention + ranking + LLM domain adaptation; comp $140-265K; PDF generated)
@@ -570,6 +578,11 @@
 - [x] #881 | https://jobs.ashbyhq.com/lotushealth/1d89d1ed-ed4d-448c-82e4-234124cadc31 | Lotus Health AI | AI Engineer | San Francisco — OnSite 5d/wk | 3.5/5 | PDF ✅
 - [x] #882 | https://jobs.ashbyhq.com/Commure/7d4ec84a-9fdc-4238-81e7-8f666836006e | Commure | Software Engineer, Applied AI | Mountain View, CA | 3.8/5 | PDF ✅
 - [x] #883 | https://himalayas.app/companies/scaled-cognition/jobs/forward-deployed-engineer | Scaled Cognition | Forward Deployed Engineer | Mountain View, CA (verify) | 3.2/5 | PDF ✅
+- [x] #886 | https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a | Northslope Technologies | Forward Deployed Software Engineer, New Grad | New York / London — Hybrid | 4.2/5 | PDF ✅
+- [x] #887 | https://jobs.ashbyhq.com/gecko-robotics/1ae83c3f-565a-48c9-85f7-55ab1c75593d | Gecko Robotics | Forward Deployed Engineer | NYC / DC / Boston / Houston / Pittsburgh — 5d/wk office | 3.2/5 | PDF ✅
+- [x] #888 | https://job-boards.greenhouse.io/deepintent/jobs/5979052004 | DeepIntent | Applied AI Engineer | New York, NY — ET | 3.4/5 | PDF ✅
+- [x] #889 | https://jobs.ashbyhq.com/qualified-health-pbc/88dc8b6a-8aaf-4f0a-8c1a-a0249d647dd4 | Qualified Health PBC | Forward Deployed Engineer, Epic Specialist | Remote — US (up to 30% travel) | 3.1/5 | PDF ✅
+- [x] #890 | https://jobs.ashbyhq.com/lorikeet/a00d35af-2d47-4ed6-8d99-2cb1fb86e44f | Lorikeet | Forward Deployed Engineer (US) | Remote — US | 3.6/5 | PDF ✅
 
 ### 2026-05-17
 - [x] #851 | https://jobs.ashbyhq.com/hackerone/9721a4c7-ff1e-47ca-a89e-97688ebff96c | HackerOne | Software Engineer, Applied AI | Seattle WA — Hybrid 1d/wk | 3.0/5 | PDF ✅
