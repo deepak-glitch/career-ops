@@ -19,6 +19,9 @@
 - [!] https://himalayas.app/companies/automattic/jobs/forward-deployed-engineer | Automattic | Forward Deployed Engineer (WordPress VIP) | Remote — Worldwide — filter slip: explicit 5+ years (Senior gate); WordPress/PHP domain off-archetype; skipped
 - [!] https://himalayas.app/companies/openai/jobs/platform-engineer-forward-deployed-engineering-fde-nyc | OpenAI | Platform Engineer, FDE — NYC | New York City — filter slip: explicit 5+ years (Senior gate per profile filter); skipped
 - [!] https://himalayas.app/companies/addepar/jobs/forward-deployed-engineer | Addepar | Forward Deployed Engineer | Remote — US — moved to Procesadas (#880) 2026-05-18 (2.0/5 SKIP; "H-1B not sponsored" hard blocker on F-1 OPT)
+- [!] https://jobs.ashbyhq.com/lotushealth/1d89d1ed-ed4d-448c-82e4-234124cadc31 | Lotus Health AI | AI Engineer | San Francisco — OnSite 5d/wk — moved to Procesadas (#881) 2026-05-18 (3.5/5 PDF ✅; consumer healthcare AI; KP/CRV backed; clinical RAG+agents+voice/video; comp + visa unstated)
+- [!] https://jobs.ashbyhq.com/Commure/7d4ec84a-9fdc-4238-81e7-8f666836006e | Commure | Software Engineer, Applied AI | Mountain View, CA — moved to Procesadas (#882) 2026-05-18 (3.8/5 PDF ✅; ambient AI healthcare; $130-180K + equity; GC/Sequoia/YC; visa unstated)
+- [!] https://himalayas.app/companies/scaled-cognition/jobs/forward-deployed-engineer | Scaled Cognition | Forward Deployed Engineer | Mountain View, CA (verify) — moved to Procesadas (#883) 2026-05-18 (3.2/5 PDF ✅; AI agents enterprise workflows; JD body partial; verify comp+visa before applying)
 
 ### 2026-05-17
 <!-- Level 3 WebSearch overnight sweep — 2026-05-17 -->
@@ -980,6 +983,9 @@
 - [x] #876 | https://jobs.ashbyhq.com/rillet/fa5a733f-84aa-41af-8b4d-0b5be16d1e64 | Rillet | Applied AI Engineer | NYC / SF — Hybrid 3d/wk | 4.0/5 | PDF ✅
 - [x] #877 | https://www.ycombinator.com/companies/paratus-health/jobs/lvkvIu2-forward-deployed-engineer | Paratus Health | Forward Deployed Engineer | Menlo Park, CA | 4.0/5 | PDF ✅
 - [x] #878 | https://www.ycombinator.com/companies/clarion/jobs/mVHG3z1-forward-deployed-engineer | Clarion | Forward Deployed Engineer | Remote — US (verify) | 3.6/5 | PDF ✅
+- [x] #881 | https://jobs.ashbyhq.com/lotushealth/1d89d1ed-ed4d-448c-82e4-234124cadc31 | Lotus Health AI | AI Engineer | San Francisco — OnSite 5d/wk | 3.5/5 | PDF ✅
+- [x] #882 | https://jobs.ashbyhq.com/Commure/7d4ec84a-9fdc-4238-81e7-8f666836006e | Commure | Software Engineer, Applied AI | Mountain View, CA | 3.8/5 | PDF ✅
+- [x] #883 | https://himalayas.app/companies/scaled-cognition/jobs/forward-deployed-engineer | Scaled Cognition | Forward Deployed Engineer | Mountain View, CA (verify) | 3.2/5 | PDF ✅
 
 ### 2026-05-17
 - [x] #851 | https://jobs.ashbyhq.com/hackerone/9721a4c7-ff1e-47ca-a89e-97688ebff96c | HackerOne | Software Engineer, Applied AI | Seattle WA — Hybrid 1d/wk | 3.0/5 | PDF ✅

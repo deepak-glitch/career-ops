@@ -14,6 +14,11 @@
 
 ## Pendientes
 
+### 2026-05-18
+<!-- Level 3 WebSearch overnight sweep — 2026-05-18 -->
+- [!] https://apply.workable.com/sidetrade/j/00A24913FD/ | Sidetrade | AI Engineer | Paris/Birmingham/Calgary tech hubs — Hybrid — moved to Procesadas (#884) 2026-05-18 (3.0/5 PDF ✅; agentic B2B AI Aimie; F-1 OPT geo blocker; verify location+sponsorship)
+- [!] https://apply.workable.com/boardofinnovation/j/50EB96733C | Board of Innovation | AI Engineer | Antwerp/Lisbon — Hybrid — moved to Procesadas (#885) 2026-05-18 (3.0/5 PDF ✅; AI transformation consultancy; ING/Nestlé/Walmart/GSK clients; F-1 OPT geo blocker; verify location+sponsorship)
+
 ### 2026-05-17
 - [!] https://job-boards.greenhouse.io/devrev/jobs/5722574004 | DevRev | Software Engineer, Applied AI | Philippines Remote — rerouted from US track, moved to Procesadas (#855) 2026-05-17 (3.0/5 PDF ✅; Philippines remote + F-1 OPT work auth blocks geography)
 <!-- Level 3 WebSearch overnight sweep — 2026-05-17 (overnight batch 2) -->
@@ -57,6 +62,10 @@
 <!-- moved to Procesadas: OpenAI AI Deployment Engineer Startups Singapore #727 -->
 
 ## Procesadas
+
+### 2026-05-18
+- [x] #884 | https://apply.workable.com/sidetrade/j/00A24913FD/ | Sidetrade | AI Engineer | Paris/Birmingham/Calgary — Hybrid | 3.0/5 | PDF ✅
+- [x] #885 | https://apply.workable.com/boardofinnovation/j/50EB96733C | Board of Innovation | AI Engineer | Antwerp/Lisbon — Hybrid | 3.0/5 | PDF ✅
 
 ### 2026-05-17
 - [x] #855 | https://job-boards.greenhouse.io/devrev/jobs/5722574004 | DevRev | Software Engineer, Applied AI | Philippines Remote | 3.0/5 | PDF ✅

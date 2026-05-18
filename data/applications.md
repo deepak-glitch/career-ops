@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 881 | 2026-05-18 | Lotus Health AI | AI Engineer | 3.5/5 | Evaluated | ✅ | [881](reports/881-lotus-health-ai-engineer-2026-05-18.md) | [US] SF in-person; healthcare consumer AI; KP/CRV backed; clinical RAG+agents+voice/video; comp undisclosed; visa unstated |
+| 882 | 2026-05-18 | Commure | Software Engineer, Applied AI | 3.8/5 | Evaluated | ✅ | [882](reports/882-commure-applied-ai-2026-05-18.md) | [US] Mountain View; $130-180K + equity; ambient AI healthcare; Python/JS/React/Flutter/Flask; GC/Sequoia/YC; visa unstated |
+| 883 | 2026-05-18 | Scaled Cognition | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [883](reports/883-scaled-cognition-fde-2026-05-18.md) | [US] Mountain View; AI agents for enterprise workflows; JD body not fully extracted; verify liveness + comp + visa before applying |
+| 884 | 2026-05-18 | Sidetrade | AI Engineer | 3.0/5 | Evaluated | ✅ | [884](reports/884-sidetrade-ai-engineer-2026-05-18.md) | [Intl] Paris/Birmingham/Calgary tech hubs; agentic B2B AI ("Aimie"); F-1 OPT geo blocker; verify location+sponsorship |
+| 885 | 2026-05-18 | Board of Innovation | AI Engineer | 3.0/5 | Evaluated | ✅ | [885](reports/885-board-of-innovation-ai-2026-05-18.md) | [Intl] Antwerp/Lisbon AI transformation consultancy; ING/Nestlé/Walmart/GSK clients; F-1 OPT geo blocker; verify location+sponsorship |
 | 875 | 2026-05-18 | Forus | Applied AI Engineer | 3.4/5 | Evaluated | ✅ | [875](reports/875-forus-applied-ai-engineer-2026-05-18.md) | [US] NYC SoHo 5d/wk in-person; $170-300K + equity; pharma access AI-native; visa unstated; archetype 1:1 |
 | 876 | 2026-05-18 | Rillet | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [876](reports/876-rillet-applied-ai-engineer-2026-05-18.md) | [US] NYC/SF hybrid 3d/wk; $180-240K + equity; AI-native ERP RAG+agentic 1:1; relocate; visa unstated |
 | 877 | 2026-05-18 | Paratus Health | Forward Deployed Engineer | 4.0/5 | Evaluated | ✅ | [877](reports/877-paratus-health-fde-2026-05-18.md) | [US] Menlo Park CA on-site; $140-180K + 0.6-1.0% equity; voice AI healthcare; visa sponsored; archetype 1:1 |
