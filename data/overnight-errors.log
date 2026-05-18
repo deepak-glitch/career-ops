@@ -822,3 +822,19 @@ Processed 19 URLs (US:10 + Intl:9), generated 17 PDFs, deleted 2 low-score, push
 | 870–874 | Cohere/Mercura/Resilinc/Lorikeet×2 | FDE variants | 3.0 | ✅/✅/✅/✅ | Intl | Various geo + off-archetype flags |
 
 **Two immediate priorities:** #863 Mistral Palo Alto and #866 FurtherAI — both 4.2/5, both confirm visa sponsorship, both strong archetype matches. FurtherAI specifically maps to the Agentic Claims Processing project.
+Processed 10 URLs (US:10 + Intl:0), generated 4 PDFs, archived 2 low-score, pushed d6180b7.
+
+**Per-track summary:**
+
+| # | Company | Role | Score | PDF | Region | Notes |
+|---|---|---|---|---|---|---|
+| 875 | Forus (Ashby slug `tandem`) | Applied AI Engineer | 3.4 | ✅ | US | NYC 5d/wk in-person, $170-300K + equity, pharma-access AI-native, visa unstated |
+| 876 | Rillet | Applied AI Engineer | 4.0 | ✅ | US | NYC/SF hybrid 3d/wk, $180-240K + equity, AI-native ERP RAG+agentic 1:1 |
+| 877 | Paratus Health | Forward Deployed Engineer | 4.0 | ✅ | US | Menlo Park CA, $140-180K + 0.6-1.0% equity, voice AI healthcare, **visa sponsored** |
+| 878 | Clarion (YC W24) | Forward Deployed Engineer | 3.6 | ✅ | US | Healthcare comm AI (calls/scheduling/billing), JD body unfetchable but corroborated |
+| 879 | Medplum | FDE | 2.0 | ❌ | US | DELETED — "US citizen/visa only" hard blocker |
+| 880 | Addepar | FDE | 2.0 | ❌ | US | DELETED — "H-1B not sponsored" hard blocker |
+
+Filter slips / closed (no reports written): Automattic (5+y senior gate), OpenAI Platform FDE NYC (5+y senior gate), Decagon (Ashby closed), Gradient (Ashby closed).
+
+Intl track: scans returned 0 new offers; Level 3 yielded no fresh non-US candidates that passed senior-filter or weren't already in scan-history.
