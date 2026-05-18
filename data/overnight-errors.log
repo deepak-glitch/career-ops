@@ -838,3 +838,19 @@ Processed 10 URLs (US:10 + Intl:0), generated 4 PDFs, archived 2 low-score, push
 Filter slips / closed (no reports written): Automattic (5+y senior gate), OpenAI Platform FDE NYC (5+y senior gate), Decagon (Ashby closed), Gradient (Ashby closed).
 
 Intl track: scans returned 0 new offers; Level 3 yielded no fresh non-US candidates that passed senior-filter or weren't already in scan-history.
+Processed 5 URLs (US:3 + Intl:2), generated 5 PDFs, archived 0 low-score, pushed d72c1da.
+
+Per-track score table:
+
+| # | Track | Company | Role | Score | PDF |
+|---|---|---|---|---|---|
+| 881 | US | Lotus Health AI | AI Engineer (SF onsite) | 3.5/5 | ✅ |
+| 882 | US | Commure | Software Engineer, Applied AI (Mountain View, $130-180K) | 3.8/5 | ✅ |
+| 883 | US | Scaled Cognition | Forward Deployed Engineer (Mountain View, JD partial) | 3.2/5 | ✅ |
+| 884 | Intl | Sidetrade | AI Engineer (Paris/Birmingham/Calgary) | 3.0/5 | ✅ |
+| 885 | Intl | Board of Innovation | AI Engineer (Antwerp/Lisbon) | 3.0/5 | ✅ |
+
+Notes:
+- `scan.mjs` and `scan.mjs --intl` both returned 0 new offers (5259 jobs/portal, all filtered or dup).
+- Level 3 WebSearch surfaced many candidates, but the majority were already in `data/applications.md` (Anthropic #819, Warp #821, OneStream #820, Cresta Senior #329, Synthflow #49/#193, Quora #7, Arlo #236, Percepta #588, Hippocratic Akron #657, etc.). Only the 5 above were genuinely new.
+- Verifier: 0 errors / 0 warnings across both tracks. Cleanup-low-scores deleted nothing (all 5 scored ≥ 3.0).
