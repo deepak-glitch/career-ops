@@ -854,3 +854,4 @@ Notes:
 - `scan.mjs` and `scan.mjs --intl` both returned 0 new offers (5259 jobs/portal, all filtered or dup).
 - Level 3 WebSearch surfaced many candidates, but the majority were already in `data/applications.md` (Anthropic #819, Warp #821, OneStream #820, Cresta Senior #329, Synthflow #49/#193, Quora #7, Arlo #236, Percepta #588, Hippocratic Akron #657, etc.). Only the 5 above were genuinely new.
 - Verifier: 0 errors / 0 warnings across both tracks. Cleanup-low-scores deleted nothing (all 5 scored ≥ 3.0).
+Processed 7 URLs (US:2 + Intl:5), generated 3 PDFs, archived 2 low-score, pushed 88684e2.
