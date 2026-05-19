@@ -573,10 +573,15 @@
 - [!] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco (USA) -- moved to Procesadas (#895) 2026-05-19 (3.4/5 PDF OK; FLUX/diffusion frontier lab; SD+LoRA+ControlNet Pixel project direct proof; SF hybrid 2d/wk + relocation; sponsorship unstated)
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-19 -->
 - [!] https://job-boards.greenhouse.io/edisonscientific/jobs/4984032007 | Edison Scientific | AI Engineer - Forward Deployed | San Francisco (USA) -- moved to Procesadas (#896) 2026-05-19 (3.3/5 PDF OK; FDE 1:1; 4+y floor stretch; life-sci adjacent via healthcare; SF + client embed travel; sponsorship asked not committed)
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (late AM run) -->
+- [!] https://builtin.com/job/ai-engineer/8052132 | daydream | AI Engineer | San Francisco -- In-Office 5d/wk -- moved to Procesadas (#899) 2026-05-19 (3.0/5 PDF OK; AI-native SEO platform; $180-220K base mid-level; Python+TS+C# stack; GCP; F-1 OPT relocation + visa unstated)
+- [!] https://job-boards.greenhouse.io/alphafmcroles/jobs/8521640002 | Alpha Financial Markets Consulting | Forward Deployed Engineer (AI) | United States (EST timezone) -- filter slip: 5+ years Python/SQL + Senior/Lead level; skipped
+- [!] https://jobs.spacetalent.org/companies/defense-unicorns/jobs/78089309-forward-deployed-ai-engineer | Defense Unicorns | Forward Deployed AI Engineer | Springfield, VA -- Remote (US) -- filter slip: hard blocker US citizenship + active clearance required (F-1 OPT incompatible); skipped
 
 ## Procesadas
 
 ### 2026-05-19
+- [x] #899 | https://builtin.com/job/ai-engineer/8052132 | daydream | AI Engineer | San Francisco -- In-Office 5d/wk | 3.0/5 | PDF OK
 - [x] #895 | https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco, CA -- Hybrid 2+d/wk | 3.4/5 | PDF OK
 - [x] #896 | https://job-boards.greenhouse.io/edisonscientific/jobs/4984032007 | Edison Scientific | AI Engineer - Forward Deployed | San Francisco, CA -- on-site + client embed travel | 3.3/5 | PDF OK
 

@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 899 | 2026-05-19 | daydream | AI Engineer | 3.0/5 | Evaluated | ✅ | [899](reports/899-daydream-ai-engineer-2026-05-19.md) | [US] SF In-Office 5d/wk; AI-native SEO platform; $180-220K base; mid-level Python+TS+C# stack; GCP cloud; F-1 OPT relocation needed; visa sponsorship unstated |
 | 895 | 2026-05-19 | Black Forest Labs | Forward Deployed Machine Learning Engineer | 3.4/5 | Evaluated | ✅ | [895](reports/895-black-forest-labs-fde-ml-2026-05-19.md) | [US] SF Hybrid 2d/wk; FLUX/diffusion frontier lab; $180-300K + equity; Pixel Synthesis project (SD+LoRA+ControlNet+Diffusers) is direct proof; F-1 OPT sponsorship unstated; relocation needed |
 | 896 | 2026-05-19 | Edison Scientific | AI Engineer - Forward Deployed | 3.3/5 | Evaluated | ✅ | [896](reports/896-edison-scientific-fde-ai-2026-05-19.md) | [US] SF + client embed travel; AI agents for science; $200-350K + equity; FDE archetype 1:1; 4+y floor stretch (Deepak 2.5y); life-sci domain adjacent via healthcare; F-1 OPT sponsorship asked not committed |
 | 898 | 2026-05-19 | Helsing | AI Research Engineer - Computer Vision | 3.2/5 | Evaluated | ✅ | [898](reports/898-helsing-ai-research-cv-2026-05-19.md) | [Intl] Berlin/London/Munich on-site; defense AI European sovereignty; MSc required (match); PhD/CVPR-publications nice-to-have; Drowsiness YOLOv8 + Video Summarization direct CV proof; F-1 OPT EU relocation needed; defense ethics worth discussing |
