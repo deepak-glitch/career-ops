@@ -78,6 +78,9 @@
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ | Singapore -- Remote -- moved to Procesadas (#900) 2026-05-19 (3.0/5 PDF OK; AI observability Series C $135M+; mid 2-5y; eval domain 1:1 fit; F-1 OPT no SG work auth hard geo blocker)
 - [!] https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442 | HiPeople | Applied AI Engineer - Systems & Reliability | Remote / Berlin -- moved to Procesadas (#901) 2026-05-19 (2.8/5 SKIP; AI hiring eval/observability 1:1 fit; Go required gap; explicit no-visa-for-Germany; DELETE per cleanup-low-scores)
 - [!] https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009 | Opaque Systems | Forward Deployed Engineer (AI) | Romania -- filter slip: 5+ years senior gate; skipped
+- [!] https://sumup.com/careers/positions/8447227002?gh_jid=8447227002 | SumUp | Onboarding Agent II | São José Dos Campos / São Paulo, Brazil -- filter slip: off-archetype customer service/KYC role (Portuguese-language, fintech CX); F-1 OPT no BR work auth; skipped
+- [!] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101 | PhysicsX | Forward Deployed Applications - Software Engineer | London Shoreditch on-site + ~25% travel -- moved to Procesadas (#906) 2026-05-19 (3.0/5 PDF OK; UK deep-tech engineering-simulation AI; full-stack Python + TS + React + Vite; F-1 OPT → UK Skilled Worker visa needed PhysicsX sponsors; comp not stated; simulation domain stretch)
+
 
 ## Procesadas
 
@@ -85,6 +88,7 @@
 - [x] #900 | https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ | Singapore -- Remote | 3.0/5 | PDF OK
 - [x] #898 | https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin / London / Munich -- on-site | 3.2/5 | PDF OK
 
+- [x] #906 | https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101 | PhysicsX | Forward Deployed Applications - Software Engineer | London Shoreditch on-site + ~25% travel | 3.0/5 | PDF OK
 ### 2026-05-18
 - [x] #884 | https://apply.workable.com/sidetrade/j/00A24913FD/ | Sidetrade | AI Engineer | Paris/Birmingham/Calgary — Hybrid | 3.0/5 | PDF ✅
 - [x] #885 | https://apply.workable.com/boardofinnovation/j/50EB96733C | Board of Innovation | AI Engineer | Antwerp/Lisbon — Hybrid | 3.0/5 | PDF ✅

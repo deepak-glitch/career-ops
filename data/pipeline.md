@@ -577,6 +577,11 @@
 - [!] https://builtin.com/job/ai-engineer/8052132 | daydream | AI Engineer | San Francisco -- In-Office 5d/wk -- moved to Procesadas (#899) 2026-05-19 (3.0/5 PDF OK; AI-native SEO platform; $180-220K base mid-level; Python+TS+C# stack; GCP; F-1 OPT relocation + visa unstated)
 - [!] https://job-boards.greenhouse.io/alphafmcroles/jobs/8521640002 | Alpha Financial Markets Consulting | Forward Deployed Engineer (AI) | United States (EST timezone) -- filter slip: 5+ years Python/SQL + Senior/Lead level; skipped
 - [!] https://jobs.spacetalent.org/companies/defense-unicorns/jobs/78089309-forward-deployed-ai-engineer | Defense Unicorns | Forward Deployed AI Engineer | Springfield, VA -- Remote (US) -- filter slip: hard blocker US citizenship + active clearance required (F-1 OPT incompatible); skipped
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (PM run) -->
+- [!] https://jobs.ashbyhq.com/3y-health/8ded4137-5153-45f9-be12-1a532582b2f6 | 3Y Health | Forward Deployed Engineer | San Francisco or NYC office 5d/wk -- moved to Procesadas (#902) 2026-05-19 (3.2/5 PDF OK; $200-250K + equity; AI agents healthcare admin 1:1; 5+y senior gate Deepak 2.5y stretch; Founders Fund/GC/SoftBank; visa unstated)
+- [!] https://jobs.ashbyhq.com/stack-ai/f6b1d010-12ea-460e-aebb-85e2f7e6de45 | StackAI | Forward Deployed Engineer - Healthcare | NYC office 307 7th Ave -- moved to Procesadas (#903) 2026-05-19 (3.7/5 PDF OK; $120-200K + equity + commission; healthcare AI 1:1 RAG/LLM/EHR/claims/PHI/HIPAA; Python + React/Next.js + TS; visa unstated)
+- [!] https://jobs.ashbyhq.com/openai/533c0fc9-b773-476d-9f96-a0528efbab0e | OpenAI | Forward Deployed Software Engineer | NYC hybrid 3d/wk + 50% travel -- moved to Procesadas (#904) 2026-05-19 (3.0/5 PDF OK; $153-325K + equity; 7+y full-stack Senior gate Deepak 2.5y large gap; pitch mid IC FDSWE II)
+- [!] https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424 | Legion Health | Founding Engineer (AI-Native Mental Health) | SF in-person 5d/wk -- moved to Procesadas (#905) 2026-05-19 (3.5/5 PDF OK; YC-backed $7M raised $3.3M ARR; 2,200+ patients; founding agent systems 1:1; comp+visa not stated)
 
 ## Procesadas
 
@@ -585,6 +590,10 @@
 - [x] #895 | https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco, CA -- Hybrid 2+d/wk | 3.4/5 | PDF OK
 - [x] #896 | https://job-boards.greenhouse.io/edisonscientific/jobs/4984032007 | Edison Scientific | AI Engineer - Forward Deployed | San Francisco, CA -- on-site + client embed travel | 3.3/5 | PDF OK
 
+- [x] #902 | https://jobs.ashbyhq.com/3y-health/8ded4137-5153-45f9-be12-1a532582b2f6 | 3Y Health | Forward Deployed Engineer | San Francisco or NYC office 5d/wk | 3.2/5 | PDF OK
+- [x] #903 | https://jobs.ashbyhq.com/stack-ai/f6b1d010-12ea-460e-aebb-85e2f7e6de45 | StackAI | Forward Deployed Engineer - Healthcare | NYC office 307 7th Ave on-site | 3.7/5 | PDF OK
+- [x] #904 | https://jobs.ashbyhq.com/openai/533c0fc9-b773-476d-9f96-a0528efbab0e | OpenAI | Forward Deployed Software Engineer | NYC hybrid 3d/wk + up to 50% travel | 3.0/5 | PDF OK
+- [x] #905 | https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424 | Legion Health | Founding Engineer (AI-Native Mental Health) | San Francisco in-person 5d/wk | 3.5/5 | PDF OK
 ### 2026-05-18
 - [x] #875 | https://jobs.ashbyhq.com/tandem/09564102-1713-4941-bbd5-77eaac9ca88e | Forus | Applied AI Engineer | New York City — In-person 5d/wk | 3.4/5 | PDF ✅
 - [x] #876 | https://jobs.ashbyhq.com/rillet/fa5a733f-84aa-41af-8b4d-0b5be16d1e64 | Rillet | Applied AI Engineer | NYC / SF — Hybrid 3d/wk | 4.0/5 | PDF ✅
