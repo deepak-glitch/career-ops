@@ -862,3 +862,13 @@ Notes:
 - Level 3 WebSearch surfaced 6 fresh URLs but only 2 were viable after liveness + filter checks. 3 were filter slips (Alpha FMC 5+y senior, Defense Unicorns US-citizenship gate, Opaque Romania senior) and 4 others returned null/404 from Ashby/WaaS (Techtorch, alt Lorikeet, Hippocratic Junior, Limbic, Sully, Aios — all already removed by hiring teams).
 - Score distribution: daydream 3.0 (US, SF onsite-5x), Arize APJ 3.0 (Intl, Singapore F-1 OPT geo blocker), HiPeople 2.8 (Intl, deleted — Go gap + Berlin no-visa).
 - Helper scripts added: `scripts/ashby-fetch.mjs` (GraphQL JD extractor for SPA pages) and `scripts/append-scan-history.mjs`.
+Processed 5 URLs (US:4 + Intl:1), generated 5 PDFs, archived 0 low-score, pushed 6576a0c.
+
+Run summary:
+- **Scan**: US 0 new, Intl 2 new (SumUp, PhysicsX) + Level 3 WebSearch added 4 US URLs (3Y Health, StackAI, OpenAI FDSWE NYC, Legion Health)
+- **Pipeline**: 5 evaluated (#902-906); SumUp Onboarding Agent marked filter slip (off-archetype CX role)
+- **Scores**: StackAI 3.7 (highest, healthcare AI 1:1), Legion Health 3.5, 3Y Health 3.2, OpenAI 3.0, PhysicsX 3.0
+- **Merge**: Dedupe found existing entries for StackAI (updated #142 3.2→3.7), OpenAI (#761 kept), Legion (#691 kept); +2 net new (#906 PhysicsX, #907 3Y Health)
+- **Verify**: 0 errors / 0 warnings
+- **Cleanup**: 0 deletions (all scores ≥ 3.0)
+- **Push**: `6576a0c` landed on `origin/main`
