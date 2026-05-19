@@ -568,7 +568,17 @@
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer | Remote-US — duplicate of #128 (already evaluated 2026-04-24); not re-evaluated
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA | EMEA — duplicate of #128 family (already evaluated 2026-04-24); not re-evaluated
 
+### 2026-05-19
+
+- [!] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco (USA) -- moved to Procesadas (#895) 2026-05-19 (3.4/5 PDF OK; FLUX/diffusion frontier lab; SD+LoRA+ControlNet Pixel project direct proof; SF hybrid 2d/wk + relocation; sponsorship unstated)
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 -->
+- [!] https://job-boards.greenhouse.io/edisonscientific/jobs/4984032007 | Edison Scientific | AI Engineer - Forward Deployed | San Francisco (USA) -- moved to Procesadas (#896) 2026-05-19 (3.3/5 PDF OK; FDE 1:1; 4+y floor stretch; life-sci adjacent via healthcare; SF + client embed travel; sponsorship asked not committed)
+
 ## Procesadas
+
+### 2026-05-19
+- [x] #895 | https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco, CA -- Hybrid 2+d/wk | 3.4/5 | PDF OK
+- [x] #896 | https://job-boards.greenhouse.io/edisonscientific/jobs/4984032007 | Edison Scientific | AI Engineer - Forward Deployed | San Francisco, CA -- on-site + client embed travel | 3.3/5 | PDF OK
 
 ### 2026-05-18
 - [x] #875 | https://jobs.ashbyhq.com/tandem/09564102-1713-4941-bbd5-77eaac9ca88e | Forus | Applied AI Engineer | New York City — In-person 5d/wk | 3.4/5 | PDF ✅

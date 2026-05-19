@@ -66,7 +66,19 @@
 <!-- Level 3 WebSearch overnight sweep — liveness-checked 2026-05-13 -->
 <!-- moved to Procesadas: OpenAI AI Deployment Engineer Startups Singapore #727 -->
 
+### 2026-05-19
+
+- [!] https://jobs.ashbyhq.com/sierra/ab15547e-5c50-48a8-a560-f56c7bdad587 | Sierra | Strategist, Agent Development (Cantonese Speaking) | Singapore -- moved to Procesadas (#897) 2026-05-19 (1.5/5 SKIP; Cantonese required hard language blocker; off-archetype Strategist; F-1 OPT no SG work auth; DELETE per cleanup-low-scores)
+- [!] https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin / London / Munich -- moved to Procesadas (#898) 2026-05-19 (3.2/5 PDF OK; defense AI EU sovereignty; MSc match; Drowsiness YOLOv8 + Video Summarization proofs; F-1 OPT EU relocation needed)
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 -->
+- [!] https://jobs.ashbyhq.com/bjakcareer/7f502d4d-7cc1-4f8f-9cb5-82e02b9a0c58 | Bjak | AI Engineer (Remote) | Singapore / SE Asia remote -- error: Ashby GraphQL returned null/CLOSED on 2026-05-19; archived
+- [!] https://job-boards.greenhouse.io/yipitdata/jobs/3907051 | YipitData | AI Engineer | Remote -- India (8am-5pm IST) -- error: Greenhouse API HTTP 404 on 2026-05-19 (URL stale); archived
+- [!] https://job-boards.greenhouse.io/hoyoverse/jobs/5104595007 | HoYoverse | Game AI Engineer - Varsapura | Singapore -- moved to Procesadas (#899) 2026-05-19 (2.0/5 SKIP; Unreal/C++/game AI stack mismatch; 3+y game dev required; F-1 OPT no SG work auth; DELETE per cleanup-low-scores)
+
 ## Procesadas
+
+### 2026-05-19
+- [x] #898 | https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin / London / Munich -- on-site | 3.2/5 | PDF OK
 
 ### 2026-05-18
 - [x] #884 | https://apply.workable.com/sidetrade/j/00A24913FD/ | Sidetrade | AI Engineer | Paris/Birmingham/Calgary — Hybrid | 3.0/5 | PDF ✅
