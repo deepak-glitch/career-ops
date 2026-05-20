@@ -14,6 +14,10 @@
 
 ## Pendientes
 
+### 2026-05-20
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-20 -->
+- [!] https://ml6team.recruitee.com/o/machine-learning-engineer-1 | ML6 | Machine Learning Engineer | Ghent, Belgium / EU Remote -- error: Recruitee redirected to /careers_not_hosted on 2026-05-20 (posting closed/removed); archived
+
 ### 2026-05-19
 - [!] https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin / London / Munich -- moved to Procesadas (#898) 2026-05-19 (3.2/5 PDF OK; defense AI EU sovereignty; MSc match; Drowsiness YOLOv8 + Video Summarization proofs; F-1 OPT EU relocation needed)
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-19 -->

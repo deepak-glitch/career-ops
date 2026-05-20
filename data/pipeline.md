@@ -9,6 +9,11 @@
 
 ### 2026-05-20
 - [!] https://job-boards.greenhouse.io/intercom/jobs/7926025 | Intercom | Partner Solutions Engineer (NAMER & LATAM) | San Francisco, California -- filter slip: Solutions Engineer / pre-sales role (off-archetype, GTM-adjacent); skipped
+- [!] https://job-boards.greenhouse.io/intercom/jobs/7943223 | Intercom | Partner Solutions Engineer (NAMER & LATAM) | Chicago, Illinois -- filter slip: same off-archetype Partner Solutions Engineer role as SF posting above; skipped
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-20 -->
+- [!] https://job-boards.greenhouse.io/komodohealth/jobs/8447517002 | Komodo Health | Forward Deployed Software Engineer III, AI | Remote -- error: Greenhouse redirected to ?error=true on 2026-05-20 (posting closed); current Komodo opening "Forward Deployed, Senior Software Engineer (AI)" is India-only Senior gate (F-1 OPT geo + senior blocker); archived
+- [!] https://apply.workable.com/maxcare/j/3B44B5B1F2/ | Max AI | AI Engineer (Medical Billing Agent) | San Francisco, California -- On-site 5d/wk -- moved to Procesadas (#911) 2026-05-20 (3.0/5 PDF OK; healthcare RCM "Stripe for Healthcare"; NLP/transformers/HuggingFace/LLM fine-tuning 1:1; 6+y senior gate Deepak 2.5y large gap; SF relocation + visa needed; Healthcare Claims project mirrors medical billing agent pattern)
+
 
 ### 2026-05-19
 - [!] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco (USA) -- moved to Procesadas (#895) 2026-05-19 (3.4/5 PDF OK; FLUX/diffusion frontier lab; SD+LoRA+ControlNet Pixel project direct proof; SF hybrid 2d/wk + relocation; sponsorship unstated)
@@ -597,6 +602,9 @@
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA | EMEA — duplicate of #128 family (already evaluated 2026-04-24); not re-evaluated
 
 ## Procesadas
+
+### 2026-05-20
+- [x] #911 | https://apply.workable.com/maxcare/j/3B44B5B1F2/ | Max AI | AI Engineer (Medical Billing Agent) | San Francisco, California -- On-site 5d/wk | 3.0/5 | PDF ✅
 
 ### 2026-05-19
 - [x] #899 | https://builtin.com/job/ai-engineer/8052132 | daydream | AI Engineer | San Francisco -- In-Office 5d/wk | 3.0/5 | PDF OK

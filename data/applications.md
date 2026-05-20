@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 911 | 2026-05-20 | Max AI | AI Engineer (Medical Billing Agent) | 3.0/5 | Evaluated | ✅ | [911](reports/911-max-ai-ai-engineer-2026-05-20.md) | [US] SF on-site 5d/wk; $150-250K + equity; healthcare RCM "Stripe for Healthcare"; NLP/transformers/HuggingFace/LLM fine-tuning 1:1; 6+y senior gate Deepak 2.5y large gap; relocation + visa needed; Healthcare Claims project mirrors medical billing agent pattern |
 | 908 | 2026-05-19 | GPTZero | LLM Engineer (GenAI, NYC) | 3.7/5 | Evaluated | ✅ | [908](reports/908-gptzero-llm-engineer-2026-05-19.md) | [US] NYC Hybrid; $150-230K + equity; multi-agent RAG + fine-tuning + prompt opt 1:1; visa US/Canada OK; DsPY/TextGrad bonus gap; relocation from Kent OH |
 | 909 | 2026-05-19 | Ascertain | Applied AI Engineer (Voice Agents) | 3.9/5 | Evaluated | ✅ | [909](reports/909-ascertain-applied-ai-2026-05-19.md) | [US] NYC or Remote; $130-175K + equity; healthcare prior-auth voice agents; agentic Claims + RAG 1:1; telephony soft gap; Northwell + Deerfield backed |
 | 910 | 2026-05-19 | Greenlight Financial Technology | AI/ML Engineer | 3.8/5 | Evaluated | ✅ | [910](reports/910-greenlight-ai-ml-2026-05-19.md) | [US] Remote US; $160-190K; consumer fintech agentic GenAI; LangChain/LangGraph/LlamaIndex 1:1; Databricks/SageMaker soft gap; apply by May 31 2026 deadline |
