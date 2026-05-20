@@ -872,3 +872,16 @@ Run summary:
 - **Verify**: 0 errors / 0 warnings
 - **Cleanup**: 0 deletions (all scores ≥ 3.0)
 - **Push**: `6576a0c` landed on `origin/main`
+Working tree clean, branch up-to-date with `origin/main`, no commit needed. Overnight cycle complete.
+
+**Summary of this run (2026-05-20T07:50Z):**
+- **Scan US** (`node scan.mjs`): 71 companies scanned, 5224 jobs found, 4848 filtered by title, 148 outside region, 218 older than 48h, 10 dedup → **0 new**
+- **Scan Intl** (`node scan.mjs --intl`): 71 companies, 5062 jobs, 4724 filtered, 175 region, 158 stale, 5 dedup → **0 new**
+- **Level 3 WebSearch** (Ashby / Greenhouse / YC / BreezyHR / TeamTailor / Himalayas / Lever): all surfaced URLs were either (a) already in `scan-history.tsv` and previously evaluated in `applications.md`, or (b) verified closed/404/CLOSED today. Probed: HavocAI, Avy, Mechanized AI (×2), Traversal, Capco, StubHub, Resolve AI (Ashby), Modal FDE-ML (Ashby), HiPeople (Ashby), DoiT (Greenhouse) — all closed.
+- **Pipeline**: 0 Pendientes in US, 0 Pendientes in Intl → 0 URLs processed.
+- **Merge tracker**: no pending TSVs.
+- **Verify**: 362 entries, **0 errors / 0 warnings — pipeline clean**.
+- **Cleanup**: 0 low-score artifacts to delete.
+- **Commit/push**: working tree clean — nothing to commit, branch already at `origin/main` (HEAD `9f5fc9d`).
+
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, no commit (working tree clean at 9f5fc9d).
