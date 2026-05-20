@@ -13,6 +13,7 @@
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-20 -->
 - [!] https://job-boards.greenhouse.io/komodohealth/jobs/8447517002 | Komodo Health | Forward Deployed Software Engineer III, AI | Remote -- error: Greenhouse redirected to ?error=true on 2026-05-20 (posting closed); current Komodo opening "Forward Deployed, Senior Software Engineer (AI)" is India-only Senior gate (F-1 OPT geo + senior blocker); archived
 - [!] https://apply.workable.com/maxcare/j/3B44B5B1F2/ | Max AI | AI Engineer (Medical Billing Agent) | San Francisco, California -- On-site 5d/wk -- moved to Procesadas (#911) 2026-05-20 (3.0/5 PDF OK; healthcare RCM "Stripe for Healthcare"; NLP/transformers/HuggingFace/LLM fine-tuning 1:1; 6+y senior gate Deepak 2.5y large gap; SF relocation + visa needed; Healthcare Claims project mirrors medical billing agent pattern)
+- [!] https://jobs.ashbyhq.com/vitalize/fabef30a-92fd-468a-b2c3-bd04ea15a927 | Vitalize | Forward Deployed Engineer | San Francisco HQ — 50% travel -- moved to Procesadas (#912) 2026-05-20 (3.8/5 PDF OK; healthcare workforce-ops AI SF HQ; $195-275K + equity; 2+y mid match Deepak 2.5y in-band; ~50% travel + relocation + visa friction)
 
 
 ### 2026-05-19
@@ -604,6 +605,7 @@
 ## Procesadas
 
 ### 2026-05-20
+- [x] #912 | https://jobs.ashbyhq.com/vitalize/fabef30a-92fd-468a-b2c3-bd04ea15a927 | Vitalize | Forward Deployed Engineer | San Francisco HQ -- ~50% travel | 3.8/5 | PDF ✅
 - [x] #911 | https://apply.workable.com/maxcare/j/3B44B5B1F2/ | Max AI | AI Engineer (Medical Billing Agent) | San Francisco, California -- On-site 5d/wk | 3.0/5 | PDF ✅
 
 ### 2026-05-19

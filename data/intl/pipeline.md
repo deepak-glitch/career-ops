@@ -17,6 +17,10 @@
 ### 2026-05-20
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-20 -->
 - [!] https://ml6team.recruitee.com/o/machine-learning-engineer-1 | ML6 | Machine Learning Engineer | Ghent, Belgium / EU Remote -- error: Recruitee redirected to /careers_not_hosted on 2026-05-20 (posting closed/removed); archived
+- [!] https://job-boards.eu.greenhouse.io/physicsx/jobs/4860241101 | PhysicsX | Forward Deployed Software Engineer | Singapore -- moved to Procesadas (#913) 2026-05-20 (3.0/5 PDF OK; Singapore on-site + ~3-4 weeks/q travel APAC/NA/EU; physics-AI / engineering simulation; visa sponsored Employment Pass; mech-eng domain stretch)
+- [!] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe) | London, UK -- moved to Procesadas (#914) 2026-05-20 (3.2/5 PDF OK; London + remote-flexible across Cohere offices; North enterprise AI workspace; Python+RAG+agents 1:1; F-1 OPT → UK Skilled Worker visa friction)
+- [!] https://job-boards.eu.greenhouse.io/polyai/jobs/4855037101 | PolyAI | Forward Deployed AI Engineer | Toronto, Canada -- moved to Procesadas (#915) 2026-05-20 (3.1/5 PDF OK; Toronto mandatory; CAD $120-170K + equity; 2-5y mid client-facing; voice/conversational AI domain stretch; F-1 OPT → CA work permit friction)
+
 
 ### 2026-05-19
 - [!] https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin / London / Munich -- moved to Procesadas (#898) 2026-05-19 (3.2/5 PDF OK; defense AI EU sovereignty; MSc match; Drowsiness YOLOv8 + Video Summarization proofs; F-1 OPT EU relocation needed)
@@ -86,6 +90,11 @@
 
 ## Procesadas
 
+### 2026-05-20
+
+- [x] #915 | https://job-boards.eu.greenhouse.io/polyai/jobs/4855037101 | PolyAI | Forward Deployed AI Engineer | Toronto, Canada -- mandatory | 3.1/5 | PDF ✅
+- [x] #914 | https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe) | London, UK -- remote-flexible | 3.2/5 | PDF ✅
+- [x] #913 | https://job-boards.eu.greenhouse.io/physicsx/jobs/4860241101 | PhysicsX | Forward Deployed Software Engineer | Singapore -- on-site + ~3-4 weeks/q travel | 3.0/5 | PDF ✅
 ### 2026-05-19
 - [x] #900 | https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ | Singapore -- Remote | 3.0/5 | PDF OK
 - [x] #898 | https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin / London / Munich -- on-site | 3.2/5 | PDF OK
