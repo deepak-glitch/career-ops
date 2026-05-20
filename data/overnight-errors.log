@@ -902,3 +902,4 @@ Processed 4 URLs (US:1 + Intl:3), generated 4 PDFs, archived 0 low-score, pushed
 - `verify-pipeline.mjs`: 0 errors / 0 warnings.
 - `cleanup-low-scores.mjs`: 0 artifacts deleted (no <3.0 scores in this batch).
 - All commits/pushes on `main` per branching policy.
+Your organization has disabled Claude subscription access for Claude Code · Use an Anthropic API key instead, or ask your admin to enable access
