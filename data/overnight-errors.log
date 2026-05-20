@@ -885,3 +885,20 @@ Working tree clean, branch up-to-date with `origin/main`, no commit needed. Over
 - **Commit/push**: working tree clean — nothing to commit, branch already at `origin/main` (HEAD `9f5fc9d`).
 
 Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, no commit (working tree clean at 9f5fc9d).
+Processed 4 URLs (US:1 + Intl:3), generated 4 PDFs, archived 0 low-score, pushed 72fcf1e.
+
+**Per-track scores (sorted by score):**
+
+| # | Track | Company | Role | Location | Score | PDF |
+|---|-------|---------|------|----------|-------|-----|
+| 912 | US | Vitalize | Forward Deployed Engineer | SF HQ + ~50% travel | 3.8/5 | ✅ |
+| 914 | Intl | Cohere | FDE, Agentic Platform (UK/EU) | London + remote-flexible | 3.2/5 | ✅ |
+| 915 | Intl | PolyAI | Forward Deployed AI Engineer | Toronto (mandatory) | 3.1/5 | ✅ |
+| 913 | Intl | PhysicsX | Forward Deployed SWE | Singapore + ~quarterly travel | 3.0/5 | ✅ |
+
+**Notes:**
+- Scan stages: US 0 new, Intl 1 new (PhysicsX Singapore). Level 3 WebSearch sweeps added Vitalize (US), Cohere FDE Agentic UK/EU, and PolyAI Toronto (Intl). Other discovered URLs were dedupes or filter-slip rejections (Senior gates: Anthropic Life Sciences 4+y, Anthropic Beneficial Deployments 8+y, Parloa/JetBrains Principal/Lead/Head, etc.).
+- `merge-tracker.mjs` updated existing #870 Cohere row (re-eval pattern) and skipped PhysicsX #913 (it deduped against the older London #906 — manually added #913 row since the Singapore role is genuinely distinct).
+- `verify-pipeline.mjs`: 0 errors / 0 warnings.
+- `cleanup-low-scores.mjs`: 0 artifacts deleted (no <3.0 scores in this batch).
+- All commits/pushes on `main` per branching policy.
