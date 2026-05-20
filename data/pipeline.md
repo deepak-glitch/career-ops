@@ -7,6 +7,34 @@
 
 ## Pendientes
 
+### 2026-05-20
+- [!] https://job-boards.greenhouse.io/intercom/jobs/7926025 | Intercom | Partner Solutions Engineer (NAMER & LATAM) | San Francisco, California -- filter slip: Solutions Engineer / pre-sales role (off-archetype, GTM-adjacent); skipped
+
+### 2026-05-19
+- [!] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco (USA) -- moved to Procesadas (#895) 2026-05-19 (3.4/5 PDF OK; FLUX/diffusion frontier lab; SD+LoRA+ControlNet Pixel project direct proof; SF hybrid 2d/wk + relocation; sponsorship unstated)
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 -->
+- [!] https://job-boards.greenhouse.io/edisonscientific/jobs/4984032007 | Edison Scientific | AI Engineer - Forward Deployed | San Francisco (USA) -- moved to Procesadas (#896) 2026-05-19 (3.3/5 PDF OK; FDE 1:1; 4+y floor stretch; life-sci adjacent via healthcare; SF + client embed travel; sponsorship asked not committed)
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (late AM run) -->
+- [!] https://builtin.com/job/ai-engineer/8052132 | daydream | AI Engineer | San Francisco -- In-Office 5d/wk -- moved to Procesadas (#899) 2026-05-19 (3.0/5 PDF OK; AI-native SEO platform; $180-220K base mid-level; Python+TS+C# stack; GCP; F-1 OPT relocation + visa unstated)
+- [!] https://job-boards.greenhouse.io/alphafmcroles/jobs/8521640002 | Alpha Financial Markets Consulting | Forward Deployed Engineer (AI) | United States (EST timezone) -- filter slip: 5+ years Python/SQL + Senior/Lead level; skipped
+- [!] https://jobs.spacetalent.org/companies/defense-unicorns/jobs/78089309-forward-deployed-ai-engineer | Defense Unicorns | Forward Deployed AI Engineer | Springfield, VA -- Remote (US) -- filter slip: hard blocker US citizenship + active clearance required (F-1 OPT incompatible); skipped
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (PM run) -->
+- [!] https://jobs.ashbyhq.com/3y-health/8ded4137-5153-45f9-be12-1a532582b2f6 | 3Y Health | Forward Deployed Engineer | San Francisco or NYC office 5d/wk -- moved to Procesadas (#902) 2026-05-19 (3.2/5 PDF OK; $200-250K + equity; AI agents healthcare admin 1:1; 5+y senior gate Deepak 2.5y stretch; Founders Fund/GC/SoftBank; visa unstated)
+- [!] https://jobs.ashbyhq.com/stack-ai/f6b1d010-12ea-460e-aebb-85e2f7e6de45 | StackAI | Forward Deployed Engineer - Healthcare | NYC office 307 7th Ave -- moved to Procesadas (#903) 2026-05-19 (3.7/5 PDF OK; $120-200K + equity + commission; healthcare AI 1:1 RAG/LLM/EHR/claims/PHI/HIPAA; Python + React/Next.js + TS; visa unstated)
+- [!] https://jobs.ashbyhq.com/openai/533c0fc9-b773-476d-9f96-a0528efbab0e | OpenAI | Forward Deployed Software Engineer | NYC hybrid 3d/wk + 50% travel -- moved to Procesadas (#904) 2026-05-19 (3.0/5 PDF OK; $153-325K + equity; 7+y full-stack Senior gate Deepak 2.5y large gap; pitch mid IC FDSWE II)
+- [!] https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424 | Legion Health | Founding Engineer (AI-Native Mental Health) | SF in-person 5d/wk -- moved to Procesadas (#905) 2026-05-19 (3.5/5 PDF OK; YC-backed $7M raised $3.3M ARR; 2,200+ patients; founding agent systems 1:1; comp+visa not stated)
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (evening run) -->
+- [!] https://jobs.ashbyhq.com/GPTZero/9e23e2df-d15d-4bf5-a841-ced573fb8511 | GPTZero | LLM Engineer (GenAI, NYC) | NYC Hybrid -- moved to Procesadas (#908) 2026-05-19 (3.7/5 PDF OK; $150-230K + equity; multi-agent RAG + fine-tuning 1:1; visa US/Canada OK; DsPY/TextGrad bonus gap; relocation from Kent OH)
+- [!] https://job-boards.greenhouse.io/savantbio/jobs/7154608 | Savant Bio | AI/ML Engineer | New York, NY -- moved to Procesadas (#907) 2026-05-19 (3.8/5 PDF OK; $130-180K + equity; Roivant-backed clinical NLP; PyTorch/HF/spaCy/LLM 1:1; 3+y stretch; F-1 OPT viable)
+- [!] https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer – Full Stack AI | US-Remote -- duplicate of #53 (already evaluated 2026-04-22, 4.3/5); not re-evaluated
+- [!] https://jobs.ashbyhq.com/ascertain/e2b09339-b7cb-42d1-a666-68908329ceb8 | Ascertain | Applied AI Engineer | NYC or Remote -- moved to Procesadas (#909) 2026-05-19 (3.9/5 PDF OK; $130-175K + equity; healthcare prior-auth voice agents; agentic Claims + RAG 1:1; telephony soft gap; Northwell + Deerfield backed)
+- [!] https://jobs.ashbyhq.com/ascertain/8585e400-f993-46ef-b443-2ad6bbe485b9 | Ascertain | Forward Deployed Engineer | NYC or Remote -- duplicate of #216 (already evaluated 2026-04-27, 4.1/5); not re-evaluated
+- [!] https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer | San Francisco -- duplicate of #116 (already evaluated 2026-04-22, 3.8/5); not re-evaluated
+- [!] https://himalayas.app/companies/greenlight-financial-technology/jobs/ai-ml-engineer | Greenlight Financial Technology | AI/ML Engineer | United States (Remote) -- moved to Procesadas (#910) 2026-05-19 (3.8/5 PDF OK; $160-190K; consumer fintech agentic GenAI; LangChain/LangGraph 1:1; deadline May 31 2026)
+- [!] https://builtin.com/job/forward-deployed-ai-engineer/4719018 | MongoDB | Forward Deployed AI Engineer | NYC Hybrid — error: builtin.com posting closed June 2025; archived
+- [!] https://builtin.com/job/forward-deployed-ai-engineer/4748129 | DatologyAI | Forward Deployed AI Engineer | Redwood City CA — error: builtin.com posting closed July 2025; archived
+- [!] https://builtin.com/job/forward-deployed-engineer/3372032 | Inspiren | Forward Deployed Engineer | Remote US — error: builtin.com posting closed December 2024; archived
+
 ### 2026-05-18
 <!-- Level 3 WebSearch overnight sweep — 2026-05-18 -->
 - [!] https://www.ycombinator.com/companies/clarion/jobs/mVHG3z1-forward-deployed-engineer | Clarion | Forward Deployed Engineer | Remote — US (verify) — moved to Procesadas (#878) 2026-05-18 (3.6/5 PDF ✅; YC W24 healthcare comm AI; voice agents 1:1; JD body unfetchable but corroborated)
@@ -568,21 +596,6 @@
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer | Remote-US — duplicate of #128 (already evaluated 2026-04-24); not re-evaluated
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA | EMEA — duplicate of #128 family (already evaluated 2026-04-24); not re-evaluated
 
-### 2026-05-19
-
-- [!] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco (USA) -- moved to Procesadas (#895) 2026-05-19 (3.4/5 PDF OK; FLUX/diffusion frontier lab; SD+LoRA+ControlNet Pixel project direct proof; SF hybrid 2d/wk + relocation; sponsorship unstated)
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 -->
-- [!] https://job-boards.greenhouse.io/edisonscientific/jobs/4984032007 | Edison Scientific | AI Engineer - Forward Deployed | San Francisco (USA) -- moved to Procesadas (#896) 2026-05-19 (3.3/5 PDF OK; FDE 1:1; 4+y floor stretch; life-sci adjacent via healthcare; SF + client embed travel; sponsorship asked not committed)
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (late AM run) -->
-- [!] https://builtin.com/job/ai-engineer/8052132 | daydream | AI Engineer | San Francisco -- In-Office 5d/wk -- moved to Procesadas (#899) 2026-05-19 (3.0/5 PDF OK; AI-native SEO platform; $180-220K base mid-level; Python+TS+C# stack; GCP; F-1 OPT relocation + visa unstated)
-- [!] https://job-boards.greenhouse.io/alphafmcroles/jobs/8521640002 | Alpha Financial Markets Consulting | Forward Deployed Engineer (AI) | United States (EST timezone) -- filter slip: 5+ years Python/SQL + Senior/Lead level; skipped
-- [!] https://jobs.spacetalent.org/companies/defense-unicorns/jobs/78089309-forward-deployed-ai-engineer | Defense Unicorns | Forward Deployed AI Engineer | Springfield, VA -- Remote (US) -- filter slip: hard blocker US citizenship + active clearance required (F-1 OPT incompatible); skipped
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (PM run) -->
-- [!] https://jobs.ashbyhq.com/3y-health/8ded4137-5153-45f9-be12-1a532582b2f6 | 3Y Health | Forward Deployed Engineer | San Francisco or NYC office 5d/wk -- moved to Procesadas (#902) 2026-05-19 (3.2/5 PDF OK; $200-250K + equity; AI agents healthcare admin 1:1; 5+y senior gate Deepak 2.5y stretch; Founders Fund/GC/SoftBank; visa unstated)
-- [!] https://jobs.ashbyhq.com/stack-ai/f6b1d010-12ea-460e-aebb-85e2f7e6de45 | StackAI | Forward Deployed Engineer - Healthcare | NYC office 307 7th Ave -- moved to Procesadas (#903) 2026-05-19 (3.7/5 PDF OK; $120-200K + equity + commission; healthcare AI 1:1 RAG/LLM/EHR/claims/PHI/HIPAA; Python + React/Next.js + TS; visa unstated)
-- [!] https://jobs.ashbyhq.com/openai/533c0fc9-b773-476d-9f96-a0528efbab0e | OpenAI | Forward Deployed Software Engineer | NYC hybrid 3d/wk + 50% travel -- moved to Procesadas (#904) 2026-05-19 (3.0/5 PDF OK; $153-325K + equity; 7+y full-stack Senior gate Deepak 2.5y large gap; pitch mid IC FDSWE II)
-- [!] https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424 | Legion Health | Founding Engineer (AI-Native Mental Health) | SF in-person 5d/wk -- moved to Procesadas (#905) 2026-05-19 (3.5/5 PDF OK; YC-backed $7M raised $3.3M ARR; 2,200+ patients; founding agent systems 1:1; comp+visa not stated)
-
 ## Procesadas
 
 ### 2026-05-19
@@ -594,6 +607,11 @@
 - [x] #903 | https://jobs.ashbyhq.com/stack-ai/f6b1d010-12ea-460e-aebb-85e2f7e6de45 | StackAI | Forward Deployed Engineer - Healthcare | NYC office 307 7th Ave on-site | 3.7/5 | PDF OK
 - [x] #904 | https://jobs.ashbyhq.com/openai/533c0fc9-b773-476d-9f96-a0528efbab0e | OpenAI | Forward Deployed Software Engineer | NYC hybrid 3d/wk + up to 50% travel | 3.0/5 | PDF OK
 - [x] #905 | https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424 | Legion Health | Founding Engineer (AI-Native Mental Health) | San Francisco in-person 5d/wk | 3.5/5 | PDF OK
+- [x] #907 | https://job-boards.greenhouse.io/savantbio/jobs/7154608 | Savant Bio | AI/ML Engineer | New York, NY (151 W 42nd St) | 3.8/5 | PDF OK
+- [x] #908 | https://jobs.ashbyhq.com/GPTZero/9e23e2df-d15d-4bf5-a841-ced573fb8511 | GPTZero | LLM Engineer (GenAI, NYC) | NYC Hybrid | 3.7/5 | PDF OK
+- [x] #909 | https://jobs.ashbyhq.com/ascertain/e2b09339-b7cb-42d1-a666-68908329ceb8 | Ascertain | Applied AI Engineer (Voice Agents) | NYC or Remote | 3.9/5 | PDF OK
+- [x] #910 | https://himalayas.app/companies/greenlight-financial-technology/jobs/ai-ml-engineer | Greenlight Financial Technology | AI/ML Engineer | United States (Remote) | 3.8/5 | PDF OK
+
 ### 2026-05-18
 - [x] #875 | https://jobs.ashbyhq.com/tandem/09564102-1713-4941-bbd5-77eaac9ca88e | Forus | Applied AI Engineer | New York City — In-person 5d/wk | 3.4/5 | PDF ✅
 - [x] #876 | https://jobs.ashbyhq.com/rillet/fa5a733f-84aa-41af-8b4d-0b5be16d1e64 | Rillet | Applied AI Engineer | NYC / SF — Hybrid 3d/wk | 4.0/5 | PDF ✅

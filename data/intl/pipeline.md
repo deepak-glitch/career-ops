@@ -14,6 +14,20 @@
 
 ## Pendientes
 
+### 2026-05-19
+- [!] https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin / London / Munich -- moved to Procesadas (#898) 2026-05-19 (3.2/5 PDF OK; defense AI EU sovereignty; MSc match; Drowsiness YOLOv8 + Video Summarization proofs; F-1 OPT EU relocation needed)
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 -->
+- [!] https://jobs.ashbyhq.com/bjakcareer/7f502d4d-7cc1-4f8f-9cb5-82e02b9a0c58 | Bjak | AI Engineer (Remote) | Singapore / SE Asia remote -- error: Ashby GraphQL returned null/CLOSED on 2026-05-19; archived
+- [!] https://job-boards.greenhouse.io/yipitdata/jobs/3907051 | YipitData | AI Engineer | Remote -- India (8am-5pm IST) -- error: Greenhouse API HTTP 404 on 2026-05-19 (URL stale); archived
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (late AM run) -->
+- [!] https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ | Singapore -- Remote -- moved to Procesadas (#900) 2026-05-19 (3.0/5 PDF OK; AI observability Series C $135M+; mid 2-5y; eval domain 1:1 fit; F-1 OPT no SG work auth hard geo blocker)
+- [!] https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009 | Opaque Systems | Forward Deployed Engineer (AI) | Romania -- filter slip: 5+ years senior gate; skipped
+- [!] https://sumup.com/careers/positions/8447227002?gh_jid=8447227002 | SumUp | Onboarding Agent II | São José Dos Campos / São Paulo, Brazil -- filter slip: off-archetype customer service/KYC role (Portuguese-language, fintech CX); F-1 OPT no BR work auth; skipped
+- [!] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101 | PhysicsX | Forward Deployed Applications - Software Engineer | London Shoreditch on-site + ~25% travel -- moved to Procesadas (#906) 2026-05-19 (3.0/5 PDF OK; UK deep-tech engineering-simulation AI; full-stack Python + TS + React + Vite; F-1 OPT → UK Skilled Worker visa needed PhysicsX sponsors; comp not stated; simulation domain stretch)
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (evening run) -->
+- [!] https://job-boards.greenhouse.io/sezzle/jobs/7633985003 | Sezzle | AI Engineer II (Remote) | Latin America Remote -- filter slip: comp $40K-$72K USD/yr far below US-Remote AI Eng floor + LATAM-only work auth (F-1 OPT US-based blocker); skipped per score-first gate
+- [!] https://apply.workable.com/cxg/j/5ED4EB3757 | CXG | AI Engineer (GenAI, LLMs & Computer Vision) | Europe Remote -- error: Workable JD body unfetchable on 2026-05-19 (page returns marketing copy only); cannot extract requirements; archived
+
 ### 2026-05-18
 <!-- Level 3 WebSearch overnight sweep — 2026-05-18 -->
 - [!] https://apply.workable.com/sidetrade/j/00A24913FD/ | Sidetrade | AI Engineer | Paris/Birmingham/Calgary tech hubs — Hybrid — moved to Procesadas (#884) 2026-05-18 (3.0/5 PDF ✅; agentic B2B AI Aimie; F-1 OPT geo blocker; verify location+sponsorship)
@@ -66,19 +80,6 @@
 <!-- Level 3 WebSearch overnight sweep — liveness-checked 2026-05-13 -->
 <!-- moved to Procesadas: OpenAI AI Deployment Engineer Startups Singapore #727 -->
 
-### 2026-05-19
-
-- [!] https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin / London / Munich -- moved to Procesadas (#898) 2026-05-19 (3.2/5 PDF OK; defense AI EU sovereignty; MSc match; Drowsiness YOLOv8 + Video Summarization proofs; F-1 OPT EU relocation needed)
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 -->
-- [!] https://jobs.ashbyhq.com/bjakcareer/7f502d4d-7cc1-4f8f-9cb5-82e02b9a0c58 | Bjak | AI Engineer (Remote) | Singapore / SE Asia remote -- error: Ashby GraphQL returned null/CLOSED on 2026-05-19; archived
-- [!] https://job-boards.greenhouse.io/yipitdata/jobs/3907051 | YipitData | AI Engineer | Remote -- India (8am-5pm IST) -- error: Greenhouse API HTTP 404 on 2026-05-19 (URL stale); archived
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (late AM run) -->
-- [!] https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ | Singapore -- Remote -- moved to Procesadas (#900) 2026-05-19 (3.0/5 PDF OK; AI observability Series C $135M+; mid 2-5y; eval domain 1:1 fit; F-1 OPT no SG work auth hard geo blocker)
-- [!] https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009 | Opaque Systems | Forward Deployed Engineer (AI) | Romania -- filter slip: 5+ years senior gate; skipped
-- [!] https://sumup.com/careers/positions/8447227002?gh_jid=8447227002 | SumUp | Onboarding Agent II | São José Dos Campos / São Paulo, Brazil -- filter slip: off-archetype customer service/KYC role (Portuguese-language, fintech CX); F-1 OPT no BR work auth; skipped
-- [!] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101 | PhysicsX | Forward Deployed Applications - Software Engineer | London Shoreditch on-site + ~25% travel -- moved to Procesadas (#906) 2026-05-19 (3.0/5 PDF OK; UK deep-tech engineering-simulation AI; full-stack Python + TS + React + Vite; F-1 OPT → UK Skilled Worker visa needed PhysicsX sponsors; comp not stated; simulation domain stretch)
-
-
 ## Procesadas
 
 ### 2026-05-19
@@ -86,6 +87,7 @@
 - [x] #898 | https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin / London / Munich -- on-site | 3.2/5 | PDF OK
 
 - [x] #906 | https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101 | PhysicsX | Forward Deployed Applications - Software Engineer | London Shoreditch on-site + ~25% travel | 3.0/5 | PDF OK
+
 ### 2026-05-18
 - [x] #884 | https://apply.workable.com/sidetrade/j/00A24913FD/ | Sidetrade | AI Engineer | Paris/Birmingham/Calgary — Hybrid | 3.0/5 | PDF ✅
 - [x] #885 | https://apply.workable.com/boardofinnovation/j/50EB96733C | Board of Innovation | AI Engineer | Antwerp/Lisbon — Hybrid | 3.0/5 | PDF ✅
