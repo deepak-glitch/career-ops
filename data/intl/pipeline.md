@@ -68,15 +68,12 @@
 
 ### 2026-05-19
 
-- [!] https://jobs.ashbyhq.com/sierra/ab15547e-5c50-48a8-a560-f56c7bdad587 | Sierra | Strategist, Agent Development (Cantonese Speaking) | Singapore -- moved to Procesadas (#897) 2026-05-19 (1.5/5 SKIP; Cantonese required hard language blocker; off-archetype Strategist; F-1 OPT no SG work auth; DELETE per cleanup-low-scores)
 - [!] https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin / London / Munich -- moved to Procesadas (#898) 2026-05-19 (3.2/5 PDF OK; defense AI EU sovereignty; MSc match; Drowsiness YOLOv8 + Video Summarization proofs; F-1 OPT EU relocation needed)
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-19 -->
 - [!] https://jobs.ashbyhq.com/bjakcareer/7f502d4d-7cc1-4f8f-9cb5-82e02b9a0c58 | Bjak | AI Engineer (Remote) | Singapore / SE Asia remote -- error: Ashby GraphQL returned null/CLOSED on 2026-05-19; archived
 - [!] https://job-boards.greenhouse.io/yipitdata/jobs/3907051 | YipitData | AI Engineer | Remote -- India (8am-5pm IST) -- error: Greenhouse API HTTP 404 on 2026-05-19 (URL stale); archived
-- [!] https://job-boards.greenhouse.io/hoyoverse/jobs/5104595007 | HoYoverse | Game AI Engineer - Varsapura | Singapore -- moved to Procesadas (#899) 2026-05-19 (2.0/5 SKIP; Unreal/C++/game AI stack mismatch; 3+y game dev required; F-1 OPT no SG work auth; DELETE per cleanup-low-scores)
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (late AM run) -->
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ | Singapore -- Remote -- moved to Procesadas (#900) 2026-05-19 (3.0/5 PDF OK; AI observability Series C $135M+; mid 2-5y; eval domain 1:1 fit; F-1 OPT no SG work auth hard geo blocker)
-- [!] https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442 | HiPeople | Applied AI Engineer - Systems & Reliability | Remote / Berlin -- moved to Procesadas (#901) 2026-05-19 (2.8/5 SKIP; AI hiring eval/observability 1:1 fit; Go required gap; explicit no-visa-for-Germany; DELETE per cleanup-low-scores)
 - [!] https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009 | Opaque Systems | Forward Deployed Engineer (AI) | Romania -- filter slip: 5+ years senior gate; skipped
 - [!] https://sumup.com/careers/positions/8447227002?gh_jid=8447227002 | SumUp | Onboarding Agent II | São José Dos Campos / São Paulo, Brazil -- filter slip: off-archetype customer service/KYC role (Portuguese-language, fintech CX); F-1 OPT no BR work auth; skipped
 - [!] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101 | PhysicsX | Forward Deployed Applications - Software Engineer | London Shoreditch on-site + ~25% travel -- moved to Procesadas (#906) 2026-05-19 (3.0/5 PDF OK; UK deep-tech engineering-simulation AI; full-stack Python + TS + React + Vite; F-1 OPT → UK Skilled Worker visa needed PhysicsX sponsors; comp not stated; simulation domain stretch)
