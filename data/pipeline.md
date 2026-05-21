@@ -15,6 +15,12 @@
 - [!] https://jobs.ashbyhq.com/sardine/4ff32b5d-13c6-4024-826c-04ed2881d688 | Sardine | Forward Deployed AI Engineer | Bay Area / NYC / Austin / Toronto / São Paulo -- error: Ashby GraphQL returned null on 2026-05-21 (posting closed or ID stale); archived
 - [!] https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex Labs | Forward Deployed AI Engineer | NYC on-site 5d/wk -- moved to Procesadas (#916) 2026-05-21 (3.5/5 PDF OK; AI-native consulting; $180K guaranteed + uncapped variable story-points; agentic coding tools 1:1; 3+y floor stretches Deepak 2.5y; F-1 OPT relocation needed)
 - [!] https://www.workatastartup.com/jobs/78372 | nao Labs | Founding AI Engineer | San Francisco (verify) -- error: workatastartup.com returned HTTP 404 on 2026-05-21 (posting closed/removed); archived
+- [!] https://sumup.com/careers/positions/8340130002?gh_jid=8340130002 | SumUp | Customer Support Agent- IT | Barcelona, Spain -- filter slip: Customer Support Agent on negative list + Spain location (Intl-mis-routed by scan.mjs); skipped
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-21 (PM run) -->
+- [!] https://job-boards.greenhouse.io/anthropic/jobs/5121563008 | Anthropic | Forward Deployed Engineer | Boston / NYC / Seattle / SF / DC -- Hybrid 25% + 25-50% travel -- moved to Procesadas (#920) 2026-05-21 (4.1/5 PDF OK; sibling of #819 FDE Applied AI 4.3/5; $280-320K + equity; 4+y floor stretches Deepak 2.5y; MCP + sub-agents + Healthcare Claims JSON-contracts direct; Anthropic sponsorship explicit per past FDE JDs; apply priority)
+- [!] https://jobs.ashbyhq.com/saris-ai/4a6cd225-edb7-4a9f-80e0-cab601a7f092 | Saris AI | Forward Deployed Engineer (FDE) | Montreal / San Francisco -- error: Ashby GraphQL board no longer lists posting ID on 2026-05-21 (posting closed/removed); archived
+- [!] https://www.workatastartup.com/jobs/80966 | Distro | Forward Deployed Engineer | San Francisco -- error: workatastartup.com returned HTTP 404 on 2026-05-21 (posting closed/removed); archived
+
 
 ### 2026-05-20
 - [!] https://job-boards.greenhouse.io/intercom/jobs/7926025 | Intercom | Partner Solutions Engineer (NAMER & LATAM) | San Francisco, California -- filter slip: Solutions Engineer / pre-sales role (off-archetype, GTM-adjacent); skipped
