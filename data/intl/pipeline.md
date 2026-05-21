@@ -14,6 +14,14 @@
 
 ## Pendientes
 
+### 2026-05-21
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-21 -->
+- [!] https://openai.com/careers/forward-deployed-engineer-singapore-singapore/ | OpenAI | Forward Deployed Engineer | Singapore -- error: openai.com/careers returned HTTP 403 on 2026-05-21 (bot-blocked); archived
+- [!] https://openai.com/careers/forward-deployed-engineer-tokyo-tokyo-japan/ | OpenAI | Forward Deployed Engineer | Tokyo, Japan -- error: openai.com/careers returned HTTP 403 on 2026-05-21 (bot-blocked); archived
+- [!] https://www.ycombinator.com/companies/peakflo/jobs/vIrPzMj-forward-deployed-engineer-fde-india-remote | Peakflo | Forward Deployed Engineer (FDE) | India / Remote -- moved to Procesadas (#919) 2026-05-21 (3.0/5 PDF OK; YC W22 + Google AI Accelerator; ₹10-13L INR; agentic voice AI + hierarchical sub-agents for invoice-to-cash/procure-to-pay; 1+y entry-mid band; voice domain soft gap; comp 10x below US-market potential)
+- [!] https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4 | Cartesia | Founding Forward Deployed Engineer (India) | Bangalore in-office -- moved to Procesadas (#918) 2026-05-21 (3.1/5 PDF OK; SSM voice-AI lab Stanford AI Lab founders; ₹70-90L INR + equity; 4+y floor Deepak 2.5y stretch; voice/telephony soft gap; F-1 OPT → India relocation; visa case-by-case)
+- [!] https://job-boards.greenhouse.io/neuraflash/jobs/5583031004 | NeuraFlash | Forward Deployed Engineer (Agentforce) | India Remote (Delhi/NCR, Hyderabad, Bangalore, Pune, Jaipur) -- error: Greenhouse URL redirected to NeuraFlash careers index on 2026-05-21 (job ID stale); archived
+
 ### 2026-05-20
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-20 -->
 - [!] https://ml6team.recruitee.com/o/machine-learning-engineer-1 | ML6 | Machine Learning Engineer | Ghent, Belgium / EU Remote -- error: Recruitee redirected to /careers_not_hosted on 2026-05-20 (posting closed/removed); archived
@@ -89,6 +97,10 @@
 <!-- moved to Procesadas: OpenAI AI Deployment Engineer Startups Singapore #727 -->
 
 ## Procesadas
+
+### 2026-05-21
+- [x] #918 | https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4 | Cartesia | Founding Forward Deployed Engineer (India) | Bangalore in-office | 3.1/5 | PDF ✅
+- [x] #919 | https://www.ycombinator.com/companies/peakflo/jobs/vIrPzMj-forward-deployed-engineer-fde-india-remote | Peakflo | Forward Deployed Engineer (FDE) | India / Remote | 3.0/5 | PDF ✅
 
 ### 2026-05-20
 

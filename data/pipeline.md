@@ -7,6 +7,15 @@
 
 ## Pendientes
 
+### 2026-05-21
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-21 -->
+- [!] https://jobs.ashbyhq.com/pryzm/22f2fab1-7f66-43d2-a268-40e2d25fe173 | Pryzm | Forward Deployed Engineer (Delta) | Boston / NYC / Washington DC -- On-site -- filter slip: hard blocker US Person required + active clearance preferred (F-1 OPT incompatible); skipped
+- [!] https://jobs.ashbyhq.com/openai/305a4b22-7ff9-4fa5-9229-c6a22c9aa64f | OpenAI | Forward Deployed Engineer - SF | San Francisco -- moved to Procesadas (#917) 2026-05-21 (3.0/5 PDF OK; SF hybrid 3d/wk + 50% travel; $162-280K + equity; 5+y senior gate Deepak 2.5y large gap; pitch mid IC FDE II; relocation assistance offered)
+- [!] https://jobs.ashbyhq.com/openai/5be2fe7d-0624-4a8d-b3db-3bfbfd4999e6 | OpenAI | Forward Deployed Engineer - Life Sciences | NYC -- error: Ashby GraphQL returned null on 2026-05-21 (posting closed or ID stale); archived
+- [!] https://jobs.ashbyhq.com/sardine/4ff32b5d-13c6-4024-826c-04ed2881d688 | Sardine | Forward Deployed AI Engineer | Bay Area / NYC / Austin / Toronto / São Paulo -- error: Ashby GraphQL returned null on 2026-05-21 (posting closed or ID stale); archived
+- [!] https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex Labs | Forward Deployed AI Engineer | NYC on-site 5d/wk -- moved to Procesadas (#916) 2026-05-21 (3.5/5 PDF OK; AI-native consulting; $180K guaranteed + uncapped variable story-points; agentic coding tools 1:1; 3+y floor stretches Deepak 2.5y; F-1 OPT relocation needed)
+- [!] https://www.workatastartup.com/jobs/78372 | nao Labs | Founding AI Engineer | San Francisco (verify) -- error: workatastartup.com returned HTTP 404 on 2026-05-21 (posting closed/removed); archived
+
 ### 2026-05-20
 - [!] https://job-boards.greenhouse.io/intercom/jobs/7926025 | Intercom | Partner Solutions Engineer (NAMER & LATAM) | San Francisco, California -- filter slip: Solutions Engineer / pre-sales role (off-archetype, GTM-adjacent); skipped
 - [!] https://job-boards.greenhouse.io/intercom/jobs/7943223 | Intercom | Partner Solutions Engineer (NAMER & LATAM) | Chicago, Illinois -- filter slip: same off-archetype Partner Solutions Engineer role as SF posting above; skipped
@@ -603,6 +612,10 @@
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA | EMEA — duplicate of #128 family (already evaluated 2026-04-24); not re-evaluated
 
 ## Procesadas
+
+### 2026-05-21
+- [x] #916 | https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex Labs | Forward Deployed AI Engineer | NYC on-site 5d/wk | 3.5/5 | PDF ✅
+- [x] #917 | https://jobs.ashbyhq.com/openai/305a4b22-7ff9-4fa5-9229-c6a22c9aa64f | OpenAI | Forward Deployed Engineer (SF) | San Francisco — Hybrid 3d/wk + 50% travel | 3.0/5 | PDF ✅
 
 ### 2026-05-20
 - [x] #912 | https://jobs.ashbyhq.com/vitalize/fabef30a-92fd-468a-b2c3-bd04ea15a927 | Vitalize | Forward Deployed Engineer | San Francisco HQ -- ~50% travel | 3.8/5 | PDF ✅
