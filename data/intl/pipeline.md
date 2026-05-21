@@ -25,6 +25,17 @@
 - [!] https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4700402101 | Cambridge Consultants | Graduate AI Engineer (2026 start) | Cambridge, UK -- On-site -- moved to Procesadas (#921) 2026-05-21 (3.0/5 PDF OK; Capgemini-owned deep-tech consultancy; May-October 2026 cohort; foundation models + transformers + diffusion + agentic preferred stack 1:1; F-1 OPT -> UK Skilled Worker visa friction; ~£35-45K below US targets; apply only if open to UK pivot)
 - [!] https://job-boards.eu.greenhouse.io/yld/jobs/4644589101 | YLD | AI Engineer | London, UK / Lisbon / Porto -- Hybrid -- moved to Procesadas (#922) 2026-05-21 (3.3/5 PDF OK; consultancy AI-native Digital Platform; RAG+embeddings+vector+agentic+LangChain+LlamaIndex+OpenAI+Anthropic stack 1:1; F-1 OPT -> UK Skilled Worker or PT Tech Visa needed; comp not disclosed; apply if open to UK/PT relocation)
 - [!] https://job-boards.eu.greenhouse.io/surfai/jobs/4704150101 | Surf AI | AI Engineer - AI Agents Team | Tel Aviv -- filter slip: 5+ years senior gate + Tel Aviv on-site (F-1 OPT IL work auth + senior gate); skipped
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-21 (overnight 15:30Z) -->
+- [!] https://jobs.ashbyhq.com/openai/07d62dc2-9bbc-4149-ba43-d4ab748a21f4 | OpenAI | Forward Deployed Software Engineer - Munich | Munich, Germany -- Hybrid 3d/wk + 50% travel -- moved to Procesadas (#930) 2026-05-21 (3.3/5 PDF OK; OpenAI Model Deployment for Business; multi-provider integration + scale delivery 1:1 with Manga Lens + Healthcare Claims; F-1 OPT → DE Skilled Worker / Blue Card needed; OpenAI relocation assistance offered)
+- [!] https://jobs.ashbyhq.com/eloquentai/b636810c-e01b-4f9b-8aed-9a0856fee42e | Eloquent AI | AI Engineer | London, UK -- Hybrid (verify cadence) -- moved to Procesadas (#931) 2026-05-21 (3.2/5 PDF OK; SF HQ + global footprint; multimodal autonomous AI Operators for financial services + insurers; agentic + regulated-domain 1:1 with Healthcare Claims + Manga Lens browser agent; F-1 OPT → UK Skilled Worker visa needed)
+- [!] https://jobs.ashbyhq.com/airapps/594fe7b6-476b-47a6-b5cc-a352937e6542 | Air Apps | AI/ML Engineer | Paris, France -- Fully onsite -- moved to Procesadas (#932) 2026-05-21 (2.7/5 below threshold; €60-76K below US AI Eng band; family-founded 100M+ downloads consumer mobile apps; mobile-native ML tangential; F-1 OPT → FR work auth + French language soft block; SKIP)
+- [!] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4658308101 | Speechmatics | Forward Deployed Engineer | London, UK (verify) -- error: JD body reports San Francisco location and Marketing dept tagging; no full JD retrievable from listing page; could not extract evaluation-grade content; archived
+- [!] https://job-boards.eu.greenhouse.io/amdaris/jobs/4638381101 | Amdaris | AI Forward Deployed Engineer | UK / Romania / Moldova (verify) -- filter slip: Amdaris listing page no longer shows AI FDE role; all current AI listings are Principal / Senior gate (off-archetype); skipped
+- [!] https://job-boards.eu.greenhouse.io/invisibletech/jobs/4639694101 | Invisible Technologies | Software Engineer - Forward Deployed | Remote EU (verify) -- filter slip: all current Invisible Tech FDE roles are Principal / Senior / Staff Software Engineer gate (off-archetype); skipped
+- [!] https://www.ycombinator.com/companies/telli/jobs/zdqC5C2-forward-deployed-engineer-ai | telli | Forward Deployed Engineer (AI) | Berlin, Germany (verify) -- error: YC company page returned HTTP 404 on 2026-05-21 (posting closed/removed); archived
+- [!] https://jobs.ashbyhq.com/nelly/a1d054b8-6ece-4240-ad54-d4db2d0fc427 | Nelly Solutions | Senior AI Engineer | Berlin, Germany -- In-office (verify hybrid) -- moved to Procesadas (#933) 2026-05-21 (3.0/5 PDF OK; healthcare-fintech AI division billing/payments/patient journey; deep ML + cloud + data eng 1:1 with Progress Solutions; Senior gate 5+y typical Deepak 2.5y stretch; F-1 OPT → DE Skilled Worker / Blue Card needed)
+- [!] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer (PST timezone) | Remote PST (verify Canada/US eligibility) -- error: PolyAI listing page does not expose JD body for this posting ID; sibling Toronto-required posting was already evaluated #915 (3.1/5; CAD comp + Canadian work auth blocker for F-1 OPT); archived
+- [!] https://careers.nordea.com/job/Helsinki-Associate-Forward-Deployed-AI-Scientist-00500/1387719933/ | Nordea Bank | Associate Forward Deployed AI Scientist | Helsinki / Stockholm / Copenhagen -- error: careers.nordea.com page shows 'Sorry, this position has been filled.' on 2026-05-21 (application deadline May 17 passed); archived
 
 ### 2026-05-20
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-20 -->
@@ -32,7 +43,6 @@
 - [!] https://job-boards.eu.greenhouse.io/physicsx/jobs/4860241101 | PhysicsX | Forward Deployed Software Engineer | Singapore -- moved to Procesadas (#913) 2026-05-20 (3.0/5 PDF OK; Singapore on-site + ~3-4 weeks/q travel APAC/NA/EU; physics-AI / engineering simulation; visa sponsored Employment Pass; mech-eng domain stretch)
 - [!] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe) | London, UK -- moved to Procesadas (#914) 2026-05-20 (3.2/5 PDF OK; London + remote-flexible across Cohere offices; North enterprise AI workspace; Python+RAG+agents 1:1; F-1 OPT → UK Skilled Worker visa friction)
 - [!] https://job-boards.eu.greenhouse.io/polyai/jobs/4855037101 | PolyAI | Forward Deployed AI Engineer | Toronto, Canada -- moved to Procesadas (#915) 2026-05-20 (3.1/5 PDF OK; Toronto mandatory; CAD $120-170K + equity; 2-5y mid client-facing; voice/conversational AI domain stretch; F-1 OPT → CA work permit friction)
-
 
 ### 2026-05-19
 - [!] https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer - Computer Vision | Berlin / London / Munich -- moved to Procesadas (#898) 2026-05-19 (3.2/5 PDF OK; defense AI EU sovereignty; MSc match; Drowsiness YOLOv8 + Video Summarization proofs; F-1 OPT EU relocation needed)
@@ -103,6 +113,9 @@
 ## Procesadas
 
 ### 2026-05-21
+- [x] #930 | https://jobs.ashbyhq.com/openai/07d62dc2-9bbc-4149-ba43-d4ab748a21f4 | OpenAI | Forward Deployed Software Engineer (Munich) | Munich, Germany -- Hybrid 3d/wk + 50% travel | 3.3/5 | PDF ✅
+- [x] #931 | https://jobs.ashbyhq.com/eloquentai/b636810c-e01b-4f9b-8aed-9a0856fee42e | Eloquent AI | AI Engineer | London, UK -- Hybrid (verify cadence) | 3.2/5 | PDF ✅
+- [x] #933 | https://jobs.ashbyhq.com/nelly/a1d054b8-6ece-4240-ad54-d4db2d0fc427 | Nelly Solutions | Senior AI Engineer | Berlin, Germany -- In-office (verify hybrid) | 3.0/5 | PDF ✅
 - [x] #918 | https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4 | Cartesia | Founding Forward Deployed Engineer (India) | Bangalore in-office | 3.1/5 | PDF ✅
 - [x] #919 | https://www.ycombinator.com/companies/peakflo/jobs/vIrPzMj-forward-deployed-engineer-fde-india-remote | Peakflo | Forward Deployed Engineer (FDE) | India / Remote | 3.0/5 | PDF ✅
 

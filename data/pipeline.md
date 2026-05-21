@@ -20,7 +20,17 @@
 - [!] https://job-boards.greenhouse.io/anthropic/jobs/5121563008 | Anthropic | Forward Deployed Engineer | Boston / NYC / Seattle / SF / DC -- Hybrid 25% + 25-50% travel -- moved to Procesadas (#920) 2026-05-21 (4.1/5 PDF OK; sibling of #819 FDE Applied AI 4.3/5; $280-320K + equity; 4+y floor stretches Deepak 2.5y; MCP + sub-agents + Healthcare Claims JSON-contracts direct; Anthropic sponsorship explicit per past FDE JDs; apply priority)
 - [!] https://jobs.ashbyhq.com/saris-ai/4a6cd225-edb7-4a9f-80e0-cab601a7f092 | Saris AI | Forward Deployed Engineer (FDE) | Montreal / San Francisco -- error: Ashby GraphQL board no longer lists posting ID on 2026-05-21 (posting closed/removed); archived
 - [!] https://www.workatastartup.com/jobs/80966 | Distro | Forward Deployed Engineer | San Francisco -- error: workatastartup.com returned HTTP 404 on 2026-05-21 (posting closed/removed); archived
-
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-21 (overnight 15:30Z) -->
+- [!] https://www.ycombinator.com/companies/arist/jobs/YvFJJNd-founding-forward-deployed-engineer | Arist | Founding Forward Deployed Engineer | New York, NY / Remote US -- moved to Procesadas (#923) 2026-05-21 (2.5/5 below threshold; $200-220K + 0.10% equity; YC + Acadian + Soma + Fortune 500 customers; 6+y senior gate Deepak 2.5y + US citizen/visa only hard blockers; SKIP)
+- [!] https://www.ycombinator.com/companies/avallon-ai/jobs/EKbBPmB-founding-forward-deployed-engineer | Avallon AI | Founding Forward Deployed Engineer | New York, NY -- moved to Procesadas (#924) 2026-05-21 (2.7/5 below threshold; YC P25 insurance claims AI; $140-200K + 0.30-1.00% equity; insurance claims domain 1:1 with Healthcare Claims project; US citizen/visa only hard blocker; SKIP)
+- [!] https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer | Proliferate | Founding Engineer | San Francisco (SoMa) -- moved to Procesadas (#925) 2026-05-21 (4.0/5 PDF OK; agent runtime + agent OS; $200-350K + 0.50-2.00% equity; visa sponsorship Yes + new grads welcome; TS/React/Next/Python/Postgres stack 1:1; SF on-site + paid work trial; priority apply)
+- [!] https://www.ycombinator.com/companies/soff/jobs/OTA9QxR-ai-native-forward-deployed-engineer | Soff | AI-Native Forward Deployed Engineer | San Francisco -- moved to Procesadas (#926) 2026-05-21 (2.6/5 below threshold; YC + GC-backed AI agents physical world sales automation; $150-200K + 0.5-1.5% equity; 3+y floor stretch Deepak 2.5y + US citizen/visa only hard blocker; SKIP)
+- [!] https://www.ycombinator.com/companies/terrakotta/jobs/Wh899KZ-forward-deployed-engineer | Terrakotta | Forward Deployed Engineer | San Francisco (verify) -- error: YC company page returned HTTP 404 on 2026-05-21 (posting closed/removed); archived
+- [!] https://www.ycombinator.com/companies/andy-ai/jobs/TXZ6eTG-founding-engineer-full-stack | Andy AI | Founding Engineer - Full Stack | San Francisco -- moved to Procesadas (#927) 2026-05-21 (4.0/5 PDF OK; YC home-health clinical documentation AI; $120-200K + 0.5-3.0% equity; Will Sponsor visa; healthcare AI + HIPAA + LLM + audio/PDF 1:1 with Progress Solutions + Suvidha + Healthcare Claims; 3+y floor stretch Deepak 2.5y soft; priority apply)
+- [!] https://havocai.breezy.hr/p/927df36a3cfb-ai-ml-engineer/apply | HavocAI | AI/ML Engineer | US (verify - defense maritime) -- error: BreezyHR page returned No Positions on 2026-05-21 (posting closed/removed); archived
+- [!] https://lauretta-ai-llc.breezy.hr/p/ef54a1749349-machine-learning-engineer-l-1 | Lauretta AI | Machine Learning Engineer L-1 | Austin, TX -- moved to Procesadas (#928) 2026-05-21 (2.8/5 below threshold; $80-93K below US AI Eng floor; fresh grads OK; CV + MLOps; government security clearance preferred (F-1 OPT incompatible); company description missing; SKIP)
+- [!] https://job-boards.greenhouse.io/superblocks/jobs/4534781005 | Superblocks | Forward Deployed Engineer | New York / Remote US -- error: Greenhouse posting returned HTTP 404 on 2026-05-21 (job ID stale/closed); archived
+- [!] https://job-boards.greenhouse.io/snorkelai/jobs/5689470004 | Snorkel AI | Forward Deployed Engineer - Data-as-a-Service | NYC / Redwood City / SF Hybrid -- moved to Procesadas (#929) 2026-05-21 (3.5/5 PDF OK; Stanford AI Lab spinout Series C; $172-300K + equity; eval + synthetic data + LLM validation 1:1 with Progress Solutions eval pipelines; 4+y senior gate Deepak 2.5y stretch; visa indicate upfront; apply with eval pitch)
 
 ### 2026-05-20
 - [!] https://job-boards.greenhouse.io/intercom/jobs/7926025 | Intercom | Partner Solutions Engineer (NAMER & LATAM) | San Francisco, California -- filter slip: Solutions Engineer / pre-sales role (off-archetype, GTM-adjacent); skipped
@@ -29,7 +39,6 @@
 - [!] https://job-boards.greenhouse.io/komodohealth/jobs/8447517002 | Komodo Health | Forward Deployed Software Engineer III, AI | Remote -- error: Greenhouse redirected to ?error=true on 2026-05-20 (posting closed); current Komodo opening "Forward Deployed, Senior Software Engineer (AI)" is India-only Senior gate (F-1 OPT geo + senior blocker); archived
 - [!] https://apply.workable.com/maxcare/j/3B44B5B1F2/ | Max AI | AI Engineer (Medical Billing Agent) | San Francisco, California -- On-site 5d/wk -- moved to Procesadas (#911) 2026-05-20 (3.0/5 PDF OK; healthcare RCM "Stripe for Healthcare"; NLP/transformers/HuggingFace/LLM fine-tuning 1:1; 6+y senior gate Deepak 2.5y large gap; SF relocation + visa needed; Healthcare Claims project mirrors medical billing agent pattern)
 - [!] https://jobs.ashbyhq.com/vitalize/fabef30a-92fd-468a-b2c3-bd04ea15a927 | Vitalize | Forward Deployed Engineer | San Francisco HQ — 50% travel -- moved to Procesadas (#912) 2026-05-20 (3.8/5 PDF OK; healthcare workforce-ops AI SF HQ; $195-275K + equity; 2+y mid match Deepak 2.5y in-band; ~50% travel + relocation + visa friction)
-
 
 ### 2026-05-19
 - [!] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco (USA) -- moved to Procesadas (#895) 2026-05-19 (3.4/5 PDF OK; FLUX/diffusion frontier lab; SD+LoRA+ControlNet Pixel project direct proof; SF hybrid 2d/wk + relocation; sponsorship unstated)
@@ -164,7 +173,6 @@
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5704417004 | Arize AI | Developer Relations Engineer | Remote - New York -- moved to Procesadas (#789) 2026-05-15 (3.3/5 PDF OK)
 <!-- moved to Procesadas: Hightouch AI SE East #715 (low score 2.6, archived) -->
 <!-- moved to Procesadas: Anthropic FDE Applied AI #703 -->
-
 
 <!-- Level 2b Lever API — inherently fresh -->
 - [!] https://jobs.lever.co/palantir/50a8a83d-cc13-44b2-bc0c-4730fd7aa51c | Palantir | American Tech Fellowship - Frontier | North America — unpaid 8-week training program (not a paid job; May 15 application deadline); SKIP — not a hireable role
@@ -622,6 +630,10 @@
 ### 2026-05-21
 - [x] #916 | https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex Labs | Forward Deployed AI Engineer | NYC on-site 5d/wk | 3.5/5 | PDF ✅
 - [x] #917 | https://jobs.ashbyhq.com/openai/305a4b22-7ff9-4fa5-9229-c6a22c9aa64f | OpenAI | Forward Deployed Engineer (SF) | San Francisco — Hybrid 3d/wk + 50% travel | 3.0/5 | PDF ✅
+- [x] #920 | https://job-boards.greenhouse.io/anthropic/jobs/5121563008 | Anthropic | Forward Deployed Engineer | Boston / NYC / Seattle / SF / DC -- Hybrid 25% + 25-50% travel | 4.1/5 | PDF ✅
+- [x] #925 | https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer | Proliferate | Founding Engineer | San Francisco (SoMa) | 4.0/5 | PDF ✅
+- [x] #927 | https://www.ycombinator.com/companies/andy-ai/jobs/TXZ6eTG-founding-engineer-full-stack | Andy AI | Founding Engineer (Full Stack) | San Francisco | 4.0/5 | PDF ✅
+- [x] #929 | https://job-boards.greenhouse.io/snorkelai/jobs/5689470004 | Snorkel AI | Forward Deployed Engineer (Data-as-a-Service) | NYC / Redwood City / SF Hybrid | 3.5/5 | PDF ✅
 
 ### 2026-05-20
 - [x] #912 | https://jobs.ashbyhq.com/vitalize/fabef30a-92fd-468a-b2c3-bd04ea15a927 | Vitalize | Forward Deployed Engineer | San Francisco HQ -- ~50% travel | 3.8/5 | PDF ✅
