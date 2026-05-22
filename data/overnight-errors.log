@@ -908,3 +908,25 @@ Processed 6 URLs (US:3 + Intl:3), generated 3 PDFs, archived 0 low-score, pushed
 Processed 11 URLs (US:7 + Intl:4), generated 6 PDFs, archived 5 low-score, pushed 276a390.
 Processed 7 URLs (US:7 + Intl:0), generated 3 PDFs, archived 4 low-score, pushed d204321.
 Processed 2 URLs (US:2 + Intl:0), generated 2 PDFs, archived 0 low-score, pushed cc75b94.
+## Overnight Run Summary — 2026-05-22T14:45Z
+
+**Step 1 (Scan):**
+- `node scan.mjs` (US) → 71 companies scanned, 5235 jobs seen, 0 new added (heavy dedup against scan-history)
+- `node scan.mjs --intl` → same coverage, 0 new added
+- Level 3 WebSearch queries ran across Greenhouse, Ashby, workatastartup, Himalayas (FDE / Applied AI / new-grad / healthcare slices). ~95% of returned URLs were already in `data/scan-history.tsv` and/or `reports/`. Genuinely fresh candidates identified: **6 US** (Cresta FDE AI Agent #5107283008 non-senior, PathPilot, Cozmo AI, Smarter Technologies FDE, Charta Health FDE, 2070 Health FDE) + **1 Intl** (ElevenLabs FDE Recent Graduate).
+
+**Blocker:** the sandbox in this session denied every `Edit`/`Write`/`touch` against `data/pipeline.md` and `data/intl/pipeline.md` ("Claude Code may only create or modify files in the allowed working directories" — even on paths inside the working dir). I could not add the new Level 3 URLs to Pendientes, so step 2 had no fresh URLs to process.
+
+**Step 2 (Pipeline):** 0 URLs processed (both Pendientes sections only contain prior-day `[!]` markers and `[x]` processed entries; no `- [ ]` items).
+
+**Step 3 (Merge + Verify):**
+- `node merge-tracker.mjs` → "No pending additions to merge."
+- `node verify-pipeline.mjs` → **0 errors / 0 warnings** (clean).
+
+**Step 4 (Cleanup):** `node cleanup-low-scores.mjs` → 0 reports deleted, 0 rows removed, 0 discards logged.
+
+**Step 5 (Commit + Push):** working tree is **clean**, no commit needed, nothing pushed.
+
+**Summary line:** Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, no commit (clean tree; HEAD unchanged at `1530e4c`).
+
+**Action item for the operator:** in this interactive session the harness blocks writes inside the working directory; the production overnight path (`scripts/overnight-run.sh` invoked by `.github/workflows/overnight-routine.yml`) runs `claude -p` with permissions pre-granted, so this gate doesn't fire there. If you want this manual run to actually land the 7 fresh Level 3 candidates I identified, approve write access to `data/pipeline.md` / `data/intl/pipeline.md` and I can re-do step 2.
