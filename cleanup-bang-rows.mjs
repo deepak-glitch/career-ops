@@ -92,6 +92,38 @@ function saveScanHistory(p, headerLine, byUrl) {
   fs.writeFileSync(p, out);
 }
 
+function stripEmptySubsections(lines) {
+  // Split into groups by ### headers. Drop any group whose body has no
+  // list items (- [ ], - [x], - [!]). The pre-prelude (before first ###)
+  // is always kept.
+  const groups = [];
+  let current = { header: null, lines: [] };
+  for (const line of lines) {
+    if (/^### /.test(line)) {
+      groups.push(current);
+      current = { header: line, lines: [] };
+    } else {
+      current.lines.push(line);
+    }
+  }
+  groups.push(current);
+
+  let droppedSubsections = 0;
+  const result = [];
+  for (const g of groups) {
+    const hasItems = g.lines.some(l => /^- (\[ \]|\[x\]|\[!\])/.test(l));
+    if (g.header === null) {
+      result.push(...g.lines);
+    } else if (hasItems) {
+      result.push(g.header);
+      result.push(...g.lines);
+    } else {
+      droppedSubsections++;
+    }
+  }
+  return { lines: result, droppedSubsections };
+}
+
 function cleanup(pipelineCfg, today, reportsDir) {
   const pipelineFile = path.join(REPO, pipelineCfg.pipelinePath);
   const historyFile = path.join(REPO, pipelineCfg.historyPath);
@@ -164,7 +196,8 @@ function cleanup(pipelineCfg, today, reportsDir) {
     kept.push(line);
   }
 
-  const newBlock = kept.join('\n');
+  const stripped = stripEmptySubsections(kept);
+  const newBlock = stripped.lines.join('\n');
   const newRaw = raw.slice(0, blockStart) + newBlock + raw.slice(blockEnd);
   fs.writeFileSync(pipelineFile, newRaw);
 
@@ -172,7 +205,7 @@ function cleanup(pipelineCfg, today, reportsDir) {
     saveScanHistory(historyFile, histHeader, histMap);
   }
 
-  return { track: pipelineCfg.track, audit, histDirty };
+  return { track: pipelineCfg.track, audit, histDirty, droppedSubsections: stripped.droppedSubsections };
 }
 
 const today = new Date().toISOString().slice(0, 10);
@@ -194,6 +227,7 @@ for (const r of results) {
   out.push(`- Deleted (dead URL):               ${r.audit.dead.length}`);
   out.push(`- Deleted (filter slip):            ${r.audit.filter.length}`);
   out.push(`- Kept (unmatched, manual review):  ${r.audit.unmatched.length}`);
+  out.push(`- Empty subsections dropped:        ${r.droppedSubsections}`);
   out.push(`- scan-history.tsv updated:         ${r.histDirty ? 'yes' : 'no'}`);
   out.push('');
 
@@ -212,6 +246,6 @@ fs.writeFileSync(auditPath, out.join('\n'));
 
 console.log('Pipeline cleanup complete.');
 for (const r of results) {
-  console.log(`  ${r.track}: done=${r.audit.done.length} (report_already_removed=${r.audit.doneReportMissing.length}), duplicate=${r.audit.duplicate.length}, dead=${r.audit.dead.length}, filter=${r.audit.filter.length}, kept_unmatched=${r.audit.unmatched.length}`);
+  console.log(`  ${r.track}: done=${r.audit.done.length} (report_already_removed=${r.audit.doneReportMissing.length}), duplicate=${r.audit.duplicate.length}, dead=${r.audit.dead.length}, filter=${r.audit.filter.length}, kept_unmatched=${r.audit.unmatched.length}, empty_subsections_dropped=${r.droppedSubsections}`);
 }
 console.log(`Audit log: ${path.relative(REPO, auditPath)}`);

@@ -13,51 +13,7 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pendientes
-
-### 2026-05-22
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-22 (10:52Z) -->
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-22 (late evening run) -->
-
-### 2026-05-21
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-21 -->
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-21 (PM run) -->
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-21 (overnight 15:30Z) -->
-
-### 2026-05-20
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-20 -->
-
-### 2026-05-19
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 -->
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (late AM run) -->
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (evening run) -->
-
-### 2026-05-18
-<!-- Level 3 WebSearch overnight sweep — 2026-05-18 -->
-<!-- Level 3 WebSearch overnight sweep — 2026-05-18 (PM run) -->
-
-### 2026-05-17
-<!-- Level 3 WebSearch overnight sweep — 2026-05-17 (overnight batch 2) -->
-
-### 2026-05-16
-<!-- Level 3 WebSearch overnight sweep — 2026-05-16 -->
-<!-- Level 3 WebSearch overnight sweep -- 2026-05-16 (AM run) -->
-
-### 2026-05-15
-<!-- Level 3 WebSearch overnight sweep — 2026-05-15 -->
-
-<!-- ▼ Manual additions — paste new URLs below as: `- [ ] {url} | {Company} | {Role} | {Location}` -->
-
-### 2026-05-14
-
-<!-- Level 3 WebSearch overnight — 2026-05-14 -->
-
-### 2026-05-13
-<!-- moved to Procesadas: #721-#726 (Intercom London, Vercel Lon/Ber, Arize APJ, Helsing x3) -->
-
-<!-- Level 3 WebSearch overnight sweep — liveness-checked 2026-05-13 -->
-<!-- moved to Procesadas: OpenAI AI Deployment Engineer Startups Singapore #727 -->
-
-## Procesadas
+## Procesadas
 
 ### 2026-05-22
 - [x] #944 | https://job-boards.greenhouse.io/sezzle/jobs/7633951003 | Sezzle | AI Engineer I (LATAM) | Latin America (Remote LATAM) | 1.8/5 SKIP | PDF ❌
