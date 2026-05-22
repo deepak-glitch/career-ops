@@ -18,6 +18,8 @@
 - [!] https://www.ycombinator.com/companies/prox/jobs/nFsTemY-founding-forward-deployed-engineer | Prox | Founding Forward Deployed Engineer | San Francisco (verify) -- error: YC company page returned HTTP 404 on 2026-05-22 (posting closed/removed); archived
 - [!] https://www.cadence.care/jobs/applied-ai-engineer/ | Cadence | Applied AI Engineer | Remote US -- moved to Procesadas (#942) 2026-05-22 (4.1/5 PDF OK; fully remote US healthcare AI for older adults; $135-165K + equity; 3+y SWE / 2+y AI/ML floor Deepak in-band on AI/ML; clinical RAG + multi-agent orchestration + safety/eval frameworks 1:1 with Progress Solutions + Healthcare Claims; HIPAA discipline direct)
 - [!] https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5 | ElevenLabs | Enterprise Solutions Engineer - Germany | Germany -- rerouted to Intl track (Germany location); see data/intl/pipeline.md
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-22 (late evening run) -->
+- [!] https://jobs.ashbyhq.com/concentrate%20ai/42e613b8-8532-44f8-ab0e-de18e6fbc2e3 | Concentrate AI | AI Engineer | United States (Remote) -- moved to Procesadas (#943) 2026-05-22 (3.6/5 PDF OK; stealth seed-stage LLM-proxy platform; Manga Lens multi-provider abstraction + Healthcare Claims multi-agent + Progress production LLM 1:1; mid IC builder; no comp range disclosed; F-1 OPT sponsorship not explicit)
 
 
 ### 2026-05-21
@@ -654,7 +656,8 @@
 ## Procesadas
 
 ### 2026-05-22
-- [x] #934 | https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US | Remote (United States) | 3.7/5 | PDF ✅
+
+- [x] #943 | https://jobs.ashbyhq.com/concentrate%20ai/42e613b8-8532-44f8-ab0e-de18e6fbc2e3 | Concentrate AI | AI Engineer | United States (Remote) | 3.6/5 | PDF ✅- [x] #934 | https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US | Remote (United States) | 3.7/5 | PDF ✅
 - [x] #935 | https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea | Decagon | Software Engineer, Agent Orchestration | San Francisco -- In-office | 3.2/5 | PDF ✅
 - [x] #940 | https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer | CollectWise | Forward Deployed Engineer | New York, NY -- On-site | 3.4/5 | PDF ✅
 - [x] #941 | https://www.ycombinator.com/companies/karumi/jobs/mzQuJ9K-founding-forward-deployed-engineer-fde | Karumi | Founding Forward Deployed Engineer | NYC (SF/Madrid considered) | 3.9/5 | PDF ✅

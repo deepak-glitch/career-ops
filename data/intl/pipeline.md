@@ -19,6 +19,11 @@
 - [!] https://job-boards.greenhouse.io/runpod/jobs/5082425008 | RunPod | Forward Deployed Engineer (EMEA) | EMEA Remote (verify) -- error: Greenhouse API returned HTTP 404 on 2026-05-22 (job ID closed/stale); current RunPod active FDE is APAC-only (5173070008) which is a F-1 OPT geo hard blocker; archived
 - [!] https://silenteight.teamtailor.com/jobs/6775552-forward-deployed-ai-engineer-llm-ml-investigations-decisioning | Silent Eight | Forward-Deployed AI Engineer (LLM/ML) | Poland Fully Remote -- filter slip: Polish + English fluency required (Polish language hard blocker for Deepak) + Poland-only fully remote (F-1 OPT geo hard blocker); skipped
 - [!] https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5 | ElevenLabs | Enterprise Solutions Engineer - Germany | Germany Remote -- moved to Procesadas (#943) 2026-05-22 (2.8/5 below threshold; pre-sales SE archetype mismatch; voice/audio domain gap; F-1 OPT to DE Skilled Worker friction; comp not disclosed; SKIP)
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-22 (late evening run) -->
+- [!] https://job-boards.greenhouse.io/sezzle/jobs/7633951003 | Sezzle | AI Engineer I | Remote LATAM -- moved to Procesadas (#944) 2026-05-22 (1.8/5 below threshold; LATAM-only $30-40K USD; F-1 OPT cannot relocate to LATAM; comp ~75 pct below US band; SKIP)
+- [!] https://job-boards.greenhouse.io/sezzle/jobs/7633956003 | Sezzle | AI Engineer I | Bogota, Colombia (Remote) -- moved to Procesadas (#945) 2026-05-22 (1.7/5 below threshold; Bogota Colombia $30-40K USD; F-1 OPT geo hard blocker; SKIP)
+- [!] https://job-boards.greenhouse.io/globalli/jobs/4933314007 | Globalli | AI Engineer | Mexico -- error: Greenhouse API returned HTTP 404 on 2026-05-22 (job ID closed/stale); archived
+- [!] https://jobs.ashbyhq.com/reedsy/b043b550-02b7-416f-8969-5db8fd9dc8ee | Reedsy | AI Engineer - Remote Europe | United Kingdom (Remote) -- moved to Procesadas (#946) 2026-05-22 (3.4/5 PDF OK; UK-listed self-publishing marketplace AI authoring tools; EUR 70-120K + 0-0.2 pct equity; LangChain/LlamaIndex/RAG/fine-tuning 1:1 with CV; F-1 OPT to UK Skilled Worker visa needed; apply if open to UK pivot)
 
 ### 2026-05-21
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-21 -->
@@ -119,6 +124,9 @@
 ## Procesadas
 
 ### 2026-05-22
+- [x] #944 | https://job-boards.greenhouse.io/sezzle/jobs/7633951003 | Sezzle | AI Engineer I (LATAM) | Latin America (Remote LATAM) | 1.8/5 SKIP | PDF ❌
+- [x] #945 | https://job-boards.greenhouse.io/sezzle/jobs/7633956003 | Sezzle | AI Engineer I (Bogota) | Bogota, Colombia (Remote) | 1.7/5 SKIP | PDF ❌
+- [x] #946 | https://jobs.ashbyhq.com/reedsy/b043b550-02b7-416f-8969-5db8fd9dc8ee | Reedsy | AI Engineer - Remote Europe | United Kingdom (Remote) | 3.4/5 | PDF ✅
 
 ### 2026-05-21
 - [x] #930 | https://jobs.ashbyhq.com/openai/07d62dc2-9bbc-4149-ba43-d4ab748a21f4 | OpenAI | Forward Deployed Software Engineer (Munich) | Munich, Germany -- Hybrid 3d/wk + 50% travel | 3.3/5 | PDF ✅
