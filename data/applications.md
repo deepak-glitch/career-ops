@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 947 | 2026-05-22 | iCapital | Artificial Intelligence Forward Deployment Engineer - Associate | 3.7/5 | Evaluated | ✅ | [947](reports/947-icapital-ai-fde-associate-2026-05-22.md) | [US] Associate FDE; agentic/RAG fintech; $100-135K NYC 4d/wk; Python/AWS/MCP fit; Copilot Studio gap; tech 1:1 match |
+| 948 | 2026-05-22 | Ocrolus | Mortgage Forward-Deployed Engineer | 3.1/5 | Evaluated | ✅ | [948](reports/948-ocrolus-mortgage-fde-2026-05-22.md) | [US] Remote-US FDE $150-170K; Python/React/SQL fit; mortgage/Encompass domain hard gap; SKIP unless hidden mortgage exposure |
 | 943 | 2026-05-22 | Concentrate AI | AI Engineer | 3.6/5 | Evaluated | ✅ | [943](reports/943-concentrate-ai-2026-05-22.md) | [US] Stealth seed-stage LLM-proxy platform; remote-US; multi-provider abstraction + production debug 1:1 |
 | 946 | 2026-05-22 | Reedsy | AI Engineer (Remote Europe) | 3.4/5 | Evaluated | ✅ | [946](reports/946-reedsy-ai-engineer-2026-05-22.md) | [Intl] UK-listed publishing AI; EUR 70-120K + equity; LangChain/LlamaIndex/RAG/fine-tuning 1:1; F-1 OPT to UK Skilled Worker visa needed |
 | 941 | 2026-05-22 | Karumi | Founding Forward Deployed Engineer | 3.9/5 | Evaluated | ✅ | [941](reports/941-karumi-founding-fde-2026-05-22.md) | [US] NYC primary (SF/Madrid considered for relocation); YC founding-eng tier; $100-150K + 0.5-1.0% equity; "Will sponsor" explicit (F-1 OPT positive); browser-agent sales demos 1:1 with Manga Lens MV3 + Pixel orchestrator; 1-3y FDE band Deepak 2.5y in-band; archetype + visa + comp band align; PDF generated |

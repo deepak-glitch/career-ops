@@ -10,6 +10,8 @@
 
 ### 2026-05-22
 
+- [x] #947 | https://job-boards.greenhouse.io/icapitalnetwork/jobs/8457208002 | iCapital | Artificial Intelligence Forward Deployment Engineer - Associate | New York, NY -- Hybrid 4d/wk | 3.7/5 | PDF ✅
+- [x] #948 | https://job-boards.greenhouse.io/ocrolusinc/jobs/5839067004 | Ocrolus | Mortgage Forward-Deployed Engineer | Remote - US (30-50% travel) | 3.1/5 | PDF ✅
 - [x] #943 | https://jobs.ashbyhq.com/concentrate%20ai/42e613b8-8532-44f8-ab0e-de18e6fbc2e3 | Concentrate AI | AI Engineer | United States (Remote) | 3.6/5 | PDF ✅- [x] #934 | https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US | Remote (United States) | 3.7/5 | PDF ✅
 - [x] #935 | https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea | Decagon | Software Engineer, Agent Orchestration | San Francisco -- In-office | 3.2/5 | PDF ✅
 - [x] #940 | https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer | CollectWise | Forward Deployed Engineer | New York, NY -- On-site | 3.4/5 | PDF ✅
