@@ -7,6 +7,17 @@
 
 ## Pendientes
 
+### 2026-05-22
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-22 (10:52Z) -->
+- [!] https://himalayas.app/companies/humana/jobs/applied-ai-engineer | Humana | Applied AI Engineer | Remote US -- error: Himalayas aggregator page no longer surfaces Humana JD content on 2026-05-22 (page returns unrelated listings); current Humana Applied AI ladder is Senior / Lead / Principal gates (Senior gate Deepak 2.5y); archived
+- [!] https://avasure.breezy.hr/p/fc76ef574d66-machine-learning-engineer | AvaSure | Machine Learning Engineer | Remote US (verify) -- error: BreezyHR page returned 'no longer accepting candidates' on 2026-05-22 (posting closed); archived
+- [!] https://vetsez.breezy.hr/p/16bc3061d8d301-ai-ml-platform-engineer-remote-opportunity | VetsEZ | AI/ML Platform Engineer | Remote US -- error: BreezyHR page returned 'no longer accepting candidates' on 2026-05-22 (posting closed); archived
+- [!] https://mind-computing.breezy.hr/p/edde74233ea2-ai-engineer-remote | Mind Computing | AI Engineer | Remote US (continental) -- error: BreezyHR page redirected to 'Software Product Engineer (Remote)' with status 'no longer accepting candidates' on 2026-05-22 (posting closed/renamed); archived
+- [!] https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009 | Opaque Systems | Forward Deployed Engineer (AI) | Romania -- filter slip: Romania location (Intl track) + 5+ years senior gate (Deepak 2.5y); Intl-mis-routed by manual add; skipped
+- [!] https://www.ycombinator.com/companies/karumi/jobs/mzQuJ9K-founding-forward-deployed-engineer-fde | Karumi | Founding Forward Deployed Engineer | NYC primary (SF/Madrid considered) -- moved to Procesadas (#941) 2026-05-22 (3.9/5 PDF OK; YC founding-tier; $100-150K + 0.5-1.0% equity; "Will sponsor" F-1 OPT positive; browser-agent demos 1:1 with Manga Lens MV3 + Pixel orchestrator; 1-3y FDE band Deepak 2.5y in-band)
+- [!] https://www.ycombinator.com/companies/prox/jobs/nFsTemY-founding-forward-deployed-engineer | Prox | Founding Forward Deployed Engineer | San Francisco (verify) -- error: YC company page returned HTTP 404 on 2026-05-22 (posting closed/removed); archived
+- [!] https://www.cadence.care/jobs/applied-ai-engineer/ | Cadence | Applied AI Engineer | Remote US -- moved to Procesadas (#942) 2026-05-22 (4.1/5 PDF OK; fully remote US healthcare AI for older adults; $135-165K + equity; 3+y SWE / 2+y AI/ML floor Deepak in-band on AI/ML; clinical RAG + multi-agent orchestration + safety/eval frameworks 1:1 with Progress Solutions + Healthcare Claims; HIPAA discipline direct)
+
 ### 2026-05-21
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-21 -->
 - [!] https://jobs.ashbyhq.com/pryzm/22f2fab1-7f66-43d2-a268-40e2d25fe173 | Pryzm | Forward Deployed Engineer (Delta) | Boston / NYC / Washington DC -- On-site -- filter slip: hard blocker US Person required + active clearance preferred (F-1 OPT incompatible); skipped
@@ -644,6 +655,8 @@
 - [x] #934 | https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US | Remote (United States) | 3.7/5 | PDF ✅
 - [x] #935 | https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea | Decagon | Software Engineer, Agent Orchestration | San Francisco -- In-office | 3.2/5 | PDF ✅
 - [x] #940 | https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer | CollectWise | Forward Deployed Engineer | New York, NY -- On-site | 3.4/5 | PDF ✅
+- [x] #941 | https://www.ycombinator.com/companies/karumi/jobs/mzQuJ9K-founding-forward-deployed-engineer-fde | Karumi | Founding Forward Deployed Engineer | NYC (SF/Madrid considered) | 3.9/5 | PDF ✅
+- [x] #942 | https://www.cadence.care/jobs/applied-ai-engineer/ | Cadence | Applied AI Engineer | Remote US | 4.1/5 | PDF ✅
 
 ### 2026-05-21
 - [x] #916 | https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex Labs | Forward Deployed AI Engineer | NYC on-site 5d/wk | 3.5/5 | PDF ✅

@@ -14,6 +14,11 @@
 
 ## Pendientes
 
+### 2026-05-22
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-22 (10:52Z) -->
+- [!] https://job-boards.greenhouse.io/runpod/jobs/5082425008 | RunPod | Forward Deployed Engineer (EMEA) | EMEA Remote (verify) -- error: Greenhouse API returned HTTP 404 on 2026-05-22 (job ID closed/stale); current RunPod active FDE is APAC-only (5173070008) which is a F-1 OPT geo hard blocker; archived
+- [!] https://silenteight.teamtailor.com/jobs/6775552-forward-deployed-ai-engineer-llm-ml-investigations-decisioning | Silent Eight | Forward-Deployed AI Engineer (LLM/ML) | Poland Fully Remote -- filter slip: Polish + English fluency required (Polish language hard blocker for Deepak) + Poland-only fully remote (F-1 OPT geo hard blocker); skipped
+
 ### 2026-05-21
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-21 -->
 - [!] https://openai.com/careers/forward-deployed-engineer-singapore-singapore/ | OpenAI | Forward Deployed Engineer | Singapore -- error: openai.com/careers returned HTTP 403 on 2026-05-21 (bot-blocked); archived
