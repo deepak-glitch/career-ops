@@ -51,11 +51,13 @@ Steps:
      - US: node generate-pdf.mjs /tmp/cv-{slug}.html output/{today}/cv-deepak-mallampati-{slug}-{today}.pdf
      - Intl: node generate-pdf.mjs /tmp/cv-{slug}.html output-intl/{today}/cv-deepak-mallampati-{slug}-{today}.pdf
      (mkdir -p the target dir first.) If < 3.0: set PDF line to "Not generated (score < 3.0)".
-   - Move entry from Pendientes to Procesadas in its track's pipeline file, under ### {today}, with Location column
+   - Move entry to Procesadas under ### {today} with Location column. DELETE the row from Pendientes — do NOT leave a "- [!] ... moved to Procesadas (#NNN)" breadcrumb behind. "- [!]" is reserved for genuine transient extraction failures (retryable next run), not for processed entries.
 
 3. MERGE + VERIFY. node merge-tracker.mjs, node verify-pipeline.mjs. Must be 0 errors / 0 warnings across both tracks.
 
-4. CLEANUP. node cleanup-low-scores.mjs — HARD RULE: this DELETES every artifact (report file, applications.md row, pipeline.md/intl-pipeline.md `- [x]` row, tracker-addition TSV, any stray PDF) for evaluations with score < 3.0. The legacy reports/below-threshold/ directory must remain empty — NEVER archive low-score reports there. Only data/discarded.tsv retains a thin audit row (metadata only).
+4. CLEANUP — run BOTH scripts in this order:
+   a. node cleanup-low-scores.mjs — HARD RULE: DELETES every artifact (report file, applications.md row, pipeline.md/intl-pipeline.md `- [x]` row, tracker-addition TSV, any stray PDF) for evaluations with score < 3.0. The legacy reports/below-threshold/ directory must remain empty — NEVER archive low-score reports there. Only data/discarded.tsv retains a thin audit row (metadata only).
+   b. node cleanup-bang-rows.mjs — sweeps any "- [!]" cruft left in either Pendientes (orphan "moved to Procesadas" breadcrumbs from cleanup-low-scores, dead URLs, filter slips, duplicates) and strips empty ### YYYY-MM-DD subsections. Marks URLs in scan-history.tsv with status=processed|dead|filtered. Idempotent.
 
 5. (always to main) COMMIT + PUSH. git add -A, commit with message "overnight: {ISO-timestamp} scan+pipeline+cleanup (+N reports, +M PDFs, US:{n_us} Intl:{n_intl})", git push origin main. Retry push up to 4 times with exponential backoff (2s, 4s, 8s, 16s).
 

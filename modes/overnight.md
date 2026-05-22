@@ -72,11 +72,13 @@ Steps:
      - US: `node generate-pdf.mjs {tmp.html} output/{today}/cv-{candidate-slug}-{slug}-{today}.pdf`
      - Intl: `node generate-pdf.mjs {tmp.html} output-intl/{today}/cv-{candidate-slug}-{slug}-{today}.pdf`
      (`mkdir -p` the target dir first.) If < 3.0: set PDF line to "Not generated (score < 3.0)".
-   - Move entry from Pendientes to Procesadas in its track's pipeline file, under `### {today}`, with Location column
+   - **Move entry to Procesadas under `### {today}` with Location column. DELETE the row from Pendientes — do NOT leave a `- [!] ... moved to Procesadas (#NNN)` breadcrumb behind.** `- [!]` is reserved for genuine transient extraction failures that should be retried in a future run, not for processed entries. See `modes/pipeline.md` Step 2e.
 
 3. **MERGE + VERIFY.** `node merge-tracker.mjs`, `node verify-pipeline.mjs`. The verifier should check BOTH pipelines (US + Intl); if it only checks one, run it twice with the path overridden, or check manually that both Pendientes/Procesadas sections are consistent. Must end with 0 errors / 0 warnings overall.
 
-4. **CLEANUP — HARD RULE: DELETE scores < 3.0.** Run `node cleanup-low-scores.mjs`. This **DELETES** (does NOT archive) every artifact for evaluations with score < 3.0: report file, applications.md row, pipeline.md/intl-pipeline.md `- [x]` row, tracker-addition TSV, any stray PDF. The legacy `reports/below-threshold/` directory must remain empty. Only `data/discarded.tsv` retains a thin audit row.
+4. **CLEANUP — HARD RULE: DELETE scores < 3.0.** Run **both** scripts in this order:
+   - `node cleanup-low-scores.mjs` — **DELETES** (does NOT archive) every artifact for evaluations with score < 3.0: report file, applications.md row, pipeline.md/intl-pipeline.md `- [x]` row, tracker-addition TSV, any stray PDF. The legacy `reports/below-threshold/` directory must remain empty. Only `data/discarded.tsv` retains a thin audit row.
+   - `node cleanup-bang-rows.mjs` — sweeps any `- [!]` cruft left behind in either Pendientes (orphan "moved to Procesadas" breadcrumbs from cleanup-low-scores, dead URLs, filter slips, duplicates). Also strips empty `### YYYY-MM-DD` subsections. Marks affected URLs in `scan-history.tsv` with `status=processed|dead|filtered`. Idempotent — safe to run every pass.
 
 5. **(always to main) COMMIT + PUSH.** `git add -A`, commit with message `overnight: {ISO-timestamp} scan+pipeline+cleanup (+N reports, +M PDFs, US:{n_us} Intl:{n_intl})`, `git push origin main`. Retry push up to 4 times with exponential backoff (2s, 4s, 8s, 16s).
 
