@@ -625,7 +625,25 @@
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer | Remote-US — duplicate of #128 (already evaluated 2026-04-24); not re-evaluated
 - [!] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA | EMEA — duplicate of #128 family (already evaluated 2026-04-24); not re-evaluated
 
+### 2026-05-22
+
+- [!] https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US | Remote (United States) -- moved to Procesadas (#934) 2026-05-22 (3.7/5 PDF OK; Series C AI observability + evals platform; 150+ enterprise customers; 2-5y in-band YOE; sponsorship-eligibility question in app)
+- [!] https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea | Decagon | Software Engineer, Agent Orchestration | San Francisco -- moved to Procesadas (#935) 2026-05-22 (3.2/5 PDF OK; unicorn AI agent platform; $200-400K + equity; agent harness + multi-model orchestration direct 1:1 with Healthcare Claims JSON contracts + Pixel orchestrator; SF in-office + senior bias friction)
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7737493003?gh_jid=7737493003 | Celonis | Working Student AI & Management Consulting (Nordics) | Copenhagen, Denmark -- filter slip: "Working Student" on negative list + Copenhagen=Intl (US-mis-routed by scan.mjs); skipped
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7746655003?gh_jid=7746655003 | Celonis | Working Student Applied AI Solution Consulting (Nordics) | Copenhagen, Denmark -- filter slip: same "Working Student" negative + Copenhagen=Intl mis-routed; skipped
+<!-- Level 3 WebSearch overnight sweep -- 2026-05-22 -->
+- [!] https://jobs.ashbyhq.com/oscilar/58b4c728-4732-4e81-ad7a-c0927190a171 | Oscilar | Forward Deployed Engineer | Remote -- moved to Procesadas (#936) 2026-05-22 (2.5/5 below threshold; fintech AI Risk Decisioning; 5+y senior gate Deepak 2.5y half-floor + financial services preferred off-archetype; SKIP)
+- [!] https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us | Cekura | Forward Deployed Engineer (US) | San Francisco on-site -- moved to Procesadas (#937) 2026-05-22 (2.5/5 below threshold; YC F24 voice + chat AI agent testing/observability; $100-180K + equity; US citizen/visa only HARD BLOCKER + voice-stack gap; SKIP)
+- [!] https://www.ycombinator.com/companies/prox/jobs/nFsTemY-founding-forward-deployed-engineer | Prox | Founding Forward Deployed Engineer | San Francisco 6d/wk + 4hr-notice US travel -- moved to Procesadas (#938) 2026-05-22 (2.7/5 below threshold; YC F25 logistics AI agents; ~$200K cash + 1% equity per sibling band; founder-mandate + 6d/wk SF + 4hr-notice travel + likely US-citizen pref + logistics off-archetype; SKIP)
+- [!] https://www.ycombinator.com/companies/dataland/jobs/tDqkVx0-founding-forward-deployed-engineer | Dataland | Founding Forward Deployed Engineer | New York, NY -- moved to Procesadas (#939) 2026-05-22 (2.7/5 below threshold; YC S20 applied AI lab; $150-400K + 1% equity; founders ex-Palantir FDE; US citizen/visa only HARD BLOCKER; SKIP)
+- [!] https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer | CollectWise | Forward Deployed Engineer | New York, NY -- moved to Procesadas (#940) 2026-05-22 (3.4/5 PDF OK; YC GenAI debt collection; $150-190K + 0.25-1% equity; explicit new-grad welcome; FDE archetype 1:1; visa policy unstated verify in screen)
+
 ## Procesadas
+
+### 2026-05-22
+- [x] #934 | https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US | Remote (United States) | 3.7/5 | PDF ✅
+- [x] #935 | https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea | Decagon | Software Engineer, Agent Orchestration | San Francisco -- In-office | 3.2/5 | PDF ✅
+- [x] #940 | https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer | CollectWise | Forward Deployed Engineer | New York, NY -- On-site | 3.4/5 | PDF ✅
 
 ### 2026-05-21
 - [x] #916 | https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex Labs | Forward Deployed AI Engineer | NYC on-site 5d/wk | 3.5/5 | PDF ✅
