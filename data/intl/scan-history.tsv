@@ -1,70 +1,79 @@
 url	first_seen	portal	title	company	status
 https://job-boards.greenhouse.io/intercom/jobs/7824137	2026-05-13	greenhouse-api	AI Infrastructure Engineer	Intercom	added
 https://job-boards.greenhouse.io/vercel/jobs/5778418004	2026-05-13	greenhouse-api	Forward-Deployed Engineer	Vercel	added
-https://job-boards.greenhouse.io/arizeai/jobs/5993317004	2026-05-13	greenhouse-api	Forward Deployed Engineer, APJ	Arize AI	added
+https://job-boards.greenhouse.io/arizeai/jobs/5993317004	2026-05-19	WebSearch -- L3 Greenhouse FDE	Forward Deployed Engineer, APJ	Arize AI	processed
 https://helsing.ai/jobs/4334849101?gh_jid=4334849101	2026-05-13	greenhouse-api	AI Research Engineer - AI Safety	Helsing	added
 https://helsing.ai/jobs/4766708101?gh_jid=4766708101	2026-05-13	greenhouse-api	AI Research Engineer - Foundation Models	Helsing	added
 https://helsing.ai/jobs/4676357101?gh_jid=4676357101	2026-05-13	greenhouse-api	AI Research Engineer - Reinforcement Learning	Helsing	added
-https://sumup.com/careers/positions/7303394002?gh_jid=7303394002	2026-05-13	greenhouse-api	Customer Support Agent	SumUp	added
-https://wayve.firststage.co/jobs?gh_jid=8545690002	2026-05-13	greenhouse-api	Customer Integration Engineer	Wayve	added
-2026-05-13	openai	AI Deployment Engineer, Startups	https://jobs.ashbyhq.com/openai/16df5b48-917d-41d8-b0c6-dbfdf11400f7	level3
-https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8	2026-05-14	ashby-api	Enterprise Solutions Engineer - Middle East	ElevenLabs	added
+https://sumup.com/careers/positions/7303394002?gh_jid=7303394002	2026-05-13	greenhouse-api	Customer Support Agent	SumUp	filtered
+https://wayve.firststage.co/jobs?gh_jid=8545690002	2026-05-13	greenhouse-api	Customer Integration Engineer	Wayve	filtered
+2026-05-13	openai	AI Deployment Engineer, Startups	https://jobs.ashbyhq.com/openai/16df5b48-917d-41d8-b0c6-dbfdf11400f7	level3	added
+https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8	2026-05-14	ashby-api	Enterprise Solutions Engineer - Middle East	ElevenLabs	dead
 https://helsing.ai/jobs/4778869101?gh_jid=4778869101	2026-05-14	greenhouse-api	AI Research Engineer - ML Engineering	Helsing	added
-https://careers.hellofresh.com/global/en/job/7722066?gh_jid=7722066	2026-05-14	greenhouse-api	Automation Engineer	HelloFresh	added
-https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef	2026-05-14	WebSearch — L3 overnight Intl FDE	Forward Deployed Engineer - Munich	OpenAI	added
-https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93	2026-05-14	WebSearch — L3 overnight Intl FDE	Forward Deployed Engineer - Paris	OpenAI	added
-https://jobs.ashbyhq.com/elevenlabs/5d1390e2-a6e8-4f8b-b01f-ad7e286009d2	2026-05-14	WebSearch — L3 overnight Intl FDE	Forward Deployed Engineer - Strategist - Europe	ElevenLabs	added
+https://careers.hellofresh.com/global/en/job/7722066?gh_jid=7722066	2026-05-14	greenhouse-api	Automation Engineer	HelloFresh	dead
+https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef	2026-05-14	WebSearch — L3 overnight Intl FDE	Forward Deployed Engineer - Munich	OpenAI	processed
+https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93	2026-05-14	WebSearch — L3 overnight Intl FDE	Forward Deployed Engineer - Paris	OpenAI	processed
+https://jobs.ashbyhq.com/elevenlabs/5d1390e2-a6e8-4f8b-b01f-ad7e286009d2	2026-05-14	WebSearch — L3 overnight Intl FDE	Forward Deployed Engineer - Strategist - Europe	ElevenLabs	processed
 https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd	2026-05-14	WebSearch — L3 overnight Intl FDE	Forward Deployed Engineer - Strategist - Spain	ElevenLabs	added
 https://job-boards.greenhouse.io/runpod/jobs/5173070008	2026-05-15	WebSearch — L3 Greenhouse FDE	Forward Deployed Engineer APAC	Runpod	added
-https://jobs.ashbyhq.com/percepta/cede64f9-f495-4382-b8e9-f8a3c4e75a91	2026-05-15	WebSearch — L3 Ashby Applied AI Europe	Applied AI Engineer - Europe	Percepta	added
+https://jobs.ashbyhq.com/percepta/cede64f9-f495-4382-b8e9-f8a3c4e75a91	2026-05-15	WebSearch — L3 Ashby Applied AI Europe	Applied AI Engineer - Europe	Percepta	processed
 https://jobs.ashbyhq.com/dash0/1937975c-df33-47e9-b6ae-e9d446bdfc1f	2026-05-16	WebSearch — L3 Ashby FDE EMEA	Forward Deployed Engineer - EMEA	Dash0	added
-
 https://jobs.lever.co/mistral/dedd74e7-794a-49aa-8ccd-1ffe33fb20b8	2026-05-16	WebSearch — L3 overnight 2026-05-16	Applied AI, Forward Deployed ML Engineer	Mistral AI	added
 https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5	2026-05-16	WebSearch — L3 overnight 2026-05-16	Applied AI, Forward Deployed ML Engineer (Internship)	Mistral AI	added
-https://jobs.ashbyhq.com/maihem/85f34c60-2f89-4f90-ae2d-65414b22a6ee	2026-05-16	WebSearch -- L3 overnight 2026-05-16	Founding AI Engineer (LLM & ML)	MAIHEM	added
-https://job-boards.greenhouse.io/devrev/jobs/5722574004	2026-05-17	WebSearch — L3 overnight 2026-05-17 (rerouted from US)	Software Engineer, Applied AI	DevRev	added
-https://jobs.ashbyhq.com/owkin/306c60e3-9ecf-40a1-b82a-16976bcfef87	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed Engineer	Owkin	added
-https://jobs.ashbyhq.com/openai/9b3f6bfd-2b8a-4de1-b05f-65ea74b736fa	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed Engineer (FDE), Life Sciences	OpenAI	added
-https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed Engineer (FDE), Life Sciences	OpenAI	added
-https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed Engineer, Infrastructure Specialist	Cohere	added
-https://jobs.ashbyhq.com/mercura/c3311550-1d26-46fb-8439-9a74805ad943	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed Engineer	Mercura	added
-https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62	2026-05-17	WebSearch — L3 overnight 2026-05-17	Applied AI, Forward Deployed ML Engineer	Mistral AI	added
-https://jobs.lever.co/resilinc/46bc503f-3697-4d33-9d94-4de35ff35667	2026-05-17	WebSearch — L3 overnight 2026-05-17	Software Engineer, Forward Deployed	Resilinc	added
-https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed AI Engineer	Lorikeet	added
+https://jobs.ashbyhq.com/maihem/85f34c60-2f89-4f90-ae2d-65414b22a6ee	2026-05-16	WebSearch -- L3 overnight 2026-05-16	Founding AI Engineer (LLM & ML)	MAIHEM	dead
+https://job-boards.greenhouse.io/devrev/jobs/5722574004	2026-05-17	WebSearch — L3 overnight 2026-05-17 (rerouted from US)	Software Engineer, Applied AI	DevRev	processed
+https://jobs.ashbyhq.com/owkin/306c60e3-9ecf-40a1-b82a-16976bcfef87	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed Engineer	Owkin	processed
+https://jobs.ashbyhq.com/openai/9b3f6bfd-2b8a-4de1-b05f-65ea74b736fa	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed Engineer (FDE), Life Sciences	OpenAI	processed
+https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed Engineer (FDE), Life Sciences	OpenAI	processed
+https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed Engineer, Infrastructure Specialist	Cohere	processed
+https://jobs.ashbyhq.com/mercura/c3311550-1d26-46fb-8439-9a74805ad943	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed Engineer	Mercura	processed
+https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62	2026-05-17	WebSearch — L3 overnight 2026-05-17	Applied AI, Forward Deployed ML Engineer	Mistral AI	processed
+https://jobs.lever.co/resilinc/46bc503f-3697-4d33-9d94-4de35ff35667	2026-05-17	WebSearch — L3 overnight 2026-05-17	Software Engineer, Forward Deployed	Resilinc	processed
+https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed AI Engineer	Lorikeet	processed
 https://jobs.ashbyhq.com/lorikeet/8fd5c0c5-dd89-471a-b4f5-d9101b208cdc	2026-05-17	WebSearch — L3 overnight 2026-05-17	Forward Deployed AI Engineer	Lorikeet	added
 https://jobs.ashbyhq.com/sierra/ab15547e-5c50-48a8-a560-f56c7bdad587	2026-05-19	ashby-api	Strategist, Agent Development (Cantonese Speaking)	Sierra	added
-https://helsing.ai/jobs/4334842101?gh_jid=4334842101	2026-05-19	greenhouse-api	AI Research Engineer -  Computer Vision	Helsing	added
-https://jobs.ashbyhq.com/bjakcareer/7f502d4d-7cc1-4f8f-9cb5-82e02b9a0c58	2026-05-19	WebSearch — L3 Ashby AI Engineer	AI Engineer (Remote)	Bjak	added
-https://job-boards.greenhouse.io/yipitdata/jobs/3907051	2026-05-19	WebSearch — L3 Greenhouse AI	AI Engineer	YipitData	added
+https://helsing.ai/jobs/4334842101?gh_jid=4334842101	2026-05-19	greenhouse-api	AI Research Engineer -  Computer Vision	Helsing	processed
+https://jobs.ashbyhq.com/bjakcareer/7f502d4d-7cc1-4f8f-9cb5-82e02b9a0c58	2026-05-19	WebSearch — L3 Ashby AI Engineer	AI Engineer (Remote)	Bjak	dead
+https://job-boards.greenhouse.io/yipitdata/jobs/3907051	2026-05-19	WebSearch — L3 Greenhouse AI	AI Engineer	YipitData	dead
 https://job-boards.greenhouse.io/hoyoverse/jobs/5104595007	2026-05-19	WebSearch — L3 Greenhouse AI	Game AI Engineer - Varsapura	HoYoverse	added
-https://job-boards.greenhouse.io/arizeai/jobs/5993317004	2026-05-19	WebSearch -- L3 Greenhouse FDE	Forward Deployed Engineer, APJ	Arize AI	added
 https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442	2026-05-19	WebSearch -- L3 Ashby Applied AI	Applied AI Engineer -- Systems & Reliability	HiPeople	added
-https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009	2026-05-19	WebSearch -- L3 Greenhouse FDE	Forward Deployed Engineer (AI)	Opaque Systems	filter-slip
-https://sumup.com/careers/positions/8447227002?gh_jid=8447227002	2026-05-19	greenhouse-api	Onboarding Agent II	SumUp	added
-https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101	2026-05-19	greenhouse-api	Forward Deployed Applications - Software Engineer	PhysicsX	added
-https://ml6team.recruitee.com/o/machine-learning-engineer-1	2026-05-20	WebSearch — L3 Recruitee EU	Machine Learning Engineer	ML6	skipped_expired
-https://job-boards.eu.greenhouse.io/physicsx/jobs/4860241101	2026-05-20	greenhouse-api	Forward Deployed Software Engineer	PhysicsX	added
-https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0	2026-05-20	WebSearch — L3 Ashby FDE	Forward Deployed Engineer, Agentic Platform (UK/Europe)	Cohere	added
-https://job-boards.eu.greenhouse.io/polyai/jobs/4855037101	2026-05-20	WebSearch — L3 Greenhouse FDE	Forward Deployed AI Engineer	PolyAI	added
-https://openai.com/careers/forward-deployed-engineer-singapore-singapore/	2026-05-21	WebSearch -- L3 APAC 2026-05-21	Forward Deployed Engineer	OpenAI	added
-https://openai.com/careers/forward-deployed-engineer-tokyo-tokyo-japan/	2026-05-21	WebSearch -- L3 APAC 2026-05-21	Forward Deployed Engineer	OpenAI	added
-https://www.ycombinator.com/companies/peakflo/jobs/vIrPzMj-forward-deployed-engineer-fde-india-remote	2026-05-21	WebSearch -- L3 YC India 2026-05-21	Forward Deployed Engineer (FDE)	Peakflo	added
-https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4	2026-05-21	WebSearch -- L3 Ashby India 2026-05-21	Forward Deployed Engineer (India)	Cartesia	added
-https://job-boards.greenhouse.io/neuraflash/jobs/5583031004	2026-05-21	WebSearch -- L3 Greenhouse India 2026-05-21	Forward Deployed Engineer (Agentforce)	NeuraFlash	added
-https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4700402101	2026-05-21	WebSearch L3 EU Greenhouse PM	Graduate AI Engineer (2026 start)	Cambridge Consultants	added
-https://job-boards.eu.greenhouse.io/yld/jobs/4644589101	2026-05-21	WebSearch L3 EU Greenhouse PM	AI Engineer	YLD	added
-https://job-boards.eu.greenhouse.io/surfai/jobs/4704150101	2026-05-21	WebSearch L3 EU Greenhouse PM	AI Engineer - AI Agents Team	Surf AI	added
-https://jobs.ashbyhq.com/openai/07d62dc2-9bbc-4149-ba43-d4ab748a21f4	2026-05-21	WebSearch L3 Ashby overnight	Forward Deployed Software Engineer - Munich	OpenAI	added
-https://jobs.ashbyhq.com/eloquentai/b636810c-e01b-4f9b-8aed-9a0856fee42e	2026-05-21	WebSearch L3 Ashby overnight	AI Engineer London	Eloquent AI	added
+https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009	2026-05-19	WebSearch -- L3 Greenhouse FDE	Forward Deployed Engineer (AI)	Opaque Systems	filtered
+https://sumup.com/careers/positions/8447227002?gh_jid=8447227002	2026-05-19	greenhouse-api	Onboarding Agent II	SumUp	filtered
+https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101	2026-05-19	greenhouse-api	Forward Deployed Applications - Software Engineer	PhysicsX	processed
+https://ml6team.recruitee.com/o/machine-learning-engineer-1	2026-05-20	WebSearch — L3 Recruitee EU	Machine Learning Engineer	ML6	dead
+https://job-boards.eu.greenhouse.io/physicsx/jobs/4860241101	2026-05-20	greenhouse-api	Forward Deployed Software Engineer	PhysicsX	processed
+https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0	2026-05-20	WebSearch — L3 Ashby FDE	Forward Deployed Engineer, Agentic Platform (UK/Europe)	Cohere	processed
+https://job-boards.eu.greenhouse.io/polyai/jobs/4855037101	2026-05-20	WebSearch — L3 Greenhouse FDE	Forward Deployed AI Engineer	PolyAI	processed
+https://openai.com/careers/forward-deployed-engineer-singapore-singapore/	2026-05-21	WebSearch -- L3 APAC 2026-05-21	Forward Deployed Engineer	OpenAI	dead
+https://openai.com/careers/forward-deployed-engineer-tokyo-tokyo-japan/	2026-05-21	WebSearch -- L3 APAC 2026-05-21	Forward Deployed Engineer	OpenAI	dead
+https://www.ycombinator.com/companies/peakflo/jobs/vIrPzMj-forward-deployed-engineer-fde-india-remote	2026-05-21	WebSearch -- L3 YC India 2026-05-21	Forward Deployed Engineer (FDE)	Peakflo	processed
+https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4	2026-05-21	WebSearch -- L3 Ashby India 2026-05-21	Forward Deployed Engineer (India)	Cartesia	processed
+https://job-boards.greenhouse.io/neuraflash/jobs/5583031004	2026-05-21	WebSearch -- L3 Greenhouse India 2026-05-21	Forward Deployed Engineer (Agentforce)	NeuraFlash	dead
+https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4700402101	2026-05-21	WebSearch L3 EU Greenhouse PM	Graduate AI Engineer (2026 start)	Cambridge Consultants	processed
+https://job-boards.eu.greenhouse.io/yld/jobs/4644589101	2026-05-21	WebSearch L3 EU Greenhouse PM	AI Engineer	YLD	processed
+https://job-boards.eu.greenhouse.io/surfai/jobs/4704150101	2026-05-21	WebSearch L3 EU Greenhouse PM	AI Engineer - AI Agents Team	Surf AI	filtered
+https://jobs.ashbyhq.com/openai/07d62dc2-9bbc-4149-ba43-d4ab748a21f4	2026-05-21	WebSearch L3 Ashby overnight	Forward Deployed Software Engineer - Munich	OpenAI	processed
+https://jobs.ashbyhq.com/eloquentai/b636810c-e01b-4f9b-8aed-9a0856fee42e	2026-05-21	WebSearch L3 Ashby overnight	AI Engineer London	Eloquent AI	processed
 https://jobs.ashbyhq.com/airapps/594fe7b6-476b-47a6-b5cc-a352937e6542	2026-05-21	WebSearch L3 Ashby overnight	AI/ML Engineer Paris	Air Apps	added
-https://job-boards.eu.greenhouse.io/speechmatics/jobs/4658308101	2026-05-21	WebSearch L3 EU Greenhouse overnight	Forward Deployed Engineer	Speechmatics	added
-https://job-boards.eu.greenhouse.io/amdaris/jobs/4638381101	2026-05-21	WebSearch L3 EU Greenhouse overnight	AI Forward Deployed Engineer	Amdaris	added
-https://job-boards.eu.greenhouse.io/invisibletech/jobs/4639694101	2026-05-21	WebSearch L3 EU Greenhouse overnight	Software Engineer - Forward Deployed	Invisible Technologies	added
-https://www.ycombinator.com/companies/telli/jobs/zdqC5C2-forward-deployed-engineer-ai	2026-05-21	WebSearch L3 YC overnight	Forward Deployed Engineer (AI)	telli	added
-https://jobs.ashbyhq.com/nelly/a1d054b8-6ece-4240-ad54-d4db2d0fc427	2026-05-21	WebSearch L3 Ashby overnight	Senior AI Engineer	Nelly Solutions	added
-https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101	2026-05-21	WebSearch L3 EU Greenhouse overnight	Forward Deployed AI Engineer (PST timezone)	PolyAI	added
-https://careers.nordea.com/job/Helsinki-Associate-Forward-Deployed-AI-Scientist-00500/1387719933/	2026-05-21	WebSearch L3 careers.nordea.com	Associate Forward Deployed AI Scientist	Nordea Bank	added
+https://job-boards.eu.greenhouse.io/speechmatics/jobs/4658308101	2026-05-21	WebSearch L3 EU Greenhouse overnight	Forward Deployed Engineer	Speechmatics	dead
+https://job-boards.eu.greenhouse.io/amdaris/jobs/4638381101	2026-05-21	WebSearch L3 EU Greenhouse overnight	AI Forward Deployed Engineer	Amdaris	dead
+https://job-boards.eu.greenhouse.io/invisibletech/jobs/4639694101	2026-05-21	WebSearch L3 EU Greenhouse overnight	Software Engineer - Forward Deployed	Invisible Technologies	filtered
+https://www.ycombinator.com/companies/telli/jobs/zdqC5C2-forward-deployed-engineer-ai	2026-05-21	WebSearch L3 YC overnight	Forward Deployed Engineer (AI)	telli	dead
+https://jobs.ashbyhq.com/nelly/a1d054b8-6ece-4240-ad54-d4db2d0fc427	2026-05-21	WebSearch L3 Ashby overnight	Senior AI Engineer	Nelly Solutions	processed
+https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101	2026-05-21	WebSearch L3 EU Greenhouse overnight	Forward Deployed AI Engineer (PST timezone)	PolyAI	dead
+https://careers.nordea.com/job/Helsinki-Associate-Forward-Deployed-AI-Scientist-00500/1387719933/	2026-05-21	WebSearch L3 careers.nordea.com	Associate Forward Deployed AI Scientist	Nordea Bank	dead
 https://job-boards.greenhouse.io/sezzle/jobs/7633951003	2026-05-22	WebSearch — L3 Greenhouse Applied AI	AI Engineer I (Remote LATAM)	Sezzle	added
 https://job-boards.greenhouse.io/sezzle/jobs/7633956003	2026-05-22	WebSearch — L3 Greenhouse Applied AI	AI Engineer I (Bogota)	Sezzle	added
-https://job-boards.greenhouse.io/globalli/jobs/4933314007	2026-05-22	WebSearch — L3 Greenhouse Remote	AI Engineer	Globalli	skipped_expired
-https://jobs.ashbyhq.com/reedsy/b043b550-02b7-416f-8969-5db8fd9dc8ee	2026-05-22	WebSearch — L3 Ashby EU	AI Engineer - Remote Europe	Reedsy	added
+https://job-boards.greenhouse.io/globalli/jobs/4933314007	2026-05-22	WebSearch — L3 Greenhouse Remote	AI Engineer	Globalli	dead
+https://jobs.ashbyhq.com/reedsy/b043b550-02b7-416f-8969-5db8fd9dc8ee	2026-05-22	WebSearch — L3 Ashby EU	AI Engineer - Remote Europe	Reedsy	processed
+https://job-boards.greenhouse.io/runpod/jobs/5082425008	2026-05-22	greenhouse	Forward Deployed Engineer (EMEA)	RunPod	dead
+https://silenteight.teamtailor.com/jobs/6775552-forward-deployed-ai-engineer-llm-ml-investigations-decisioning	2026-05-22	teamtailor	Forward-Deployed AI Engineer (LLM/ML)	Silent Eight	filtered
+https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5	2026-05-22	ashby	Enterprise Solutions Engineer - Germany	ElevenLabs	processed
+https://job-boards.greenhouse.io/sezzle/jobs/7633985003	2026-05-22	greenhouse	AI Engineer II (Remote)	Sezzle	filtered
+https://apply.workable.com/cxg/j/5ED4EB3757	2026-05-22	other	AI Engineer (GenAI, LLMs & Computer Vision)	CXG	dead
+https://apply.workable.com/sidetrade/j/00A24913FD/	2026-05-22	other	AI Engineer	Sidetrade	processed
+https://apply.workable.com/boardofinnovation/j/50EB96733C	2026-05-22	other	AI Engineer	Board of Innovation	processed
+https://jobs.ashbyhq.com/relay/0b645cf4-3c04-41e5-a610-c46544b5cec6	2026-05-22	ashby	Forward Deployed Engineer	Relay Technologies	processed
+https://job-boards.greenhouse.io/axiomaticai/jobs/4720346101	2026-05-22	greenhouse	Applied AI Engineer	Axiomatic AI	processed
+https://jobs.ashbyhq.com/truelogic/02ce1aae-f344-4e10-9b47-956ad5a51714	2026-05-22	ashby	Forward Deployed Engineer (AI-native)	Truelogic	processed
+https://jobs.ashbyhq.com/truelogic/cee25dcf-9a7f-474b-9724-abb510bc3968	2026-05-22	ashby	Forward Deployed Engineer (FDE) - Technology	Truelogic	processed

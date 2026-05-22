@@ -1,0 +1,54 @@
+# Pipeline cleanup audit log
+Run: 2026-05-22T22:51:52.044Z
+
+## US pipeline
+- Deleted (already in Procesadas):  297
+- Deleted (dead URL):               48
+- Deleted (filter slip):            30
+- Kept (unmatched, manual review):  15
+- Kept (report file missing):       10
+- scan-history.tsv updated:         yes
+
+### US — Kept unmatched (manual review)
+- - [!] https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer – Full Stack AI | US-Remote -- duplicate of #53 (already evaluated 2026-04-22, 4.3/5); not re-evaluated
+- - [!] https://jobs.ashbyhq.com/ascertain/8585e400-f993-46ef-b443-2ad6bbe485b9 | Ascertain | Forward Deployed Engineer | NYC or Remote -- duplicate of #216 (already evaluated 2026-04-27, 4.1/5); not re-evaluated
+- - [!] https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer | San Francisco -- duplicate of #116 (already evaluated 2026-04-22, 3.8/5); not re-evaluated
+- - [!] https://jobs.lever.co/palantir/50a8a83d-cc13-44b2-bc0c-4730fd7aa51c | Palantir | American Tech Fellowship - Frontier | North America — unpaid 8-week training program (not a paid job; May 15 application deadline); SKIP — not a hireable role
+- - [!] https://jobs.ashbyhq.com/lovable/9f4963e7-be14-4dd9-99ce-05df2f06e22d | Lovable | Engineer - Agents & Evals | Stockholm -- routed to Intl track (#801) 2026-05-15 (3.5/5 PDF OK)
+- - [!] https://jobs.ashbyhq.com/langchain/31ff2b5b-d5c5-443e-bf11-ef02481df579 | LangChain | Deployed Engineer (Germany) | Germany -- routed to Intl track (#799) 2026-05-15 (3.6/5 PDF OK)
+- - [!] https://jobs.ashbyhq.com/langchain/31483b31-68c5-4603-8a84-0051634100c0 | LangChain | Deployed Engineer (Stockholm) | Sweden -- routed to Intl track (#800) 2026-05-15 (3.5/5 PDF OK)
+- - [!] https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping | Paris -- routed to Intl track (#796) 2026-05-15 (3.9/5 PDF OK)
+- - [!] https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer | Paris -- routed to Intl track (#797) 2026-05-15 (4.1/5 PDF OK)
+- - [!] https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents | Paris -- routed to Intl track (#798) 2026-05-15 (3.3/5 PDF OK)
+- - [!] https://himalayas.app/companies/fortifyiq/jobs/data-ai-engineer-1462034366 | FortifyIQ | Data & AI Engineer | Worldwide remote — duplicate of #148 (already evaluated 2026-04-25 at 3.3/5); not re-evaluated per CLAUDE.md "no new entry if company+
+- - [!] https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer [New grads ok] | San Francisco / Remote-US — duplicate of #249 (already evaluated 2026-04-29 4.0/5); not re-evaluated
+- - [!] https://www.workatastartup.com/jobs/71033 | StackAI | Forward Deployed AI Engineer | San Francisco / New York — duplicate of #142 (already evaluated 2026-04-22 3.2/5); not re-evaluated
+- - [!] https://www.workatastartup.com/jobs/93159 | Avent | Founding Forward Deployed Engineer | San Francisco, CA — On-site — duplicate of #248 (already evaluated 2026-04-29 at 3.6/5); re-eval 2026-05-03 found 3.4/5; merge-tracker correctly skipped (e
+- - [!] https://job-boards.greenhouse.io/hightouch/jobs/5809895004 | Hightouch | Software Engineer - AI Productivity | Remote (North America) — skipped: extracted as Staff AI Productivity Engineer ($180-320k); seniority filter (Staff) per profile.md
+
+### US — Kept (Procesadas report file missing on disk)
+- #923: https://www.ycombinator.com/companies/arist/jobs/YvFJJNd-founding-forward-deployed-engineer
+- #924: https://www.ycombinator.com/companies/avallon-ai/jobs/EKbBPmB-founding-forward-deployed-engineer
+- #926: https://www.ycombinator.com/companies/soff/jobs/OTA9QxR-ai-native-forward-deployed-engineer
+- #928: https://lauretta-ai-llc.breezy.hr/p/ef54a1749349-machine-learning-engineer-l-1
+- #843: https://builtin.com/job/forward-deployed-engineer/4693577
+- #793: https://jobs.ashbyhq.com/fiddler-ai/640c12b9-6a07-4be1-a542-d76e4240e2ff
+- #936: https://jobs.ashbyhq.com/oscilar/58b4c728-4732-4e81-ad7a-c0927190a171
+- #937: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us
+- #938: https://www.ycombinator.com/companies/prox/jobs/nFsTemY-founding-forward-deployed-engineer
+- #939: https://www.ycombinator.com/companies/dataland/jobs/tDqkVx0-founding-forward-deployed-engineer
+
+## Intl pipeline
+- Deleted (already in Procesadas):  34
+- Deleted (dead URL):               17
+- Deleted (filter slip):            8
+- Kept (unmatched, manual review):  0
+- Kept (report file missing):       5
+- scan-history.tsv updated:         yes
+
+### Intl — Kept (Procesadas report file missing on disk)
+- #944: https://job-boards.greenhouse.io/sezzle/jobs/7633951003
+- #945: https://job-boards.greenhouse.io/sezzle/jobs/7633956003
+- #932: https://jobs.ashbyhq.com/airapps/594fe7b6-476b-47a6-b5cc-a352937e6542
+- #844: https://jobs.lever.co/mistral/dedd74e7-794a-49aa-8ccd-1ffe33fb20b8
+- #845: https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5
