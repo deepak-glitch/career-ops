@@ -17,6 +17,8 @@
 - [!] https://www.ycombinator.com/companies/karumi/jobs/mzQuJ9K-founding-forward-deployed-engineer-fde | Karumi | Founding Forward Deployed Engineer | NYC primary (SF/Madrid considered) -- moved to Procesadas (#941) 2026-05-22 (3.9/5 PDF OK; YC founding-tier; $100-150K + 0.5-1.0% equity; "Will sponsor" F-1 OPT positive; browser-agent demos 1:1 with Manga Lens MV3 + Pixel orchestrator; 1-3y FDE band Deepak 2.5y in-band)
 - [!] https://www.ycombinator.com/companies/prox/jobs/nFsTemY-founding-forward-deployed-engineer | Prox | Founding Forward Deployed Engineer | San Francisco (verify) -- error: YC company page returned HTTP 404 on 2026-05-22 (posting closed/removed); archived
 - [!] https://www.cadence.care/jobs/applied-ai-engineer/ | Cadence | Applied AI Engineer | Remote US -- moved to Procesadas (#942) 2026-05-22 (4.1/5 PDF OK; fully remote US healthcare AI for older adults; $135-165K + equity; 3+y SWE / 2+y AI/ML floor Deepak in-band on AI/ML; clinical RAG + multi-agent orchestration + safety/eval frameworks 1:1 with Progress Solutions + Healthcare Claims; HIPAA discipline direct)
+- [!] https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5 | ElevenLabs | Enterprise Solutions Engineer - Germany | Germany -- rerouted to Intl track (Germany location); see data/intl/pipeline.md
+
 
 ### 2026-05-21
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-21 -->

@@ -18,6 +18,7 @@
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-22 (10:52Z) -->
 - [!] https://job-boards.greenhouse.io/runpod/jobs/5082425008 | RunPod | Forward Deployed Engineer (EMEA) | EMEA Remote (verify) -- error: Greenhouse API returned HTTP 404 on 2026-05-22 (job ID closed/stale); current RunPod active FDE is APAC-only (5173070008) which is a F-1 OPT geo hard blocker; archived
 - [!] https://silenteight.teamtailor.com/jobs/6775552-forward-deployed-ai-engineer-llm-ml-investigations-decisioning | Silent Eight | Forward-Deployed AI Engineer (LLM/ML) | Poland Fully Remote -- filter slip: Polish + English fluency required (Polish language hard blocker for Deepak) + Poland-only fully remote (F-1 OPT geo hard blocker); skipped
+- [!] https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5 | ElevenLabs | Enterprise Solutions Engineer - Germany | Germany Remote -- moved to Procesadas (#943) 2026-05-22 (2.8/5 below threshold; pre-sales SE archetype mismatch; voice/audio domain gap; F-1 OPT to DE Skilled Worker friction; comp not disclosed; SKIP)
 
 ### 2026-05-21
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-21 -->
@@ -116,6 +117,8 @@
 <!-- moved to Procesadas: OpenAI AI Deployment Engineer Startups Singapore #727 -->
 
 ## Procesadas
+
+### 2026-05-22
 
 ### 2026-05-21
 - [x] #930 | https://jobs.ashbyhq.com/openai/07d62dc2-9bbc-4149-ba43-d4ab748a21f4 | OpenAI | Forward Deployed Software Engineer (Munich) | Munich, Germany -- Hybrid 3d/wk + 50% travel | 3.3/5 | PDF ✅
