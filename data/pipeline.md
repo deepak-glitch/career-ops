@@ -16,10 +16,6 @@
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-21 -->
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-21 (PM run) -->
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-21 (overnight 15:30Z) -->
-- [!] https://www.ycombinator.com/companies/arist/jobs/YvFJJNd-founding-forward-deployed-engineer | Arist | Founding Forward Deployed Engineer | New York, NY / Remote US -- moved to Procesadas (#923) 2026-05-21 (2.5/5 below threshold; $200-220K + 0.10% equity; YC + Acadian + Soma + Fortune 500 customers; 6+y senior gate Deepak 2.5y + US citizen/visa only hard blockers; SKIP)
-- [!] https://www.ycombinator.com/companies/avallon-ai/jobs/EKbBPmB-founding-forward-deployed-engineer | Avallon AI | Founding Forward Deployed Engineer | New York, NY -- moved to Procesadas (#924) 2026-05-21 (2.7/5 below threshold; YC P25 insurance claims AI; $140-200K + 0.30-1.00% equity; insurance claims domain 1:1 with Healthcare Claims project; US citizen/visa only hard blocker; SKIP)
-- [!] https://www.ycombinator.com/companies/soff/jobs/OTA9QxR-ai-native-forward-deployed-engineer | Soff | AI-Native Forward Deployed Engineer | San Francisco -- moved to Procesadas (#926) 2026-05-21 (2.6/5 below threshold; YC + GC-backed AI agents physical world sales automation; $150-200K + 0.5-1.5% equity; 3+y floor stretch Deepak 2.5y + US citizen/visa only hard blocker; SKIP)
-- [!] https://lauretta-ai-llc.breezy.hr/p/ef54a1749349-machine-learning-engineer-l-1 | Lauretta AI | Machine Learning Engineer L-1 | Austin, TX -- moved to Procesadas (#928) 2026-05-21 (2.8/5 below threshold; $80-93K below US AI Eng floor; fresh grads OK; CV + MLOps; government security clearance preferred (F-1 OPT incompatible); company description missing; SKIP)
 
 ### 2026-05-20
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-20 -->
@@ -29,9 +25,6 @@
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (late AM run) -->
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (PM run) -->
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-19 (evening run) -->
-- [!] https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer – Full Stack AI | US-Remote -- duplicate of #53 (already evaluated 2026-04-22, 4.3/5); not re-evaluated
-- [!] https://jobs.ashbyhq.com/ascertain/8585e400-f993-46ef-b443-2ad6bbe485b9 | Ascertain | Forward Deployed Engineer | NYC or Remote -- duplicate of #216 (already evaluated 2026-04-27, 4.1/5); not re-evaluated
-- [!] https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer | San Francisco -- duplicate of #116 (already evaluated 2026-04-22, 3.8/5); not re-evaluated
 
 ### 2026-05-18
 <!-- Level 3 WebSearch overnight sweep — 2026-05-18 -->
@@ -42,7 +35,6 @@
 <!-- Level 3 WebSearch overnight sweep — 2026-05-17 (overnight batch 2) -->
 
 ### 2026-05-16
-- [!] https://builtin.com/job/forward-deployed-engineer/4693577 | Hippocratic AI | Forward Deployed Engineer | Palo Alto, CA — In-Office — moved to Procesadas (#843) 2026-05-16 (0/5 CLOSED; listing removed May 24 2025; 5+y gate; different from #657 Akron OH; SKIP)
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-16 (AM run) -->
 
 <!-- Level 3 WebSearch overnight sweep — 2026-05-16 -->
@@ -80,34 +72,26 @@
 <!-- moved to Procesadas: Anthropic FDE Applied AI #703 -->
 
 <!-- Level 2b Lever API — inherently fresh -->
-- [!] https://jobs.lever.co/palantir/50a8a83d-cc13-44b2-bc0c-4730fd7aa51c | Palantir | American Tech Fellowship - Frontier | North America — unpaid 8-week training program (not a paid job; May 15 application deadline); SKIP — not a hireable role
 
 <!-- Level 3 WebSearch — liveness-checked or likely active -->
 <!-- moved to Procesadas: Decagon CE Agent Builder #704 -->
 
 <!-- moved to Procesadas: LiveKit FDE #705 -->
 
-- [!] https://jobs.ashbyhq.com/fiddler-ai/640c12b9-6a07-4be1-a542-d76e4240e2ff | Fiddler AI | Solutions Architect, Customer Success - US | Remote - US -- moved to Procesadas (#793) 2026-05-15 (0/5 CLOSED)
 <!-- moved to Procesadas: Sana AI Engineer (Agents) #706 -->
 
 <!-- moved to Procesadas: LangChain Deployed Engineer Seattle #719 -->
 
 <!-- Level 1 agent scan — direct ATS API (Ashby/Lever/Greenhouse) on companies scan.mjs missed -->
-- [!] https://jobs.ashbyhq.com/lovable/9f4963e7-be14-4dd9-99ce-05df2f06e22d | Lovable | Engineer - Agents & Evals | Stockholm -- routed to Intl track (#801) 2026-05-15 (3.5/5 PDF OK)
 <!-- moved to Procesadas: Sierra SWE Agent Builder #710 -->
 
 <!-- moved to Procesadas: Decagon AI Engineer #707 -->
 
-- [!] https://jobs.ashbyhq.com/langchain/31ff2b5b-d5c5-443e-bf11-ef02481df579 | LangChain | Deployed Engineer (Germany) | Germany -- routed to Intl track (#799) 2026-05-15 (3.6/5 PDF OK)
-- [!] https://jobs.ashbyhq.com/langchain/31483b31-68c5-4603-8a84-0051634100c0 | LangChain | Deployed Engineer (Stockholm) | Sweden -- routed to Intl track (#800) 2026-05-15 (3.5/5 PDF OK)
 <!-- moved to Procesadas: LangChain Fullstack Applied AI #708 -->
 
 <!-- moved to Procesadas: Tavily FDE NYC #720 -->
 <!-- moved to Procesadas: Modal FDE Systems #709 -->
 
-- [!] https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping | Paris -- routed to Intl track (#796) 2026-05-15 (3.9/5 PDF OK)
-- [!] https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer | Paris -- routed to Intl track (#797) 2026-05-15 (4.1/5 PDF OK)
-- [!] https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents | Paris -- routed to Intl track (#798) 2026-05-15 (3.3/5 PDF OK)
 
 <!-- Level 3 WebSearch — 12 queries, liveness-checked 2026-05-13 -->
 
@@ -118,7 +102,6 @@
 
 ### 2026-05-11
 <!-- Overnight 2026-05-11 first pass: scan.mjs Level 1/2 (0 new — most ATS endpoints HTTP 503) + Level 3 WebSearch (Ashby + Greenhouse + Lever + Workable + Breezy + Himalayas + workatastartup) -->
-- [!] https://himalayas.app/companies/fortifyiq/jobs/data-ai-engineer-1462034366 | FortifyIQ | Data & AI Engineer | Worldwide remote — duplicate of #148 (already evaluated 2026-04-25 at 3.3/5); not re-evaluated per CLAUDE.md "no new entry if company+role exists"
 <!-- Overnight 2026-05-11 second pass: Level 3 WebSearch (Ashby new-grad/FDE/Applied AI) found 5 fresh URLs not in scan-history -->
 <!-- Overnight 2026-05-11 third pass: Level 3 WebSearch (small-ATS + non-standard titles + aggregators) found 7 fresh URLs -->
 
@@ -191,8 +174,6 @@
 <!-- Overnight 2026-05-04 batch — Level 3 WebSearch additions (Greenhouse + Ashby + Lever + small-ATS) -->
 
 <!-- Overnight 2026-05-04T08:35Z batch — Level 3 WebSearch additions -->
-- [!] https://www.workatastartup.com/jobs/77473 | FurtherAI | Forward Deployed Engineer [New grads ok] | San Francisco / Remote-US — duplicate of #249 (already evaluated 2026-04-29 4.0/5); not re-evaluated
-- [!] https://www.workatastartup.com/jobs/71033 | StackAI | Forward Deployed AI Engineer | San Francisco / New York — duplicate of #142 (already evaluated 2026-04-22 3.2/5); not re-evaluated
 
 <!-- Overnight 2026-05-04T overnight batch — Level 3 WebSearch additions (newgrad/junior + Greenhouse + Ashby + Lever) -->
 
@@ -214,7 +195,6 @@
 <!-- Overnight 2026-05-03 batch 3 — Level 3 WebSearch additions (Ashby FDE + Greenhouse Applied AI + small-ATS) -->
 
 <!-- Overnight 2026-05-03 batch 4 — Level 3 WebSearch (new-grad Greenhouse + early-career Ashby + Himalayas FDE + YC Founding) -->
-- [!] https://www.workatastartup.com/jobs/93159 | Avent | Founding Forward Deployed Engineer | San Francisco, CA — On-site — duplicate of #248 (already evaluated 2026-04-29 at 3.6/5); re-eval 2026-05-03 found 3.4/5; merge-tracker correctly skipped (existing >= new); not re-evaluated
 
 <!-- Overnight 2026-05-03 batch 5 — Level 3 WebSearch additions (Workable + BuiltIn small-ATS recheck) -->
 
@@ -236,7 +216,6 @@
 <!-- Overnight 2026-05-02 batch 5 — Level 3 WebSearch additions (small-ATS + non-standard titles + aggregators) -->
 
 ### 2026-05-01
-- [!] https://job-boards.greenhouse.io/hightouch/jobs/5809895004 | Hightouch | Software Engineer - AI Productivity | Remote (North America) — skipped: extracted as Staff AI Productivity Engineer ($180-320k); seniority filter (Staff) per profile.md
 
 <!-- Overnight 2026-05-01 Level 3 WebSearch additions -->
 
@@ -273,10 +252,6 @@
 ### 2026-05-22
 
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-22 -->
-- [!] https://jobs.ashbyhq.com/oscilar/58b4c728-4732-4e81-ad7a-c0927190a171 | Oscilar | Forward Deployed Engineer | Remote -- moved to Procesadas (#936) 2026-05-22 (2.5/5 below threshold; fintech AI Risk Decisioning; 5+y senior gate Deepak 2.5y half-floor + financial services preferred off-archetype; SKIP)
-- [!] https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us | Cekura | Forward Deployed Engineer (US) | San Francisco on-site -- moved to Procesadas (#937) 2026-05-22 (2.5/5 below threshold; YC F24 voice + chat AI agent testing/observability; $100-180K + equity; US citizen/visa only HARD BLOCKER + voice-stack gap; SKIP)
-- [!] https://www.ycombinator.com/companies/prox/jobs/nFsTemY-founding-forward-deployed-engineer | Prox | Founding Forward Deployed Engineer | San Francisco 6d/wk + 4hr-notice US travel -- moved to Procesadas (#938) 2026-05-22 (2.7/5 below threshold; YC F25 logistics AI agents; ~$200K cash + 1% equity per sibling band; founder-mandate + 6d/wk SF + 4hr-notice travel + likely US-citizen pref + logistics off-archetype; SKIP)
-- [!] https://www.ycombinator.com/companies/dataland/jobs/tDqkVx0-founding-forward-deployed-engineer | Dataland | Founding Forward Deployed Engineer | New York, NY -- moved to Procesadas (#939) 2026-05-22 (2.7/5 below threshold; YC S20 applied AI lab; $150-400K + 1% equity; founders ex-Palantir FDE; US citizen/visa only HARD BLOCKER; SKIP)
 
 ## Procesadas
 

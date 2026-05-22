@@ -26,8 +26,9 @@ const PIPELINES = [
 ];
 
 const PROCESADAS_RE = /moved to Procesadas \(#(\d+)\)/i;
-const DEAD_RE = /\b(closed|expired|no longer accepting|CLOSED\/MISSING|archived|removed|page no longer|posting closed|page returns unrelated|GraphQL returned CLOSED|404|410|page renamed)\b/i;
-const FILTER_RE = /\b(filter slip|senior gate|on-site only|hard blocker|pre-sales|Solutions Engineer|Customer Support|mis-routed|US Person|negative list|new-grad bar|Romania|Tel Aviv|Spain location|Israel|Switzerland|Australia|Brazil location|Mexico location|UK location|rerouted|F-1 OPT|aggregator)\b/i;
+const DUPLICATE_RE = /(?:duplicate of #\d+|already evaluated|not re-evaluated|routed to Intl track \(#\d+\)|routed to US track \(#\d+\)|re-eval \d{4}-\d{2}-\d{2})/i;
+const DEAD_RE = /(?:closed|expired|no longer accepting|CLOSED\/MISSING|archived|removed|page no longer|posting closed|page returns unrelated|GraphQL returned CLOSED|\b404\b|\b410\b|page renamed)/i;
+const FILTER_RE = /(?:filter slip|senior gate|on-site only|hard blocker|pre-sales|Solutions Engineer|Customer Support|mis-routed|US Person|negative list|new-grad bar|Romania|Tel Aviv|Spain location|Israel|Switzerland|Australia|Brazil location|Mexico location|UK location|rerouted|F-1 OPT|aggregator|not a hireable role|skipped: |not a paid job|seniority filter|unpaid 8-week)/i;
 
 function extractUrl(line) {
   const m = line.match(/^- \[!\] (\S+)/);
@@ -108,7 +109,7 @@ function cleanup(pipelineCfg, today, reportsDir) {
 
   const lines = block.split('\n');
   const kept = [];
-  const audit = { done: [], dead: [], filter: [], unmatched: [], reportMissing: [] };
+  const audit = { done: [], doneReportMissing: [], duplicate: [], dead: [], filter: [], unmatched: [] };
 
   const { headerLine: histHeader, byUrl: histMap } = loadScanHistory(historyFile);
   let histDirty = false;
@@ -138,15 +139,16 @@ function cleanup(pipelineCfg, today, reportsDir) {
     const procesadasMatch = line.match(PROCESADAS_RE);
     if (procesadasMatch) {
       const num = parseInt(procesadasMatch[1], 10);
-      if (reportExists(num, reportsDir)) {
-        audit.done.push({ url, num, line });
-        upsertHistory(url, line, 'processed');
-        continue;
-      } else {
-        audit.reportMissing.push({ url, num, line });
-        kept.push(line);
-        continue;
-      }
+      const exists = reportExists(num, reportsDir);
+      audit.done.push({ url, num, line });
+      if (!exists) audit.doneReportMissing.push({ url, num, line });
+      upsertHistory(url, line, 'processed');
+      continue;
+    }
+    if (DUPLICATE_RE.test(line)) {
+      audit.duplicate.push({ url, line });
+      upsertHistory(url, line, 'processed');
+      continue;
     }
     if (DEAD_RE.test(line)) {
       audit.dead.push({ url, line });
@@ -187,11 +189,11 @@ const out = [
 ];
 for (const r of results) {
   out.push(`## ${r.track} pipeline`);
-  out.push(`- Deleted (already in Procesadas):  ${r.audit.done.length}`);
+  out.push(`- Deleted (already in Procesadas):  ${r.audit.done.length}  (report-already-removed by cleanup-low-scores: ${r.audit.doneReportMissing.length})`);
+  out.push(`- Deleted (duplicate/rerouted):     ${r.audit.duplicate.length}`);
   out.push(`- Deleted (dead URL):               ${r.audit.dead.length}`);
   out.push(`- Deleted (filter slip):            ${r.audit.filter.length}`);
   out.push(`- Kept (unmatched, manual review):  ${r.audit.unmatched.length}`);
-  out.push(`- Kept (report file missing):       ${r.audit.reportMissing.length}`);
   out.push(`- scan-history.tsv updated:         ${r.histDirty ? 'yes' : 'no'}`);
   out.push('');
 
@@ -200,9 +202,9 @@ for (const r of results) {
     for (const u of r.audit.unmatched) out.push(`- ${u.line.substring(0, 250)}`);
     out.push('');
   }
-  if (r.audit.reportMissing.length) {
-    out.push(`### ${r.track} — Kept (Procesadas report file missing on disk)`);
-    for (const u of r.audit.reportMissing) out.push(`- #${u.num}: ${u.url}`);
+  if (r.audit.doneReportMissing.length) {
+    out.push(`### ${r.track} — Deleted (Procesadas; report file already removed by cleanup-low-scores)`);
+    for (const u of r.audit.doneReportMissing) out.push(`- #${u.num}: ${u.url}`);
     out.push('');
   }
 }
@@ -210,6 +212,6 @@ fs.writeFileSync(auditPath, out.join('\n'));
 
 console.log('Pipeline cleanup complete.');
 for (const r of results) {
-  console.log(`  ${r.track}: done=${r.audit.done.length}, dead=${r.audit.dead.length}, filter=${r.audit.filter.length}, kept_unmatched=${r.audit.unmatched.length}, kept_report_missing=${r.audit.reportMissing.length}`);
+  console.log(`  ${r.track}: done=${r.audit.done.length} (report_already_removed=${r.audit.doneReportMissing.length}), duplicate=${r.audit.duplicate.length}, dead=${r.audit.dead.length}, filter=${r.audit.filter.length}, kept_unmatched=${r.audit.unmatched.length}`);
 }
 console.log(`Audit log: ${path.relative(REPO, auditPath)}`);

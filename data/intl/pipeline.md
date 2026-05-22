@@ -17,14 +17,11 @@
 ### 2026-05-22
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-22 (10:52Z) -->
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-22 (late evening run) -->
-- [!] https://job-boards.greenhouse.io/sezzle/jobs/7633951003 | Sezzle | AI Engineer I | Remote LATAM -- moved to Procesadas (#944) 2026-05-22 (1.8/5 below threshold; LATAM-only $30-40K USD; F-1 OPT cannot relocate to LATAM; comp ~75 pct below US band; SKIP)
-- [!] https://job-boards.greenhouse.io/sezzle/jobs/7633956003 | Sezzle | AI Engineer I | Bogota, Colombia (Remote) -- moved to Procesadas (#945) 2026-05-22 (1.7/5 below threshold; Bogota Colombia $30-40K USD; F-1 OPT geo hard blocker; SKIP)
 
 ### 2026-05-21
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-21 -->
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-21 (PM run) -->
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-21 (overnight 15:30Z) -->
-- [!] https://jobs.ashbyhq.com/airapps/594fe7b6-476b-47a6-b5cc-a352937e6542 | Air Apps | AI/ML Engineer | Paris, France -- Fully onsite -- moved to Procesadas (#932) 2026-05-21 (2.7/5 below threshold; €60-76K below US AI Eng band; family-founded 100M+ downloads consumer mobile apps; mobile-native ML tangential; F-1 OPT → FR work auth + French language soft block; SKIP)
 
 ### 2026-05-20
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-20 -->
@@ -43,8 +40,6 @@
 
 ### 2026-05-16
 <!-- Level 3 WebSearch overnight sweep — 2026-05-16 -->
-- [!] https://jobs.lever.co/mistral/dedd74e7-794a-49aa-8ccd-1ffe33fb20b8 | Mistral AI | Applied AI, Forward Deployed ML Engineer | Luxembourg — moved to Procesadas (#844) 2026-05-16 (0/5; Lever 403 — posting unverifiable/likely closed; EU work auth required; F-1 OPT blocker; SKIP)
-- [!] https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5 | Mistral AI | Applied AI, Forward Deployed ML Engineer (Internship) | Unknown EU — moved to Procesadas (#845) 2026-05-16 (0/5; internship skip + Lever 403 unverifiable; Deepak May 2025 grad FT employed; SKIP)
 <!-- Level 3 WebSearch overnight sweep -- 2026-05-16 (AM run) -->
 
 ### 2026-05-15
