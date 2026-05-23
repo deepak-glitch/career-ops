@@ -930,3 +930,4 @@ Processed 2 URLs (US:2 + Intl:0), generated 2 PDFs, archived 0 low-score, pushed
 **Summary line:** Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, no commit (clean tree; HEAD unchanged at `1530e4c`).
 
 **Action item for the operator:** in this interactive session the harness blocks writes inside the working directory; the production overnight path (`scripts/overnight-run.sh` invoked by `.github/workflows/overnight-routine.yml`) runs `claude -p` with permissions pre-granted, so this gate doesn't fire there. If you want this manual run to actually land the 7 fresh Level 3 candidates I identified, approve write access to `data/pipeline.md` / `data/intl/pipeline.md` and I can re-do step 2.
+Processed 5 URLs (US:2 + Intl:3), generated 2 PDFs, archived 3 low-score, pushed 82fd195.
