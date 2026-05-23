@@ -10,6 +10,8 @@
 ## Procesadas
 
 ### 2026-05-23
+- [x] #957 | https://www.ycombinator.com/companies/zymbly/jobs/ueWPYCh-forward-deployed-engineer | Zymbly | Forward Deployed Engineer | London / San Francisco / Seattle | 3.6/5 | PDF ✅
+- [x] #958 | https://www.ycombinator.com/companies/bretton-ai/jobs/E8Bd0s3-forward-deployed-engineer | Bretton AI | Forward Deployed Engineer | San Francisco, CA | 3.4/5 | PDF ✅
 - [x] #950 | https://job-boards.greenhouse.io/lyratechgroup/jobs/5195593008 | Lyra Technology Group | Forward Deployment AI Engineer | Chicago, IL | 3.1/5 | PDF ✅
 - [x] #953 | https://job-boards.greenhouse.io/eleoshealth/jobs/4853585101 | Eleos Health | AI Builder | US, Remote (or Israel) | 3.1/5 | PDF ✅
 - [x] #954 | https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7 | Mirage | Software Engineer, Early Career | Union Square, NYC -- on-site 5d/wk | 3.6/5 | PDF ✅

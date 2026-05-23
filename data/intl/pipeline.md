@@ -16,6 +16,7 @@
 ## Procesadas
 
 ### 2026-05-23
+- [x] #959 | https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442 | HiPeople | Applied AI Engineer – Systems & Reliability | Remote / Berlin | 3.0/5 | PDF ✅
 - [x] #952 | https://jobs.ashbyhq.com/Kallikor/13d4cf35-0aa4-4b7d-808c-bfe32808b6ed | Kallikor | AI/ML Engineer | London, UK | 3.0/5 | PDF ✅
 - [x] #956 | https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4798988101 | Axiomatic_AI | Forward Deployed Engineer | Boston / Toronto / Singapore | 3.3/5 | PDF ✅
 
