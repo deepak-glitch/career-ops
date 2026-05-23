@@ -936,3 +936,9 @@ Processed 6 URLs (US:3 + Intl:3), generated 3 PDFs, archived 1 low-score (#955 P
 Per-track outcomes:
 - US: #953 Eleos Health AI Builder (3.1) PDF ✅; #954 Mirage SE Early Career NYC (3.6) PDF ✅
 - Intl: #956 Axiomatic_AI FDE (3.3) PDF ✅; StubHub extraction failed (dead Greenhouse ID) → kept as `[!]` for retry; Prodigal Bengaluru on-site (2.8) deleted by cleanup-low-scores
+Processed 3 URLs (US:2 + Intl:1), generated 3 PDFs, archived 0 low-score, pushed 207b1e8.
+
+Notes:
+- Scan: L1/L2 returned 0 new (system saturated); L3 WebSearch found 4 candidates (2 US: Zymbly W26, Bretton AI; 2 Intl: HiPeople, Amigo).
+- Amigo's JD was removed from the Ashby board mid-run, so it was marked `[!]` and `dead` in scan-history.
+- Three new reports + 3 PDFs all at score ≥ 3.0 (Zymbly 3.6, Bretton 3.4, HiPeople 3.0). `verify-pipeline.mjs` reported 0 errors / 0 warnings after cleanup.
