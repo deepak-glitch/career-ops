@@ -15,7 +15,9 @@
 - [x] #950 | https://job-boards.greenhouse.io/lyratechgroup/jobs/5195593008 | Lyra Technology Group | Forward Deployment AI Engineer | Chicago, IL | 3.1/5 | PDF ✅
 - [x] #953 | https://job-boards.greenhouse.io/eleoshealth/jobs/4853585101 | Eleos Health | AI Builder | US, Remote (or Israel) | 3.1/5 | PDF ✅
 - [x] #954 | https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7 | Mirage | Software Engineer, Early Career | Union Square, NYC -- on-site 5d/wk | 3.6/5 | PDF ✅
-
+- [x] #960 | https://job-boards.greenhouse.io/workstream/jobs/5984207004 | Workstream | Forward Deployed Engineer | Menlo Park, CA — Hybrid 3d/wk | 3.2/5 | PDF ✅
+- [x] #961 | https://job-boards.greenhouse.io/snorkelai/jobs/5811245004 | Snorkel AI | Forward Deployed Researcher (Data as a Service) | NYC / Redwood City / SF (Hybrid) or US Remote | 3.0/5 | PDF ✅
+- [x] #962 | https://job-boards.greenhouse.io/speechmatics/jobs/4792165101 | Speechmatics | Forward Deployed Engineer | San Francisco, CA — On-site/Hybrid | 3.2/5 | PDF ✅
 
 ### 2026-05-22
 
