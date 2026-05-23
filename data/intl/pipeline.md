@@ -13,12 +13,11 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pendientes
-
 ## Procesadas
 
 ### 2026-05-23
 - [x] #952 | https://jobs.ashbyhq.com/Kallikor/13d4cf35-0aa4-4b7d-808c-bfe32808b6ed | Kallikor | AI/ML Engineer | London, UK | 3.0/5 | PDF ✅
-
+- [x] #956 | https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4798988101 | Axiomatic_AI | Forward Deployed Engineer | Boston / Toronto / Singapore | 3.3/5 | PDF ✅
 
 ### 2026-05-22
 - [x] #944 | https://job-boards.greenhouse.io/sezzle/jobs/7633951003 | Sezzle | AI Engineer I (LATAM) | Latin America (Remote LATAM) | 1.8/5 SKIP | PDF ❌
