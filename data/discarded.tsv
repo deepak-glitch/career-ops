@@ -433,3 +433,6 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-22	943		orphan	orphan	0/5		reports\943-elevenlabs-enterprise-se-germany-2026-05-22.md	
 2026-05-22	944	2026-05-22	Sezzle	AI Engineer I (LATAM)	1.8/5	Discarded	reports/944-sezzle-ai-engineer-latam-2026-05-22.md	[Intl] LATAM-only $30-40K USD; F-1 OPT geo hard blocker; SKIP
 2026-05-22	945	2026-05-22	Sezzle	AI Engineer I (Bogota)	1.7/5	Discarded	reports/945-sezzle-ai-engineer-bogota-2026-05-22.md	[Intl] Bogota Colombia $30-40K USD; F-1 OPT geo hard blocker; SKIP
+2026-05-23	949	2026-05-23	Defense Unicorns	Forward Deployed AI Engineer	1.5/5	Evaluated	reports/949-defense-unicorns-fde-2026-05-23.md	[US] US-citizenship required (federal contractor) — hard veto for F-1 OPT
+2026-05-23	951	2026-05-23	Pivot	AI Engineer	2.7/5	Evaluated	reports/951-pivot-ai-engineer-2026-05-23.md	[Intl] Paris first-AI-eng role at Series-B procurement startup; 5+ yrs ask vs Deepak's 3+ + EU relocation
+2026-05-23	953	2026-05-23	Sarvam	ML Engineer (Data), Foundational Models	2.5/5	Evaluated	reports/953-sarvam-ml-engineer-data-2026-05-23.md	[Intl] Bengaluru pretraining data infra — Spark/Ray petabyte pipelines; profile mismatch (applied AI vs pretraining)

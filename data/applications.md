@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 950 | 2026-05-23 | Lyra Technology Group | Forward Deployment AI Engineer | 3.1/5 | Evaluated | ✅ | [950](reports/950-lyra-tech-fde-2026-05-23.md) | [US] PE-backed MSP — Chicago + client SMB on-site; LangChain/agents stack matches; "no sponsorship" sponsorship friction |
+| 952 | 2026-05-23 | Kallikor | AI/ML Engineer | 3.0/5 | Evaluated | ✅ | [952](reports/952-kallikor-ai-ml-engineer-2026-05-23.md) | [Intl] London production-AI engineering for supply-chain DSLM; FastAPI/Python stack fit; UK auth needed |
 | 947 | 2026-05-22 | iCapital | Artificial Intelligence Forward Deployment Engineer - Associate | 3.7/5 | Evaluated | ✅ | [947](reports/947-icapital-ai-fde-associate-2026-05-22.md) | [US] Associate FDE; agentic/RAG fintech; $100-135K NYC 4d/wk; Python/AWS/MCP fit; Copilot Studio gap; tech 1:1 match |
 | 948 | 2026-05-22 | Ocrolus | Mortgage Forward-Deployed Engineer | 3.1/5 | Evaluated | ✅ | [948](reports/948-ocrolus-mortgage-fde-2026-05-22.md) | [US] Remote-US FDE $150-170K; Python/React/SQL fit; mortgage/Encompass domain hard gap; SKIP unless hidden mortgage exposure |
 | 943 | 2026-05-22 | Concentrate AI | AI Engineer | 3.6/5 | Evaluated | ✅ | [943](reports/943-concentrate-ai-2026-05-22.md) | [US] Stealth seed-stage LLM-proxy platform; remote-US; multi-provider abstraction + production debug 1:1 |

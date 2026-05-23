@@ -6,7 +6,12 @@
      creates it at the end of Pendientes. -->
 
 ## Pendientes
-## Procesadas
+
+## Procesadas
+
+### 2026-05-23
+- [x] #950 | https://job-boards.greenhouse.io/lyratechgroup/jobs/5195593008 | Lyra Technology Group | Forward Deployment AI Engineer | Chicago, IL | 3.1/5 | PDF ✅
+
 
 ### 2026-05-22
 
