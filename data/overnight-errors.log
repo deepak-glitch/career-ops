@@ -942,3 +942,4 @@ Notes:
 - Scan: L1/L2 returned 0 new (system saturated); L3 WebSearch found 4 candidates (2 US: Zymbly W26, Bretton AI; 2 Intl: HiPeople, Amigo).
 - Amigo's JD was removed from the Ashby board mid-run, so it was marked `[!]` and `dead` in scan-history.
 - Three new reports + 3 PDFs all at score ≥ 3.0 (Zymbly 3.6, Bretton 3.4, HiPeople 3.0). `verify-pipeline.mjs` reported 0 errors / 0 warnings after cleanup.
+Processed 5 URLs (US:4 + Intl:1), generated 4 PDFs, archived 1 low-score, pushed 99329e5446e99e6acffa95c822090d68ff23e4b6.
