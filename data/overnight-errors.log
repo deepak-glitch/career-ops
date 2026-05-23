@@ -931,3 +931,8 @@ Processed 2 URLs (US:2 + Intl:0), generated 2 PDFs, archived 0 low-score, pushed
 
 **Action item for the operator:** in this interactive session the harness blocks writes inside the working directory; the production overnight path (`scripts/overnight-run.sh` invoked by `.github/workflows/overnight-routine.yml`) runs `claude -p` with permissions pre-granted, so this gate doesn't fire there. If you want this manual run to actually land the 7 fresh Level 3 candidates I identified, approve write access to `data/pipeline.md` / `data/intl/pipeline.md` and I can re-do step 2.
 Processed 5 URLs (US:2 + Intl:3), generated 2 PDFs, archived 3 low-score, pushed 82fd195.
+Processed 6 URLs (US:3 + Intl:3), generated 3 PDFs, archived 1 low-score (#955 Prodigal 2.8), removed 1 duplicate (#957 YLD vs #922), pushed 8bc6234.
+
+Per-track outcomes:
+- US: #953 Eleos Health AI Builder (3.1) PDF ✅; #954 Mirage SE Early Career NYC (3.6) PDF ✅
+- Intl: #956 Axiomatic_AI FDE (3.3) PDF ✅; StubHub extraction failed (dead Greenhouse ID) → kept as `[!]` for retry; Prodigal Bengaluru on-site (2.8) deleted by cleanup-low-scores
