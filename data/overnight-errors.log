@@ -943,3 +943,10 @@ Notes:
 - Amigo's JD was removed from the Ashby board mid-run, so it was marked `[!]` and `dead` in scan-history.
 - Three new reports + 3 PDFs all at score ≥ 3.0 (Zymbly 3.6, Bretton 3.4, HiPeople 3.0). `verify-pipeline.mjs` reported 0 errors / 0 warnings after cleanup.
 Processed 5 URLs (US:4 + Intl:1), generated 4 PDFs, archived 1 low-score, pushed 99329e5446e99e6acffa95c822090d68ff23e4b6.
+Processed 4 URLs (US:3 + Intl:1), generated 4 PDFs, archived 0 low-score, pushed 89e9a3c.
+
+Sources:
+- [Runlayer FDE](https://jobs.ashbyhq.com/runlayer/17c5964a-c58a-44b7-ae0c-e6f96cae7ffd)
+- [Endgame FDE](https://jobs.ashbyhq.com/endgame/bbd53a1c-ce07-4a4c-8b3d-ee05a36e7c5a)
+- [Mostest Applied AI](https://jobs.ashbyhq.com/mostest/68e436d6-b632-434e-93ab-9314a642dce5)
+- [Tandem Health AI](https://jobs.ashbyhq.com/tandem-health/583fef4f-4417-40d9-a87e-e405180f71ce)
