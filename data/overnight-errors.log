@@ -958,3 +958,4 @@ Processed 3 URLs (US:1 + Intl:2), generated 1 PDFs, archived 2 low-score, pushed
 - **Pipeline:** #972 Future (4.2/5, PDF ✅, Remote US — strong fit, but merge skipped since #198 already canonical), #973 Arize APJ (2.4/5 — Singapore residency / F-1 OPT blocker), #974 Latent Labs (2.6/5 — London + bio domain + UK visa).
 - **Cleanup:** deleted #973 and #974 reports + rows; pipeline integrity 0 errors / 0 warnings.
 - **Push:** commit `61235c5` landed on `origin/main`.
+Processed 5 URLs (US:2 + Intl:3), generated 5 PDFs, archived 0 low-score, pushed 5d0cd19.
