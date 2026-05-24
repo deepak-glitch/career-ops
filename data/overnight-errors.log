@@ -951,3 +951,10 @@ Sources:
 - [Mostest Applied AI](https://jobs.ashbyhq.com/mostest/68e436d6-b632-434e-93ab-9314a642dce5)
 - [Tandem Health AI](https://jobs.ashbyhq.com/tandem-health/583fef4f-4417-40d9-a87e-e405180f71ce)
 Processed 3 URLs (US:2 + Intl:1), generated 3 PDFs, archived 0 low-score, pushed a97158b.
+Processed 3 URLs (US:1 + Intl:2), generated 1 PDFs, archived 2 low-score, pushed 61235c5.
+
+**Run summary:**
+- **Scans:** US + Intl scans found 0 new offers; Level 3 WebSearch surfaced 3 NEW (Future Applied AI, Arize APJ Singapore, Latent Labs London).
+- **Pipeline:** #972 Future (4.2/5, PDF ✅, Remote US — strong fit, but merge skipped since #198 already canonical), #973 Arize APJ (2.4/5 — Singapore residency / F-1 OPT blocker), #974 Latent Labs (2.6/5 — London + bio domain + UK visa).
+- **Cleanup:** deleted #973 and #974 reports + rows; pipeline integrity 0 errors / 0 warnings.
+- **Push:** commit `61235c5` landed on `origin/main`.
