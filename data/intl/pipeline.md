@@ -17,6 +17,8 @@
 ## Procesadas
 
 ### 2026-05-24
+- [x] #978 | https://job-boards.eu.greenhouse.io/indiciumai/jobs/4684638101 | Indicium AI | AI Engineers (London) | London, UK -- Hybrid (verify) | 3.3/5 | PDF ✅
+- [x] #979 | https://job-boards.eu.greenhouse.io/indiciumai/jobs/4695065101 | Indicium AI | AI Engineer (Lisbon) | Lisbon, Portugal -- Hybrid (verify) | 3.3/5 | PDF ✅
 - [x] #971 | https://career.teamtailor.com/jobs/7748148-forward-deployed-ai-accelerator | Teamtailor | Forward Deployed AI Accelerator | Stockholm, Sweden | 3.0/5 | PDF ✅
 - [x] #968 | https://jobs.ashbyhq.com/tandem-health/583fef4f-4417-40d9-a87e-e405180f71ce | Tandem Health | AI Engineer | Stockholm, Sweden -- Office-primary | 3.1/5 | PDF ✅
 - [x] #975 | https://apply.workable.com/j/0D1B958CCE | CrewAI | Forward Deployed Engineer | United Kingdom — Remote | 3.6/5 | PDF ✅

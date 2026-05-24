@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 978 | 2026-05-24 | Indicium AI | AI Engineers (London) | 3.3/5 | Evaluated | ✅ | [978](reports/978-indicium-ai-engineers-london-2026-05-24.md) | [Intl] London UK; mid-senior IC for production multi-agent LLM apps; LangGraph/Claude SDK/Strands stack; UK Skilled Worker visa from F-1 OPT; LangChain/LlamaIndex transferable; PDF generated |
+| 979 | 2026-05-24 | Indicium AI | AI Engineer (Lisbon) | 3.3/5 | Evaluated | ✅ | [979](reports/979-indicium-ai-engineer-lisbon-2026-05-24.md) | [Intl] Lisbon PT; mid-senior IC for production multi-agent LLM apps; same JD framework as London; Portugal Tech Visa pathway from F-1 OPT; IFICI tax incentive; PDF generated |
 | 973 | 2026-05-24 | WITHIN | AI Engineer | 3.8/5 | Evaluated | ✅ | [973](reports/973-within-ai-engineer-2026-05-24.md) | [US] NYC on-site marketing agency; strong LLM+RAG+SQL+agent stack match; F-1 OPT relocation friction |
 | 974 | 2026-05-24 | talentpluto | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [974](reports/974-talentpluto-fde-2026-05-24.md) | [US] Recruiter-sourced FDE for unnamed enterprise AI infra co; comp opaque; 3+ yrs is 6mo stretch |
 | 975 | 2026-05-24 | CrewAI | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [975](reports/975-crewai-fde-uk-2026-05-24.md) | [Intl] OSS multi-agent framework FDE; direct agentic+Python stack match; UK Skilled Worker visa friction |
