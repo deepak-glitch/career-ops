@@ -19,6 +19,9 @@
 ### 2026-05-24
 - [x] #971 | https://career.teamtailor.com/jobs/7748148-forward-deployed-ai-accelerator | Teamtailor | Forward Deployed AI Accelerator | Stockholm, Sweden | 3.0/5 | PDF ✅
 - [x] #968 | https://jobs.ashbyhq.com/tandem-health/583fef4f-4417-40d9-a87e-e405180f71ce | Tandem Health | AI Engineer | Stockholm, Sweden -- Office-primary | 3.1/5 | PDF ✅
+- [x] #975 | https://apply.workable.com/j/0D1B958CCE | CrewAI | Forward Deployed Engineer | United Kingdom — Remote | 3.6/5 | PDF ✅
+- [x] #976 | https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer | Lisbon (Office) or Europe Remote | 3.5/5 | PDF ✅
+- [x] #977 | https://apply.workable.com/j/A01F1A4001 | Unitary | ML Engineer - Customer Solutions | United Kingdom — Remote | 3.2/5 | PDF ✅
 
 ### 2026-05-23
 - [x] #959 | https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442 | HiPeople | Applied AI Engineer – Systems & Reliability | Remote / Berlin | 3.0/5 | PDF ✅

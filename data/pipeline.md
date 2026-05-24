@@ -10,6 +10,8 @@
 ## Procesadas
 
 ### 2026-05-24
+- [x] #974 | https://apply.workable.com/j/6968CBEEEA | talentpluto | Forward Deployed Engineer | NYC/SF preferred or US Remote | 3.2/5 | PDF ✅
+- [x] #973 | https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer | Long Island City, NYC -- On-site | 3.8/5 | PDF ✅
 - [x] #972 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote (Continental US) | 4.2/5 | PDF ✅
 - [x] #969 | https://jobs.ashbyhq.com/nexxa/e5239a3c-84e3-44ae-af9a-5294ebfb2606 | Nexxa.AI | Applied AI Engineer | SF Bay area -- frequent travel | 3.0/5 | PDF ✅
 - [x] #970 | https://job-boards.greenhouse.io/instabase/jobs/8548929002 | Instabase | Full-stack Software Engineer (New Grad) | San Francisco, CA -- Hybrid | 3.6/5 | PDF ✅

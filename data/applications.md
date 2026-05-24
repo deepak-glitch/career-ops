@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 973 | 2026-05-24 | WITHIN | AI Engineer | 3.8/5 | Evaluated | ✅ | [973](reports/973-within-ai-engineer-2026-05-24.md) | [US] NYC on-site marketing agency; strong LLM+RAG+SQL+agent stack match; F-1 OPT relocation friction |
+| 974 | 2026-05-24 | talentpluto | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [974](reports/974-talentpluto-fde-2026-05-24.md) | [US] Recruiter-sourced FDE for unnamed enterprise AI infra co; comp opaque; 3+ yrs is 6mo stretch |
+| 975 | 2026-05-24 | CrewAI | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [975](reports/975-crewai-fde-uk-2026-05-24.md) | [Intl] OSS multi-agent framework FDE; direct agentic+Python stack match; UK Skilled Worker visa friction |
+| 976 | 2026-05-24 | Remote People | AI Engineer | 3.5/5 | Evaluated | ✅ | [976](reports/976-remote-people-ai-engineer-2026-05-24.md) | [Intl] HR-tech SaaS LLM+RAG; direct Python+FastAPI+RAG match; EU-remote visa via D8/Blue Card |
+| 977 | 2026-05-24 | Unitary | ML Engineer - Customer Solutions | 3.2/5 | Evaluated | ✅ | [977](reports/977-unitary-ml-customer-solutions-2026-05-24.md) | [Intl] T&S Virtual Agents; CV+agentic fit; K8s/IaC gap; UK Skilled Worker visa friction |
 | 969 | 2026-05-24 | Nexxa.AI | Applied AI Engineer | 3.0/5 | Evaluated | ✅ | [969](reports/969-nexxa-applied-ai-2026-05-24.md) | [US] Applied AI @ industrial GenAI+CV (manufacturing/infra/logistics) ASI bet; SF Bay + frequent travel; 5-10y ask is borderline for 2.5y track; comp not disclosed |
 | 970 | 2026-05-24 | Instabase | Full-stack Software Engineer (New Grad) | 3.6/5 | Evaluated | ✅ | [970](reports/970-instabase-full-stack-new-grad-2026-05-24.md) | [US] Full-stack new grad @ AI Hub (Greylock/a16z/Index); SF Hybrid; $140K-145.4K disclosed; stack overlap (Python/React/TS/Docker); Go gap is small |
 | 971 | 2026-05-24 | Teamtailor | Forward Deployed AI Accelerator | 3.0/5 | Evaluated | ✅ | [971](reports/971-teamtailor-fde-ai-accelerator-2026-05-24.md) | [Intl] Internal AI enablement embedded in GTM/Ops at scale-up ATS; Stockholm in-office (F-1 OPT sponsorship friction); 5+y analytical ask; comp not disclosed |
