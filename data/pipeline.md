@@ -6,8 +6,12 @@
      creates it at the end of Pendientes. -->
 
 ## Pendientes
-
 ## Procesadas
+
+### 2026-05-24
+- [x] #965 | https://jobs.ashbyhq.com/runlayer/17c5964a-c58a-44b7-ae0c-e6f96cae7ffd | Runlayer | Forward Deployed Engineer | San Francisco / New York City -- In-office | 3.3/5 | PDF ✅
+- [x] #966 | https://jobs.ashbyhq.com/endgame/bbd53a1c-ce07-4a4c-8b3d-ee05a36e7c5a | Endgame | Forward Deployed Engineer | Remote -- US | 3.4/5 | PDF ✅
+- [x] #967 | https://jobs.ashbyhq.com/mostest/68e436d6-b632-434e-93ab-9314a642dce5 | Mostest | Applied AI Engineer | Boulder CO / NYC / Remote NA | 3.7/5 | PDF ✅
 
 ### 2026-05-23
 - [x] #957 | https://www.ycombinator.com/companies/zymbly/jobs/ueWPYCh-forward-deployed-engineer | Zymbly | Forward Deployed Engineer | London / San Francisco / Seattle | 3.6/5 | PDF ✅

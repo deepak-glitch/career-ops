@@ -13,7 +13,11 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pendientes
+
 ## Procesadas
+
+### 2026-05-24
+- [x] #968 | https://jobs.ashbyhq.com/tandem-health/583fef4f-4417-40d9-a87e-e405180f71ce | Tandem Health | AI Engineer | Stockholm, Sweden -- Office-primary | 3.1/5 | PDF ✅
 
 ### 2026-05-23
 - [x] #959 | https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442 | HiPeople | Applied AI Engineer – Systems & Reliability | Remote / Berlin | 3.0/5 | PDF ✅
