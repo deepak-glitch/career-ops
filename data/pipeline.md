@@ -6,9 +6,11 @@
      creates it at the end of Pendientes. -->
 
 ## Pendientes
+
 ## Procesadas
 
 ### 2026-05-24
+- [x] #972 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote (Continental US) | 4.2/5 | PDF ✅
 - [x] #969 | https://jobs.ashbyhq.com/nexxa/e5239a3c-84e3-44ae-af9a-5294ebfb2606 | Nexxa.AI | Applied AI Engineer | SF Bay area -- frequent travel | 3.0/5 | PDF ✅
 - [x] #970 | https://job-boards.greenhouse.io/instabase/jobs/8548929002 | Instabase | Full-stack Software Engineer (New Grad) | San Francisco, CA -- Hybrid | 3.6/5 | PDF ✅
 - [x] #965 | https://jobs.ashbyhq.com/runlayer/17c5964a-c58a-44b7-ae0c-e6f96cae7ffd | Runlayer | Forward Deployed Engineer | San Francisco / New York City -- In-office | 3.3/5 | PDF ✅
