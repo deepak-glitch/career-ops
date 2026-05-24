@@ -17,6 +17,7 @@
 ## Procesadas
 
 ### 2026-05-24
+- [x] #971 | https://career.teamtailor.com/jobs/7748148-forward-deployed-ai-accelerator | Teamtailor | Forward Deployed AI Accelerator | Stockholm, Sweden | 3.0/5 | PDF ✅
 - [x] #968 | https://jobs.ashbyhq.com/tandem-health/583fef4f-4417-40d9-a87e-e405180f71ce | Tandem Health | AI Engineer | Stockholm, Sweden -- Office-primary | 3.1/5 | PDF ✅
 
 ### 2026-05-23

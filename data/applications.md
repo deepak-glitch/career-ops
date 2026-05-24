@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 969 | 2026-05-24 | Nexxa.AI | Applied AI Engineer | 3.0/5 | Evaluated | ✅ | [969](reports/969-nexxa-applied-ai-2026-05-24.md) | [US] Applied AI @ industrial GenAI+CV (manufacturing/infra/logistics) ASI bet; SF Bay + frequent travel; 5-10y ask is borderline for 2.5y track; comp not disclosed |
+| 970 | 2026-05-24 | Instabase | Full-stack Software Engineer (New Grad) | 3.6/5 | Evaluated | ✅ | [970](reports/970-instabase-full-stack-new-grad-2026-05-24.md) | [US] Full-stack new grad @ AI Hub (Greylock/a16z/Index); SF Hybrid; $140K-145.4K disclosed; stack overlap (Python/React/TS/Docker); Go gap is small |
+| 971 | 2026-05-24 | Teamtailor | Forward Deployed AI Accelerator | 3.0/5 | Evaluated | ✅ | [971](reports/971-teamtailor-fde-ai-accelerator-2026-05-24.md) | [Intl] Internal AI enablement embedded in GTM/Ops at scale-up ATS; Stockholm in-office (F-1 OPT sponsorship friction); 5+y analytical ask; comp not disclosed |
 | 965 | 2026-05-24 | Runlayer | Forward Deployed Engineer | 3.3/5 | Evaluated | ✅ | [965](reports/965-runlayer-fde-2026-05-24.md) | [US] FDE @ MCP/agents platform (Khosla/Felicis-backed, $11M); SF/NYC in-office; 4+ yrs ask is borderline for 3yr Applied AI |
 | 966 | 2026-05-24 | Endgame | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [966](reports/966-endgame-fde-2026-05-24.md) | [US] FDE @ GTM context engine (Monte Carlo, BetterUp, Braze customers); Remote US; full-cycle sales pairing; 5+ yrs ask is a stretch |
 | 967 | 2026-05-24 | Mostest | Applied AI Engineer | 3.7/5 | Evaluated | ✅ | [967](reports/967-mostest-applied-ai-2026-05-24.md) | [US] Applied AI @ seed-stage events AI OS; Remote NA; $125-200K disclosed; strong stack match (RAG/agentic/Supabase/Next.js) |

@@ -9,6 +9,8 @@
 ## Procesadas
 
 ### 2026-05-24
+- [x] #969 | https://jobs.ashbyhq.com/nexxa/e5239a3c-84e3-44ae-af9a-5294ebfb2606 | Nexxa.AI | Applied AI Engineer | SF Bay area -- frequent travel | 3.0/5 | PDF ✅
+- [x] #970 | https://job-boards.greenhouse.io/instabase/jobs/8548929002 | Instabase | Full-stack Software Engineer (New Grad) | San Francisco, CA -- Hybrid | 3.6/5 | PDF ✅
 - [x] #965 | https://jobs.ashbyhq.com/runlayer/17c5964a-c58a-44b7-ae0c-e6f96cae7ffd | Runlayer | Forward Deployed Engineer | San Francisco / New York City -- In-office | 3.3/5 | PDF ✅
 - [x] #966 | https://jobs.ashbyhq.com/endgame/bbd53a1c-ce07-4a4c-8b3d-ee05a36e7c5a | Endgame | Forward Deployed Engineer | Remote -- US | 3.4/5 | PDF ✅
 - [x] #967 | https://jobs.ashbyhq.com/mostest/68e436d6-b632-434e-93ab-9314a642dce5 | Mostest | Applied AI Engineer | Boulder CO / NYC / Remote NA | 3.7/5 | PDF ✅
