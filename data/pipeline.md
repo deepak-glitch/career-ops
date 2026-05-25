@@ -9,6 +9,9 @@
 
 ## Procesadas
 
+### 2026-05-25
+- [x] #981 | https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9 | Modal | Forward Deployed Engineer, ML (NY) | New York, NY — in-person | 3.1/5 | PDF ✅
+
 ### 2026-05-24
 - [x] #974 | https://apply.workable.com/j/6968CBEEEA | talentpluto | Forward Deployed Engineer | NYC/SF preferred or US Remote | 3.2/5 | PDF ✅
 - [x] #973 | https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer | Long Island City, NYC -- On-site | 3.8/5 | PDF ✅

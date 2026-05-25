@@ -16,6 +16,9 @@
 
 ## Procesadas
 
+### 2026-05-25
+- [x] #982 | https://jobs.ashbyhq.com/modal/0d9c249b-f305-4b0e-b325-3242ac7274e7 | Modal | Forward Deployed Engineer, ML (Stockholm) | Stockholm, Sweden — in-person | 3.0/5 | PDF ✅
+
 ### 2026-05-24
 - [x] #978 | https://job-boards.eu.greenhouse.io/indiciumai/jobs/4684638101 | Indicium AI | AI Engineers (London) | London, UK -- Hybrid (verify) | 3.3/5 | PDF ✅
 - [x] #979 | https://job-boards.eu.greenhouse.io/indiciumai/jobs/4695065101 | Indicium AI | AI Engineer (Lisbon) | Lisbon, Portugal -- Hybrid (verify) | 3.3/5 | PDF ✅
