@@ -977,3 +977,16 @@ One environment note: the Edit tool was permission-gated on existing files this 
 
 `Processed 1 URL (US:0 + Intl:1), generated 0 PDFs, archived 1 low-score, pushed c3380ed`.
 API Error: Overloaded
+Working tree clean, pushed to `origin/main`. Overnight run complete.
+
+**Summary of what happened tonight:**
+
+- **Scan:** US + Intl API scans found 0 new offers (all >48h old or filtered). Level 3 WebSearch surfaced a pool of FDE / Applied-AI roles.
+- **Pipeline:** Both Pendientes were empty, so I evaluated the 4 strongest extractable discoveries — Anthropic FDE Applied AI (US), AssemblyAI FDE Onboarding (US), Banyan Software FDE (UK/Intl), Cresta Senior FDE (Australia/Intl). **All 4 turned out to be duplicates of already-tracked roles** (merge-tracker deduped Anthropic→#1/4.3, AssemblyAI→#846/3.2, Cresta→#329/3.4) or fell below 3.0, so none persisted as new reports or PDFs.
+- **Cleanup:** `cleanup-low-scores` deleted the sub-3.0 artifacts (AssemblyAI, Banyan, Cresta) and logged 3 audit rows to `discarded.tsv`; the redundant Anthropic re-eval was removed (lower score than the tracked #1). `cleanup-bang-rows` found nothing to sweep.
+- **Queued for next run:** 3 genuinely-new URLs added to US Pendientes — CopilotKit FDE, Continue (New Grad SWE), General Robotics FDE. Dropped Saris (dead link), Perplexity (already processed), P-1 AI and Baseten (tracker dups #562/#156).
+- **Verify:** 0 errors. One **pre-existing** warning (WITHIN #973/#147 duplicate, 3.8 vs 4.1) that predates this run — left untouched to avoid deleting legitimate historical data; flagging for your review.
+
+Note: a career-ops update is available (v1.3.0 → v1.8.1). I did not apply it mid-run — let me know if you want me to update.
+
+**Processed 4 URLs (US:2 + Intl:2), generated 0 PDFs, archived 3 low-score/dup, pushed d09ad5f.**
