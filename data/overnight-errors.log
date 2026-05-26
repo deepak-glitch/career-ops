@@ -990,3 +990,14 @@ Working tree clean, pushed to `origin/main`. Overnight run complete.
 Note: a career-ops update is available (v1.3.0 → v1.8.1). I did not apply it mid-run — let me know if you want me to update.
 
 **Processed 4 URLs (US:2 + Intl:2), generated 0 PDFs, archived 3 low-score/dup, pushed d09ad5f.**
+Overnight run complete. Summary of what happened:
+
+- **Scan** (both tracks): `scan.mjs` US + Intl returned **0 new** via ATS APIs. Level 3 WebSearch surfaced only already-evaluated dups on the US side; the 3 net-new Intl candidates (ICEYE, 2× Jobgether) were added to the Intl pipeline.
+- **Pipeline**: Of the 6 candidate URLs (3 US Pendientes + 3 new Intl), only **Continue — Software Engineer (New Grad)** was live. Evaluated it as **#983, 3.6/5 (US)**, wrote the full A–H report, and generated a tailored 2-page ATS PDF. The other 5 were dead at fetch time (CopilotKit FDE closed, General Robotics FDE removed from board, ICEYE Workable returns no active jobs, both Jobgether/Himalayas URLs 404).
+- **Merge + verify**: tracker merged (+1), `verify-pipeline` = **0 errors**. The 1 warning is a **pre-existing** WITHIN duplicate (#147/#973) from earlier runs — left intact rather than destructively deleting historical eval data.
+- **Cleanup**: `cleanup-low-scores` deleted nothing (Continue ≥ 3.0); `cleanup-bang-rows` swept all 5 dead rows (US:2, Intl:3) and dropped the empty date subsections.
+- **Commit + push**: `548eae4` pushed to `origin/main`.
+
+One-line summary: **Processed 1 URL (US:1 + Intl:0), generated 1 PDF, archived 0 low-score, swept 5 dead links, pushed 548eae4.**
+
+Note: a pre-existing WITHIN AI Engineer duplicate (#147 @ 4.1 vs #973 @ 3.8) remains flagged by `verify-pipeline`. If you want it resolved, I can run `dedup-tracker.mjs` or remove one entry — just say which to keep.
