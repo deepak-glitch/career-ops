@@ -1,7 +1,7 @@
 url	first_seen	portal	title	company	status
 https://job-boards.greenhouse.io/intercom/jobs/7824137	2026-05-13	greenhouse-api	AI Infrastructure Engineer	Intercom	added
 https://job-boards.greenhouse.io/vercel/jobs/5778418004	2026-05-13	greenhouse-api	Forward-Deployed Engineer	Vercel	added
-https://job-boards.greenhouse.io/arizeai/jobs/5993317004	2026-05-19	WebSearch -- L3 Greenhouse FDE	Forward Deployed Engineer, APJ	Arize AI	processed
+https://job-boards.greenhouse.io/arizeai/jobs/5993317004	2026-05-24	WebSearch - L3 overnight 2026-05-24	Forward Deployed Engineer APJ	Arize AI	added
 https://helsing.ai/jobs/4334849101?gh_jid=4334849101	2026-05-13	greenhouse-api	AI Research Engineer - AI Safety	Helsing	added
 https://helsing.ai/jobs/4766708101?gh_jid=4766708101	2026-05-13	greenhouse-api	AI Research Engineer - Foundation Models	Helsing	added
 https://helsing.ai/jobs/4676357101?gh_jid=4676357101	2026-05-13	greenhouse-api	AI Research Engineer - Reinforcement Learning	Helsing	added
@@ -36,7 +36,7 @@ https://helsing.ai/jobs/4334842101?gh_jid=4334842101	2026-05-19	greenhouse-api	A
 https://jobs.ashbyhq.com/bjakcareer/7f502d4d-7cc1-4f8f-9cb5-82e02b9a0c58	2026-05-19	WebSearch — L3 Ashby AI Engineer	AI Engineer (Remote)	Bjak	dead
 https://job-boards.greenhouse.io/yipitdata/jobs/3907051	2026-05-19	WebSearch — L3 Greenhouse AI	AI Engineer	YipitData	dead
 https://job-boards.greenhouse.io/hoyoverse/jobs/5104595007	2026-05-19	WebSearch — L3 Greenhouse AI	Game AI Engineer - Varsapura	HoYoverse	added
-https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442	2026-05-19	WebSearch -- L3 Ashby Applied AI	Applied AI Engineer -- Systems & Reliability	HiPeople	added
+https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442	2026-05-23	WebSearch -- L3 overnight 2026-05-23	Applied AI Engineer Systems Reliability	HiPeople	added
 https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009	2026-05-19	WebSearch -- L3 Greenhouse FDE	Forward Deployed Engineer (AI)	Opaque Systems	filtered
 https://sumup.com/careers/positions/8447227002?gh_jid=8447227002	2026-05-19	greenhouse-api	Onboarding Agent II	SumUp	filtered
 https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101	2026-05-19	greenhouse-api	Forward Deployed Applications - Software Engineer	PhysicsX	processed
@@ -83,17 +83,12 @@ https://jobs.ashbyhq.com/sarvam/2d72a541-c805-4bd9-81cd-ac2db98611fa	2026-05-23	
 https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4685640101	2026-05-23	WebSearch — L3 overnight 2026-05-23	Software Engineer I - AI Platform (New Grad)	StubHub	dead
 https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4798988101	2026-05-23	WebSearch — L3 overnight 2026-05-23	Forward Deployed Engineer	Axiomatic_AI	added
 https://job-boards.eu.greenhouse.io/yld/jobs/4653093101	2026-05-23	WebSearch — L3 overnight 2026-05-23	AI Engineer	YLD	added
-https://jobs.ashbyhq.com/amigo/c2837207-23b3-46eb-81f6-292fa96a4a04	2026-05-23	WebSearch -- L3 overnight 2026-05-23	Applied AI Engineer (Contract)	Amigo	added
-https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442	2026-05-23	WebSearch -- L3 overnight 2026-05-23	Applied AI Engineer Systems Reliability	HiPeople	added
 https://jobs.ashbyhq.com/amigo/c2837207-23b3-46eb-81f6-292fa96a4a04	2026-05-23	WebSearch -- L3 overnight 2026-05-23	Applied AI Engineer (Contract)	Amigo	dead
 https://job-boards.greenhouse.io/stackadapt/jobs/4131244009	2026-05-23	WebSearch -- L3 overnight 2026-05-23	Machine Learning Engineer (Remote)	StackAdapt	processed
-https://job-boards.eu.greenhouse.io/jetbrains/jobs/4785346101	2026-05-24	WebSearch -- L3 overnight 2026-05-24	AI Engineer (Core Engine)	JetBrains	added
-https://job-boards.eu.greenhouse.io/jetbrains/jobs/4695576101	2026-05-24	WebSearch -- L3 overnight 2026-05-24	Machine Learning Evaluation Engineer	JetBrains	added
-https://jobs.ashbyhq.com/tandem-health/583fef4f-4417-40d9-a87e-e405180f71ce	2026-05-24	WebSearch -- L3 overnight 2026-05-24	AI Engineer - Stockholm	Tandem Health	added
 https://job-boards.eu.greenhouse.io/jetbrains/jobs/4785346101	2026-05-24	WebSearch -- L3 overnight 2026-05-24	Senior AI Engineer (Core Engine)	JetBrains	filtered
 https://job-boards.eu.greenhouse.io/jetbrains/jobs/4695576101	2026-05-24	WebSearch -- L3 overnight 2026-05-24	ML Eval Engineer	JetBrains	dead
+https://jobs.ashbyhq.com/tandem-health/583fef4f-4417-40d9-a87e-e405180f71ce	2026-05-24	WebSearch -- L3 overnight 2026-05-24	AI Engineer - Stockholm	Tandem Health	added
 https://career.teamtailor.com/jobs/7748148-forward-deployed-ai-accelerator	2026-05-24	WebSearch -- L3 overnight 2026-05-24	Forward Deployed AI Accelerator	Teamtailor	processed
-https://job-boards.greenhouse.io/arizeai/jobs/5993317004	2026-05-24	WebSearch - L3 overnight 2026-05-24	Forward Deployed Engineer APJ	Arize AI	added
 https://jobs.ashbyhq.com/latentlabs/8dc5159a-d6fc-4fe2-8731-84c6f0f3f559	2026-05-24	WebSearch - L3 overnight 2026-05-24	Forward Deployed AI Engineer	Latent Labs	added
 https://job-boards.eu.greenhouse.io/indiciumai/jobs/4684638101	2026-05-24	WebSearch -- L3 overnight 2026-05-24	AI Engineers	Indicium AI	added
 https://job-boards.eu.greenhouse.io/indiciumai/jobs/4695065101	2026-05-24	WebSearch -- L3 overnight 2026-05-24	AI Engineer	Indicium AI	added
@@ -101,3 +96,6 @@ https://job-boards.greenhouse.io/gleanwork/jobs/4549192005	2026-05-25	greenhouse
 https://jobs.ashbyhq.com/modal/0d9c249b-f305-4b0e-b325-3242ac7274e7	2026-05-25	WebSearch — L3 overnight 2026-05-25	Forward Deployed Engineer - ML	Modal	processed
 https://job-boards.greenhouse.io/banyansoftware/jobs/5056439007	2026-05-26	WebSearch -- L3 overnight 2026-05-26	Forward Deployed Engineer	Banyan Software	processed
 https://job-boards.greenhouse.io/cresta/jobs/5107283008	2026-05-26	WebSearch -- L3 overnight 2026-05-26	Senior Forward Deployed Engineer (AI Agent)	Cresta	processed
+https://apply.workable.com/iceye/j/B75F49639E/	2026-05-26	WebSearch L3 EU Workable overnight	Forward Deployed AI Engineer	ICEYE	dead
+https://himalayas.app/companies/jobgether/jobs/junior-ai-engineer-remote-europe	2026-05-26	WebSearch L3 Himalayas overnight	Junior AI Engineer	Jobgether	dead
+https://himalayas.app/companies/jobgether/jobs/ai-engineer-synthetic-data-pipelines-europe	2026-05-26	WebSearch L3 Himalayas overnight	AI Engineer (Synthetic Data Pipelines)	Jobgether	dead
