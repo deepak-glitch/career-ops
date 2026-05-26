@@ -442,3 +442,6 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-24	973		orphan	orphan	0/5		reports/973-arize-fde-apj-2026-05-24.md	
 2026-05-25	980	2026-05-25	Glean	Partner Solutions Engineer (Japan)	1.8/5	SKIP	reports/980-glean-partner-solutions-engineer-2026-05-25.md	[Intl] Japan remote partner/channel SE — off all 6 engineering archetypes (partner GTM/sales), Japanese fluency hard blocker, Japan/F-1 OPT incompatible, posting ~13mo old (likely evergreen); SKIP
 2026-05-25	980	2026-05-25	Periodic Labs	Forward Deployed Engineer, LLM Systems	2.5/5	Evaluated	reports/980-periodic-labs-fde-llm-systems-2026-05-25.md	[US] Menlo Park on-site; $350-400K + visa sponsorship; deep ML-systems infra (K8s/Slurm/vLLM/SGLang/RL) + semiconductor process eng — two hard skill-domain gaps; recommend against applying
+2026-05-26	985	2026-05-26	Banyan Software	Forward Deployed Engineer	2.7/5	Evaluated	reports/985-banyan-software-fde-2026-05-26.md	[Intl] London UK hybrid; 5+ yrs senior gate (~50% YOE gap) + AWS/Terraform/serverless infra gaps + UK work auth; AI is thin overlay on cloud-modernization consulting; SKIP
+2026-05-26	984		orphan	orphan	0/5		reports/984-assemblyai-fde-onboarding-2026-05-26.md	
+2026-05-26	986		orphan	orphan	0/5		reports/986-cresta-senior-fde-ai-agent-2026-05-26.md	

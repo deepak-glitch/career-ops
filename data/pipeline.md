@@ -7,6 +7,11 @@
 
 ## Pendientes
 
+### 2026-05-26
+- [ ] https://jobs.lever.co/copilotkit/d134b481-f042-45b1-b908-dd38ff72fdd0 | CopilotKit | Forward Deployed Engineer | Remote (verify)
+- [ ] https://jobs.ashbyhq.com/continue/219fce3e-7af9-4b00-8fa7-87bf53db72f7 | Continue | Software Engineer (New Grad) | SF (verify)
+- [ ] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | General Robotics | Forward Deployed Engineer (AI) | verify
+
 ## Procesadas
 
 ### 2026-05-25
