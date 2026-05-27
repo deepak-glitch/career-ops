@@ -8,6 +8,9 @@
 ## Pendientes
 ## Procesadas
 
+### 2026-05-27
+- [x] #987 | https://jobs.ashbyhq.com/GrowthX%20AI/cbbfa16d-21dd-49a3-a0ad-2c0fe99799af | GrowthX AI | Design Engineer, Forward Deployed Engineering | Remote — North America | 3.3/5 | PDF ✅
+
 ### 2026-05-26
 - [x] #984 | https://job-boards.greenhouse.io/loop/jobs/5981831004 | Loop | 2026 New Grad | Software Engineer, Full-Stack (Chicago) | Chicago, IL — Hybrid 4d/wk | 3.7/5 | PDF ✅
 - [x] #983 | https://jobs.ashbyhq.com/continue/219fce3e-7af9-4b00-8fa7-87bf53db72f7 | Continue | Software Engineer (New Grad) | San Francisco, CA — On-site | 3.6/5 | PDF ✅

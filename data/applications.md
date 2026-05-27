@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 987 | 2026-05-27 | GrowthX AI | Design Engineer, Forward Deployed Engineering | 3.3/5 | Evaluated | ✅ | [987](reports/987-growthx-design-fde-2026-05-27.md) | [US] Series A AI product studio (Madrona); Remote NA; React/TS/Tailwind + Output.ai; designer-coder stretch |
 | 985 | 2026-05-26 | Eloquent AI | AI Engineer (London) | 3.4/5 | Evaluated | ✅ | [985](reports/985-eloquentai-ai-engineer-london-2026-05-26.md) | [Intl] London UK; accuracy-critical AI agents; full-stack; YC company w/ SF+London+Lisbon offices; F-1 OPT → needs UK Skilled Worker sponsorship confirmation |
 | 983 | 2026-05-26 | Continue | Software Engineer (New Grad) | 3.6/5 | Evaluated | ✅ | [983](reports/983-continue-swe-newgrad-2026-05-26.md) | [US] SF on-site new-grad; OSS AI code assistant (YC S23, 20k+ stars); $100-150K + 0.1-0.5% equity; TS/React/Node 1:1 via Manga Lens + Dream Decoder; Next.js soft gap; RAG retrieval transfers to codebase retrieval; F-1 OPT compatible |
 | 978 | 2026-05-24 | Indicium AI | AI Engineers (London) | 3.3/5 | Evaluated | ✅ | [978](reports/978-indicium-ai-engineers-london-2026-05-24.md) | [Intl] London UK; mid-senior IC for production multi-agent LLM apps; LangGraph/Claude SDK/Strands stack; UK Skilled Worker visa from F-1 OPT; LangChain/LlamaIndex transferable; PDF generated |
