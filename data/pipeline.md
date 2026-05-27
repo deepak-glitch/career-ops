@@ -7,14 +7,10 @@
 
 ## Pendientes
 
-### 2026-05-27
-- [ ] https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80 | Exa | Forward Deployed Engineer | San Francisco, CA
-- [ ] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer | San Francisco, CA
-- [ ] https://jobs.ashbyhq.com/latentlabs/bbb7dcf7-2311-4103-bebf-96901ca18775 | Latent Labs | Forward Deployed AI Engineer | San Francisco, CA
-
 ## Procesadas
 
 ### 2026-05-27
+- [x] #991 | https://jobs.ashbyhq.com/latentlabs/bbb7dcf7-2311-4103-bebf-96901ca18775 | Latent Labs | Forward Deployed AI Engineer (SF) | San Francisco — On-site | 3.1/5 | PDF ✅
 - [x] #988 | https://jobs.lever.co/conversica/765d2754-a07a-4a83-8a9d-fc25b80d73c3 | Conversica | Software Engineer (AI Platform) | United States — Remote | 3.8/5 | PDF ✅
 - [x] #987 | https://jobs.ashbyhq.com/GrowthX%20AI/cbbfa16d-21dd-49a3-a0ad-2c0fe99799af | GrowthX AI | Design Engineer, Forward Deployed Engineering | Remote — North America | 3.3/5 | PDF ✅
 

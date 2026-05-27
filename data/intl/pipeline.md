@@ -14,13 +14,10 @@
 
 ## Pendientes
 
-### 2026-05-27
-
-- [ ] https://wayve.firststage.co/jobs?gh_jid=8564317002 | Wayve | Partner Integration Engineer | London
-- [ ] https://wayve.firststage.co/jobs?gh_jid=8564314002 | Wayve | Platform Engineer | London
-- [ ] https://jobs.ashbyhq.com/latentlabs/8dc5159a-d6fc-4fe2-8731-84c6f0f3f559 | Latent Labs | Forward Deployed AI Engineer | London, UK
-
 ## Procesadas
+
+### 2026-05-27
+- [x] #992 | https://jobs.ashbyhq.com/latentlabs/8dc5159a-d6fc-4fe2-8731-84c6f0f3f559 | Latent Labs | Forward Deployed AI Engineer (London) | London, UK — On-site | 3.0/5 | PDF ✅
 
 ### 2026-05-26
 - [x] #985 | https://jobs.ashbyhq.com/eloquentai/b636810c-e01b-4f9b-8aed-9a0856fee42e | Eloquent AI | AI Engineer | London, UK | 3.4/5 | PDF ✅
