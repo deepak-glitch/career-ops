@@ -6,6 +6,12 @@
      creates it at the end of Pendientes. -->
 
 ## Pendientes
+
+### 2026-05-27
+- [ ] https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80 | Exa | Forward Deployed Engineer | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer | San Francisco, CA
+- [ ] https://jobs.ashbyhq.com/latentlabs/bbb7dcf7-2311-4103-bebf-96901ca18775 | Latent Labs | Forward Deployed AI Engineer | San Francisco, CA
+
 ## Procesadas
 
 ### 2026-05-27
