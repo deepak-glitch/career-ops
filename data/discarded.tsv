@@ -447,3 +447,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-26	986		orphan	orphan	0/5		reports/986-cresta-senior-fde-ai-agent-2026-05-26.md	
 2026-05-27	984	2026-05-26	Caylent	Forward Deployed Engineer	2.9/5	Evaluated	reports/984-caylent-fde-2026-05-26.md	[US] Remote US (50% travel); $136-216K; AWS consulting FDE; 5+ yrs gate Deepak doesn't meet; AWS depth + Claude Code SDK gaps
 2026-05-27	985		orphan	orphan	0/5		reports\985-lyratechgroup-fde-ai-2026-05-26.md	
+2026-05-27	986	2026-05-26	Air Apps	AI/ML Engineer (Paris)	2.7/5	Evaluated	reports/986-airapps-ai-ml-engineer-paris-2026-05-26.md	[Intl] Paris; consumer mobile ML; pide 4+ yrs + mobile experience; Deepak 2.5 yrs + no mobile native experience; below threshold
+2026-05-27	987		orphan	orphan	0/5		reports\987-openai-fde-paris-2026-05-26.md	

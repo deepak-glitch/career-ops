@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Deepak Mallampati — CV</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { background: #ffffff; color: #000000; }
+  body { font-family: 'Times New Roman', Times, serif; font-size: 10pt; line-height: 1.35; }
+  a { color: #000000; text-decoration: underline; white-space: nowrap; }
+  .page { width: 100%; max-width: 8.5in; margin: 0 auto; padding: 2px 0; }
+  .header { margin-bottom: 14px; text-align: center; }
+  .header h1 { font-size: 18pt; font-weight: 700; margin-bottom: 3px; line-height: 1.1; }
+  .header-gradient { height: 1px; background: #000000; margin: 6px 0 8px 0; }
+  .contact-row { display: flex; flex-wrap: wrap; justify-content: center; gap: 3px 8px; font-size: 9.5pt; line-height: 1.3; }
+  .contact-row a { text-decoration: none; }
+  .section { margin-bottom: 12px; }
+  .section-title { font-size: 11pt; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; border-bottom: 1px solid #000000; padding-bottom: 2px; margin-bottom: 5px; line-height: 1.2; }
+  .summary-text { font-size: 10pt; line-height: 1.35; text-align: justify; }
+  .competency-tag { font-size: 10pt; display: inline; }
+  .competency-tag:not(:last-child)::after { content: " • "; }
+  .job { margin-bottom: 10px; }
+  .job-header { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; margin-bottom: 2px; }
+  .job-company { font-size: 10.5pt; font-weight: 700; }
+  .job-period { font-size: 9.5pt; font-style: italic; white-space: nowrap; }
+  .job-role { font-size: 10pt; font-style: italic; margin-bottom: 3px; }
+  .job ul { padding-left: 16px; margin-top: 3px; list-style-type: disc; }
+  .job li { font-size: 10pt; line-height: 1.35; margin-bottom: 2px; }
+  .job li strong { font-weight: 700; }
+  .project { margin-bottom: 8px; }
+  .project-title { font-size: 10.5pt; font-weight: 700; }
+  .project-desc { font-size: 10pt; margin-top: 2px; line-height: 1.35; }
+  .project-tech { font-size: 9.5pt; font-style: italic; margin-top: 2px; }
+  .edu-item { margin-bottom: 6px; }
+  .edu-header { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+  .edu-title { font-weight: 700; font-size: 10pt; }
+  .edu-org { font-weight: 400; font-style: italic; }
+  .edu-year { font-size: 9.5pt; font-style: italic; white-space: nowrap; }
+  .skill-item { font-size: 10pt; display: block; margin-bottom: 2px; }
+  .skill-category { font-weight: 700; font-size: 10pt; }
+  @media print { body { -webkit-print-color-adjust: exact; print-color-adjust: exact; } .page { padding: 0; } }
+  .avoid-break, .job, .project, .edu-item { break-inside: avoid; page-break-inside: avoid; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header avoid-break">
+    <h1>Deepak Mallampati</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>(330) 554-0770</span>
+      <span>|</span>
+      <span>deepakmallampati00@gmail.com</span>
+      <span>|</span>
+      <a href="https://www.linkedin.com/in/deepak-mallampati/">linkedin.com/in/deepak-mallampati</a>
+      <span>|</span>
+      <span>Kent, OH — US-based; open to UK relocation with sponsorship</span>
+    </div>
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">Applied AI engineer who builds accuracy-critical LLM systems for regulated environments. Production track record from healthcare AI: Retrieval-Augmented Generation with <strong>~35% precision gain</strong> and <strong>&gt;90% grounding alignment</strong>, agentic LLM workflows with <strong>&gt;30% hallucination reduction</strong> via schema-validated agent contracts, and FastAPI/Docker services with <strong>~30% post-deployment defect reduction</strong>. Full-stack capability across React/TypeScript front ends and Python/FastAPI back ends; multi-LLM product shipped to Chrome Web Store. Master's in Computer Science (Kent State). Comfortable owning real-time AI workflows end-to-end where control, accuracy, and trustworthiness are non-negotiable.</div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">LLM Agents (Accuracy-Critical)</span>
+      <span class="competency-tag">RAG &amp; Grounding</span>
+      <span class="competency-tag">Embeddings &amp; Vector Search</span>
+      <span class="competency-tag">Schema-Validated Agent Contracts</span>
+      <span class="competency-tag">Evaluation Pipelines</span>
+      <span class="competency-tag">Real-time AI Workflows</span>
+      <span class="competency-tag">Full-stack (React/TS + FastAPI)</span>
+      <span class="competency-tag">Python</span>
+      <span class="competency-tag">TypeScript</span>
+      <span class="competency-tag">Docker</span>
+      <span class="competency-tag">HIPAA-Conscious Deployment</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Professional Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Progress Solutions Inc.</span>
+        <span class="job-period">Jul 2025 – Present | USA</span>
+      </div>
+      <div class="job-role">Jr. AI/ML Engineer Trainee — Healthcare Technology (HIPAA-conscious)</div>
+      <ul>
+        <li>Built <strong>Retrieval-Augmented Generation</strong> for clinical knowledge retrieval; recursive semantic chunking + transformer embeddings improved precision <strong>~35%</strong>, retrieval-grounded response alignment exceeded <strong>90%</strong>.</li>
+        <li>Developed <strong>agentic LLM workflows</strong> for multi-step healthcare queries with structured reasoning, tool discipline, and grounding rules; improved response stability <strong>~25%</strong> and reduced hallucinations <strong>&gt;30%</strong>.</li>
+        <li>Packaged ML/LLM inference as <strong>FastAPI/Flask</strong> services, containerized with <strong>Docker</strong>, with structured logging, eval audit trails, and load simulation; reduced post-deployment defects <strong>~30%</strong>.</li>
+        <li>Owned predictive ML pipelines (scikit-learn, XGBoost); improved recall <strong>15–20%</strong> on high-risk categories while holding precision <strong>&gt;90%</strong>.</li>
+        <li>Maintained HIPAA-conscious data governance: de-identification, lineage docs, evaluation audit trails, system-limitation documentation for stakeholders.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Suvidha Foundation</span>
+        <span class="job-period">Jan 2022 – Mar 2022 | India</span>
+      </div>
+      <div class="job-role">Machine Learning Engineer — Applied NLP, Video Analytics</div>
+      <ul>
+        <li>Transformer-based summarization across 5,000+ sessions; hierarchical long-context summarization cut manual review time <strong>60–70%</strong>.</li>
+        <li>Implemented <strong>document Q&amp;A with RAG</strong> (semantic chunking + embedding retrieval); reduced hallucinated outputs <strong>~30%</strong>, raised answer accuracy <strong>&gt;85%</strong>.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Energy Solutions International (Emerson)</span>
+        <span class="job-period">Jun 2022 – Apr 2023 | India</span>
+      </div>
+      <div class="job-role">Database &amp; DevOps Performance Engineer (Intern) — Compliance-sensitive enterprise ERP</div>
+      <ul>
+        <li>Built <strong>CI/CD pipelines (Jenkins)</strong> for version-controlled SQL and stored-procedure deploys; reduced deployment errors <strong>&gt;30%</strong>, release cycle time <strong>~35–40%</strong>.</li>
+        <li>Supported RBAC implementation and audit logging for financial modules in a compliance-sensitive environment.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Projects</div>
+
+    <div class="project">
+      <div class="project-title">Agentic Healthcare Claims &amp; Fraud Risk Intelligence System</div>
+      <div class="project-desc">Multi-agent pipeline (Intake → Validation → Consistency → Duplicate Detection → Risk Scoring) with <strong>schema-validated JSON contracts between agents</strong> to prevent cascading hallucinations; RAG-grounded CPT/ICD validation against vector-indexed policy docs, ANN duplicate detection, and explainable audit-ready reasoning traces — the architectural pattern for accuracy-critical agent systems.</div>
+      <div class="project-tech">Multi-agent LLM, schema contracts, RAG, vector search, evaluation, audit trails</div>
+    </div>
+
+    <div class="project">
+      <div class="project-title">Manga Lens — Real-Time Multi-LLM Vision Pipeline (shipped, Chrome Web Store)</div>
+      <div class="project-desc">Full-stack browser extension shipped solo — integrates <strong>four AI vision providers</strong> (Claude Sonnet, GPT-4o mini, GPT-4.1 Nano, Ollama/minicpm-v) behind a common interface, with per-provider payload handling, 7-day translation cache, and per-domain selector configs for 29 sites. Demonstrates real-time AI workflow design and production multi-LLM orchestration.</div>
+      <div class="project-tech">TypeScript, Manifest V3, multi-LLM orchestration, real-time vision pipelines</div>
+    </div>
+
+    <div class="project">
+      <div class="project-title">Dream Decoder — Multimodal AI Platform</div>
+      <div class="project-desc">Full-stack <strong>FastAPI + React/TypeScript/Vite/Tailwind</strong> app coordinating multimodal APIs. Introduced intermediate <strong>structured prompt transformation layers</strong> — improved contextual alignment <strong>~30%</strong> and first-pass image success <strong>~25–30%</strong> vs naïve direct-prompt orchestration.</div>
+      <div class="project-tech">React, TypeScript, FastAPI, structured prompt orchestration</div>
+    </div>
+
+    <div class="project">
+      <div class="project-title">Driver Drowsiness Detection — Real-Time YOLOv8</div>
+      <div class="project-desc">Replaced a two-stage CNN pipeline with a unified <strong>YOLOv8</strong> detection-and-classification model; reduced inference latency <strong>~30%</strong>; sliding-window confidence aggregation suppressed blink-driven false positives <strong>~25%</strong>.</div>
+      <div class="project-tech">YOLOv8, OpenCV, real-time inference</div>
+    </div>
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span><span class="edu-title">Master's Degree, Computer Science</span> — <span class="edu-org">Kent State University, Ohio, USA</span></span>
+        <span class="edu-year">Aug 2023 – May 2025</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Skills</div>
+    <div class="skills-grid">
+      <span class="skill-item"><span class="skill-category">LLM &amp; GenAI:</span> Agentic workflows, RAG, structured outputs, prompt engineering, evaluation pipelines, grounding, embeddings, vector/semantic search, responsible AI</span>
+      <span class="skill-item"><span class="skill-category">Languages &amp; Frameworks:</span> Python, FastAPI, Flask, TypeScript, React, Node.js (adjacent), SQL (PostgreSQL, T-SQL, SQLite)</span>
+      <span class="skill-item"><span class="skill-category">ML Libraries:</span> scikit-learn, XGBoost, PyTorch, Hugging Face Transformers, LangChain, LlamaIndex</span>
+      <span class="skill-item"><span class="skill-category">Infra &amp; DevOps:</span> Docker, Jenkins, CI/CD, RESTful APIs, observability/logging, Grafana</span>
+      <span class="skill-item"><span class="skill-category">Domains:</span> Healthcare AI (HIPAA-conscious), accuracy-critical AI, enterprise AI agents, real-time multi-LLM systems</span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

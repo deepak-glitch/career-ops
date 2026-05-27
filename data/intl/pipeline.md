@@ -15,6 +15,9 @@
 ## Pendientes
 ## Procesadas
 
+### 2026-05-26
+- [x] #985 | https://jobs.ashbyhq.com/eloquentai/b636810c-e01b-4f9b-8aed-9a0856fee42e | Eloquent AI | AI Engineer | London, UK | 3.4/5 | PDF ✅
+
 ### 2026-05-25
 - [x] #982 | https://jobs.ashbyhq.com/modal/0d9c249b-f305-4b0e-b325-3242ac7274e7 | Modal | Forward Deployed Engineer, ML (Stockholm) | Stockholm, Sweden — in-person | 3.0/5 | PDF ✅
 
