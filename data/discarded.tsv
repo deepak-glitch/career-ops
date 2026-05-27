@@ -445,3 +445,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-26	985	2026-05-26	Banyan Software	Forward Deployed Engineer	2.7/5	Evaluated	reports/985-banyan-software-fde-2026-05-26.md	[Intl] London UK hybrid; 5+ yrs senior gate (~50% YOE gap) + AWS/Terraform/serverless infra gaps + UK work auth; AI is thin overlay on cloud-modernization consulting; SKIP
 2026-05-26	984		orphan	orphan	0/5		reports/984-assemblyai-fde-onboarding-2026-05-26.md	
 2026-05-26	986		orphan	orphan	0/5		reports/986-cresta-senior-fde-ai-agent-2026-05-26.md	
+2026-05-27	984	2026-05-26	Caylent	Forward Deployed Engineer	2.9/5	Evaluated	reports/984-caylent-fde-2026-05-26.md	[US] Remote US (50% travel); $136-216K; AWS consulting FDE; 5+ yrs gate Deepak doesn't meet; AWS depth + Claude Code SDK gaps
+2026-05-27	985		orphan	orphan	0/5		reports\985-lyratechgroup-fde-ai-2026-05-26.md	
