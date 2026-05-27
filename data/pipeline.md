@@ -9,6 +9,7 @@
 ## Procesadas
 
 ### 2026-05-27
+- [x] #988 | https://jobs.lever.co/conversica/765d2754-a07a-4a83-8a9d-fc25b80d73c3 | Conversica | Software Engineer (AI Platform) | United States — Remote | 3.8/5 | PDF ✅
 - [x] #987 | https://jobs.ashbyhq.com/GrowthX%20AI/cbbfa16d-21dd-49a3-a0ad-2c0fe99799af | GrowthX AI | Design Engineer, Forward Deployed Engineering | Remote — North America | 3.3/5 | PDF ✅
 
 ### 2026-05-26
