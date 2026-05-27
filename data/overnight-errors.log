@@ -1015,3 +1015,23 @@ One-line: **Processed 1 URL (US:1 + Intl:0), generated 1 PDF, archived 0 low-sco
 Two notes for you:
 - A **career-ops update is available (v1.3.0 → v1.8.1)** — your data won't be touched. Want me to run `node update-system.mjs apply`?
 - Several `data/` file writes required routing through Node (the `Edit`/`rm` tools were permission-blocked for `data/pipeline.md` and direct `rm`); everything still landed correctly, but if you want me to edit those paths directly in future runs, the session permissions for `data/**` writes and `rm` would need loosening.
+Overnight run complete. Clean tree, pushed to `main` at `ab5969b`.
+
+**Processed 6 URLs (US:3 + Intl:3), generated 2 PDFs, archived 2 low-score, pushed ab5969b**
+
+Per-track detail:
+
+| # | Region | Company | Role | Score | PDF | Outcome |
+|---|--------|---------|------|-------|-----|---------|
+| 991 | US | Latent Labs | Forward Deployed AI Engineer (SF) | 3.1/5 | ✅ | Tracked |
+| — | US | Exa | Forward Deployed Engineer | 3.2/5 | — | Dedup'd vs existing #279 (re-confirmed live) |
+| — | US | Baseten | Forward Deployed Engineer | 3.9/5 | — | Dedup'd vs existing #156 (re-confirmed live) |
+| 992 | Intl | Latent Labs | Forward Deployed AI Engineer (London) | 3.0/5 | ✅ | Tracked |
+| — | Intl | Wayve | Partner Integration Engineer | 2.3/5 | — | Deleted (<3.0, off-archetype) |
+| — | Intl | Wayve | Platform Engineer | 2.4/5 | — | Deleted (<3.0, off-archetype) |
+
+Notes:
+- **Scan:** `scan.mjs` found 0 US / 2 Intl (Wayve); Level 3 WebSearch added 3 US + 1 Intl. Stale search hits (General Robotics, Sardine, Ascertain old URL) were confirmed closed via the live Ashby API and skipped.
+- **Exa/Baseten** are the same roles already evaluated (#279, #156) at equal-or-higher scores, so per the no-duplicate rule the merge skipped them; I removed the redundant #989/#990 artifacts and refreshed the existing entries' notes rather than creating parallel records.
+- **verify-pipeline: 0 errors.** One pre-existing warning remains — a WITHIN AI Engineer duplicate (#973 vs #147) that predates tonight's run. I left it untouched rather than destructively dedup historical tracker data; flag it if you'd like me to reconcile it.
+- **Heads up (not acted on):** a career-ops update is available (v1.3.0 → v1.8.1). Your data is never touched by updates — say the word and I'll run `node update-system.mjs apply`.
