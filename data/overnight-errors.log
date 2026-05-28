@@ -1035,3 +1035,10 @@ Notes:
 - **Exa/Baseten** are the same roles already evaluated (#279, #156) at equal-or-higher scores, so per the no-duplicate rule the merge skipped them; I removed the redundant #989/#990 artifacts and refreshed the existing entries' notes rather than creating parallel records.
 - **verify-pipeline: 0 errors.** One pre-existing warning remains — a WITHIN AI Engineer duplicate (#973 vs #147) that predates tonight's run. I left it untouched rather than destructively dedup historical tracker data; flag it if you'd like me to reconcile it.
 - **Heads up (not acted on):** a career-ops update is available (v1.3.0 → v1.8.1). Your data is never touched by updates — say the word and I'll run `node update-system.mjs apply`.
+Processed 5 URLs (US:3 + Intl:2), generated 3 PDFs, archived 2 low-score, pushed 1b9fba9.
+
+Sources used during the Level 3 scan:
+- [Ashby Forward Deployed / Applied AI](https://jobs.ashbyhq.com/)
+- [Greenhouse AI Engineer NewGrad 2026](https://job-boards.greenhouse.io/)
+- [YC workatastartup FDE / Founding](https://www.workatastartup.com/jobs)
+- [Lever Forward Deployed AI Engineer 2026](https://jobs.lever.co/)
