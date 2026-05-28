@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1006 | 2026-05-28 | Arize AI | AI Application Engineer | 3.0/5 | Evaluated | ✅ | [1006](reports/1006-arize-ai-app-eng-buenos-aires-2026-05-28.md) | [Intl] Buenos Aires-residency; LLM obs platform; Python+Go ramp; archetype fit |
+| 1007 | 2026-05-28 | Arize AI | AI Application Engineer, APJ | 3.0/5 | Evaluated | ✅ | [1007](reports/1007-arize-ai-app-eng-apj-singapore-2026-05-28.md) | [Intl] Singapore-residency; APJ pod; same stack as Buenos Aires role; archetype fit |
 | 1002 | 2026-05-28 | Vapi | Member of Technical Staff, Forward Deployed (Founding) | 3.5/5 | Evaluated | ✅ | [1002](reports/1002-vapi-founding-fde-2026-05-28.md) | [US] Founding FDE voice AI; SF onsite; $150-300K + sponsors; agentic/RAG match; F-1 OPT OK |
 | 1003 | 2026-05-28 | OmniAI | Forward Deployed Engineer (Onsite SF) | 3.0/5 | Evaluated | ✅ | [1003](reports/1003-omniai-fde-sf-2026-05-28.md) | [US] YC W24 SMB lending; SF onsite; $150-200K + 0.5-1.5%; Node/TS gap; "US citizen/visa" verify OPT |
 | 1004 | 2026-05-28 | Intenseye | Founding Forward Deployed Engineer | 3.7/5 | Evaluated | ✅ | [1004](reports/1004-intenseye-founding-fde-2026-05-28.md) | [US] Industrial CV Series B; NYC office; $130-180K; YOLOv8 direct match; 30% travel; sponsorship TBD |

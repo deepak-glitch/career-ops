@@ -11,6 +11,7 @@
 - [!] https://www.workatastartup.com/jobs/84528 | error: workatastartup placeholder body (Crustdata) - JD body not retrievable in batch mode
 - [!] https://jobs.lever.co/jobgether/d2bd8459-cf37-4cab-919f-69bb5e76e356 | error: lever.co 403 + designremotejobs only had homepage; retry next run
 
+
 ## Procesadas
 
 ### 2026-05-28

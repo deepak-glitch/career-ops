@@ -16,6 +16,8 @@
 ## Procesadas
 
 ### 2026-05-28
+- [x] #1006 | https://job-boards.greenhouse.io/arizeai/jobs/5969145004 | Arize AI | AI Application Engineer | Remote (Buenos Aires-residency required) | 3.0/5 | PDF ✅
+- [x] #1007 | https://job-boards.greenhouse.io/arizeai/jobs/5989512004 | Arize AI | AI Application Engineer, APJ | Remote (Singapore-residency required) | 3.0/5 | PDF ✅
 - [x] #1001 | https://jobs.ashbyhq.com/mercura/90bb4d91-9311-4d6c-a30b-a2d6dc783a13 | Mercura | AI/LLM Engineer | Munich - On-site (5d/wk, relocation subsidized) | 3.1/5 | PDF ✅
 
 ### 2026-05-27

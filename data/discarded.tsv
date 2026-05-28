@@ -456,3 +456,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-28	1002	2026-05-28	JetBrains	ML Evaluation Engineer (Agentic Mobile App Gen)	2.9/5	Evaluated	reports/1002-jetbrains-ml-eval-2026-05-28.md	[Intl] Amsterdam, QA/eval flavor (3+ yrs QA), Kotlin Multiplatform code-gen — archetype adjacent, below threshold
 2026-05-28	100		orphan	orphan	0/5		reports/1000-fortifyiq-data-ai-2026-05-28.md	
 2026-05-28	100		orphan	orphan	0/5		reports/1002-jetbrains-ml-eval-2026-05-28.md	
+2026-05-28	1005	2026-05-28	Celonis	Associate Applied AI Engineer (France) - Orbit Program	2/5	Evaluated	reports/1005-celonis-applied-ai-orbit-2026-05-28.md	[Intl] Madrid→Paris rotational; French C1/C2 hard blocker + EU work auth gap
+2026-05-28	100		orphan	orphan	0/5		reports/1005-celonis-applied-ai-orbit-2026-05-28.md	
