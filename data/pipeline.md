@@ -9,10 +9,14 @@
 
 ### 2026-05-28
 - [!] https://www.workatastartup.com/jobs/84528 | error: workatastartup placeholder body (Crustdata) - JD body not retrievable in batch mode
+- [!] https://jobs.lever.co/jobgether/d2bd8459-cf37-4cab-919f-69bb5e76e356 | error: lever.co 403 + designremotejobs only had homepage; retry next run
 
 ## Procesadas
 
 ### 2026-05-28
+- [x] #1004 | https://startup.jobs/founding-forward-deployed-engineer-intenseye-7240502 | Intenseye | Founding Forward Deployed Engineer | New York City (HQ); up to 30% travel | 3.7/5 | PDF ✅
+- [x] #1003 | https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer-onsite-sf | OmniAI | Forward Deployed Engineer (Onsite SF) | San Francisco, CA — Onsite (no exceptions) | 3.0/5 | PDF ✅
+- [x] #1002 | https://www.ycombinator.com/companies/vapi/jobs/3GU4CIx-founding-forward-deployed-engineer | Vapi | Member of Technical Staff, Forward Deployed (Founding) | San Francisco, CA — On-site | 3.5/5 | PDF ✅
 - [x] #999 | https://job-boards.greenhouse.io/automatticcareers/jobs/7558576 | Automattic | Applied AI Engineer | NYC / Remote-first | 3.2/5 | PDF ✅
 - [x] #998 | https://jobs.ashbyhq.com/paraform/ed192d51-74e9-4712-89a6-4503967c4184 | Paraform | Applied AI Engineer | San Francisco - On-site | 3.6/5 | PDF ✅
 

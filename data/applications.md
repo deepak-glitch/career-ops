@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1002 | 2026-05-28 | Vapi | Member of Technical Staff, Forward Deployed (Founding) | 3.5/5 | Evaluated | ✅ | [1002](reports/1002-vapi-founding-fde-2026-05-28.md) | [US] Founding FDE voice AI; SF onsite; $150-300K + sponsors; agentic/RAG match; F-1 OPT OK |
+| 1003 | 2026-05-28 | OmniAI | Forward Deployed Engineer (Onsite SF) | 3.0/5 | Evaluated | ✅ | [1003](reports/1003-omniai-fde-sf-2026-05-28.md) | [US] YC W24 SMB lending; SF onsite; $150-200K + 0.5-1.5%; Node/TS gap; "US citizen/visa" verify OPT |
+| 1004 | 2026-05-28 | Intenseye | Founding Forward Deployed Engineer | 3.7/5 | Evaluated | ✅ | [1004](reports/1004-intenseye-founding-fde-2026-05-28.md) | [US] Industrial CV Series B; NYC office; $130-180K; YOLOv8 direct match; 30% travel; sponsorship TBD |
 | 1001 | 2026-05-28 | Mercura | AI/LLM Engineer | 3.1/5 | Evaluated | ⏳ | [1001](reports/1001-mercura-ai-llm-2026-05-28.md) | [Intl] Munich on-site high-intensity, YC F-series, agentic + RAG + evals, $2M→$10M ARR target, relocation subsidized |
 | 994 | 2026-05-27 | Profound | Forward Deployed Engineer (NYC) | 3.7/5 | Evaluated | ✅ | [994](reports/994-profound-fde-nyc-2026-05-27.md) | [US] NYC/SF on-site; AEO/AI presence platform Series B Sequoia; 2+ yrs floor — exact level fit; TS+Next.js+Python+Postgres+AWS; comp $140-260K NYC/SF; explicit visa sponsorship |
 | 997 | 2026-05-27 | E2B | Forward Deployed Engineer (SF) | 3.0/5 | Evaluated | ✅ | [997](reports/997-e2b-fde-sf-2026-05-27.md) | [US] San Francisco in-person; Series A AI sandbox infra; 5+ yrs SWE stated (Deepak 2.5 yrs — stretch); heavy Linux/networking/VMM/Terraform stack; comp $120-220K + equity + commission; F-1 OPT US-based, would need relocation |
