@@ -10,6 +10,8 @@
 ## Procesadas
 
 ### 2026-05-27
+- [x] #997 | https://jobs.ashbyhq.com/e2b/a9ddb7bc-9cc7-43d2-8e46-9c8de4666a04 | E2B | Forward Deployed Engineer (SF) | San Francisco — In-person | 3.0/5 | PDF ✅
+- [x] #994 | https://jobs.ashbyhq.com/Profound/b076c997-0ba3-4d3c-9dc9-ad0b3ed49b05 | Profound | Forward Deployed Engineer (NYC) | NYC / SF / Buenos Aires — On-site | 3.7/5 | PDF ✅
 - [x] #991 | https://jobs.ashbyhq.com/latentlabs/bbb7dcf7-2311-4103-bebf-96901ca18775 | Latent Labs | Forward Deployed AI Engineer (SF) | San Francisco — On-site | 3.1/5 | PDF ✅
 - [x] #988 | https://jobs.lever.co/conversica/765d2754-a07a-4a83-8a9d-fc25b80d73c3 | Conversica | Software Engineer (AI Platform) | United States — Remote | 3.8/5 | PDF ✅
 - [x] #987 | https://jobs.ashbyhq.com/GrowthX%20AI/cbbfa16d-21dd-49a3-a0ad-2c0fe99799af | GrowthX AI | Design Engineer, Forward Deployed Engineering | Remote — North America | 3.3/5 | PDF ✅
