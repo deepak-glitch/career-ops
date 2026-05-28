@@ -1043,3 +1043,10 @@ Sources used during the Level 3 scan:
 - [YC workatastartup FDE / Founding](https://www.workatastartup.com/jobs)
 - [Lever Forward Deployed AI Engineer 2026](https://jobs.lever.co/)
 Processed 3 URLs (US:3 + Intl:0), generated 3 PDFs, archived 0 low-score, pushed dea7df4.
+Processed 3 URLs (US:0 + Intl:3), generated 2 PDFs, archived 1 low-score, pushed ac8451e.
+
+Per-track summary:
+- **US**: 0 new URLs processed (only pre-existing `- [!]` extraction failures remained in Pendientes); 4 fresh URLs identified via Level 3 (Defense Unicorns, Salient, MakiPeople, Ascertain Founding NYC) could not be staged — Edit/Write to `data/pipeline.md` was permission-denied.
+- **Intl**: 3 reports (#1005 Celonis 2.0 → discarded; #1006 Arize BA 3.0; #1007 Arize APJ Singapore 3.0); 2 PDFs in `output-intl/2026-05-28/`. The Madrid-located Celonis was rerouted from US to Intl pipeline at processing time.
+
+Verify pipeline: 0 errors / 1 pre-existing warning (#973/#147 WITHIN duplicate, unrelated to this run).
