@@ -12,7 +12,7 @@ https://jobs.ashbyhq.com/permitflow/08b96a9a-b344-42cc-8c69-a1c1e0babb90	2026-04
 https://jobs.ashbyhq.com/Edison%20Scientific/ba4ce9e2-972a-4a3d-8f1e-010e62999bf2	2026-04-20	websearch-applied-ai	Applied AI Engineer	Edison Scientific	added
 https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488	2026-04-20	websearch-fde	Forward Deployed AI Engineer	Palantir	added
 https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0	2026-05-13	lever-api	Forward Deployed Software Engineer	Palantir	skipped_dup
-https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e	2026-04-20	websearch-fde	Forward Deployed Engineer	Baseten	skipped_dup
+https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e	2026-05-27	WebSearch L3 — Ashby FDE	Forward Deployed Engineer	Baseten	added
 https://jobs.ashbyhq.com/relay/0b645cf4-3c04-41e5-a610-c46544b5cec6	2026-04-20	websearch-fde	Forward Deployed Engineer	Relay Technologies	added
 https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb	2026-04-20	websearch-fde	Forward Deployed Engineer - AI Solutions	Agiloft	added
 https://jobs.ashbyhq.com/truelogic/cee25dcf-9a7f-474b-9724-abb510bc3968	2026-04-20	websearch-fde	Forward Deployed Engineer - Technology	Truelogic	added
@@ -67,10 +67,10 @@ https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62	2026-04-20	we
 https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6	2026-04-20	websearch-fde	AI Forward Deployed Engineer	Regal	added
 https://jobs.lever.co/field-ai/6fc39622-b8e9-4aab-804a-b5fc61549dc0	2026-04-20	websearch-fde	Forward Deployed Engineer	FieldAI	added
 https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249	2026-04-20	websearch-newgrad	Junior Software Engineer, AI (New Grad OK)	Magical	added
-https://jobs.ashbyhq.com/Distyl/a7674245-72ee-403e-8653-6edfca8a89ce	2026-04-20	websearch-newgrad	AI Engineer (New Graduate)	Distyl AI	added
+https://jobs.ashbyhq.com/Distyl/a7674245-72ee-403e-8653-6edfca8a89ce	2026-05-28	WebSearch L3 — Ashby NewGrad	AI Engineer (New Graduate)	Distyl AI	dead
 https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50	2026-04-20	websearch-newgrad	Software Engineer - Recent Grad 2026	Kikoff	added
 https://jobs.ashbyhq.com/firecrawl/9837159c-880c-4912-87a9-dfcc2b40ba0a	2026-04-20	websearch-agentic	Software Engineer Agent	Firecrawl	added
-https://jobs.ashbyhq.com/quora/6df58d3e-855a-423e-99fd-a56ac8824b34	2026-04-20	websearch-newgrad	AI Engineer New Grad 2025-2026 - Poe (Remote)	Quora	added
+https://jobs.ashbyhq.com/quora/6df58d3e-855a-423e-99fd-a56ac8824b34	2026-05-28	WebSearch L3 — Ashby NewGrad	AI Engineer New Grad 2025-2026 - Poe	Quora	dead
 https://jobs.ashbyhq.com/quora/cb455a21-e66f-4e21-afdf-4511c6c442d1	2026-04-20	websearch-newgrad	ML Engineer New Grad 2025-2026 - Ads (Remote)	Quora	added
 https://jobs.ashbyhq.com/eigen-labs/c02fa001-23c9-4d68-8c0a-e27a742d76a4	2026-04-20	websearch-agentic	Agentic AI Engineer	Eigen Labs	added
 https://jobs.ashbyhq.com/superplane/153cfad4-227d-4605-9581-710f4df869e0	2026-04-21	websearch-applied-ai	Applied AI Engineer	SuperPlane	added
@@ -213,7 +213,7 @@ https://job-boards.greenhouse.io/newsbreak/jobs/4608368006	2026-04-25	websearch-
 https://job-boards.greenhouse.io/nextdoorcampus/jobs/6194603	2026-04-25	websearch-newgrad-ml	Machine Learning Engineer (New Grad 2025)	Nextdoor	added
 https://jobs.ashbyhq.com/elevenlabs/dd26398c-54d8-4200-a181-65e6203ec9a6	2026-05-04	WebSearch — L3 Ashby Recent Grad	Forward Deployed Engineer Recent Graduate	ElevenLabs	added
 https://job-boards.greenhouse.io/agencywithin/jobs/5056863007	2026-05-05	WebSearch — L3 Greenhouse (10:30Z)	AI Engineer	WITHIN	processed
-https://job-boards.greenhouse.io/fortifyiq/jobs/4661408005	2026-04-25	websearch-newgrad-ai	Data & AI Engineer (Remote)	FortifyIQ	added
+https://job-boards.greenhouse.io/fortifyiq/jobs/4661408005	2026-05-28	WebSearch L3 — Greenhouse	Data & AI Engineer	FortifyIQ	added
 https://job-boards.greenhouse.io/sezzle/jobs/7633985003	2026-04-29	WebSearch — L3 Greenhouse AI Engineer	AI Engineer II (Remote)	Sezzle	added
 https://himalayas.app/companies/oceans/jobs/g3-24-dv-o-ai-integration-operations-transformation-specialist	2026-04-25	websearch-ai-implementation	AI Integration & Operations Transformation Specialist	Oceans	added
 https://himalayas.app/companies/msx-international/jobs/ai-digitalization-expert-4589666272	2026-04-25	websearch-ai-implementation	AI Digitalization Expert	MSX International	added
@@ -327,7 +327,7 @@ https://bungalow.breezy.hr/p/8fdae10e1b10-software-engineer-forward-deploy	2026-
 https://himalayas.app/companies/langchain/jobs/deployed-engineer-phoenix	2026-04-28	websearch-level3-overnight	Deployed Engineer (Phoenix)	LangChain	processed
 https://himalayas.app/companies/remote-office/jobs/ai-automation-engineer	2026-04-28	websearch-level3-overnight	AI Automation Engineer	Remote Office	added
 https://jobs.ashbyhq.com/Arlo/18923aa2-a029-43d8-8fd6-1cf883f14ef8	2026-04-28	WebSearch — Ashby Applied AI	Applied AI Engineer	Arlo	processed
-https://jobs.ashbyhq.com/delphi/472c06df-6934-4fbb-8872-bdfae08d62fc	2026-04-28	WebSearch — Ashby Applied AI	Applied AI Engineer	Delphi	added
+https://jobs.ashbyhq.com/delphi/472c06df-6934-4fbb-8872-bdfae08d62fc	2026-05-28	WebSearch L3 — Ashby	Applied AI Engineer	Delphi	dead
 https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442	2026-04-28	WebSearch — Ashby Applied AI	Applied AI Engineer Systems Reliability	HiPeople	added
 https://www.workatastartup.com/jobs/91400	2026-04-28	WebSearch — YC FDE	Founding Forward Deployed Engineer	The Prompting Company	processed
 https://himalayas.app/companies/jobgether/jobs/ai-engineer-enterprise-ai-enablement-remote-us	2026-04-28	WebSearch — Himalayas Aggregator	AI Engineer Enterprise AI Enablement	Jobgether	added
@@ -348,9 +348,9 @@ https://himalayas.app/companies/red-hat/jobs/forward-deployed-ai-engineer-custom
 https://www.workatastartup.com/jobs/81810	2026-04-29	WebSearch — L3 YC WaaS	Forward Deployed Engineer (NY)	VetRec	processed
 https://remotive.com/remote/jobs/artificial-intelligence/ai-engineer-application-development-4512742	2026-04-29	WebSearch — L3 Remotive	AI Engineer - Application Development	CACI International	added
 https://job-boards.greenhouse.io/atomicwork/jobs/5073381008	2026-04-29	WebSearch — L3 Greenhouse Applied AI	Applied AI Engineer	Atomicwork	processed
-https://job-boards.greenhouse.io/automatticcareers/jobs/7558576	2026-04-29	WebSearch — L3 Greenhouse Applied AI	Applied AI Engineer	Automattic	processed
+https://job-boards.greenhouse.io/automatticcareers/jobs/7558576	2026-05-28	WebSearch L3 — Greenhouse	Applied AI Engineer	Automattic	added
 https://www.workatastartup.com/jobs/93159	2026-05-03	WebSearch — L3 YC Founding FDE	Founding Forward Deployed Engineer	Avent	processed
-https://job-boards.greenhouse.io/traversal/jobs/4983321008	2026-04-29	WebSearch — L3 Greenhouse New Grad	AI Engineer - New Grad	Traversal	added
+https://job-boards.greenhouse.io/traversal/jobs/4983321008	2026-05-28	WebSearch L3 — Greenhouse NewGrad	AI Engineer - New Grad	Traversal	dead
 https://job-boards.greenhouse.io/stubhubinc/jobs/4739105101	2026-04-29	WebSearch — L3 Greenhouse New Grad	Software Engineer I - Direct Issuance (New Grad)	StubHub	added
 https://www.workatastartup.com/jobs/89154	2026-04-29	WebSearch — L3 YC FDE	Full Stack Software Engineer	JustAI	added
 https://job-boards.greenhouse.io/bandwidth/jobs/7844136	2026-04-29	WebSearch — L3 Greenhouse Applied AI	Applied AI Engineer	Bandwidth	processed
@@ -394,7 +394,7 @@ https://job-boards.greenhouse.io/dv01/jobs/8191101002	2026-04-29	WebSearch — L
 https://job-boards.greenhouse.io/addepar1/jobs/8339244002	2026-04-29	WebSearch — L3 Greenhouse Remote-US	Software Engineer - AI/ML - AI Platform	Addepar	added
 https://jobs.ashbyhq.com/Resolve%20AI/8f9b7a4c-cded-4acf-8aea-cfa851817d53	2026-04-29	WebSearch — L3 Ashby FDE	Forward Deployed Engineer	Resolve AI	added
 https://jobs.ashbyhq.com/go-augment/1900c830-9fa2-45b3-a431-bdf9c067e711	2026-04-29	WebSearch — L3 Ashby FDE	Forward-Deployed Engineer	Augment	processed
-https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80	2026-04-29	WebSearch — L3 Ashby FDE	Forward Deployed Engineer	Exa	processed
+https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80	2026-05-27	WebSearch L3 — Ashby FDE	Forward Deployed Engineer	Exa	added
 https://jobs.ashbyhq.com/fractional-ai/d1218507-6d99-4cfb-b7d5-cd34a633cda2	2026-04-29	WebSearch — L3 Ashby FDE	Forward-Deployed Engineer - Enterprise (Founding Team)	Fractional AI	processed
 https://litit.recruitee.com/o/machine-learning-engineer-ai-engineer-aws-cloud-focus	2026-05-06	WebSearch — Recruitee	ML Engineer / AI Engineer (AWS)	LITIT	added
 https://jobs.ashbyhq.com/reevo/2ea4d267-cd80-4481-9965-216ecd469e7e	2026-04-29	WebSearch — Ashby New Grad	Builder - Software Engineer (New Grad)	Reevo	processed
@@ -582,7 +582,7 @@ https://jobs.ashbyhq.com/pulsora%20inc/40114f0d-d976-43b6-867c-23e52d6c6fff	2026
 https://job-boards.greenhouse.io/khanacademy/jobs/7156235	2026-05-02	WebSearch — L3 Greenhouse Applied AI	AI Engineer (fixed-term)	Khan Academy	added
 https://job-boards.greenhouse.io/babelstreet/jobs/7531339	2026-05-02	WebSearch — L3 Greenhouse Applied AI	Generative & Agentic AI Engineer	Babel Street	processed
 https://jobs.ashbyhq.com/regard/758035db-326c-42a6-9179-f83d793b1e7b	2026-05-02	WebSearch — L3 Ashby Applied AI	Generative AI Engineer	Regard	added
-https://jobs.ashbyhq.com/paraform/ed192d51-74e9-4712-89a6-4503967c4184	2026-05-02	WebSearch — L3 Ashby Applied AI	Applied AI Engineer	Paraform	processed
+https://jobs.ashbyhq.com/paraform/ed192d51-74e9-4712-89a6-4503967c4184	2026-05-28	WebSearch L3 — Ashby	Applied AI Engineer	Paraform	added
 https://jobs.ashbyhq.com/coderabbit/8f17b66f-ea44-4e83-85f6-ef9427d61a01	2026-05-02	WebSearch — L3 Ashby Applied AI	Applied AI Engineer	CodeRabbit	processed
 https://job-boards.greenhouse.io/meshy/jobs/4932258008	2026-05-02	WebSearch — L3 Greenhouse NewGrad	Software Engineer - New Grad	Meshy	added
 https://jobs.ashbyhq.com/handshake/fe2a41ab-14c8-405b-8fd3-bdf7295e044e	2026-05-02	WebSearch — L3 Ashby FDE	Forward Deployed Engineer	Handshake	added
@@ -700,7 +700,7 @@ https://apply.workable.com/geodelphi/j/E8A22CF275/	2026-05-05	WebSearch — Work
 https://apply.workable.com/jobgether/j/0C895CA0C5	2026-05-05	WebSearch — Workable FDE	Forward Deployed AI Engineer (Remote - US)	Jobgether	added
 https://www.smarthires.ai/jobs/dominodatalab/forward-deployed-engineer-new-grad-2026	2026-05-05	WebSearch — newgrad	Forward Deployed Engineer - New Grad 2026	Domino Data Lab	added
 https://job-boards.greenhouse.io/cresta/jobs/5155673008	2026-05-05	WebSearch — Greenhouse AI	AI Language Engineer	Cresta	processed
-https://job-boards.greenhouse.io/momentmarkets/jobs/5006294007	2026-05-05	WebSearch — Greenhouse AI	AI Engineer	Moment	dead
+https://job-boards.greenhouse.io/momentmarkets/jobs/5006294007	2026-05-28	WebSearch L3 — Greenhouse	AI Engineer	Moment	dead
 https://jobs.lever.co/jobgether/4390a581-32c9-4af7-8bdc-37d90e98d6b3	2026-05-05	WebSearch — Lever FDE	Forward Deployed AI Engineer	Jobgether	added
 https://www.chartahealth.com/jobs/forward-deployed-ai-engineer	2026-05-05	WebSearch — L3 Custom Healthcare	Forward Deployed AI Engineer	Charta Health	added
 https://job-boards.greenhouse.io/oddball/jobs/7598223003	2026-05-05	WebSearch — L3 Greenhouse	Applied AI/ML Engineer	Oddball	added
@@ -3798,11 +3798,11 @@ https://www.ycombinator.com/companies/furtherai/jobs/2uFhWmi-forward-deployed-en
 https://jobs.ashbyhq.com/GrowthX%20AI/cbbfa16d-21dd-49a3-a0ad-2c0fe99799af	2026-05-27	WebSearch — Level 3	Design Engineer, Forward Deployed Engineering	GrowthX AI	added
 https://jobs.ashbyhq.com/horizon3ai/ec647077-998e-4b39-b5e4-94d23bf55afd	2026-05-27	WebSearch — Level 3	Applied AI Engineer	Horizon3 AI	skipped_expired
 https://jobs.ashbyhq.com/horizon3ai/64cab161-311a-4810-bbda-a9fc60e4df99	2026-05-27	WebSearch — Level 3	Applied AI Engineer 1	Horizon3 AI	skipped_expired
-https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80	2026-05-27	WebSearch L3 — Ashby FDE	Forward Deployed Engineer	Exa	added
-https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e	2026-05-27	WebSearch L3 — Ashby FDE	Forward Deployed Engineer	Baseten	added
 https://jobs.ashbyhq.com/latentlabs/bbb7dcf7-2311-4103-bebf-96901ca18775	2026-05-27	WebSearch L3 — Ashby FDE	Forward Deployed AI Engineer	Latent Labs	added
 https://jobs.lever.co/mistral/bfcc2d05-141a-49d3-aa4d-20d743ede9d9	2026-05-28	lever-api	AI Deployment Strategist, AI4Engineering - EMEA	Mistral AI	added
 https://job-boards.greenhouse.io/celonis/jobs/7750227003?gh_jid=7750227003	2026-05-28	greenhouse-api	Strategic Applied AI Solutions Consultant	Celonis	added
 https://jobs.ashbyhq.com/e2b/a9ddb7bc-9cc7-43d2-8e46-9c8de4666a04	2026-05-27	WebSearch L3 — Ashby FDE Series A/B	Forward Deployed Engineer	E2B	added
 https://jobs.ashbyhq.com/Profound/b076c997-0ba3-4d3c-9dc9-ad0b3ed49b05	2026-05-27	WebSearch L3 — Ashby FDE Series A/B	Forward Deployed Engineer	Profound	added
 https://jobs.ashbyhq.com/bland/ea36f098-6e2a-4736-80ed-f67741829cf0	2026-05-27	WebSearch L3 — Ashby FDE Series A/B	Forward Deployed Engineer	Bland	skipped_expired
+https://www.workatastartup.com/jobs/77385	2026-05-28	WebSearch L3 — YC FDE	Forward Deployed Engineer	Casca	dead
+https://www.workatastartup.com/jobs/84528	2026-05-28	WebSearch L3 — YC FDE	Founding Forward Deployed Engineer	Crustdata	added

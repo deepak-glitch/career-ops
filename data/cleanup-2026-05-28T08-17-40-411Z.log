@@ -1,0 +1,23 @@
+# Pipeline cleanup audit log
+Run: 2026-05-28T08:17:40.411Z
+
+## US pipeline
+- Deleted (already in Procesadas):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               6
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  1
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         yes
+
+### US — Kept unmatched (manual review)
+- - [!] https://www.workatastartup.com/jobs/84528 | error: workatastartup placeholder body (Crustdata) - JD body not retrievable in batch mode
+
+## Intl pipeline
+- Deleted (already in Procesadas):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  0
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no

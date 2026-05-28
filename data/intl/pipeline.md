@@ -16,6 +16,9 @@
 
 ## Procesadas
 
+### 2026-05-28
+- [x] #1001 | https://jobs.ashbyhq.com/mercura/90bb4d91-9311-4d6c-a30b-a2d6dc783a13 | Mercura | AI/LLM Engineer | Munich - On-site (5d/wk, relocation subsidized) | 3.1/5 | PDF ✅
+
 ### 2026-05-27
 - [x] #992 | https://jobs.ashbyhq.com/latentlabs/8dc5159a-d6fc-4fe2-8731-84c6f0f3f559 | Latent Labs | Forward Deployed AI Engineer (London) | London, UK — On-site | 3.0/5 | PDF ✅
 

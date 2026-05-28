@@ -7,7 +7,14 @@
 
 ## Pendientes
 
+### 2026-05-28
+- [!] https://www.workatastartup.com/jobs/84528 | error: workatastartup placeholder body (Crustdata) - JD body not retrievable in batch mode
+
 ## Procesadas
+
+### 2026-05-28
+- [x] #999 | https://job-boards.greenhouse.io/automatticcareers/jobs/7558576 | Automattic | Applied AI Engineer | NYC / Remote-first | 3.2/5 | PDF ✅
+- [x] #998 | https://jobs.ashbyhq.com/paraform/ed192d51-74e9-4712-89a6-4503967c4184 | Paraform | Applied AI Engineer | San Francisco - On-site | 3.6/5 | PDF ✅
 
 ### 2026-05-27
 - [x] #997 | https://jobs.ashbyhq.com/e2b/a9ddb7bc-9cc7-43d2-8e46-9c8de4666a04 | E2B | Forward Deployed Engineer (SF) | San Francisco — In-person | 3.0/5 | PDF ✅
