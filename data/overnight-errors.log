@@ -1052,3 +1052,6 @@ Per-track summary:
 Verify pipeline: 0 errors / 1 pre-existing warning (#973/#147 WITHIN duplicate, unrelated to this run).
 Processed 3 URLs (US:3 + Intl:0), generated 3 PDFs, archived 0 low-score, pushed 093aed4.
 Processed 12 URLs (US:9 + Intl:3), generated 7 PDFs, archived 5 low-score, pushed 4bc0215.
+Processed 2 URLs (US:2 + Intl:0), generated 2 PDFs, archived 0 low-score, pushed a9e7316.
+
+Note: Both `scan.mjs` API passes returned 0 new offers (heavy dedup against existing pipeline). L3 WebSearch surfaced 8 candidates today but 7 were 404 dead (3 Harper YC IDs + 4 Jobgether Lever IDs); only Harper FDE (Hr7rRca) and Palantir FDE AI Engineer were processable. The stale 2026-05-28 Jobgether `[!]` row was re-probed (404) and removed. Pipeline verifier ends clean (0/0).
