@@ -8,11 +8,13 @@
 ## Pendientes
 
 ### 2026-05-28
-- [!] https://www.workatastartup.com/jobs/84528 | error: workatastartup placeholder body (Crustdata) - JD body not retrievable in batch mode
 - [!] https://jobs.lever.co/jobgether/d2bd8459-cf37-4cab-919f-69bb5e76e356 | error: lever.co 403 + designremotejobs only had homepage; retry next run
 ## Procesadas
 
 ### 2026-05-29
+- [x] #1012 | https://www.workatastartup.com/jobs/84528 | Crustdata | Founding Forward Deployed Engineer | San Francisco, CA — In-person only | 3.1/5 | PDF ✅
+- [x] #1011 | https://aimpoint-digital.breezy.hr/p/6845c658955b-forward-deployed-ai-engineer-claude-2026--us | Aimpoint Digital | Forward Deployed AI Engineer (Claude 2026) | Atlanta GA / Remote US | 3.2/5 | PDF ✅
+- [x] #1010 | https://www.ycombinator.com/companies/automat/jobs/QfHWU1w-forward-deployed-engineer | Automat | Forward Deployed Engineer | San Francisco, CA — On-site | 3.0/5 | PDF ✅
 - [x] #1009 | https://jobs.ashbyhq.com/forge/ca54fd9a-55eb-45ae-ba48-f666747a24e8 | Forge | Forward Deployed Engineer | SF / NYC — In-person only | 3.6/5 | PDF ✅
 
 ### 2026-05-28

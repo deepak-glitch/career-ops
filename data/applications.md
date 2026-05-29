@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1010 | 2026-05-29 | Automat | Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [1010](reports/1010-automat-fde-2026-05-29.md) | [US] SF on-site; YC W23 AI-RPA + IDP; $145-185K + 0.05-0.20% equity; Manga Lens browser-automation analog + agentic claims; "US citizen/visa only" — confirm F-1 OPT acceptance at screen |
+| 1011 | 2026-05-29 | Aimpoint Digital | Forward Deployed AI Engineer (Claude 2026) | 3.2/5 | Evaluated | ✅ | [1011](reports/1011-aimpoint-digital-fde-claude-2026-05-29.md) | [US] Atlanta HQ + Remote US; data/AI advisory firm; Claude + LangGraph + FastAPI + RAG + agentic; L5/Senior coded vs 2.5y — accept downlevel; strong tech 1:1 |
+| 1012 | 2026-05-29 | Crustdata | Founding Forward Deployed Engineer | 3.1/5 | Evaluated | ✅ | [1012](reports/1012-crustdata-founding-fde-2026-05-29.md) | [US] SF in-person; YC F24 real-time B2B data APIs; first FDE hire; $150-200K + 0.10-0.15% equity; Python/TS/SQL 1:1; "US citizen/visa only" — confirm F-1 OPT at screen; retry from 2026-05-28 |
 | 1009 | 2026-05-29 | Forge | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1009](reports/1009-forge-fde-2026-05-29.md) | [US] SF/NYC in-person only; OpenAI + Founders Fund backed; AI-English workflow automation for Fortune 500; 1+ yr entry-FDE friendly; salary undisclosed but FDE comp $160-240K base + equity; main blocker = relocation |
 | 1006 | 2026-05-28 | Arize AI | AI Application Engineer | 3.0/5 | Evaluated | ✅ | [1006](reports/1006-arize-ai-app-eng-buenos-aires-2026-05-28.md) | [Intl] Buenos Aires-residency; LLM obs platform; Python+Go ramp; archetype fit |
 | 1007 | 2026-05-28 | Arize AI | AI Application Engineer, APJ | 3.0/5 | Evaluated | ✅ | [1007](reports/1007-arize-ai-app-eng-apj-singapore-2026-05-28.md) | [Intl] Singapore-residency; APJ pod; same stack as Buenos Aires role; archetype fit |
