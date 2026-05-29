@@ -1051,3 +1051,4 @@ Per-track summary:
 
 Verify pipeline: 0 errors / 1 pre-existing warning (#973/#147 WITHIN duplicate, unrelated to this run).
 Processed 3 URLs (US:3 + Intl:0), generated 3 PDFs, archived 0 low-score, pushed 093aed4.
+Processed 12 URLs (US:9 + Intl:3), generated 7 PDFs, archived 5 low-score, pushed 4bc0215.
