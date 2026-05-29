@@ -87,7 +87,7 @@ if (existsSync(REPORTS_DIR)) {
       const scoreM = text.match(/^\*\*Score:\*\*\s*([\d.]+)\/5/m);
       if (scoreM && parseFloat(scoreM[1]) < THRESHOLD) {
         // not yet in `discarded` list?
-        const numM = f.match(/^(\d{3})/);
+        const numM = f.match(/^(\d+)/);
         if (numM && !discarded.find(d => d.num === numM[1])) {
           orphanReports.push({ path: p, file: f, num: numM[1] });
         }
