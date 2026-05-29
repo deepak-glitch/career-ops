@@ -7,11 +7,11 @@
 
 ## Pendientes
 
-### 2026-05-28
-- [!] https://jobs.lever.co/jobgether/d2bd8459-cf37-4cab-919f-69bb5e76e356 | error: lever.co 403 + designremotejobs only had homepage; retry next run
 ## Procesadas
 
 ### 2026-05-29
+- [x] #1024 | https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer | New York, NY — Hybrid + up to 25% travel | 3.6/5 | PDF ✅
+- [x] #1023 | https://www.ycombinator.com/companies/harper/jobs/Hr7rRca-forward-deployed-engineer | Harper | Forward Deployed Engineer | San Francisco, CA — In-office | 3.0/5 | PDF ✅
 - [x] #1018 | https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US | US Remote | 3.9/5 | PDF ✅
 - [x] #1015 | https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments | US | 3.8/5 | PDF ✅
 - [x] #1016 | https://job-boards.greenhouse.io/scaleai/jobs/4506215005 | Scale AI | Forward Deployed Engineer - New Grad | US | 3.5/5 | PDF ✅

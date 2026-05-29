@@ -32,6 +32,8 @@ modes/_profile.md
 
 # Generated
 .resolved-prompt-*
+.overnight-*.mjs
+data/cleanup-*.log
 node_modules/
 bun.lock
 

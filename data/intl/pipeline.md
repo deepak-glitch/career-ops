@@ -13,6 +13,7 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pendientes
+
 ## Procesadas
 
 ### 2026-05-29
