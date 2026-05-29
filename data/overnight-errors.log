@@ -1050,3 +1050,4 @@ Per-track summary:
 - **Intl**: 3 reports (#1005 Celonis 2.0 → discarded; #1006 Arize BA 3.0; #1007 Arize APJ Singapore 3.0); 2 PDFs in `output-intl/2026-05-28/`. The Madrid-located Celonis was rerouted from US to Intl pipeline at processing time.
 
 Verify pipeline: 0 errors / 1 pre-existing warning (#973/#147 WITHIN duplicate, unrelated to this run).
+Processed 3 URLs (US:3 + Intl:0), generated 3 PDFs, archived 0 low-score, pushed 093aed4.
