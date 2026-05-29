@@ -10,9 +10,10 @@
 ### 2026-05-28
 - [!] https://www.workatastartup.com/jobs/84528 | error: workatastartup placeholder body (Crustdata) - JD body not retrievable in batch mode
 - [!] https://jobs.lever.co/jobgether/d2bd8459-cf37-4cab-919f-69bb5e76e356 | error: lever.co 403 + designremotejobs only had homepage; retry next run
+## Procesadas
 
-
-## Procesadas
+### 2026-05-29
+- [x] #1009 | https://jobs.ashbyhq.com/forge/ca54fd9a-55eb-45ae-ba48-f666747a24e8 | Forge | Forward Deployed Engineer | SF / NYC — In-person only | 3.6/5 | PDF ✅
 
 ### 2026-05-28
 - [x] #1004 | https://startup.jobs/founding-forward-deployed-engineer-intenseye-7240502 | Intenseye | Founding Forward Deployed Engineer | New York City (HQ); up to 30% travel | 3.7/5 | PDF ✅

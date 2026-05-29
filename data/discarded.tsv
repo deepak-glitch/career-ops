@@ -458,3 +458,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-28	100		orphan	orphan	0/5		reports/1002-jetbrains-ml-eval-2026-05-28.md	
 2026-05-28	1005	2026-05-28	Celonis	Associate Applied AI Engineer (France) - Orbit Program	2/5	Evaluated	reports/1005-celonis-applied-ai-orbit-2026-05-28.md	[Intl] Madrid→Paris rotational; French C1/C2 hard blocker + EU work auth gap
 2026-05-28	100		orphan	orphan	0/5		reports/1005-celonis-applied-ai-orbit-2026-05-28.md	
+2026-05-29	1012	2026-05-29	HireHawk	AI Engineer - APIs & Automation	2.7/5	Evaluated	reports/1012-hirehawk-ai-engineer-2026-05-29.md	[Intl] Philippines/Remote; AI automation + API integration role; Workable URL HTTP 410 (posting possibly stale); aggregator-only signal; PH comp ~$30-60k USD sub-US-market; skip, no PDF
+2026-05-29	101		orphan	orphan	0/5		reports\1012-hirehawk-ai-engineer-2026-05-29.md	

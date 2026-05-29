@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1009 | 2026-05-29 | Forge | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1009](reports/1009-forge-fde-2026-05-29.md) | [US] SF/NYC in-person only; OpenAI + Founders Fund backed; AI-English workflow automation for Fortune 500; 1+ yr entry-FDE friendly; salary undisclosed but FDE comp $160-240K base + equity; main blocker = relocation |
 | 1006 | 2026-05-28 | Arize AI | AI Application Engineer | 3.0/5 | Evaluated | ✅ | [1006](reports/1006-arize-ai-app-eng-buenos-aires-2026-05-28.md) | [Intl] Buenos Aires-residency; LLM obs platform; Python+Go ramp; archetype fit |
 | 1007 | 2026-05-28 | Arize AI | AI Application Engineer, APJ | 3.0/5 | Evaluated | ✅ | [1007](reports/1007-arize-ai-app-eng-apj-singapore-2026-05-28.md) | [Intl] Singapore-residency; APJ pod; same stack as Buenos Aires role; archetype fit |
 | 1002 | 2026-05-28 | Vapi | Member of Technical Staff, Forward Deployed (Founding) | 3.5/5 | Evaluated | ✅ | [1002](reports/1002-vapi-founding-fde-2026-05-28.md) | [US] Founding FDE voice AI; SF onsite; $150-300K + sponsors; agentic/RAG match; F-1 OPT OK |
