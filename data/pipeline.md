@@ -9,9 +9,14 @@
 
 ### 2026-05-28
 - [!] https://jobs.lever.co/jobgether/d2bd8459-cf37-4cab-919f-69bb5e76e356 | error: lever.co 403 + designremotejobs only had homepage; retry next run
-## Procesadas
+## Procesadas
 
 ### 2026-05-29
+- [x] #1018 | https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US | US Remote | 3.9/5 | PDF ✅
+- [x] #1015 | https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments | US | 3.8/5 | PDF ✅
+- [x] #1016 | https://job-boards.greenhouse.io/scaleai/jobs/4506215005 | Scale AI | Forward Deployed Engineer - New Grad | US | 3.5/5 | PDF ✅
+- [x] #1013 | https://jobs.ashbyhq.com/varick-agents/15a99eff-beb7-4c35-8240-8e1bfd2d912b | Varick Agents | Forward Deployed Engineer | US | 3.4/5 | PDF ✅
+- [x] #1014 | https://job-boards.greenhouse.io/anthropic/jobs/5012991008 | Anthropic | Forward Deployed Engineer | US | 3.3/5 | PDF ✅
 - [x] #1012 | https://www.workatastartup.com/jobs/84528 | Crustdata | Founding Forward Deployed Engineer | San Francisco, CA — In-person only | 3.1/5 | PDF ✅
 - [x] #1011 | https://aimpoint-digital.breezy.hr/p/6845c658955b-forward-deployed-ai-engineer-claude-2026--us | Aimpoint Digital | Forward Deployed AI Engineer (Claude 2026) | Atlanta GA / Remote US | 3.2/5 | PDF ✅
 - [x] #1010 | https://www.ycombinator.com/companies/automat/jobs/QfHWU1w-forward-deployed-engineer | Automat | Forward Deployed Engineer | San Francisco, CA — On-site | 3.0/5 | PDF ✅

@@ -16,6 +16,8 @@
 ## Procesadas
 
 ### 2026-05-29
+- [x] #1022 | https://careers.hellofresh.com/global/en/job/7423946?gh_jid=7423946 | HelloFresh | Market Automation Engineer (f/m/x) | Berlin, Germany — Hybrid (relocation assistance offered) | 3.4/5 | PDF ✅
+- [x] #1021 | https://jobs.ashbyhq.com/saris-ai/4a6cd225-edb7-4a9f-80e0-cab601a7f092 | Saris AI | Forward Deployed Engineer (FDE) | Montreal & San Francisco | 3.3/5 | PDF ✅
 
 ### 2026-05-28
 - [x] #1006 | https://job-boards.greenhouse.io/arizeai/jobs/5969145004 | Arize AI | AI Application Engineer | Remote (Buenos Aires-residency required) | 3.0/5 | PDF ✅

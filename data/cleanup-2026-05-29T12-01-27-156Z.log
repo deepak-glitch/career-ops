@@ -1,0 +1,23 @@
+# Pipeline cleanup audit log
+Run: 2026-05-29T12:01:27.156Z
+
+## US pipeline
+- Deleted (already in Procesadas):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  1
+- Empty subsections dropped:        1
+- scan-history.tsv updated:         no
+
+### US — Kept unmatched (manual review)
+- - [!] https://jobs.lever.co/jobgether/d2bd8459-cf37-4cab-919f-69bb5e76e356 | error: lever.co 403 + designremotejobs only had homepage; retry next run
+
+## Intl pipeline
+- Deleted (already in Procesadas):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  0
+- Empty subsections dropped:        1
+- scan-history.tsv updated:         no
