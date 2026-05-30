@@ -13,9 +13,11 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pendientes
+
 ## Procesadas
 
 ### 2026-05-30
+- [x] #1034 | https://job-boards.greenhouse.io/diligentcorporation/jobs/5829760004 | Diligent Corporation | Forward Deployed Engineer - Agentic AI | London, UK — Hybrid 50%+ on-site + ~80% on-site client | 3.5/5 | PDF ✅
 - [x] #1031 | https://job-boards.greenhouse.io/anthropic/jobs/5116274008 | Anthropic | Applied AI Engineer (London) | London, UK — Hybrid >=25% in-office + customer travel | 3.4/5 | PDF ✅
 - [x] #1027 | https://sumup.com/careers/positions/8450896002?gh_jid=8450896002 | SumUp | Fraud Prevention Agent II | São Paulo, Brazil — On-site | 1.5/5 SKIP | PDF ❌
 - [x] #1028 | https://jobs.lever.co/mistral/a93b2891-9aaa-4c18-855e-37ef159d4eed | Mistral AI | Applied AI Engineer, Site Reliability Engineer - EMEA | Paris, France — Hybrid | 3.6/5 | PDF ✅

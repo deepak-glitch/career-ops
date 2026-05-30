@@ -6,9 +6,11 @@
      creates it at the end of Pendientes. -->
 
 ## Pendientes
+
 ## Procesadas
 
 ### 2026-05-30
+- [x] #1033 | https://job-boards.greenhouse.io/alphafmcroles/jobs/8521640002 | Alpha Financial Markets Consulting | Forward Deployed Engineer (AI) | United States — EST hours | 3.0/5 | PDF ✅
 - [x] #1030 | https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer | Remote US + 25-50% travel | 3.3/5 | PDF ✅
 - [x] #1029 | https://jobs.ashbyhq.com/permitflow/036ad66d-a31e-4f08-9533-838345641335 | PermitFlow | Applied Machine Learning Engineer | New York City, NY — Hybrid 3d/wk | 3.4/5 | PDF ✅
 - [x] #1025 | https://jobs.ashbyhq.com/attio/cef00929-63ab-4927-8a3c-1ea1d4224606 | Attio | Forward Deployed Engineer | New York, NY — In-office | 3.0/5 | PDF ✅
