@@ -1062,3 +1062,4 @@ Per-track outcomes:
 - **Intl (2):** #1028 Mistral Applied AI SRE Paris 3.6/5 ✅ • #1027 SumUp Brazil "Fraud Prevention Agent II" 1.5/5 (operations role, not engineering — deleted by cleanup, logged to discarded.tsv; scanner false-positive on "Agent")
 
 Verify pipeline: 0 errors / 0 warnings across both tracks.
+Processed 3 URLs (US:2 + Intl:1), generated 3 PDFs, archived 0 low-score, pushed 3d33224.
