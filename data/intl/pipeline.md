@@ -13,8 +13,11 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pendientes
-
 ## Procesadas
+
+### 2026-05-30
+- [x] #1027 | https://sumup.com/careers/positions/8450896002?gh_jid=8450896002 | SumUp | Fraud Prevention Agent II | São Paulo, Brazil — On-site | 1.5/5 SKIP | PDF ❌
+- [x] #1028 | https://jobs.lever.co/mistral/a93b2891-9aaa-4c18-855e-37ef159d4eed | Mistral AI | Applied AI Engineer, Site Reliability Engineer - EMEA | Paris, France — Hybrid | 3.6/5 | PDF ✅
 
 ### 2026-05-29
 - [x] #1022 | https://careers.hellofresh.com/global/en/job/7423946?gh_jid=7423946 | HelloFresh | Market Automation Engineer (f/m/x) | Berlin, Germany — Hybrid (relocation assistance offered) | 3.4/5 | PDF ✅

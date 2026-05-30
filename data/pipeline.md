@@ -6,8 +6,11 @@
      creates it at the end of Pendientes. -->
 
 ## Pendientes
-
 ## Procesadas
+
+### 2026-05-30
+- [x] #1025 | https://jobs.ashbyhq.com/attio/cef00929-63ab-4927-8a3c-1ea1d4224606 | Attio | Forward Deployed Engineer | New York, NY — In-office | 3.0/5 | PDF ✅
+- [x] #1026 | https://job-boards.greenhouse.io/kodiak/jobs/4005932009 | Kodiak | Applied AI Engineer - Flywheel Automation & Continuous Learning | Mountain View, CA — In-office | 3.3/5 | PDF ✅
 
 ### 2026-05-29
 - [x] #1024 | https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer | New York, NY — Hybrid + up to 25% travel | 3.6/5 | PDF ✅
