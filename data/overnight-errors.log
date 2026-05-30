@@ -1063,3 +1063,13 @@ Per-track outcomes:
 
 Verify pipeline: 0 errors / 0 warnings across both tracks.
 Processed 3 URLs (US:2 + Intl:1), generated 3 PDFs, archived 0 low-score, pushed 3d33224.
+Processed 4 URLs (US:2 + Intl:2), generated 2 PDFs, archived 2 low-score, pushed b449cc0.
+
+| # | Co. | Role | Region | Score | PDF |
+|---|---|---|---|---|---|
+| 1032 | Defense Unicorns | FDE AI | US | 2.5/5 | ❌ (cleaned up — US citizenship blocker) |
+| 1033 | Alpha FMC | FDE (AI) | US | 3.0/5 | ✅ output/2026-05-30/ |
+| 1034 | Diligent | FDE - Agentic AI | Intl (London) | 3.5/5 | ✅ output-intl/2026-05-30/ |
+| 1035 | Akka (Lightbend) | FDE Europe | Intl (Germany) | 2.7/5 | ❌ (cleaned up — JVM stack mismatch) |
+
+Pipeline ended clean: 0 errors / 0 warnings. Both Pendientes sections empty after Procesadas move + low-score cleanup. Discarded.tsv received the 2 audit rows for #1032 and #1035.
