@@ -1077,3 +1077,17 @@ Processed 6 URLs (US:4 + Intl:2), generated 2 PDFs, archived 4 low-score, pushed
 Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed 80538e8.
 
 Both `scan.mjs` passes returned 0 new offers — current state of `tracked_companies` API results is fully dedup'd against history. Level 3 WebSearch ran four broad queries (Greenhouse/Ashby/YC + EU); the only candidate not already in history (Hebbia FDE NYC/SF) returned HTTP 404 → marked `dead` in scan-history. Pendientes was empty in both `data/pipeline.md` and `data/intl/pipeline.md`, so no pipeline batch this pass. Merge/verify clean (0 errors / 0 warnings); cleanup scripts no-ops.
+Processed 6 URLs (US:2 + Intl:4), generated 3 PDFs, archived 3 low-score, pushed d857943.
+
+**Summary of overnight run 2026-05-31T14:07Z:**
+
+| # | Company | Role | Region | Score | PDF |
+|---|---------|------|--------|-------|-----|
+| 1041 | Exa | Forward Deployed Engineer (SF) | US | 3.7 | ✅ (dedup'd to existing #279) |
+| 1042 | Infinity (Constellation) | Full Stack AI Engineer (Contract-to-Hire) | US | 3.1 | ✅ |
+| 1043 | PostHog | Forward Deployed Engineer | Intl | 3.5 | ✅ |
+| 1044 | Air Apps | AI/ML Engineer (Lisbon onsite) | Intl | 2.8 | ❌ (deleted) |
+| 1045 | Sezzle | AI Engineer I (LATAM only) | Intl | 1.8 SKIP | ❌ (deleted) |
+| 1046 | Sezzle | AI Engineer II (LATAM only) | Intl | 1.8 SKIP | ❌ (deleted) |
+
+L1/L2 API scans returned 0 new offers; L3 WebSearch surfaced thin pickings — most candidates were already in scan-history (processed/dead/filtered). The two top hits were Exa (explicit OPT/H1B sponsorship signal) and PostHog (transparent comp + handbook + handcrafted JD).
