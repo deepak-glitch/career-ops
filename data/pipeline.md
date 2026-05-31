@@ -9,6 +9,9 @@
 
 ## Procesadas
 
+### 2026-05-31
+- [x] #1036 | https://job-boards.greenhouse.io/temporaltechnologies/jobs/5134414007 | Temporal Technologies | Software Engineer - AI SDK (AI Foundations) | Remote US/Canada | 3.4/5 | PDF ✅
+
 ### 2026-05-30
 - [x] #1033 | https://job-boards.greenhouse.io/alphafmcroles/jobs/8521640002 | Alpha Financial Markets Consulting | Forward Deployed Engineer (AI) | United States — EST hours | 3.0/5 | PDF ✅
 - [x] #1030 | https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer | Remote US + 25-50% travel | 3.3/5 | PDF ✅

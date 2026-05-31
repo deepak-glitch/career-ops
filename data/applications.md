@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1036 | 2026-05-31 | Temporal Technologies | Software Engineer, AI SDK (AI Foundations) | 3.4/5 | Evaluated | ✅ | [1036](reports/1036-temporal-ai-sdk-2026-05-31.md) | [US] US/Canada Remote; agentic SDK across Python/TS/Java/Go; $160-200K + equity; 3+ yrs SWE (achievable); direct topic match (agentic coding + multi-provider); Java/Go gap addressable |
 | 1033 | 2026-05-30 | Alpha Financial Markets Consulting | Forward Deployed Engineer (AI) | 3.0/5 | Evaluated | ✅ | [1033](reports/1033-alphafmc-fde-ai-2026-05-30.md) | [US] EST hours; $150-210K base + profit sharing; RAG + agentic + MLOps + regulated industry topic match; 5+y tenure ask vs Deepak 2.5y stretch; HIPAA→FinServ governance transfer; F-1 OPT verify |
 | 1034 | 2026-05-30 | Diligent Corporation | Forward Deployed Engineer - Agentic AI | 3.5/5 | Evaluated | ✅ | [1034](reports/1034-diligent-fde-agentic-london-2026-05-30.md) | [Intl] London hybrid 50%+ + ~80% on-site client EU/US; agentic AI for risk & compliance; archetype 1:1 with Agentic Claims pipeline; "reliability cliff" framing direct match; visa sponsorship unstated (verify); F-1 OPT relocation |
 | 1025 | 2026-05-30 | Attio | Forward Deployed Engineer | 3.0/5 | Evaluated | ✅ | [1025](reports/1025-attio-fde-2026-05-30.md) | [US] NYC in-office GTM-flavored FDE ($130-170K + equity); no-code/n8n/Zapier gap is biggest hurdle, visa silence is concerning |

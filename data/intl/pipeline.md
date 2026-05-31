@@ -13,8 +13,10 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pendientes
-
 ## Procesadas
+
+### 2026-05-31
+- [x] #1040 | https://jobs.lever.co/mistral/15759765-cfd5-408b-8425-c631642bc1f7 | Mistral AI | AI Engineer, Product (Le Chat) | Paris, France — Hybrid >=3d/wk | 3.4/5 | PDF ✅
 
 ### 2026-05-30
 - [x] #1034 | https://job-boards.greenhouse.io/diligentcorporation/jobs/5829760004 | Diligent Corporation | Forward Deployed Engineer - Agentic AI | London, UK — Hybrid 50%+ on-site + ~80% on-site client | 3.5/5 | PDF ✅
