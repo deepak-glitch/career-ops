@@ -13,9 +13,14 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pendientes
+
+### 2026-05-31
+- [!] https://jobs.lever.co/jobgether/31c0357c-c8b1-4a38-9338-03a74da9c5aa | filtered: requires 6+ years (Senior)
+
 ## Procesadas
 
 ### 2026-05-31
+- [x] #1043 | https://jobs.ashbyhq.com/posthog/28781aeb-eca4-4713-9a5f-a95b95d5d120 | PostHog | Forward Deployed Engineer | Remote — GMT to GMT+2 (Europe) | 3.5/5 | PDF ✅
 - [x] #1040 | https://jobs.lever.co/mistral/15759765-cfd5-408b-8425-c631642bc1f7 | Mistral AI | AI Engineer, Product (Le Chat) | Paris, France — Hybrid >=3d/wk | 3.4/5 | PDF ✅
 
 ### 2026-05-30

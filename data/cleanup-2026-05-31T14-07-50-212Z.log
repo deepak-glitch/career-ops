@@ -1,0 +1,23 @@
+# Pipeline cleanup audit log
+Run: 2026-05-31T14:07:50.212Z
+
+## US pipeline
+- Deleted (already in Procesadas):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  0
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+## Intl pipeline
+- Deleted (already in Procesadas):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  1
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### Intl — Kept unmatched (manual review)
+- - [!] https://jobs.lever.co/jobgether/31c0357c-c8b1-4a38-9338-03a74da9c5aa | filtered: requires 6+ years (Senior)

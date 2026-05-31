@@ -10,6 +10,8 @@
 ## Procesadas
 
 ### 2026-05-31
+- [x] #1041 | https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80 | Exa | Forward Deployed Engineer | San Francisco, CA — In-person | 3.7/5 | PDF ✅
+- [x] #1042 | https://jobs.ashbyhq.com/infinity-constellation/30fac65e-bcd7-4ecc-9477-fc7c8c8a9f52 | Infinity (Constellation) | Full Stack AI Engineer (Contract-to-Hire) | Remote Global | 3.1/5 | PDF ✅
 - [x] #1036 | https://job-boards.greenhouse.io/temporaltechnologies/jobs/5134414007 | Temporal Technologies | Software Engineer - AI SDK (AI Foundations) | Remote US/Canada | 3.4/5 | PDF ✅
 
 ### 2026-05-30
