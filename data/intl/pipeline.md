@@ -29,6 +29,7 @@
 ## Procesadas
 
 ### 2026-05-31
+- [x] #1053 | https://tooploox.teamtailor.com/jobs/6973373-ai-engineer | Tooploox | AI Engineer (AI Agents focus) | Warsaw/Wrocław or Remote-Poland | 3.3/5 | PDF ✅
 - [x] #1045 | https://jobs.ashbyhq.com/airapps/be5038ec-ce5d-4db3-b381-5b72f3ffb56b | Air Apps | AI/ML Engineer, Berlin | Berlin/Lisbon — On-site | 3.1/5 | PDF ✅
 - [x] #1043 | https://jobs.ashbyhq.com/posthog/28781aeb-eca4-4713-9a5f-a95b95d5d120 | PostHog | Forward Deployed Engineer | Remote — GMT to GMT+2 (Europe) | 3.5/5 | PDF ✅
 - [x] #1040 | https://jobs.lever.co/mistral/15759765-cfd5-408b-8425-c631642bc1f7 | Mistral AI | AI Engineer, Product (Le Chat) | Paris, France — Hybrid >=3d/wk | 3.4/5 | PDF ✅

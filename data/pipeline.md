@@ -8,14 +8,11 @@
 ## Pendientes
 
 ### 2026-05-31
-- [ ] https://jobs.ashbyhq.com/reflectionai/9e0c3947-a4ca-4c09-b0e8-dfaf634f33d7/application | Reflection | Forward Deployed Engineer | LLM Post-training | verify in JD
-- [ ] https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5 | Glacis | Founding Software Engineer - Agentic AI (Remote) | Remote
 - [ ] https://jobs.ashbyhq.com/agent/e36e9f74-0c4e-47a0-b324-d44bd598307b | Agent | AI Engineer | LATAM
 - [ ] https://jobs.ashbyhq.com/oscilar/4326a0be-8156-4485-bb2e-3513331c6866 | Oscilar | Full-Stack Engineer – AI Agent Platform (Fraud, Risk & AML) | verify in JD
 - [ ] https://job-boards.greenhouse.io/guidepointsecurity/jobs/5691976004 | GuidePoint Security | Generative AI Solution Engineer- Remote (Anywhere in the U.S.) | Remote US
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8517564002 | GitLab | AI Engineer | Remote
 - [ ] https://jobs.ashbyhq.com/n8n/b1cac773-bbcd-4aad-bea8-1c858729c9ef | n8n | AI Workflow Automation Engineer | verify in JD
-- [ ] https://jobs.ashbyhq.com/avoca/0fc22fe4-6b8c-4c93-9b3f-fa3738054601/application | Avoca | Forward Deployed Engineer | verify in JD
 - [ ] https://jobs.ashbyhq.com/GigaML/0bd3cb15-811f-4a6b-ac12-781f24735a86 | Giga | Forward Deployed Agent Engineer | verify in JD
 - [ ] https://jobs.ashbyhq.com/assembledhq/ea904973-4574-4a4f-8350-a0272b20ca56 | Assembled | Software Engineer - Voice AI Agent | verify in JD
 - [ ] https://careers.zoom.us/jobs/contact-center-consulting-solutions-engineer-remote-arizona-united-states-colorado | Zoom | Contact Center Consulting Solutions Engineer | Remote AZ/CO US
@@ -48,7 +45,6 @@
 - [ ] https://goodgamestudios.teamtailor.com/jobs/7796165-working-student-ai-balancing-machine-learning-engineer | Goodgame Studios | Working Student AI Balancing / Machine Learning Engineer | verify in JD
 - [ ] https://tether.recruitee.com/o/ai-inference-engineer-edge-100-remote-ireland | Tether | AI Inference Engineer (Edge) (100% Remote - Ireland) | Ireland Remote
 - [ ] https://www.personio.com/careers/e556b837-2956-456e-9021-fcf889b5c244/ | Personio | ML Engineer - with Data Science Background (d/f/m) | Munich
-- [ ] https://jobs.smartrecruiters.com/AmpleInsightInc/744000108912530-ml-engineer-generative-ai-llms-remote- | Ample Insight | ML Engineer – Generative AI & LLMs (Remote) | Toronto/Remote
 - [ ] https://recruiting.paylocity.com/recruiting/jobs/Details/3594197/Dominion-Digital-Inc/AIML-Solution-Engineer | Dominion Digital | AI/ML Solution Engineer | verify in JD
 - [ ] https://ats.rippling.com/en-CA/opendoor/jobs/f572e889-0644-4590-8a5a-64f73d7db17d | Opendoor | Operations AI Engineer | verify in JD
 - [ ] https://ats.rippling.com/flatiron-school/jobs/0796406a-e81f-4ec4-966e-da12eb6667c9 | Flatiron School | AI Engineer Accelerated Apprenticeship Program | Remote US
@@ -60,6 +56,9 @@
 ## Procesadas
 
 ### 2026-05-31
+- [x] #1046 | https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5 | Glacis | Founding Software Engineer - Agentic AI (Remote) | Remote | 3.5/5 | PDF ✅
+- [x] #1047 | https://jobs.ashbyhq.com/avoca/0fc22fe4-6b8c-4c93-9b3f-fa3738054601/application | Avoca | Forward Deployed Engineer | New York City HQ — In-office | 3.3/5 | PDF ✅
+- [x] #1049 | https://jobs.smartrecruiters.com/AmpleInsightInc/744000108912530-ml-engineer-generative-ai-llms-remote- | Ample Insight | ML Engineer – Generative AI & LLMs (Remote) | Remote / Toronto HQ | 3.4/5 | PDF ✅
 - [x] #1044 | https://jobs.ashbyhq.com/faction/3451cb7e-5e34-4e09-aca2-17f5ee878cc0 | Faction | Member of Technical Staff (Applied AI) | New York City — On-site | 3.3/5 | PDF ✅
 - [x] #1041 | https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80 | Exa | Forward Deployed Engineer | San Francisco, CA — In-person | 3.7/5 | PDF ✅
 - [x] #1042 | https://jobs.ashbyhq.com/infinity-constellation/30fac65e-bcd7-4ecc-9477-fc7c8c8a9f52 | Infinity (Constellation) | Full Stack AI Engineer (Contract-to-Hire) | Remote Global | 3.1/5 | PDF ✅
