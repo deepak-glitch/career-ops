@@ -1073,3 +1073,4 @@ Processed 4 URLs (US:2 + Intl:2), generated 2 PDFs, archived 2 low-score, pushed
 | 1035 | Akka (Lightbend) | FDE Europe | Intl (Germany) | 2.7/5 | ❌ (cleaned up — JVM stack mismatch) |
 
 Pipeline ended clean: 0 errors / 0 warnings. Both Pendientes sections empty after Procesadas move + low-score cleanup. Discarded.tsv received the 2 audit rows for #1032 and #1035.
+Processed 6 URLs (US:4 + Intl:2), generated 2 PDFs, archived 4 low-score, pushed 68a8097.
