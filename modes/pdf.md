@@ -1,35 +1,129 @@
 # Modo: pdf — Generación de PDF ATS-Optimizado
 
+> **Canonical resume-tailoring spec lives in this file.** Other modes
+> (`batch/batch-prompt.md`, `modes/auto-pipeline.md`, `modes/overnight.md`,
+> `modes/apply.md`, etc.) MUST defer to the spec below and never restate
+> diverging rules. Edit the spec here, not anywhere else.
+
+## Resume-Tailoring Spec (canonical)
+
+Every tailored CV — interactive, auto-pipeline, batch, overnight — MUST follow
+this spec. The spec drives both the per-job prompt and the HTML the agent emits
+to `templates/cv-template.html` placeholders.
+
+### 1. Section order (top → bottom)
+
+1. **NAME** (header `<h1>`)
+2. **CONTACT** (phone | email | linkedin | portfolio | location)
+3. **PROFESSIONAL SUMMARY** — 3-4 lines, JD-keyword-dense
+4. **SKILLS** — JD-aligned competency phrases first, then categorized skills
+5. **PROFESSIONAL EXPERIENCE** — reverse-chronological
+6. **PROJECTS** — reordered so the most JD-relevant project leads
+7. **RESEARCH** — publications, papers, conference talks, peer-reviewed work.
+   **Omit the entire section** (leave `{{SECTION_RESEARCH}}` and `{{RESEARCH}}`
+   unfilled — `generate-pdf.mjs` strips empty section divs) if the source CV
+   has no research. **Never fabricate research.**
+8. **EDUCATION**
+9. **CERTIFICATIONS** (optional — omit if none in source CV)
+
+PROJECTS and RESEARCH are the strongest assets and must be surfaced — earlier
+template versions sometimes dropped them. They are now first-class sections.
+
+### 2. Keyword optimization (no stuffing)
+
+- Extract **15-20 hard skills, tools, and role-specific terms** from the JD
+  (frameworks, languages, domains, methodologies — not soft fluff).
+- Surface a keyword ONLY where the candidate's real CV/article-digest content
+  supports it. If real experience exists → use the JD's exact phrasing.
+- If a required JD skill is **missing** from the source CV:
+  - Add it to **SKILLS** only when it plausibly belongs to the candidate's
+    stated stack (e.g. JD asks "Pinecone" and CV lists embeddings + vector
+    search → Pinecone may belong in their stack adjacency). When in doubt, omit.
+  - Never add it to Summary/Experience/Projects bullets.
+- Distribute keywords: Summary (top 5), first bullet of each role, SKILLS
+  section, project descriptions. No keyword walls.
+
+### 3. Role alignment
+
+- **Reorder PROJECTS** so the most JD-relevant projects lead (top 3-4 shown).
+- **Reframe (never invent) experience bullets** to emphasize work that maps
+  to the JD's top requirements. Move the most relevant bullet to position 1.
+- Reuse JD vocabulary in bullets where it accurately describes real work
+  (e.g. "LLM workflows with retrieval" → "RAG pipeline design and orchestration"
+  when the JD asks for "RAG pipelines"). Do not reuse vocabulary that
+  misrepresents what was actually done.
+
+### 4. Voice & bullets
+
+- Strong action verbs: **Built, Led, Optimized, Deployed, Reduced, Increased,
+  Shipped, Designed, Architected, Automated, Scaled.** No "Responsible for…",
+  "Helped with…", "Worked on…".
+- Each bullet = **action + what + measurable outcome where one exists**.
+- **Preserve existing metrics exactly.** Never invent or alter numbers, dates,
+  titles, company names, or scope. If the CV says "~35%", the bullet says
+  "~35%" — no rounding up, no precision change.
+- **Max 4-6 bullets per role**, **1-3 bullets per project**.
+- Active voice; present tense for current role, past tense for prior roles.
+
+### 5. Dates & length
+
+- Normalize all dates to `Mon YYYY - Mon YYYY` or `Mon YYYY - Present`
+  (e.g. `Jul 2025 - Present`, `Jun 2022 - Apr 2023`). No `2025-07/present`,
+  no `07/2025`.
+- Total length: **~1-2 pages**. If overflowing 2 pages, drop the least
+  JD-relevant project or trim bullets — never shrink fonts/margins.
+
+### 6. Hard constraints
+
+- **Do not fabricate** facts, metrics, projects, skills, dates, or titles.
+  Missing info = leave out.
+- **Preserve the output format and render pipeline.** Emit HTML into the
+  `templates/cv-template.html` placeholders; `generate-pdf.mjs` renders it
+  unchanged. Do not switch to Markdown, plain text, or a different template.
+- Single column, no sidebars, no images-with-text, no tables-with-text,
+  selectable UTF-8 text only.
+
 ## Pipeline completo
 
-1. Lee `cv.md` como fuentes de verdad
-2. Pide al usuario el JD si no está en contexto (texto o URL)
-3. Extrae 15-20 keywords del JD
-4. Detecta idioma del JD → idioma del CV (EN default)
+1. Lee `cv.md` como fuente de verdad (+ `article-digest.md` si existe).
+2. Pide al usuario el JD si no está en contexto (texto o URL).
+3. Extrae **15-20 keywords** del JD (frameworks, tools, domain terms).
+4. Detecta idioma del JD → idioma del CV (EN default).
 5. Detecta ubicación empresa → formato papel:
    - US/Canada → `letter`
    - Resto del mundo → `a4`
-6. Detecta arquetipo del rol → adapta framing
-7. Reescribe Professional Summary inyectando keywords del JD + exit narrative bridge ("Built and sold a business. Now applying systems thinking to [domain del JD].")
-8. Selecciona top 3-4 proyectos más relevantes para la oferta
-9. Reordena bullets de experiencia por relevancia al JD
-10. Construye competency grid desde requisitos del JD (6-8 keyword phrases)
-11. Inyecta keywords naturalmente en logros existentes (NUNCA inventa)
-12. Genera HTML completo desde template + contenido personalizado
-13. Lee `name` de `config/profile.yml` → normaliza a kebab-case lowercase (e.g. "John Doe" → "john-doe") → `{candidate}`
-14. Escribe HTML a `/tmp/cv-{candidate}-{company}.html`
-15. Ejecuta: `node generate-pdf.mjs /tmp/cv-{candidate}-{company}.html output/cv-{candidate}-{company}-{YYYY-MM-DD}.pdf --format={letter|a4}`
-15. Reporta: ruta del PDF, nº páginas, % cobertura de keywords
+6. Detecta arquetipo del rol → adapta framing (per `modes/_profile.md`).
+7. Reescribe Professional Summary inyectando keywords del JD + exit narrative
+   bridge (3-4 lines).
+8. Reordena PROJECTS por relevancia al JD; selecciona top 3-4.
+9. Reordena bullets de experiencia por relevancia al JD (most-relevant first).
+10. Construye competency list desde requisitos del JD (6-8 keyword phrases) →
+    primer subbloque del SKILLS section.
+11. Inyecta keywords naturalmente en logros existentes (**NUNCA inventa**).
+12. Llena RESEARCH si el CV tiene publicaciones/papers reales; si no, deja
+    `{{SECTION_RESEARCH}}` y `{{RESEARCH}}` sin sustituir — `generate-pdf.mjs`
+    elimina el div vacío.
+13. Genera HTML completo desde `templates/cv-template.html` + contenido
+    personalizado.
+14. Lee `name` de `config/profile.yml` → normaliza a kebab-case lowercase
+    (e.g. "John Doe" → "john-doe") → `{candidate}`.
+15. Escribe HTML a `/tmp/cv-{candidate}-{company}.html`.
+16. Ejecuta:
+    `node generate-pdf.mjs /tmp/cv-{candidate}-{company}.html output/cv-{candidate}-{company}-{YYYY-MM-DD}.pdf --format={letter|a4}`
+17. Reporta: ruta del PDF, nº páginas, % cobertura de keywords.
 
 ## Reglas ATS (parseo limpio)
 
-- Layout single-column (sin sidebars, sin columnas paralelas)
-- Headers estándar: "Professional Summary", "Work Experience", "Education", "Skills", "Certifications", "Projects"
-- Sin texto en imágenes/SVGs
-- Sin info crítica en headers/footers del PDF (ATS los ignora)
-- UTF-8, texto seleccionable (no rasterizado)
-- Sin tablas anidadas
-- Keywords del JD distribuidas: Summary (top 5), primer bullet de cada rol, Skills section
+- Layout single-column (sin sidebars, sin columnas paralelas).
+- Headers estándar (en EN): **"Professional Summary", "Skills",
+  "Professional Experience", "Projects", "Research", "Education",
+  "Certifications"** — en este orden.
+- Sin texto en imágenes/SVGs.
+- Sin info crítica en headers/footers del PDF (ATS los ignora).
+- UTF-8, texto seleccionable (no rasterizado).
+- Sin tablas anidadas.
+- Keywords del JD distribuidas: Summary (top 5), primer bullet de cada rol,
+  SKILLS section, project descriptions.
 
 ## Diseño del PDF
 
@@ -42,15 +136,16 @@
 - **Márgenes**: 0.6in
 - **Background**: blanco puro
 
-## Orden de secciones (optimizado "6-second recruiter scan")
+## Orden de secciones (per the Resume-Tailoring Spec above)
 
-1. Header (nombre grande, gradiente, contacto, link portfolio)
-2. Professional Summary (3-4 líneas, keyword-dense)
-3. Core Competencies (6-8 keyword phrases en flex-grid)
-4. Work Experience (cronológico inverso)
-5. Projects (top 3-4 más relevantes)
-6. Education & Certifications
-7. Skills (idiomas + técnicos)
+1. Header (NAME + CONTACT row)
+2. Professional Summary (3-4 lines, keyword-dense)
+3. **SKILLS** — 6-8 JD-aligned competency phrases inline, then categorized skills
+4. Professional Experience (reverse-chronological)
+5. Projects (top 3-4, JD-reordered)
+6. **Research** (only if source CV has publications — otherwise omitted)
+7. Education
+8. Certifications (optional)
 
 ## Estrategia de keyword injection (ético, basado en verdad)
 
@@ -78,19 +173,20 @@ Usar el template en `cv-template.html`. Reemplazar los placeholders `{{...}}` co
 | `{{PORTFOLIO_DISPLAY}}` | [from profile.yml] (o /es según idioma) |
 | `{{LOCATION}}` | [from profile.yml] |
 | `{{SECTION_SUMMARY}}` | Professional Summary / Resumen Profesional |
-| `{{SUMMARY_TEXT}}` | Summary personalizado con keywords |
-| `{{SECTION_COMPETENCIES}}` | Core Competencies / Competencias Core |
-| `{{COMPETENCIES}}` | `<span class="competency-tag">keyword</span>` × 6-8 |
-| `{{SECTION_EXPERIENCE}}` | Work Experience / Experiencia Laboral |
-| `{{EXPERIENCE}}` | HTML de cada trabajo con bullets reordenados |
+| `{{SUMMARY_TEXT}}` | Summary personalizado con keywords (3-4 líneas) |
+| `{{SECTION_SKILLS}}` | Skills / Competencias |
+| `{{COMPETENCIES}}` | 6-8 JD-aligned competency phrases as `<span class="competency-tag">keyword</span>` (rendered inline at top of SKILLS section) |
+| `{{SKILLS}}` | HTML de skills categorizados (Languages, ML, Infra, Domains…) |
+| `{{SECTION_EXPERIENCE}}` | Professional Experience / Experiencia Profesional |
+| `{{EXPERIENCE}}` | HTML de cada rol con bullets reordenados (4-6/rol) |
 | `{{SECTION_PROJECTS}}` | Projects / Proyectos |
-| `{{PROJECTS}}` | HTML de top 3-4 proyectos |
+| `{{PROJECTS}}` | HTML de top 3-4 proyectos JD-reordenados (1-3 bullets c/u) |
+| `{{SECTION_RESEARCH}}` | Research / Investigación — **leave unfilled when source CV has no research** (`generate-pdf.mjs` strips the empty section) |
+| `{{RESEARCH}}` | HTML de publicaciones/papers/conferences. Leave unfilled to omit. |
 | `{{SECTION_EDUCATION}}` | Education / Formación |
 | `{{EDUCATION}}` | HTML de educación |
-| `{{SECTION_CERTIFICATIONS}}` | Certifications / Certificaciones |
-| `{{CERTIFICATIONS}}` | HTML de certificaciones |
-| `{{SECTION_SKILLS}}` | Skills / Competencias |
-| `{{SKILLS}}` | HTML de skills |
+| `{{SECTION_CERTIFICATIONS}}` | Certifications / Certificaciones — leave unfilled to omit |
+| `{{CERTIFICATIONS}}` | HTML de certificaciones. Leave unfilled to omit. |
 
 ## Canva CV Generation (optional)
 

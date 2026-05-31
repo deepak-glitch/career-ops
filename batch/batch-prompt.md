@@ -218,77 +218,41 @@ Donde `{company-slug}` es el nombre de empresa en lowercase, sin espacios, con g
 
 ### Paso 4 — Generar PDF
 
-1. Lee `cv.md` + `i18n.ts`
-2. Extrae 15-20 keywords del JD
-3. Detecta idioma del JD → idioma del CV (EN default)
-4. Detecta ubicación empresa → formato papel: US/Canada → `letter`, resto → `a4`
-5. Detecta arquetipo → adapta framing
-6. Reescribe Professional Summary inyectando keywords
-7. Selecciona top 3-4 proyectos más relevantes
-8. Reordena bullets de experiencia por relevancia al JD
-9. Construye competency grid (6-8 keyword phrases)
-10. Inyecta keywords en logros existentes (**NUNCA inventa**)
-11. Genera HTML completo desde template (lee `templates/cv-template.html`)
-12. Escribe HTML a `/tmp/cv-candidate-{company-slug}.html`
-13. Ejecuta:
+**Follow the canonical Resume-Tailoring Spec in `modes/pdf.md`** (section
+order, keyword optimization, role alignment, voice & bullets, dates, hard
+constraints). This batch worker MUST NOT diverge — if you find a rule here
+that disagrees with `modes/pdf.md`, the canonical spec wins.
+
+Outline (defer to `modes/pdf.md` for full detail):
+
+1. Lee `cv.md` (+ `article-digest.md` si existe).
+2. Extrae 15-20 keywords del JD.
+3. Detecta idioma del JD → idioma del CV (EN default).
+4. Detecta ubicación empresa → formato papel: US/Canada → `letter`, resto → `a4`.
+5. Detecta arquetipo → adapta framing (per `modes/_profile.md`).
+6. Reescribe Professional Summary inyectando keywords (3-4 lines).
+7. Construye SKILLS = 6-8 JD-aligned competency phrases + categorized skills.
+8. Reordena PROJECTS por relevancia al JD; selecciona top 3-4.
+9. Reordena bullets de experiencia por relevancia al JD (most-relevant first).
+10. Inyecta keywords en logros existentes (**NUNCA inventa**).
+11. RESEARCH: llena solo si el CV tiene publicaciones reales; si no, deja
+    `{{SECTION_RESEARCH}}` y `{{RESEARCH}}` sin sustituir.
+12. Normalize dates to `Mon YYYY - Mon YYYY` / `Mon YYYY - Present`.
+13. Section order MUST be: SUMMARY → SKILLS → PROFESSIONAL EXPERIENCE →
+    PROJECTS → RESEARCH → EDUCATION → CERTIFICATIONS.
+14. Genera HTML completo desde `templates/cv-template.html`.
+15. Escribe HTML a `/tmp/cv-candidate-{company-slug}.html`.
+16. Ejecuta:
 ```bash
 node generate-pdf.mjs \
   /tmp/cv-candidate-{company-slug}.html \
   output/cv-candidate-{company-slug}-{{DATE}}.pdf \
   --format={letter|a4}
 ```
-14. Reporta: ruta PDF, nº páginas, % cobertura keywords
+17. Reporta: ruta PDF, nº páginas, % cobertura keywords.
 
-**Reglas ATS:**
-- Single-column (sin sidebars)
-- Headers estándar: "Professional Summary", "Work Experience", "Education", "Skills", "Certifications", "Projects"
-- Sin texto en imágenes/SVGs
-- Sin info crítica en headers/footers
-- UTF-8, texto seleccionable
-- Keywords distribuidas: Summary (top 5), primer bullet de cada rol, Skills section
-
-**Diseño:**
-- Fonts: Space Grotesk (headings, 600-700) + DM Sans (body, 400-500)
-- Fonts self-hosted: `fonts/`
-- Header: Space Grotesk 24px bold + gradiente cyan→purple 2px + contacto
-- Section headers: Space Grotesk 13px uppercase, color cyan `hsl(187,74%,32%)`
-- Body: DM Sans 11px, line-height 1.5
-- Company names: purple `hsl(270,70%,45%)`
-- Márgenes: 0.6in
-- Background: blanco
-
-**Estrategia keyword injection (ético):**
-- Reformular experiencia real con vocabulario exacto del JD
-- NUNCA añadir skills the candidate doesn't have
-- Ejemplo: JD dice "RAG pipelines" y CV dice "LLM workflows with retrieval" → "RAG pipeline design and LLM orchestration workflows"
-
-**Template placeholders (en cv-template.html):**
-
-| Placeholder | Contenido |
-|-------------|-----------|
-| `{{LANG}}` | `en` o `es` |
-| `{{PAGE_WIDTH}}` | `8.5in` (letter) o `210mm` (A4) |
-| `{{NAME}}` | (from profile.yml) |
-| `{{EMAIL}}` | (from profile.yml) |
-| `{{LINKEDIN_URL}}` | (from profile.yml) |
-| `{{LINKEDIN_DISPLAY}}` | (from profile.yml) |
-| `{{PORTFOLIO_URL}}` | (from profile.yml) |
-| `{{PORTFOLIO_DISPLAY}}` | (from profile.yml) |
-| `{{LOCATION}}` | (from profile.yml) |
-| `{{SECTION_SUMMARY}}` | Professional Summary / Resumen Profesional |
-| `{{SUMMARY_TEXT}}` | Summary personalizado con keywords |
-| `{{SECTION_COMPETENCIES}}` | Core Competencies / Competencias Core |
-| `{{COMPETENCIES}}` | `<span class="competency-tag">keyword</span>` × 6-8 |
-| `{{SECTION_EXPERIENCE}}` | Work Experience / Experiencia Laboral |
-| `{{EXPERIENCE}}` | HTML de cada trabajo con bullets reordenados |
-| `{{SECTION_PROJECTS}}` | Projects / Proyectos |
-| `{{PROJECTS}}` | HTML de top 3-4 proyectos |
-| `{{SECTION_EDUCATION}}` | Education / Formación |
-| `{{EDUCATION}}` | HTML de educación |
-| `{{SECTION_CERTIFICATIONS}}` | Certifications / Certificaciones |
-| `{{CERTIFICATIONS}}` | HTML de certificaciones |
-| `{{SECTION_SKILLS}}` | Skills / Competencias |
-| `{{SKILLS}}` | HTML de skills |
+For the template placeholder table, ATS rules, design tokens, and keyword
+injection examples, **read `modes/pdf.md`**. Do not duplicate them here.
 
 ### Paso 5 — Tracker Line
 

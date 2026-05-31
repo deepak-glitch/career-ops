@@ -358,15 +358,16 @@
     <div class="summary-text">{{SUMMARY_TEXT}}</div>
   </div>
 
-  <!-- CORE COMPETENCIES -->
-  <div class="section">
-    <div class="section-title">{{SECTION_COMPETENCIES}}</div>
+  <!-- SKILLS (JD-aligned competencies + categorized skills) -->
+  <div class="section avoid-break">
+    <div class="section-title">{{SECTION_SKILLS}}</div>
     <div class="competencies-grid">
       {{COMPETENCIES}}
     </div>
+    {{SKILLS}}
   </div>
 
-  <!-- WORK EXPERIENCE -->
+  <!-- PROFESSIONAL EXPERIENCE -->
   <div class="section">
     <div class="section-title">{{SECTION_EXPERIENCE}}</div>
     {{EXPERIENCE}}
@@ -378,22 +379,22 @@
     {{PROJECTS}}
   </div>
 
+  <!-- RESEARCH (omit entire block when source CV has no research) -->
+  <div class="section avoid-break">
+    <div class="section-title">{{SECTION_RESEARCH}}</div>
+    {{RESEARCH}}
+  </div>
+
   <!-- EDUCATION -->
   <div class="section avoid-break">
     <div class="section-title">{{SECTION_EDUCATION}}</div>
     {{EDUCATION}}
   </div>
 
-  <!-- CERTIFICATIONS -->
+  <!-- CERTIFICATIONS (optional) -->
   <div class="section avoid-break">
     <div class="section-title">{{SECTION_CERTIFICATIONS}}</div>
     {{CERTIFICATIONS}}
-  </div>
-
-  <!-- SKILLS -->
-  <div class="section avoid-break">
-    <div class="section-title">{{SECTION_SKILLS}}</div>
-    {{SKILLS}}
   </div>
 
 </div>

@@ -124,6 +124,23 @@ async function generatePDF() {
     `file://$1.$2')`
   );
 
+  // Safety net: strip leftover {{PLACEHOLDER}} tokens the tailoring step didn't fill,
+  // then drop now-empty <div class="section">…</div> blocks so unused
+  // optional sections (RESEARCH, CERTIFICATIONS, …) don't render as naked headers.
+  const beforeStrip = html;
+  html = html.replace(/\{\{[A-Z0-9_]+\}\}/g, '');
+  html = html.replace(
+    /<div class="section[^"]*">\s*<div class="section-title">\s*<\/div>\s*<\/div>/g,
+    ''
+  );
+  html = html.replace(
+    /<div class="section[^"]*">\s*(?:<div class="section-title">\s*<\/div>)?\s*<\/div>/g,
+    ''
+  );
+  if (html !== beforeStrip) {
+    console.log('🧹 Stripped unfilled {{…}} placeholders and empty section blocks');
+  }
+
   // Normalize text for ATS compatibility (issue #1)
   const normalized = normalizeTextForATS(html);
   html = normalized.html;
