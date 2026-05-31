@@ -16,6 +16,7 @@
 
 ### 2026-05-31
 - [!] https://jobs.lever.co/jobgether/31c0357c-c8b1-4a38-9338-03a74da9c5aa | filtered: requires 6+ years (Senior)
+- [ ] https://jobs.ashbyhq.com/airapps/be5038ec-ce5d-4db3-b381-5b72f3ffb56b | Air Apps | AI/ML Engineer, Berlin | Berlin Metropolitain Area
 
 ## Procesadas
 

@@ -7,6 +7,10 @@
 
 ## Pendientes
 
+### 2026-05-31
+- [!] https://jobs.ashbyhq.com/atlas/dae00fcb-35a5-4559-8114-7553138b3ea3 | filtered: requires 5+ years (Senior)
+- [ ] https://jobs.ashbyhq.com/faction/3451cb7e-5e34-4e09-aca2-17f5ee878cc0 | Faction | Member of Technical Staff (Applied AI) | New York City
+
 ## Procesadas
 
 ### 2026-05-31
