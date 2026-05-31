@@ -9,11 +9,11 @@
 
 ### 2026-05-31
 - [!] https://jobs.ashbyhq.com/atlas/dae00fcb-35a5-4559-8114-7553138b3ea3 | filtered: requires 5+ years (Senior)
-- [ ] https://jobs.ashbyhq.com/faction/3451cb7e-5e34-4e09-aca2-17f5ee878cc0 | Faction | Member of Technical Staff (Applied AI) | New York City
 
 ## Procesadas
 
 ### 2026-05-31
+- [x] #1044 | https://jobs.ashbyhq.com/faction/3451cb7e-5e34-4e09-aca2-17f5ee878cc0 | Faction | Member of Technical Staff (Applied AI) | New York City — On-site | 3.3/5 | PDF ✅
 - [x] #1041 | https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80 | Exa | Forward Deployed Engineer | San Francisco, CA — In-person | 3.7/5 | PDF ✅
 - [x] #1042 | https://jobs.ashbyhq.com/infinity-constellation/30fac65e-bcd7-4ecc-9477-fc7c8c8a9f52 | Infinity (Constellation) | Full Stack AI Engineer (Contract-to-Hire) | Remote Global | 3.1/5 | PDF ✅
 - [x] #1036 | https://job-boards.greenhouse.io/temporaltechnologies/jobs/5134414007 | Temporal Technologies | Software Engineer - AI SDK (AI Foundations) | Remote US/Canada | 3.4/5 | PDF ✅

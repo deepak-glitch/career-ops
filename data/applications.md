@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1044 | 2026-05-31 | Faction | Member of Technical Staff (Applied AI) | 3.3/5 | Evaluated | ✅ | [1044](reports/1044-faction-applied-ai-2026-05-31.md) | [US] NYC on-site; autonomous LLM agents for industrial supply chain; FastAPI+PostgreSQL+TS+Next.js; visa sponsorship explicit; 9-9-6 culture flagged; founding equity |
+| 1045 | 2026-05-31 | Air Apps | AI/ML Engineer, Berlin | 3.1/5 | Evaluated | ✅ | [1045](reports/1045-air-apps-berlin-2026-05-31.md) | [Intl] Berlin/Lisbon on-site (location ambiguity); 100M+ download mobile AI; €60-76K; 4+ YoE soft gap; Blue Card support needed; PyTorch+YOLOv8+NLP+CV |
 | 1042 | 2026-05-31 | Infinity (Constellation) | Full Stack AI Engineer | 3.1/5 | Evaluated | ✅ | [1042](reports/1042-infinity-fullstack-ai-2026-05-31.md) | [US] Holding-co rapid-prototyping; Contract-to-Hire $75/hr Remote Global; OPT/W-2 question is load-bearing |
 | 1043 | 2026-05-31 | PostHog | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1043](reports/1043-posthog-fde-2026-05-31.md) | [Intl] Customer engineering for product analytics; remote GMT-GMT+2 only; transparent comp + handbook |
 | 1036 | 2026-05-31 | Temporal Technologies | Software Engineer, AI SDK (AI Foundations) | 3.4/5 | Evaluated | ✅ | [1036](reports/1036-temporal-ai-sdk-2026-05-31.md) | [US] US/Canada Remote; agentic SDK across Python/TS/Java/Go; $160-200K + equity; 3+ yrs SWE (achievable); direct topic match (agentic coding + multi-provider); Java/Go gap addressable |
