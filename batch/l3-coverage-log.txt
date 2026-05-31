@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Ashby — AI PM",
+    "results": 9,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "Ashby — Solutions Architect",
+    "results": 10,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "Ashby — AI Engineer",
+    "results": 9,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "Ashby — Agentic",
+    "results": 9,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "Greenhouse — AI PM",
+    "results": 10,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "Greenhouse — SA & FDE",
+    "results": 10,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "Greenhouse — AI Engineer",
+    "results": 10,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "Workable — AI Roles",
+    "results": 10,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "Ashby — No-Code & Automation",
+    "results": 10,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "Greenhouse — No-Code & Automation",
+    "results": 10,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "GTM Engineer — All portals",
+    "results": 1,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "Voice AI — FDE & SA",
+    "results": 10,
+    "new": 0,
+    "addedUS": 0,
+    "addedIntl": 0,
+    "filtered": 0
+  },
+  {
+    "name": "Voice AI — AI Engineer",
+    "results": 8,

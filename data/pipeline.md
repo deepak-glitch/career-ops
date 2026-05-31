@@ -8,6 +8,53 @@
 ## Pendientes
 
 ### 2026-05-31
+- [ ] https://jobs.ashbyhq.com/reflectionai/9e0c3947-a4ca-4c09-b0e8-dfaf634f33d7/application | Reflection | Forward Deployed Engineer | LLM Post-training | verify in JD
+- [ ] https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5 | Glacis | Founding Software Engineer - Agentic AI (Remote) | Remote
+- [ ] https://jobs.ashbyhq.com/agent/e36e9f74-0c4e-47a0-b324-d44bd598307b | Agent | AI Engineer | LATAM
+- [ ] https://jobs.ashbyhq.com/oscilar/4326a0be-8156-4485-bb2e-3513331c6866 | Oscilar | Full-Stack Engineer – AI Agent Platform (Fraud, Risk & AML) | verify in JD
+- [ ] https://job-boards.greenhouse.io/guidepointsecurity/jobs/5691976004 | GuidePoint Security | Generative AI Solution Engineer- Remote (Anywhere in the U.S.) | Remote US
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8517564002 | GitLab | AI Engineer | Remote
+- [ ] https://jobs.ashbyhq.com/n8n/b1cac773-bbcd-4aad-bea8-1c858729c9ef | n8n | AI Workflow Automation Engineer | verify in JD
+- [ ] https://jobs.ashbyhq.com/avoca/0fc22fe4-6b8c-4c93-9b3f-fa3738054601/application | Avoca | Forward Deployed Engineer | verify in JD
+- [ ] https://jobs.ashbyhq.com/GigaML/0bd3cb15-811f-4a6b-ac12-781f24735a86 | Giga | Forward Deployed Agent Engineer | verify in JD
+- [ ] https://jobs.ashbyhq.com/assembledhq/ea904973-4574-4a4f-8350-a0272b20ca56 | Assembled | Software Engineer - Voice AI Agent | verify in JD
+- [ ] https://careers.zoom.us/jobs/contact-center-consulting-solutions-engineer-remote-arizona-united-states-colorado | Zoom | Contact Center Consulting Solutions Engineer | Remote AZ/CO US
+- [ ] https://remotive.com/remote/jobs/ai-ml/devrel-machine-learning-engineer-ai-for-robotics-3496032 | Hugging Face | DevRel Machine Learning Engineer, AI for Robotics | France Remote
+- [ ] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4239065 | Stack Overflow | Forward Deployed Engineer | Americas/Europe/Israel
+- [ ] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-3198158 | Qdrant | Forward Deployed Engineer | Remote
+- [ ] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4280686 | Salesforce | Forward Deployed Engineer | verify in JD
+- [ ] https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-engineer-4736463 | TEKsystems | Forward Deployed Engineer | verify in JD
+- [ ] https://www.workingnomads.com/jobs/forward-deployed-engineer-strategist-elevenlabs-1534467 | ElevenLabs | Forward Deployed Engineer - Strategist | Global Remote
+- [ ] https://euremotejobs.com/job/forward-deployed-engineer-2/ | Kota | Forward Deployed Engineer | EMEA
+- [ ] https://euremotejobs.com/job/back-end-engineer-forward-deployed/ | Deel | Back-End Engineer - Forward Deployed | EMEA
+- [ ] https://remoteok.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611 | Cohere | Forward Deployed Engineer Agentic Platform | Remote
+- [ ] https://ai-jobs.net/job/198951-founding-ai-engineer-agents/ | Occam AI | Founding AI Engineer, Agents | New York
+- [ ] https://www.fwddeploy.com/jobs/forward-deployed-engineer-60-75k-at-authsignal-ltd-380a4698 | Authsignal Ltd | Forward Deployed Engineer | UK Remote
+- [ ] https://www.workatastartup.com/jobs/79731 | Lucis | Founding AI engineer | Europe
+- [ ] https://app.welcometothejungle.com/jobs/mvOt6S5z | Mistral AI | Forward Deployed Machine Learning Engineer | verify in JD
+- [ ] https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-forward-deployed-machine-learning-engineer-palo-alto_palo-alto | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto | Palo Alto
+- [ ] https://app.welcometothejungle.com/jobs/IkBVahGk | Anthropic | Applied AI | verify in JD
+- [ ] https://himalayas.app/companies/bjak/jobs/ai-founding-ai-engineer-4974162189 | Bjak | Founding AI Engineer | Japan
+- [ ] https://himalayas.app/companies/data-intellect/jobs/forward-deployed-engineers-ai-12-week-contract-immediate | Data Intellect | Forward Deployed Engineers (AI). 12 week contract | verify in JD
+- [ ] https://himalayas.app/companies/cohere-com/jobs/forward-deployed-engineer-infrastructure-specialist | Cohere | Forward Deployed Engineer, Infrastructure Specialist | verify in JD
+- [ ] https://himalayas.app/companies/arcesium/jobs/software-engineer-forward-deployed | Arcesium | Software Engineer - Forward Deployed | Remote
+- [ ] https://es.jooble.org/jdp/-3274424308418785071 | Future Connections | Autonomous AI/ML OSS Automation Engineer — Remote Spain | Spain Remote
+- [ ] https://es.jooble.org/jdp/-3059822854429373792 | idealista | Software Engineer, AI Systems | Madrid
+- [ ] https://news.ycombinator.com/item?id=47292427 | CiceroAI | CiceroAI | Founding Forward Deployed Engineer | Houston TX / Remote
+- [ ] https://news.ycombinator.com/item?id=46861176 | VLM Run | VLM Run | Infrastructure Engineer + DevRel + AI/ML Engineer | verify in JD
+- [ ] https://doneverse.breezy.hr/p/df7d2172d27f-ai-automation-specialist | Doneverse | AI Automation Specialist | Philippines Remote
+- [ ] https://mechanizedai.breezy.hr/p/7b63cde92e37-ai-engineer | Mechanized AI | GenAI Engineer | Remote
+- [ ] https://nexthire.breezy.hr/p/a4abb777afb6-awign-expert-ai-engineer | Nexthire | Awign expert-AI Engineer | verify in JD
+- [ ] https://goodgamestudios.teamtailor.com/jobs/7796165-working-student-ai-balancing-machine-learning-engineer | Goodgame Studios | Working Student AI Balancing / Machine Learning Engineer | verify in JD
+- [ ] https://tether.recruitee.com/o/ai-inference-engineer-edge-100-remote-ireland | Tether | AI Inference Engineer (Edge) (100% Remote - Ireland) | Ireland Remote
+- [ ] https://www.personio.com/careers/e556b837-2956-456e-9021-fcf889b5c244/ | Personio | ML Engineer - with Data Science Background (d/f/m) | Munich
+- [ ] https://jobs.smartrecruiters.com/AmpleInsightInc/744000108912530-ml-engineer-generative-ai-llms-remote- | Ample Insight | ML Engineer – Generative AI & LLMs (Remote) | Toronto/Remote
+- [ ] https://recruiting.paylocity.com/recruiting/jobs/Details/3594197/Dominion-Digital-Inc/AIML-Solution-Engineer | Dominion Digital | AI/ML Solution Engineer | verify in JD
+- [ ] https://ats.rippling.com/en-CA/opendoor/jobs/f572e889-0644-4590-8a5a-64f73d7db17d | Opendoor | Operations AI Engineer | verify in JD
+- [ ] https://ats.rippling.com/flatiron-school/jobs/0796406a-e81f-4ec4-966e-da12eb6667c9 | Flatiron School | AI Engineer Accelerated Apprenticeship Program | Remote US
+- [ ] https://wellfound.com/jobs/3314382-ai-automation-engineer-remote | Quora | AI Automation Engineer (Remote) | Remote US
+- [ ] https://weworkremotely.com/remote-jobs/secure-privacy-qa-engineer-ai-automation-intelligent-testing | Secure Privacy | QA Engineer - AI Automation Intelligent Testing | Remote
+- [ ] https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train | DataAnnotation.tech | FT/PT Remote AI Prompt Engineering & Evaluation | Remote
 - [!] https://jobs.ashbyhq.com/atlas/dae00fcb-35a5-4559-8114-7553138b3ea3 | filtered: requires 5+ years (Senior)
 
 ## Procesadas

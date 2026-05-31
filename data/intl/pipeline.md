@@ -15,6 +15,15 @@
 ## Pendientes
 
 ### 2026-05-31
+- [ ] https://job-boards.greenhouse.io/builtin/jobs/7855050 | Built In | Applied AI Engineer (Agentic Systems & Reputation Intelligence) - India | India Remote
+- [ ] https://www.fwddeploy.com/jobs/forward-deployed-engineer-emea-hydrid-b1b91f5e | Telnyx | Forward Deployed Engineer, EMEA | Amsterdam
+- [ ] https://www.fwddeploy.com/jobs/ai-forward-deployed-engineer-emea-47689341 | Genesys | AI Forward Deployed Engineer EMEA | EMEA
+- [ ] https://www.fwddeploy.com/jobs/applied-ai-forward-deployed-machine-learning-engineer-emea-6e895dc7 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - EMEA | EMEA
+- [ ] https://www.fwddeploy.com/jobs/forward-deployed-engineer-fde-emea-ecac6392 | Unknown | Forward Deployed Engineer (FDE) - EMEA | EMEA
+- [ ] https://www.fwddeploy.com/jobs/forward-deployed-engineer-europe-remote-a9a04c07 | Akka | Forward Deployed Engineer (Europe - Remote) | Europe Remote
+- [ ] https://www.fwddeploy.com/jobs/applied-ai-forward-deployed-machine-learning-engineer-critical-and-sovereign-institutions-emea-1431323e | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA | EMEA
+- [ ] https://www.workatastartup.com/jobs/79489 | Saturn | Founding AI Engineer - London | London
+- [ ] https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/ai-solution-architect-spain_madrid | Mistral AI | AI Deployment Strategist - Spain | Madrid Spain
 - [!] https://jobs.lever.co/jobgether/31c0357c-c8b1-4a38-9338-03a74da9c5aa | filtered: requires 6+ years (Senior)
 
 ## Procesadas

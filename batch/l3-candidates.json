@@ -1,0 +1,366 @@
+[
+  {"name":"Ashby — AI PM","results":[
+    {"url":"https://jobs.ashbyhq.com/everai/694c19b7-d94f-4f66-97a7-5c881b0811bf","title":"Senior AI Product Manager","company":"EverAI","locationGuess":"Remote - Europe"},
+    {"url":"https://jobs.ashbyhq.com/procurify/36f109d4-4024-4bfe-986c-6997c02b9967","title":"Senior Product Manager, AI","company":"Procurify","locationGuess":"Remote - Canada/USA"},
+    {"url":"https://jobs.ashbyhq.com/sekai/534298cc-7123-4062-b2d0-061c41ff319f","title":"AI Product Manager (Remote)","company":"Sekai","locationGuess":"Remote"},
+    {"url":"https://jobs.ashbyhq.com/hive.co/fe239cd6-2467-42a6-bb0a-f5fcec17de2d/application","title":"Senior AI Product Manager","company":"hive.co","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/writer/d590e2f0-e2fe-4a02-b0e1-14f20777af13","title":"AI product manager","company":"Writer","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/Ment/6af78f81-ca51-49bc-a530-974dca9928c6","title":"AI Product Manager","company":"Ment","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/acai/e3a41f3d-5fca-473e-9273-52daa7985d2a","title":"Senior AI Product Manager","company":"Acai Travel","locationGuess":"Barcelona, Spain"},
+    {"url":"https://jobs.ashbyhq.com/oscilar/d32ee038-0f64-406e-a2c8-a83de9fe6b61","title":"Product Manager","company":"Oscilar","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/9fin/ffe01dfd-0d71-43ee-bf04-ae2876f62c22","title":"Senior AI Product Manager","company":"9fin","locationGuess":"verify in JD"}
+  ]},
+  {"name":"Ashby — Solutions Architect","results":[
+    {"url":"https://jobs.ashbyhq.com/uipath/66cbeab1-9003-446c-b968-d1851bd0aa3e","title":"Enterprise AI Solution Architect","company":"UiPath","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/uipath/7241a90d-4756-4d06-9b14-429e8ee958d2","title":"Solution Architect - Automation","company":"UiPath","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/trm-labs/f637d8d6-54bd-4f24-8699-016980ddc09a","title":"Solutions Architect","company":"TRM Labs","locationGuess":"Remote"},
+    {"url":"https://jobs.ashbyhq.com/langchain/0a5dd30c-6da1-4095-bd96-b16f27eeb333","title":"Solutions Architect (Remote)","company":"LangChain","locationGuess":"Remote"},
+    {"url":"https://jobs.ashbyhq.com/fiddler-ai/640c12b9-6a07-4be1-a542-d76e4240e2ff","title":"Solutions Architect, Customer Success - US (Remote)","company":"Fiddler AI","locationGuess":"Remote US"},
+    {"url":"https://jobs.ashbyhq.com/fiddler-ai/8c7d204c-048f-4d85-9aa6-f945ee8fa845","title":"Solutions Architect, Customer Success - Canada (Remote)","company":"Fiddler AI","locationGuess":"Canada Remote"},
+    {"url":"https://jobs.ashbyhq.com/orb/a0adb5b6-88f5-4d4d-a3e8-ea387dcedd7e","title":"Solutions Architect- Remote (USA)","company":"Orb","locationGuess":"Remote USA"},
+    {"url":"https://jobs.ashbyhq.com/lavendo/f0374fa5-f8b8-4f42-b6fb-898721ef6a10","title":"Solutions Architect – AI Agents Deployment","company":"Lavendo","locationGuess":"Remote"},
+    {"url":"https://jobs.ashbyhq.com/drata/4aa58eb9-77af-4ddc-b54b-abfb57b23b4e","title":"Senior Enterprise Solutions Architect (Remote)","company":"Drata","locationGuess":"Remote"},
+    {"url":"https://jobs.ashbyhq.com/horizon3ai/01b63db2-2c73-439e-9032-182583e62d5a","title":"Solutions Architect, Central","company":"Horizon3 AI","locationGuess":"verify in JD"}
+  ]},
+  {"name":"Ashby — AI Engineer","results":[
+    {"url":"https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2","title":"Forward Deployed AI Engineer","company":"Adaptive ML","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426","title":"Forward Deployed AI Engineer","company":"Variance","locationGuess":"San Francisco"},
+    {"url":"https://jobs.ashbyhq.com/owkin/306c60e3-9ecf-40a1-b82a-16976bcfef87","title":"Forward Deployed Engineer","company":"Owkin","locationGuess":"UK/Germany/France"},
+    {"url":"https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e","title":"Forward Deployed Engineer","company":"Baseten","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/hopper/24380cbc-bb55-4c1e-b2dd-4420ae9e3eea","title":"Forward Deployed Engineer, HTS Assist","company":"Hopper","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/periodic-labs/dbac407f-a408-44a3-9e7a-895d42649edc","title":"Forward Deployed Engineer - LLM Systems","company":"Periodic Labs","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/reflectionai/9e0c3947-a4ca-4c09-b0e8-dfaf634f33d7/application","title":"Forward Deployed Engineer | LLM Post-training","company":"Reflection","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/trm-labs/eb560943-3adb-4839-bf64-4cbdeee9ae57","title":"Staff Software Engineer, Agent Engineering - US Remote","company":"TRM Labs","locationGuess":"US Remote"},
+    {"url":"https://jobs.ashbyhq.com/owkin/d2467bc5-6e95-4a4f-8164-061e0262ab19","title":"Senior Forward Deployed Engineer","company":"Owkin","locationGuess":"UK/Germany/France"}
+  ]},
+  {"name":"Ashby — Agentic","results":[
+    {"url":"https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5","title":"Founding Software Engineer - Agentic AI (Remote)","company":"Glacis","locationGuess":"Remote"},
+    {"url":"https://jobs.ashbyhq.com/revenuecat/998a9cef-3ea5-45c2-885b-8a00c4eeb149","title":"Agentic AI Advocate","company":"RevenueCat","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/agent/e36e9f74-0c4e-47a0-b324-d44bd598307b","title":"AI Engineer","company":"Agent","locationGuess":"LATAM"},
+    {"url":"https://jobs.ashbyhq.com/glacis-ai/e08f7cde-6b65-420a-874f-4cb7c906f1a2","title":"Agentic AI Engineering Intern","company":"Glacis","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/oscilar/4326a0be-8156-4485-bb2e-3513331c6866","title":"Full-Stack Engineer – AI Agent Platform (Fraud, Risk & AML)","company":"Oscilar","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/fastino-ai/d0fe2e39-6cf2-4972-8266-461bd447468a","title":"AI Engineer","company":"fastino.ai","locationGuess":"Remote"},
+    {"url":"https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9","title":"Applied AI Engineer – Agentic Workflows","company":"Cohere","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/eigen-labs/c02fa001-23c9-4d68-8c0a-e27a742d76a4","title":"Agentic AI Engineer","company":"Eigen Labs","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/magicschool/f140d36e-a62a-4785-b654-487a7f5c21d4/application","title":"Staff Software Engineer - AI Infrastructure","company":"MagicSchool AI","locationGuess":"verify in JD"}
+  ]},
+  {"name":"Greenhouse — AI PM","results":[
+    {"url":"https://job-boards.greenhouse.io/smartsheet/jobs/7833978","title":"Senior Product Manager - Applied AI (Remote Eligible)","company":"Smartsheet","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/affinity/jobs/7692719003","title":"Senior Product Manager, CRM","company":"Affinity.co","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/sayari/jobs/4140623009","title":"Senior Product Manager, AI Platform (Remote, US)","company":"Sayari","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/collectivei/jobs/4672023008","title":"Senior Product Manager (Remote, United States)","company":"Collective[i]","locationGuess":"Remote US"},
+    {"url":"https://boards.greenhouse.io/toast/jobs/7673399","title":"Senior Product Manager, AI CSM - Remote, United States","company":"Toast","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/securityscorecard/jobs/7782217","title":"Senior Product Manager, AI","company":"SecurityScorecard","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/seamlessai/jobs/5635624004","title":"Senior Product Manager – Product-Led Growth - Remote US","company":"Seamless.AI","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/isccareers/jobs/4685310005","title":"Senior AI Product Manager","company":"Integrated Specialty Coverages","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/babylist/jobs/5988512004","title":"Senior Product Manager (AI Builder)","company":"Babylist","locationGuess":"Remote US/Canada"},
+    {"url":"https://job-boards.greenhouse.io/postscript/jobs/8445410002","title":"Senior Product Manager, AI","company":"Postscript","locationGuess":"Remote"}
+  ]},
+  {"name":"Greenhouse — SA & FDE","results":[
+    {"url":"https://job-boards.greenhouse.io/gitlab/jobs/8468149002","title":"Solutions Architect, AI + Security & Compliance, EMEA","company":"GitLab","locationGuess":"EMEA Remote"},
+    {"url":"https://job-boards.greenhouse.io/workato/jobs/8320989002","title":"Senior Forward Deployed Engineer","company":"Workato","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/caylent/jobs/5973733004","title":"Forward Deployed Engineer","company":"Caylent","locationGuess":"Remote US/Canada/LATAM"},
+    {"url":"https://job-boards.greenhouse.io/guidepointsecurity/jobs/5691976004","title":"Generative AI Solution Engineer- Remote (Anywhere in the U.S.)","company":"GuidePoint Security","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/smartsheet/jobs/7798778","title":"Senior Forward Deployed AI Engineer (Remote Eligible)","company":"Smartsheet","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/devrev/jobs/5528192004","title":"Forward Deployed Architect","company":"DevRev","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/layerzerolabs/jobs/5765882004","title":"Staff Solutions Architect","company":"LayerZero Labs","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4001057009","title":"Forward Deployed Engineer- AI","company":"Rhino Federated Computing","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/smartsheet/jobs/7930145","title":"Senior Forward Deployed AI Engineer (Remote Eligible in the UK)","company":"Smartsheet","locationGuess":"Remote UK"},
+    {"url":"https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009","title":"Forward Deployed Engineer (AI)","company":"Opaque Systems","locationGuess":"verify in JD"}
+  ]},
+  {"name":"Greenhouse — AI Engineer","results":[
+    {"url":"https://job-boards.greenhouse.io/smartasset/jobs/8452710002","title":"Senior ML Engineer","company":"SmartAsset","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/sayari/jobs/4222358009","title":"Senior AI/ML Engineer","company":"Sayari","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/hightouch/jobs/5542602004","title":"Software Engineer, AI Agents","company":"Hightouch","locationGuess":"Remote NA"},
+    {"url":"https://job-boards.greenhouse.io/grafanalabs/jobs/5806327004","title":"Staff AI Engineer | Canada | Remote","company":"Grafana Labs","locationGuess":"Canada Remote"},
+    {"url":"https://job-boards.greenhouse.io/vulncheck/jobs/4219227009","title":"Senior AI Engineer","company":"VulnCheck","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/offerup/jobs/7739995","title":"AI Engineer (Hybrid @ Bellevue, WA or Remote @ Florida)","company":"OfferUp","locationGuess":"Bellevue WA / Remote FL"},
+    {"url":"https://job-boards.greenhouse.io/builtin/jobs/7855050","title":"Applied AI Engineer (Agentic Systems & Reputation Intelligence) - India","company":"Built In","locationGuess":"India Remote"},
+    {"url":"https://job-boards.greenhouse.io/gitlab/jobs/8517564002","title":"AI Engineer","company":"GitLab","locationGuess":"Remote"},
+    {"url":"https://job-boards.greenhouse.io/solutions/jobs/4678821006","title":"Senior Software Engineer, Agentic AI","company":"Cadence Solutions","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/kindo/jobs/5060204007","title":"Principal AI Systems Engineer — Agentic Platforms","company":"Kindo","locationGuess":"verify in JD"}
+  ]},
+  {"name":"Workable — AI Roles","results":[
+    {"url":"https://apply.workable.com/humanintelligence/j/F790BFAA40/","title":"AI Engineer (Solutions Architect + Applied AI)","company":"Human Intelligence","locationGuess":"verify in JD"},
+    {"url":"https://apply.workable.com/arcsite/j/820E8B4B9E","title":"Senior Product Manager (AI & Workflow Automation)","company":"ArcSite","locationGuess":"verify in JD"},
+    {"url":"https://apply.workable.com/leadtech/j/A83B949324","title":"AI Product Manager (Remote)","company":"Leadtech","locationGuess":"Remote"},
+    {"url":"https://apply.workable.com/united-field-services-inc/j/C61CD4A6D8","title":"Part-Time AI Product Manager (Remote or On-Site - Glendale, CA)","company":"United Field Services","locationGuess":"Glendale CA"},
+    {"url":"https://apply.workable.com/avomind/j/0151A781C7/","title":"Senior AI Product Engineer / AI Workflow Architect","company":"Avomind","locationGuess":"verify in JD"},
+    {"url":"https://apply.workable.com/openfn/j/EC44FC42F5","title":"Principal Solutions Architect","company":"OpenFn","locationGuess":"Africa/Europe Remote"},
+    {"url":"https://apply.workable.com/jobgether/j/BB40D8A40D/apply/","title":"Product Manager, AI (Remote - US)","company":"Jobgether","locationGuess":"Remote US"},
+    {"url":"https://apply.workable.com/zyte/j/4CEC648C95/","title":"Technical Product Manager / Owner - AI - Remote","company":"Zyte","locationGuess":"Remote global"},
+    {"url":"https://apply.workable.com/cydcor/j/B696993773/","title":"AI Product Manager (Builder Track)","company":"Cydcor","locationGuess":"verify in JD"},
+    {"url":"https://apply.workable.com/jobgether/j/C61C485858","title":"AI Engineer (Remote - US)","company":"Jobgether","locationGuess":"Remote US"}
+  ]},
+  {"name":"Ashby — No-Code & Automation","results":[
+    {"url":"https://jobs.ashbyhq.com/n8n/788662b7-6b2b-4b07-b466-bf131fd95d08","title":"Senior Solutions Engineer | East Coast - Remote","company":"n8n","locationGuess":"East Coast US Remote"},
+    {"url":"https://jobs.ashbyhq.com/n8n/7ab55fc3-dee1-4fe4-aa6f-8c71417850f6","title":"Senior Engineer I-II | Core Workflow Engine | Remote | Europe","company":"n8n","locationGuess":"Europe Remote"},
+    {"url":"https://jobs.ashbyhq.com/n8n/cb739e3a-0e51-461e-89c1-ef7821f56666","title":"Senior/Staff Engineer - Core Workflow Engine | Remote | Europe","company":"n8n","locationGuess":"Europe Remote"},
+    {"url":"https://jobs.ashbyhq.com/n8n/a79aa548-6381-4c08-a4e4-f024435f9db9","title":"Senior Product Engineer | TS/NodeJS/Vue | Europe Remote","company":"n8n","locationGuess":"Europe Remote"},
+    {"url":"https://jobs.ashbyhq.com/n8n/69607328-f9fa-4788-8a6e-8b2d7a102969","title":"Senior AI Engineer (Europe remote - TS/Vue/NodeJS)","company":"n8n","locationGuess":"Europe Remote"},
+    {"url":"https://jobs.ashbyhq.com/n8n/92208273-951b-4388-935b-037624fe1725","title":"Senior Solutions Engineer (Remote Europe)","company":"n8n","locationGuess":"Europe Remote"},
+    {"url":"https://jobs.ashbyhq.com/n8n/1d732234-b364-4c5c-b4fd-ae584e0b7992/application","title":"Senior Support Engineer | Europe Remote","company":"n8n","locationGuess":"Europe Remote"},
+    {"url":"https://jobs.ashbyhq.com/n8n/b1cac773-bbcd-4aad-bea8-1c858729c9ef","title":"AI Workflow Automation Engineer","company":"n8n","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/n8n/8e20b1af-1851-4f00-a73c-6b8af2f5d428/application","title":"Senior Product Builder","company":"n8n","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/n8n/3075bca2-cfaf-474a-9161-f0d190fbad53/application","title":"Senior Product Engineer (Enterprise features)","company":"n8n","locationGuess":"verify in JD"}
+  ]},
+  {"name":"Greenhouse — No-Code & Automation","results":[
+    {"url":"https://job-boards.greenhouse.io/trmlabs/jobs/5631209004","title":"Senior Business Process Automation Engineer","company":"TRM Labs","locationGuess":"India Remote"},
+    {"url":"https://job-boards.greenhouse.io/celonis/jobs/7731772003","title":"Senior Integration & Automation Engineer","company":"Celonis","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/lendingtree/jobs/7550936","title":"Sr. AI Platform Engineer","company":"LendingTree","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/life360/jobs/8546743002","title":"Senior IT Systems Engineer II (AI Native)","company":"Life360","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/life360/jobs/8546727002","title":"Senior IT Automation Engineer II (AI Native)","company":"Life360","locationGuess":"Remote US"},
+    {"url":"https://job-boards.greenhouse.io/knack/jobs/4186717009","title":"Senior Front End Engineer - International Contractor","company":"Knack","locationGuess":"International Remote"},
+    {"url":"https://job-boards.greenhouse.io/saasgroup/jobs/4774181101","title":"Senior IT Systems & Automation Engineer","company":"saas.group","locationGuess":"Remote global"},
+    {"url":"https://job-boards.greenhouse.io/grafanalabs/jobs/5762859004","title":"Senior Software Engineer, Enterprise Applications | US (EST) - EMEA | Remote","company":"Grafana Labs","locationGuess":"US/EMEA Remote"},
+    {"url":"https://job-boards.greenhouse.io/processstreet/jobs/8072610002","title":"Senior Solutions Engineer | 100% Remote","company":"Process Street","locationGuess":"Remote"},
+    {"url":"https://job-boards.greenhouse.io/grafanalabs/jobs/5762860004","title":"Senior Software Engineer, Enterprise Applications | Canada - EST | Remote","company":"Grafana Labs","locationGuess":"Canada Remote"}
+  ]},
+  {"name":"GTM Engineer — All portals","results":[
+    {"url":"https://job-boards.greenhouse.io/airtable/jobs/8536588002","title":"GTM Engineer","company":"Airtable","locationGuess":"San Francisco / New York"}
+  ]},
+  {"name":"Voice AI — FDE & SA","results":[
+    {"url":"https://jobs.ashbyhq.com/synthflow/b0cb2768-ac18-42a3-94b2-5e627f24023c","title":"Forward Deployed Engineer","company":"Synthflow AI","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/decagon/8c40fb7a-5f25-4112-a1df-f1c22b81042c","title":"Customer Engineer, Agent Builder","company":"Decagon","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/avoca/0fc22fe4-6b8c-4c93-9b3f-fa3738054601/application","title":"Forward Deployed Engineer","company":"Avoca","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/deepgram/8884965c-8a55-414c-ba86-a52d527f5dff","title":"Solutions Engineer, Enterprise","company":"Deepgram","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/togetherai/jobs/5093344007","title":"Senior Platform Engineer, Voice AI","company":"Together AI","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/GigaML/0bd3cb15-811f-4a6b-ac12-781f24735a86","title":"Forward Deployed Agent Engineer","company":"Giga","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/assemblyai/jobs/4664024005","title":"Applied AI Engineer","company":"AssemblyAI","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/assembledhq/ea904973-4574-4a4f-8350-a0272b20ca56","title":"Software Engineer - Voice AI Agent","company":"Assembled","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/zeals/jobs/5572548004","title":"AI/ML Engineer (Conversational AI)","company":"Zeals","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/take2/f04c965f-6f05-44a8-ac39-fd0bba82f7f4","title":"Senior Software Engineer, Voice AI","company":"Take2","locationGuess":"verify in JD"}
+  ]},
+  {"name":"Voice AI — AI Engineer","results":[
+    {"url":"https://jobs.ashbyhq.com/elevenlabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f/application","title":"Deployment Strategist - North America","company":"ElevenLabs","locationGuess":"North America"},
+    {"url":"https://job-boards.greenhouse.io/cresta/jobs/5199747008","title":"Senior Machine Learning Engineer, Voice Experience","company":"Cresta","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/speechify/jobs/6003615004","title":"Go-to-Market","company":"Speechify","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/speechify/jobs/5989934004","title":"Go-to-Market Engineer","company":"Speechify","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/speechify/jobs/6003626004","title":"Go-to-Market - Los Angeles, CA, USA","company":"Speechify","locationGuess":"Los Angeles CA"},
+    {"url":"https://job-boards.greenhouse.io/anthropic/jobs/5172245008","title":"Senior / Staff+ Software Engineer, Voice Platform","company":"Anthropic","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/speechify/jobs/6003678004","title":"Go-to-Market - Houston, TX, USA","company":"Speechify","locationGuess":"Houston TX"},
+    {"url":"https://job-boards.greenhouse.io/speechify/jobs/6003796004","title":"Go-to-Market - Vancouver, Canada","company":"Speechify","locationGuess":"Vancouver Canada"}
+  ]},
+  {"name":"Contact Center AI — SA & SE","results":[
+    {"url":"https://careers.zoom.us/jobs/contact-center-consulting-solutions-engineer-remote-arizona-united-states-colorado","title":"Contact Center Consulting Solutions Engineer","company":"Zoom","locationGuess":"Remote AZ/CO US"},
+    {"url":"https://www.remoterocketship.com/us/company/nice/jobs/lead-solutions-architect-united-states-remote/","title":"Lead Solutions Architect","company":"NICE","locationGuess":"US Remote"},
+    {"url":"https://www.remoterocketship.com/us/company/nice/jobs/solution-architect-united-states-remote/","title":"Solution Architect","company":"NICE","locationGuess":"US Remote"},
+    {"url":"https://www.remoterocketship.com/company/nice/jobs/senior-solutions-architect-ai-automation-augmentation-united-states-remote/","title":"Senior Solutions Architect – AI Automation, Augmentation","company":"NICE","locationGuess":"US Remote"},
+    {"url":"https://remotive.com/remote/jobs/customer-service/service-desk-and-contact-center-modernization-architect-4761637","title":"Service Desk and Contact Center Modernization Architect","company":"General Dynamics IT","locationGuess":"verify in JD"}
+  ]},
+  {"name":"FDE & Deployed Engineer — All portals","results":[
+    {"url":"https://job-boards.greenhouse.io/anthropic/jobs/4985877008","title":"Forward Deployed Engineer, Applied AI","company":"Anthropic","locationGuess":"verify in JD"},
+    {"url":"https://job-boards.greenhouse.io/cresta/jobs/4759347008","title":"Senior Forward Deployed Engineer (AI Agent)","company":"Cresta","locationGuess":"verify in JD"},
+    {"url":"https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb","title":"Forward Deployed Engineer - AI Solutions","company":"Agiloft","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/fireworks.ai/da851441-e231-4205-9717-3aa860bed6fe","title":"Forward Deployed Engineer","company":"Fireworks AI","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6","title":"Forward Deployed Engineer - Software Engineer","company":"ElevenLabs","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/P-1%20AI/75c853db-4a8d-4f23-b28f-05a2231e70e6","title":"Forward Deployed Engineer","company":"P-1 AI","locationGuess":"verify in JD"},
+    {"url":"https://jobs.ashbyhq.com/withclutch/888a232e-6680-45fc-8992-608f70b81c82","title":"Forward Deployed Engineer","company":"Clutch","locationGuess":"verify in JD"}
+  ]},
+  {"name":"Remotive — AI/DevRel/SA/FDE","results":[
+    {"url":"https://remotive.com/remote/jobs/all-others/developer-relations-advocate-1733110","title":"Developer Relations Advocate","company":"All Hands AI","locationGuess":"verify in JD"},
+    {"url":"https://remotive.com/remote/jobs/software-development/senior-developer-advocate-4542030","title":"Senior Developer Advocate","company":"MongoDB","locationGuess":"UK/Europe Remote"},
+    {"url":"https://remotive.com/remote/jobs/ai-ml/devrel-machine-learning-engineer-ai-for-robotics-3496032","title":"DevRel Machine Learning Engineer, AI for Robotics","company":"Hugging Face","locationGuess":"France Remote"},
+    {"url":"https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4239065","title":"Forward Deployed Engineer","company":"Stack Overflow","locationGuess":"Americas/Europe/Israel"},
+    {"url":"https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-3198158","title":"Forward Deployed Engineer","company":"Qdrant","locationGuess":"Remote"},
+    {"url":"https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4280686","title":"Forward Deployed Engineer","company":"Salesforce","locationGuess":"verify in JD"},
+    {"url":"https://remotive.com/remote/jobs/software-development/forward-deployment-engineer-3832525","title":"Forward Deployment Engineer","company":"Workana","locationGuess":"verify in JD"},
+    {"url":"https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4486915","title":"Forward Deployed Engineer","company":"Elite Talent","locationGuess":"verify in JD"},
+    {"url":"https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-engineer-4736463","title":"Forward Deployed Engineer","company":"TEKsystems","locationGuess":"verify in JD"}
+  ]},
+  {"name":"WeWorkRemotely — AI & DX","results":[
+    {"url":"https://weworkremotely.com/remote-jobs/h2corporation-forward-deployed-backend-software-engineer","title":"Forward Deployed Backend Software Engineer","company":"H2Corporation","locationGuess":"Remote"},
+    {"url":"https://weworkremotely.com/remote-jobs/gc-ai-founding-engineer","title":"Founding Engineer","company":"GC AI","locationGuess":"Remote"},
+    {"url":"https://weworkremotely.com/remote-jobs/toyo-ai-senior-full-stack-ai-engineer","title":"Senior Full-stack AI Engineer","company":"Toyo AI","locationGuess":"Remote"},
+    {"url":"https://weworkremotely.com/remote-jobs/jobgether-devops-specialist-remote","title":"DevOps Specialist - REMOTE","company":"Jobgether","locationGuess":"Remote"}
+  ]},
+  {"name":"Working Nomads — AI/DevRel/SA","results":[
+    {"url":"https://www.workingnomads.com/jobs/forward-deployed-engineer-strategist-elevenlabs-1534467","title":"Forward Deployed Engineer - Strategist","company":"ElevenLabs","locationGuess":"Global Remote"}
+  ]},
+  {"name":"EU Remote Jobs — AI/DevRel/SA","results":[
+    {"url":"https://euremotejobs.com/job/solutions-architect-emea/","title":"Solutions Architect - EMEA","company":"Deepgram","locationGuess":"EMEA"},
+    {"url":"https://euremotejobs.com/job/senior-forward-deployed-engineer-f-m-d/","title":"Senior Forward Deployed Engineer","company":"Parloa","locationGuess":"EMEA"},
+    {"url":"https://euremotejobs.com/job/forward-deployed-engineer-2/","title":"Forward Deployed Engineer","company":"Kota","locationGuess":"EMEA"},
+    {"url":"https://euremotejobs.com/job/forward-deployed-engineering-manager/","title":"Forward Deployed Engineering Manager","company":"Cresta","locationGuess":"EMEA"},
+    {"url":"https://euremotejobs.com/job/senior-forward-deployed-ai-engineer-remote-eligible-in-germany/","title":"Senior Forward Deployed AI Engineer (Remote Eligible in Germany)","company":"Smartsheet","locationGuess":"Germany Remote"},
+    {"url":"https://euremotejobs.com/job/back-end-engineer-forward-deployed/","title":"Back-End Engineer - Forward Deployed","company":"Deel","locationGuess":"EMEA"},
+    {"url":"https://euremotejobs.com/job/engineer-backend/","title":"Engineer, Backend","company":"Unknown","locationGuess":"EMEA"},
+    {"url":"https://euremotejobs.com/job/senior-backend-php-software-engineer-inventory/","title":"Senior Backend PHP Software Engineer - Inventory","company":"Unknown","locationGuess":"EMEA"},
+    {"url":"https://euremotejobs.com/job/lead-backend-engineer-ai/","title":"Lead Backend Engineer - AI","company":"Unknown","locationGuess":"EMEA"}
+  ]},
+  {"name":"RemoteOK — AI/DevRel/SA","results":[
+    {"url":"https://remoteok.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611","title":"Forward Deployed Engineer Agentic Platform","company":"Cohere","locationGuess":"Remote"}
+  ]},
+  {"name":"ai-jobs.net — DevRel/SA/FDE","results":[]},
+  {"name":"ai-jobs.net — Founding/Applied AI","results":[
+    {"url":"https://ai-jobs.net/job/198951-founding-ai-engineer-agents/","title":"Founding AI Engineer, Agents","company":"Occam AI","locationGuess":"New York"}
+  ]},
+  {"name":"fwddeploy.com — Forward Deployed roles","results":[
+    {"url":"https://www.fwddeploy.com/jobs/forward-deployed-engineer-emea-hydrid-b1b91f5e","title":"Forward Deployed Engineer, EMEA","company":"Telnyx","locationGuess":"Amsterdam"},
+    {"url":"https://www.fwddeploy.com/jobs/forward-deployed-engineer-60-75k-at-authsignal-ltd-380a4698","title":"Forward Deployed Engineer","company":"Authsignal Ltd","locationGuess":"UK Remote"},
+    {"url":"https://www.fwddeploy.com/jobs/ai-forward-deployed-engineer-emea-47689341","title":"AI Forward Deployed Engineer EMEA","company":"Genesys","locationGuess":"EMEA"},
+    {"url":"https://www.fwddeploy.com/jobs/senior-engineering-manager-ai-forward-deployed-engineering-for-emea-bc8de2ff","title":"Senior Engineering Manager - AI Forward Deployed Engineering for EMEA","company":"Snowflake","locationGuess":"EMEA"},
+    {"url":"https://www.fwddeploy.com/jobs/applied-ai-forward-deployed-machine-learning-engineer-emea-6e895dc7","title":"Applied AI, Forward Deployed Machine Learning Engineer - EMEA","company":"Mistral AI","locationGuess":"EMEA"},
+    {"url":"https://www.fwddeploy.com/jobs/forward-deployed-engineer-fde-emea-ecac6392","title":"Forward Deployed Engineer (FDE) - EMEA","company":"Unknown","locationGuess":"EMEA"},
+    {"url":"https://www.fwddeploy.com/jobs/forward-deployed-engineer-europe-remote-a9a04c07","title":"Forward Deployed Engineer (Europe - Remote)","company":"Akka","locationGuess":"Europe Remote"},
+    {"url":"https://www.fwddeploy.com/jobs/applied-ai-forward-deployed-machine-learning-engineer-critical-and-sovereign-institutions-emea-1431323e","title":"Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA","company":"Mistral AI","locationGuess":"EMEA"},
+    {"url":"https://www.fwddeploy.com/jobs/applied-ai-technical-lead-forward-deployed-ai-engineer-emea-c77b8155","title":"Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA","company":"Mistral AI","locationGuess":"EMEA"},
+    {"url":"https://www.fwddeploy.com/jobs/deployment-strategist-france-8ee37428","title":"Deployment Strategist - France","company":"ElevenLabs","locationGuess":"France Remote"}
+  ]},
+  {"name":"YC Jobs — DevRel/SA/FDE/Founding","results":[
+    {"url":"https://www.workatastartup.com/jobs/55246","title":"Founding Engineer (Backend & AWS Infra)","company":"Revery AI","locationGuess":"verify in JD"},
+    {"url":"https://www.workatastartup.com/jobs/73417","title":"Founding Forward Deployed AI Engineer","company":"Retell AI","locationGuess":"verify in JD"},
+    {"url":"https://www.workatastartup.com/jobs/74608","title":"Forward Deployed Engineer","company":"Extend","locationGuess":"verify in JD"},
+    {"url":"https://www.workatastartup.com/jobs/91111","title":"Forward Deployed Engineer (FDE) - (India/Remote)","company":"Peakflo","locationGuess":"India Remote"},
+    {"url":"https://www.workatastartup.com/jobs/86044","title":"Founding Engineer (Remote)","company":"Thera","locationGuess":"Remote"},
+    {"url":"https://www.workatastartup.com/jobs/77473","title":"Forward Deployed Engineer","company":"FurtherAI","locationGuess":"verify in JD"},
+    {"url":"https://www.workatastartup.com/jobs/74124","title":"Founding Forward Deployed Engineer","company":"Strada","locationGuess":"verify in JD"}
+  ]},
+  {"name":"YC Jobs — Applied AI","results":[
+    {"url":"https://www.workatastartup.com/jobs/79731","title":"Founding AI engineer","company":"Lucis","locationGuess":"Europe"},
+    {"url":"https://www.workatastartup.com/jobs/76641","title":"Research Engineer, Applied AI","company":"kapa.ai","locationGuess":"Europe Remote"},
+    {"url":"https://www.workatastartup.com/jobs/79489","title":"Founding AI Engineer - London","company":"Saturn","locationGuess":"London"},
+    {"url":"https://www.workatastartup.com/jobs/81360","title":"Winter 2026 - Full-Stack AI Engineer Intern","company":"Cloudglue","locationGuess":"verify in JD"},
+    {"url":"https://www.workatastartup.com/jobs/80989","title":"Summer 2026 - Full-Stack AI Engineer Intern","company":"Cloudglue","locationGuess":"verify in JD"},
+    {"url":"https://www.workatastartup.com/jobs/77322","title":"Operations Lead","company":"kapa.ai","locationGuess":"verify in JD"},
+    {"url":"https://www.workatastartup.com/jobs/84728","title":"Founding Engineer","company":"Cozmo AI","locationGuess":"verify in JD"},
+    {"url":"https://www.workatastartup.com/jobs/76658","title":"AI Engineer Intern","company":"ThirdLayer","locationGuess":"verify in JD"},
+    {"url":"https://www.workatastartup.com/jobs/68959","title":"AI Engineer","company":"Solve Intelligence","locationGuess":"verify in JD"}
+  ]},
+  {"name":"Manfred — Tech Senior España","results":[]},
+  {"name":"Manfred — Remote AI/Senior","results":[]},
+  {"name":"Tecnoempleo — España IT","results":[]},
+  {"name":"Tecnoempleo — Remoto Senior","results":[]},
+  {"name":"JobFluent — Spain startups","results":[
+    {"url":"https://www.jobfluent.com/jobs/senior-ia-ml-engineer-eng-esp-madrid-e77de1","title":"Senior IA/ML Engineer (Eng/Esp)","company":"Plain Concepts","locationGuess":"Madrid or Remote"}
+  ]},
+  {"name":"Welcome to the Jungle — Spain tech","results":[
+    {"url":"https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/ai-solution-architect-spain_madrid","title":"AI Deployment Strategist - Spain","company":"Mistral AI","locationGuess":"Madrid Spain"},
+    {"url":"https://app.welcometothejungle.com/jobs/mvOt6S5z","title":"Forward Deployed Machine Learning Engineer","company":"Mistral AI","locationGuess":"verify in JD"},
+    {"url":"https://app.welcometothejungle.com/jobs/qzv2gfTD","title":"Global Applied AI Architecture Lead","company":"Anthropic","locationGuess":"verify in JD"},
+    {"url":"https://app.welcometothejungle.com/jobs/uBOaurGf","title":"Solutions Architect Manager","company":"Anthropic","locationGuess":"verify in JD"},
+    {"url":"https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-forward-deployed-machine-learning-engineer-palo-alto_palo-alto","title":"Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto","company":"Mistral AI","locationGuess":"Palo Alto"},
+    {"url":"https://app.welcometothejungle.com/jobs/IkBVahGk","title":"Applied AI","company":"Anthropic","locationGuess":"verify in JD"},
+    {"url":"https://app.welcometothejungle.com/jobs/Mbc78Z7T","title":"Solutions Architect","company":"Anthropic","locationGuess":"verify in JD"},
+    {"url":"https://app.welcometothejungle.com/jobs/6wm1rHuR","title":"Head of Applied AI","company":"Anthropic","locationGuess":"verify in JD"},
+    {"url":"https://app.welcometothejungle.com/jobs/sqeGZg8S","title":"Member of Technical Staff","company":"xAI","locationGuess":"verify in JD"}
+  ]},
+  {"name":"DevRelX Jobs","results":[]},
+  {"name":"TrueUp — DevRel roles","results":[]},
+  {"name":"Remote Rocketship — DevRel","results":[]},
+  {"name":"DevRel Job board","results":[]},
+  {"name":"Himalayas — Remote AI/Dev-tools","results":[
+    {"url":"https://himalayas.app/companies/red-hat/jobs/forward-deployed-ai-engineer-customer-adoption-and-innovation","title":"Forward Deployed AI Engineer","company":"Red Hat","locationGuess":"verify in JD"},
+    {"url":"https://himalayas.app/companies/hiflylabs/jobs/ai-engineer-europe","title":"AI Engineer (Europe)","company":"Hiflylabs","locationGuess":"Europe Remote"},
+    {"url":"https://himalayas.app/companies/lavendo/jobs/solutions-architect-pre-sales-ai-cloud-infrastructure-4101862582","title":"Solutions Architect (Pre-Sales) - AI Cloud Infrastructure","company":"Lavendo","locationGuess":"Remote"},
+    {"url":"https://himalayas.app/companies/smartsheet/jobs/senior-forward-deployed-ai-engineer-remote-eligible","title":"Senior Forward Deployed AI Engineer (Remote Eligible)","company":"Smartsheet","locationGuess":"Remote US"},
+    {"url":"https://himalayas.app/companies/bjak/jobs/ai-founding-ai-engineer-4974162189","title":"Founding AI Engineer","company":"Bjak","locationGuess":"Japan"},
+    {"url":"https://himalayas.app/companies/data-intellect/jobs/forward-deployed-engineers-ai-12-week-contract-immediate","title":"Forward Deployed Engineers (AI). 12 week contract","company":"Data Intellect","locationGuess":"verify in JD"},
+    {"url":"https://himalayas.app/companies/ml6/jobs/senior-genai-engineer-emerging","title":"Senior GenAI Engineer - Emerging","company":"ML6","locationGuess":"Remote"},
+    {"url":"https://himalayas.app/companies/cohere-com/jobs/forward-deployed-engineer-infrastructure-specialist","title":"Forward Deployed Engineer, Infrastructure Specialist","company":"Cohere","locationGuess":"verify in JD"},
+    {"url":"https://himalayas.app/companies/arcesium/jobs/software-engineer-forward-deployed","title":"Software Engineer - Forward Deployed","company":"Arcesium","locationGuess":"Remote"}
+  ]},
+  {"name":"Jooble — España Tech Senior","results":[
+    {"url":"https://es.jooble.org/rjdp/357923862143399514","title":"Solutions Architect-remoto","company":"Scalian","locationGuess":"Madrid"},
+    {"url":"https://es.jooble.org/jdp/-5613155883595294646","title":"Software Agentic Architect (IA) en remoto","company":"Zemsania","locationGuess":"Madrid"},
+    {"url":"https://es.jooble.org/jdp/-3274424308418785071","title":"Autonomous AI/ML OSS Automation Engineer — Remote Spain","company":"Future Connections","locationGuess":"Spain Remote"},
+    {"url":"https://es.jooble.org/rjdp/3503638088717146118","title":"Senior Architect (Remote)","company":"ServiceNow","locationGuess":"Madrid"},
+    {"url":"https://es.jooble.org/jdp/2378775690767150288","title":"Multi-cloud Architect","company":"ALDIA","locationGuess":"Madrid"},
+    {"url":"https://es.jooble.org/jdp/3286285268663536164","title":"Senior AI Engineer","company":"TalentHackers","locationGuess":"Madrid"},
+    {"url":"https://es.jooble.org/jdp/-3059822854429373792","title":"Software Engineer, AI Systems","company":"idealista","locationGuess":"Madrid"},
+    {"url":"https://es.jooble.org/jdp/-2766597582088415774","title":"Lead Software Architect","company":"ADEREN","locationGuess":"Madrid"},
+    {"url":"https://es.jooble.org/jdp/-3792179031696854191","title":"AWS Cloud Architect","company":"NTT DATA Europe & Latam","locationGuess":"Madrid"}
+  ]},
+  {"name":"EU Data Jobs — AI/ML Europe","results":[]},
+  {"name":"HN Who's Hiring — Remote AI","results":[
+    {"url":"https://news.ycombinator.com/item?id=47292427","title":"CiceroAI | Founding Forward Deployed Engineer","company":"CiceroAI","locationGuess":"Houston TX / Remote"},
+    {"url":"https://news.ycombinator.com/item?id=46861176","title":"VLM Run | Infrastructure Engineer + DevRel + AI/ML Engineer","company":"VLM Run","locationGuess":"verify in JD"},
+    {"url":"https://news.ycombinator.com/item?id=45802155","title":"YourTechResume — Founding Engineer Remote (Global)","company":"YourTechResume","locationGuess":"Global Remote"}
+  ]},
+  {"name":"Small-ATS — BreezyHR","results":[
+    {"url":"https://continued.breezy.hr/p/84c16df98c29-ai-engineer-remote","title":"AI Engineer (Remote)","company":"Continued","locationGuess":"Remote"},
+    {"url":"https://gesture-us-inc.breezy.hr/p/4dcb9ce1bdf8-senior-ai-ml-engineer","title":"Senior AI/ML Engineer","company":"Gesture","locationGuess":"NYC Hybrid/Remote"},
+    {"url":"https://doneverse.breezy.hr/p/df7d2172d27f-ai-automation-specialist","title":"AI Automation Specialist","company":"Doneverse","locationGuess":"Philippines Remote"},
+    {"url":"https://weassist-io.breezy.hr/p/b566c6f24fd7-internal-ai-engineer","title":"Internal - AI Engineer","company":"WeAssist.io","locationGuess":"Remote"},
+    {"url":"https://mechanizedai.breezy.hr/p/fc1f8df0068b-machine-learning-engineer","title":"Machine Learning Engineer","company":"Mechanized AI","locationGuess":"Remote"},
+    {"url":"https://uvation.breezy.hr/p/d23502414dbb-ai-ml-engineer","title":"AI/ML Engineer","company":"Uvation","locationGuess":"Remote"},
+    {"url":"https://mechanizedai.breezy.hr/p/6bcfb99640f0-machine-learning-engineer","title":"Machine Learning Engineer","company":"Mechanized AI","locationGuess":"Remote"},
+    {"url":"https://mechanizedai.breezy.hr/p/7b63cde92e37-ai-engineer","title":"GenAI Engineer","company":"Mechanized AI","locationGuess":"Remote"},
+    {"url":"https://nexthire.breezy.hr/p/a4abb777afb6-awign-expert-ai-engineer","title":"Awign expert-AI Engineer","company":"Nexthire","locationGuess":"verify in JD"}
+  ]},
+  {"name":"Small-ATS — TeamTailor","results":[
+    {"url":"https://elsa.teamtailor.com/jobs/7340954-ai-engineer-remote","title":"AI Engineer (Remote)","company":"ELSA","locationGuess":"Remote"},
+    {"url":"https://elsa.teamtailor.com/jobs/7340969-machine-learning-speech-engineer-remote","title":"Machine Learning / Speech Engineer (Remote)","company":"ELSA","locationGuess":"Lisbon or Remote"},
+    {"url":"https://remoteworld.teamtailor.com/jobs/7629545-machine-learning-engineer","title":"Machine Learning Engineer","company":"Remote World","locationGuess":"UK"},
+    {"url":"https://tooploox.teamtailor.com/jobs/6973373-ai-engineer","title":"AI Engineer","company":"Tooploox","locationGuess":"Warsaw/Wroclaw Poland Remote"},
+    {"url":"https://tooploox.teamtailor.com/jobs/7213707-lead-ai-engineer","title":"Lead AI Engineer","company":"Tooploox","locationGuess":"Warsaw/Wroclaw Poland Remote"},
+    {"url":"https://goodgamestudios.teamtailor.com/jobs/7796165-working-student-ai-balancing-machine-learning-engineer","title":"Working Student AI Balancing / Machine Learning Engineer","company":"Goodgame Studios","locationGuess":"verify in JD"},
+    {"url":"https://hiire.teamtailor.com/jobs/7783492-senior-machine-learning-engineer","title":"Senior Machine Learning Engineer","company":"Hiire","locationGuess":"Estonia/Cyprus Remote"},
+    {"url":"https://siili.teamtailor.com/jobs/7361816-senior-ai-engineer","title":"Senior AI Engineer","company":"Siili Solutions","locationGuess":"verify in JD"},
+    {"url":"https://niryu.teamtailor.com/jobs/7470060-ai-ml-senior-applied-scientist-inbound-team","title":"AI/ML - Senior Applied Scientist - Inbound Team","company":"Nir Yu","locationGuess":"verify in JD"},
+    {"url":"https://tooploox.teamtailor.com/jobs/3610588-machine-learning-engineer-llm","title":"Machine Learning Engineer (LLM)","company":"Tooploox","locationGuess":"Warsaw/Wroclaw Poland Remote"}
+  ]},
+  {"name":"Small-ATS — Recruitee","results":[
+    {"url":"https://litit.recruitee.com/o/machine-learning-engineer-ai-engineer-aws-cloud-focus","title":"Machine Learning Engineer / AI Engineer (AWS Cloud Focus)","company":"LITIT","locationGuess":"Remote"},
+    {"url":"https://innodatainc.recruitee.com/o/aiml-research-engineer-llm-post-training-evaluation","title":"AI/ML Research Engineer, LLM Post-Training & Evaluation","company":"Innodata Inc","locationGuess":"Remote"},
+    {"url":"https://addepto.recruitee.com/o/ai-engineer","title":"AI Engineer","company":"Addepto","locationGuess":"Remote Poland"},
+    {"url":"https://tether.recruitee.com/o/head-of-ai-research-development-100-remote","title":"Head of AI Research & Development (100% remote)","company":"Tether","locationGuess":"Remote Global"},
+    {"url":"https://tether.recruitee.com/o/head-of-ai-research-development-100-remote-us","title":"Head of AI Research & Development (100% remote - US)","company":"Tether","locationGuess":"Remote US"},
+    {"url":"https://nextaillabs.recruitee.com/o/machine-learning-engineer","title":"Machine Learning Engineer","company":"Nextail","locationGuess":"Remote"},
+    {"url":"https://innodatainc.recruitee.com/o/solution-engineer-aiml-software-data-engineering","title":"Solution Engineer (AI/ML + Software + Data Engineering)","company":"Innodata Inc","locationGuess":"Remote US"},
+    {"url":"https://tether.recruitee.com/o/ai-inference-engineer-edge-100-remote-ireland","title":"AI Inference Engineer (Edge) (100% Remote - Ireland)","company":"Tether","locationGuess":"Ireland Remote"},
+    {"url":"https://victorysquarepartners1.recruitee.com/o/senior-ai-engineer","title":"Senior AI Engineer","company":"Victory Square Partners","locationGuess":"verify in JD"},
+    {"url":"https://deepsea.recruitee.com/o/senior-ai-engineer","title":"Senior AI Engineer","company":"DeepSea Technologies","locationGuess":"Athens Greece Hybrid"}
+  ]},
+  {"name":"Small-ATS — Personio","results":[
+    {"url":"https://super-ai.jobs.personio.com/job/1592103?language=en","title":"Machine Learning Engineer","company":"super.AI","locationGuess":"verify in JD"},
+    {"url":"https://www.personio.com/careers/e556b837-2956-456e-9021-fcf889b5c244/","title":"ML Engineer - with Data Science Background (d/f/m)","company":"Personio","locationGuess":"Munich"},
+    {"url":"https://keyless-technologies.jobs.personio.com/job/2051489?language=en","title":"Machine Learning Engineer","company":"Keyless Technologies","locationGuess":"verify in JD"},
+    {"url":"https://govradar.jobs.personio.com/job/2588587","title":"Senior AI Engineer (m/w/d)","company":"GovRadar","locationGuess":"EU Remote"}
+  ]},
+  {"name":"Small-ATS — JazzHR + SmartRecruiters + Paylocity","results":[
+    {"url":"https://jobs.smartrecruiters.com/LinkedIn3/744000105031495-senior-specialist-ai-engineer-foundations","title":"Senior Specialist AI Engineer - Foundations","company":"LinkedIn","locationGuess":"Sunnyvale CA"},
+    {"url":"https://jobs.smartrecruiters.com/AmpleInsightInc/744000108912530-ml-engineer-generative-ai-llms-remote-","title":"ML Engineer – Generative AI & LLMs (Remote)","company":"Ample Insight","locationGuess":"Toronto/Remote"},
+    {"url":"https://jobs.smartrecruiters.com/Cinarra/744000109084826-ai-ml-engineer","title":"AI/ML Engineer","company":"Cinarra","locationGuess":"San Jose CA"},
+    {"url":"https://jobs.smartrecruiters.com/TurnitinLLC/744000111110355-senior-machine-learning-scientist-usa-remote-","title":"Senior Machine Learning Scientist (USA Remote)","company":"Turnitin","locationGuess":"Dallas TX Remote"},
+    {"url":"https://jobs.smartrecruiters.com/M3USA/744000114731437-ai-engineer-remote-","title":"AI Engineer (Remote)","company":"M3USA","locationGuess":"Fort Washington PA"},
+    {"url":"https://jobs.smartrecruiters.com/Experian/744000093520975-machine-learning-engineer-mlops-engineer-remote-","title":"Machine Learning Engineer, MLOps Engineer (Remote)","company":"Experian","locationGuess":"Remote US"},
+    {"url":"https://jobs.smartrecruiters.com/smartrecruiters/744000122730844-senior-software-engineer-python","title":"Senior Software Engineer, Python","company":"SmartRecruiters","locationGuess":"Germany Remote"},
+    {"url":"https://jobs.smartrecruiters.com/smartrecruiters/744000114676588-senior-ai-engineer","title":"Senior AI Engineer","company":"SmartRecruiters","locationGuess":"Germany Remote"},
+    {"url":"https://jobs.smartrecruiters.com/smartrecruiters/744000127586979-senior-software-engineer-python","title":"Senior Software Engineer, Python","company":"SmartRecruiters","locationGuess":"Poland Remote"},
+    {"url":"https://recruiting.paylocity.com/recruiting/jobs/Details/3594197/Dominion-Digital-Inc/AIML-Solution-Engineer","title":"AI/ML Solution Engineer","company":"Dominion Digital","locationGuess":"verify in JD"}
+  ]},
+  {"name":"Small-ATS — Rippling + Gusto","results":[
+    {"url":"https://ats.rippling.com/pythian/jobs/55d2ae75-5f89-4d59-bcf5-9a8797dc2f99","title":"Senior AI / ML Engineer","company":"Pythian","locationGuess":"Remote"},
+    {"url":"https://ats.rippling.com/en-CA/opendoor/jobs/f572e889-0644-4590-8a5a-64f73d7db17d","title":"Operations AI Engineer","company":"Opendoor","locationGuess":"verify in JD"},
+    {"url":"https://ats.rippling.com/en-US/legalontech/jobs/9e197c4e-8899-4cb1-ab96-802c01eae112","title":"Senior Agentic AI Engineer","company":"LegalOn Technologies","locationGuess":"Remote"},
+    {"url":"https://ats.rippling.com/shippo/jobs/ab551f0a-3fba-4548-9217-7525fa67345d","title":"Principal Machine Learning Engineer, ML Platform","company":"Shippo","locationGuess":"Remote Global"},
+    {"url":"https://ats.rippling.com/flatiron-school/jobs/11004cef-772e-4b13-8fe5-579d9e1e7d7b","title":"Software Engineering Apprentice – Accelerated Program","company":"Flatiron School","locationGuess":"Remote US"},
+    {"url":"https://ats.rippling.com/createmusicgroup/jobs/bff6ef7c-cf38-4738-a8b0-759ecbfff45f","title":"Machine Learning Engineer","company":"Create Music Group","locationGuess":"Remote"},
+    {"url":"https://ats.rippling.com/agilitypr/jobs/fc443495-2b9c-468a-b0d9-d3742f30d6fa","title":"AI Software Engineer","company":"Agility PR Solutions","locationGuess":"Remote Global"},
+    {"url":"https://ats.rippling.com/flatiron-school/jobs/423ab1a3-b016-4a74-9b7b-aeef41bda93b","title":"Accelerated Software Engineer Apprenticeship","company":"Flatiron School","locationGuess":"Remote US"},
+    {"url":"https://ats.rippling.com/ai-stealth-startup/jobs/44f2aed9-1145-4a61-8c3c-ddc722e64895","title":"Forward Deployed Data Scientist","company":"Make AI Great Again","locationGuess":"verify in JD"},
+    {"url":"https://ats.rippling.com/flatiron-school/jobs/0796406a-e81f-4ec4-966e-da12eb6667c9","title":"AI Engineer Accelerated Apprenticeship Program","company":"Flatiron School","locationGuess":"Remote US"}
+  ]},
+  {"name":"Non-standard titles — Custom domains","results":[
+    {"url":"https://www.builtinnyc.com/job/ai-implementation-specialist-contech-remote/9187758","title":"AI Implementation Specialist (Contech) - Remote","company":"Human Agency","locationGuess":"Remote NYC"}
+  ]},
+  {"name":"Non-standard titles — Automation + Specialist","results":[]},
+  {"name":"Aggregators — Himalayas + Remotive + BuiltIn","results":[
+    {"url":"https://remotive.com/remote/jobs/ai-ml/ai-engineer-4431185","title":"AI Engineer","company":"Million Dollar Sellers","locationGuess":"Remote"},
+    {"url":"https://remotive.com/remote/jobs/ai-ml/ai-engineer-4429700","title":"AI Engineer","company":"Continued","locationGuess":"Remote"},
+    {"url":"https://himalayas.app/companies/inv/jobs/ai-ml-engineer-specialist","title":"AI/ML Engineer Specialist","company":"Invisible Technologies","locationGuess":"Remote"},
+    {"url":"https://remotive.com/remote/jobs/ai-ml/ai-automation-specialist-engineer-4422143","title":"AI Automation Specialist/Engineer","company":"Activate Talent","locationGuess":"Remote"},
+    {"url":"https://himalayas.app/companies/greenlight-financial-technology/jobs/ai-ml-engineer","title":"AI/ML Engineer","company":"Greenlight Financial Technology","locationGuess":"Remote"}
+  ]},
+  {"name":"Aggregators — YC + WeWorkRemotely + AngelList","results":[
+    {"url":"https://wellfound.com/jobs/3314382-ai-automation-engineer-remote","title":"AI Automation Engineer (Remote)","company":"Quora","locationGuess":"Remote US"},
+    {"url":"https://weworkremotely.com/remote-jobs/secure-privacy-qa-engineer-ai-automation-intelligent-testing","title":"QA Engineer - AI Automation Intelligent Testing","company":"Secure Privacy","locationGuess":"Remote"},
+    {"url":"https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer","title":"Applied AI Engineer","company":"Growth Factory Ventures","locationGuess":"Remote"},
+    {"url":"https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train","title":"FT/PT Remote AI Prompt Engineering & Evaluation","company":"DataAnnotation.tech","locationGuess":"Remote"},
+    {"url":"https://www.workatastartup.com/jobs/64767","title":"Founding AI/Data Engineer (Remote)","company":"Glass Health","locationGuess":"Remote"},
+    {"url":"https://weworkremotely.com/remote-jobs/glidely-founding-engineer","title":"Founding Engineer","company":"Glidely","locationGuess":"Remote"}
+  ]},
+  {"name":"Industry-vertical AI — Marketing + Healthcare + Legal","results":[]},
+  {"name":"Solopreneur / coaching / agency AI roles","results":[]}
+]
