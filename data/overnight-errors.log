@@ -1074,3 +1074,6 @@ Processed 4 URLs (US:2 + Intl:2), generated 2 PDFs, archived 2 low-score, pushed
 
 Pipeline ended clean: 0 errors / 0 warnings. Both Pendientes sections empty after Procesadas move + low-score cleanup. Discarded.tsv received the 2 audit rows for #1032 and #1035.
 Processed 6 URLs (US:4 + Intl:2), generated 2 PDFs, archived 4 low-score, pushed 68a8097.
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed 80538e8.
+
+Both `scan.mjs` passes returned 0 new offers — current state of `tracked_companies` API results is fully dedup'd against history. Level 3 WebSearch ran four broad queries (Greenhouse/Ashby/YC + EU); the only candidate not already in history (Hebbia FDE NYC/SF) returned HTTP 404 → marked `dead` in scan-history. Pendientes was empty in both `data/pipeline.md` and `data/intl/pipeline.md`, so no pipeline batch this pass. Merge/verify clean (0 errors / 0 warnings); cleanup scripts no-ops.
