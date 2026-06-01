@@ -1092,3 +1092,11 @@ Processed 6 URLs (US:2 + Intl:4), generated 3 PDFs, archived 3 low-score, pushed
 
 L1/L2 API scans returned 0 new offers; L3 WebSearch surfaced thin pickings — most candidates were already in scan-history (processed/dead/filtered). The two top hits were Exa (explicit OPT/H1B sponsorship signal) and PostHog (transparent comp + handbook + handcrafted JD).
 Processed 10 URLs (US:0 + Intl:2 kept; 1 swept below threshold; 7 marked dead/filtered), generated 2 PDFs, archived 1 low-score, pushed 2f65b7a.
+Processed 2 URLs (US:0 + Intl:2), generated 2 PDFs, archived 0 low-score, pushed 7074631.
+
+Run summary:
+- **Scan**: L1/L2 added 2 EU roles to US pipeline (re-routed Paris to Intl, filtered SumUp Customer Support Agent); Intl L1/L2 added Pigment London. L3 WebSearch ran 4 queries; one fresh URL (Wonderschool) filtered as a talent-pool posting.
+- **Pipeline**: evaluated #1064 Pigment AI Deployment Strategist (London) 3.4/5 and #1065 Pigment AI Deployment Strategist (Paris) 3.5/5 — both Intl, both PDFs (2-page A4, Times New Roman, plain black).
+- **Merge + verify**: 454 entries, 0 errors / 0 warnings.
+- **Cleanup**: 0 low-score deletes; bang-rows swept 1 US filter + 1 Intl empty subsection.
+- **Push**: `7074631` on `origin/main`.
