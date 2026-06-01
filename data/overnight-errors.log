@@ -1091,3 +1091,4 @@ Processed 6 URLs (US:2 + Intl:4), generated 3 PDFs, archived 3 low-score, pushed
 | 1046 | Sezzle | AI Engineer II (LATAM only) | Intl | 1.8 SKIP | ❌ (deleted) |
 
 L1/L2 API scans returned 0 new offers; L3 WebSearch surfaced thin pickings — most candidates were already in scan-history (processed/dead/filtered). The two top hits were Exa (explicit OPT/H1B sponsorship signal) and PostHog (transparent comp + handbook + handcrafted JD).
+Processed 10 URLs (US:0 + Intl:2 kept; 1 swept below threshold; 7 marked dead/filtered), generated 2 PDFs, archived 1 low-score, pushed 2f65b7a.
