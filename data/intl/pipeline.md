@@ -15,7 +15,6 @@
 ## Pending
 
 ### 2026-05-31
-- [ ] https://www.workatastartup.com/jobs/79489 | Saturn | Founding AI Engineer - London | London
 - [!] https://jobs.lever.co/jobgether/31c0357c-c8b1-4a38-9338-03a74da9c5aa | filtered: requires 6+ years (Senior)
 - [!] https://www.fwddeploy.com/jobs/forward-deployed-engineer-fde-emea-ecac6392 | filtered: company unknown ("Unknown FDE EMEA"), no JD detail
 

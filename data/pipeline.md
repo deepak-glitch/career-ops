@@ -8,15 +8,6 @@
 ## Pending
 
 ### 2026-05-31
-- [ ] https://jobs.ashbyhq.com/agent/e36e9f74-0c4e-47a0-b324-d44bd598307b | Agent | AI Engineer | LATAM
-- [ ] https://euremotejobs.com/job/forward-deployed-engineer-2/ | Kota | Forward Deployed Engineer | EMEA
-- [ ] https://euremotejobs.com/job/back-end-engineer-forward-deployed/ | Deel | Back-End Engineer - Forward Deployed | EMEA
-- [ ] https://www.fwddeploy.com/jobs/forward-deployed-engineer-60-75k-at-authsignal-ltd-380a4698 | Authsignal Ltd | Forward Deployed Engineer | UK Remote
-- [ ] https://www.workatastartup.com/jobs/79731 | Lucis | Founding AI engineer | Europe
-- [ ] https://himalayas.app/companies/data-intellect/jobs/forward-deployed-engineers-ai-12-week-contract-immediate | Data Intellect | Forward Deployed Engineers (AI). 12 week contract | verify in JD
-- [ ] https://es.jooble.org/jdp/-3274424308418785071 | Future Connections | Autonomous AI/ML OSS Automation Engineer — Remote Spain | Spain Remote
-- [ ] https://es.jooble.org/jdp/-3059822854429373792 | idealista | Software Engineer, AI Systems | Madrid
-- [ ] https://www.personio.com/careers/e556b837-2956-456e-9021-fcf889b5c244/ | Personio | ML Engineer - with Data Science Background (d/f/m) | Munich
 - [!] https://jobs.ashbyhq.com/atlas/dae00fcb-35a5-4559-8114-7553138b3ea3 | filtered: requires 5+ years (Senior)
 - [!] https://goodgamestudios.teamtailor.com/jobs/7796165-working-student-ai-balancing-machine-learning-engineer | filtered: Working Student not archetype match (per modes/_profile.md filter)
 - [!] https://ats.rippling.com/flatiron-school/jobs/0796406a-e81f-4ec4-966e-da12eb6667c9 | error: specific posting not found in Rippling listing page
@@ -24,6 +15,8 @@
 ## Processed
 
 ### 2026-06-01
+- [x] #1062 | https://es.jooble.org/jdp/-3059822854429373792 | idealista | Software Engineer, AI Systems | Madrid, Spain (fully remote) | 3.3/5 | PDF ✅
+- [x] #1063 | https://www.personio.com/careers/e556b837-2956-456e-9021-fcf889b5c244/ | Personio | ML Engineer - with Data Science Background | Munich, Germany (hybrid) | 3.1/5 | PDF ✅
 - [x] #1054 | https://news.ycombinator.com/item?id=47292427 | CiceroAI | Founding Forward Deployed Engineer | Houston TX / Remote or Onsite | 3.2/5 | PDF ✅
 - [x] #1055 | https://news.ycombinator.com/item?id=46861176 | VLM Run | AI/ML Engineer | Santa Clara, CA — Onsite | 3.3/5 | PDF ✅
 - [x] #1056 | https://recruiting.paylocity.com/recruiting/jobs/Details/3594197/Dominion-Digital-Inc/AIML-Solution-Engineer | Dominion Digital | AI/ML Solution Engineer | Fully Remote — US | 3.2/5 | PDF ✅
