@@ -17,11 +17,12 @@
 ### 2026-05-31
 - [!] https://jobs.lever.co/jobgether/31c0357c-c8b1-4a38-9338-03a74da9c5aa | filtered: requires 6+ years (Senior)
 - [!] https://www.fwddeploy.com/jobs/forward-deployed-engineer-fde-emea-ecac6392 | filtered: company unknown ("Unknown FDE EMEA"), no JD detail
-
 ## Processed
 
 ### 2026-06-01
 - [x] #1060 | https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4280686 | Salesforce | Forward Deployed Engineer (Japan) | Japan (Remote) + 25-50% travel | 3.0/5 | PDF ✅
+- [x] #1064 | https://jobs.lever.co/pigment/6cbc9f93-5034-4838-84b0-13fbcd742163 | Pigment | AI Deployment Strategist (London) | London, UK - Hybrid | 3.4/5 | PDF ✅
+- [x] #1065 | https://jobs.lever.co/pigment/a1be33de-4f92-4a74-9ea2-30965b384666 | Pigment | AI Deployment Strategist (Paris) | Paris, France - Hybrid HQ | 3.5/5 | PDF ✅
 
 ### 2026-05-31
 - [x] #1053 | https://tooploox.teamtailor.com/jobs/6973373-ai-engineer | Tooploox | AI Engineer (AI Agents focus) | Warsaw/Wrocław or Remote-Poland | 3.3/5 | PDF ✅

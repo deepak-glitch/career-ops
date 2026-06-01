@@ -12,6 +12,11 @@
 - [!] https://goodgamestudios.teamtailor.com/jobs/7796165-working-student-ai-balancing-machine-learning-engineer | filtered: Working Student not archetype match (per modes/_profile.md filter)
 - [!] https://ats.rippling.com/flatiron-school/jobs/0796406a-e81f-4ec4-966e-da12eb6667c9 | error: specific posting not found in Rippling listing page
 
+### 2026-06-01
+
+- [!] https://jobs.lever.co/pigment/a1be33de-4f92-4a74-9ea2-30965b384666 | re-routed to intl pipeline (Paris, non-US)
+- [!] https://job-boards.greenhouse.io/wonderschool/jobs/7626995003 | filtered: talent pool / future opportunities posting (not an active role per JD page)
+
 ## Processed
 
 ### 2026-06-01
