@@ -1,11 +1,12 @@
 #!/usr/bin/env node
 // cleanup-bang-rows.mjs
 // One-shot + idempotent cleanup of `- [!]` rows that have accumulated in
-// `data/pipeline.md` and `data/intl/pipeline.md` Pendientes sections.
+// `data/pipeline.md` and `data/intl/pipeline.md` Pending sections.
 //
 // Three categories:
-//   1. FALSE error  — row says "moved to Procesadas (#NNN)" and that report
-//                     exists on disk. The Pendientes row is bookkeeping cruft;
+//   1. FALSE error  — row says "moved to Processed (#NNN)" (or legacy
+//                     "moved to Procesadas (#NNN)") and that report exists
+//                     on disk. The Pending row is bookkeeping cruft;
 //                     drop it and mark URL in scan-history with status=processed.
 //   2. DEAD URL     — 404 / closed / "no longer accepting" / expired / archived.
 //                     Drop row, mark scan-history status=dead.
@@ -25,7 +26,8 @@ const PIPELINES = [
   { pipelinePath: 'data/intl/pipeline.md', historyPath: 'data/intl/scan-history.tsv', track: 'Intl' },
 ];
 
-const PROCESADAS_RE = /moved to Procesadas \(#(\d+)\)/i;
+// Match both English (new) and Spanish (legacy) breadcrumbs.
+const PROCESADAS_RE = /moved to (?:Processed|Procesadas) \(#(\d+)\)/i;
 const DUPLICATE_RE = /(?:duplicate of #\d+|already evaluated|not re-evaluated|routed to Intl track \(#\d+\)|routed to US track \(#\d+\)|re-eval \d{4}-\d{2}-\d{2})/i;
 const DEAD_RE = /(?:closed|expired|no longer accepting|CLOSED\/MISSING|archived|removed|page no longer|posting closed|page returns unrelated|GraphQL returned CLOSED|\b404\b|\b410\b|page renamed)/i;
 const FILTER_RE = /(?:filter slip|senior gate|on-site only|hard blocker|pre-sales|Solutions Engineer|Customer Support|mis-routed|US Person|negative list|new-grad bar|Romania|Tel Aviv|Spain location|Israel|Switzerland|Australia|Brazil location|Mexico location|UK location|rerouted|F-1 OPT|aggregator|not a hireable role|skipped: |not a paid job|seniority filter|unpaid 8-week)/i;
@@ -130,7 +132,8 @@ function cleanup(pipelineCfg, today, reportsDir) {
   if (!fs.existsSync(pipelineFile)) return null;
 
   const raw = fs.readFileSync(pipelineFile, 'utf8');
-  const headerMatch = raw.match(/^## Pendientes\b.*$/m);
+  // Accept both English (new) and Spanish (legacy) header forms.
+  const headerMatch = raw.match(/^## (?:Pending|Pendientes)\b.*$/m);
   if (!headerMatch) return null;
   const headerStart = raw.indexOf(headerMatch[0]);
   const blockStart = headerStart + headerMatch[0].length;
@@ -222,7 +225,7 @@ const out = [
 ];
 for (const r of results) {
   out.push(`## ${r.track} pipeline`);
-  out.push(`- Deleted (already in Procesadas):  ${r.audit.done.length}  (report-already-removed by cleanup-low-scores: ${r.audit.doneReportMissing.length})`);
+  out.push(`- Deleted (already in Processed):  ${r.audit.done.length}  (report-already-removed by cleanup-low-scores: ${r.audit.doneReportMissing.length})`);
   out.push(`- Deleted (duplicate/rerouted):     ${r.audit.duplicate.length}`);
   out.push(`- Deleted (dead URL):               ${r.audit.dead.length}`);
   out.push(`- Deleted (filter slip):            ${r.audit.filter.length}`);
@@ -237,7 +240,7 @@ for (const r of results) {
     out.push('');
   }
   if (r.audit.doneReportMissing.length) {
-    out.push(`### ${r.track} — Deleted (Procesadas; report file already removed by cleanup-low-scores)`);
+    out.push(`### ${r.track} — Deleted (Processed; report file already removed by cleanup-low-scores)`);
     for (const u of r.audit.doneReportMissing) out.push(`- #${u.num}: ${u.url}`);
     out.push('');
   }

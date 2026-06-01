@@ -1,8 +1,9 @@
 #!/usr/bin/env node
-// Sort the date sections within both Pendientes and Procesadas of a pipeline file.
+// Sort the date sections within both Pending and Processed of a pipeline file.
 // Default order: newest → oldest (latest date on top).
 // Pass `--asc` for oldest → newest.
 // Usage: node scripts/sort-procesadas.mjs [path/to/pipeline.md] [--asc]
+// (Filename kept for backward compat — see scripts/sort-pipeline.mjs alias.)
 
 import { readFileSync, writeFileSync } from 'fs';
 
@@ -13,17 +14,17 @@ const path = args.find(a => !a.startsWith('--')) || 'data/pipeline.md';
 const text = readFileSync(path, 'utf-8');
 const lines = text.split('\n');
 
-// Locate ## Pendientes and ## Procesadas section bounds
-const pendStart = lines.findIndex(l => /^## Pendientes\b/.test(l));
-const procStart = lines.findIndex(l => /^## Procesadas\b/.test(l));
+// Locate ## Pending and ## Processed section bounds (accept legacy Spanish forms).
+const pendStart = lines.findIndex(l => /^## (?:Pending|Pendientes)\b/.test(l));
+const procStart = lines.findIndex(l => /^## (?:Processed|Procesadas)\b/.test(l));
 
 if (pendStart === -1 && procStart === -1) {
-  console.error(`No "## Pendientes" or "## Procesadas" in ${path}`);
+  console.error(`No "## Pending"/"## Pendientes" or "## Processed"/"## Procesadas" in ${path}`);
   process.exit(1);
 }
 
 function sortSection(start, end) {
-  // start..end is [inclusive, exclusive); start points at "## Pendientes"/"## Procesadas" line
+  // start..end is [inclusive, exclusive); start points at "## Pending"/"## Processed" line
   // Find first ### YYYY-MM-DD line inside the section; everything before it is the section header.
   const sec = lines.slice(start, end);
   const firstDate = sec.findIndex(l => /^### \d{4}-\d{2}-\d{2}/.test(l));
@@ -91,9 +92,9 @@ const order = ascending ? 'oldest → newest' : 'newest → oldest';
 console.log(`Sorted ${path} (${order})`);
 if (pendStart !== -1) {
   const pendDates = pendBlock.filter(l => /^### \d{4}-\d{2}-\d{2}/.test(l)).length;
-  console.log(`  Pendientes: ${pendDates} date sections`);
+  console.log(`  Pending: ${pendDates} date sections`);
 }
 if (procStart !== -1) {
   const procDates = procBlock.filter(l => /^### \d{4}-\d{2}-\d{2}/.test(l)).length;
-  console.log(`  Procesadas: ${procDates} date sections`);
+  console.log(`  Processed: ${procDates} date sections`);
 }

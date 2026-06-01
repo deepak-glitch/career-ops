@@ -1,9 +1,9 @@
 # Pipeline — Pending Job URLs (Intl track)
 
 <!-- Format: entries are grouped by discovery date as `### YYYY-MM-DD`
-     subsections under both Pendientes and Procesadas. New scans append
+     subsections under both Pending and Processed. New scans append
      under today's date; if today's section doesn't exist, scan.mjs
-     creates it at the end of Pendientes.
+     creates it at the end of Pending.
 
      This file holds the **intl (non-US) track**. The sibling
      `data/pipeline.md` holds the **US track**. Same format, same rules,
@@ -12,7 +12,7 @@
      Both tracks dedup against each other plus against
      `data/applications.md` (the unified application tracker). -->
 
-## Pendientes
+## Pending
 
 ### 2026-05-31
 - [ ] https://job-boards.greenhouse.io/builtin/jobs/7855050 | Built In | Applied AI Engineer (Agentic Systems & Reputation Intelligence) - India | India Remote
@@ -26,7 +26,7 @@
 - [ ] https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/ai-solution-architect-spain_madrid | Mistral AI | AI Deployment Strategist - Spain | Madrid Spain
 - [!] https://jobs.lever.co/jobgether/31c0357c-c8b1-4a38-9338-03a74da9c5aa | filtered: requires 6+ years (Senior)
 
-## Procesadas
+## Processed
 
 ### 2026-05-31
 - [x] #1053 | https://tooploox.teamtailor.com/jobs/6973373-ai-engineer | Tooploox | AI Engineer (AI Agents focus) | Warsaw/Wrocław or Remote-Poland | 3.3/5 | PDF ✅

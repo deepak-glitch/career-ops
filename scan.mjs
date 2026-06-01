@@ -235,19 +235,25 @@ function appendToPipeline(offers) {
   const dateHeader = `### ${today}`;
   const lines = offers.map(o => `- [ ] ${o.url} | ${o.company} | ${o.title} | ${o.location || 'N/A'}`).join('\n');
 
-  // Locate Pendientes section bounds
-  const pendMarker = '## Pendientes';
-  const procMarker = '## Procesadas';
-  const pendIdx = text.indexOf(pendMarker);
-  const procIdx = text.indexOf(procMarker);
+  // Locate Pending / Processed section bounds. Accept legacy Spanish
+  // headers (Pendientes/Procesadas) so the swap is non-atomic-safe; always
+  // write the English form when creating new headers.
+  const findHeader = (englishHdr, spanishHdr) => {
+    const en = text.indexOf(englishHdr);
+    if (en !== -1) return en;
+    const es = text.indexOf(spanishHdr);
+    return es;
+  };
+  const pendIdx = findHeader('## Pending', '## Pendientes');
+  const procIdx = findHeader('## Processed', '## Procesadas');
 
   if (pendIdx === -1) {
-    // No Pendientes section — create one before Procesadas (or at end)
+    // No Pending section — create one before Processed (or at end)
     const insertAt = procIdx === -1 ? text.length : procIdx;
-    const block = `## Pendientes\n\n${dateHeader}\n\n${lines}\n\n`;
+    const block = `## Pending\n\n${dateHeader}\n\n${lines}\n\n`;
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   } else {
-    // Pendientes exists — find today's date subsection or create it at end of Pendientes
+    // Pending exists — find today's date subsection or create it at end of Pending
     const pendEnd = procIdx === -1 ? text.length : procIdx;
     const pendSection = text.slice(pendIdx, pendEnd);
     const dateInPend = pendSection.indexOf(dateHeader);
@@ -256,7 +262,7 @@ function appendToPipeline(offers) {
       // Today's section exists — append after the last entry of that subsection
       const headerAbsIdx = pendIdx + dateInPend;
       const afterHeader = headerAbsIdx + dateHeader.length;
-      // Find next ### or ## marker, or end of Pendientes
+      // Find next ### or ## marker, or end of Pending
       const restOfPend = text.slice(afterHeader, pendEnd);
       const nextSubIdx = restOfPend.search(/\n###\s|\n##\s/);
       const insertAt = nextSubIdx === -1 ? pendEnd : afterHeader + nextSubIdx;
@@ -266,9 +272,9 @@ function appendToPipeline(offers) {
       const block = `\n${lines}\n`;
       text = text.slice(0, endOfBlock) + block + text.slice(endOfBlock);
     } else {
-      // No today's section — create at end of Pendientes
+      // No today's section — create at end of Pending
       let insertAt = pendEnd;
-      // Trim trailing whitespace before Procesadas (or EOF)
+      // Trim trailing whitespace before Processed (or EOF)
       while (insertAt > 0 && /\s/.test(text[insertAt - 1])) insertAt--;
       const block = `\n\n${dateHeader}\n\n${lines}\n`;
       text = text.slice(0, insertAt) + block + (procIdx === -1 ? '' : '\n' + text.slice(insertAt).replace(/^\s*/, ''));

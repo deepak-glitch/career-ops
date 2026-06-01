@@ -1,11 +1,11 @@
 # Pipeline — Pending Job URLs
 
 <!-- Format: entries are grouped by discovery date as `### YYYY-MM-DD`
-     subsections under both Pendientes and Procesadas. New scans append
+     subsections under both Pending and Processed. New scans append
      under today's date; if today's section doesn't exist, scan.mjs
-     creates it at the end of Pendientes. -->
+     creates it at the end of Pending. -->
 
-## Pendientes
+## Pending
 
 ### 2026-05-31
 - [ ] https://jobs.ashbyhq.com/agent/e36e9f74-0c4e-47a0-b324-d44bd598307b | Agent | AI Engineer | LATAM
@@ -53,7 +53,7 @@
 - [ ] https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train | DataAnnotation.tech | FT/PT Remote AI Prompt Engineering & Evaluation | Remote
 - [!] https://jobs.ashbyhq.com/atlas/dae00fcb-35a5-4559-8114-7553138b3ea3 | filtered: requires 5+ years (Senior)
 
-## Procesadas
+## Processed
 
 ### 2026-05-31
 - [x] #1046 | https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5 | Glacis | Founding Software Engineer - Agentic AI (Remote) | Remote | 3.5/5 | PDF ✅
