@@ -12,18 +12,27 @@
 - [!] https://goodgamestudios.teamtailor.com/jobs/7796165-working-student-ai-balancing-machine-learning-engineer | filtered: Working Student not archetype match (per modes/_profile.md filter)
 - [!] https://ats.rippling.com/flatiron-school/jobs/0796406a-e81f-4ec4-966e-da12eb6667c9 | error: specific posting not found in Rippling listing page
 
+### 2026-06-01
+
+- [!] https://jobs.lever.co/pigment/a1be33de-4f92-4a74-9ea2-30965b384666 | re-routed to intl pipeline (Paris, non-US)
+- [!] https://job-boards.greenhouse.io/wonderschool/jobs/7626995003 | filtered: talent pool / future opportunities posting (not an active role per JD page)
+
 ### 2026-06-02
 
-- [ ] https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2 | Camunda | AI Process Forward Deployed Engineer | Remote — Global (US-eligible)
-- [!] https://sumup.com/careers/positions/8099530002?gh_jid=8099530002 | filtered: Agent Commercial Terrain (field sales, not archetype)
-- [!] https://sumup.com/careers/positions/8511537002?gh_jid=8511537002 | filtered: Agent Commercial Terrain (field sales, not archetype)
-- [!] https://sumup.com/careers/positions/8013031002?gh_jid=8013031002 | filtered: Agent Commercial Terrain (field sales, not archetype)
-- [!] https://sumup.com/careers/positions/8013034002?gh_jid=8013034002 | filtered: Agent Commercial Terrain (field sales, not archetype)
-- [!] https://sumup.com/careers/positions/8511538002?gh_jid=8511538002 | filtered: Agent Commercial Terrain (field sales, not archetype)
-- [!] https://sumup.com/careers/positions/8294821002?gh_jid=8294821002 | filtered: Agent Commercial Terrain (field sales, not archetype)
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7662803003?gh_jid=7662803003 | re-routed to intl pipeline (Madrid, non-US)
+- [!] https://sumup.com/careers/positions/8099530002?gh_jid=8099530002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- [!] https://sumup.com/careers/positions/8511537002?gh_jid=8511537002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- [!] https://sumup.com/careers/positions/8013031002?gh_jid=8013031002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- [!] https://sumup.com/careers/positions/8013034002?gh_jid=8013034002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- [!] https://sumup.com/careers/positions/8511538002?gh_jid=8511538002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- [!] https://sumup.com/careers/positions/8294821002?gh_jid=8294821002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
 - [!] https://sumup.com/careers/positions/8573120002?gh_jid=8573120002 | filtered: Customer Support Agent (not archetype)
 
+
 ## Processed
+
+### 2026-06-02
+- [x] #1066 | https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2 | Camunda | AI Process Forward Deployed Engineer | Fully Remote (Global) #LI-Remote #USEAST | 3.6/5 | PDF ✅
 
 ### 2026-06-01
 - [x] #1062 | https://es.jooble.org/jdp/-3059822854429373792 | idealista | Software Engineer, AI Systems | Madrid, Spain (fully remote) | 3.3/5 | PDF ✅

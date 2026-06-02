@@ -1,0 +1,38 @@
+# Pipeline cleanup audit log
+Run: 2026-06-02T14:21:47.247Z
+
+## US pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  12
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### US — Kept unmatched (manual review)
+- - [!] https://jobs.ashbyhq.com/atlas/dae00fcb-35a5-4559-8114-7553138b3ea3 | filtered: requires 5+ years (Senior)
+- - [!] https://goodgamestudios.teamtailor.com/jobs/7796165-working-student-ai-balancing-machine-learning-engineer | filtered: Working Student not archetype match (per modes/_profile.md filter)
+- - [!] https://ats.rippling.com/flatiron-school/jobs/0796406a-e81f-4ec4-966e-da12eb6667c9 | error: specific posting not found in Rippling listing page
+- - [!] https://jobs.lever.co/pigment/a1be33de-4f92-4a74-9ea2-30965b384666 | re-routed to intl pipeline (Paris, non-US)
+- - [!] https://job-boards.greenhouse.io/wonderschool/jobs/7626995003 | filtered: talent pool / future opportunities posting (not an active role per JD page)
+- - [!] https://job-boards.greenhouse.io/celonis/jobs/7662803003?gh_jid=7662803003 | re-routed to intl pipeline (Madrid, non-US)
+- - [!] https://sumup.com/careers/positions/8099530002?gh_jid=8099530002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- - [!] https://sumup.com/careers/positions/8511537002?gh_jid=8511537002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- - [!] https://sumup.com/careers/positions/8013031002?gh_jid=8013031002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- - [!] https://sumup.com/careers/positions/8013034002?gh_jid=8013034002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- - [!] https://sumup.com/careers/positions/8511538002?gh_jid=8511538002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- - [!] https://sumup.com/careers/positions/8294821002?gh_jid=8294821002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+
+## Intl pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  2
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### Intl — Kept unmatched (manual review)
+- - [!] https://jobs.lever.co/jobgether/31c0357c-c8b1-4a38-9338-03a74da9c5aa | filtered: requires 6+ years (Senior)
+- - [!] https://www.fwddeploy.com/jobs/forward-deployed-engineer-fde-emea-ecac6392 | filtered: company unknown ("Unknown FDE EMEA"), no JD detail
