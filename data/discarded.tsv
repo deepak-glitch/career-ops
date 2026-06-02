@@ -476,3 +476,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-05-31	1045		orphan	orphan	0/5		reports/1045-sezzle-ai-engineer-i-latam-2026-05-31.md	
 2026-05-31	1046		orphan	orphan	0/5		reports/1046-sezzle-ai-engineer-ii-latam-2026-05-31.md	
 2026-06-01	1064	2026-06-01	Data Intellect	Forward Deployed Engineers (AI) 12-week contract	2.6/5	Evaluated	reports/1064-data-intellect-fde-12wk-2026-06-01.md	[Intl] Toronto on-site 12-wk contract; F-1 OPT mismatch + short engagement = below 3.0.
+2026-06-02	1066	2026-06-02	Wayve	Partner Integration Engineer, AI Portal (Tokyo)	2.4/5	Evaluated	reports/1066-wayve-partner-integration-tokyo-2026-06-02.md	[Intl] Tokyo Japan; Japanese fluency non-negotiable + F-1 OPT → Japan visa = SKIP
+2026-06-02	1067	2026-06-02	Celonis	Associate Applied AI Engineer (Benelux) - Orbit Program (Madrid)	2.5/5	Evaluated	reports/1067-celonis-associate-applied-ai-orbit-madrid-2026-06-02.md	[Intl] Madrid Spain → Amsterdam; Dutch C1/C2 critical + Spain visa = SKIP

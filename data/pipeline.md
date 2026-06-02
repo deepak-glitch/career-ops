@@ -17,6 +17,16 @@
 - [!] https://jobs.lever.co/pigment/a1be33de-4f92-4a74-9ea2-30965b384666 | re-routed to intl pipeline (Paris, non-US)
 - [!] https://job-boards.greenhouse.io/wonderschool/jobs/7626995003 | filtered: talent pool / future opportunities posting (not an active role per JD page)
 
+### 2026-06-02
+
+- [!] https://job-boards.greenhouse.io/celonis/jobs/7662803003?gh_jid=7662803003 | re-routed to intl pipeline (Madrid, non-US)
+- [!] https://sumup.com/careers/positions/8099530002?gh_jid=8099530002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- [!] https://sumup.com/careers/positions/8511537002?gh_jid=8511537002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- [!] https://sumup.com/careers/positions/8013031002?gh_jid=8013031002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- [!] https://sumup.com/careers/positions/8013034002?gh_jid=8013034002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- [!] https://sumup.com/careers/positions/8511538002?gh_jid=8511538002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+- [!] https://sumup.com/careers/positions/8294821002?gh_jid=8294821002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
+
 ## Processed
 
 ### 2026-06-01
