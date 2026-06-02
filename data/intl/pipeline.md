@@ -18,13 +18,10 @@
 - [!] https://jobs.lever.co/jobgether/31c0357c-c8b1-4a38-9338-03a74da9c5aa | filtered: requires 6+ years (Senior)
 - [!] https://www.fwddeploy.com/jobs/forward-deployed-engineer-fde-emea-ecac6392 | filtered: company unknown ("Unknown FDE EMEA"), no JD detail
 
-### 2026-06-02
-
-- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4880510101 | PolyAI | Forward Deployed AI Engineer - Vancouver | Vancouver
-- [ ] https://wayve.firststage.co/jobs?gh_jid=8572927002 | Wayve | Partner Integration Engineer - AI Portal | Tokyo
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/7662803003?gh_jid=7662803003 | Celonis | Associate Applied AI Engineer (Benelux) - Orbit Program | Madrid, Spain
-
 ## Processed
+
+### 2026-06-02
+- [x] #1067 | https://job-boards.eu.greenhouse.io/polyai/jobs/4880510101 | PolyAI | Forward Deployed AI Engineer (Vancouver) | Vancouver, BC — On-site (Canada) | 3.0/5 | PDF ✅
 
 ### 2026-06-01
 - [x] #1060 | https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4280686 | Salesforce | Forward Deployed Engineer (Japan) | Japan (Remote) + 25-50% travel | 3.0/5 | PDF ✅
