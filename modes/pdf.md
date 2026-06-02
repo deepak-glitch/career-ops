@@ -165,6 +165,7 @@ Usar el template en `cv-template.html`. Reemplazar los placeholders `{{...}}` co
 | `{{LANG}}` | `en` o `es` |
 | `{{PAGE_WIDTH}}` | `8.5in` (letter) o `210mm` (A4) |
 | `{{NAME}}` | (from profile.yml) |
+| `{{TITLE}}` | Professional title shown under the name (Final-resume model). Use the **target role title** when tailoring to a JD (e.g. `Forward Deployed AI Engineer`), else the candidate's headline title from `cv.md` / profile.yml (e.g. `Applied AI Engineer`). Rendered uppercase by CSS — write it in normal case. Leave unfilled to omit the line. |
 | `{{PHONE}}` | (from profile.yml — include with its separator only when `profile.yml` has a non-empty `phone` value; omit both `<span>` and `<span class="separator">` otherwise) |
 | `{{EMAIL}}` | (from profile.yml) |
 | `{{LINKEDIN_URL}}` | [from profile.yml] |

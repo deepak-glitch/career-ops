@@ -51,8 +51,20 @@
     font-weight: 700;
     color: #000000;
     letter-spacing: 0;
-    margin-bottom: 3px;
+    margin-bottom: 2px;
     line-height: 1.1;
+  }
+
+  /* Professional title subtitle under the name (Final-resume model) */
+  .header-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #000000;
+    line-height: 1.2;
+    margin-bottom: 3px;
   }
 
   .header-gradient {
@@ -338,6 +350,7 @@
   <!-- HEADER -->
   <div class="header avoid-break">
     <h1>{{NAME}}</h1>
+    <div class="header-title">{{TITLE}}</div>
     <div class="header-gradient"></div>
     <div class="contact-row">
       <span>{{PHONE}}</span>
