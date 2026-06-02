@@ -18,6 +18,14 @@
 - [!] https://jobs.lever.co/jobgether/31c0357c-c8b1-4a38-9338-03a74da9c5aa | filtered: requires 6+ years (Senior)
 - [!] https://www.fwddeploy.com/jobs/forward-deployed-engineer-fde-emea-ecac6392 | filtered: company unknown ("Unknown FDE EMEA"), no JD detail
 
+### 2026-06-02
+
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4880510101 | PolyAI | Forward Deployed AI Engineer - Vancouver | Vancouver
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8572927002 | Wayve | Partner Integration Engineer - AI Portal | Tokyo
+- [ ] https://jobs.lever.co/pigment/6cbc9f93-5034-4838-84b0-13fbcd742163 | Pigment | AI Deployment Strategist | London
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7662803003?gh_jid=7662803003 | Celonis | Associate Applied AI Engineer (Benelux) - Orbit Program | Madrid, Spain
+- [ ] https://jobs.lever.co/pigment/a1be33de-4f92-4a74-9ea2-30965b384666 | Pigment | AI Deployment Strategist | Paris
+
 ## Processed
 
 ### 2026-06-01

@@ -12,6 +12,17 @@
 - [!] https://goodgamestudios.teamtailor.com/jobs/7796165-working-student-ai-balancing-machine-learning-engineer | filtered: Working Student not archetype match (per modes/_profile.md filter)
 - [!] https://ats.rippling.com/flatiron-school/jobs/0796406a-e81f-4ec4-966e-da12eb6667c9 | error: specific posting not found in Rippling listing page
 
+### 2026-06-02
+
+- [ ] https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2 | Camunda | AI Process Forward Deployed Engineer | Remote — Global (US-eligible)
+- [!] https://sumup.com/careers/positions/8099530002?gh_jid=8099530002 | filtered: Agent Commercial Terrain (field sales, not archetype)
+- [!] https://sumup.com/careers/positions/8511537002?gh_jid=8511537002 | filtered: Agent Commercial Terrain (field sales, not archetype)
+- [!] https://sumup.com/careers/positions/8013031002?gh_jid=8013031002 | filtered: Agent Commercial Terrain (field sales, not archetype)
+- [!] https://sumup.com/careers/positions/8013034002?gh_jid=8013034002 | filtered: Agent Commercial Terrain (field sales, not archetype)
+- [!] https://sumup.com/careers/positions/8511538002?gh_jid=8511538002 | filtered: Agent Commercial Terrain (field sales, not archetype)
+- [!] https://sumup.com/careers/positions/8294821002?gh_jid=8294821002 | filtered: Agent Commercial Terrain (field sales, not archetype)
+- [!] https://sumup.com/careers/positions/8573120002?gh_jid=8573120002 | filtered: Customer Support Agent (not archetype)
+
 ## Processed
 
 ### 2026-06-01
