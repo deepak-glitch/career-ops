@@ -1100,3 +1100,4 @@ Run summary:
 - **Merge + verify**: 454 entries, 0 errors / 0 warnings.
 - **Cleanup**: 0 low-score deletes; bang-rows swept 1 US filter + 1 Intl empty subsection.
 - **Push**: `7074631` on `origin/main`.
+Processed 2 URLs (US:0 + Intl:2 → Wayve Tokyo 2.4/5, Celonis Madrid 2.5/5), generated 0 PDFs, archived 2 low-score (both SKIP — Japanese / Dutch language gates), pushed 18bfe19.
