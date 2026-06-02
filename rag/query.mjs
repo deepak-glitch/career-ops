@@ -9,6 +9,7 @@
 // --llm adds a generated answer via @google/generative-ai when GEMINI_API_KEY
 // (or GOOGLE_API_KEY) is set; otherwise it falls back to extractive.
 
+import 'dotenv/config'; // load GEMINI_API_KEY / GEMINI_MODEL from .env (for --llm)
 import { fileURLToPath } from 'node:url';
 import { dirname, join, resolve, relative } from 'node:path';
 import { existsSync } from 'node:fs';
@@ -50,7 +51,7 @@ async function generateWithGemini(query, hits) {
   try {
     const { GoogleGenerativeAI } = await import('@google/generative-ai');
     const genAI = new GoogleGenerativeAI(key);
-    const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
+    const model = genAI.getGenerativeModel({ model: process.env.GEMINI_MODEL || 'gemini-2.0-flash' });
     const context = hits.map((h, i) => `[${i + 1}] (${h.source})\n${h.text}`).join('\n\n');
     const prompt =
       `Answer the question using ONLY the context below. Cite sources as [n]. ` +
