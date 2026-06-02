@@ -32,6 +32,8 @@
 
 ### 2026-06-02
 - [x] #1066 | https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2 | Camunda | AI Process Forward Deployed Engineer | Fully Remote (Global) #LI-Remote #USEAST | 3.6/5 | PDF ✅
+- [x] #1068 | https://jobs.ashbyhq.com/Commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0 | Commure | Forward Deployed Engineer | Mountain View, CA — On-site + up to 35% travel | 3.6/5 | PDF ✅
+- [x] #1069 | https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101 | PhysicsX | Forward Deployed Software Engineer | San Francisco, CA — On-site + ~3-4 wks/q travel | 3.1/5 | PDF ✅
 
 ### 2026-06-01
 - [x] #1062 | https://es.jooble.org/jdp/-3059822854429373792 | idealista | Software Engineer, AI Systems | Madrid, Spain (fully remote) | 3.3/5 | PDF ✅
