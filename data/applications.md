@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1066 | 2026-06-02 | Camunda | AI Process Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1066](reports/1066-camunda-ai-process-fde-2026-06-02.md) | [US] Fully Remote (Global) #LI-Remote #USEAST; US TTC $131.1-211.4K; first-cohort FDE for ProcessOS (NL → BPMN agentic orchestration); strong archetype + work-auth-ok |
 | 1064 | 2026-06-01 | Pigment | AI Deployment Strategist (London) | 3.4/5 | Evaluated | ✅ | [1064](reports/1064-pigment-ai-deployment-strategist-london-2026-06-01.md) | [Intl] London hybrid; Professional Services; 2-5 YoE band; agentic + FDE pattern; visa via UK Skilled Worker |
 | 1065 | 2026-06-01 | Pigment | AI Deployment Strategist (Paris) | 3.5/5 | Evaluated | ✅ | [1065](reports/1065-pigment-ai-deployment-strategist-paris-2026-06-01.md) | [Intl] Paris HQ hybrid; Professional Services; 2-5 YoE band; visa via France Talent Passport |
 | 1062 | 2026-06-01 | idealista | Software Engineer, AI Systems | 3.3/5 | Evaluated | ✅ | [1062](reports/1062-idealista-ai-systems-2026-06-01.md) | [Intl] Madrid remote, F-1 OPT mismatch; archetype fit strong (LLM + agentic). Visa is the hard gate. |

@@ -27,7 +27,11 @@
 - [!] https://sumup.com/careers/positions/8511538002?gh_jid=8511538002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
 - [!] https://sumup.com/careers/positions/8294821002?gh_jid=8294821002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
 
+
 ## Processed
+
+### 2026-06-02
+- [x] #1066 | https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2 | Camunda | AI Process Forward Deployed Engineer | Fully Remote (Global) #LI-Remote #USEAST | 3.6/5 | PDF ✅
 
 ### 2026-06-01
 - [x] #1062 | https://es.jooble.org/jdp/-3059822854429373792 | idealista | Software Engineer, AI Systems | Madrid, Spain (fully remote) | 3.3/5 | PDF ✅
