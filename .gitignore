@@ -37,6 +37,10 @@ data/cleanup-*.log
 node_modules/
 bun.lock
 
+# RAG — derived index + cached embedding model (rebuild with: npm run rag:ingest)
+rag/index.json
+rag/.models/
+
 # OS
 .DS_Store
 *.mov
