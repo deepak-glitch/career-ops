@@ -1114,3 +1114,4 @@ Processed 12 URLs (US:9 + Intl:3), generated 3 PDFs, archived 9 low-score, pushe
 2026-06-03T200803Z	step1-L3-intl	warn	Particula AI/ML Engineer JD extraction failed (himalayas JS page returns directory not job)	fix:added to intl pipeline as [!] for retry next run; recorded in scan-history	outcome:skipped
 2026-06-03T200803Z	step1-L3	warn	MechanizedAI(AI+GenAI)/MindComputing/Jobgether roles closed or removed (dead)	fix:not added as pending; recorded as dead in scan-history scope	outcome:resolved
 2026-06-03T200803Z	step2-pdf	warn	Playwright chromium-headless-shell missing (container reset; Executable doesnt exist)	fix:npx playwright install chromium-headless-shell then retried	outcome:resolved
+Processed 4 URLs (US:3 + Intl:1), generated 3 PDFs, archived 1 low-score, pushed 2bf6d03e1548825ff6c331eb54619e6bb25c2fac.
