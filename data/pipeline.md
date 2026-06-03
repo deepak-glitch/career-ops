@@ -9,6 +9,8 @@
 ## Processed
 
 ### 2026-06-03
+- [x] #1100 | https://himalayas.app/companies/silent-eight/jobs/junior-forward-deployed-ai-engineer-llm-ml | Silent Eight | Junior Forward-Deployed AI Engineer (LLM/ML) | Remote — United States only | 4.2/5 | PDF ✅
+- [x] #1099 | https://jobs.lever.co/AIFund/273af06c-9114-4b9c-83c9-a3627f4b875f | DeepLearning.AI | AI Engineer | Mountain View, CA — in-person/on-site | 3.5/5 | PDF ✅
 - [x] #1097 | https://job-boards.greenhouse.io/cresta/jobs/5074999008 | Cresta | AI Value Partner, Customer Analytics | United States (Remote) | 2.7/5 SKIP | PDF ❌
 - [x] #1098 | https://apply.workable.com/proactive-technology-management/j/63FB51F32E/ | Proactive Technology Management | Forward Deployed Engineer - AI Consultant | Detroit, MI — On-site + 30% travel | 2.2/5 SKIP | PDF ❌
 - [x] #1087 | https://job-boards.greenhouse.io/scaleai/jobs/4625345005 | Scale AI | Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI | San Francisco, CA; New York, NY | 3.0/5 | PDF ✅

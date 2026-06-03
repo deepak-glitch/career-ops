@@ -1108,3 +1108,9 @@ Processed 12 URLs (US:9 + Intl:3), generated 3 PDFs, archived 9 low-score, pushe
 2026-06-03T165803Z	setup	warn	git pull --ff-only diverging	fix:git fetch + reset --hard origin/main (no local commits)	outcome:resolved
 2026-06-03T165803Z	scan	warn	scan.mjs HTTP 404 for Tinybird/Travelperk/Forto (stale ATS endpoints)	fix:scanner skipped them; rest of scan completed	outcome:skipped
 2026-06-03T165803Z	pipeline	warn	Impiricus 5195577008 greenhouse 404 role removed	fix:tried gh job API + board listing; no AI Engineer role remains; left as [!] for cleanup-bang-rows	outcome:skipped
+2026-06-03T200803Z	step1-scan	warn	js-yaml ERR_MODULE_NOT_FOUND on scan.mjs	fix:npm install then retry	outcome:resolved
+2026-06-03T200803Z	step1-scan-US	warn	Tinybird/Travelperk/Forto HTTP 404 (US)	fix:scanner skipped dead company endpoints; continue	outcome:skipped
+2026-06-03T200803Z	step1-scan-intl	warn	Tinybird/Travelperk/Forto HTTP 404 (Intl)	fix:scanner skipped dead company endpoints; continue	outcome:skipped
+2026-06-03T200803Z	step1-L3-intl	warn	Particula AI/ML Engineer JD extraction failed (himalayas JS page returns directory not job)	fix:added to intl pipeline as [!] for retry next run; recorded in scan-history	outcome:skipped
+2026-06-03T200803Z	step1-L3	warn	MechanizedAI(AI+GenAI)/MindComputing/Jobgether roles closed or removed (dead)	fix:not added as pending; recorded as dead in scan-history scope	outcome:resolved
+2026-06-03T200803Z	step2-pdf	warn	Playwright chromium-headless-shell missing (container reset; Executable doesnt exist)	fix:npx playwright install chromium-headless-shell then retried	outcome:resolved

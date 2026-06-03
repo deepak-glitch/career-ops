@@ -13,6 +13,10 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
+
+### 2026-06-03
+- [!] https://himalayas.app/companies/particula/jobs/ai-ml-engineer-llms-rag | error: JD extraction failed (himalayas JS page returns job directory, not the posting) — retry next run via direct ATS
+
 ## Processed
 
 ### 2026-06-03
