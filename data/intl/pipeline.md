@@ -19,8 +19,10 @@
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4413992005 | Scale AI | Applied AI Engineer, Global Public Sector | Doha, Qatar; London, UK
 - [ ] https://job-boards.eu.greenhouse.io/proton/jobs/4660027101 | Proton | Frontend Engineer (Lumo AI) | Geneva; Taipei; Paris; 
 
-
 ## Processed
+
+### 2026-06-03
+- [x] #1085 | https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Munich | Munich | 3.4/5 | PDF ✅
 
 ### 2026-06-02
 - [x] #1067 | https://job-boards.eu.greenhouse.io/polyai/jobs/4880510101 | PolyAI | Forward Deployed AI Engineer (Vancouver) | Vancouver, BC — On-site (Canada) | 3.0/5 | PDF ✅
