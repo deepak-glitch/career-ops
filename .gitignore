@@ -41,6 +41,10 @@ bun.lock
 rag/index.json
 rag/.models/
 
+# Stray ATS-probe dumps from agents writing to mangled Windows paths
+Usersdeepa*
+/Users*
+
 # OS
 .DS_Store
 *.mov
