@@ -27,7 +27,6 @@
 - [!] https://sumup.com/careers/positions/8511538002?gh_jid=8511538002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
 - [!] https://sumup.com/careers/positions/8294821002?gh_jid=8294821002 | filtered: Agent Commercial Terrain = sales (not archetype) + France (non-US)
 
-
 ## Processed
 
 ### 2026-06-02
