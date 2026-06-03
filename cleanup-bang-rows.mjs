@@ -195,6 +195,32 @@ function cleanup(pipelineCfg, today, reportsDir) {
       upsertHistory(url, line, 'filtered');
       continue;
     }
+
+    // Generic reason-prefix classification — catches breadcrumbs the specific
+    // regexes above miss. Overnight agents misuse `- [!]` for PERMANENT
+    // dispositions ("filtered: ...", "re-routed ...", "error: not found"),
+    // which then pile up under Pending looking like a backlog. Reason text is
+    // everything after "- [!] <url> |".
+    const reason = line.replace(/^- \[!\] \S+\s*\|?\s*/, '').trim();
+    if (/^filtered:/i.test(reason)) {
+      audit.filter.push({ url, line });
+      upsertHistory(url, line, 'filtered');
+      continue;
+    }
+    if (/^(re-?routed|routed to)\b/i.test(reason)) {
+      audit.duplicate.push({ url, line });            // resolved in the other track
+      upsertHistory(url, line, 'processed');
+      continue;
+    }
+    if (/^error:/i.test(reason) &&
+        /(not found|no JD|no longer|unknown|does not exist|missing|deleted|removed|\b404\b|\b410\b)/i.test(reason)) {
+      audit.dead.push({ url, line });                 // permanent error (not a retry)
+      upsertHistory(url, line, 'dead');
+      continue;
+    }
+    // A bare/transient "error: ..." (timeout, rate-limit) is KEPT for retry —
+    // that is the only legitimate use of `- [!]`.
+
     audit.unmatched.push({ url, line });
     kept.push(line);
   }

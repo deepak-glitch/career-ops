@@ -13,12 +13,7 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-
-### 2026-05-31
-- [!] https://jobs.lever.co/jobgether/31c0357c-c8b1-4a38-9338-03a74da9c5aa | filtered: requires 6+ years (Senior)
-- [!] https://www.fwddeploy.com/jobs/forward-deployed-engineer-fde-emea-ecac6392 | filtered: company unknown ("Unknown FDE EMEA"), no JD detail
-
-## Processed
+## Processed
 
 ### 2026-06-02
 - [x] #1067 | https://job-boards.eu.greenhouse.io/polyai/jobs/4880510101 | PolyAI | Forward Deployed AI Engineer (Vancouver) | Vancouver, BC — On-site (Canada) | 3.0/5 | PDF ✅

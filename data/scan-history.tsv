@@ -3841,7 +3841,7 @@ https://job-boards.greenhouse.io/genies/jobs/7580267003	2026-05-31	WebSearch L3 
 https://job-boards.greenhouse.io/sezzle/jobs/7633951003	2026-05-31	WebSearch L3 overnight 2026-05-31	AI Engineer I (Remote)	Sezzle	added
 https://job-boards.greenhouse.io/coinbase/jobs/7569237	2026-05-31	WebSearch L3 overnight 2026-05-31	Machine Learning Engineer Risk AI/ML	Coinbase	added
 https://jobs.ashbyhq.com/infinity-constellation/30fac65e-bcd7-4ecc-9477-fc7c8c8a9f52	2026-05-31	WebSearch L3 overnight 2026-05-31	Full Stack AI Engineer	Infinity Constellation	added
-https://jobs.ashbyhq.com/atlas/dae00fcb-35a5-4559-8114-7553138b3ea3	2026-05-31	WebSearch L3 — Ashby Founding	Founding Applied AI Engineer	Atlas	added
+https://jobs.ashbyhq.com/atlas/dae00fcb-35a5-4559-8114-7553138b3ea3	2026-05-31	WebSearch L3 — Ashby Founding	Founding Applied AI Engineer	Atlas	filtered
 https://jobs.ashbyhq.com/faction/3451cb7e-5e34-4e09-aca2-17f5ee878cc0	2026-05-31	WebSearch L3 — Ashby Applied AI	Member of Technical Staff (Applied AI)	Faction	added
 https://jobs.ashbyhq.com/everai/694c19b7-d94f-4f66-97a7-5c881b0811bf	2026-05-31	WebSearch L3 — portals.yml: Ashby — AI PM	Senior AI Product Manager	EverAI	skipped_title
 https://jobs.ashbyhq.com/procurify/36f109d4-4024-4bfe-986c-6997c02b9967	2026-05-31	WebSearch L3 — portals.yml: Ashby — AI PM	Senior Product Manager, AI	Procurify	skipped_title
@@ -3999,7 +3999,7 @@ https://doneverse.breezy.hr/p/df7d2172d27f-ai-automation-specialist	2026-05-31	W
 https://mechanizedai.breezy.hr/p/7b63cde92e37-ai-engineer	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — BreezyHR	GenAI Engineer	Mechanized AI	dead
 https://nexthire.breezy.hr/p/a4abb777afb6-awign-expert-ai-engineer	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — BreezyHR	Awign expert-AI Engineer	Nexthire	dead
 https://tooploox.teamtailor.com/jobs/7213707-lead-ai-engineer	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — TeamTailor	Lead AI Engineer	Tooploox	skipped_title
-https://goodgamestudios.teamtailor.com/jobs/7796165-working-student-ai-balancing-machine-learning-engineer	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — TeamTailor	Working Student AI Balancing / Machine Learning Engineer	Goodgame Studios	added
+https://goodgamestudios.teamtailor.com/jobs/7796165-working-student-ai-balancing-machine-learning-engineer	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — TeamTailor	Working Student AI Balancing / Machine Learning Engineer	Goodgame Studios	filtered
 https://hiire.teamtailor.com/jobs/7783492-senior-machine-learning-engineer	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — TeamTailor	Senior Machine Learning Engineer	Hiire	skipped_title
 https://siili.teamtailor.com/jobs/7361816-senior-ai-engineer	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — TeamTailor	Senior AI Engineer	Siili Solutions	skipped_title
 https://niryu.teamtailor.com/jobs/7470060-ai-ml-senior-applied-scientist-inbound-team	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — TeamTailor	AI/ML - Senior Applied Scientist - Inbound Team	Nir Yu	skipped_title
@@ -4023,20 +4023,20 @@ https://ats.rippling.com/shippo/jobs/ab551f0a-3fba-4548-9217-7525fa67345d	2026-0
 https://ats.rippling.com/flatiron-school/jobs/11004cef-772e-4b13-8fe5-579d9e1e7d7b	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — Rippling + Gusto	Software Engineering Apprentice – Accelerated Program	Flatiron School	skipped_title
 https://ats.rippling.com/createmusicgroup/jobs/bff6ef7c-cf38-4738-a8b0-759ecbfff45f	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — Rippling + Gusto	Machine Learning Engineer	Create Music Group	skipped_title
 https://ats.rippling.com/flatiron-school/jobs/423ab1a3-b016-4a74-9b7b-aeef41bda93b	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — Rippling + Gusto	Accelerated Software Engineer Apprenticeship	Flatiron School	skipped_title
-https://ats.rippling.com/flatiron-school/jobs/0796406a-e81f-4ec4-966e-da12eb6667c9	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — Rippling + Gusto	AI Engineer Accelerated Apprenticeship Program	Flatiron School	added
+https://ats.rippling.com/flatiron-school/jobs/0796406a-e81f-4ec4-966e-da12eb6667c9	2026-05-31	WebSearch L3 — portals.yml: Small-ATS — Rippling + Gusto	AI Engineer Accelerated Apprenticeship Program	Flatiron School	dead
 https://wellfound.com/jobs/3314382-ai-automation-engineer-remote	2026-05-31	WebSearch L3 — portals.yml: Aggregators — YC + WeWorkRemotely + AngelList	AI Automation Engineer (Remote)	Quora	filtered
 https://weworkremotely.com/remote-jobs/secure-privacy-qa-engineer-ai-automation-intelligent-testing	2026-05-31	WebSearch L3 — portals.yml: Aggregators — YC + WeWorkRemotely + AngelList	QA Engineer - AI Automation Intelligent Testing	Secure Privacy	filtered
 https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train	2026-05-31	WebSearch L3 — portals.yml: Aggregators — YC + WeWorkRemotely + AngelList	FT/PT Remote AI Prompt Engineering & Evaluation	DataAnnotation.tech	filtered
-https://job-boards.greenhouse.io/wonderschool/jobs/7626995003	2026-06-01	WebSearch L3 -- overnight 2026-06-01	Forward Deployed AI Engineering - Future Opportunities	Wonderschool	added
-https://job-boards.greenhouse.io/celonis/jobs/7662803003?gh_jid=7662803003	2026-06-02	greenhouse-api	Associate Applied AI Engineer (Benelux) - Orbit Program	Celonis	added
-https://sumup.com/careers/positions/8099530002?gh_jid=8099530002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance) - Aix-en-Provence	SumUp	added
-https://sumup.com/careers/positions/8511537002?gh_jid=8511537002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance)- Avignon	SumUp	added
-https://sumup.com/careers/positions/8013031002?gh_jid=8013031002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance) - Grenoble 	SumUp	added
-https://sumup.com/careers/positions/8013034002?gh_jid=8013034002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance) - Lyon	SumUp	added
-https://sumup.com/careers/positions/8511538002?gh_jid=8511538002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance)- Nîmes	SumUp	added
-https://sumup.com/careers/positions/8294821002?gh_jid=8294821002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance) - Saint-Étienne	SumUp	added
+https://job-boards.greenhouse.io/wonderschool/jobs/7626995003	2026-06-01	WebSearch L3 -- overnight 2026-06-01	Forward Deployed AI Engineering - Future Opportunities	Wonderschool	filtered
+https://job-boards.greenhouse.io/celonis/jobs/7662803003?gh_jid=7662803003	2026-06-02	greenhouse-api	Associate Applied AI Engineer (Benelux) - Orbit Program	Celonis	processed
+https://sumup.com/careers/positions/8099530002?gh_jid=8099530002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance) - Aix-en-Provence	SumUp	filtered
+https://sumup.com/careers/positions/8511537002?gh_jid=8511537002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance)- Avignon	SumUp	filtered
+https://sumup.com/careers/positions/8013031002?gh_jid=8013031002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance) - Grenoble 	SumUp	filtered
+https://sumup.com/careers/positions/8013034002?gh_jid=8013034002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance) - Lyon	SumUp	filtered
+https://sumup.com/careers/positions/8511538002?gh_jid=8511538002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance)- Nîmes	SumUp	filtered
+https://sumup.com/careers/positions/8294821002?gh_jid=8294821002	2026-06-02	greenhouse-api	Agent Commercial Terrain - Indépendant (Freelance) - Saint-Étienne	SumUp	filtered
 https://sumup.com/careers/positions/8573120002?gh_jid=8573120002	2026-06-02	greenhouse-api	Customer Support Agent- DE	SumUp	filtered
-https://jobs.lever.co/pigment/a1be33de-4f92-4a74-9ea2-30965b384666	2026-06-02	lever-api	AI Deployment Strategist	Pigment	added
+https://jobs.lever.co/pigment/a1be33de-4f92-4a74-9ea2-30965b384666	2026-06-02	lever-api	AI Deployment Strategist	Pigment	processed
 https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2	2026-06-02	WebSearch — Ashby FDE	AI Process Forward Deployed Engineer	Camunda	added
 https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101	2026-06-02	greenhouse-api	Forward Deployed Software Engineer	PhysicsX	added
 https://jobs.ashbyhq.com/Commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0	2026-06-02	WebSearch — L3 Ashby Healthcare FDE	Forward Deployed Engineer	Commure	added
