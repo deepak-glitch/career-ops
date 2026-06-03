@@ -497,3 +497,12 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-03	1084	2026-06-03	Snorkel AI	AI Advocate - Open-Source & Research	2.2/5	Evaluated	reports/1084-snorkel-ai-advocate-oss-research-2026-06-03.md	[US] SF hybrid; $155-240K; DevRel/Research Advocate; 6+ YoE + conference body of work gates
 2026-06-03	1083		orphan	orphan	0/5		reports/1083-scale-ai-infra-eng-enterprise-genai-2026-06-03.md	
 2026-06-03	1086		orphan	orphan	0/5		reports/1086-arize-ai-fde-apj-singapore-2026-06-03.md	
+2026-06-03	1086	2026-06-03	Pallet	Security Platform Engineer	2.4/5	Evaluated	reports/1086-pallet-2026-06-03.md	[US] SF/NY on-site 5d/wk, 6+yrs sec-platform; out of archetype.
+2026-06-03	1090	2026-06-03	Scale AI	ML Systems Engineer, Robotics	2.5/5	Evaluated	reports/1090-scaleai-mlse-robotics-2026-06-03.md	[US] SF hybrid; Go/Rust/C++ + robotics domain gap.
+2026-06-03	1091	2026-06-03	Scale AI	Research Scientist, Agent Robustness	2.7/5	Evaluated	reports/1091-scaleai-rs-agent-robustness-2026-06-03.md	[US] SF/NY hybrid; RS title typically PhD-gated; eval-framework gap.
+2026-06-03	1092	2026-06-03	Scale AI	Research Scientist, AI Controls and Monitoring	2.7/5	Evaluated	reports/1092-scaleai-rs-ai-controls-monitoring-2026-06-03.md	[US] SF/NY/London hybrid; RS title PhD-gated; monitoring fit but publications soft gap.
+2026-06-03	1093	2026-06-03	Proton	Database Platform Engineer	1.7/5	Evaluated	reports/1093-proton-database-platform-engineer-2026-06-03.md	[Intl] Prague hybrid; pure DB platform/SRE; out of archetype.
+2026-06-03	1094	2026-06-03	Legora	Platform Engineer	2.4/5	Evaluated	reports/1094-legora-platform-engineer-2026-06-03.md	[Intl] Stockholm HQ; F-1 OPT visa friction; JD body inaccessible (Ashby SPA).
+2026-06-03	1096	2026-06-03	Proton	Frontend Engineer (Lumo AI)	1.8/5	Evaluated	reports/1096-proton-frontend-engineer-lumo-2026-06-03.md	[Intl] Geneva/Taipei/Paris hybrid; pure React FE; out of archetype.
+2026-06-03	1097	2026-06-03	LanguageWire	AI Engineer	2.9/5	Evaluated	reports/1097-languagewire-ai-engineer-2026-06-03.md	[Intl] Copenhagen FlexiWire hybrid; F-1 OPT mismatch; JD opacity.
+2026-06-03	1089		orphan	orphan	0/5		reports/1089-scaleai-mlsre-agent-post-training-2026-06-03.md	

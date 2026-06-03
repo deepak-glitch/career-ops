@@ -13,15 +13,11 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-
-### 2026-06-03
-
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4413992005 | Scale AI | Applied AI Engineer, Global Public Sector | Doha, Qatar; London, UK
-- [ ] https://job-boards.eu.greenhouse.io/proton/jobs/4660027101 | Proton | Frontend Engineer (Lumo AI) | Geneva; Taipei; Paris; 
-
 ## Processed
 
 ### 2026-06-03
+- [x] #1095 | https://job-boards.greenhouse.io/scaleai/jobs/4413992005 | Scale AI | Applied AI Engineer, Global Public Sector | Doha, Qatar; London, UK - Hybrid + ~2 wks/q travel | 3.1/5 | PDF ✅
+- [x] #1096 | https://job-boards.eu.greenhouse.io/proton/jobs/4660027101 | Proton | Frontend Engineer (Lumo AI) | Geneva; Taipei; Paris | 1.8/5 SKIP | PDF ❌
 - [x] #1085 | https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Munich | Munich | 3.4/5 | PDF ✅
 
 ### 2026-06-02

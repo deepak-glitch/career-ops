@@ -9,21 +9,17 @@
 
 ### 2026-06-03
 
-- [ ] https://job-boards.greenhouse.io/pallet/jobs/5153428007 | Pallet | Security Platform Engineer | San Francisco or New York
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625345005 | Scale AI |  Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI | San Francisco, CA; New York, NY
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625344005 | Scale AI | Machine Learning Research Engineer, Agents - Enterprise GenAI | San Francisco, CA; New York, NY
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625341005 | Scale AI | Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI | San Francisco, CA; New York, NY
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4663053005 | Scale AI | ML Systems Engineer, Robotics | San Francisco, CA
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4675684005 | Scale AI | Research Scientist, Agent Robustness | San Francisco, CA; New York, NY
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4675694005 | Scale AI | Research Scientist, AI Controls and Monitoring | San Francisco, CA; New York, NY
-- [ ] https://job-boards.eu.greenhouse.io/proton/jobs/4582111101 | Proton | Database Platform Engineer | Prague;
 - [!] https://job-boards.greenhouse.io/impiricus/jobs/5195577008 | Impiricus | AI Engineer | Remote (US) — error: URL redirects to careers directory page, role not directly accessible (retry with explicit gh_jid params next pass)
+
  
  
 
 ## Processed
 
 ### 2026-06-03
+- [x] #1087 | https://job-boards.greenhouse.io/scaleai/jobs/4625345005 | Scale AI | Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI | San Francisco, CA; New York, NY | 3.0/5 | PDF ✅
+- [x] #1088 | https://job-boards.greenhouse.io/scaleai/jobs/4625344005 | Scale AI | Machine Learning Research Engineer, Agents - Enterprise GenAI | San Francisco, CA; New York, NY | 3.1/5 | PDF ✅
+- [x] #1093 | https://job-boards.eu.greenhouse.io/proton/jobs/4582111101 | Proton | Database Platform Engineer | Prague | 1.7/5 SKIP | PDF ❌
 - [x] #1080 | https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/NYC/Seattle/SF/DC hybrid 25% in-office + 25% travel | 3.8/5 | PDF ✅
 - [x] #1081 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote (Continental US) | 4.3/5 | PDF ✅
 - [x] #1082 | https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee | Perplexity | Member of Technical Staff (FDE, Applied AI) | New York City | 3.3/5 | PDF ✅
