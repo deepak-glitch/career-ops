@@ -6,17 +6,11 @@
      creates it at the end of Pending. -->
 
 ## Pending
-
-### 2026-06-03
-
-- [!] https://job-boards.greenhouse.io/impiricus/jobs/5195577008 | Impiricus | AI Engineer | Remote (US) — error: URL redirects to careers directory page, role not directly accessible (retry with explicit gh_jid params next pass)
-
- 
- 
-
 ## Processed
 
 ### 2026-06-03
+- [x] #1097 | https://job-boards.greenhouse.io/cresta/jobs/5074999008 | Cresta | AI Value Partner, Customer Analytics | United States (Remote) | 2.7/5 SKIP | PDF ❌
+- [x] #1098 | https://apply.workable.com/proactive-technology-management/j/63FB51F32E/ | Proactive Technology Management | Forward Deployed Engineer - AI Consultant | Detroit, MI — On-site + 30% travel | 2.2/5 SKIP | PDF ❌
 - [x] #1087 | https://job-boards.greenhouse.io/scaleai/jobs/4625345005 | Scale AI | Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI | San Francisco, CA; New York, NY | 3.0/5 | PDF ✅
 - [x] #1088 | https://job-boards.greenhouse.io/scaleai/jobs/4625344005 | Scale AI | Machine Learning Research Engineer, Agents - Enterprise GenAI | San Francisco, CA; New York, NY | 3.1/5 | PDF ✅
 - [x] #1093 | https://job-boards.eu.greenhouse.io/proton/jobs/4582111101 | Proton | Database Platform Engineer | Prague | 1.7/5 SKIP | PDF ❌
