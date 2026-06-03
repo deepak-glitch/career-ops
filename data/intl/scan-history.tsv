@@ -1,7 +1,7 @@
 url	first_seen	portal	title	company	status
 https://job-boards.greenhouse.io/intercom/jobs/7824137	2026-05-13	greenhouse-api	AI Infrastructure Engineer	Intercom	added
 https://job-boards.greenhouse.io/vercel/jobs/5778418004	2026-05-13	greenhouse-api	Forward-Deployed Engineer	Vercel	added
-https://job-boards.greenhouse.io/arizeai/jobs/5993317004	2026-05-24	WebSearch - L3 overnight 2026-05-24	Forward Deployed Engineer APJ	Arize AI	added
+https://job-boards.greenhouse.io/arizeai/jobs/5993317004	2026-06-03	WebSearch — FDE APJ	Forward Deployed Engineer, APJ	Arize AI	added
 https://helsing.ai/jobs/4334849101?gh_jid=4334849101	2026-05-13	greenhouse-api	AI Research Engineer - AI Safety	Helsing	added
 https://helsing.ai/jobs/4766708101?gh_jid=4766708101	2026-05-13	greenhouse-api	AI Research Engineer - Foundation Models	Helsing	added
 https://helsing.ai/jobs/4676357101?gh_jid=4676357101	2026-05-13	greenhouse-api	AI Research Engineer - Reinforcement Learning	Helsing	added
@@ -154,7 +154,10 @@ https://job-boards.greenhouse.io/sezzle/jobs/7691331003	2026-06-03	greenhouse-ap
 https://jobs.ashbyhq.com/cognition/8139c589-494a-449a-b608-b11a689e7b2e	2026-06-03	ashby-api	Deployed Engineer - LATAM	Cognition	added
 https://job-boards.eu.greenhouse.io/proton/jobs/4660027101	2026-06-03	greenhouse-api	Frontend Engineer (Lumo AI)	Proton	added
 https://job-boards.eu.greenhouse.io/proton/jobs/4823205101	2026-06-03	greenhouse-api	Machine Learning Engineer	Proton	added
-https://job-boards.greenhouse.io/arizeai/jobs/5993317004	2026-06-03	WebSearch — FDE APJ	Forward Deployed Engineer, APJ	Arize AI	added
 https://apply.workable.com/languagewire/j/685F344246/	2026-06-03	WebSearch — L3 overnight 2026-06-03	AI Engineer	LanguageWire	added
 https://jobs.lever.co/pennylane/4bdcaba9-a0ce-4aa9-b6f1-945754193394	2026-06-03	WebSearch L3 overnight 2026-06-03	Machine Learning Engineer (remote)	Pennylane	skipped_expired
 https://himalayas.app/companies/particula/jobs/ai-ml-engineer-llms-rag	2026-06-03	WebSearch — L3 overnight 2026-06-03	AI/ML Engineer (LLMs & RAG)	Particula	added
+https://job-boards.eu.greenhouse.io/valtech/jobs/4878748101	2026-06-03	WebSearch — L3 overnight 2026-06-03	Forward Deployed Engineer, Google Cloud, AI Expert	Valtech	added
+https://job-boards.eu.greenhouse.io/invisibletech/jobs/4752726101	2026-06-03	WebSearch — L3 overnight 2026-06-03	Software Engineer, Forward Deployed	Invisible Technologies	dead
+https://job-boards.eu.greenhouse.io/invisibletech/jobs/4501053101	2026-06-03	WebSearch — L3 overnight 2026-06-03	Forward Deployed Engineer	Invisible Technologies	dead
+https://apply.workable.com/enjins/j/72139BB77A/	2026-06-03	WebSearch — L3 overnight 2026-06-03	Machine Learning Engineer	Enjins	dead

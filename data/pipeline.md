@@ -9,6 +9,9 @@
 ## Processed
 
 ### 2026-06-03
+- [x] #1101 | https://jobs.ashbyhq.com/clarium/83332693-7e11-41db-8b62-8225cb818abf | Clarium | AI Engineer - Data Intelligence | Remote/US (NYC co-working) | 4.3/5 | PDF ✅
+- [x] #1102 | https://jobs.ashbyhq.com/Deepgram/a58e4a11-7f98-4686-98e8-2612b52d7bbd | Deepgram | Forward Deployed Engineer, Deepgram for Restaurants | NYC remote-first + up to 50% travel | 3.7/5 | PDF ✅
+- [x] #1103 | https://apply.workable.com/innopeaktech/j/7D7725EAC7 | OPPO US Research Center | AI Engineer | Palo Alto, CA — On-site | 3.4/5 | PDF ✅
 - [x] #1100 | https://himalayas.app/companies/silent-eight/jobs/junior-forward-deployed-ai-engineer-llm-ml | Silent Eight | Junior Forward-Deployed AI Engineer (LLM/ML) | Remote — United States only | 4.2/5 | PDF ✅
 - [x] #1099 | https://jobs.lever.co/AIFund/273af06c-9114-4b9c-83c9-a3627f4b875f | DeepLearning.AI | AI Engineer | Mountain View, CA — in-person/on-site | 3.5/5 | PDF ✅
 - [x] #1097 | https://job-boards.greenhouse.io/cresta/jobs/5074999008 | Cresta | AI Value Partner, Customer Analytics | United States (Remote) | 2.7/5 SKIP | PDF ❌
