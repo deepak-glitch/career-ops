@@ -429,6 +429,7 @@ title_filter:
     # -- AI/ML roles --
     - "AI"
     - "ML"
+    - "Machine Learning"
     - "LLM"
     - "Agent"
     - "Agentic"
@@ -449,12 +450,12 @@ title_filter:
     - "Weiterbildung"
     # -- Engineering roles --
     - "Platform Engineer"
-    - "Solutions Architect"
-    - "Solutions Engineer"
     - "Forward Deployed"
     - "Deployed Engineer"
-    - "Customer Engineer"
     - "Integration Engineer"
+    # NOTE: "Solutions Engineer" / "Solutions Architect" / "Customer Engineer"
+    # removed from positive — overwhelmingly pre-sales; pulled in off-archetype
+    # roles (Hightouch/Cresta). FDE roles use "Forward Deployed", which stays.
     # -- Product roles --
     - "Product Manager"
     - "Technical PM"
@@ -501,9 +502,24 @@ title_filter:
     - "Account Executive"
     - "Sales Engineer"
     - "Pre-Sales"
+    - "Presales"
+    - "Solutions Engineer"     # pre-sales SE — FDE roles keep "Forward Deployed" (positive)
+    - "Customer Engineer"      # pre-sales / SE
     - "Sales Representative"
     - "Account Manager"
     - "Customer Success"
+    # -- Non-engineering / wrong-function titles --
+    - "Designer"               # UX / "Conversational AI Designer"
+    - "Counsel"                # legal (e.g. "Assistant General Counsel - AI")
+    - "Recruiter"
+    - "Talent Acquisition"
+    - "Test Automation"        # QA
+    - "QA Engineer"
+    # -- "Agent" false positives (positive "Agent" matches AI agents, not these) --
+    - "Customer Service"
+    - "Service Agent"
+    - "Support Agent"
+    - "Sales Agent"
     # -- Intern (not entry-level full-time) --
     - "Intern"
     - "Internship"

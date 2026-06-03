@@ -9,15 +9,24 @@
 
 ### 2026-06-03
 
-- [ ] https://job-boards.greenhouse.io/cresta/jobs/4970396008 | Cresta | Associate Conversational AI Designer | United States (Remote)
-- [ ] https://job-boards.greenhouse.io/cresta/jobs/4122946008 | Cresta | Customer Engineer | United States (Remote)
-- [ ] https://job-boards.greenhouse.io/cresta/jobs/4906900008 | Cresta | Enterprise Solutions Engineer  | United States (Remote)
-- [ ] https://job-boards.greenhouse.io/cresta/jobs/4985070008 | Cresta | Strategic Solutions Engineer, East  | United States (Remote)
-- [ ] https://job-boards.greenhouse.io/cresta/jobs/4983651008 | Cresta | Strategic Solutions Engineer, West | United States (Remote)
-- [ ] https://jobs.ashbyhq.com/baseten/c94019e7-923d-441e-937f-2fca5920733c | Baseten | Assistant General Counsel - AI, Privacy & Governance | San Francisco
 - [ ] https://job-boards.greenhouse.io/pallet/jobs/5149065007 | Pallet | Enterprise Deployment Strategist (AI/ML Product) | San Francisco or New York City
 - [ ] https://job-boards.greenhouse.io/pallet/jobs/5153428007 | Pallet | Security Platform Engineer | San Francisco or New York
-- [ ] https://job-boards.eu.greenhouse.io/proton/jobs/4860619101 | Proton | Linux Test Automation Engineer | Skopje; Vilnius; Barcelona; 
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4880947101 | PhysicsX | Machine Learning Engineer | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4699458005 | Scale AI | AI Deployment Strategist, Enterprise | San Francisco, CA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4665557005 | Scale AI | Infrastructure Software Engineer, Enterprise GenAI | San Francisco, CA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625345005 | Scale AI |  Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI | San Francisco, CA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625344005 | Scale AI | Machine Learning Research Engineer, Agents - Enterprise GenAI | San Francisco, CA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4490301005 | Scale AI | Machine Learning Research Engineer, GenAI Applied ML | San Francisco, CA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625341005 | Scale AI | Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI | San Francisco, CA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4663053005 | Scale AI | ML Systems Engineer, Robotics | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4675684005 | Scale AI | Research Scientist, Agent Robustness | San Francisco, CA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4675694005 | Scale AI | Research Scientist, AI Controls and Monitoring | San Francisco, CA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4513943005 | Scale AI | Software Engineer, Enterprise AI | New York, NY; San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4363623005 | Scale AI | Software Engineer, Frontier AI Infrastructure | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5990014004 | Snorkel AI | AI Advocate - Open-Source & Research | San Francisco, CA (Hybrid)
+- [ ] https://careers.upstart.com/jobs?gh_jid=7727764 | Upstart | Software Engineer, Agentic Tooling | United States | Remote
+- [ ] https://job-boards.eu.greenhouse.io/proton/jobs/4582111101 | Proton | Database Platform Engineer | Prague; 
+ 
 
 ## Processed
 

@@ -16,8 +16,14 @@
 
 ### 2026-06-03
 
-- [ ] https://job-boards.greenhouse.io/cresta/jobs/5021027008 | Cresta | Solutions Engineer, EMEA | United Kingdom (Remote)
-- [ ] https://job-boards.greenhouse.io/cresta/jobs/5106219008 | Cresta | Strategic Solutions Engineer, APAC  | Australia (Remote)
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4749996101 | PhysicsX | Machine Learning Engineer | Singapore
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4536659005 | Scale AI | Applied AI Engineer, Enterprise | London, UK
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4413992005 | Scale AI | Applied AI Engineer, Global Public Sector | Doha, Qatar; London, UK
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4413274005 | Scale AI | Machine Learning Engineer, Global Public Sector | Doha, Qatar; London, UK
+- [ ] https://jobs.ashbyhq.com/cognition/8139c589-494a-449a-b608-b11a689e7b2e | Cognition | Deployed Engineer - LATAM | Brazil
+- [ ] https://job-boards.eu.greenhouse.io/proton/jobs/4660027101 | Proton | Frontend Engineer (Lumo AI) | Geneva; Taipei; Paris; 
+- [ ] https://job-boards.eu.greenhouse.io/proton/jobs/4823205101 | Proton | Machine Learning Engineer | Geneva; Taipei
+
 
 ## Processed
 

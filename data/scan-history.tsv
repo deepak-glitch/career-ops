@@ -4041,12 +4041,27 @@ https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2	2026-06-02
 https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101	2026-06-02	greenhouse-api	Forward Deployed Software Engineer	PhysicsX	added
 https://jobs.ashbyhq.com/Commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0	2026-06-02	WebSearch — L3 Ashby Healthcare FDE	Forward Deployed Engineer	Commure	added
 https://job-boards.greenhouse.io/hightouch/jobs/6011820004	2026-06-03	greenhouse-api	Partner Solutions Engineer	Hightouch	added
-https://job-boards.greenhouse.io/cresta/jobs/4970396008	2026-06-03	greenhouse-api	Associate Conversational AI Designer	Cresta	added
-https://job-boards.greenhouse.io/cresta/jobs/4122946008	2026-06-03	greenhouse-api	Customer Engineer	Cresta	added
-https://job-boards.greenhouse.io/cresta/jobs/4906900008	2026-06-03	greenhouse-api	Enterprise Solutions Engineer 	Cresta	added
-https://job-boards.greenhouse.io/cresta/jobs/4985070008	2026-06-03	greenhouse-api	Strategic Solutions Engineer, East 	Cresta	added
-https://job-boards.greenhouse.io/cresta/jobs/4983651008	2026-06-03	greenhouse-api	Strategic Solutions Engineer, West	Cresta	added
-https://jobs.ashbyhq.com/baseten/c94019e7-923d-441e-937f-2fca5920733c	2026-06-03	ashby-api	Assistant General Counsel - AI, Privacy & Governance	Baseten	added
+https://job-boards.greenhouse.io/cresta/jobs/4970396008	2026-06-03	greenhouse-api	Associate Conversational AI Designer	Cresta	filtered
+https://job-boards.greenhouse.io/cresta/jobs/4122946008	2026-06-03	greenhouse-api	Customer Engineer	Cresta	filtered
+https://job-boards.greenhouse.io/cresta/jobs/4906900008	2026-06-03	greenhouse-api	Enterprise Solutions Engineer 	Cresta	filtered
+https://job-boards.greenhouse.io/cresta/jobs/4985070008	2026-06-03	greenhouse-api	Strategic Solutions Engineer, East 	Cresta	filtered
+https://job-boards.greenhouse.io/cresta/jobs/4983651008	2026-06-03	greenhouse-api	Strategic Solutions Engineer, West	Cresta	filtered
+https://jobs.ashbyhq.com/baseten/c94019e7-923d-441e-937f-2fca5920733c	2026-06-03	ashby-api	Assistant General Counsel - AI, Privacy & Governance	Baseten	filtered
 https://job-boards.greenhouse.io/pallet/jobs/5149065007	2026-06-03	greenhouse-api	Enterprise Deployment Strategist (AI/ML Product)	Pallet	added
 https://job-boards.greenhouse.io/pallet/jobs/5153428007	2026-06-03	greenhouse-api	Security Platform Engineer	Pallet	added
-https://job-boards.eu.greenhouse.io/proton/jobs/4860619101	2026-06-03	greenhouse-api	Linux Test Automation Engineer	Proton	added
+https://job-boards.eu.greenhouse.io/proton/jobs/4860619101	2026-06-03	greenhouse-api	Linux Test Automation Engineer	Proton	filtered
+https://job-boards.eu.greenhouse.io/physicsx/jobs/4880947101	2026-06-03	greenhouse-api	Machine Learning Engineer	PhysicsX	added
+https://job-boards.greenhouse.io/scaleai/jobs/4699458005	2026-06-03	greenhouse-api	AI Deployment Strategist, Enterprise	Scale AI	added
+https://job-boards.greenhouse.io/scaleai/jobs/4665557005	2026-06-03	greenhouse-api	Infrastructure Software Engineer, Enterprise GenAI	Scale AI	added
+https://job-boards.greenhouse.io/scaleai/jobs/4625345005	2026-06-03	greenhouse-api	 Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI	Scale AI	added
+https://job-boards.greenhouse.io/scaleai/jobs/4625344005	2026-06-03	greenhouse-api	Machine Learning Research Engineer, Agents - Enterprise GenAI	Scale AI	added
+https://job-boards.greenhouse.io/scaleai/jobs/4490301005	2026-06-03	greenhouse-api	Machine Learning Research Engineer, GenAI Applied ML	Scale AI	added
+https://job-boards.greenhouse.io/scaleai/jobs/4625341005	2026-06-03	greenhouse-api	Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI	Scale AI	added
+https://job-boards.greenhouse.io/scaleai/jobs/4663053005	2026-06-03	greenhouse-api	ML Systems Engineer, Robotics	Scale AI	added
+https://job-boards.greenhouse.io/scaleai/jobs/4675684005	2026-06-03	greenhouse-api	Research Scientist, Agent Robustness	Scale AI	added
+https://job-boards.greenhouse.io/scaleai/jobs/4675694005	2026-06-03	greenhouse-api	Research Scientist, AI Controls and Monitoring	Scale AI	added
+https://job-boards.greenhouse.io/scaleai/jobs/4513943005	2026-06-03	greenhouse-api	Software Engineer, Enterprise AI	Scale AI	added
+https://job-boards.greenhouse.io/scaleai/jobs/4363623005	2026-06-03	greenhouse-api	Software Engineer, Frontier AI Infrastructure	Scale AI	added
+https://job-boards.greenhouse.io/snorkelai/jobs/5990014004	2026-06-03	greenhouse-api	AI Advocate - Open-Source & Research	Snorkel AI	added
+https://careers.upstart.com/jobs?gh_jid=7727764	2026-06-03	greenhouse-api	Software Engineer, Agentic Tooling	Upstart	added
+https://job-boards.eu.greenhouse.io/proton/jobs/4582111101	2026-06-03	greenhouse-api	Database Platform Engineer	Proton	added
