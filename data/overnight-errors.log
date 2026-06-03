@@ -1102,3 +1102,4 @@ Run summary:
 - **Push**: `7074631` on `origin/main`.
 Processed 2 URLs (US:0 + Intl:2 → Wayve Tokyo 2.4/5, Celonis Madrid 2.5/5), generated 0 PDFs, archived 2 low-score (both SKIP — Japanese / Dutch language gates), pushed 18bfe19.
 Processed 3 URLs (US:1 + Intl:2), generated 1 PDF, archived 2 low-score, pushed 4007e9c.
+Processed 7 URLs (US:5 + Intl:2), generated 4 PDFs, archived 3 low-score, pushed 967bc31.
