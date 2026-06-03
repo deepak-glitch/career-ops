@@ -1380,3 +1380,190 @@ tracked_companies:
     scan_query: '"Maxim AI" OR "getmaxim" careers "engineer" OR "product"'
     notes: "AI evaluation and observability platform. Bangalore-based, mostly on-site."
     enabled: true
+
+  # === Source expansion 2026-06-02 (43 API-verified boards) ===
+  - name: Scale AI
+    careers_url: https://job-boards.greenhouse.io/scaleai
+    api: https://boards-api.greenhouse.io/v1/boards/scaleai/jobs
+    notes: "US (greenhouse) - 44/170 archetype roles; e.g. Applied AI Engineer, Enterprise, Forward Deployed Engineer, GenAI"
+    enabled: true
+  - name: Sezzle
+    careers_url: https://job-boards.greenhouse.io/sezzle
+    api: https://boards-api.greenhouse.io/v1/boards/sezzle/jobs
+    notes: "US (greenhouse) - 33/207 archetype roles; e.g. AI Engineer II (Remote), Sr. AI Engineer"
+    enabled: true
+  - name: Cresta
+    careers_url: https://job-boards.greenhouse.io/cresta
+    api: https://boards-api.greenhouse.io/v1/boards/cresta/jobs
+    notes: "US (greenhouse) - 31/116 archetype roles; e.g. Senior Forward Deployed Engineer (AI Agent), Forward Deployed Product Manager, AI Agent"
+    enabled: true
+  - name: Cognition
+    careers_url: https://jobs.ashbyhq.com/cognition
+    notes: "US (ashby) - 22/61 archetype roles; e.g. Applied AI Transformation Manager, Deployed Engineer"
+    enabled: true
+  - name: Together AI
+    careers_url: https://job-boards.greenhouse.io/togetherai
+    api: https://boards-api.greenhouse.io/v1/boards/togetherai/jobs
+    notes: "US (greenhouse) - 16/58 archetype roles; e.g. Forward Deployed Engineer (Inference & Post-Training), Machine Learning Engineer"
+    enabled: true
+  - name: BrainCo
+    careers_url: https://jobs.ashbyhq.com/brainco
+    notes: "Both (ashby) - 13/30 archetype roles; e.g. AI Product Engineer, AI Product Engineer, Deployed (Abu Dhabi)"
+    enabled: true
+  - name: Poolside
+    careers_url: https://jobs.ashbyhq.com/poolside
+    notes: "Both (ashby) - 11/17 archetype roles; e.g. Forward Deployed Research Engineer (FDRE - Clearance), Member of Engineering (Reinforcement Learning)"
+    enabled: true
+  - name: Snorkel AI
+    careers_url: https://job-boards.greenhouse.io/snorkelai
+    api: https://boards-api.greenhouse.io/v1/boards/snorkelai/jobs
+    notes: "US (greenhouse) - 9/48 archetype roles; e.g. Applied AI Engineer - AI Solutions, Staff Applied AI Engineer - Pre-Sales"
+    enabled: true
+  - name: Waabi
+    careers_url: https://jobs.lever.co/waabi
+    notes: "Intl (lever) - 8/61 archetype roles; e.g. Applied Scientist, Senior / Staff Applied Scientist"
+    enabled: true
+  - name: Fireworks AI
+    careers_url: https://job-boards.greenhouse.io/fireworksai
+    api: https://boards-api.greenhouse.io/v1/boards/fireworksai/jobs
+    notes: "US (greenhouse) - 7/28 archetype roles; e.g. Applied Machine Learning Engineer, Forward Deployed Product Manager"
+    enabled: true
+  - name: Baseten
+    careers_url: https://jobs.ashbyhq.com/baseten
+    notes: "US (ashby) - 7/67 archetype roles; e.g. Forward Deployed Engineer, AI Solutions Engineer"
+    enabled: true
+  - name: Aledade
+    careers_url: https://jobs.lever.co/aledade
+    notes: "US (lever) - 7/63 archetype roles; e.g. Staff Software Engineer - Data AI Agent, Staff AI Researcher"
+    enabled: true
+  - name: Cohere Health
+    careers_url: https://job-boards.greenhouse.io/coherehealth
+    api: https://boards-api.greenhouse.io/v1/boards/coherehealth/jobs
+    notes: "US (greenhouse) - 7/50 archetype roles; e.g. Senior Machine Learning Engineer, Staff Machine Learning Engineer"
+    enabled: true
+  - name: Upstart
+    careers_url: https://job-boards.greenhouse.io/upstart
+    api: https://boards-api.greenhouse.io/v1/boards/upstart/jobs
+    notes: "US (greenhouse) - 7/79 archetype roles; e.g. Principal Engineer, LLM, Principal Product Manager, Agentic Platform"
+    enabled: true
+  - name: Dust
+    careers_url: https://jobs.ashbyhq.com/dust
+    notes: "Intl (ashby) - 7/25 archetype roles; e.g. Founding AI Deployment Strategist (San Francisco), Solutions Engineer (San Francisco / Paris)"
+    enabled: true
+  - name: Ramp
+    careers_url: https://jobs.ashbyhq.com/Ramp
+    notes: "US (ashby) - 6/110 archetype roles; e.g. Applied AI Engineer, Software Engineer, AI Forward Deployed"
+    enabled: true
+  - name: Harvey
+    careers_url: https://jobs.ashbyhq.com/harvey
+    notes: "US (ashby) - 6/258 archetype roles; e.g. Staff Software Engineer, AI Platform, Senior Software Engineer, Agents"
+    enabled: true
+  - name: Outreach
+    careers_url: https://jobs.lever.co/outreach
+    notes: "Both (lever) - 6/33 archetype roles; e.g. Director of Applied Science and Engineering - Knowledge Graphs & AI, Senior Applied Scientist (Voice)"
+    enabled: true
+  - name: Truveta
+    careers_url: https://job-boards.greenhouse.io/truveta
+    api: https://boards-api.greenhouse.io/v1/boards/truveta/jobs
+    notes: "US (greenhouse) - 6/41 archetype roles; e.g. Machine Learning Engineer - LLMs & Generative AI, ML Postdoc Researcher - Healthcare AI Innovation"
+    enabled: true
+  - name: Lightning AI
+    careers_url: https://job-boards.greenhouse.io/lightningai
+    api: https://boards-api.greenhouse.io/v1/boards/lightningai/jobs
+    notes: "US (greenhouse) - 5/30 archetype roles; e.g. Forward Deployed Engineer, Machine Learning Solutions Engineer (ML + Infrastructure Focus)"
+    enabled: true
+  - name: Exa
+    careers_url: https://jobs.ashbyhq.com/exa
+    notes: "US (ashby) - 5/34 archetype roles; e.g. Forward Deployed Engineer, Research, ML"
+    enabled: true
+  - name: Jeeves
+    careers_url: https://jobs.lever.co/tryjeeves
+    notes: "Both (lever) - 5/48 archetype roles; e.g. Senior AI Engineer (Mexico), Senior AI Engineer (Brazil)"
+    enabled: true
+  - name: Qualified Health
+    careers_url: https://jobs.ashbyhq.com/qualified-health-pbc
+    notes: "US (ashby) - 5/34 archetype roles; e.g. Applied AI Engineer, Forward Deployed Engineer"
+    enabled: true
+  - name: Edison Scientific
+    careers_url: https://job-boards.greenhouse.io/edisonscientific
+    api: https://boards-api.greenhouse.io/v1/boards/edisonscientific/jobs
+    notes: "US (greenhouse) - 4/14 archetype roles; e.g. AI Engineer - Forward Deployed, Applied AI Engineer"
+    enabled: true
+  - name: Modal
+    careers_url: https://jobs.ashbyhq.com/modal
+    notes: "US (ashby) - 4/31 archetype roles; e.g. Forward Deployed Engineer - ML, Forward Deployed Engineer - Systems"
+    enabled: true
+  - name: Crosby
+    careers_url: https://jobs.ashbyhq.com/crosby
+    notes: "US (ashby) - 4/22 archetype roles; e.g. Applied AI Engineer, AI Researcher"
+    enabled: true
+  - name: Clarium
+    careers_url: https://jobs.ashbyhq.com/clarium
+    notes: "US (ashby) - 4/8 archetype roles; e.g. Senior AI Engineer, Applied AI, Forward Deployed Engineer (Data)"
+    enabled: true
+  - name: Anterior
+    careers_url: https://jobs.ashbyhq.com/anterior
+    notes: "US (ashby) - 4/5 archetype roles; e.g. Member of Technical Staff, Senior Member of Technical Staff"
+    enabled: true
+  - name: Pallet
+    careers_url: https://job-boards.greenhouse.io/pallet
+    api: https://boards-api.greenhouse.io/v1/boards/pallet/jobs
+    notes: "US (greenhouse) - 3/13 archetype roles; e.g. Forward Deployed Software Engineer (AI Agents), Enterprise Deployment Strategist (AI/ML Product)"
+    enabled: true
+  - name: Egen
+    careers_url: https://jobs.lever.co/egen
+    notes: "Both (lever) - 3/12 archetype roles; e.g. AI Enablement Specialist - GCP, LLM & Data (Hyderabad), ML Engineer (Hyderabad)"
+    enabled: true
+  - name: Turgon AI
+    careers_url: https://jobs.lever.co/turgon-ai
+    notes: "Both (lever) - 3/6 archetype roles; e.g. Generative AI Engineer, Senior AI Engineer"
+    enabled: true
+  - name: Mercura
+    careers_url: https://jobs.ashbyhq.com/mercura
+    notes: "EU (Munich, DE) (ashby) - 2/13 archetype roles; e.g. AI/LLM Engineer, Forward Deployed Engineer (FDE)"
+    enabled: true
+  - name: Unstructured
+    careers_url: https://jobs.lever.co/unstructuredtechnologies
+    notes: "US (lever) - 2/11 archetype roles; e.g. AI Engineer - Public Sector, Forward Deployed Engineer"
+    enabled: true
+  - name: Saga
+    careers_url: https://jobs.lever.co/saga-xyz
+    notes: "US (lever) - 2/3 archetype roles; e.g. Senior AI Engineer, Head of Product - AI Agent Commerce Platform"
+    enabled: true
+  - name: Runlayer
+    careers_url: https://jobs.ashbyhq.com/runlayer
+    notes: "US (ashby) - 2/14 archetype roles; e.g. Forward Deployed Engineer, Solutions Engineer"
+    enabled: true
+  - name: Tessera Labs
+    careers_url: https://jobs.ashbyhq.com/tessera-labs
+    notes: "US (ashby) - 2/19 archetype roles; e.g. AI Agent Engineer, Forward-Deployed Engineer"
+    enabled: true
+  - name: General Intelligence Company of New York
+    careers_url: https://jobs.ashbyhq.com/generalintelligencecompany
+    notes: "US (ashby) - 2/7 archetype roles; e.g. Applied AI Engineer - Agent, Agents Research Lead"
+    enabled: true
+  - name: Saris AI
+    careers_url: https://jobs.ashbyhq.com/saris-ai
+    notes: "US (ashby) - 2/8 archetype roles; e.g. Senior ML Engineer, ML Engineering Lead"
+    enabled: true
+  - name: Proton
+    careers_url: https://job-boards.greenhouse.io/proton
+    api: https://boards-api.greenhouse.io/v1/boards/proton/jobs
+    notes: "Intl (greenhouse) - 2/57 archetype roles; e.g. Machine Learning Engineer, Senior Machine Learning Engineer (Security)"
+    enabled: true
+  - name: Zello
+    careers_url: https://jobs.ashbyhq.com/zello
+    notes: "US (ashby) - 1/9 archetype roles; e.g. Applied AI Engineer"
+    enabled: true
+  - name: Panopto
+    careers_url: https://jobs.lever.co/panopto
+    notes: "US (lever) - 1/14 archetype roles; e.g. AI Engineer"
+    enabled: true
+  - name: CodeRabbit
+    careers_url: https://jobs.ashbyhq.com/coderabbit
+    notes: "Both (ashby) - 1/59 archetype roles; e.g. Applied AI Engineer"
+    enabled: true
+  - name: Nabla
+    careers_url: https://jobs.ashbyhq.com/nabla
+    notes: "Both (ashby) - 1/15 archetype roles; e.g. Senior Machine Learning Engineer - Speech to Text"
+    enabled: true

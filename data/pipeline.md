@@ -6,7 +6,20 @@
      creates it at the end of Pending. -->
 
 ## Pending
-## Processed
+
+### 2026-06-03
+
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4970396008 | Cresta | Associate Conversational AI Designer | United States (Remote)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4122946008 | Cresta | Customer Engineer | United States (Remote)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4906900008 | Cresta | Enterprise Solutions Engineer  | United States (Remote)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4985070008 | Cresta | Strategic Solutions Engineer, East  | United States (Remote)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4983651008 | Cresta | Strategic Solutions Engineer, West | United States (Remote)
+- [ ] https://jobs.ashbyhq.com/baseten/c94019e7-923d-441e-937f-2fca5920733c | Baseten | Assistant General Counsel - AI, Privacy & Governance | San Francisco
+- [ ] https://job-boards.greenhouse.io/pallet/jobs/5149065007 | Pallet | Enterprise Deployment Strategist (AI/ML Product) | San Francisco or New York City
+- [ ] https://job-boards.greenhouse.io/pallet/jobs/5153428007 | Pallet | Security Platform Engineer | San Francisco or New York
+- [ ] https://job-boards.eu.greenhouse.io/proton/jobs/4860619101 | Proton | Linux Test Automation Engineer | Skopje; Vilnius; Barcelona; 
+
+## Processed
 
 ### 2026-06-02
 - [x] #1066 | https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2 | Camunda | AI Process Forward Deployed Engineer | Fully Remote (Global) #LI-Remote #USEAST | 3.6/5 | PDF ✅

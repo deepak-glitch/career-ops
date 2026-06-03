@@ -13,7 +13,13 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-## Processed
+
+### 2026-06-03
+
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5021027008 | Cresta | Solutions Engineer, EMEA | United Kingdom (Remote)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5106219008 | Cresta | Strategic Solutions Engineer, APAC  | Australia (Remote)
+
+## Processed
 
 ### 2026-06-02
 - [x] #1067 | https://job-boards.eu.greenhouse.io/polyai/jobs/4880510101 | PolyAI | Forward Deployed AI Engineer (Vancouver) | Vancouver, BC — On-site (Canada) | 3.0/5 | PDF ✅
