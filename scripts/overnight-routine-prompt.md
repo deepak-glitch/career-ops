@@ -19,8 +19,8 @@ tracks (US + Intl), with built-in error recovery and an audit trail.
 
 - **As a Claude `/schedule` routine or `claude -p` job:** paste the prompt block below verbatim. It runs
   inline/synchronously and pushes to `main` itself.
-- **Cadence:** 5×/day at 2-hour gaps is the intended schedule (matches the GitHub Action cron
-  `0 4,6,8,10,12 * * *`). **Use ONE scheduler only** — if you run this as a routine, disable the GitHub
+- **Cadence:** every 4 hours, around the clock (6×/day) is the intended schedule (matches the GitHub
+  Action cron `0 */4 * * *`). **Use ONE scheduler only** — if you run this as a routine, disable the GitHub
   Action's cron so the two don't collide (a manual/routine run overlapping a scheduled run is the one
   thing the workflow's `concurrency:` guard cannot coordinate).
 

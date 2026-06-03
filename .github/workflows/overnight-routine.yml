@@ -1,15 +1,14 @@
 name: Career-Ops Overnight Routine
 
-# Runs 5 times overnight: 12am, 2am, 4am, 6am, 8am US Eastern Time.
-# US Eastern = UTC-5 (EST) or UTC-4 (EDT). Cron is UTC.
-# During EDT (roughly mid-March to early November): 12am ET = 04:00 UTC.
-# During EST (early November to mid-March): 12am ET = 05:00 UTC.
-# This cron targets EDT (adjust if needed when DST flips).
+# Runs every 4 hours, around the clock (6x/day): 00, 04, 08, 12, 16, 20 UTC.
+# 24h coverage so postings that go live during US business hours are caught too,
+# not just overnight. Cron is always UTC; the 4-hour cadence is DST-agnostic.
+# Reference (EDT, UTC-4): those map to 8pm, 12am, 4am, 8am, 12pm, 4pm ET.
 
 on:
   schedule:
-    # 12am, 2am, 4am, 6am, 8am ET (EDT) -> 04:00, 06:00, 08:00, 10:00, 12:00 UTC
-    - cron: '0 4,6,8,10,12 * * *'
+    # every 4 hours: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC
+    - cron: '0 */4 * * *'
   workflow_dispatch:      # manual trigger from GitHub UI
     inputs:
       reason:
