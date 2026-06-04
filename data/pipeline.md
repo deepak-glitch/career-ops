@@ -6,12 +6,6 @@
      creates it at the end of Pending. -->
 
 ## Pending
-
-### 2026-06-04
-- [!] https://jobs.ashbyhq.com/tenex/3094ecfb-1291-44fa-9934-efdba529389b | error: dead — Ashby GraphQL returns null jobPosting
-- [!] https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a | error: dead — Ashby GraphQL returns null jobPosting
-
-
 ## Processed
 
 ### 2026-06-04
@@ -26,6 +20,9 @@
 - [x] #1110 | https://job-boards.greenhouse.io/scaleai/jobs/4699574005 | Scale AI | AI Deployment Strategist, Healthcare & Life Sciences | San Francisco, CA / New York, NY — Hybrid 3d/wk | 2.5/5 SKIP | PDF ❌
 - [x] #1118 | https://jobs.ashbyhq.com/monaco/448aa20c-3119-4166-a2dd-ed11b58327e3 | Monaco | AI Engineer | San Francisco, CA — In-person 5d/wk | 4.0/5 | PDF ✅
 - [x] #1119 | https://jobs.ashbyhq.com/tessera-labs/0cb577c2-6cdd-4361-b1af-870ccfc9d792 | Tessera Labs | AI Agent Engineer | San Jose, CA — On-site (HQ) | 3.6/5 | PDF ✅
+- [x] #1126 | https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer – Full Stack AI | Remote — United States | 3.7/5 | PDF ✅
+- [x] #1127 | https://job-boards.greenhouse.io/proconex/jobs/5970129004 | Proconex | AI/ML Engineer - Vision AI | Royersford, PA — likely on-site/hybrid | 3.0/5 | PDF ✅
+- [x] #1128 | https://job-boards.eu.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer, VoIP | New York / US Remote | 2.2/5 SKIP | PDF ❌
 
 
 ### 2026-06-03

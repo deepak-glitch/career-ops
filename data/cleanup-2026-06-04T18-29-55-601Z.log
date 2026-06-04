@@ -1,0 +1,36 @@
+# Pipeline cleanup audit log
+Run: 2026-06-04T18:29:55.601Z
+
+## US pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  8
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### US — Kept unmatched (manual review)
+- - [!] https://jobs.ashbyhq.com/tenex/3094ecfb-1291-44fa-9934-efdba529389b | error: dead — Ashby GraphQL returns null jobPosting
+- - [!] https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a | error: dead — Ashby GraphQL returns null jobPosting
+- - [!] https://jobs.ashbyhq.com/Hippocratic%20AI/e0fcafa9-0797-4d18-9d87-c9857cced283 | filter: title contains "Senior"
+- - [!] https://jobs.ashbyhq.com/Hippocratic%20AI/3c70c323-b536-4ba8-9e65-6138453f85f2 | error: dead — Greenhouse ?error=true or Ashby null jobPosting
+- - [!] https://jobs.ashbyhq.com/nestmed/7d7b2b1d-7a50-4776-a6ec-9576dff7ccf5 | error: dead — Greenhouse ?error=true or Ashby null jobPosting
+- - [!] https://jobs.ashbyhq.com/taxo/93ee6084-83c9-42ac-b45f-3fe81f403ef6 | filter: title contains "Staff"
+- - [!] https://job-boards.greenhouse.io/newsbreak/jobs/4338876006 | error: dead — Greenhouse ?error=true or Ashby null jobPosting
+- - [!] https://job-boards.greenhouse.io/li-thermal-works/jobs/4242010009 | error: dead — Greenhouse ?error=true or Ashby null jobPosting
+
+## Intl pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  4
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### Intl — Kept unmatched (manual review)
+- - [!] https://job-boards.eu.greenhouse.io/parloa/jobs/4656966101 | error: dead — Greenhouse ?error=true or Ashby null jobPosting
+- - [!] https://job-boards.eu.greenhouse.io/yld/jobs/4644589101 | error: dead — Greenhouse ?error=true or Ashby null jobPosting
+- - [!] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4658308101 | error: dead — Greenhouse ?error=true or Ashby null jobPosting
+- - [!] https://job-boards.eu.greenhouse.io/invisibletech/jobs/4752726101 | error: dead — Greenhouse ?error=true or Ashby null jobPosting

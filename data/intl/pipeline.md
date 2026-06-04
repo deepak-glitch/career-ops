@@ -13,7 +13,6 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-
 ## Processed
 
 ### 2026-06-04
@@ -25,6 +24,9 @@
 - [x] #1112 | https://job-boards.greenhouse.io/scaleai/jobs/4536659005 | Scale AI | Applied AI Engineer, Enterprise | London, UK — Hybrid 2-3d/wk | 3.3/5 | PDF ✅
 - [x] #1113 | https://jobs.ashbyhq.com/cognition/8139c589-494a-449a-b608-b11a689e7b2e | Cognition | Deployed Engineer — LATAM | Brazil (LATAM) — 25-50% travel | 3.2/5 | PDF ✅
 - [x] #1114 | https://job-boards.eu.greenhouse.io/valtech/jobs/4878748101 | Valtech | Forward Deployed Engineer, Google Cloud, AI Expert | Montreal, Canada — Remote + up to 50% travel | 3.0/5 | PDF ✅
+- [x] #1129 | https://jobs.ashbyhq.com/openai/961f6c58-1572-48a8-bb8b-2bffdf82a5cc | OpenAI | Forward Deployed Software Engineer - Paris | Paris, France — Hybrid 3d/wk + 50% travel | 2.8/5 SKIP | PDF ❌
+- [x] #1130 | https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps | Berlin/Munich/DE Remote | 2.7/5 SKIP | PDF ❌
+- [x] #1131 | https://job-boards.eu.greenhouse.io/yld/jobs/4845729101 | YLD | Contract Forward Deployed Engineer | UK/EU Remote (Contract 6mo) | 2.4/5 SKIP | PDF ❌
 
 ### 2026-06-04
 - [x] #1105 | https://ethonai.recruitee.com/o/forward-deployed-engineer-2 | EthonAI | Forward Deployed Engineer | Zürich, Switzerland — On-site 3d/wk | 3.3/5 | PDF ✅
