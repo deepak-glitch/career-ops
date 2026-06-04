@@ -1126,3 +1126,9 @@ Processed 4 URLs (US:3 + Intl:1), generated 3 PDFs, archived 1 low-score, pushed
 Push landed clean on first attempt.
 
 Processed 10 URLs (US:5 + Intl:5), generated 8 PDFs, archived 2 low-score, pushed b6b5fcb
+2026-06-04T040818Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install (added 59 packages)	outcome:resolved
+2026-06-04T040818Z	step1-scan	warn	US+Intl scan: Tinybird/Travelperk/Forto HTTP 404 (stale ATS endpoints)	fix:scanner skipped gracefully, 0 net-new either track	outcome:skipped
+2026-06-04T040818Z	step2-pdf	warn	Playwright Chromium not installed (PDF render failed)	fix:npx playwright install chromium	outcome:resolved
+2026-06-04T040818Z	step2-jd	warn	ICEYE Workable B75F49639E v2/v3 API 404 + widget jobs:[] (posting closed)	fix:kept as [!] retry; cleanup-bang-rows will mark dead	outcome:skipped
+2026-06-04T040818Z	step1-pipeline	warn	US pipeline 0 pending after scan (0 net-new US)	fix:nothing to evaluate US track, per Playbook #9	outcome:resolved
+2026-06-04T040818Z	step4-cleanup	warn	stray #1115 FieldAI 2.8/5 SKIP row in intl Procesadas (report already deleted prior run)	fix:removed stray <3.0 pipeline row manually	outcome:resolved

@@ -13,20 +13,15 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-
-### 2026-06-04
-- [!] https://apply.workable.com/iceye/j/B75F49639E/ | ICEYE | error: JD extraction incomplete (Workable SPA rendered metadata only) — retry next run via Workable jobs API
-- [!] https://apply.workable.com/languagewire/j/685F344246/ | LanguageWire | error: JD body not extracted (Workable SPA only returned About text); retry via Workable jobs API next run
-
 ## Processed
 
 ### 2026-06-04
+- [x] #1116 | https://apply.workable.com/languagewire/j/685F344246/ | LanguageWire | AI Engineer | Remote — Spain (full WFH) | 3.7/5 | PDF ✅
+- [x] #1117 | https://himalayas.app/companies/maia/jobs/applied-ai-engineer-f-m-x | MAIA | Applied AI Engineer (f/m/x) | Remote — Germany | 3.2/5 | PDF ✅
 - [x] #1111 | https://job-boards.greenhouse.io/celonis/jobs/7662803003 | Celonis | Associate Applied AI Engineer (Benelux) — Orbit Program | Madrid, Spain — Hybrid | 3.5/5 | PDF ✅
 - [x] #1112 | https://job-boards.greenhouse.io/scaleai/jobs/4536659005 | Scale AI | Applied AI Engineer, Enterprise | London, UK — Hybrid 2-3d/wk | 3.3/5 | PDF ✅
 - [x] #1113 | https://jobs.ashbyhq.com/cognition/8139c589-494a-449a-b608-b11a689e7b2e | Cognition | Deployed Engineer — LATAM | Brazil (LATAM) — 25-50% travel | 3.2/5 | PDF ✅
 - [x] #1114 | https://job-boards.eu.greenhouse.io/valtech/jobs/4878748101 | Valtech | Forward Deployed Engineer, Google Cloud, AI Expert | Montreal, Canada — Remote + up to 50% travel | 3.0/5 | PDF ✅
-- [x] #1115 | https://jobs.lever.co/field-ai/dfa08958-6fc7-43f3-ac1f-b4c5767b0d12 | FieldAI | Forward Deployed Engineer — Singapore | Singapore — On-site | 2.8/5 SKIP | PDF ❌
-
 
 ### 2026-06-04
 - [x] #1105 | https://ethonai.recruitee.com/o/forward-deployed-engineer-2 | EthonAI | Forward Deployed Engineer | Zürich, Switzerland — On-site 3d/wk | 3.3/5 | PDF ✅

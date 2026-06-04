@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1116 | 2026-06-04 | LanguageWire | AI Engineer | 3.7/5 | Evaluated | ✅ | [1116](reports/1116-languagewire-ai-engineer-2026-06-04.md) | [Intl] Remote-Spain; context engineering/RAG/agentic MT/LLMOps — near-bullseye fit; F-1 OPT EU-auth flag; full JD via Workable API (prior #1097 opaque) |
+| 1117 | 2026-06-04 | MAIA | Applied AI Engineer | 3.2/5 | Evaluated | ✅ | [1117](reports/1117-maia-applied-ai-engineer-2026-06-04.md) | [Intl] Remote-Germany €75-85k+VSOP; LLM/RAG/observability strong, backend TS/Go/Java/Rust partial; F-1 OPT EU-auth flag |
 | 1106 | 2026-06-04 | Unstructured | AI Engineer - Public Sector | 3.8/5 | Evaluated | ✅ | [1106](reports/1106-unstructured-ai-engineer-public-sector-2026-06-04.md) | [US] Remote US public-sector RAG/agentic at Unstructured; Python+LangGraph+Pinecone+FastAPI+Bedrock stack ~1:1; clearance eligibility is the open gap; strong archetype fit |
 | 1111 | 2026-06-04 | Celonis | Associate Applied AI Engineer (Benelux) — Orbit Program | 3.5/5 | Evaluated | ✅ | [1111](reports/1111-celonis-associate-applied-ai-orbit-madrid-2026-06-04.md) | [Intl] Madrid hybrid 2y program then Amsterdam; entry-level Orbit grad program; SQL+Py+ML+LLM stack fit; EU work auth + relocation friction |
 | 1113 | 2026-06-04 | Cognition | Deployed Engineer — LATAM | 3.2/5 | Evaluated | ✅ | [1113](reports/1113-cognition-deployed-engineer-latam-brazil-2026-06-04.md) | [Intl] Brazil LATAM; Cognition (Devin/Windsurf) DE; Py/TS+customer-eng fit; F-1 OPT US base + LATAM relocation = blocker |
