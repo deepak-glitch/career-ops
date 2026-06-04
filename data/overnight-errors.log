@@ -1142,3 +1142,4 @@ Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed
 2026-06-04T120855Z	step1-scan-US	warn	portal HTTP 404 Tinybird/Travelperk/Forto	fix:none (ATS endpoint changed upstream)	outcome:skipped
 2026-06-04T120855Z	step2-pdf	warn	Chromium browser not installed for Playwright	fix:npx playwright install chromium once	outcome:resolved
 2026-06-04T120855Z	step3-merge	warn	Tessera+Nexxa already existed (company+role dup)	fix:merge-tracker updated #82 (3.3->3.6) and skipped Nexxa #969; deleted orphan report 1120+PDF+pipeline row	outcome:resolved
+Processed 4 URLs (US:2 + Intl:2), generated 0 PDFs, archived 4 low-score, pushed e563aba.
