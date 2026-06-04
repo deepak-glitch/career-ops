@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1105 | 2026-06-04 | EthonAI | Forward Deployed Engineer (Zürich) | 3.3/5 | Evaluated | ✅ | [1105](reports/1105-ethonai-forward-deployed-engineer-2026-06-04.md) | [Intl] Zürich on-site 3d/wk; strong skills fit; relocation + Swiss permit needed (F-1 OPT) |
 | 1101 | 2026-06-03 | Clarium | AI Engineer - Data Intelligence | 4.3/5 | Evaluated | ✅ | [1101](reports/1101-clarium-ai-engineer-data-intelligence-2026-06-03.md) | [US] Remote/US healthcare supply-chain RegTech; $150-180K + ISOs; junior-friendly Series-A; near-ideal archetype + stack + comp + remote-US fit |
 | 1103 | 2026-06-03 | OPPO US Research Center | AI Engineer | 3.4/5 | Evaluated | ✅ | [1103](reports/1103-oppo-us-ai-engineer-2026-06-03.md) | [US] On-site Palo Alto; $100-200K + bonus + LTI; multimodal + agentic stack match; relocation cost + wide comp band drag score |
 | 1099 | 2026-06-03 | DeepLearning.AI | AI Engineer | 3.5/5 | Evaluated | ✅ | [1099](reports/1099-deeplearning-ai-ai-engineer-2026-06-03.md) | [US] GenAI building-blocks (RAG/agentic/finetuning/evals/guardrails) map ~1:1 to Progress+Vanguard stack; early-career fit; capped by full on-site Mountain View CA relocation + front-end (React/TS) gap |

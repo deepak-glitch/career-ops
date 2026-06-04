@@ -1115,3 +1115,11 @@ Processed 12 URLs (US:9 + Intl:3), generated 3 PDFs, archived 9 low-score, pushe
 2026-06-03T200803Z	step1-L3	warn	MechanizedAI(AI+GenAI)/MindComputing/Jobgether roles closed or removed (dead)	fix:not added as pending; recorded as dead in scan-history scope	outcome:resolved
 2026-06-03T200803Z	step2-pdf	warn	Playwright chromium-headless-shell missing (container reset; Executable doesnt exist)	fix:npx playwright install chromium-headless-shell then retried	outcome:resolved
 Processed 4 URLs (US:3 + Intl:1), generated 3 PDFs, archived 1 low-score, pushed 2bf6d03e1548825ff6c331eb54619e6bb25c2fac.
+2026-06-04T000823Z	step1-scan	warn	ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-04T000823Z	step1-scan-us	warn	scan HTTP 404 Tinybird/Travelperk/Forto	fix:none (known broken ATS slugs, scanner skipped)	outcome:skipped
+2026-06-04T000823Z	step2-pdf	warn	Playwright Chromium not installed	fix:npx playwright install chromium	outcome:resolved
+2026-06-04T000823Z	step2-jd	warn	Q-Centrix builtin listing expired (removed 2025-07-15)	fix:dropped from pending, not evaluated (dead)	outcome:skipped
+2026-06-04T000823Z	step2-jd	warn	Seaplane Workable HTTP 404 (posting removed)	fix:dropped from pending (dead)	outcome:skipped
+2026-06-04T000823Z	step2-jd	warn	particula join.com HTTP 410 Gone (was persistent [!] retry)	fix:resolved dead, removed from intl pending	outcome:skipped
+2026-06-04T000823Z	step2-jd	warn	ICEYE Workable SPA metadata-only + careers 404	fix:marked [!] retry next run via Workable API	outcome:unresolved
+2026-06-04T000823Z	step1-l3	warn	RunPod EMEA FDE (gh 5082425008) redirected to board (closed); Synthflow Ashby jobPosting null (closed)	fix:not added to pipeline	outcome:skipped

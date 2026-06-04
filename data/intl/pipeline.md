@@ -14,10 +14,13 @@
 
 ## Pending
 
-### 2026-06-03
-- [!] https://himalayas.app/companies/particula/jobs/ai-ml-engineer-llms-rag | error: JD extraction failed (himalayas JS page returns job directory, not the posting) — retry next run via direct ATS
+### 2026-06-04
+- [!] https://apply.workable.com/iceye/j/B75F49639E/ | ICEYE | error: JD extraction incomplete (Workable SPA rendered metadata only) — retry next run via Workable jobs API
 
 ## Processed
+
+### 2026-06-04
+- [x] #1105 | https://ethonai.recruitee.com/o/forward-deployed-engineer-2 | EthonAI | Forward Deployed Engineer | Zürich, Switzerland — On-site 3d/wk | 3.3/5 | PDF ✅
 
 ### 2026-06-03
 - [x] #1095 | https://job-boards.greenhouse.io/scaleai/jobs/4413992005 | Scale AI | Applied AI Engineer, Global Public Sector | Doha, Qatar; London, UK - Hybrid + ~2 wks/q travel | 3.1/5 | PDF ✅
