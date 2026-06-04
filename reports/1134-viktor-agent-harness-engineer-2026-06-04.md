@@ -1,0 +1,103 @@
+# Evaluación: Viktor — Agent Harness Engineer (Remote)
+
+**Fecha:** 2026-06-04
+**Arquetipo:** Applied AI / Agentic / Forward Deployed (hybrid)
+**Score:** 3.7/5
+**URL:** https://jobs.ashbyhq.com/viktor/c750869a-1859-4339-bfc9-161a9ee2dc9f
+**Legitimacy:** High Confidence
+**Location:** Europe (primary remote) + hubs Munich/NY/Warsaw
+**Region:** Intl
+**PDF:** output-intl/2026-06-04/cv-deepak-mallampati-viktor-agent-harness-2026-06-04.pdf
+
+---
+
+## A) Resumen del Rol
+
+| Field | Value |
+|---|---|
+| Arquetipo | Agentic / Applied AI / FDE (small team, large surface) |
+| Domain | AI teammate in Slack/Teams — 600K+ tool calls/day |
+| Function | Build agent runtime, ship integrations, run infra, ship product |
+| Seniority | Mid–senior (agent-harness fluency required from day 1) |
+| Remote | Europe-first remote; hubs Munich, NYC, Warsaw; few in-person/year |
+| Comp | "Competitive + ownership-equity" (undisclosed) |
+| TL;DR | Build agent runtime (sandboxed exec, tool orchestration, memory, self-verifying loop) at AI teammate that already does 600K+ tool calls/day; direct work with both founders, ship-to-prod-daily culture, requires real prior agent-harness experience and agentic-coding fluency. |
+
+## B) Match con CV
+
+| JD Requirement | CV Evidence | Fit |
+|---|---|---|
+| Built/significantly modified an AI agent harness | Progress conductor–subagent orchestration framework (42% token reduction) | ✅ Strong |
+| Multi-agent / orchestration in production | Vanguard 25+ AI agents + Progress agentic LLM systems | ✅ |
+| Tool orchestration + OAuth/webhooks/schema integration | Vanguard 12 APIs/microservices | ✅ |
+| Sandboxed execution / runtime | Not explicit; closest is FastAPI services + Docker | ⚠️ Adjacent |
+| Eval / "agent closes the loop" infra | Progress LLM eval framework (RAGAS, BERTScore, custom metrics) | ✅ |
+| Custom skills/commands/CLIs/MCP servers for own agentic coding | career-ops (this very project) is exactly that | ✅ Strong |
+| Agentic coding as daily workflow | career-ops project + active LLM development | ✅ |
+| TypeScript + React frontend | MangaLens Chrome extension TS/React | ✅ |
+| Python backend + agents | Vanguard, Progress, KSU — primary stack | ✅ |
+| Modal infra | Not explicit — ramp gap | ⚠️ |
+| Ship-to-prod-daily, low-process | Progress culture is close; not explicit on quotes | ⚠️ |
+| Europe remote OK | Currently US (Kent OH) + F-1 OPT | ⚠️ Location/auth flag |
+
+**Gaps:** Modal (1-2 wk ramp). Location: Europe primary; F-1 OPT means US-tax-resident. Viktor lists NYC as a hub, so a US-located IC is plausible — flag to clarify in screen.
+
+## C) Nivel y Estrategia
+
+JD signals senior-engineer-with-founder-energy. Sell: "Built an AI conductor-subagent harness that cut token usage 42% while sustaining task accuracy; career-ops is a working agent-harness for my own workflow shipping to prod overnight without human review." Down-level only if equity makes up for cash.
+
+## D) Comp y Demanda
+
+| Metric | Source | Note |
+|---|---|---|
+| AI teammate / Slack-integrated agent startups | Levels.fyi / Glassdoor 2026 | Series A SWE ~$150–230K + 0.1–1% equity |
+| Viktor funding | Not disclosed in posting | Investors not named |
+| Agentic-runtime engineer demand | Very high (Sierra, Imbue, /dev/agents, Cognition all hiring) | Hot vertical |
+
+## E) Plan de Personalización
+
+| # | CV Section | Change |
+|---|---|---|
+| 1 | Summary | Lead "Agent-harness builder — designed conductor–subagent orchestration with 42% token reduction; daily agentic-coding workflow" |
+| 2 | Progress | Promote agentic orchestration bullet first; lead "context-scoped subagents that execute autonomously" |
+| 3 | Projects | Lead with **career-ops** as proof of agentic-coding daily workflow (the system that wrote this very report!) |
+| 4 | Skills | Promote LangGraph, multi-agent, Hugging Face, FastAPI, Docker, MLflow to top |
+| 5 | Vanguard | Promote "25+ AI agents partnering 20+ teams" |
+| 6 | Footer | "Open to Europe-remote / US-located w/ travel to Munich/NYC" |
+
+## F) Plan de Entrevistas
+
+| # | JD Req | STAR+R Story | Reflection |
+|---|---|---|---|
+| 1 | Agent harness experience | Progress conductor–subagent: -42% tokens, sustained accuracy | Context partitioning is the lever, not bigger context |
+| 2 | "Closes the loop" — tests/typechecks | career-ops own self-verification (verify-pipeline.mjs, cleanup scripts) | Self-verifying = scalable agents |
+| 3 | Tool orchestration | Vanguard 12 APIs/microservices powering 25+ agents | Latency budgets cascade across the agent graph |
+| 4 | OAuth / integrations | Vanguard production integrations | OAuth is a moat once you've built it 3x |
+| 5 | TS/React | MangaLens 29 sites Chrome ext | Real user reports beat synthetic eval |
+| 6 | Python backend | Progress healthcare RAG + agentic | Same eval discipline as research |
+| 7 | Founder-direct culture fit | career-ops as solo-ownership product | Owning end-to-end forces sharper trade-offs |
+
+Case study: career-ops itself — this evaluation was generated by an autonomous agent harness; demo live. Red flag: "Why leave US/why Europe?" → "Open to any geo; primary need is the agent-runtime surface; Munich/NYC hub flexibility matters."
+
+## G) Posting Legitimacy
+
+| Signal | Finding | Weight |
+|---|---|---|
+| Date freshness | Active in Ashby board | Positive |
+| Description specificity | Extremely concrete (600K+ tool calls/day, named tools, Slack/Teams, Modal, TS/Python) | Positive |
+| Comp transparency | Opaque — "competitive + ownership" | Neutral |
+| Company traction | 600K+ tool calls/day claimed; customers cited | Positive |
+| Bar / day-1 expectation | "Ship in week 1; talk to users day 1" — explicit | Positive |
+| Repost detection | First seen at this jid | Neutral |
+
+**Assessment:** High Confidence.
+
+## H) Draft Application Answers
+
+Skipped — score 3.7/5.
+
+---
+
+## Keywords extraídas
+
+agent harness, AI teammate, agent runtime, sandboxed execution, tool orchestration, multi-agent, MCP server, agentic coding, Slack, Teams, OAuth, webhooks, schema mapping, TypeScript, React, Python, Modal, evals, eval infrastructure, founder-direct, Europe remote

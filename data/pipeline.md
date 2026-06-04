@@ -6,9 +6,15 @@
      creates it at the end of Pending. -->
 
 ## Pending
+
+### 2026-06-04
+- [ ] https://www.ycombinator.com/companies/luminai/jobs/9s487sF-forward-deployed-engineer | Luminai | Forward Deployed Engineer | US
+
 ## Processed
 
 ### 2026-06-04
+- [x] #1132 | https://job-boards.greenhouse.io/federato/jobs/5019876008 | Federato | Forward Deployed Engineer II | Remote — US | 3.6/5 | PDF ✅
+- [x] #1133 | https://jobs.ashbyhq.com/universalagi/995ceec2-c76e-4466-9859-05bda9898284 | UniversalAGI | ML Engineer | San Francisco, CA — Onsite 5d/wk | 3.3/5 | PDF ✅
 - [x] #1124 | https://job-boards.greenhouse.io/intercom/jobs/7982566 | Intercom | Forward Deployed Software Engineer | Dublin, Ireland — Hybrid 3+ days | 3.4/5 | PDF ✅
 - [x] #1125 | https://jobs.ashbyhq.com/happyrobot.ai/43d9bd48-7701-4719-affd-ecf92adfc37a | Happyrobot | Machine Learning Engineer | Spain (EU) | 3.7/5 | PDF ✅
 - [x] #1120 | https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc | Cedana | Forward Deployed Engineer: AI + HPC | Remote — US (~25% travel) | 2.4/5 SKIP | PDF ❌

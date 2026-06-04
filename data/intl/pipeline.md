@@ -13,9 +13,17 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
+
+### 2026-06-04
+- [ ] https://himalayas.app/companies/smartclip-europe-gmbh/jobs/ai-engineer-w-m-d | smartclip Europe | AI Engineer (w/m/d) | Germany — Remote
+- [ ] https://himalayas.app/companies/welocalize/jobs/ai-machine-learning-r-d-engineer | Welocalize | AI Machine Learning R&D Engineer | Spain — Remote (verify)
+- [ ] https://apply.workable.com/huggingface/j/56232F23CB | Hugging Face | Open-Source Machine Learning Engineer | International Remote
+
 ## Processed
 
 ### 2026-06-04
+- [x] #1134 | https://jobs.ashbyhq.com/viktor/c750869a-1859-4339-bfc9-161a9ee2dc9f | Viktor | Agent Harness Engineer (Remote) | Europe — Remote + hubs Munich/NYC/Warsaw | 3.7/5 | PDF ✅
+- [x] #1135 | https://himalayas.app/companies/space-inch/jobs/ai-engineer-eu-653648566 | Space Inch | AI Engineer - EU | Portugal — Remote | 3.2/5 | PDF ✅
 - [x] #1122 | https://jobs.ashbyhq.com/Sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff | Sierra | Software Engineer, Agent (Spanish speaking) | London, UK — In-person | 1.9/5 SKIP | PDF ❌
 - [x] #1123 | https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-apac-4246987 | Runpod | Forward Deployed Engineer APAC | Remote — Singapore / South Korea / Malaysia | 2.0/5 SKIP | PDF ❌
 - [x] #1116 | https://apply.workable.com/languagewire/j/685F344246/ | LanguageWire | AI Engineer | Remote — Spain (full WFH) | 3.7/5 | PDF ✅
