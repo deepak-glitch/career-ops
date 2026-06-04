@@ -1148,3 +1148,8 @@ Processed 4 URLs (US:2 + Intl:2), generated 0 PDFs, archived 4 low-score, pushed
 2026-06-04T161959Z	step2-pdf	warn	Playwright chromium not installed	fix:npx playwright install chromium	outcome:resolved
 2026-06-04T160832Z	step4-cleanup	warn	Sezzle URL 7633956003 dup of existing #945 (novelty check omitted intl pipeline)	fix:removed leftover #1126 intl Procesadas row; report+tracker already deleted as <3.0	outcome:resolved
 Processed 6 URLs (US:3 + Intl:3), generated 2 PDFs, archived 4 low-score, pushed 04f334c.
+2026-06-04T200757Z	step0-setup	warn	node_modules missing (js-yaml absent) for scan.mjs	fix:npm install once (Playbook #8)	outcome:resolved
+2026-06-04T200757Z	step1-scan-us	warn	HTTP 404 Tinybird/Travelperk/Forto careers slugs	fix:none — non-blocking, scan_method websearch fallbacks exist	outcome:skipped
+2026-06-04T200757Z	step1-scan-intl	warn	HTTP 404 Tinybird/Travelperk/Forto careers slugs	fix:none — non-blocking, scan_method websearch fallbacks exist	outcome:skipped
+2026-06-04T200757Z	step1-scan-L3	warn	all L3 WebSearch candidates already in scan-history (Promise/SuperPlane/AHEAD/DefenseUnicorns/Aircall/BCG/Smartsheet/Retell/Dot/Strada/P-1 AI/FurtherAI)	fix:none — portals saturated after 4 prior overnight runs today	outcome:resolved
+2026-06-04T200757Z	step2-pipeline	warn	0 pending after scan in both US+Intl tracks	fix:nothing to evaluate per Playbook #9	outcome:resolved
