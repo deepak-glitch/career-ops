@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1124 | 2026-06-04 | Intercom | Forward Deployed Software Engineer | 3.4/5 | Evaluated | ✅ | [1124](reports/1124-intercom-forward-deployed-software-engineer-2026-06-04.md) | [US] Dublin hybrid 3+ days + travel; FDE for Fin AI; F-1 OPT relocation flag; strong API/agentic fit |
+| 1125 | 2026-06-04 | Happyrobot | Machine Learning Engineer | 3.7/5 | Evaluated | ✅ | [1125](reports/1125-happyrobot-machine-learning-engineer-2026-06-04.md) | [US] Spain EU; founding ML hire, YC S23/a16z $60M; strong MLOps/NLP/real-time fit; Go gap minor |
 | 1118 | 2026-06-04 | Monaco | AI Engineer | 4.0/5 | Evaluated | ✅ | [1118](reports/1118-monaco-ai-engineer-2026-06-04.md) | [US] SF 5-day on-site; applied-AI bullseye (prompts/RAG/agents/evals/Python), 3+ yrs seniority perfect; Series B $85M; only friction is SF relocation; US auth fine |
 | 1116 | 2026-06-04 | LanguageWire | AI Engineer | 3.7/5 | Evaluated | ✅ | [1116](reports/1116-languagewire-ai-engineer-2026-06-04.md) | [Intl] Remote-Spain; context engineering/RAG/agentic MT/LLMOps — near-bullseye fit; F-1 OPT EU-auth flag; full JD via Workable API (prior #1097 opaque) |
 | 1117 | 2026-06-04 | MAIA | Applied AI Engineer | 3.2/5 | Evaluated | ✅ | [1117](reports/1117-maia-applied-ai-engineer-2026-06-04.md) | [Intl] Remote-Germany €75-85k+VSOP; LLM/RAG/observability strong, backend TS/Go/Java/Rust partial; F-1 OPT EU-auth flag |

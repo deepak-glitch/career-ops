@@ -11,9 +11,12 @@
 - [!] https://jobs.ashbyhq.com/tenex/3094ecfb-1291-44fa-9934-efdba529389b | error: dead — Ashby GraphQL returns null jobPosting
 - [!] https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a | error: dead — Ashby GraphQL returns null jobPosting
 
+
 ## Processed
 
 ### 2026-06-04
+- [x] #1124 | https://job-boards.greenhouse.io/intercom/jobs/7982566 | Intercom | Forward Deployed Software Engineer | Dublin, Ireland — Hybrid 3+ days | 3.4/5 | PDF ✅
+- [x] #1125 | https://jobs.ashbyhq.com/happyrobot.ai/43d9bd48-7701-4719-affd-ecf92adfc37a | Happyrobot | Machine Learning Engineer | Spain (EU) | 3.7/5 | PDF ✅
 - [x] #1120 | https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc | Cedana | Forward Deployed Engineer: AI + HPC | Remote — US (~25% travel) | 2.4/5 SKIP | PDF ❌
 - [x] #1121 | https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4770135 | Leena AI | Forward Deployed Engineer | Remote — USA only | 2.3/5 SKIP | PDF ❌
 - [x] #1106 | https://jobs.lever.co/unstructuredtechnologies/9eb8340f-76ab-4a83-a9c5-8f97fd95f5cc | Unstructured | AI Engineer - Public Sector | Remote — US | 3.8/5 | PDF ✅

@@ -1143,3 +1143,7 @@ Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed
 2026-06-04T120855Z	step2-pdf	warn	Chromium browser not installed for Playwright	fix:npx playwright install chromium once	outcome:resolved
 2026-06-04T120855Z	step3-merge	warn	Tessera+Nexxa already existed (company+role dup)	fix:merge-tracker updated #82 (3.3->3.6) and skipped Nexxa #969; deleted orphan report 1120+PDF+pipeline row	outcome:resolved
 Processed 4 URLs (US:2 + Intl:2), generated 0 PDFs, archived 4 low-score, pushed e563aba.
+2026-06-04T160948Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install once	outcome:resolved
+2026-06-04T160832Z	step1-scan-us	warn	HTTP404 Tinybird/Travelperk/Forto careers slugs	fix:none (scan_method websearch fallbacks, non-blocking)	outcome:skipped
+2026-06-04T161959Z	step2-pdf	warn	Playwright chromium not installed	fix:npx playwright install chromium	outcome:resolved
+2026-06-04T160832Z	step4-cleanup	warn	Sezzle URL 7633956003 dup of existing #945 (novelty check omitted intl pipeline)	fix:removed leftover #1126 intl Procesadas row; report+tracker already deleted as <3.0	outcome:resolved
