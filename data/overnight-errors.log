@@ -1147,3 +1147,4 @@ Processed 4 URLs (US:2 + Intl:2), generated 0 PDFs, archived 4 low-score, pushed
 2026-06-04T160832Z	step1-scan-us	warn	HTTP404 Tinybird/Travelperk/Forto careers slugs	fix:none (scan_method websearch fallbacks, non-blocking)	outcome:skipped
 2026-06-04T161959Z	step2-pdf	warn	Playwright chromium not installed	fix:npx playwright install chromium	outcome:resolved
 2026-06-04T160832Z	step4-cleanup	warn	Sezzle URL 7633956003 dup of existing #945 (novelty check omitted intl pipeline)	fix:removed leftover #1126 intl Procesadas row; report+tracker already deleted as <3.0	outcome:resolved
+Processed 6 URLs (US:3 + Intl:3), generated 2 PDFs, archived 4 low-score, pushed 04f334c.
