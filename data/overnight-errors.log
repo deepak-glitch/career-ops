@@ -1123,3 +1123,6 @@ Processed 4 URLs (US:3 + Intl:1), generated 3 PDFs, archived 1 low-score, pushed
 2026-06-04T000823Z	step2-jd	warn	particula join.com HTTP 410 Gone (was persistent [!] retry)	fix:resolved dead, removed from intl pending	outcome:skipped
 2026-06-04T000823Z	step2-jd	warn	ICEYE Workable SPA metadata-only + careers 404	fix:marked [!] retry next run via Workable API	outcome:unresolved
 2026-06-04T000823Z	step1-l3	warn	RunPod EMEA FDE (gh 5082425008) redirected to board (closed); Synthflow Ashby jobPosting null (closed)	fix:not added to pipeline	outcome:skipped
+Push landed clean on first attempt.
+
+Processed 10 URLs (US:5 + Intl:5), generated 8 PDFs, archived 2 low-score, pushed b6b5fcb
