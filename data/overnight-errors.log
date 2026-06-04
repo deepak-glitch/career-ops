@@ -1153,3 +1153,13 @@ Processed 6 URLs (US:3 + Intl:3), generated 2 PDFs, archived 4 low-score, pushed
 2026-06-04T200757Z	step1-scan-intl	warn	HTTP 404 Tinybird/Travelperk/Forto careers slugs	fix:none — non-blocking, scan_method websearch fallbacks exist	outcome:skipped
 2026-06-04T200757Z	step1-scan-L3	warn	all L3 WebSearch candidates already in scan-history (Promise/SuperPlane/AHEAD/DefenseUnicorns/Aircall/BCG/Smartsheet/Retell/Dot/Strada/P-1 AI/FurtherAI)	fix:none — portals saturated after 4 prior overnight runs today	outcome:resolved
 2026-06-04T200757Z	step2-pipeline	warn	0 pending after scan in both US+Intl tracks	fix:nothing to evaluate per Playbook #9	outcome:resolved
+Processed 7 URLs (US:2 + Intl:5), generated 4 PDFs, archived 3 low-score, pushed 9f115b9.
+
+Sources:
+- [Federato FDE II — Greenhouse](https://job-boards.greenhouse.io/federato/jobs/5019876008)
+- [UniversalAGI ML Engineer — Ashby](https://jobs.ashbyhq.com/universalagi/995ceec2-c76e-4466-9859-05bda9898284)
+- [Viktor Agent Harness Engineer — Ashby](https://jobs.ashbyhq.com/viktor/c750869a-1859-4339-bfc9-161a9ee2dc9f)
+- [Space Inch AI Engineer EU — Himalayas](https://himalayas.app/companies/space-inch/jobs/ai-engineer-eu-653648566)
+- [QIMA AI Engineer Italy — Himalayas](https://himalayas.app/companies/qima/jobs/ai-engineer-f-m-remote-3472435577)
+- [Huzzle AI Engineer Romania — Himalayas](https://himalayas.app/companies/huzzle/jobs/ai-engineer)
+- [KlearNow.AI AI Engineer II/III — Lever](https://jobs.lever.co/klearnow/e95fe4bc-b0a0-44cd-915b-2cd9ac578e71)
