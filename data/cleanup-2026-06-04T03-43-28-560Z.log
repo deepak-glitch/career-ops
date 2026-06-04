@@ -1,0 +1,24 @@
+# Pipeline cleanup audit log
+Run: 2026-06-04T03:43:28.560Z
+
+## US pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  0
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+## Intl pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  2
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### Intl — Kept unmatched (manual review)
+- - [!] https://apply.workable.com/iceye/j/B75F49639E/ | ICEYE | error: JD extraction incomplete (Workable SPA rendered metadata only) — retry next run via Workable jobs API
+- - [!] https://apply.workable.com/languagewire/j/685F344246/ | LanguageWire | error: JD body not extracted (Workable SPA only returned About text); retry via Workable jobs API next run

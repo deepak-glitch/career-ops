@@ -6,7 +6,16 @@
      creates it at the end of Pending. -->
 
 ## Pending
+
 ## Processed
+
+### 2026-06-04
+- [x] #1106 | https://jobs.lever.co/unstructuredtechnologies/9eb8340f-76ab-4a83-a9c5-8f97fd95f5cc | Unstructured | AI Engineer - Public Sector | Remote — US | 3.8/5 | PDF ✅
+- [x] #1107 | https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9 | Cohere | Forward Deployed Engineer, Agentic Platform | United States (Eastern Time) — 20-40% travel | 3.8/5 | PDF ✅
+- [x] #1108 | https://job-boards.greenhouse.io/scaleai/jobs/4513943005 | Scale AI | Software Engineer, Enterprise AI | San Francisco, CA / New York, NY — Hybrid 3d/wk | 3.3/5 | PDF ✅
+- [x] #1109 | https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101 | PhysicsX | Forward Deployed Software Engineer | San Francisco, CA — On-site + 3-4 wks/q travel | 3.0/5 | PDF ✅
+- [x] #1110 | https://job-boards.greenhouse.io/scaleai/jobs/4699574005 | Scale AI | AI Deployment Strategist, Healthcare & Life Sciences | San Francisco, CA / New York, NY — Hybrid 3d/wk | 2.5/5 SKIP | PDF ❌
+
 
 ### 2026-06-03
 - [x] #1101 | https://jobs.ashbyhq.com/clarium/83332693-7e11-41db-8b62-8225cb818abf | Clarium | AI Engineer - Data Intelligence | Remote/US (NYC co-working) | 4.3/5 | PDF ✅
