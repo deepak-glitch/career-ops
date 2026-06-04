@@ -7,9 +7,15 @@
 
 ## Pending
 
+### 2026-06-04
+- [!] https://jobs.ashbyhq.com/tenex/3094ecfb-1291-44fa-9934-efdba529389b | error: dead — Ashby GraphQL returns null jobPosting
+- [!] https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a | error: dead — Ashby GraphQL returns null jobPosting
+
 ## Processed
 
 ### 2026-06-04
+- [x] #1120 | https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc | Cedana | Forward Deployed Engineer: AI + HPC | Remote — US (~25% travel) | 2.4/5 SKIP | PDF ❌
+- [x] #1121 | https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4770135 | Leena AI | Forward Deployed Engineer | Remote — USA only | 2.3/5 SKIP | PDF ❌
 - [x] #1106 | https://jobs.lever.co/unstructuredtechnologies/9eb8340f-76ab-4a83-a9c5-8f97fd95f5cc | Unstructured | AI Engineer - Public Sector | Remote — US | 3.8/5 | PDF ✅
 - [x] #1107 | https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9 | Cohere | Forward Deployed Engineer, Agentic Platform | United States (Eastern Time) — 20-40% travel | 3.8/5 | PDF ✅
 - [x] #1108 | https://job-boards.greenhouse.io/scaleai/jobs/4513943005 | Scale AI | Software Engineer, Enterprise AI | San Francisco, CA / New York, NY — Hybrid 3d/wk | 3.3/5 | PDF ✅

@@ -13,9 +13,12 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
+
 ## Processed
 
 ### 2026-06-04
+- [x] #1122 | https://jobs.ashbyhq.com/Sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff | Sierra | Software Engineer, Agent (Spanish speaking) | London, UK — In-person | 1.9/5 SKIP | PDF ❌
+- [x] #1123 | https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-apac-4246987 | Runpod | Forward Deployed Engineer APAC | Remote — Singapore / South Korea / Malaysia | 2.0/5 SKIP | PDF ❌
 - [x] #1116 | https://apply.workable.com/languagewire/j/685F344246/ | LanguageWire | AI Engineer | Remote — Spain (full WFH) | 3.7/5 | PDF ✅
 - [x] #1117 | https://himalayas.app/companies/maia/jobs/applied-ai-engineer-f-m-x | MAIA | Applied AI Engineer (f/m/x) | Remote — Germany | 3.2/5 | PDF ✅
 - [x] #1111 | https://job-boards.greenhouse.io/celonis/jobs/7662803003 | Celonis | Associate Applied AI Engineer (Benelux) — Orbit Program | Madrid, Spain — Hybrid | 3.5/5 | PDF ✅

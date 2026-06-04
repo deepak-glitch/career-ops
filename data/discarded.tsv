@@ -512,3 +512,7 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-04	1104	2026-06-04	Scale AI	AI Deployment Strategist, Healthcare & Life Sciences	2.3/5	SKIP	reports/1104-scale-ai-ai-deployment-strategist-2026-06-04.md	[US] senior consulting/account role (5+ yrs) — archetype mismatch, do not apply
 2026-06-04	1110	2026-06-04	Scale AI	AI Deployment Strategist, Healthcare & Life Sciences	2.5/5	Evaluated	reports/1110-scaleai-ai-deployment-strategist-healthcare-2026-06-04.md	[US] SKIP: requires 5+yr consulting/ops bg; Deepak is IC engineer; wrong-shape role
 2026-06-04	1115		orphan	orphan	0/5		reports/1115-fieldai-fde-singapore-2026-06-04.md	
+2026-06-04	1120	2026-06-04	Cedana	Forward Deployed Engineer: AI + HPC	2.4/5	Evaluated	reports/1120-cedana-fde-ai-hpc-2026-06-04.md	[US] SLURM/HPC senior gap; 6+yr floor; not pursuing
+2026-06-04	1121	2026-06-04	Leena AI	Forward Deployed Engineer	2.3/5	Evaluated	reports/1121-leena-ai-fde-2026-06-04.md	[US] 8+yr FDE/PS floor; not pursuing
+2026-06-04	1123	2026-06-04	Runpod	Forward Deployed Engineer APAC	2/5	Evaluated	reports/1123-runpod-fde-apac-2026-06-04.md	[Intl] APAC-only location blocker (SG/KR/MY)
+2026-06-04	1122		orphan	orphan	0/5		reports/1122-sierra-swe-agent-spanish-london-2026-06-04.md	
