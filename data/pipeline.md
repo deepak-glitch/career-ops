@@ -15,6 +15,8 @@
 - [x] #1108 | https://job-boards.greenhouse.io/scaleai/jobs/4513943005 | Scale AI | Software Engineer, Enterprise AI | San Francisco, CA / New York, NY — Hybrid 3d/wk | 3.3/5 | PDF ✅
 - [x] #1109 | https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101 | PhysicsX | Forward Deployed Software Engineer | San Francisco, CA — On-site + 3-4 wks/q travel | 3.0/5 | PDF ✅
 - [x] #1110 | https://job-boards.greenhouse.io/scaleai/jobs/4699574005 | Scale AI | AI Deployment Strategist, Healthcare & Life Sciences | San Francisco, CA / New York, NY — Hybrid 3d/wk | 2.5/5 SKIP | PDF ❌
+- [x] #1118 | https://jobs.ashbyhq.com/monaco/448aa20c-3119-4166-a2dd-ed11b58327e3 | Monaco | AI Engineer | San Francisco, CA — In-person 5d/wk | 4.0/5 | PDF ✅
+- [x] #1119 | https://jobs.ashbyhq.com/tessera-labs/0cb577c2-6cdd-4361-b1af-870ccfc9d792 | Tessera Labs | AI Agent Engineer | San Jose, CA — On-site (HQ) | 3.6/5 | PDF ✅
 
 
 ### 2026-06-03
