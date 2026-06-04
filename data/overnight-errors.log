@@ -1132,3 +1132,8 @@ Processed 10 URLs (US:5 + Intl:5), generated 8 PDFs, archived 2 low-score, pushe
 2026-06-04T040818Z	step2-jd	warn	ICEYE Workable B75F49639E v2/v3 API 404 + widget jobs:[] (posting closed)	fix:kept as [!] retry; cleanup-bang-rows will mark dead	outcome:skipped
 2026-06-04T040818Z	step1-pipeline	warn	US pipeline 0 pending after scan (0 net-new US)	fix:nothing to evaluate US track, per Playbook #9	outcome:resolved
 2026-06-04T040818Z	step4-cleanup	warn	stray #1115 FieldAI 2.8/5 SKIP row in intl Procesadas (report already deleted prior run)	fix:removed stray <3.0 pipeline row manually	outcome:resolved
+2026-06-04T080800Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed in fresh container)	fix:npm install	outcome:resolved
+2026-06-04T080800Z	step1-scan	warn	US scan: Tinybird/Travelperk/Forto HTTP 404 (stale ATS endpoints)	fix:scanner skipped gracefully, 0 net-new US	outcome:skipped
+2026-06-04T080800Z	step1-scan	warn	Intl scan: Tinybird/Travelperk/Forto HTTP 404 (stale ATS endpoints)	fix:scanner skipped gracefully, 0 net-new Intl	outcome:skipped
+2026-06-04T080800Z	step1-scan	warn	L3 WebSearch (5 queries: Ashby/GH/Himalayas/Lever new-grad+FDE US+EU): all hits already in scan-history, 0 net-new	fix:dedup honored, no URLs re-added	outcome:resolved
+2026-06-04T080800Z	step2-pipeline	warn	0 pending after scan in both US+Intl tracks	fix:nothing to evaluate per Playbook #9 (prior runs 00:08Z/04:08Z evaluated #1099-1117)	outcome:resolved
