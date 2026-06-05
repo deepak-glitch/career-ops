@@ -1163,3 +1163,7 @@ Sources:
 - [QIMA AI Engineer Italy — Himalayas](https://himalayas.app/companies/qima/jobs/ai-engineer-f-m-remote-3472435577)
 - [Huzzle AI Engineer Romania — Himalayas](https://himalayas.app/companies/huzzle/jobs/ai-engineer)
 - [KlearNow.AI AI Engineer II/III — Lever](https://jobs.lever.co/klearnow/e95fe4bc-b0a0-44cd-915b-2cd9ac578e71)
+2026-06-05T000858Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-05T000858Z	step1-scan	warn	3 portal HTTP404 (Tinybird,Travelperk,Forto) US+Intl	fix:none-external-portal-config	outcome:skipped
+2026-06-05T000858Z	step2-pdf	warn	Playwright chromium binary missing	fix:npx playwright install chromium	outcome:resolved
+2026-06-05T000858Z	step3-merge	warn	HF OSS MLE #1143 duplicate of existing #202 (3.8>=3.2)	fix:deleted 1143 report+PDF+TSV, kept #202, gap left at 1143	outcome:resolved

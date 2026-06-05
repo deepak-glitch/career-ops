@@ -6,11 +6,11 @@
      creates it at the end of Pending. -->
 
 ## Pending
-
-### 2026-06-04
-- [ ] https://www.ycombinator.com/companies/luminai/jobs/9s487sF-forward-deployed-engineer | Luminai | Forward Deployed Engineer | US
-
 ## Processed
+
+### 2026-06-05
+- [x] #1139 | https://www.ycombinator.com/companies/luminai/jobs/9s487sF-forward-deployed-engineer | Luminai | Forward Deployed Engineer | San Mateo, CA — Hybrid 3d/wk | 3.8/5 | PDF ✅
+- [x] #1140 | https://job-boards.greenhouse.io/togetherai/jobs/5131941007 | Together AI | Forward Deployed Engineer (Inference & Post-Training) | San Francisco — Onsite 4d/wk | 3.1/5 | PDF ✅
 
 ### 2026-06-04
 - [x] #1132 | https://job-boards.greenhouse.io/federato/jobs/5019876008 | Federato | Forward Deployed Engineer II | Remote — US | 3.6/5 | PDF ✅

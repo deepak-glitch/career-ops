@@ -14,12 +14,13 @@
 
 ## Pending
 
-### 2026-06-04
-- [ ] https://himalayas.app/companies/smartclip-europe-gmbh/jobs/ai-engineer-w-m-d | smartclip Europe | AI Engineer (w/m/d) | Germany — Remote
-- [ ] https://himalayas.app/companies/welocalize/jobs/ai-machine-learning-r-d-engineer | Welocalize | AI Machine Learning R&D Engineer | Spain — Remote (verify)
-- [ ] https://apply.workable.com/huggingface/j/56232F23CB | Hugging Face | Open-Source Machine Learning Engineer | International Remote
-
 ## Processed
+
+### 2026-06-05
+- [x] #1141 | https://himalayas.app/companies/smartclip-europe-gmbh/jobs/ai-engineer-w-m-d | smartclip Europe | AI Engineer (w/m/d) | Germany — Remote (Berlin sessions) | 3.4/5 | PDF ✅
+- [x] #1142 | https://himalayas.app/companies/welocalize/jobs/ai-machine-learning-r-d-engineer | Welocalize | AI Machine Learning R&D Engineer | Spain — Remote | 3.6/5 | PDF ✅
+- [x] #202 | https://apply.workable.com/huggingface/j/56232F23CB | Hugging Face | Open-Source Machine Learning Engineer | International Remote | 3.2/5 | deduped → existing HF MLE #202 (3.8) kept
+- [x] #1144 | https://himalayas.app/companies/m47-labs/jobs/ai-ml-engineer-remote-in-spain | M47 Labs | AI/ML Engineer (Remote in Spain) | Spain — Remote | 3.6/5 | PDF ✅
 
 ### 2026-06-04
 - [x] #1134 | https://jobs.ashbyhq.com/viktor/c750869a-1859-4339-bfc9-161a9ee2dc9f | Viktor | Agent Harness Engineer (Remote) | Europe — Remote + hubs Munich/NYC/Warsaw | 3.7/5 | PDF ✅
