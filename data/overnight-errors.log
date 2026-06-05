@@ -1210,3 +1210,4 @@ Verify-pipeline: 0 errors / 0 warnings across both tracks.
 2026-06-05T200148Z	step2-extract	warn	Traversal greenhouse 404 (posting closed)	fix:scan-history status=dead, not added to pipeline	outcome:skipped
 2026-06-05T200148Z	step2-extract	warn	DeepIntent detail URL redirected to listing; specific JD not extractable	fix:scan-history status=dead, not added to pipeline	outcome:skipped
 2026-06-05T200148Z	step2-pdf	warn	Playwright Chromium executable missing	fix:npx playwright install chromium + retry	outcome:resolved
+Processed 7 URLs (US:4 + Intl:3), generated 4 PDFs, archived 3 low-score, pushed 8c2d46d.
