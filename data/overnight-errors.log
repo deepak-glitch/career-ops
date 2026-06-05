@@ -1203,3 +1203,10 @@ Per-track summary:
 - **Intl (2 URLs)** — #1171 Sezzle II Brazil 1.7 SKIP (geo block), #1172 Appsilon 3.2, Twisto 404 (marked `[!]`)
 
 Verify-pipeline: 0 errors / 0 warnings across both tracks.
+2026-06-05T200148Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:pending
+2026-06-05T200148Z	step1-scan	warn	scan.mjs js-yaml missing (retry after install)	fix:npm install + retry	outcome:resolved
+2026-06-05T200148Z	step1-scan	warn	portal HTTP 404: Tinybird, Travelperk, Forto	fix:none (upstream ATS endpoints stale)	outcome:skipped
+2026-06-05T200148Z	step1-L3	warn	Arize URL now resolves to Engineering Manager (negative-filter title)	fix:dropped, scan-history status=filtered	outcome:skipped
+2026-06-05T200148Z	step2-extract	warn	Traversal greenhouse 404 (posting closed)	fix:scan-history status=dead, not added to pipeline	outcome:skipped
+2026-06-05T200148Z	step2-extract	warn	DeepIntent detail URL redirected to listing; specific JD not extractable	fix:scan-history status=dead, not added to pipeline	outcome:skipped
+2026-06-05T200148Z	step2-pdf	warn	Playwright Chromium executable missing	fix:npx playwright install chromium + retry	outcome:resolved

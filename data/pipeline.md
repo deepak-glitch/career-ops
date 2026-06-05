@@ -11,9 +11,16 @@
 
 - [!] https://job-boards.greenhouse.io/gather/jobs/5532448004 | Gather | Founding ML Engineer - AI | error: no live JD; "no positions currently available"
 
+
 ## Processed
 
 ### 2026-06-05
+- [x] #1173 | https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324 | Sierra | Software Engineer, Agent Data Platform | San Francisco, CA — In-person | 3.0/5 | PDF ✅
+- [x] #1174 | https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07 | Sierra | Software Engineer, Agent Builder | San Francisco, CA — In-person | 3.4/5 | PDF ✅
+- [x] #1175 | https://job-boards.greenhouse.io/splitero/jobs/5162723008 | Splitero | Applied AI Engineer | Remote — US | 3.4/5 | PDF ✅
+- [x] #1176 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote — US (continental) | 3.6/5 | PDF ✅
+- [x] #1177 | https://jobs.lever.co/collate/377f2cf3-6285-42c1-8130-dd3dd2c866cb | Collate | AI Engineer | San Francisco, CA — On-site | 3.5/5 | PDF ✅
+- [x] #1178 | https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer | San Francisco, CA — On-site | 3.5/5 | PDF ✅
 - [x] #1165 | https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us | Cekura | Forward Deployed Engineer (US) | San Francisco, CA — In-person 5d/wk | 3.6/5 | PDF ✅
 - [x] #1166 | https://www.ycombinator.com/companies/arist/jobs/YvFJJNd-founding-forward-deployed-engineer | Arist | Founding Forward Deployed Engineer | New York, NY or US Remote | 3.0/5 | PDF ✅
 - [x] #1167 | https://job-boards.greenhouse.io/lyratechgroup/jobs/5229710008 | Lyra Technology Group | Forward Deployment AI Engineer | San Diego, CA — Hybrid | 1.8/5 SKIP | PDF ❌

@@ -535,3 +535,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-05	1165	2026-06-05	YLD	Contract Forward Deployed Engineer	2.5/5	Evaluated	reports/1165-yld-contract-fde-2026-06-05.md	[Intl] Golang/Java infra contract, not AI; UK work-auth blocker
 2026-06-05	1171	2026-06-05	Sezzle	AI Engineer II (Brazil)	1.7/5	Evaluated	reports/1171-sezzle-ai-engineer-ii-brazil-2026-06-05.md	[Intl] Sezzle BNPL fintech; BRAZIL-ONLY remote; $40-72K USD/yr LATAM-pay; stack fit but geo mismatch — Deepak US-based F-1 OPT
 2026-06-05	1167		orphan	orphan	0/5		reports/1167-lyratechgroup-fde-ai-2026-06-05.md	
+2026-06-05	1179	2026-06-05	Sezzle	AI Engineer I	2.4/5	Evaluated	reports/1179-sezzle-ai-engineer-i-2026-06-05.md	[Intl] Remote Colombia-only auth; $2.5-3.3K/mo; skills fit but location+comp veto for US-based F-1 OPT
+2026-06-05	1182		orphan	orphan	0/5		reports/1182-cartesia-founding-fde-india-2026-06-05.md	
