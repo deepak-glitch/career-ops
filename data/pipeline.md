@@ -6,9 +6,15 @@
      creates it at the end of Pending. -->
 
 ## Pending
+
+### 2026-06-05
+
+- [!] https://job-boards.greenhouse.io/gather/jobs/5532448004 | Gather | Founding ML Engineer - AI | error: no live JD; "no positions currently available"
+
 ## Processed
 
 ### 2026-06-05
+- [x] #1145 | https://job-boards.greenhouse.io/fireworksai/jobs/4056271009 | Fireworks AI | Software Engineer, AI Infrastructure | New York, NY; San Mateo, CA — Hybrid (M/W/F) | 3.5/5 | PDF ✅
 - [x] #1139 | https://www.ycombinator.com/companies/luminai/jobs/9s487sF-forward-deployed-engineer | Luminai | Forward Deployed Engineer | San Mateo, CA — Hybrid 3d/wk | 3.8/5 | PDF ✅
 - [x] #1140 | https://job-boards.greenhouse.io/togetherai/jobs/5131941007 | Together AI | Forward Deployed Engineer (Inference & Post-Training) | San Francisco — Onsite 4d/wk | 3.1/5 | PDF ✅
 
