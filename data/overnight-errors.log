@@ -1196,3 +1196,10 @@ Processed 13 URLs (US:5 + Intl:10, minus 2 closed = 11 evaluations, +2 dead-mark
 2026-06-05T171141Z	step2-pipeline-us	warn	Kodiak New-Grad Applied AI CV (gh 4003772009) redirects to jobs list = removed	fix:verified via WebFetch+builtin (removed Jun 2025); skipped, not added	outcome:skipped
 2026-06-05T171141Z	step2-pipeline-us	warn	Gather Founding ML Engineer URL still 302 redirect (closed)	fix:re-verified greenhouse 302+API DNS fail=CLOSED; kept [!] row for retry per playbook #3	outcome:skipped
 2026-06-05T171141Z	step3-merge	warn	YLD Contract FDE (#1165) is same job-id 4845729101 as prior #1131 (host .eu vs non-.eu slipped L3 dedup)	fix:both scored <3.0; cleanup-low-scores deleted #1165 report+row; no duplicate persists	outcome:resolved
+Processed 10 URLs (US:8 + Intl:2), generated 6 PDFs, archived 2 low-score (Lyra TG visa-block dedup'd, Sezzle Brazil), pushed 49f409f.
+
+Per-track summary:
+- **US (8 URLs)** — #1165 Cekura 3.6, #1166 Arist 3.0, #1167 Lyra TG 1.8 SKIP (visa veto, dedup'd vs older #950), #1168 YipitData 3.2, #1169/#1173 Adam Residency 3.0, #1170 Berry 3.2, Capitol AI 404 (marked `[!]`), Gather pre-existing `[!]`
+- **Intl (2 URLs)** — #1171 Sezzle II Brazil 1.7 SKIP (geo block), #1172 Appsilon 3.2, Twisto 404 (marked `[!]`)
+
+Verify-pipeline: 0 errors / 0 warnings across both tracks.
