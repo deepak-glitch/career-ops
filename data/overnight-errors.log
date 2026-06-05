@@ -1167,3 +1167,4 @@ Sources:
 2026-06-05T000858Z	step1-scan	warn	3 portal HTTP404 (Tinybird,Travelperk,Forto) US+Intl	fix:none-external-portal-config	outcome:skipped
 2026-06-05T000858Z	step2-pdf	warn	Playwright chromium binary missing	fix:npx playwright install chromium	outcome:resolved
 2026-06-05T000858Z	step3-merge	warn	HF OSS MLE #1143 duplicate of existing #202 (3.8>=3.2)	fix:deleted 1143 report+PDF+TSV, kept #202, gap left at 1143	outcome:resolved
+Processed 4 URLs (US:3 + Intl:1) — 1 evaluated (Fireworks AI #1145, 3.5/5) + 3 marked `- [!]` extraction failure (Gather dead, Pure Storage greenhouse-api 404, RemoFirst lever 404/403), generated 1 PDF, archived 0 low-score, pushed `0c18508`.
