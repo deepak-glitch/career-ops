@@ -1168,3 +1168,11 @@ Sources:
 2026-06-05T000858Z	step2-pdf	warn	Playwright chromium binary missing	fix:npx playwright install chromium	outcome:resolved
 2026-06-05T000858Z	step3-merge	warn	HF OSS MLE #1143 duplicate of existing #202 (3.8>=3.2)	fix:deleted 1143 report+PDF+TSV, kept #202, gap left at 1143	outcome:resolved
 Processed 4 URLs (US:3 + Intl:1) — 1 evaluated (Fireworks AI #1145, 3.5/5) + 3 marked `- [!]` extraction failure (Gather dead, Pure Storage greenhouse-api 404, RemoFirst lever 404/403), generated 1 PDF, archived 0 low-score, pushed `0c18508`.
+2026-06-05T040144Z	step1-scan-us	warn	ERR_MODULE_NOT_FOUND js-yaml on scan.mjs	fix:npm install once then retry	outcome:resolved
+2026-06-05T040144Z	step1-scan-us	warn	Tinybird HTTP 404 (company ATS endpoint)	fix:scan.mjs skips and continues	outcome:skipped
+2026-06-05T040144Z	step1-scan-us	warn	Travelperk HTTP 404 (company ATS endpoint)	fix:scan.mjs skips and continues	outcome:skipped
+2026-06-05T040144Z	step1-scan-us	warn	Forto HTTP 404 (company ATS endpoint)	fix:scan.mjs skips and continues	outcome:skipped
+2026-06-05T040144Z	step1-scan	warn	0 net-new after L1/L2/L3 scan both tracks (prior runs drained fresh listings)	fix:Playbook#9 log and proceed	outcome:resolved
+2026-06-05T040144Z	step1-L3	warn	Embrace FDE/AI-SA-RAG fails seniority filter (7+ yrs + team lead)	fix:mark scan-history status=filtered, do not add to pipeline	outcome:resolved
+2026-06-05T040144Z	step1-L3	warn	Sonar FDE ML lever posting 404 Document not found (closed)	fix:mark scan-history status=dead, do not add to pipeline	outcome:skipped
+2026-06-05T040144Z	step4-cleanup	warn	stray junk committed by prior run (.tmp_ashby.log HTTP dump + 4 scripts/_tmp_*.py one-off patch scripts)	fix:git rm per Playbook#7	outcome:resolved
