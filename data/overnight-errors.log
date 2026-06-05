@@ -1176,3 +1176,6 @@ Processed 4 URLs (US:3 + Intl:1) — 1 evaluated (Fireworks AI #1145, 3.5/5) + 3
 2026-06-05T040144Z	step1-L3	warn	Embrace FDE/AI-SA-RAG fails seniority filter (7+ yrs + team lead)	fix:mark scan-history status=filtered, do not add to pipeline	outcome:resolved
 2026-06-05T040144Z	step1-L3	warn	Sonar FDE ML lever posting 404 Document not found (closed)	fix:mark scan-history status=dead, do not add to pipeline	outcome:skipped
 2026-06-05T040144Z	step4-cleanup	warn	stray junk committed by prior run (.tmp_ashby.log HTTP dump + 4 scripts/_tmp_*.py one-off patch scripts)	fix:git rm per Playbook#7	outcome:resolved
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed e588306.
+
+Scans returned 0 new offers across both tracks (114 companies each, ~7180 jobs scanned, all filtered by title/region/duplicates/age). US Pendientes held 1 dead-URL `[!]` entry (Gather — "no current openings", verified) which `cleanup-bang-rows.mjs` left as `kept_unmatched` for future aging. Intl Pendientes was empty. Broader Level 3 WebSearch queries surfaced only previously-evaluated postings (Anthropic FDE, Glean, Arize, Camunda, Lazarus, etc. — all already in pipeline). Merge + verify clean (0 errors, 0 warnings). Empty-marker commit pushed to `main` to record the routine ran.
