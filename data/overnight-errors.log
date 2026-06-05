@@ -1183,3 +1183,8 @@ Scans returned 0 new offers across both tracks (114 companies each, ~7180 jobs s
 2026-06-05T080146Z	step1-scan	warn	portal HTTP 404: Tinybird, Travelperk, Forto (US scan)	fix:none (upstream ATS config); logged	outcome:skipped
 2026-06-05T080146Z	step2-pipeline	warn	careCycle YC FDE JD 404 (role closed; no open jobs on YC)	fix:fallbacks tried (direct 404, company page empty); marked dead in scan-history	outcome:skipped
 2026-06-05T080146Z	step2-pdf	warn	Playwright chromium not installed (generate-pdf.mjs)	fix:npx playwright install chromium; retried	outcome:resolved
+2026-06-05T120201Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-05T120201Z	step1-scan-us	warn	portal HTTP 404 (Tinybird, Travelperk, Forto)	fix:scanner skipped them, continued scanning remaining 111 companies	outcome:skipped
+2026-06-05T120201Z	step1-scan-intl	warn	portal HTTP 404 (Tinybird, Travelperk, Forto)	fix:scanner skipped them, continued	outcome:skipped
+2026-06-05T120201Z	step2-pipeline-us	warn	Gather Founding ML Engineer URL returns no live JD (no positions available)	fix:re-verified via WebFetch=CLOSED; kept [!] row for retry next run per playbook #3	outcome:skipped
+2026-06-05T120201Z	step3-merge	warn	Anthropic Applied AI Engineer (Sydney) deduped vs existing #1 FDE Applied AI 4.3	fix:merge-tracker skipped lower-score dup; new report was <3.0 and deleted by cleanup anyway	outcome:resolved
