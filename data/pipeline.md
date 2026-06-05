@@ -10,6 +10,11 @@
 ### 2026-06-05
 
 - [!] https://job-boards.greenhouse.io/gather/jobs/5532448004 | Gather | Founding ML Engineer - AI | error: no live JD; "no positions currently available"
+- [ ] https://mechanizedai.breezy.hr/p/83ac0b9ca75d-ai-engineer | Mechanized AI | AI Engineer | Remote — US
+- [ ] https://mechanizedai.breezy.hr/p/31a6c8d1e509-genai-engineer | Mechanized AI | GenAI Engineer | Remote — US
+- [ ] https://apply.workable.com/huggingface/j/0ACFC9C229 | Hugging Face | ML Research Engineer Internship, Agent AI | US Remote
+- [ ] https://apply.workable.com/mlabs/j/CF4E6EC215 | MLabs | AI Data Engineer | Remote — US/Europe/Israel
+- [ ] https://job-boards.greenhouse.io/devrev/jobs/5837052004 | DevRev | Forward Deployed Engineer - Applied AI | Remote — US
 
 ## Processed
 

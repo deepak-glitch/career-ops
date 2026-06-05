@@ -14,6 +14,19 @@
 
 ## Pending
 
+### 2026-06-05
+
+- [ ] https://apply.workable.com/huggingface/j/CFD3AB818C | Hugging Face | Cloud ML DevRel Engineer | EMEA Remote
+- [ ] https://apply.workable.com/huggingface/j/07D6F55341 | Hugging Face | On-device ML Engineer | EMEA Remote
+- [ ] https://apply.workable.com/huzzle/j/172A019A2A | Huzzle | AI Engineer | Remote (UK/EU)
+- [ ] https://apply.workable.com/itrex-group/j/CFF3DE642F | ITRex Group | ML Engineer | Remote (US/Europe)
+- [ ] https://apply.workable.com/zyte/j/7475906EC2 | Zyte | AI/ML Engineer - Web Data Quality | Remote (EU/global)
+- [ ] https://producthackers.teamtailor.com/jobs/7793766-ai-engineer-software-engineer-espana | Product Hackers | AI Engineer | Spain — Remote
+- [ ] https://multiversecomputing.teamtailor.com/jobs/4499908-machine-learning-engineer-llm | Multiverse Computing | ML Engineer (LLM) | Spain
+- [ ] https://modulai.teamtailor.com/jobs/1104520-machine-learning-engineer-sweden | Modulai | ML Engineer | Sweden
+- [ ] https://tradingview.teamtailor.com/jobs/7736640-machine-learning-engineer | TradingView | ML Engineer | Remote (EU/UK)
+- [ ] https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-ai-ml-engineer-llm-systems-m-w-d | Anexia | AI/ML Engineer - LLM Systems | Austria/EU Remote
+
 ## Processed
 
 ### 2026-06-05
