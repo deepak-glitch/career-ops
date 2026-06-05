@@ -16,6 +16,8 @@
 ## Processed
 
 ### 2026-06-05
+- [x] #1171 | https://job-boards.greenhouse.io/sezzle/jobs/7633988003 | Sezzle | AI Engineer II (Brazil) | Brazil — Remote | 1.7/5 SKIP | PDF ❌
+- [x] #1172 | https://appsilon-1739358905.teamtailor.com/jobs/7750183-applied-ai-engineer | Appsilon | Applied AI Engineer | Worldwide Remote (HQ Poland) | 3.2/5 | PDF ✅
 - [x] #1164 | https://jobs.ashbyhq.com/faculty/98f476d9-39ea-4bcc-b908-a6f6b8119fb9 | Faculty | Machine Learning Engineer | London, UK — Hybrid | 3.4/5 | PDF ✅
 - [x] #1160 | https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-ai-ml-engineer-llm-systems-m-w-d | Anexia | AI/ML Engineer - LLM Systems | Austria — Remote (EU) | 3.6/5 | PDF ✅
 - [x] #1157 | https://multiversecomputing.teamtailor.com/jobs/4499908-machine-learning-engineer-llm | Multiverse Computing | Machine Learning Engineer (LLM) | Spain (SS/BCN/MAD/ZGZ) — onsite | 3.4/5 | PDF ✅

@@ -1,0 +1,23 @@
+# Pipeline cleanup audit log
+Run: 2026-06-05T18:10:44.705Z
+
+## US pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               1
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  1
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         yes
+
+### US — Kept unmatched (manual review)
+- - [!] https://job-boards.greenhouse.io/gather/jobs/5532448004 | Gather | Founding ML Engineer - AI | error: no live JD; "no positions currently available"
+
+## Intl pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               1
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  0
+- Empty subsections dropped:        1
+- scan-history.tsv updated:         yes

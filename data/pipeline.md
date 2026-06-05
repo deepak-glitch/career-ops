@@ -14,6 +14,12 @@
 ## Processed
 
 ### 2026-06-05
+- [x] #1165 | https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us | Cekura | Forward Deployed Engineer (US) | San Francisco, CA — In-person 5d/wk | 3.6/5 | PDF ✅
+- [x] #1166 | https://www.ycombinator.com/companies/arist/jobs/YvFJJNd-founding-forward-deployed-engineer | Arist | Founding Forward Deployed Engineer | New York, NY or US Remote | 3.0/5 | PDF ✅
+- [x] #1167 | https://job-boards.greenhouse.io/lyratechgroup/jobs/5229710008 | Lyra Technology Group | Forward Deployment AI Engineer | San Diego, CA — Hybrid | 1.8/5 SKIP | PDF ❌
+- [x] #1168 | https://job-boards.greenhouse.io/yipitdata/jobs/7875686 | YipitData | AI Engineer | Remote-US (NYC HQ/hubs) | 3.2/5 | PDF ✅
+- [x] #1169 | https://www.workatastartup.com/jobs/76418 | Adam | Residency (Summer 2026) | San Francisco, CA — In-person 5d/wk | 3.0/5 | PDF ✅
+- [x] #1170 | https://www.workatastartup.com/jobs/67226 | Berry | Founding Full Stack Engineer - LLM, Applied AI | Worldwide Remote | 3.2/5 | PDF ✅
 - [x] #1162 | https://apply.workable.com/reasonable/j/5F34A88D3B/ | Reasonable | Forward Deployed Engineer | San Francisco, CA (also London) — On-site | 3.5/5 | PDF ✅
 - [x] #1163 | https://apply.workable.com/proactive-technology-management/j/63FB51F32E/ | Proactive Technology Management | Forward Deployed Engineer (AI Consultant) | Detroit, MI — Hybrid (30% travel) | 3.0/5 | PDF ✅
 - [x] #1148 | https://apply.workable.com/mlabs/j/CF4E6EC215 | MLabs | Senior AI Data Engineer (Agentic Systems) | Remote — USA/Europe/Israel (5h EST overlap) | 3.7/5 | PDF ✅
