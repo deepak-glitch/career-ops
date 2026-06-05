@@ -10,15 +10,12 @@
 ### 2026-06-05
 
 - [!] https://job-boards.greenhouse.io/gather/jobs/5532448004 | Gather | Founding ML Engineer - AI | error: no live JD; "no positions currently available"
-- [ ] https://mechanizedai.breezy.hr/p/83ac0b9ca75d-ai-engineer | Mechanized AI | AI Engineer | Remote — US
-- [ ] https://mechanizedai.breezy.hr/p/31a6c8d1e509-genai-engineer | Mechanized AI | GenAI Engineer | Remote — US
-- [ ] https://apply.workable.com/huggingface/j/0ACFC9C229 | Hugging Face | ML Research Engineer Internship, Agent AI | US Remote
-- [ ] https://apply.workable.com/mlabs/j/CF4E6EC215 | MLabs | AI Data Engineer | Remote — US/Europe/Israel
-- [ ] https://job-boards.greenhouse.io/devrev/jobs/5837052004 | DevRev | Forward Deployed Engineer - Applied AI | Remote — US
 
 ## Processed
 
 ### 2026-06-05
+- [x] #1148 | https://apply.workable.com/mlabs/j/CF4E6EC215 | MLabs | Senior AI Data Engineer (Agentic Systems) | Remote — USA/Europe/Israel (5h EST overlap) | 3.7/5 | PDF ✅
+- [x] #1149 | https://apply.workable.com/huggingface/j/0ACFC9C229 | Hugging Face | ML Research Engineer Internship, Agent AI | US Remote | 3.4/5 | PDF ✅
 - [x] #1147 | https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384023002 | Further | Graduate Leadership Program AI/Data Engineer | Cleveland, OH or Atlanta, GA — Hybrid (Tue/Wed/Thu) | 3.3/5 | PDF ✅
 - [x] #1145 | https://job-boards.greenhouse.io/fireworksai/jobs/4056271009 | Fireworks AI | Software Engineer, AI Infrastructure | New York, NY; San Mateo, CA — Hybrid (M/W/F) | 3.5/5 | PDF ✅
 - [x] #1139 | https://www.ycombinator.com/companies/luminai/jobs/9s487sF-forward-deployed-engineer | Luminai | Forward Deployed Engineer | San Mateo, CA — Hybrid 3d/wk | 3.8/5 | PDF ✅

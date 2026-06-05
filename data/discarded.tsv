@@ -526,3 +526,8 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-04	1138	2026-06-04	KlearNow.AI	AI Engineer II / AI Engineer III	2.7/5	Evaluated	reports/1138-klearnow-ai-engineer-india-2026-06-04.md	[Intl] Gurgaon India on-site; trade-doc NLP/CV ML; stack 1:1 (Python/Keras/PyTorch/TF); F-1 OPT US-resident → India relocation forfeits sponsorship runway; pursue US/UK/ES/NL ops side instead
 2026-06-05	1146	2026-06-05	Anglera	Forward Deployed Engineer	2.9/5	Evaluated	reports/1146-anglera-fde-2026-06-05.md	[US] SF on-site, $125-160K; explicit no-sponsorship (US citizen/visa only) blocks F-1 OPT; PIM/MDM stack mismatch; AI depth underused — below apply bar
 2026-06-05	1148		orphan	orphan	0/5		reports/1148-anthropic-applied-ai-engineer-sydney-2026-06-05.md	
+2026-06-05	1156	2026-06-05	Product Hackers	AI Engineer	2.4/5	Evaluated	reports/1156-producthackers-2026-06-05.md	[Intl] Spain Remote; €35-45K; fluent Spanish required — hard blocker; LangGraph/CrewAI/Claude Agent SDK stack otherwise strong fit; skip
+2026-06-05	1158	2026-06-05	Modulai	Machine Learning Engineer	2.4/5	Evaluated	reports/1158-modulai-2026-06-05.md	[Intl] Stockholm Hybrid; NO visa sponsorship — explicit hard blocker for F-1 OPT candidate; skip
+2026-06-05	1150		orphan	orphan	0/5		reports/1150-devrev-2026-06-05.md	
+2026-06-05	1151		orphan	orphan	0/5		reports/1151-huggingface-cloud-ml-devrel-2026-06-05.md	
+2026-06-05	1152		orphan	orphan	0/5		reports/1152-huggingface-on-device-ml-2026-06-05.md	

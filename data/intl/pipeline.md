@@ -13,23 +13,20 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-
-### 2026-06-05
-
-- [ ] https://apply.workable.com/huggingface/j/CFD3AB818C | Hugging Face | Cloud ML DevRel Engineer | EMEA Remote
-- [ ] https://apply.workable.com/huggingface/j/07D6F55341 | Hugging Face | On-device ML Engineer | EMEA Remote
-- [ ] https://apply.workable.com/huzzle/j/172A019A2A | Huzzle | AI Engineer | Remote (UK/EU)
-- [ ] https://apply.workable.com/itrex-group/j/CFF3DE642F | ITRex Group | ML Engineer | Remote (US/Europe)
-- [ ] https://apply.workable.com/zyte/j/7475906EC2 | Zyte | AI/ML Engineer - Web Data Quality | Remote (EU/global)
-- [ ] https://producthackers.teamtailor.com/jobs/7793766-ai-engineer-software-engineer-espana | Product Hackers | AI Engineer | Spain — Remote
-- [ ] https://multiversecomputing.teamtailor.com/jobs/4499908-machine-learning-engineer-llm | Multiverse Computing | ML Engineer (LLM) | Spain
-- [ ] https://modulai.teamtailor.com/jobs/1104520-machine-learning-engineer-sweden | Modulai | ML Engineer | Sweden
-- [ ] https://tradingview.teamtailor.com/jobs/7736640-machine-learning-engineer | TradingView | ML Engineer | Remote (EU/UK)
-- [ ] https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-ai-ml-engineer-llm-systems-m-w-d | Anexia | AI/ML Engineer - LLM Systems | Austria/EU Remote
-
 ## Processed
 
 ### 2026-06-05
+- [x] #1160 | https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-ai-ml-engineer-llm-systems-m-w-d | Anexia | AI/ML Engineer - LLM Systems | Austria — Remote (EU) | 3.6/5 | PDF ✅
+- [x] #1157 | https://multiversecomputing.teamtailor.com/jobs/4499908-machine-learning-engineer-llm | Multiverse Computing | Machine Learning Engineer (LLM) | Spain (SS/BCN/MAD/ZGZ) — onsite | 3.4/5 | PDF ✅
+- [x] #1153 | https://apply.workable.com/huzzle/j/172A019A2A | Huzzle | AI Engineer | Romania — Remote (global) | 3.3/5 | PDF ✅
+- [x] #1155 | https://apply.workable.com/zyte/j/7475906EC2 | Zyte | AI/ML Engineer - Web Data Quality | Fully Remote (28+ countries) | 3.3/5 | PDF ✅
+- [x] #1154 | https://apply.workable.com/itrex-group/j/CFF3DE642F | ITRex Group | ML Engineer | Romania Remote consultancy | 3.1/5 | PDF ✅
+- [x] #1159 | https://tradingview.teamtailor.com/jobs/7736640-machine-learning-engineer | TradingView | Machine Learning Engineer | Tbilisi/Cyprus — Hybrid | 3.0/5 | PDF ✅
+- [x] #1151 | https://apply.workable.com/huggingface/j/CFD3AB818C | Hugging Face | Cloud ML DevRel Engineer (EMEA Remote) | France Remote (EMEA) | 2.8/5 SKIP | PDF ❌
+- [x] #1150 | https://job-boards.greenhouse.io/devrev/jobs/5837052004 | DevRev | Forward Deployed Engineer - Applied AI | Japan Remote (30% travel) | 2.5/5 SKIP | PDF ❌
+- [x] #1156 | https://producthackers.teamtailor.com/jobs/7793766-ai-engineer-software-engineer-espana | Product Hackers | AI Engineer | Spain — Fully Remote (Spanish required) | 2.4/5 SKIP | PDF ❌
+- [x] #1158 | https://modulai.teamtailor.com/jobs/1104520-machine-learning-engineer-sweden | Modulai | Machine Learning Engineer | Stockholm — Hybrid (no sponsorship) | 2.4/5 SKIP | PDF ❌
+- [x] #1152 | https://apply.workable.com/huggingface/j/07D6F55341 | Hugging Face | On-device ML Engineer (EMEA Remote) | EMEA Remote | 2.3/5 SKIP | PDF ❌
 - [x] #1141 | https://himalayas.app/companies/smartclip-europe-gmbh/jobs/ai-engineer-w-m-d | smartclip Europe | AI Engineer (w/m/d) | Germany — Remote (Berlin sessions) | 3.4/5 | PDF ✅
 - [x] #1142 | https://himalayas.app/companies/welocalize/jobs/ai-machine-learning-r-d-engineer | Welocalize | AI Machine Learning R&D Engineer | Spain — Remote | 3.6/5 | PDF ✅
 - [x] #202 | https://apply.workable.com/huggingface/j/56232F23CB | Hugging Face | Open-Source Machine Learning Engineer | International Remote | 3.2/5 | deduped → existing HF MLE #202 (3.8) kept
