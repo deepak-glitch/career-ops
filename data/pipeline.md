@@ -10,11 +10,15 @@
 ### 2026-06-05
 
 - [!] https://job-boards.greenhouse.io/gather/jobs/5532448004 | Gather | Founding ML Engineer - AI | error: no live JD; "no positions currently available"
+- [!] https://apply.workable.com/newcode/j/2841413287 | Newcode.ai | Forward Deployed Agentic AI SWE (DLA Piper) | error: workable page returned only meta; LinkedIn fallback returned 0 results
+- [!] https://apply.workable.com/weekday-1/j/BA27FE655A | Weekday AI | Forward Deployed Engineer - AIS | error: workable page returned only meta; company appears India-focused
 
 
 ## Processed
 
 ### 2026-06-05
+- [x] #1184 | https://apply.workable.com/tiger-analytics/j/56FE258F8F/ | Tiger Analytics | Forward Deployed Engineer (Generative AI) | Remote — United States | 3.2/5 | PDF ✅
+- [x] #1185 | https://www.ycombinator.com/companies/contrario/jobs/UXt8I3L-applied-ai-engineer | Contrario | Applied AI Engineer | San Francisco, CA — In-person | 3.4/5 | PDF ✅
 - [x] #1173 | https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324 | Sierra | Software Engineer, Agent Data Platform | San Francisco, CA — In-person | 3.0/5 | PDF ✅
 - [x] #1174 | https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07 | Sierra | Software Engineer, Agent Builder | San Francisco, CA — In-person | 3.4/5 | PDF ✅
 - [x] #1175 | https://job-boards.greenhouse.io/splitero/jobs/5162723008 | Splitero | Applied AI Engineer | Remote — US | 3.4/5 | PDF ✅
