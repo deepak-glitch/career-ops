@@ -14,6 +14,7 @@
 ## Processed
 
 ### 2026-06-05
+- [x] #1147 | https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384023002 | Further | Graduate Leadership Program AI/Data Engineer | Cleveland, OH or Atlanta, GA — Hybrid (Tue/Wed/Thu) | 3.3/5 | PDF ✅
 - [x] #1145 | https://job-boards.greenhouse.io/fireworksai/jobs/4056271009 | Fireworks AI | Software Engineer, AI Infrastructure | New York, NY; San Mateo, CA — Hybrid (M/W/F) | 3.5/5 | PDF ✅
 - [x] #1139 | https://www.ycombinator.com/companies/luminai/jobs/9s487sF-forward-deployed-engineer | Luminai | Forward Deployed Engineer | San Mateo, CA — Hybrid 3d/wk | 3.8/5 | PDF ✅
 - [x] #1140 | https://job-boards.greenhouse.io/togetherai/jobs/5131941007 | Together AI | Forward Deployed Engineer (Inference & Post-Training) | San Francisco — Onsite 4d/wk | 3.1/5 | PDF ✅
@@ -35,7 +36,6 @@
 - [x] #1126 | https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer – Full Stack AI | Remote — United States | 3.7/5 | PDF ✅
 - [x] #1127 | https://job-boards.greenhouse.io/proconex/jobs/5970129004 | Proconex | AI/ML Engineer - Vision AI | Royersford, PA — likely on-site/hybrid | 3.0/5 | PDF ✅
 - [x] #1128 | https://job-boards.eu.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer, VoIP | New York / US Remote | 2.2/5 SKIP | PDF ❌
-
 
 ### 2026-06-03
 - [x] #1101 | https://jobs.ashbyhq.com/clarium/83332693-7e11-41db-8b62-8225cb818abf | Clarium | AI Engineer - Data Intelligence | Remote/US (NYC co-working) | 4.3/5 | PDF ✅

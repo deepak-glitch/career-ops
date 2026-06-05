@@ -1179,3 +1179,7 @@ Processed 4 URLs (US:3 + Intl:1) — 1 evaluated (Fireworks AI #1145, 3.5/5) + 3
 Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed e588306.
 
 Scans returned 0 new offers across both tracks (114 companies each, ~7180 jobs scanned, all filtered by title/region/duplicates/age). US Pendientes held 1 dead-URL `[!]` entry (Gather — "no current openings", verified) which `cleanup-bang-rows.mjs` left as `kept_unmatched` for future aging. Intl Pendientes was empty. Broader Level 3 WebSearch queries surfaced only previously-evaluated postings (Anthropic FDE, Glean, Arize, Camunda, Lazarus, etc. — all already in pipeline). Merge + verify clean (0 errors, 0 warnings). Empty-marker commit pushed to `main` to record the routine ran.
+2026-06-05T080146Z	step1-scan	warn	js-yaml module not found (scan.mjs)	fix:npm install	outcome:resolved
+2026-06-05T080146Z	step1-scan	warn	portal HTTP 404: Tinybird, Travelperk, Forto (US scan)	fix:none (upstream ATS config); logged	outcome:skipped
+2026-06-05T080146Z	step2-pipeline	warn	careCycle YC FDE JD 404 (role closed; no open jobs on YC)	fix:fallbacks tried (direct 404, company page empty); marked dead in scan-history	outcome:skipped
+2026-06-05T080146Z	step2-pdf	warn	Playwright chromium not installed (generate-pdf.mjs)	fix:npx playwright install chromium; retried	outcome:resolved

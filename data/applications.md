@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1147 | 2026-06-05 | Further | Graduate Leadership Program AI/Data Engineer | 3.3/5 | Evaluated | ✅ | [1147](reports/1147-further-graduate-ai-data-engineer-2026-06-05.md) | [US] Cleveland/Atlanta hybrid (local to Kent OH); RAG+LLM orchestration core fit; entry-level program, over-qualified; no sponsorship caps long-term |
 | 1145 | 2026-06-05 | Fireworks AI | Software Engineer, AI Infrastructure | 3.5/5 | Evaluated | ✅ | [1145](reports/1145-fireworks-ai-swe-infra-2026-06-05.md) | [US] NY/SF hybrid M/W/F; $175-220K + equity; Series C $4B Benchmark/Sequoia/Lightspeed; PyTorch/MLflow/K8s 1:1; vLLM/Sglang/TRT-LLM depth gap; QLoRA H100 + caching/routing adjacency; F-1 OPT US entity OK |
 | 1139 | 2026-06-05 | Luminai | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [1139](reports/1139-luminai-fde-2026-06-05.md) | [US] San Mateo CA hybrid 3d/wk; $150-220K; Python/cloud/LLM/agents strong fit; YC S20 Series-A General Catalyst; ambiguity→production FDE; F-1 OPT relocation OK (US entity) |
 | 1140 | 2026-06-05 | Together AI | Forward Deployed Engineer (Inference & Post-Training) | 3.1/5 | Evaluated | ✅ | [1140](reports/1140-together-ai-fde-inference-2026-06-05.md) | [US] SF onsite 4d/wk; $270-300K OTE; specialist vLLM/TensorRT/SGLang + DPO/RLHF/GRPO gaps; QLoRA+caching/routing adjacency only; stretch role; F-1 OPT relocation |
