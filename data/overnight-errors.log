@@ -1189,3 +1189,10 @@ Scans returned 0 new offers across both tracks (114 companies each, ~7180 jobs s
 2026-06-05T120201Z	step2-pipeline-us	warn	Gather Founding ML Engineer URL returns no live JD (no positions available)	fix:re-verified via WebFetch=CLOSED; kept [!] row for retry next run per playbook #3	outcome:skipped
 2026-06-05T120201Z	step3-merge	warn	Anthropic Applied AI Engineer (Sydney) deduped vs existing #1 FDE Applied AI 4.3	fix:merge-tracker skipped lower-score dup; new report was <3.0 and deleted by cleanup anyway	outcome:resolved
 Processed 13 URLs (US:5 + Intl:10, minus 2 closed = 11 evaluations, +2 dead-marks), generated 8 PDFs, archived 5 low-score, pushed 69732b3.
+2026-06-05T171141Z	step0-deps	warn	js-yaml ERR_MODULE_NOT_FOUND from scan.mjs	fix:npm install (added 59 packages)	outcome:resolved
+2026-06-05T171141Z	step1-scan-us	warn	8 portal HTTP errors (Tinybird/Travelperk/Forto 404; Anthropic/Lightning AI/Edison Scientific/Pallet/Proton 503)	fix:scanner skipped them, scanned remaining 114 companies	outcome:skipped
+2026-06-05T171141Z	step1-scan-intl	warn	25 portal HTTP errors (3x 404, 22x 503 transient)	fix:scanner skipped them, scanned remaining; +1 net-new	outcome:skipped
+2026-06-05T171141Z	step2-pipeline-intl	warn	ICEYE FDE workable JD returns 'Not Found' via API+WebFetch	fix:tried workable API v2 + WebFetch; aggregator had no detail; skipped (not added to pipeline)	outcome:skipped
+2026-06-05T171141Z	step2-pipeline-us	warn	Kodiak New-Grad Applied AI CV (gh 4003772009) redirects to jobs list = removed	fix:verified via WebFetch+builtin (removed Jun 2025); skipped, not added	outcome:skipped
+2026-06-05T171141Z	step2-pipeline-us	warn	Gather Founding ML Engineer URL still 302 redirect (closed)	fix:re-verified greenhouse 302+API DNS fail=CLOSED; kept [!] row for retry per playbook #3	outcome:skipped
+2026-06-05T171141Z	step3-merge	warn	YLD Contract FDE (#1165) is same job-id 4845729101 as prior #1131 (host .eu vs non-.eu slipped L3 dedup)	fix:both scored <3.0; cleanup-low-scores deleted #1165 report+row; no duplicate persists	outcome:resolved

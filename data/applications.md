@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1162 | 2026-06-05 | Reasonable | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1162](reports/1162-reasonable-fde-2026-06-05.md) | [US] Founding FDE, applied-AI/formal-verification, SF on-site |
+| 1163 | 2026-06-05 | Proactive Technology Management | Forward Deployed Engineer (AI Consultant) | 3.0/5 | Evaluated | ✅ | [1163](reports/1163-proactive-technology-management-fde-ai-consultant-2026-06-05.md) | [US] Healthcare-AI consultant (non-coding), Detroit hybrid; borderline |
+| 1164 | 2026-06-05 | Faculty | Machine Learning Engineer | 3.4/5 | Evaluated | ✅ | [1164](reports/1164-faculty-ml-engineer-2026-06-05.md) | [Intl] Applied-AI consultancy, London UK; F-1 OPT/work-auth flag |
 | 1153 | 2026-06-05 | Huzzle | AI Engineer | 3.3/5 | Evaluated | ✅ | [1153](reports/1153-huzzle-2026-06-05.md) | [Intl] Romania Remote (global per Himalayas); LLM workflows + RAG + AI automation; mid-level 2+ yrs; Deepak's 25+ agents + multi-model eval = strong fit |
 | 1154 | 2026-06-05 | ITRex Group | ML Engineer | 3.1/5 | Evaluated | ✅ | [1154](reports/1154-itrex-2026-06-05.md) | [Intl] Romania Remote consultancy; 4+ yrs end-to-end ML on live-streaming platform (1B+ min/month); NLP+classification+Docker; Suvidha video pipeline is closest analog |
 | 1155 | 2026-06-05 | Zyte | AI/ML Engineer - Web Data Quality | 3.3/5 | Evaluated | ✅ | [1155](reports/1155-zyte-2026-06-05.md) | [Intl] Fully Remote global (28+ countries); 3+ yrs anomaly detection + data quality + GenAI; Emerson anomaly + Progress Solutions monitoring align well |

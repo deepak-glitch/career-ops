@@ -16,6 +16,7 @@
 ## Processed
 
 ### 2026-06-05
+- [x] #1164 | https://jobs.ashbyhq.com/faculty/98f476d9-39ea-4bcc-b908-a6f6b8119fb9 | Faculty | Machine Learning Engineer | London, UK — Hybrid | 3.4/5 | PDF ✅
 - [x] #1160 | https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-ai-ml-engineer-llm-systems-m-w-d | Anexia | AI/ML Engineer - LLM Systems | Austria — Remote (EU) | 3.6/5 | PDF ✅
 - [x] #1157 | https://multiversecomputing.teamtailor.com/jobs/4499908-machine-learning-engineer-llm | Multiverse Computing | Machine Learning Engineer (LLM) | Spain (SS/BCN/MAD/ZGZ) — onsite | 3.4/5 | PDF ✅
 - [x] #1153 | https://apply.workable.com/huzzle/j/172A019A2A | Huzzle | AI Engineer | Romania — Remote (global) | 3.3/5 | PDF ✅

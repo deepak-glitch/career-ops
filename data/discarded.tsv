@@ -531,3 +531,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-05	1150		orphan	orphan	0/5		reports/1150-devrev-2026-06-05.md	
 2026-06-05	1151		orphan	orphan	0/5		reports/1151-huggingface-cloud-ml-devrel-2026-06-05.md	
 2026-06-05	1152		orphan	orphan	0/5		reports/1152-huggingface-on-device-ml-2026-06-05.md	
+2026-06-05	1161	2026-06-05	Decagon	Platform Engineer, Security	2.7/5	Evaluated	reports/1161-decagon-platform-engineer-security-2026-06-05.md	[US] Security-eng role, not Applied-AI archetype; SF in-office $200-330K
+2026-06-05	1165	2026-06-05	YLD	Contract Forward Deployed Engineer	2.5/5	Evaluated	reports/1165-yld-contract-fde-2026-06-05.md	[Intl] Golang/Java infra contract, not AI; UK work-auth blocker

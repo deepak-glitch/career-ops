@@ -14,6 +14,8 @@
 ## Processed
 
 ### 2026-06-05
+- [x] #1162 | https://apply.workable.com/reasonable/j/5F34A88D3B/ | Reasonable | Forward Deployed Engineer | San Francisco, CA (also London) — On-site | 3.5/5 | PDF ✅
+- [x] #1163 | https://apply.workable.com/proactive-technology-management/j/63FB51F32E/ | Proactive Technology Management | Forward Deployed Engineer (AI Consultant) | Detroit, MI — Hybrid (30% travel) | 3.0/5 | PDF ✅
 - [x] #1148 | https://apply.workable.com/mlabs/j/CF4E6EC215 | MLabs | Senior AI Data Engineer (Agentic Systems) | Remote — USA/Europe/Israel (5h EST overlap) | 3.7/5 | PDF ✅
 - [x] #1149 | https://apply.workable.com/huggingface/j/0ACFC9C229 | Hugging Face | ML Research Engineer Internship, Agent AI | US Remote | 3.4/5 | PDF ✅
 - [x] #1147 | https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384023002 | Further | Graduate Leadership Program AI/Data Engineer | Cleveland, OH or Atlanta, GA — Hybrid (Tue/Wed/Thu) | 3.3/5 | PDF ✅
