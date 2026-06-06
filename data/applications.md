@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1215 | 2026-06-06 | Cinder | AI Engineer | 3.5/5 | Evaluated | ✅ | [1215](reports/1215-cinder-2026-06-06.md) | [US] NY remote $200-250K; strong LLM-lifecycle/RAG/MLOps/AWS+Terraform fit; 5-7yr ask vs ~4yr soft gap; T&S domain new |
+| 1216 | 2026-06-06 | Fieldguide | AI Engineer | 3.7/5 | Evaluated | ✅ | [1216](reports/1216-fieldguide-2026-06-06.md) | [US] SF remote-first $150-220K; cleanest fit — agentic+RAG+evals, capability-over-years, TS/Python; audit domain new |
 | 1209 | 2026-06-06 | Falconer | Founding AI Engineer | 3.6/5 | Evaluated | ✅ | [1209](reports/1209-falconer-2026-06-06.md) | [US] San Francisco — Caltrain office, hybrid OK; YC-style early stage; $200-300K + equity; KG + vector RAG + embeddings + fine-tuning; 2+ years ML data pipelines (Deepak ~2.5y); F-1 OPT relocation friction |
 | 1211 | 2026-06-06 | Cooper AI | Founding AI Engineer | 3.4/5 | Evaluated | ✅ | [1211](reports/1211-cooper-ai-2026-06-06.md) | [US] San Francisco onsite (lunch 5x/wk); founding AI BU for commercial insurance ($1T+ market); modern AI stack (LLMs, VLMs, ASR/TTS, vector, orchestration, evals); $180-220K + equity; Lightspeed/General Catalyst/Valor backed; healthcare → insurance regulated-domain transfer |
 | 1212 | 2026-06-06 | Emergence AI | Software Engineer - Full Stack | 3.4/5 | Evaluated | ✅ | [1212](reports/1212-emergence-ai-2026-06-06.md) | [US] Irvine, CA hybrid; 0-3y SWE bracket (1:1 fit for Deepak); Python primary + React/TS frontend + Playwright/pytest test automation + agent eval/observability tooling; $120-140K; F-1 OPT sponsorship verify in screen |

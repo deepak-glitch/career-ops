@@ -1254,3 +1254,10 @@ Sources:
 - [Emergence AI Software Engineer Full Stack](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4120049)
 - [Plain Senior Product Engineer AI (London)](https://jobs.ashbyhq.com/plain/fd10161b-2139-4432-ab75-59be1a12da23)
 - [OpenAI Forward Deployed Software Engineer Dublin](https://jobs.ashbyhq.com/openai/63003bd5-05c8-408a-8d5a-8f5deb16113f)
+2026-06-06T160156Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-06T160156Z	step1-scan	warn	Tinybird portal HTTP 404 (board moved/closed)	fix:none (transient ATS config)	outcome:skipped
+2026-06-06T160156Z	step1-scan	warn	Travelperk portal HTTP 404 (board moved/closed)	fix:none (transient ATS config)	outcome:skipped
+2026-06-06T160156Z	step1-scan	warn	Forto portal HTTP 404 (board moved/closed)	fix:none (transient ATS config)	outcome:skipped
+2026-06-06T160156Z	step2-pdf	warn	Playwright chromium browser missing after npm install	fix:npx playwright install chromium	outcome:resolved
+2026-06-06T160156Z	step3-merge	error	report-number collision: 1213/1214 already consumed by Plain/OpenAI (deleted low-score, in discarded.tsv + intl pipeline); NEXT_NUM was miscomputed from reports/ max only	fix:renumber my new artifacts 1213->1215,1214->1216,1215->1217 (files+headers+TSV+pipeline links)	outcome:resolved
+2026-06-06T160156Z	step3-merge	warn	stale SKIP [x] rows #1213 Plain + #1214 OpenAI in intl pipeline referenced deleted (<3.0) reports	fix:removed both rows from intl Procesadas (already audited in discarded.tsv)	outcome:resolved

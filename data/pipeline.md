@@ -13,6 +13,8 @@
 
 
 ### 2026-06-06
+- [x] #1215 | https://jobs.ashbyhq.com/cinder/59b665b5-6e0a-46e0-aa78-3f48ba4c7c2b | Cinder | AI Engineer | New York — Remote eligible | 3.5/5 | PDF ✅
+- [x] #1216 | https://jobs.ashbyhq.com/fieldguide/6d0ceade-cbbe-4cd7-9af9-caf3cfed7ec3 | Fieldguide | AI Engineer | San Francisco, CA — Remote-first | 3.7/5 | PDF ✅
 - [x] #1209 | https://jobs.ashbyhq.com/falconer/75083e64-e5fb-4cb6-ba81-9a548b30e317 | Falconer | Founding AI Engineer | San Francisco, Bay Area — Hybrid (Caltrain office) | 3.6/5 | PDF ✅
 - [x] #1210 | https://jobs.ashbyhq.com/workweave/cfa38030-6d14-41fc-a776-6c133a2b9aeb | Weave | Founding AI Engineer | San Francisco — Onsite (Weave HQ) | 3.3/5 | PDF ✅
 - [x] #1211 | https://jobs.ashbyhq.com/cooper-ai/d80fa622-18b5-43d1-af67-029e0c5a38ec | Cooper AI | Founding AI Engineer | San Francisco, CA — Onsite | 3.4/5 | PDF ✅
