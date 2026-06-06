@@ -12,9 +12,21 @@
 - [!] https://apply.workable.com/newcode/j/2841413287 | Newcode.ai | Forward Deployed Agentic AI SWE (DLA Piper) | error: workable page returned only meta; LinkedIn fallback returned 0 results
 - [!] https://apply.workable.com/weekday-1/j/BA27FE655A | Weekday AI | Forward Deployed Engineer - AIS | error: workable page returned only meta; company appears India-focused
 
+### 2026-06-06
+
+- [!] https://apply.workable.com/virtuhire/j/3EB34EA78B/ | VirtuHire | Forward Deployed Engineer | error: workable SPA empty; VirtuHire is a recruiting agency for South African remote talent, not the hiring entity
+- [!] https://apply.workable.com/v2-ai/j/C62134F1C9 | V2 Digital | Forward Deployed Engineer - AI Principal | error: workable SPA empty; V2 AI is $30M AI-native consultancy, location unverified
+
 
 ## Processed
 
+
+### 2026-06-06
+- [x] #1190 | https://www.workatastartup.com/jobs/88243 | Auctor | Forward Deployed Engineer | New York City — In-person | 3.2/5 | PDF ✅
+- [x] #1191 | https://www.workatastartup.com/jobs/80966 | Distro | Forward Deployed Engineer | Hybrid — US | 3.1/5 | PDF ✅
+- [x] #1192 | https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
+- [x] #1193 | https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | Global Remote | 3.5/5 | PDF ✅
+- [x] #1194 | https://job-boards.greenhouse.io/lightningai/jobs/7742081003 | Lightning AI | Forward Deployed Engineer | London/NYC/SF/Seattle — Hybrid 2d/wk | 3.6/5 | PDF ✅
 ### 2026-06-05
 - [x] #1184 | https://apply.workable.com/tiger-analytics/j/56FE258F8F/ | Tiger Analytics | Forward Deployed Engineer (Generative AI) | Remote — United States | 3.2/5 | PDF ✅
 - [x] #1185 | https://www.ycombinator.com/companies/contrario/jobs/UXt8I3L-applied-ai-engineer | Contrario | Applied AI Engineer | San Francisco, CA — In-person | 3.4/5 | PDF ✅
