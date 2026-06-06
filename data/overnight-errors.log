@@ -1214,3 +1214,13 @@ Processed 7 URLs (US:4 + Intl:3), generated 4 PDFs, archived 3 low-score, pushed
 2026-06-06T000225Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
 2026-06-06T000225Z	step1-scan-us	warn	3 company fetches HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skipped, continue	outcome:skipped
 2026-06-06T000225Z	step2-extract	warn	4 pending URLs re-extract failed (Newcode,Weekday,InterImage,Amdaris meta-only)	fix:WebFetch+aggregator fallbacks, left as -[!] for retry	outcome:skipped
+Processed 15 URLs (US:10 + Intl:5), generated 7 PDFs, archived 3 low-score, pushed 2d57b37.
+
+Summary:
+- **Scan (L1/L2):** 0 new from APIs across both tracks
+- **Scan (L3 WebSearch):** added 10 US + 5 Intl URLs under today's date
+- **Reports kept (≥3.0):** Auctor 3.2, Distro 3.1, Baseten 3.7, ElevenLabs 3.5, Lightning AI 3.6, Haast 3.5, Aircall 3.0
+- **Deleted by cleanup-low-scores:** ICEYE 1.7 (NATO clearance veto), Unitary 2.2 (UK £36–60K + visa overhead), INDG 2.7 (CGI/Node/.NET stack mismatch)
+- **[!] failed extractions remain in US Pendientes:** Palona, VirtuHire, V2-AI (Workable SPA empty), Varick (Ashby UUID not on board), Agiloft (Lever 404)
+- **Pipeline health:** 0 errors / 0 warnings
+- **Commit:** `2d57b37` pushed to `origin/main` first try
