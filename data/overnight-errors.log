@@ -1239,3 +1239,4 @@ Sources:
 2026-06-06T080133Z	step1-scan-us	warn	portal API errors: Tinybird/Travelperk/Forto HTTP404, Panopto aborted	fix:transient per-company, skipped	outcome:skipped
 2026-06-06T080133Z	step1-scan-intl	warn	portal API errors: Tinybird/Travelperk/Forto HTTP404	fix:transient per-company, skipped	outcome:skipped
 2026-06-06T080133Z	step2-pdf	warn	playwright chromium executable missing	fix:npx playwright install chromium	outcome:resolved
+Processed 5 URLs (US:3 + Intl:2), generated 3 PDFs, archived 1 low-score, pushed e67c51d.
