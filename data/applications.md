@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1200 | 2026-06-06 | Carrot Fertility | Applied AI Engineer (Enterprise) | 3.6/5 | Evaluated | ✅ | [1200](reports/1200-carrot-fertility-applied-ai-enterprise-2026-06-06.md) | [US] Remote US; agentic AI + MCP servers over HIPAA data; Claude-Code-native (career-ops fit); $165-200K; 6-10 yrs asked (Deepak ~4 — stretch); strong healthcare/agentic/compliance match; F-1 sponsorship policy not stated |
 | 1191 | 2026-06-06 | Distro | Forward Deployed Engineer | 3.1/5 | Evaluated | ✅ | [1191](reports/1191-distro-fde-2026-06-06.md) | [US] YC S24 industrial-distribution AI revenue platform; React/Next.js/TS/Python/MongoDB stack; 3-5y bar; hybrid; comp opaque |
 | 1194 | 2026-06-06 | Lightning AI | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1194](reports/1194-lightning-ai-fde-2026-06-06.md) | [US] Hybrid 2d/wk London/NYC/SF/Seattle; $120-250K + equity; Python/Docker/K8s/vLLM/TensorRT/Ray/LangGraph/vector DBs stack; F-1 OPT works |
 | 1184 | 2026-06-05 | Tiger Analytics | Forward Deployed Engineer (Generative AI) | 3.2/5 | Evaluated | ✅ | [1184](reports/1184-tiger-analytics-fde-genai-2026-06-05.md) | [US] Remote US; FDE consulting embedded with enterprise GenAI; LangChain/LangGraph + Pinecone/Weaviate + AWS Bedrock/Azure OpenAI/Vertex 1:1; comp band undisclosed; vLLM/TGI/Triton depth gap; F-1 OPT navigable |

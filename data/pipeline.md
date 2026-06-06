@@ -27,6 +27,7 @@
 - [x] #1192 | https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
 - [x] #1193 | https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | Global Remote | 3.5/5 | PDF ✅
 - [x] #1194 | https://job-boards.greenhouse.io/lightningai/jobs/7742081003 | Lightning AI | Forward Deployed Engineer | London/NYC/SF/Seattle — Hybrid 2d/wk | 3.6/5 | PDF ✅
+- [x] #1200 | https://job-boards.greenhouse.io/carrotfertility/jobs/6011067004 | Carrot Fertility | Applied AI Engineer (Enterprise) | Remote — US | 3.6/5 | PDF ✅
 ### 2026-06-05
 - [x] #1184 | https://apply.workable.com/tiger-analytics/j/56FE258F8F/ | Tiger Analytics | Forward Deployed Engineer (Generative AI) | Remote — United States | 3.2/5 | PDF ✅
 - [x] #1185 | https://www.ycombinator.com/companies/contrario/jobs/UXt8I3L-applied-ai-engineer | Contrario | Applied AI Engineer | San Francisco, CA — In-person | 3.4/5 | PDF ✅

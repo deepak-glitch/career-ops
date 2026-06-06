@@ -1224,3 +1224,8 @@ Summary:
 - **[!] failed extractions remain in US Pendientes:** Palona, VirtuHire, V2-AI (Workable SPA empty), Varick (Ashby UUID not on board), Agiloft (Lever 404)
 - **Pipeline health:** 0 errors / 0 warnings
 - **Commit:** `2d57b37` pushed to `origin/main` first try
+2026-06-06T040208Z	setup	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-06T040208Z	scan-us	warn	3 portal 404s: Tinybird, Travelperk, Forto	fix:none (upstream ATS endpoints; non-fatal)	outcome:skipped
+2026-06-06T040208Z	scan-intl	warn	3 portal 404s: Tinybird, Travelperk, Forto	fix:none (upstream ATS endpoints; non-fatal)	outcome:skipped
+2026-06-06T040208Z	pdf-carrot	warn	Playwright chromium executable missing	fix:npx playwright install chromium	outcome:resolved
+2026-06-06T040208Z	cleanup	warn	cleanup-low-scores left #1201 [x] row in intl pipeline (SKIP-suffix format not matched)	fix:removed orphan Procesadas row manually	outcome:resolved
