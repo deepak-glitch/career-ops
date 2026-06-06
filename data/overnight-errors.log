@@ -1235,3 +1235,7 @@ Sources:
 - [Machinify FDE](https://job-boards.greenhouse.io/machinifyinc/jobs/4183955009)
 - [Hibu Applied AI Engineer](https://job-boards.greenhouse.io/hibu/jobs/4696330005)
 - [Materiom AI Engineer](https://job-boards.greenhouse.io/materiom/jobs/5150829007)
+2026-06-06T080133Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-06T080133Z	step1-scan-us	warn	portal API errors: Tinybird/Travelperk/Forto HTTP404, Panopto aborted	fix:transient per-company, skipped	outcome:skipped
+2026-06-06T080133Z	step1-scan-intl	warn	portal API errors: Tinybird/Travelperk/Forto HTTP404	fix:transient per-company, skipped	outcome:skipped
+2026-06-06T080133Z	step2-pdf	warn	playwright chromium executable missing	fix:npx playwright install chromium	outcome:resolved

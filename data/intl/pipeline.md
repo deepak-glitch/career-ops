@@ -13,15 +13,10 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-
-### 2026-06-05
-
-- [!] https://apply.workable.com/interimage/j/BA5150B6F4/ | InterImage | AI Engineer | error: workable returned only meta; appears DoD-related, US citizenship likely required
-- [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | Amdaris | AI Forward Deployed Engineer | error: himalayas listing page returned only previews, full JD not accessible
-
 ## Processed
 
 ### 2026-06-06
+- [x] #1204 | https://apply.workable.com/newcode/j/2841413287 | Newcode.ai | Forward Deployed Agentic AI Software Engineer | Nordics (SE/NO/FI) — embedded at DLA Piper | 3.4/5 | PDF ✅
 - [x] #1203 | https://job-boards.greenhouse.io/materiom/jobs/5150829007 | Materiom | AI Engineer | London, England — Hybrid | 3.1/5 | PDF ✅
 - [x] #1195 | https://apply.workable.com/iceye/j/B75F49639E/ | ICEYE | Forward Deployed AI Engineer | Finland/SE/NL/PL/UAE/DE — Hybrid 30-50% on-site | 1.7/5 SKIP | PDF ❌
 - [x] #1196 | https://apply.workable.com/unitary/j/BCA47B5E82 | Unitary | Forward Deployed Engineer | UK (London) / Marin CA — Remote-first | 2.2/5 SKIP | PDF ❌

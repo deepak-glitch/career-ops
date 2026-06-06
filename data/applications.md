@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1204 | 2026-06-06 | Newcode.ai | Forward Deployed Agentic AI Software Engineer | 3.4/5 | Evaluated | ✅ | [1204](reports/1204-newcode-fde-agentic-ai-dla-piper-2026-06-06.md) | [Intl] Nordics (SE/NO/FI) embedded at DLA Piper; FDE+agentic strong fit; F-1 OPT relocation soft blocker caps score |
 | 1201 | 2026-06-06 | Machinify | Forward Deployed Engineer | 3.7/5 | Evaluated | ✅ | [1201](reports/1201-machinify-fde-2026-06-06.md) | [US] Remote — US; FDE archetype, customer-embedded, full-stack generalist; healthcare-payments AI |
 | 1202 | 2026-06-06 | Hibu | Applied AI Engineer | 3.2/5 | Evaluated | ✅ | [1202](reports/1202-hibu-applied-ai-engineer-2026-06-06.md) | [US] King of Prussia PA hybrid 2d/wk; LangChain/LangGraph/CrewAI + MCP + Bedrock + Salesforce; 5-8 yrs ask |
 | 1203 | 2026-06-06 | Materiom | AI Engineer | 3.1/5 | Evaluated | ✅ | [1203](reports/1203-materiom-ai-engineer-2026-06-06.md) | [Intl] London hybrid; predictive ML + LLM/agentic on regenerative materials platform; £75K+; UK visa needed |
