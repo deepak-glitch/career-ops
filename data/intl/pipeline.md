@@ -16,6 +16,8 @@
 ## Processed
 
 ### 2026-06-06
+- [x] #1213 | https://jobs.ashbyhq.com/plain/fd10161b-2139-4432-ab75-59be1a12da23 | Plain | Senior Product Engineer (AI) | London — Hybrid 3d/wk | 2.7/5 SKIP | PDF ❌
+- [x] #1214 | https://jobs.ashbyhq.com/openai/63003bd5-05c8-408a-8d5a-8f5deb16113f | OpenAI | Forward Deployed Software Engineer - Dublin | Dublin, Ireland — Hybrid 3d/wk + 50% travel | 2.5/5 SKIP | PDF ❌
 - [x] #1208 | https://job-boards.eu.greenhouse.io/cognite/jobs/4857558101 | Cognite | Applied AI Engineer (Fullstack), AI Co-Innovation | Oslo, Norway — Onsite/Hybrid | 3.0/5 | PDF ✅
 - [x] #1204 | https://apply.workable.com/newcode/j/2841413287 | Newcode.ai | Forward Deployed Agentic AI Software Engineer | Nordics (SE/NO/FI) — embedded at DLA Piper | 3.4/5 | PDF ✅
 - [x] #1203 | https://job-boards.greenhouse.io/materiom/jobs/5150829007 | Materiom | AI Engineer | London, England — Hybrid | 3.1/5 | PDF ✅
