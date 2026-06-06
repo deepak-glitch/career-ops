@@ -1229,3 +1229,9 @@ Summary:
 2026-06-06T040208Z	scan-intl	warn	3 portal 404s: Tinybird, Travelperk, Forto	fix:none (upstream ATS endpoints; non-fatal)	outcome:skipped
 2026-06-06T040208Z	pdf-carrot	warn	Playwright chromium executable missing	fix:npx playwright install chromium	outcome:resolved
 2026-06-06T040208Z	cleanup	warn	cleanup-low-scores left #1201 [x] row in intl pipeline (SKIP-suffix format not matched)	fix:removed orphan Procesadas row manually	outcome:resolved
+Processed 3 URLs (US:2 + Intl:1), generated 3 PDFs, archived 0 low-score, pushed 2563f11.
+
+Sources:
+- [Machinify FDE](https://job-boards.greenhouse.io/machinifyinc/jobs/4183955009)
+- [Hibu Applied AI Engineer](https://job-boards.greenhouse.io/hibu/jobs/4696330005)
+- [Materiom AI Engineer](https://job-boards.greenhouse.io/materiom/jobs/5150829007)
