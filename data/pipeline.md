@@ -9,7 +9,6 @@
 
 ### 2026-06-05
 
-- [!] https://job-boards.greenhouse.io/gather/jobs/5532448004 | Gather | Founding ML Engineer - AI | error: no live JD; "no positions currently available"
 - [!] https://apply.workable.com/newcode/j/2841413287 | Newcode.ai | Forward Deployed Agentic AI SWE (DLA Piper) | error: workable page returned only meta; LinkedIn fallback returned 0 results
 - [!] https://apply.workable.com/weekday-1/j/BA27FE655A | Weekday AI | Forward Deployed Engineer - AIS | error: workable page returned only meta; company appears India-focused
 

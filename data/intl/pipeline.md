@@ -18,10 +18,12 @@
 
 - [!] https://apply.workable.com/interimage/j/BA5150B6F4/ | InterImage | AI Engineer | error: workable returned only meta; appears DoD-related, US citizenship likely required
 - [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | Amdaris | AI Forward Deployed Engineer | error: himalayas listing page returned only previews, full JD not accessible
-- [!] https://himalayas.app/companies/indg/jobs/forward-deployed-engineer | INDG | Forward Deployed Engineer | duplicate routed to US pipeline as #1186 (Remote United States)
-- [!] https://unibuddy-1668416154.teamtailor.com/jobs/7606923-software-engineer-ii-chat-systems-fully-remote-europe | Unibuddy | Software Engineer II - Chat Systems | error: HTTP 403 from teamtailor
+
 
 ## Processed
+
+### 2026-06-06
+- [x] #1189 | https://unibuddy-1668416154.teamtailor.com/jobs/7606923-software-engineer-ii-chat-systems-fully-remote-europe | Unibuddy | Software Engineer II, Chat Systems | Poland — Fully Remote (Europe) | 2.8/5 SKIP | PDF ❌
 
 ### 2026-06-05
 - [x] #1187 | https://soniox.com/careers/forward-deployed-engineer | Soniox | Forward Deployed Engineer | Ljubljana, Slovenia or Remote | 3.0/5 | PDF ✅

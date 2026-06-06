@@ -1211,3 +1211,6 @@ Verify-pipeline: 0 errors / 0 warnings across both tracks.
 2026-06-05T200148Z	step2-extract	warn	DeepIntent detail URL redirected to listing; specific JD not extractable	fix:scan-history status=dead, not added to pipeline	outcome:skipped
 2026-06-05T200148Z	step2-pdf	warn	Playwright Chromium executable missing	fix:npx playwright install chromium + retry	outcome:resolved
 Processed 7 URLs (US:4 + Intl:3), generated 4 PDFs, archived 3 low-score, pushed 8c2d46d.
+2026-06-06T000225Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-06T000225Z	step1-scan-us	warn	3 company fetches HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skipped, continue	outcome:skipped
+2026-06-06T000225Z	step2-extract	warn	4 pending URLs re-extract failed (Newcode,Weekday,InterImage,Amdaris meta-only)	fix:WebFetch+aggregator fallbacks, left as -[!] for retry	outcome:skipped
