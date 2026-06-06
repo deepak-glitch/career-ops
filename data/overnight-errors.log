@@ -1261,3 +1261,6 @@ Sources:
 2026-06-06T160156Z	step2-pdf	warn	Playwright chromium browser missing after npm install	fix:npx playwright install chromium	outcome:resolved
 2026-06-06T160156Z	step3-merge	error	report-number collision: 1213/1214 already consumed by Plain/OpenAI (deleted low-score, in discarded.tsv + intl pipeline); NEXT_NUM was miscomputed from reports/ max only	fix:renumber my new artifacts 1213->1215,1214->1216,1215->1217 (files+headers+TSV+pipeline links)	outcome:resolved
 2026-06-06T160156Z	step3-merge	warn	stale SKIP [x] rows #1213 Plain + #1214 OpenAI in intl pipeline referenced deleted (<3.0) reports	fix:removed both rows from intl Procesadas (already audited in discarded.tsv)	outcome:resolved
+Processed 4 URLs (US:1 + Intl:3), generated 1 PDF, archived 3 low-score, pushed c80d113c75e7e2da9d2150a8b67dde82a3bf4a65.
+
+**Notes on this run:** Pipelines were heavily drained from earlier 2026-06-06 runs (the prior overnight already produced reports #1201-#1217). Level 3 WebSearch surfaced 5 truly-new URLs after dedup against scan-history; the only score ≥ 3.0 was Meticulous London FDE (3.3 — UK right-to-work + ~25% travel; PDF tailored). Defense Unicorns required US citizenship (1.7), Plain was "Senior" + UK hybrid (2.5), HappyRobot Vienna required German fluency (1.8 — also deduped vs existing #140). AiPrise YC posting returned 404 (marked `[!]`).
