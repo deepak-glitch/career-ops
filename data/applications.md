@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1205 | 2026-06-06 | Letterbook | Founding AI Engineer | 3.0/5 | Evaluated | ✅ | [1205](reports/1205-letterbook-2026-06-06.md) | [US] San Francisco — Onsite; YC startup; agent orchestration + memory architecture; $120-180K + 1-2.5% equity; F-1 OPT + relocation friction |
+| 1206 | 2026-06-06 | Weave | Founding AI Engineer | 3.2/5 | Evaluated | ✅ | [1206](reports/1206-weave-2026-06-06.md) | [US] San Francisco — Onsite; YC W25 + $4.2M seed + Robinhood/PostHog customers; React/TS/Go/Python; $150-200K + 0.10-0.20% equity; F-1 OPT + relocation friction |
+| 1208 | 2026-06-06 | Cognite | Applied AI Engineer (Fullstack), AI Co-Innovation | 3.0/5 | Evaluated | ✅ | [1208](reports/1208-cognite-2026-06-06.md) | [Intl] Oslo, Norway; industrial AI co-innovation; Emerson industrial ML adjacency; F-1 OPT + Norway relocation friction; JD details sparse on page snapshot |
 | 1204 | 2026-06-06 | Newcode.ai | Forward Deployed Agentic AI Software Engineer | 3.4/5 | Evaluated | ✅ | [1204](reports/1204-newcode-fde-agentic-ai-dla-piper-2026-06-06.md) | [Intl] Nordics (SE/NO/FI) embedded at DLA Piper; FDE+agentic strong fit; F-1 OPT relocation soft blocker caps score |
 | 1201 | 2026-06-06 | Machinify | Forward Deployed Engineer | 3.7/5 | Evaluated | ✅ | [1201](reports/1201-machinify-fde-2026-06-06.md) | [US] Remote — US; FDE archetype, customer-embedded, full-stack generalist; healthcare-payments AI |
 | 1202 | 2026-06-06 | Hibu | Applied AI Engineer | 3.2/5 | Evaluated | ✅ | [1202](reports/1202-hibu-applied-ai-engineer-2026-06-06.md) | [US] King of Prussia PA hybrid 2d/wk; LangChain/LangGraph/CrewAI + MCP + Bedrock + Salesforce; 5-8 yrs ask |

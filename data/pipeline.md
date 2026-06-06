@@ -10,6 +10,8 @@
 
 
 ### 2026-06-06
+- [x] #1205 | https://www.ycombinator.com/companies/letterbook/jobs/lmfkrj9-founding-ai-engineer | Letterbook | Founding AI Engineer | San Francisco, CA — Onsite | 3.0/5 | PDF ✅
+- [x] #1206 | https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer | Weave | Founding AI Engineer | San Francisco, CA — Onsite | 3.2/5 | PDF ✅
 - [x] #1201 | https://job-boards.greenhouse.io/machinifyinc/jobs/4183955009 | Machinify | Forward Deployed Engineer | Remote — US | 3.7/5 | PDF ✅
 - [x] #1202 | https://job-boards.greenhouse.io/hibu/jobs/4696330005 | Hibu | Applied AI Engineer | King of Prussia, PA — Hybrid 2d/wk | 3.2/5 | PDF ✅
 - [x] #1190 | https://www.workatastartup.com/jobs/88243 | Auctor | Forward Deployed Engineer | New York City — In-person | 3.2/5 | PDF ✅

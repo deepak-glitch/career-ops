@@ -16,6 +16,7 @@
 ## Processed
 
 ### 2026-06-06
+- [x] #1208 | https://job-boards.eu.greenhouse.io/cognite/jobs/4857558101 | Cognite | Applied AI Engineer (Fullstack), AI Co-Innovation | Oslo, Norway — Onsite/Hybrid | 3.0/5 | PDF ✅
 - [x] #1204 | https://apply.workable.com/newcode/j/2841413287 | Newcode.ai | Forward Deployed Agentic AI Software Engineer | Nordics (SE/NO/FI) — embedded at DLA Piper | 3.4/5 | PDF ✅
 - [x] #1203 | https://job-boards.greenhouse.io/materiom/jobs/5150829007 | Materiom | AI Engineer | London, England — Hybrid | 3.1/5 | PDF ✅
 - [x] #1195 | https://apply.workable.com/iceye/j/B75F49639E/ | ICEYE | Forward Deployed AI Engineer | Finland/SE/NL/PL/UAE/DE — Hybrid 30-50% on-site | 1.7/5 SKIP | PDF ❌
