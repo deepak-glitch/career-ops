@@ -1245,3 +1245,12 @@ Processed 5 URLs (US:3 + Intl:2), generated 3 PDFs, archived 1 low-score, pushed
 2026-06-06T120146Z	step1-scan-intl	warn	3 portal HTTP 404 (Tinybird/Travelperk/Forto)	fix:scanner skips dead endpoints, no action	outcome:skipped
 2026-06-06T120146Z	step1-l3	warn	0 net-new from L3 (all candidates terminal in scan-history: dead/skipped/added)	fix:none, search space saturated	outcome:resolved
 2026-06-06T120146Z	step2-pipeline	warn	0 pending in both US+Intl pipelines after scan	fix:nothing to evaluate, proceed	outcome:resolved
+Processed 6 URLs (US:4 + Intl:2), generated 4 PDFs, archived 2 low-score, pushed 2a4d54e.
+
+Sources:
+- [Falconer Founding AI Engineer](https://jobs.ashbyhq.com/falconer/75083e64-e5fb-4cb6-ba81-9a548b30e317)
+- [Weave Founding AI Engineer](https://jobs.ashbyhq.com/workweave/cfa38030-6d14-41fc-a776-6c133a2b9aeb)
+- [Cooper AI Founding AI Engineer](https://jobs.ashbyhq.com/cooper-ai/d80fa622-18b5-43d1-af67-029e0c5a38ec)
+- [Emergence AI Software Engineer Full Stack](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4120049)
+- [Plain Senior Product Engineer AI (London)](https://jobs.ashbyhq.com/plain/fd10161b-2139-4432-ab75-59be1a12da23)
+- [OpenAI Forward Deployed Software Engineer Dublin](https://jobs.ashbyhq.com/openai/63003bd5-05c8-408a-8d5a-8f5deb16113f)
