@@ -13,6 +13,9 @@
 
 
 ### 2026-06-06
+- [x] #1222 | https://vetsez.breezy.hr/p/d5d2dbdc7d0901-applied-ai-product-engineer-remote-opportunity | VetsEZ | Applied AI Product Engineer | United States — Remote | 3.5/5 | PDF ✅
+- [x] #1223 | https://jobs.ashbyhq.com/mercor/cae88190-a2fd-4d04-9352-9f48fedb56a7 | Mercor | Software Engineer, Applied AI | San Francisco, CA — On-site 5d/wk | 3.2/5 | PDF ✅
+- [x] #1224 | https://himalayas.app/companies/wrs-health/jobs/ai-engineer-5969981375 | WRS Health | AI Engineer | United States — Remote (US hours) | 3.7/5 | PDF ✅
 - [x] #1218 | https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007 | Defense Unicorns | Forward Deployed AI Engineer | United States — Remote | 1.7/5 SKIP | PDF ❌
 - [x] #1215 | https://jobs.ashbyhq.com/cinder/59b665b5-6e0a-46e0-aa78-3f48ba4c7c2b | Cinder | AI Engineer | New York — Remote eligible | 3.5/5 | PDF ✅
 - [x] #1216 | https://jobs.ashbyhq.com/fieldguide/6d0ceade-cbbe-4cd7-9af9-caf3cfed7ec3 | Fieldguide | AI Engineer | San Francisco, CA — Remote-first | 3.7/5 | PDF ✅

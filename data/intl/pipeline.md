@@ -16,9 +16,8 @@
 ## Processed
 
 ### 2026-06-06
+- [x] #1225 | https://jobs.ashbyhq.com/The-Flex/2ac730a8-ca25-45a4-9f33-3393fde7efe6 | The Flex | AI Engineer | Europe — Remote | 3.1/5 | PDF ✅
 - [x] #1219 | https://jobs.ashbyhq.com/meticulous/9b592dc5-6262-42ff-bbd7-f1b2ae8e7543 | Meticulous | Forward Deployed Engineer, London | London, UK — In-office + ~25% travel | 3.3/5 | PDF ✅
-- [x] #1220 | https://jobs.ashbyhq.com/happyrobot.ai/9d96194e-6a2c-4765-8e3b-1e6778eddc8e | Happyrobot | Forward Deployed Engineer (German Speaking) | Vienna, Austria — On-site | 1.8/5 SKIP | PDF ❌
-- [x] #1221 | https://jobs.ashbyhq.com/plain/fd10161b-2139-4432-ab75-59be1a12da23 | Plain | Senior Product Engineer (AI) | London, UK — Hybrid 3d/wk | 2.5/5 SKIP | PDF ❌
 - [x] #1217 | https://himalayas.app/companies/databricks/jobs/ai-engineer-fde-forward-deployed-engineer-9285177889 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United Kingdom — Remote (UK only) | 3.3/5 | PDF ✅
 - [x] #1208 | https://job-boards.eu.greenhouse.io/cognite/jobs/4857558101 | Cognite | Applied AI Engineer (Fullstack), AI Co-Innovation | Oslo, Norway — Onsite/Hybrid | 3.0/5 | PDF ✅
 - [x] #1204 | https://apply.workable.com/newcode/j/2841413287 | Newcode.ai | Forward Deployed Agentic AI Software Engineer | Nordics (SE/NO/FI) — embedded at DLA Piper | 3.4/5 | PDF ✅

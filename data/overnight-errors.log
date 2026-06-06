@@ -1264,3 +1264,9 @@ Sources:
 Processed 4 URLs (US:1 + Intl:3), generated 1 PDF, archived 3 low-score, pushed c80d113c75e7e2da9d2150a8b67dde82a3bf4a65.
 
 **Notes on this run:** Pipelines were heavily drained from earlier 2026-06-06 runs (the prior overnight already produced reports #1201-#1217). Level 3 WebSearch surfaced 5 truly-new URLs after dedup against scan-history; the only score ≥ 3.0 was Meticulous London FDE (3.3 — UK right-to-work + ~25% travel; PDF tailored). Defense Unicorns required US citizenship (1.7), Plain was "Senior" + UK hybrid (2.5), HappyRobot Vienna required German fluency (1.8 — also deduped vs existing #140). AiPrise YC posting returned 404 (marked `[!]`).
+2026-06-06T200216Z	step0-setup	warn	git pull --ff-only failed (origin/main force-updated, diverging)	fix:git fetch origin main && git reset --hard origin/main (no local commits at setup)	outcome:resolved
+2026-06-06T200216Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed in fresh container)	fix:npm install (added 59 packages)	outcome:resolved
+2026-06-06T200216Z	step1-scan	warn	scan.mjs portal HTTP 404 x3 (Tinybird, Travelperk, Forto) both tracks	fix:scanner skips failed portals and continues; no action needed (portal config drift)	outcome:skipped
+2026-06-06T200216Z	step1-scan	warn	stale [x] SKIP rows #1220 Happyrobot + #1221 Plain in intl pipeline referenced deleted (<3.0) reports	fix:removed both rows (already audited in discarded.tsv); NEXT_NUM set to 1222 to avoid reuse	outcome:resolved
+2026-06-06T200216Z	step2-pdf	warn	Playwright Chromium binary missing in fresh container	fix:npx playwright install chromium-headless-shell (112MB); smoke test passed	outcome:resolved
+2026-06-06T200216Z	step2-pipeline	warn	LangChain AI Engineer JD extraction failed (ashby graphql null + webfetch empty)	fix:tried graphql POST + webfetch; posting likely closed; marked [!] in US Pendientes + scan-history status=dead	outcome:skipped

@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1222 | 2026-06-06 | VetsEZ | Applied AI Product Engineer | 3.5/5 | Evaluated | ✅ | [1222](reports/1222-vetsez-2026-06-06.md) | [US] Remote US healthcare/VA; strong LLM/RAG fit; NO sponsorship + fingerprinting (federal contractor work-auth risk for F-1) |
+| 1223 | 2026-06-06 | Mercor | Software Engineer, Applied AI | 3.2/5 | Evaluated | ✅ | [1223](reports/1223-mercor-2026-06-06.md) | [US] SF on-site 5d/wk (reloc needed); Series C $10B; eval/data-pipeline fit adjacent to RAG/agentic core |
+| 1224 | 2026-06-06 | WRS Health | AI Engineer | 3.7/5 | Evaluated | ✅ | [1224](reports/1224-wrs-health-2026-06-06.md) | [US] Remote US healthcare/EHR; prompt eng + fine-tuning + NLP; strongest fit this batch |
+| 1225 | 2026-06-06 | The Flex | AI Engineer | 3.1/5 | Evaluated | ✅ | [1225](reports/1225-the-flex-2026-06-06.md) | [Intl] Europe remote; real estate/hospitality; ML+LLM+MLOps fit; F-1 OPT relocation/auth flag + vague JD |
 | 1219 | 2026-06-06 | Meticulous | Forward Deployed Engineer London | 3.3/5 | Evaluated | ✅ | [1219](reports/1219-meticulous-fde-london-2026-06-06.md) | [Intl] London HQ + ~25% travel; £150-300K + equity; first FDE cohort; UK right-to-work needed |
 | 1215 | 2026-06-06 | Cinder | AI Engineer | 3.5/5 | Evaluated | ✅ | [1215](reports/1215-cinder-2026-06-06.md) | [US] NY remote $200-250K; strong LLM-lifecycle/RAG/MLOps/AWS+Terraform fit; 5-7yr ask vs ~4yr soft gap; T&S domain new |
 | 1216 | 2026-06-06 | Fieldguide | AI Engineer | 3.7/5 | Evaluated | ✅ | [1216](reports/1216-fieldguide-2026-06-06.md) | [US] SF remote-first $150-220K; cleanest fit — agentic+RAG+evals, capability-over-years, TS/Python; audit domain new |
