@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1219 | 2026-06-06 | Meticulous | Forward Deployed Engineer London | 3.3/5 | Evaluated | ✅ | [1219](reports/1219-meticulous-fde-london-2026-06-06.md) | [Intl] London HQ + ~25% travel; £150-300K + equity; first FDE cohort; UK right-to-work needed |
 | 1215 | 2026-06-06 | Cinder | AI Engineer | 3.5/5 | Evaluated | ✅ | [1215](reports/1215-cinder-2026-06-06.md) | [US] NY remote $200-250K; strong LLM-lifecycle/RAG/MLOps/AWS+Terraform fit; 5-7yr ask vs ~4yr soft gap; T&S domain new |
 | 1216 | 2026-06-06 | Fieldguide | AI Engineer | 3.7/5 | Evaluated | ✅ | [1216](reports/1216-fieldguide-2026-06-06.md) | [US] SF remote-first $150-220K; cleanest fit — agentic+RAG+evals, capability-over-years, TS/Python; audit domain new |
 | 1209 | 2026-06-06 | Falconer | Founding AI Engineer | 3.6/5 | Evaluated | ✅ | [1209](reports/1209-falconer-2026-06-06.md) | [US] San Francisco — Caltrain office, hybrid OK; YC-style early stage; $200-300K + equity; KG + vector RAG + embeddings + fine-tuning; 2+ years ML data pipelines (Deepak ~2.5y); F-1 OPT relocation friction |

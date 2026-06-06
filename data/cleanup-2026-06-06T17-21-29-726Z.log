@@ -1,0 +1,23 @@
+# Pipeline cleanup audit log
+Run: 2026-06-06T17:21:29.726Z
+
+## US pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               1
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  1
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         yes
+
+### US — Kept unmatched (manual review)
+- - [!] https://apply.workable.com/talentpluto/j/6968CBEEEA | error: workable page returns empty content (login-gated or SPA)
+
+## Intl pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  0
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no

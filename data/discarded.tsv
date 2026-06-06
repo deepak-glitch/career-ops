@@ -549,3 +549,6 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-06	1209	2026-06-06	BRKZ	Senior AI Engineer	2.4/5	Evaluated	reports/1209-brkz-2026-06-06.md	[Intl] Cairo/Karachi/Lahore/Islamabad; Saudi construction-tech; 5-8y senior gate (Deepak 2.5y); F-1 OPT incompatible with Pakistan/Egypt employment; SKIP
 2026-06-06	1213	2026-06-06	Plain	Senior Product Engineer (AI)	2.7/5	Evaluated	reports/1213-plain-2026-06-06.md	[Intl] SKIP — London hybrid 3d/wk; Senior title slipped past filter; £90-140K + equity; B2B customer support SaaS (Cursor/Raycast/Granola customers); UK skilled-worker sponsorship friction; below 3.0 — will be deleted by cleanup-low-scores
 2026-06-06	1214		orphan	orphan	0/5		reports/1214-openai-dublin-fdse-2026-06-06.md	
+2026-06-06	1218	2026-06-06	Defense Unicorns	Forward Deployed AI Engineer	1.7/5	Evaluated	reports/1218-defenseunicorns-fde-2026-06-06.md	[US] US Citizenship + clearance required — F-1 OPT blocker; technical fit strong otherwise
+2026-06-06	1221	2026-06-06	Plain	Senior Product Engineer (AI)	2.5/5	Evaluated	reports/1221-plain-senior-product-engineer-ai-2026-06-06.md	[Intl] London hybrid 3d/wk + Senior label + UK right-to-work blockers; technical fit otherwise solid
+2026-06-06	1220		orphan	orphan	0/5		reports/1220-happyrobot-fde-german-speaking-2026-06-06.md	

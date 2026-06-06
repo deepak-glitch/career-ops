@@ -13,6 +13,7 @@
 
 
 ### 2026-06-06
+- [x] #1218 | https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007 | Defense Unicorns | Forward Deployed AI Engineer | United States — Remote | 1.7/5 SKIP | PDF ❌
 - [x] #1215 | https://jobs.ashbyhq.com/cinder/59b665b5-6e0a-46e0-aa78-3f48ba4c7c2b | Cinder | AI Engineer | New York — Remote eligible | 3.5/5 | PDF ✅
 - [x] #1216 | https://jobs.ashbyhq.com/fieldguide/6d0ceade-cbbe-4cd7-9af9-caf3cfed7ec3 | Fieldguide | AI Engineer | San Francisco, CA — Remote-first | 3.7/5 | PDF ✅
 - [x] #1209 | https://jobs.ashbyhq.com/falconer/75083e64-e5fb-4cb6-ba81-9a548b30e317 | Falconer | Founding AI Engineer | San Francisco, Bay Area — Hybrid (Caltrain office) | 3.6/5 | PDF ✅
