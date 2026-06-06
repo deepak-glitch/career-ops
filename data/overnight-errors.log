@@ -1270,3 +1270,6 @@ Processed 4 URLs (US:1 + Intl:3), generated 1 PDF, archived 3 low-score, pushed 
 2026-06-06T200216Z	step1-scan	warn	stale [x] SKIP rows #1220 Happyrobot + #1221 Plain in intl pipeline referenced deleted (<3.0) reports	fix:removed both rows (already audited in discarded.tsv); NEXT_NUM set to 1222 to avoid reuse	outcome:resolved
 2026-06-06T200216Z	step2-pdf	warn	Playwright Chromium binary missing in fresh container	fix:npx playwright install chromium-headless-shell (112MB); smoke test passed	outcome:resolved
 2026-06-06T200216Z	step2-pipeline	warn	LangChain AI Engineer JD extraction failed (ashby graphql null + webfetch empty)	fix:tried graphql POST + webfetch; posting likely closed; marked [!] in US Pendientes + scan-history status=dead	outcome:skipped
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed 31f5da3.
+
+Both scan tracks returned 0 net-new offers (search space saturated by 5 prior overnight runs today). All Level 3 WebSearch candidates dedup'd against existing scan-history. Pipelines were empty after scan → no pipeline work. Cleanup, merge, and verifier all clean (0/0). Run report committed at `data/overnight-runs/2026-06-06T210557Z.md` and pushed to `main`.
