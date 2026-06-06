@@ -1240,3 +1240,8 @@ Sources:
 2026-06-06T080133Z	step1-scan-intl	warn	portal API errors: Tinybird/Travelperk/Forto HTTP404	fix:transient per-company, skipped	outcome:skipped
 2026-06-06T080133Z	step2-pdf	warn	playwright chromium executable missing	fix:npx playwright install chromium	outcome:resolved
 Processed 5 URLs (US:3 + Intl:2), generated 3 PDFs, archived 1 low-score, pushed e67c51d.
+2026-06-06T120146Z	step1-scan-deps	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install once	outcome:resolved
+2026-06-06T120146Z	step1-scan-us	warn	3 portal HTTP 404 (Tinybird/Travelperk/Forto)	fix:scanner skips dead endpoints, no action	outcome:skipped
+2026-06-06T120146Z	step1-scan-intl	warn	3 portal HTTP 404 (Tinybird/Travelperk/Forto)	fix:scanner skips dead endpoints, no action	outcome:skipped
+2026-06-06T120146Z	step1-l3	warn	0 net-new from L3 (all candidates terminal in scan-history: dead/skipped/added)	fix:none, search space saturated	outcome:resolved
+2026-06-06T120146Z	step2-pipeline	warn	0 pending in both US+Intl pipelines after scan	fix:nothing to evaluate, proceed	outcome:resolved
