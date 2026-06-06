@@ -18,9 +18,11 @@
 
 - [!] https://apply.workable.com/interimage/j/BA5150B6F4/ | InterImage | AI Engineer | error: workable returned only meta; appears DoD-related, US citizenship likely required
 - [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | Amdaris | AI Forward Deployed Engineer | error: himalayas listing page returned only previews, full JD not accessible
+
 ## Processed
 
 ### 2026-06-06
+- [x] #1203 | https://job-boards.greenhouse.io/materiom/jobs/5150829007 | Materiom | AI Engineer | London, England — Hybrid | 3.1/5 | PDF ✅
 - [x] #1195 | https://apply.workable.com/iceye/j/B75F49639E/ | ICEYE | Forward Deployed AI Engineer | Finland/SE/NL/PL/UAE/DE — Hybrid 30-50% on-site | 1.7/5 SKIP | PDF ❌
 - [x] #1196 | https://apply.workable.com/unitary/j/BCA47B5E82 | Unitary | Forward Deployed Engineer | UK (London) / Marin CA — Remote-first | 2.2/5 SKIP | PDF ❌
 - [x] #1197 | https://jobs.ashbyhq.com/haast/8d123db2-7e16-4cb7-8423-9324fa80666e | Haast | Forward Deployed Engineer | United States — Remote (first US engineer) | 3.5/5 | PDF ✅

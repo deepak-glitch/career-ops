@@ -1,0 +1,30 @@
+# Pipeline cleanup audit log
+Run: 2026-06-06T06:59:58.852Z
+
+## US pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  4
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### US — Kept unmatched (manual review)
+- - [!] https://apply.workable.com/newcode/j/2841413287 | Newcode.ai | Forward Deployed Agentic AI SWE (DLA Piper) | error: workable page returned only meta; LinkedIn fallback returned 0 results
+- - [!] https://apply.workable.com/weekday-1/j/BA27FE655A | Weekday AI | Forward Deployed Engineer - AIS | error: workable page returned only meta; company appears India-focused
+- - [!] https://apply.workable.com/virtuhire/j/3EB34EA78B/ | VirtuHire | Forward Deployed Engineer | error: workable SPA empty; VirtuHire is a recruiting agency for South African remote talent, not the hiring entity
+- - [!] https://apply.workable.com/v2-ai/j/C62134F1C9 | V2 Digital | Forward Deployed Engineer - AI Principal | error: workable SPA empty; V2 AI is $30M AI-native consultancy, location unverified
+
+## Intl pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  2
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### Intl — Kept unmatched (manual review)
+- - [!] https://apply.workable.com/interimage/j/BA5150B6F4/ | InterImage | AI Engineer | error: workable returned only meta; appears DoD-related, US citizenship likely required
+- - [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | Amdaris | AI Forward Deployed Engineer | error: himalayas listing page returned only previews, full JD not accessible

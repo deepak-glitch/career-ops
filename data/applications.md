@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1201 | 2026-06-06 | Machinify | Forward Deployed Engineer | 3.7/5 | Evaluated | ✅ | [1201](reports/1201-machinify-fde-2026-06-06.md) | [US] Remote — US; FDE archetype, customer-embedded, full-stack generalist; healthcare-payments AI |
+| 1202 | 2026-06-06 | Hibu | Applied AI Engineer | 3.2/5 | Evaluated | ✅ | [1202](reports/1202-hibu-applied-ai-engineer-2026-06-06.md) | [US] King of Prussia PA hybrid 2d/wk; LangChain/LangGraph/CrewAI + MCP + Bedrock + Salesforce; 5-8 yrs ask |
+| 1203 | 2026-06-06 | Materiom | AI Engineer | 3.1/5 | Evaluated | ✅ | [1203](reports/1203-materiom-ai-engineer-2026-06-06.md) | [Intl] London hybrid; predictive ML + LLM/agentic on regenerative materials platform; £75K+; UK visa needed |
 | 1200 | 2026-06-06 | Carrot Fertility | Applied AI Engineer (Enterprise) | 3.6/5 | Evaluated | ✅ | [1200](reports/1200-carrot-fertility-applied-ai-enterprise-2026-06-06.md) | [US] Remote US; agentic AI + MCP servers over HIPAA data; Claude-Code-native (career-ops fit); $165-200K; 6-10 yrs asked (Deepak ~4 — stretch); strong healthcare/agentic/compliance match; F-1 sponsorship policy not stated |
 | 1191 | 2026-06-06 | Distro | Forward Deployed Engineer | 3.1/5 | Evaluated | ✅ | [1191](reports/1191-distro-fde-2026-06-06.md) | [US] YC S24 industrial-distribution AI revenue platform; React/Next.js/TS/Python/MongoDB stack; 3-5y bar; hybrid; comp opaque |
 | 1194 | 2026-06-06 | Lightning AI | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1194](reports/1194-lightning-ai-fde-2026-06-06.md) | [US] Hybrid 2d/wk London/NYC/SF/Seattle; $120-250K + equity; Python/Docker/K8s/vLLM/TensorRT/Ray/LangGraph/vector DBs stack; F-1 OPT works |

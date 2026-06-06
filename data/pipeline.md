@@ -22,6 +22,8 @@
 
 
 ### 2026-06-06
+- [x] #1201 | https://job-boards.greenhouse.io/machinifyinc/jobs/4183955009 | Machinify | Forward Deployed Engineer | Remote — US | 3.7/5 | PDF ✅
+- [x] #1202 | https://job-boards.greenhouse.io/hibu/jobs/4696330005 | Hibu | Applied AI Engineer | King of Prussia, PA — Hybrid 2d/wk | 3.2/5 | PDF ✅
 - [x] #1190 | https://www.workatastartup.com/jobs/88243 | Auctor | Forward Deployed Engineer | New York City — In-person | 3.2/5 | PDF ✅
 - [x] #1191 | https://www.workatastartup.com/jobs/80966 | Distro | Forward Deployed Engineer | Hybrid — US | 3.1/5 | PDF ✅
 - [x] #1192 | https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
