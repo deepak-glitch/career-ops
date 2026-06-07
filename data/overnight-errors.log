@@ -1310,3 +1310,9 @@ The 4th overnight run today found 0 net-new: portal scans hit the 48h freshness 
 2026-06-07T120157Z	step1-scan	warn	US+Intl scan: 3 company API 404s (Tinybird, Travelperk, Forto)	fix:scanner skipped them gracefully, ATS likely moved	outcome:skipped
 2026-06-07T120157Z	step2-pdf	warn	PDF gen failed: Playwright chromium-headless-shell not installed	fix:npx playwright install chromium + retry	outcome:resolved
 Processed 6 URLs (US:3 + Intl:3), generated 2 PDFs, archived 4 low-score, pushed 823334f.
+2026-06-07T160207Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-07T160207Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-07T160207Z	step1-scan-US	warn	scanner HTTP 404 (Tinybird,Travelperk,Forto stale ATS slugs)	fix:none (per-company, non-fatal; scanner skips)	outcome:skipped
+2026-06-07T160207Z	step1-scan-Intl	warn	scanner HTTP 404 (Tinybird,Travelperk,Forto stale ATS slugs)	fix:none (per-company, non-fatal; scanner skips)	outcome:skipped
+2026-06-07T160207Z	step1-L3	warn	0 net-new after L1/L2 + L3 WebSearch; all candidates already in scan-history (saturated)	fix:none needed	outcome:resolved
+2026-06-07T160207Z	step2-pipeline	warn	0 pending in both US+Intl pipelines, nothing to evaluate	fix:none needed (Playbook #9)	outcome:resolved
