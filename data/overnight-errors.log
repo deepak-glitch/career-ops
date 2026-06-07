@@ -1320,3 +1320,10 @@ Processed 1 URL (US:0 + Intl:1), generated 0 PDFs, archived 1 low-score, pushed 
 2026-06-07T200215Z	setup	warn	pull --ff-only failed (origin force-updated, diverging)	fix:git fetch + git reset --hard origin/main	outcome:resolved
 2026-06-07T200215Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install	outcome:resolved
 2026-06-07T200215Z	step2-pdf	warn	Playwright chromium executable missing	fix:npx playwright install chromium	outcome:resolved
+Processed 4 URLs (US:3 + Intl:1), generated 4 PDFs, archived 0 low-score, pushed 1bad480.
+
+Per-track summary:
+- **US**: #1245 Hyperspell (3.4) | #1246 Bretton AI (3.7) | #1247 Synthio Labs (4.0, visa sponsorship YES)
+- **Intl**: #1248 OpenAI Munich (3.0, 5+yr floor + relocation hurdle)
+
+Top pick is Synthio Labs — explicit visa sponsorship + life-sciences/pharma domain overlap with Deepak's healthcare AI background + new-grads-OK fits his level.
