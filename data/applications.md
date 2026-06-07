@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1244 | 2026-06-07 | Isidor | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [1244](reports/1244-isidor-fde-london-2026-06-07.md) | [Intl] FDE/data-infra for frontier labs; London on-site (F-1 OPT/visa caveat), SF relocation H1 2026; $3.6M pre-seed |
 | 1241 | 2026-06-07 | Concourse | Founding AI / ML Engineer | 3.7/5 | Evaluated | ✅ | [1241](reports/1241-concourse-founding-ai-ml-2026-06-07.md) | [US] NYC on-site; YC + a16z + CRV; $150-250K + 0.5-1.5% equity; AI analyst for corp finance teams; 3+ yrs match; relocation friction |
 | 1243 | 2026-06-07 | Ellipsis | Founding AI Engineer | 3.3/5 | Evaluated | ✅ | [1243](reports/1243-ellipsis-founding-ai-engineer-2026-06-07.md) | [US] YC W24 AI code-review / autonomous SWE tool; 4+ yrs match; career-ops + MangaLens = direct agentic-coding analog; location TBD; AST/compiler gap honest |
 | 1240 | 2026-06-07 | Pereview Software | AI Engineer | 3.5/5 | Evaluated | ✅ | [1240](reports/1240-pereview-software-2026-06-07.md) | [US] RAG/Azure OpenAI over CRE documents; Dallas on-site (relocation) |

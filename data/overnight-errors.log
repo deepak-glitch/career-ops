@@ -1317,3 +1317,6 @@ Processed 6 URLs (US:3 + Intl:3), generated 2 PDFs, archived 4 low-score, pushed
 2026-06-07T160207Z	step1-L3	warn	0 net-new after L1/L2 + L3 WebSearch; all candidates already in scan-history (saturated)	fix:none needed	outcome:resolved
 2026-06-07T160207Z	step2-pipeline	warn	0 pending in both US+Intl pipelines, nothing to evaluate	fix:none needed (Playbook #9)	outcome:resolved
 Processed 1 URL (US:0 + Intl:1), generated 0 PDFs, archived 1 low-score, pushed e0faddf. (US Level 3 surfaced 1 casing-variant duplicate of #1082; Intl surfaced 4 URLs — 3 dead Greenhouse 302→?error=true, 1 SIA-Montréal scored 1.8/5 and was discarded.)
+2026-06-07T200215Z	setup	warn	pull --ff-only failed (origin force-updated, diverging)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-07T200215Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install	outcome:resolved
+2026-06-07T200215Z	step2-pdf	warn	Playwright chromium executable missing	fix:npx playwright install chromium	outcome:resolved

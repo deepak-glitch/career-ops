@@ -13,9 +13,11 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
+
 ## Processed
 
 ### 2026-06-07
+- [x] #1244 | https://job-boards.greenhouse.io/isidor/jobs/4048584009 | Isidor | Forward Deployed Engineer | London, UK — On-site (SF relocation H1 2026, visa support) | 3.2/5 | PDF ✅
 - [x] #1239 | https://opply-1682428990.teamtailor.com/jobs/6710160-product-engineer-remote-in-europe | Opply | Product Engineer | Remote Europe (London optional) | 3.2/5 | PDF ✅
 - [x] #1231 | https://job-boards.greenhouse.io/anthropic/jobs/5248983008 | Anthropic | Applied AI Engineer | Sydney, Australia — Hybrid 25% office | 2.8/5 SKIP | PDF ❌
 - [x] #1232 | https://jobs.ashbyhq.com/openai/63003bd5-05c8-408a-8d5a-8f5deb16113f | OpenAI | Forward Deployed Software Engineer - Dublin | Dublin, Ireland — Hybrid | 3.2/5 | PDF ✅
