@@ -1282,3 +1282,4 @@ Both scan tracks returned 0 net-new offers (search space saturated by 5 prior ov
 2026-06-07T000201Z	scan-L3	warn	L3 WebSearch found 0 net-new evaluable roles (Aimpoint#1011/OneStream#820/Automattic#247 already done; GeoDelphi US-citizen+5y senior; rest senior/non-fit)	fix:dedup-checked vs scan-history+applications; filtered per title+work-auth policy	outcome:resolved
 2026-06-07T000201Z	pipeline	warn	0 pending evaluable after scan (portal 0 net-new x2, L3 0 net-new)	fix:none needed (Playbook #9)	outcome:resolved
 2026-06-07T000201Z	pipeline	warn	talentpluto/6968CBEEEA [!] row was actually a duplicate of already-evaluated #974 (3.2/5), not a new role	fix:annotated row as duplicate-of-#974; cleanup-bang-rows removed it + marked scan-history	outcome:resolved
+Processed 10 URLs (US:5 + Intl:5), generated 6 PDFs, archived 4 low-score, pushed a9afc14.
