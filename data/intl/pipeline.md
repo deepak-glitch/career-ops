@@ -15,6 +15,13 @@
 ## Pending
 ## Processed
 
+### 2026-06-07
+- [x] #1231 | https://job-boards.greenhouse.io/anthropic/jobs/5248983008 | Anthropic | Applied AI Engineer | Sydney, Australia — Hybrid 25% office | 2.8/5 SKIP | PDF ❌
+- [x] #1232 | https://jobs.ashbyhq.com/openai/63003bd5-05c8-408a-8d5a-8f5deb16113f | OpenAI | Forward Deployed Software Engineer - Dublin | Dublin, Ireland — Hybrid | 3.2/5 | PDF ✅
+- [x] #1233 | https://jobs.ashbyhq.com/happyrobot.ai/9d96194e-6a2c-4765-8e3b-1e6778eddc8e | Happyrobot | Forward Deployed Engineer - German Speaking | Vienna, Austria | 2.5/5 SKIP | PDF ❌
+- [x] #1234 | https://mintos.teamtailor.com/jobs/7738030-ai-automation-transformation-engineer | Mintos | AI & Automation Transformation Engineer | Riga, Latvia — Hybrid | 2.9/5 SKIP | PDF ❌
+- [x] #1235 | https://www.workatastartup.com/jobs/68959 | Solve Intelligence | AI Engineer | London, UK — On-site/Hybrid | 3.1/5 | PDF ✅
+
 ### 2026-06-06
 - [x] #1225 | https://jobs.ashbyhq.com/The-Flex/2ac730a8-ca25-45a4-9f33-3393fde7efe6 | The Flex | AI Engineer | Europe — Remote | 3.1/5 | PDF ✅
 - [x] #1219 | https://jobs.ashbyhq.com/meticulous/9b592dc5-6262-42ff-bbd7-f1b2ae8e7543 | Meticulous | Forward Deployed Engineer, London | London, UK — In-office + ~25% travel | 3.3/5 | PDF ✅

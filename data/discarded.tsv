@@ -552,3 +552,7 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-06	1218	2026-06-06	Defense Unicorns	Forward Deployed AI Engineer	1.7/5	Evaluated	reports/1218-defenseunicorns-fde-2026-06-06.md	[US] US Citizenship + clearance required — F-1 OPT blocker; technical fit strong otherwise
 2026-06-06	1221	2026-06-06	Plain	Senior Product Engineer (AI)	2.5/5	Evaluated	reports/1221-plain-senior-product-engineer-ai-2026-06-06.md	[Intl] London hybrid 3d/wk + Senior label + UK right-to-work blockers; technical fit otherwise solid
 2026-06-06	1220		orphan	orphan	0/5		reports/1220-happyrobot-fde-german-speaking-2026-06-06.md	
+2026-06-07	1230	2026-06-07	InterImage	AI Engineer	2.4/5	Discarded	reports/1230-interimage-ai-engineer-2026-06-07.md	[US] US Arlington/McLean VA federal intel contractor — likely clearance required; F-1 OPT hard blocker; SKIP
+2026-06-07	1234	2026-06-07	Mintos	AI & Automation Transformation Engineer	2.9/5	Discarded	reports/1234-mintos-ai-automation-riga-2026-06-07.md	[Intl] Intl Riga Latvia fintech automation; comp 43-50K EUR base too low vs US opts; SKIP
+2026-06-07	1231		orphan	orphan	0/5		reports/1231-anthropic-sydney-2026-06-07.md	
+2026-06-07	1233		orphan	orphan	0/5		reports/1233-happyrobot-fde-vienna-2026-06-07.md	

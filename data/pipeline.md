@@ -8,6 +8,13 @@
 ## Pending
 ## Processed
 
+### 2026-06-07
+- [x] #1226 | https://www.ycombinator.com/companies/anglera/jobs/zm2yMzn-forward-deployed-engineer | Anglera | Forward Deployed Engineer | San Francisco, CA — On-site | 3.6/5 | PDF ✅
+- [x] #1227 | https://jobs.ashbyhq.com/cognition/811c3f5a-b26d-4162-b49b-93890a91794d | Cognition | AI Enablement Engineer | San Francisco — On-site | 3.4/5 | PDF ✅
+- [x] #1228 | https://jobs.ashbyhq.com/openai/a6363571-e090-43a7-b758-ee3386a096c1 | OpenAI | Software Engineer, Enterprise AI Platform | San Francisco — On-site | 3.3/5 | PDF ✅
+- [x] #1229 | https://www.workatastartup.com/jobs/50344 | Layerup | Forward Deployed Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
+- [x] #1230 | https://apply.workable.com/interimage/j/BA5150B6F4/ | InterImage | AI Engineer | Arlington/McLean, VA — Federal | 2.4/5 SKIP | PDF ❌
+
 
 ### 2026-06-06
 - [x] #1222 | https://vetsez.breezy.hr/p/d5d2dbdc7d0901-applied-ai-product-engineer-remote-opportunity | VetsEZ | Applied AI Product Engineer | United States — Remote | 3.5/5 | PDF ✅

@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1226 | 2026-06-07 | Anglera | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1226](reports/1226-anglera-fde-sf-2026-06-07.md) | [US] US YC S24 FDE — $125-160K + 0.25-0.75% equity; SF on-site; sponsorship open; archetype match; relocation needed |
+| 1227 | 2026-06-07 | Cognition | AI Enablement Engineer | 3.4/5 | Evaluated | ✅ | [1227](reports/1227-cognition-ai-enablement-2026-06-07.md) | [US] US Cognition (Devin maker) SF on-site; coding-agent enablement; top-tier brand+comp; high bar but FDE-style |
+| 1229 | 2026-06-07 | Layerup | Forward Deployed Engineer | 3.7/5 | Evaluated | ✅ | [1229](reports/1229-layerup-fde-sf-2026-06-07.md) | [US] US YC FDE agentic AI for fintech/insurance; $100-200K + 0.25-2.5% equity; new grads OK; strong arche+domain fit |
+| 1235 | 2026-06-07 | Solve Intelligence | AI Engineer | 3.1/5 | Evaluated | ✅ | [1235](reports/1235-solve-intelligence-london-2026-06-07.md) | [Intl] Intl London LegalTech YC + MS backed; $100-250K; 3+ yrs match; UK work auth sponsorship needed |
 | 1222 | 2026-06-06 | VetsEZ | Applied AI Product Engineer | 3.5/5 | Evaluated | ✅ | [1222](reports/1222-vetsez-2026-06-06.md) | [US] Remote US healthcare/VA; strong LLM/RAG fit; NO sponsorship + fingerprinting (federal contractor work-auth risk for F-1) |
 | 1223 | 2026-06-06 | Mercor | Software Engineer, Applied AI | 3.2/5 | Evaluated | ✅ | [1223](reports/1223-mercor-2026-06-06.md) | [US] SF on-site 5d/wk (reloc needed); Series C $10B; eval/data-pipeline fit adjacent to RAG/agentic core |
 | 1224 | 2026-06-06 | WRS Health | AI Engineer | 3.7/5 | Evaluated | ✅ | [1224](reports/1224-wrs-health-2026-06-06.md) | [US] Remote US healthcare/EHR; prompt eng + fine-tuning + NLP; strongest fit this batch |
