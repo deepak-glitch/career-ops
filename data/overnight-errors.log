@@ -1286,3 +1286,4 @@ Processed 10 URLs (US:5 + Intl:5), generated 6 PDFs, archived 4 low-score, pushe
 2026-06-07T040146Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch+reset --hard origin/main	outcome:resolved
 2026-06-07T040146Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
 2026-06-07T040146Z	step1-L3	warn	Telnyx FDE (US-remote, builtin) listing expired (removed 2025-11-13)	fix:recorded status=expired in scan-history, not added to pipeline	outcome:resolved
+Processed 4 URLs (US:3 + Intl:1), generated 3 PDFs, archived 1 low-score, pushed 05ff5cc
