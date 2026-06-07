@@ -10,6 +10,9 @@
 ## Processed
 
 ### 2026-06-07
+- [x] #1247 | https://www.workatastartup.com/jobs/95130 | Synthio Labs | Forward Deployed Engineer - Tech | San Francisco, CA / Palo Alto, CA - On-site (visa sponsorship YES) | 4.0/5 | PDF ✅
+- [x] #1246 | https://www.workatastartup.com/jobs/92361 | Bretton AI | Forward Deployed Engineer | San Francisco, CA - On-site | 3.7/5 | PDF ✅
+- [x] #1245 | https://www.workatastartup.com/jobs/92647 | Hyperspell | Founding Forward Deployed Engineer | San Francisco, CA - On-site | 3.4/5 | PDF ✅
 - [x] #1241 | https://www.workatastartup.com/jobs/83441 | Concourse | Founding AI/ML Engineer | New York, NY — On-site | 3.7/5 | PDF ✅
 - [x] #1243 | https://www.workatastartup.com/jobs/73519 | Ellipsis | Founding AI Engineer | TBD (likely SF/NYC) | 3.3/5 | PDF ✅
 - [x] #1240 | https://apply.workable.com/pereview-software/j/2E60A27CFD | Pereview Software | AI Engineer | Dallas, TX — On-site (must reside in Dallas) | 3.5/5 | PDF ✅

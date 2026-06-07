@@ -17,6 +17,7 @@
 ## Processed
 
 ### 2026-06-07
+- [x] #1248 | https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef | OpenAI | Forward Deployed Engineer - Munich | Munich, Germany - Hybrid 3d/wk + 50% travel | 3.0/5 | PDF ✅
 - [x] #1244 | https://job-boards.greenhouse.io/isidor/jobs/4048584009 | Isidor | Forward Deployed Engineer | London, UK — On-site (SF relocation H1 2026, visa support) | 3.2/5 | PDF ✅
 - [x] #1239 | https://opply-1682428990.teamtailor.com/jobs/6710160-product-engineer-remote-in-europe | Opply | Product Engineer | Remote Europe (London optional) | 3.2/5 | PDF ✅
 - [x] #1231 | https://job-boards.greenhouse.io/anthropic/jobs/5248983008 | Anthropic | Applied AI Engineer | Sydney, Australia — Hybrid 25% office | 2.8/5 SKIP | PDF ❌
