@@ -1273,3 +1273,12 @@ Processed 4 URLs (US:1 + Intl:3), generated 1 PDF, archived 3 low-score, pushed 
 Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed 31f5da3.
 
 Both scan tracks returned 0 net-new offers (search space saturated by 5 prior overnight runs today). All Level 3 WebSearch candidates dedup'd against existing scan-history. Pipelines were empty after scan → no pipeline work. Cleanup, merge, and verifier all clean (0/0). Run report committed at `data/overnight-runs/2026-06-06T210557Z.md` and pushed to `main`.
+2026-06-07T000201Z	setup	warn	git pull --ff-only failed (origin force-updated, diverging)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-07T000201Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install	outcome:resolved
+2026-06-07T000201Z	scan	warn	Tinybird HTTP 404 (ATS endpoint changed/removed)	fix:none (non-fatal, scan continues)	outcome:skipped
+2026-06-07T000201Z	scan	warn	Travelperk HTTP 404 (ATS endpoint changed/removed)	fix:none (non-fatal, scan continues)	outcome:skipped
+2026-06-07T000201Z	scan	warn	Forto HTTP 404 (ATS endpoint changed/removed)	fix:none (non-fatal, scan continues)	outcome:skipped
+2026-06-07T000201Z	pipeline	warn	talentpluto/6968CBEEEA workable SPA empty; aggregator gives only 1-line summary (anon recruiter client, FDE NY/SF/US-remote)	fix:tried WebFetch+WebSearch corroboration; insufficient for faithful A-H without inventing details	outcome:skipped (kept as [!] for retry)
+2026-06-07T000201Z	scan-L3	warn	L3 WebSearch found 0 net-new evaluable roles (Aimpoint#1011/OneStream#820/Automattic#247 already done; GeoDelphi US-citizen+5y senior; rest senior/non-fit)	fix:dedup-checked vs scan-history+applications; filtered per title+work-auth policy	outcome:resolved
+2026-06-07T000201Z	pipeline	warn	0 pending evaluable after scan (portal 0 net-new x2, L3 0 net-new)	fix:none needed (Playbook #9)	outcome:resolved
+2026-06-07T000201Z	pipeline	warn	talentpluto/6968CBEEEA [!] row was actually a duplicate of already-evaluated #974 (3.2/5), not a new role	fix:annotated row as duplicate-of-#974; cleanup-bang-rows removed it + marked scan-history	outcome:resolved

@@ -6,9 +6,6 @@
      creates it at the end of Pending. -->
 
 ## Pending
-
-### 2026-06-06
-- [!] https://apply.workable.com/talentpluto/j/6968CBEEEA | error: workable page returns empty content (login-gated or SPA)
 ## Processed
 
 
