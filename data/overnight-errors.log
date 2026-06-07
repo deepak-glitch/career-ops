@@ -1283,3 +1283,6 @@ Both scan tracks returned 0 net-new offers (search space saturated by 5 prior ov
 2026-06-07T000201Z	pipeline	warn	0 pending evaluable after scan (portal 0 net-new x2, L3 0 net-new)	fix:none needed (Playbook #9)	outcome:resolved
 2026-06-07T000201Z	pipeline	warn	talentpluto/6968CBEEEA [!] row was actually a duplicate of already-evaluated #974 (3.2/5), not a new role	fix:annotated row as duplicate-of-#974; cleanup-bang-rows removed it + marked scan-history	outcome:resolved
 Processed 10 URLs (US:5 + Intl:5), generated 6 PDFs, archived 4 low-score, pushed a9afc14.
+2026-06-07T040146Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch+reset --hard origin/main	outcome:resolved
+2026-06-07T040146Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-07T040146Z	step1-L3	warn	Telnyx FDE (US-remote, builtin) listing expired (removed 2025-11-13)	fix:recorded status=expired in scan-history, not added to pipeline	outcome:resolved
