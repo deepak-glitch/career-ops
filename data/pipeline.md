@@ -6,9 +6,11 @@
      creates it at the end of Pending. -->
 
 ## Pending
+
 ## Processed
 
 ### 2026-06-07
+- [x] #1240 | https://apply.workable.com/pereview-software/j/2E60A27CFD | Pereview Software | AI Engineer | Dallas, TX — On-site (must reside in Dallas) | 3.5/5 | PDF ✅
 - [x] #1236 | https://jobs.ashbyhq.com/pareto-ai/9b5842fb-f936-47d0-9985-2941264123d8 | Pareto.AI | Forward Deployed Software Engineer | US Remote | 3.4/5 | PDF ✅
 - [x] #1238 | https://apply.workable.com/calabrio/j/E194CEFB5B | Calabrio-Verint | Software Engineer, AI | TBD (likely US-Remote) | 3.0/5 | PDF ✅
 - [x] #1226 | https://www.ycombinator.com/companies/anglera/jobs/zm2yMzn-forward-deployed-engineer | Anglera | Forward Deployed Engineer | San Francisco, CA — On-site | 3.6/5 | PDF ✅
