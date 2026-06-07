@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1241 | 2026-06-07 | Concourse | Founding AI / ML Engineer | 3.7/5 | Evaluated | ✅ | [1241](reports/1241-concourse-founding-ai-ml-2026-06-07.md) | [US] NYC on-site; YC + a16z + CRV; $150-250K + 0.5-1.5% equity; AI analyst for corp finance teams; 3+ yrs match; relocation friction |
+| 1243 | 2026-06-07 | Ellipsis | Founding AI Engineer | 3.3/5 | Evaluated | ✅ | [1243](reports/1243-ellipsis-founding-ai-engineer-2026-06-07.md) | [US] YC W24 AI code-review / autonomous SWE tool; 4+ yrs match; career-ops + MangaLens = direct agentic-coding analog; location TBD; AST/compiler gap honest |
 | 1240 | 2026-06-07 | Pereview Software | AI Engineer | 3.5/5 | Evaluated | ✅ | [1240](reports/1240-pereview-software-2026-06-07.md) | [US] RAG/Azure OpenAI over CRE documents; Dallas on-site (relocation) |
 | 1238 | 2026-06-07 | Calabrio-Verint | Software Engineer, AI | 3.0/5 | Evaluated | ✅ | [1238](reports/1238-calabrio-software-engineer-ai-2026-06-07.md) | [US] CCaaS post-merger giant; agentic+LLM stack 1:1; Workable JD body opaque — verify location/comp before deep tailoring |
 | 1239 | 2026-06-07 | Opply | Product Engineer | 3.2/5 | Evaluated | ✅ | [1239](reports/1239-opply-product-engineer-2026-06-07.md) | [Intl] Series A CPG-ops Remote Europe (£30-90K); Claude Code/Cursor native + Python/Django/Vue.js/AWS; F-1 OPT EU-auth blocker; career-ops dream demo |

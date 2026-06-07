@@ -557,3 +557,7 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-07	1231		orphan	orphan	0/5		reports/1231-anthropic-sydney-2026-06-07.md	
 2026-06-07	1233		orphan	orphan	0/5		reports/1233-happyrobot-fde-vienna-2026-06-07.md	
 2026-06-07	1237	2026-06-07	Sezzle	AI Engineer I	2.4/5	Evaluated	reports/1237-sezzle-ai-engineer-i-2026-06-07.md	[US] Brazil residency-only at $2.5-3.3K USD/mo (~$30-40K/yr); NASDAQ fintech BNPL; structural geo+comp blocker for F-1 OPT US-based
+2026-06-07	1242	2026-06-07	Photonium	Founding ML Engineer	2.7/5	Evaluated	reports/1242-photonium-founding-ml-2026-06-07.md	[US] NYC on-site YC X25 optical-design AI; hard domain gap (no optics/physics in CV); founding 3-person team; comp opaque; SKIP
+2026-06-07	1245	2026-06-07	ioet	AI Engineer	2.6/5	Evaluated	reports/1245-ioet-ai-engineer-latam-2026-06-07.md	[Intl] LATAM-residency required; F-1 OPT US-based mismatch; talent pool not specific role; technical fit OK but geo gate is binding; SKIP
+2026-06-07	1246	2026-06-07	accilium	Forward Deployed Engineer (f/m/x)	2.7/5	Evaluated	reports/1246-accilium-fde-vienna-2026-06-07.md	[Intl] Vienna on-site DACH travel; €55-75K; agentic-AI consulting fit but EU work auth + low comp + German gap; F-1 OPT mismatch; SKIP
+2026-06-07	1244		orphan	orphan	0/5		reports/1244-crustdata-founding-ml-india-2026-06-07.md	
