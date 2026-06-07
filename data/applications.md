@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1238 | 2026-06-07 | Calabrio-Verint | Software Engineer, AI | 3.0/5 | Evaluated | ✅ | [1238](reports/1238-calabrio-software-engineer-ai-2026-06-07.md) | [US] CCaaS post-merger giant; agentic+LLM stack 1:1; Workable JD body opaque — verify location/comp before deep tailoring |
+| 1239 | 2026-06-07 | Opply | Product Engineer | 3.2/5 | Evaluated | ✅ | [1239](reports/1239-opply-product-engineer-2026-06-07.md) | [Intl] Series A CPG-ops Remote Europe (£30-90K); Claude Code/Cursor native + Python/Django/Vue.js/AWS; F-1 OPT EU-auth blocker; career-ops dream demo |
 | 1226 | 2026-06-07 | Anglera | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1226](reports/1226-anglera-fde-sf-2026-06-07.md) | [US] US YC S24 FDE — $125-160K + 0.25-0.75% equity; SF on-site; sponsorship open; archetype match; relocation needed |
 | 1227 | 2026-06-07 | Cognition | AI Enablement Engineer | 3.4/5 | Evaluated | ✅ | [1227](reports/1227-cognition-ai-enablement-2026-06-07.md) | [US] US Cognition (Devin maker) SF on-site; coding-agent enablement; top-tier brand+comp; high bar but FDE-style |
 | 1229 | 2026-06-07 | Layerup | Forward Deployed Engineer | 3.7/5 | Evaluated | ✅ | [1229](reports/1229-layerup-fde-sf-2026-06-07.md) | [US] US YC FDE agentic AI for fintech/insurance; $100-200K + 0.25-2.5% equity; new grads OK; strong arche+domain fit |

@@ -556,3 +556,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-07	1234	2026-06-07	Mintos	AI & Automation Transformation Engineer	2.9/5	Discarded	reports/1234-mintos-ai-automation-riga-2026-06-07.md	[Intl] Intl Riga Latvia fintech automation; comp 43-50K EUR base too low vs US opts; SKIP
 2026-06-07	1231		orphan	orphan	0/5		reports/1231-anthropic-sydney-2026-06-07.md	
 2026-06-07	1233		orphan	orphan	0/5		reports/1233-happyrobot-fde-vienna-2026-06-07.md	
+2026-06-07	1237	2026-06-07	Sezzle	AI Engineer I	2.4/5	Evaluated	reports/1237-sezzle-ai-engineer-i-2026-06-07.md	[US] Brazil residency-only at $2.5-3.3K USD/mo (~$30-40K/yr); NASDAQ fintech BNPL; structural geo+comp blocker for F-1 OPT US-based

@@ -9,6 +9,8 @@
 ## Processed
 
 ### 2026-06-07
+- [x] #1236 | https://jobs.ashbyhq.com/pareto-ai/9b5842fb-f936-47d0-9985-2941264123d8 | Pareto.AI | Forward Deployed Software Engineer | US Remote | 3.4/5 | PDF ✅
+- [x] #1238 | https://apply.workable.com/calabrio/j/E194CEFB5B | Calabrio-Verint | Software Engineer, AI | TBD (likely US-Remote) | 3.0/5 | PDF ✅
 - [x] #1226 | https://www.ycombinator.com/companies/anglera/jobs/zm2yMzn-forward-deployed-engineer | Anglera | Forward Deployed Engineer | San Francisco, CA — On-site | 3.6/5 | PDF ✅
 - [x] #1227 | https://jobs.ashbyhq.com/cognition/811c3f5a-b26d-4162-b49b-93890a91794d | Cognition | AI Enablement Engineer | San Francisco — On-site | 3.4/5 | PDF ✅
 - [x] #1228 | https://jobs.ashbyhq.com/openai/a6363571-e090-43a7-b758-ee3386a096c1 | OpenAI | Software Engineer, Enterprise AI Platform | San Francisco — On-site | 3.3/5 | PDF ✅
