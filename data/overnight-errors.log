@@ -1309,3 +1309,4 @@ The 4th overnight run today found 0 net-new: portal scans hit the 48h freshness 
 2026-06-07T120157Z	step1-scan	warn	scan.mjs failed: Cannot find package js-yaml	fix:npm install (added 59 packages)	outcome:resolved
 2026-06-07T120157Z	step1-scan	warn	US+Intl scan: 3 company API 404s (Tinybird, Travelperk, Forto)	fix:scanner skipped them gracefully, ATS likely moved	outcome:skipped
 2026-06-07T120157Z	step2-pdf	warn	PDF gen failed: Playwright chromium-headless-shell not installed	fix:npx playwright install chromium + retry	outcome:resolved
+Processed 6 URLs (US:3 + Intl:3), generated 2 PDFs, archived 4 low-score, pushed 823334f.
