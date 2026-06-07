@@ -1302,3 +1302,6 @@ Processed 4 URLs (US:3 + Intl:1), generated 3 PDFs, archived 1 low-score, pushed
 2026-06-07T103000Z	step2-extract	info	all 3 Lever URLs (Curri 0981b8be / Smart-Working 7769e501 / Jobgether 48a61bf4) returned HTTP 404 via Lever API	fix:logged as dead; no draft attempted	outcome:dead-link
 2026-06-07T103000Z	step2-extract	info	~22 L3 surfaced URLs were prior scan-history dups, 3 were applications.md company+role dups, ~5 were Senior/Staff/Lead title-filtered	fix:dedup-checked + filtered per policy; 0 candidates left to evaluate	outcome:resolved
 2026-06-07T103000Z	pipeline	info	0 net-new across portal scan + L3 (4th run of day; well is dry, 3 reports landed earlier: #1236/#1238/#1239)	fix:none needed (Playbook #9)	outcome:resolved
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed 604eaf4.
+
+The 4th overnight run today found 0 net-new: portal scans hit the 48h freshness wall (everything ≤2026-06-05 already absorbed), Level-3 WebSearch surfaced ~30 URLs but all were prior dups, company+role dups in applications.md, Senior/Staff/Lead title-filtered, or dead (Ashby `NOT FOUND` × 3, Lever 404 × 3). Run report at `data/overnight-runs/2026-06-07T103000Z.md`; pipeline verify clean (0/0, 523 entries, max #1239).
