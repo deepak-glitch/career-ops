@@ -6,9 +6,13 @@
      creates it at the end of Pending. -->
 
 ## Pending
+
 ## Processed
 
 ### 2026-06-08
+- [x] #1256 | https://jobs.lever.co/pigment/1a9ccf1f-c28d-4ed4-ab40-d093eb8fee63 | Pigment | AI Deployment Strategist | San Francisco — Hybrid | 3.9/5 | PDF ✅
+- [x] #1254 | https://job-boards.greenhouse.io/celonis/jobs/7765669003?gh_jid=7765669003 | Celonis | Associate Applied AI Engineer (DACH) Orbit | Madrid, Spain — Hybrid | 1.7/5 SKIP | PDF ❌
+- [x] #1255 | https://job-boards.greenhouse.io/celonis/jobs/7762505003?gh_jid=7762505003 | Celonis | Associate Applied AI Engineer (Scale EMEA) Orbit | Madrid, Spain — Hybrid | 1.7/5 SKIP | PDF ❌
 - [x] #1251 | https://www.workatastartup.com/jobs/92860 | Coval | Forward Deployed Engineer | San Francisco, CA — On-site (YC F24 startup; founder ex-Waymo) | 3.4/5 | PDF ✅
 - [x] #1256 | https://apply.workable.com/flexion-robotics/j/15E54A027D/ | Flexion Robotics | Forward Deployed Engineer (Robotics) | Not specified (likely US) — ~20% travel | 2.3/5 SKIP | PDF ❌
 - [x] #1249 | https://www.workatastartup.com/jobs/85014 | Trellis AI | Forward Deployed Engineer (full-time) | San Francisco, CA — In-person | 3.6/5 | PDF ✅
