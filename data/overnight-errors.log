@@ -1332,3 +1332,4 @@ Top pick is Synthio Labs — explicit visa sponsorship + life-sciences/pharma do
 2026-06-08T000229Z	step1-scan	warn	scan API HTTP 404 for Tinybird, Travelperk, Forto (both tracks)	fix:scanner skips failed companies, continues	outcome:skipped
 2026-06-08T000229Z	step1-L3	warn	IntelePeer AI Agent Engineer URL unverifiable (aggregator 403, absent from careers page)	fix:JD fallbacks exhausted; not added (likely stale)	outcome:skipped
 2026-06-08T000229Z	step1-L3	warn	Parachute Health Senior Eng (Applied AI) job id redirects to board, absent from 10 current openings	fix:treated as closed/stale; not added	outcome:skipped
+Processed 7 URLs (US:5 + Intl:2), generated 2 PDFs, archived 5 low-score, pushed 40f9941.
