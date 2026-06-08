@@ -1376,3 +1376,4 @@ Processed 4 URLs (US:3 + Intl:1), generated 2 PDFs, archived 2 low-score, pushed
 2026-06-08T160152Z	step2-pipeline	warn	0 pending in both pipelines after scan+L3 (portals saturated)	fix:nothing to evaluate, proceed	outcome:resolved
 2026-06-08T160152Z	step3-verify	error	applications.md #1065 links to non-existent report 1256-pigment-sf (phantom from 15:49Z run; report never created in any commit, num beyond max 1253)	fix:removed unbacked phantom row (no URL to re-eval, no-fabrication rule forbids inventing report)	outcome:resolved
 2026-06-08T160152Z	step3-merge	warn	dedup-tracker found 2 duplicate rows (#39 Deepgram, #566 ElevenLabs)	fix:node dedup-tracker.mjs removed dupes, kept higher-scored	outcome:resolved
+Processed 2 URLs (US:1 + Intl:1), generated 1 PDF, archived 1 low-score, pushed 58a1bd6.
