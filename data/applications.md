@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1260 | 2026-06-08 | Infer | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [1260](reports/1260-infer-fde-2026-06-08.md) | [US] YC S21 insurance-agency OS; SF on-site; $130-180K + equity; founding FDE; agentic + RAG fit; F-1 OPT relocation needed |
+| 1261 | 2026-06-08 | PRESHai | AI Solutions Architect | 3.2/5 | Evaluated | ✅ | [1261](reports/1261-preshai-ai-solutions-architect-2026-06-08.md) | [US] Tampa FL on-site; $125-160K; 5+y ask vs 4y; strong agentic/RAG/TS/Python fit; MS365 gap; F-1 OPT relocation needed |
 | 1254 | 2026-06-08 | Pigment | AI Deployment Strategist (NY) | 3.9/5 | Evaluated | ✅ | [1254](reports/1254-pigment-ai-deployment-strategist-ny-2026-06-08.md) | [US] New York, NY — Hybrid; Pigment PS team; FDE-on-SaaS pattern; 2-5y band matches; US location removes London variant friction (3.4 → 3.9) |
 | 1251 | 2026-06-08 | Coval | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [1251](reports/1251-coval-forward-deployed-engineer-2026-06-08.md) | [US] San Francisco — On-site (YC F24, $3.3M seed, founder ex-Waymo); voice/chat AI simulation+eval platform; archetype-perfect for agentic + eval discipline; small-team OPT sponsorship friction |
 | 1252 | 2026-06-08 | supermodular.ai | Forward Deployed Security Engineer (AI Systems) | 3.0/5 | Evaluated | ✅ | [1252](reports/1252-supermodular-forward-deployed-security-engineer-2026-06-08.md) | [Intl] Munich, Germany — On-site/Hybrid; boutique enterprise AI consultancy; reliability+guardrails fit but F-1 OPT→Germany visa friction |

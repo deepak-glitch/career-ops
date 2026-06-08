@@ -7,9 +7,13 @@
 
 ## Pending
 
+
 ## Processed
 
 ### 2026-06-08
+- [x] #1260 | https://www.workatastartup.com/jobs/94474 | Infer | Forward Deployed Engineer | San Francisco, CA — On-site | 3.4/5 | PDF ✅
+- [x] #1261 | https://presh-marketing-solutions.breezy.hr/p/21aca04bd516-ai-solutions-architect | PRESHai | AI Solutions Architect | Tampa, FL — On-site | 3.2/5 | PDF ✅
+- [x] #1262 | https://jobs.ashbyhq.com/openai/eb8b5070-f853-4dd3-9727-3bd0f6ba4423 | OpenAI | AI Deployment Engineer | SF / NYC / Remote US — Hybrid 3d/wk | 3.4/5 | PDF ✅
 - [x] #1259 | https://jobs.lever.co/pigment/aa87cacc-8a4e-4e8a-9341-e1e7624d05e9 | Pigment | AI Deployment Strategist (Austin) | Austin, Texas — Hybrid | 3.9/5 | PDF ✅
 - [x] #1254 | https://jobs.lever.co/pigment/27d0415e-b9fe-446f-bf45-aa95c660b0a8 | Pigment | AI Deployment Strategist (NY) | New York, NY — Hybrid | 3.9/5 | PDF ✅
 - [x] #1256 | https://jobs.lever.co/pigment/1a9ccf1f-c28d-4ed4-ab40-d093eb8fee63 | Pigment | AI Deployment Strategist | San Francisco — Hybrid | 3.9/5 | PDF ✅
