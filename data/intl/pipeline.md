@@ -13,9 +13,15 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
+
+### 2026-06-08
+- [!] https://himalayas.app/companies/data-intellect/jobs/forward-deployed-engineers-ai-12-week-contract-immediate | error: JD body did not extract (Himalayas SPA returned unrelated listings); title-only ("Forward Deployed Engineers (AI), 12-week contract") — retry next run
+
 ## Processed
 
 ### 2026-06-08
+- [x] #1258 | https://apply.workable.com/volga-partners/j/D5FC274074 | Volga Partners | AI Engineer, AI/LLM (Backend) | Islamabad, Pakistan — On-site | 1.6/5 SKIP | PDF ❌
+- [x] #1257 | https://apply.workable.com/masterworksco/j/312061AFB1/ | Master-Works | AI Engineer (Mid-Level) | Riyadh, Saudi Arabia — On-site | 2.0/5 SKIP | PDF ❌
 - [x] #1254 | https://naffco.teamtailor.com/jobs/7828270-ai-engineer-agentic-ai-enterprise-automation | NAFFCO | AI Engineer – Agentic AI & Enterprise Automation | Dubai, UAE | 2.9/5 SKIP | PDF ❌
 - [x] #1255 | https://ioet.na.teamtailor.com/jobs/607618-ai-engineer | ioet | AI Engineer | LATAM-based — Fully Remote | 2.5/5 SKIP | PDF ❌
 

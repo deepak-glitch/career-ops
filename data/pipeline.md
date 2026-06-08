@@ -9,6 +9,7 @@
 ## Processed
 
 ### 2026-06-08
+- [x] #1256 | https://apply.workable.com/flexion-robotics/j/15E54A027D/ | Flexion Robotics | Forward Deployed Engineer (Robotics) | Not specified (likely US) — ~20% travel | 2.3/5 SKIP | PDF ❌
 - [x] #1249 | https://www.workatastartup.com/jobs/85014 | Trellis AI | Forward Deployed Engineer (full-time) | San Francisco, CA — In-person | 3.6/5 | PDF ✅
 - [x] #1250 | https://jobs.lever.co/muttdata/46f78eef-820a-437a-ae14-f70a460d4fc6 | Muttdata | AI Engineer | Remote (Argentina HQ; Argentina/Remote/USA) | 3.0/5 | PDF ✅
 - [x] #1251 | https://jobs.lever.co/foundation-llm-technologies/b1397f59-3b6d-4191-993a-b5f04fcd7ac1 | Foundation EGI | R&D Software Engineer (Geometry & AI) | Remote/Boston, MA | 2.6/5 SKIP | PDF ❌

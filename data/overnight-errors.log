@@ -1333,3 +1333,9 @@ Top pick is Synthio Labs — explicit visa sponsorship + life-sciences/pharma do
 2026-06-08T000229Z	step1-L3	warn	IntelePeer AI Agent Engineer URL unverifiable (aggregator 403, absent from careers page)	fix:JD fallbacks exhausted; not added (likely stale)	outcome:skipped
 2026-06-08T000229Z	step1-L3	warn	Parachute Health Senior Eng (Applied AI) job id redirects to board, absent from 10 current openings	fix:treated as closed/stale; not added	outcome:skipped
 Processed 7 URLs (US:5 + Intl:2), generated 2 PDFs, archived 5 low-score, pushed 40f9941.
+2026-06-08T040229Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-08T040229Z	scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-08T040229Z	scan-us	warn	3 portal HTTP 404 (Tinybird, Travelperk, Forto)	fix:none-benign-portal-endpoint-changes	outcome:skipped
+2026-06-08T040229Z	pipeline-l3	warn	Spice AI lever posting closed (API 404 + page 403)	fix:dead-not-retried-logged-in-scan-history	outcome:skipped
+2026-06-08T040229Z	pipeline-l3	warn	Runpod EMEA greenhouse job 5082425008 removed (redirects to board listing)	fix:dead-not-retried-logged	outcome:skipped
+2026-06-08T040229Z	pipeline-intl	warn	Data Intellect JD extraction failed (Himalayas SPA returned unrelated listings, title-only)	fix:marked [!] retry in intl Pending + scan-history status=retry	outcome:skipped
