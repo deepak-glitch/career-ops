@@ -14,9 +14,6 @@
 
 ## Pending
 
-### 2026-06-08
-- [!] https://himalayas.app/companies/data-intellect/jobs/forward-deployed-engineers-ai-12-week-contract-immediate | error: JD body did not extract (Himalayas SPA returned unrelated listings); title-only ("Forward Deployed Engineers (AI), 12-week contract") — retry next run
-
 ## Processed
 
 ### 2026-06-08

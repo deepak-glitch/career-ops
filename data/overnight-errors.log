@@ -1339,3 +1339,8 @@ Processed 7 URLs (US:5 + Intl:2), generated 2 PDFs, archived 5 low-score, pushed
 2026-06-08T040229Z	pipeline-l3	warn	Spice AI lever posting closed (API 404 + page 403)	fix:dead-not-retried-logged-in-scan-history	outcome:skipped
 2026-06-08T040229Z	pipeline-l3	warn	Runpod EMEA greenhouse job 5082425008 removed (redirects to board listing)	fix:dead-not-retried-logged	outcome:skipped
 2026-06-08T040229Z	pipeline-intl	warn	Data Intellect JD extraction failed (Himalayas SPA returned unrelated listings, title-only)	fix:marked [!] retry in intl Pending + scan-history status=retry	outcome:skipped
+2026-06-08T080127Z	setup	warn	git pull --ff-only failed: diverging branches (origin force-updated)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-08T080127Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-08T080127Z	step1-scan-us	warn	scan.mjs portal HTTP 404: Tinybird, Travelperk, Forto	fix:none (transient portal errors, non-blocking)	outcome:skipped
+2026-06-08T080127Z	step2-pipeline-intl	warn	data-intellect Himalayas JD did not extract (SPA)	fix:aggregator corroboration -> canonical SmartRecruiters source = EXPIRED; marked dead, removed - [!] row	outcome:resolved
+2026-06-08T080127Z	step2-pipeline	warn	0 pending after scan in both tracks (US:0, Intl:0 evaluable; 1 intl was expired)	fix:none needed	outcome:resolved
