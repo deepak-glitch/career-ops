@@ -1357,3 +1357,14 @@ Sources:
 2026-06-08T120252Z	scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
 2026-06-08T120252Z	scan-us	warn	3 company API 404 (Tinybird,Travelperk,Forto)	fix:scan.mjs skips failed companies, continues	outcome:skipped
 2026-06-08T120252Z	pipeline	warn	0 pending after scan (L1/2 + L3 saturated; 3 L3 hits non-archetype slip-throughs filtered)	fix:nothing to evaluate per Playbook #9	outcome:resolved
+Processed 4 URLs (US:3 + Intl:1), generated 2 PDFs, archived 2 low-score, pushed 9da7e5b.
+
+**Run breakdown:**
+- **Scan:** US +3 (2x Celonis Madrid Orbit, Pigment SF), Intl +1 (Pigment Toronto). Level 3 WebSearch surfaced ~30 FDE/AI hits — all already in scan history.
+- **Pipeline (4 evaluations):**
+  - #1256 Pigment AI Deployment Strategist (SF, Hybrid) — **3.9/5 PDF ✅** (strong agentic AI/FDE fit, 2–5y window, Series C+ ~$400M)
+  - #1257 Pigment AI Deployment Strategist (Toronto, Hybrid) — **3.2/5 PDF ✅** (Intl; CA work auth via TN sponsor needed)
+  - #1254 Celonis Associate Applied AI (DACH Orbit, Madrid) — **1.7/5 SKIP** (German C1/C2 hard blocker + EU work auth — purged)
+  - #1255 Celonis Associate Applied AI (Scale EMEA Orbit, Madrid) — **1.7/5 SKIP** (same blockers — purged)
+- **Verify:** 0 errors / 0 warnings (534 entries).
+- **Push:** 9da7e5b on `main`.
