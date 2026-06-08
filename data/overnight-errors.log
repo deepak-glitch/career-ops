@@ -1380,3 +1380,4 @@ Processed 2 URLs (US:1 + Intl:1), generated 1 PDF, archived 1 low-score, pushed 
 2026-06-08T200211Z	setup-git-pull	warn	fast-forward pull failed: origin/main force-updated/diverged	fix:git fetch + git reset --hard origin/main (no local commits at setup)	outcome:resolved
 2026-06-08T200211Z	scan-deps	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules missing in fresh container)	fix:npm install (added 59 packages)	outcome:resolved
 2026-06-08T200211Z	pdf-gen	warn	Playwright chromium-headless-shell missing in fresh container	fix:npx playwright install chromium-headless-shell then retry generate-pdf	outcome:resolved
+Processed 6 URLs (US:3 + Intl:3), generated 3 PDFs, archived 3 low-score, pushed 98135e5.
