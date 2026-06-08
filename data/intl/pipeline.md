@@ -13,10 +13,12 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-
 ## Processed
 
 ### 2026-06-08
+- [x] #1252 | https://jobs.ashbyhq.com/supermodular.ai/d7b70138-cd54-4069-8099-6e92d83722a9 | supermodular.ai | Forward Deployed Security Engineer (AI Systems) | Munich, Germany — On-site/Hybrid | 3.0/5 | PDF ✅
+- [x] #1253 | https://www.workatastartup.com/jobs/89530 | Arva AI | Forward Deployed Engineer | London, UK — On-site 4-5d/wk (visa sponsorship per JD) | 3.2/5 | PDF ✅
+- [x] #1254 | https://job-boards.greenhouse.io/intercom/jobs/6781237 | Intercom (Fin) | AI Design Leader | Berlin/Dublin/London — Hybrid 3d/wk | 1.5/5 SKIP | PDF ❌
 - [x] #1258 | https://apply.workable.com/volga-partners/j/D5FC274074 | Volga Partners | AI Engineer, AI/LLM (Backend) | Islamabad, Pakistan — On-site | 1.6/5 SKIP | PDF ❌
 - [x] #1257 | https://apply.workable.com/masterworksco/j/312061AFB1/ | Master-Works | AI Engineer (Mid-Level) | Riyadh, Saudi Arabia — On-site | 2.0/5 SKIP | PDF ❌
 - [x] #1254 | https://naffco.teamtailor.com/jobs/7828270-ai-engineer-agentic-ai-enterprise-automation | NAFFCO | AI Engineer – Agentic AI & Enterprise Automation | Dubai, UAE | 2.9/5 SKIP | PDF ❌
