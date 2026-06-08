@@ -1353,3 +1353,7 @@ Sources:
 - [Arva AI — Forward Deployed Engineer (London)](https://www.workatastartup.com/jobs/89530)
 - [supermodular.ai — FDE Security Engineer (Munich)](https://jobs.ashbyhq.com/supermodular.ai/d7b70138-cd54-4069-8099-6e92d83722a9)
 - [Intercom (Fin) — AI Design Leader](https://job-boards.greenhouse.io/intercom/jobs/6781237)
+2026-06-08T120252Z	setup-pull	warn	ff-only pull failed (origin force-updated, diverged)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-08T120252Z	scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-08T120252Z	scan-us	warn	3 company API 404 (Tinybird,Travelperk,Forto)	fix:scan.mjs skips failed companies, continues	outcome:skipped
+2026-06-08T120252Z	pipeline	warn	0 pending after scan (L1/2 + L3 saturated; 3 L3 hits non-archetype slip-throughs filtered)	fix:nothing to evaluate per Playbook #9	outcome:resolved
