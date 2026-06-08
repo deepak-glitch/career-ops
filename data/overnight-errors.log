@@ -1368,3 +1368,11 @@ Processed 4 URLs (US:3 + Intl:1), generated 2 PDFs, archived 2 low-score, pushed
   - #1255 Celonis Associate Applied AI (Scale EMEA Orbit, Madrid) — **1.7/5 SKIP** (same blockers — purged)
 - **Verify:** 0 errors / 0 warnings (534 entries).
 - **Push:** 9da7e5b on `main`.
+2026-06-08T160152Z	setup	warn	git pull --ff-only failed (diverging)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-08T160152Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-08T160152Z	step1-scan-us	warn	5 portals failed (Tinybird/Travelperk/Forto 404; Qonto/Outreach aborted)	fix:scanner skips failed portals, continue	outcome:skipped
+2026-06-08T160152Z	step1-scan-intl	warn	3 portals 404 (Tinybird/Travelperk/Forto)	fix:scanner skips, continue	outcome:skipped
+2026-06-08T160152Z	step1-L3	warn	2 L3 net-new URLs fail title filter (JetBrains=Lead, EWOR=Co-Founder/Head)	fix:recorded status=filtered in scan-history, not added to pipeline	outcome:resolved
+2026-06-08T160152Z	step2-pipeline	warn	0 pending in both pipelines after scan+L3 (portals saturated)	fix:nothing to evaluate, proceed	outcome:resolved
+2026-06-08T160152Z	step3-verify	error	applications.md #1065 links to non-existent report 1256-pigment-sf (phantom from 15:49Z run; report never created in any commit, num beyond max 1253)	fix:removed unbacked phantom row (no URL to re-eval, no-fabrication rule forbids inventing report)	outcome:resolved
+2026-06-08T160152Z	step3-merge	warn	dedup-tracker found 2 duplicate rows (#39 Deepgram, #566 ElevenLabs)	fix:node dedup-tracker.mjs removed dupes, kept higher-scored	outcome:resolved
