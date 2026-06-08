@@ -1344,3 +1344,12 @@ Processed 7 URLs (US:5 + Intl:2), generated 2 PDFs, archived 5 low-score, pushed
 2026-06-08T080127Z	step1-scan-us	warn	scan.mjs portal HTTP 404: Tinybird, Travelperk, Forto	fix:none (transient portal errors, non-blocking)	outcome:skipped
 2026-06-08T080127Z	step2-pipeline-intl	warn	data-intellect Himalayas JD did not extract (SPA)	fix:aggregator corroboration -> canonical SmartRecruiters source = EXPIRED; marked dead, removed - [!] row	outcome:resolved
 2026-06-08T080127Z	step2-pipeline	warn	0 pending after scan in both tracks (US:0, Intl:0 evaluable; 1 intl was expired)	fix:none needed	outcome:resolved
+Pushed to `main` at `5269290`. Final summary:
+
+Processed 4 URLs (US:1 + Intl:3), generated 3 PDFs, archived 1 low-score (Intercom AI Design Leader, 1.5/5), pushed `5269290`.
+
+Sources:
+- [Coval — Forward Deployed Engineer (YC F24)](https://www.workatastartup.com/jobs/92860)
+- [Arva AI — Forward Deployed Engineer (London)](https://www.workatastartup.com/jobs/89530)
+- [supermodular.ai — FDE Security Engineer (Munich)](https://jobs.ashbyhq.com/supermodular.ai/d7b70138-cd54-4069-8099-6e92d83722a9)
+- [Intercom (Fin) — AI Design Leader](https://job-boards.greenhouse.io/intercom/jobs/6781237)
