@@ -6,8 +6,15 @@
      creates it at the end of Pending. -->
 
 ## Pending
-
 ## Processed
+
+### 2026-06-08
+- [x] #1249 | https://www.workatastartup.com/jobs/85014 | Trellis AI | Forward Deployed Engineer (full-time) | San Francisco, CA — In-person | 3.6/5 | PDF ✅
+- [x] #1250 | https://jobs.lever.co/muttdata/46f78eef-820a-437a-ae14-f70a460d4fc6 | Muttdata | AI Engineer | Remote (Argentina HQ; Argentina/Remote/USA) | 3.0/5 | PDF ✅
+- [x] #1251 | https://jobs.lever.co/foundation-llm-technologies/b1397f59-3b6d-4191-993a-b5f04fcd7ac1 | Foundation EGI | R&D Software Engineer (Geometry & AI) | Remote/Boston, MA | 2.6/5 SKIP | PDF ❌
+- [x] #1252 | https://jobs.ashbyhq.com/compa/ce7b36cc-3517-46c0-98fe-99924ab400da | Compa | Software Engineer, New Grad | Denver/SF/Irvine — In-person | 2.7/5 SKIP | PDF ❌
+- [x] #1253 | https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003 | Sigma Computing | Software Engineer (New Grad Program) | SF/NYC — In-person 3-month program | 2.4/5 SKIP | PDF ❌
+
 
 ### 2026-06-07
 - [x] #1247 | https://www.workatastartup.com/jobs/95130 | Synthio Labs | Forward Deployed Engineer - Tech | San Francisco, CA / Palo Alto, CA - On-site (visa sponsorship YES) | 4.0/5 | PDF ✅

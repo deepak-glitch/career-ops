@@ -13,8 +13,12 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-
 ## Processed
+
+### 2026-06-08
+- [x] #1254 | https://naffco.teamtailor.com/jobs/7828270-ai-engineer-agentic-ai-enterprise-automation | NAFFCO | AI Engineer – Agentic AI & Enterprise Automation | Dubai, UAE | 2.9/5 SKIP | PDF ❌
+- [x] #1255 | https://ioet.na.teamtailor.com/jobs/607618-ai-engineer | ioet | AI Engineer | LATAM-based — Fully Remote | 2.5/5 SKIP | PDF ❌
+
 
 ### 2026-06-07
 - [x] #1248 | https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef | OpenAI | Forward Deployed Engineer - Munich | Munich, Germany - Hybrid 3d/wk + 50% travel | 3.0/5 | PDF ✅
