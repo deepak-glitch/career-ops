@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1254 | 2026-06-08 | Pigment | AI Deployment Strategist (NY) | 3.9/5 | Evaluated | ✅ | [1254](reports/1254-pigment-ai-deployment-strategist-ny-2026-06-08.md) | [US] New York, NY — Hybrid; Pigment PS team; FDE-on-SaaS pattern; 2-5y band matches; US location removes London variant friction (3.4 → 3.9) |
 | 1251 | 2026-06-08 | Coval | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [1251](reports/1251-coval-forward-deployed-engineer-2026-06-08.md) | [US] San Francisco — On-site (YC F24, $3.3M seed, founder ex-Waymo); voice/chat AI simulation+eval platform; archetype-perfect for agentic + eval discipline; small-team OPT sponsorship friction |
 | 1252 | 2026-06-08 | supermodular.ai | Forward Deployed Security Engineer (AI Systems) | 3.0/5 | Evaluated | ✅ | [1252](reports/1252-supermodular-forward-deployed-security-engineer-2026-06-08.md) | [Intl] Munich, Germany — On-site/Hybrid; boutique enterprise AI consultancy; reliability+guardrails fit but F-1 OPT→Germany visa friction |
 | 1253 | 2026-06-08 | Arva AI | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [1253](reports/1253-arva-ai-forward-deployed-engineer-2026-06-08.md) | [Intl] London, UK — On-site 4-5d/wk; YC + Google AI backed; AML/KYC/KYB agents; sponsorship available per JD; F-1 OPT→UK Skilled Worker friction |

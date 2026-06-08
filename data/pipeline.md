@@ -6,10 +6,10 @@
      creates it at the end of Pending. -->
 
 ## Pending
-
 ## Processed
 
 ### 2026-06-08
+- [x] #1254 | https://jobs.lever.co/pigment/27d0415e-b9fe-446f-bf45-aa95c660b0a8 | Pigment | AI Deployment Strategist (NY) | New York, NY — Hybrid | 3.9/5 | PDF ✅
 - [x] #1256 | https://jobs.lever.co/pigment/1a9ccf1f-c28d-4ed4-ab40-d093eb8fee63 | Pigment | AI Deployment Strategist | San Francisco — Hybrid | 3.9/5 | PDF ✅
 - [x] #1254 | https://job-boards.greenhouse.io/celonis/jobs/7765669003?gh_jid=7765669003 | Celonis | Associate Applied AI Engineer (DACH) Orbit | Madrid, Spain — Hybrid | 1.7/5 SKIP | PDF ❌
 - [x] #1255 | https://job-boards.greenhouse.io/celonis/jobs/7762505003?gh_jid=7762505003 | Celonis | Associate Applied AI Engineer (Scale EMEA) Orbit | Madrid, Spain — Hybrid | 1.7/5 SKIP | PDF ❌
