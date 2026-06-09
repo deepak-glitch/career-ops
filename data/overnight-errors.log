@@ -1430,3 +1430,6 @@ Both `scan.mjs` runs returned 0 new offers (most candidates filtered by title or
 Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed 14e2cb7.
 
 L1/L2 API scans returned 0 net-new across both tracks; L3 WebSearch sweep surfaced only duplicates already in scan-history or applications (Stardex, Kastle, Paragon, Confido, Adobe FDE, ServiceNow FDE, Visia, MongoDB, DevRev, DMI, Mercor, webAI, Lorikeet, Ramp, etc.). Pendientes were empty for both pipelines, so no evaluations or PDFs this run. Verify-pipeline clean (0/0). Empty-commit pushed to main to record the cycle.
+2026-06-09T200151Z	setup	warn	git pull --ff-only failed (origin force-updated by prior scheduled run)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-09T200151Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules not installed in fresh container)	fix:npm install	outcome:resolved
+2026-06-09T200151Z	pipeline-pdf	warn	Playwright chromium-headless-shell executable missing in fresh container	fix:npx playwright install chromium, retry generate-pdf.mjs once	outcome:resolved

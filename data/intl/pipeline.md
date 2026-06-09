@@ -13,9 +13,11 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
+
 ## Processed
 
 ### 2026-06-09
+- [x] #1266 | https://clearroute.teamtailor.com/jobs/7843899-ai-engineer | ClearRoute | AI Engineer | London/Manchester, UK — Hybrid 2d/wk | 3.3/5 | PDF ✅
 
 ### 2026-06-08
 - [x] #1257 | https://jobs.lever.co/pigment/15e7b82c-ebf3-477c-96b5-96a3b25e0663 | Pigment | AI Deployment Strategist | Toronto, Canada — Hybrid | 3.2/5 | PDF ✅

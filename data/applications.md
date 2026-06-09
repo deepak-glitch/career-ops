@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1266 | 2026-06-09 | ClearRoute | AI Engineer | 3.3/5 | Evaluated | ✅ | [1266](reports/1266-clearroute-ai-engineer-2026-06-09.md) | [Intl] London/Manchester UK Hybrid 2d/wk; excellent skills match (agentic/RAG/MLOps/regulated); UK auth soft-blocker for F-1 OPT; PDF ✅ |
 | 1263 | 2026-06-09 | Strata Decision | Applied Machine Learning Engineer | 3.5/5 | Evaluated | ✅ | [1263](reports/1263-strata-decision-2026-06-09.md) | [US] Healthcare analytics ML; Chicago hybrid 2d/wk (relocate <40mi); $117-150K; research→production fit; F-1 OPT relocation needed |
 | 1264 | 2026-06-09 | Teserac | AI Engineer | 3.2/5 | Evaluated | ✅ | [1264](reports/1264-teserac-2026-06-09.md) | [US] AIOps/data-center observability (neuron); full AI lifecycle + eval/observability fit; loc/comp unconfirmed (SPA) — verify before applying |
 | 1260 | 2026-06-08 | Infer | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [1260](reports/1260-infer-fde-2026-06-08.md) | [US] YC S21 insurance-agency OS; SF on-site; $130-180K + equity; founding FDE; agentic + RAG fit; F-1 OPT relocation needed |
