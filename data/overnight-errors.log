@@ -1411,3 +1411,11 @@ Relevance AI Sydney URL came back null from Ashby GraphQL (dead) — swept by cl
 No new URLs and no file changes — scans returned 0 new (all duplicates/filtered), both Pendientes are empty, Level 3 WebSearch candidates were already in scan-history. Nothing to commit (cleanup log is gitignored).
 
 Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, no commit (working tree clean, HEAD at 5c05f6b).
+2026-06-09T120150Z	setup	warn	git pull --ff-only failed (diverging/forced upstream update)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-09T120150Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps missing)	fix:npm install	outcome:resolved
+2026-06-09T120150Z	step1-scan	warn	scan API HTTP 404 for Tinybird (US+Intl)	fix:skip company, retries next run	outcome:skipped
+2026-06-09T120150Z	step1-scan	warn	scan API HTTP 404 for Travelperk (US+Intl)	fix:skip company, retries next run	outcome:skipped
+2026-06-09T120150Z	step1-scan	warn	scan API HTTP 404 for Forto (US+Intl)	fix:skip company, retries next run	outcome:skipped
+2026-06-09T120150Z	step1-L3	warn	DoiT Applied AI Engineer (greenhouse 7707531003) redirects to generic board = closed	fix:verify via WebFetch, treat as expired, not added to pipeline	outcome:skipped
+2026-06-09T120150Z	step1-L3	warn	Jobgether Applied AI (lever c45ce63c) HTTP 403 + undisclosed-employer aggregator (sibling #865 already 404'd, 3.0)	fix:WebFetch fallback failed, no Playwright, low-value dup, not added	outcome:skipped
+2026-06-09T120150Z	step2-pipeline	warn	0 pending after scan (L1/L2 net-new=0, L3 net-new live=0) in both tracks	fix:nothing to evaluate, proceed per Playbook #9	outcome:resolved
