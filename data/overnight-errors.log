@@ -1396,3 +1396,12 @@ Processed 1 URL (US:0 + Intl:1), generated 0 PDFs, archived 1 low-score (WMG #12
 2026-06-09T040202Z	scan/both	warn	scan.mjs 3 dead company endpoints HTTP 404 (Tinybird, Travelperk, Forto)	fix:scanner skipped them, continue	outcome:skipped
 2026-06-09T040202Z	pipeline/L3	warn	FocusKPI AI Engineer Trainee JD page resolved to generic Himalayas listing, not the specific posting	fix:logged to scan-history status=filtered (unverifiable, trainee, low archetype fit); will not be evaluated this run	outcome:skipped
 2026-06-09T040202Z	pipeline/L3	warn	FurtherAI Software/AI Engineer (New Grad) posting inactive (removed 2026-03-31)	fix:liveness filter, logged to scan-history status=dead, not evaluated	outcome:skipped
+Processed 5 URLs (US:1 + Intl:4), generated 0 PDFs, archived 5 low-score, pushed 39b32a1.
+
+All 5 evaluations (#1265–#1269) scored below the 3.0 PDF threshold and were cleaned up:
+- Celonis Madrid Orbit (DACH, German required) — 1.7
+- OpenAI FDE/FDSWE Tokyo (bilingual JP required) — 1.5/1.5
+- OpenAI FDE Sydney (5+ yrs + AU work auth) — 2.6
+- HappyRobot Singapore (on-site SG + work auth) — 2.6
+
+Relevance AI Sydney URL came back null from Ashby GraphQL (dead) — swept by cleanup-bang-rows. Pipeline verifier ends 0 errors / 0 warnings.
