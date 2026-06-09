@@ -13,10 +13,13 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-
-
-
 ## Processed
+
+### 2026-06-09
+- [x] #1266 | https://jobs.ashbyhq.com/openai/51b17595-3a70-43be-a333-3a3952303284 | OpenAI | Forward Deployed Engineer - Tokyo | Tokyo, Japan — Hybrid 3d/wk + travel | 1.5/5 SKIP | PDF ❌
+- [x] #1267 | https://jobs.ashbyhq.com/openai/e98851f0-08d7-42ef-a499-dc96d8f96dab | OpenAI | Forward Deployed Software Engineer - Tokyo | Tokyo, Japan — Hybrid 3d/wk | 1.5/5 SKIP | PDF ❌
+- [x] #1268 | https://jobs.ashbyhq.com/openai/9e39d642-6c78-4c21-bc86-49b1773c933c | OpenAI | Forward Deployed Engineer - Sydney | Sydney, Australia — Hybrid 3d/wk + 50% travel | 2.6/5 SKIP | PDF ❌
+- [x] #1269 | https://jobs.ashbyhq.com/happyrobot.ai/138134f5-5f42-4e51-9b8d-b832454fc2b7 | Happyrobot | Forward Deployed Engineer | Singapore — On-site | 2.6/5 SKIP | PDF ❌
 ### 2026-06-08
 - [x] #1255 | https://apply.workable.com/marcura/j/9FA55B6DDD/ | Marcura | Generative AI Solutions Engineer | Dubai, UAE — Hybrid | 2.2/5 SKIP | PDF ❌
 - [x] #1257 | https://jobs.lever.co/pigment/15e7b82c-ebf3-477c-96b5-96a3b25e0663 | Pigment | AI Deployment Strategist | Toronto, Canada — Hybrid | 3.2/5 | PDF ✅

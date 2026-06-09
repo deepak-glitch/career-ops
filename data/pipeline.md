@@ -6,11 +6,14 @@
      creates it at the end of Pending. -->
 
 ## Pending
+
+
 ## Processed
 
 ### 2026-06-09
 - [x] #1263 | https://job-boards.greenhouse.io/stratacareers/jobs/7452181003 | Strata Decision | Applied Machine Learning Engineer | Chicago, IL — Hybrid 2d/wk (relocate <40mi) | 3.5/5 | PDF ✅
 - [x] #1264 | https://apply.workable.com/teserac-inc/j/9E22CF096F/ | Teserac | AI Engineer | Not specified (US-based, verify) | 3.2/5 | PDF ✅
+- [x] #1265 | https://job-boards.greenhouse.io/celonis/jobs/7765677003?gh_jid=7765677003 | Celonis | Associate Applied AI Engineer (DACH) - Orbit Program | Madrid, Spain — Hybrid | 1.7/5 SKIP | PDF ❌
 
 ### 2026-06-08
 - [x] #1260 | https://www.workatastartup.com/jobs/94474 | Infer | Forward Deployed Engineer | San Francisco, CA — On-site | 3.4/5 | PDF ✅
