@@ -1390,3 +1390,4 @@ Processed 6 URLs (US:3 + Intl:3), generated 3 PDFs, archived 3 low-score, pushed
 2026-06-09T000240Z	step2-extract	warn	Jobgether 0C895CA0C5 Workable SPA empty (WebFetch+API failed)	fix:marked [!] in US Pendientes for retry (aggregator repost)	outcome:skipped
 2026-06-09T000240Z	step2-extract	warn	Teserac Workable SPA empty; corroborated via WebSearch	fix:evaluated with **Verification:** unconfirmed header	outcome:resolved
 2026-06-09T000240Z	step2-pdf	warn	Playwright Chromium not installed (PDF gen failed)	fix:npx playwright install chromium then retried	outcome:resolved
+Processed 1 URL (US:0 + Intl:1), generated 0 PDFs, archived 1 low-score (WMG #1265 2.8/5 — Ontario/Canada FDE; Databricks-Genie/Streamlit gaps + CAD comp under target + Canada visa block), pushed f0b6d44.
