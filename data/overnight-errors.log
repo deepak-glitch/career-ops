@@ -1391,3 +1391,8 @@ Processed 6 URLs (US:3 + Intl:3), generated 3 PDFs, archived 3 low-score, pushed
 2026-06-09T000240Z	step2-extract	warn	Teserac Workable SPA empty; corroborated via WebSearch	fix:evaluated with **Verification:** unconfirmed header	outcome:resolved
 2026-06-09T000240Z	step2-pdf	warn	Playwright Chromium not installed (PDF gen failed)	fix:npx playwright install chromium then retried	outcome:resolved
 Processed 1 URL (US:0 + Intl:1), generated 0 PDFs, archived 1 low-score (WMG #1265 2.8/5 — Ontario/Canada FDE; Databricks-Genie/Streamlit gaps + CAD comp under target + Canada visa block), pushed f0b6d44.
+2026-06-09T040202Z	setup	warn	git pull --ff-only failed (non-fast-forward, forced upstream update)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-09T040202Z	scan/us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install	outcome:resolved
+2026-06-09T040202Z	scan/both	warn	scan.mjs 3 dead company endpoints HTTP 404 (Tinybird, Travelperk, Forto)	fix:scanner skipped them, continue	outcome:skipped
+2026-06-09T040202Z	pipeline/L3	warn	FocusKPI AI Engineer Trainee JD page resolved to generic Himalayas listing, not the specific posting	fix:logged to scan-history status=filtered (unverifiable, trainee, low archetype fit); will not be evaluated this run	outcome:skipped
+2026-06-09T040202Z	pipeline/L3	warn	FurtherAI Software/AI Engineer (New Grad) posting inactive (removed 2026-03-31)	fix:liveness filter, logged to scan-history status=dead, not evaluated	outcome:skipped
