@@ -16,11 +16,11 @@
 ## Processed
 
 ### 2026-06-09
+
 ### 2026-06-08
 - [x] #1257 | https://jobs.lever.co/pigment/15e7b82c-ebf3-477c-96b5-96a3b25e0663 | Pigment | AI Deployment Strategist | Toronto, Canada — Hybrid | 3.2/5 | PDF ✅
 - [x] #1252 | https://jobs.ashbyhq.com/supermodular.ai/d7b70138-cd54-4069-8099-6e92d83722a9 | supermodular.ai | Forward Deployed Security Engineer (AI Systems) | Munich, Germany — On-site/Hybrid | 3.0/5 | PDF ✅
 - [x] #1253 | https://www.workatastartup.com/jobs/89530 | Arva AI | Forward Deployed Engineer | London, UK — On-site 4-5d/wk (visa sponsorship per JD) | 3.2/5 | PDF ✅
-
 
 ### 2026-06-07
 - [x] #1248 | https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef | OpenAI | Forward Deployed Engineer - Munich | Munich, Germany - Hybrid 3d/wk + 50% travel | 3.0/5 | PDF ✅

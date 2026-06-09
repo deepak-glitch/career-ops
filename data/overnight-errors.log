@@ -1422,3 +1422,8 @@ Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, no com
 Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed d2f0b43.
 
 Both `scan.mjs` runs returned 0 new offers (most candidates filtered by title or the 48h freshness gate). Level 3 WebSearch sweeps across Ashby/Greenhouse/Workable/Lever/BuiltIn/Himalayas/YC/TeamTailor + EU.greenhouse all surfaced URLs already in `scan-history.tsv` / pipelines / applications.md, or marked dead. Pipelines remained at 0 pending → no evaluations or PDFs to generate. Verify clean (0 errors / 0 warnings), cleanup-low-scores and cleanup-bang-rows both no-op, committed and pushed as `d2f0b43`.
+2026-06-09T160206Z	setup	warn	git pull --ff-only failed (diverged local main)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-09T160206Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules absent)	fix:npm install	outcome:resolved
+2026-06-09T160206Z	step1-scan	warn	scan API HTTP 404 for Tinybird (stale/renamed ATS board)	fix:none (transient external endpoint)	outcome:skipped
+2026-06-09T160206Z	step1-scan	warn	scan API HTTP 404 for Travelperk (stale/renamed ATS board)	fix:none (transient external endpoint)	outcome:skipped
+2026-06-09T160206Z	step1-scan	warn	scan API HTTP 404 for Forto (stale/renamed ATS board)	fix:none (transient external endpoint)	outcome:skipped
