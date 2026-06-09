@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1267 | 2026-06-09 | Simbie AI | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [1267](reports/1267-simbie-ai-fde-2026-06-09.md) | [US] YC S23 healthcare voice/text-agent FDE; NYC on-site; $130-200K + equity; 3+y SWE production code req; healthcare-RAG + agentic + Python + multi-team delivery 1:1; F-1 OPT US visa qualifies; EHR/FHIR/HL7 soft gap mitigated via clinical privacy-ML work |
+| 1268 | 2026-06-09 | Cedana | Forward Deployed Engineer: AI + HPC | 3.0/5 | Evaluated | ✅ | [1268](reports/1268-cedana-fde-2026-06-09.md) | [US] YC GPU-checkpointing/SLURM HPC infra FDE; Remote US + 25% travel; $140-180K + 0.10-0.25% equity; 6+y SWE + 3-10y SLURM specifically — hard stack mismatch vs applied-AI profile; do-not-apply threshold case kept on file |
 | 1266 | 2026-06-09 | ClearRoute | AI Engineer | 3.3/5 | Evaluated | ✅ | [1266](reports/1266-clearroute-ai-engineer-2026-06-09.md) | [Intl] London/Manchester UK Hybrid 2d/wk; excellent skills match (agentic/RAG/MLOps/regulated); UK auth soft-blocker for F-1 OPT; PDF ✅ |
 | 1263 | 2026-06-09 | Strata Decision | Applied Machine Learning Engineer | 3.5/5 | Evaluated | ✅ | [1263](reports/1263-strata-decision-2026-06-09.md) | [US] Healthcare analytics ML; Chicago hybrid 2d/wk (relocate <40mi); $117-150K; research→production fit; F-1 OPT relocation needed |
 | 1264 | 2026-06-09 | Teserac | AI Engineer | 3.2/5 | Evaluated | ✅ | [1264](reports/1264-teserac-2026-06-09.md) | [US] AIOps/data-center observability (neuron); full AI lifecycle + eval/observability fit; loc/comp unconfirmed (SPA) — verify before applying |

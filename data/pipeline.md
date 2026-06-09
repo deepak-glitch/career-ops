@@ -12,6 +12,8 @@
 ### 2026-06-09
 - [x] #1263 | https://job-boards.greenhouse.io/stratacareers/jobs/7452181003 | Strata Decision | Applied Machine Learning Engineer | Chicago, IL — Hybrid 2d/wk (relocate <40mi) | 3.5/5 | PDF ✅
 - [x] #1264 | https://apply.workable.com/teserac-inc/j/9E22CF096F/ | Teserac | AI Engineer | Not specified (US-based, verify) | 3.2/5 | PDF ✅
+- [x] #1267 | https://www.ycombinator.com/companies/simbie-ai/jobs/W0NFn29-forward-deployed-engineer | Simbie AI | Forward Deployed Engineer | New York, NY — On-site | 3.8/5 | PDF ✅
+- [x] #1268 | https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc | Cedana | Forward Deployed Engineer: AI + HPC | Remote — US (~25% travel) | 3.0/5 | PDF ✅
 
 ### 2026-06-08
 - [x] #1260 | https://www.workatastartup.com/jobs/94474 | Infer | Forward Deployed Engineer | San Francisco, CA — On-site | 3.4/5 | PDF ✅
