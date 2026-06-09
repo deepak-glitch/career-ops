@@ -1427,3 +1427,6 @@ Both `scan.mjs` runs returned 0 new offers (most candidates filtered by title or
 2026-06-09T160206Z	step1-scan	warn	scan API HTTP 404 for Tinybird (stale/renamed ATS board)	fix:none (transient external endpoint)	outcome:skipped
 2026-06-09T160206Z	step1-scan	warn	scan API HTTP 404 for Travelperk (stale/renamed ATS board)	fix:none (transient external endpoint)	outcome:skipped
 2026-06-09T160206Z	step1-scan	warn	scan API HTTP 404 for Forto (stale/renamed ATS board)	fix:none (transient external endpoint)	outcome:skipped
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed 14e2cb7.
+
+L1/L2 API scans returned 0 net-new across both tracks; L3 WebSearch sweep surfaced only duplicates already in scan-history or applications (Stardex, Kastle, Paragon, Confido, Adobe FDE, ServiceNow FDE, Visia, MongoDB, DevRev, DMI, Mercor, webAI, Lorikeet, Ramp, etc.). Pendientes were empty for both pipelines, so no evaluations or PDFs this run. Verify-pipeline clean (0/0). Empty-commit pushed to main to record the cycle.
