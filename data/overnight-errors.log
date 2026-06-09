@@ -1419,3 +1419,6 @@ Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, no com
 2026-06-09T120150Z	step1-L3	warn	DoiT Applied AI Engineer (greenhouse 7707531003) redirects to generic board = closed	fix:verify via WebFetch, treat as expired, not added to pipeline	outcome:skipped
 2026-06-09T120150Z	step1-L3	warn	Jobgether Applied AI (lever c45ce63c) HTTP 403 + undisclosed-employer aggregator (sibling #865 already 404'd, 3.0)	fix:WebFetch fallback failed, no Playwright, low-value dup, not added	outcome:skipped
 2026-06-09T120150Z	step2-pipeline	warn	0 pending after scan (L1/L2 net-new=0, L3 net-new live=0) in both tracks	fix:nothing to evaluate, proceed per Playbook #9	outcome:resolved
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed d2f0b43.
+
+Both `scan.mjs` runs returned 0 new offers (most candidates filtered by title or the 48h freshness gate). Level 3 WebSearch sweeps across Ashby/Greenhouse/Workable/Lever/BuiltIn/Himalayas/YC/TeamTailor + EU.greenhouse all surfaced URLs already in `scan-history.tsv` / pipelines / applications.md, or marked dead. Pipelines remained at 0 pending → no evaluations or PDFs to generate. Verify clean (0 errors / 0 warnings), cleanup-low-scores and cleanup-bang-rows both no-op, committed and pushed as `d2f0b43`.
