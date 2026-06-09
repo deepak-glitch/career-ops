@@ -15,8 +15,8 @@
 ## Pending
 
 
-## Processed
 
+## Processed
 ### 2026-06-08
 - [x] #1255 | https://apply.workable.com/marcura/j/9FA55B6DDD/ | Marcura | Generative AI Solutions Engineer | Dubai, UAE — Hybrid | 2.2/5 SKIP | PDF ❌
 - [x] #1257 | https://jobs.lever.co/pigment/15e7b82c-ebf3-477c-96b5-96a3b25e0663 | Pigment | AI Deployment Strategist | Toronto, Canada — Hybrid | 3.2/5 | PDF ✅
