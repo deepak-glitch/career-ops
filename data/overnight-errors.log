@@ -1381,3 +1381,12 @@ Processed 2 URLs (US:1 + Intl:1), generated 1 PDF, archived 1 low-score, pushed 
 2026-06-08T200211Z	scan-deps	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules missing in fresh container)	fix:npm install (added 59 packages)	outcome:resolved
 2026-06-08T200211Z	pdf-gen	warn	Playwright chromium-headless-shell missing in fresh container	fix:npx playwright install chromium-headless-shell then retry generate-pdf	outcome:resolved
 Processed 6 URLs (US:3 + Intl:3), generated 3 PDFs, archived 3 low-score, pushed 98135e5.
+2026-06-09T000240Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch + git reset --hard origin/main (no local commits)	outcome:resolved
+2026-06-09T000240Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-09T000240Z	step1-scan-US	warn	scan.mjs company 404s: Tinybird, Travelperk, Forto	fix:none (per-company endpoint stale, non-blocking)	outcome:skipped
+2026-06-09T000240Z	step1-scan-Intl	warn	scan.mjs company 404s: Tinybird, Travelperk, Forto	fix:none (per-company endpoint stale, non-blocking)	outcome:skipped
+2026-06-09T000240Z	step2-extract	warn	General Robotics Ashby GraphQL returned null (posting closed)	fix:marked [!] in US Pendientes for retry	outcome:skipped
+2026-06-09T000240Z	step2-extract	warn	Jobgether C61C485858 Workable SPA empty (WebFetch+API failed)	fix:marked [!] in US Pendientes for retry (aggregator repost)	outcome:skipped
+2026-06-09T000240Z	step2-extract	warn	Jobgether 0C895CA0C5 Workable SPA empty (WebFetch+API failed)	fix:marked [!] in US Pendientes for retry (aggregator repost)	outcome:skipped
+2026-06-09T000240Z	step2-extract	warn	Teserac Workable SPA empty; corroborated via WebSearch	fix:evaluated with **Verification:** unconfirmed header	outcome:resolved
+2026-06-09T000240Z	step2-pdf	warn	Playwright Chromium not installed (PDF gen failed)	fix:npx playwright install chromium then retried	outcome:resolved

@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1263 | 2026-06-09 | Strata Decision | Applied Machine Learning Engineer | 3.5/5 | Evaluated | ✅ | [1263](reports/1263-strata-decision-2026-06-09.md) | [US] Healthcare analytics ML; Chicago hybrid 2d/wk (relocate <40mi); $117-150K; research→production fit; F-1 OPT relocation needed |
+| 1264 | 2026-06-09 | Teserac | AI Engineer | 3.2/5 | Evaluated | ✅ | [1264](reports/1264-teserac-2026-06-09.md) | [US] AIOps/data-center observability (neuron); full AI lifecycle + eval/observability fit; loc/comp unconfirmed (SPA) — verify before applying |
 | 1260 | 2026-06-08 | Infer | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [1260](reports/1260-infer-fde-2026-06-08.md) | [US] YC S21 insurance-agency OS; SF on-site; $130-180K + equity; founding FDE; agentic + RAG fit; F-1 OPT relocation needed |
 | 1261 | 2026-06-08 | PRESHai | AI Solutions Architect | 3.2/5 | Evaluated | ✅ | [1261](reports/1261-preshai-ai-solutions-architect-2026-06-08.md) | [US] Tampa FL on-site; $125-160K; 5+y ask vs 4y; strong agentic/RAG/TS/Python fit; MS365 gap; F-1 OPT relocation needed |
 | 1254 | 2026-06-08 | Pigment | AI Deployment Strategist (NY) | 3.9/5 | Evaluated | ✅ | [1254](reports/1254-pigment-ai-deployment-strategist-ny-2026-06-08.md) | [US] New York, NY — Hybrid; Pigment PS team; FDE-on-SaaS pattern; 2-5y band matches; US location removes London variant friction (3.4 → 3.9) |

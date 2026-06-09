@@ -578,3 +578,7 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-08	1263		orphan	orphan	0/5		reports/1263-sarvam-applied-ai-agents-2026-06-08.md	
 2026-06-08	1264		orphan	orphan	0/5		reports/1264-pulsora-applied-ai-india-2026-06-08.md	
 2026-06-08	1265		orphan	orphan	0/5		reports/1265-jobgether-applied-ai-india-2026-06-08.md	
+2026-06-09	1265	2026-06-09	HOPPR	Machine Learning Engineer	2.6/5	SKIP	reports/1265-hoppr-2026-06-09.md	[US] Medical-imaging ML, remote PST, $190-210K — excellent domain fit but citizen/PR-only gate (F-1 OPT ineligible) + 5yr floor
+2026-06-09	1266	2026-06-09	Defense Unicorns	Forward Deployed AI Engineer	1.8/5	SKIP	reports/1266-defense-unicorns-2026-06-09.md	[US] Defense agentic GenAI, US remote, $148-201K — strong tech fit but mandatory US citizenship + clearance (hard veto for F-1 OPT)
+2026-06-09	1267	2026-06-09	Sezzle	AI Engineer II	2.5/5	SKIP	reports/1267-sezzle-ai-engineer-ii-2026-06-09.md	[Intl] Fintech full-stack AI, Mexico remote, ~$40-72K/yr — Mexico work auth required + below-US comp; non-fit for US F-1 OPT
+2026-06-09	1268	2026-06-09	Sezzle	AI Engineer I	2.6/5	SKIP	reports/1268-sezzle-ai-engineer-i-2026-06-09.md	[Intl] Fintech entry AI, Bogota Colombia remote, ~$30-40K/yr — level/stack fit but Colombia work auth required + low comp
