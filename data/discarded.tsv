@@ -589,3 +589,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-09	1267		orphan	orphan	0/5		reports/1267-openai-fdswe-tokyo-2026-06-09.md	
 2026-06-09	1268		orphan	orphan	0/5		reports/1268-openai-fde-sydney-2026-06-09.md	
 2026-06-09	1269		orphan	orphan	0/5		reports/1269-happyrobot-fde-singapore-2026-06-09.md	
+2026-06-09	1270	2026-06-09	Accrete	Full-Stack Engineer, AI Platform	2.4/5	SKIP	reports/1270-accrete-2026-06-09.md	[US] No US sponsorship + 4d onsite NYC + frontend-heavy full-stack (not AI-core); 5+ yrs stretch
