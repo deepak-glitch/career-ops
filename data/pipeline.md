@@ -11,10 +11,8 @@
 ## Processed
 
 ### 2026-06-09
-- [x] #1270 | https://accrete-ai.breezy.hr/p/405bf096c9a4-full-stack-engineer-forward-deployed | Accrete | Full-Stack Engineer, AI Platform | Lower Manhattan, NY — On-site 4d/wk | 2.4/5 SKIP | PDF ❌
 - [x] #1263 | https://job-boards.greenhouse.io/stratacareers/jobs/7452181003 | Strata Decision | Applied Machine Learning Engineer | Chicago, IL — Hybrid 2d/wk (relocate <40mi) | 3.5/5 | PDF ✅
 - [x] #1264 | https://apply.workable.com/teserac-inc/j/9E22CF096F/ | Teserac | AI Engineer | Not specified (US-based, verify) | 3.2/5 | PDF ✅
-- [x] #1265 | https://job-boards.greenhouse.io/celonis/jobs/7765677003?gh_jid=7765677003 | Celonis | Associate Applied AI Engineer (DACH) - Orbit Program | Madrid, Spain — Hybrid | 1.7/5 SKIP | PDF ❌
 
 ### 2026-06-08
 - [x] #1260 | https://www.workatastartup.com/jobs/94474 | Infer | Forward Deployed Engineer | San Francisco, CA — On-site | 3.4/5 | PDF ✅
@@ -23,15 +21,9 @@
 - [x] #1259 | https://jobs.lever.co/pigment/aa87cacc-8a4e-4e8a-9341-e1e7624d05e9 | Pigment | AI Deployment Strategist (Austin) | Austin, Texas — Hybrid | 3.9/5 | PDF ✅
 - [x] #1254 | https://jobs.lever.co/pigment/27d0415e-b9fe-446f-bf45-aa95c660b0a8 | Pigment | AI Deployment Strategist (NY) | New York, NY — Hybrid | 3.9/5 | PDF ✅
 - [x] #1256 | https://jobs.lever.co/pigment/1a9ccf1f-c28d-4ed4-ab40-d093eb8fee63 | Pigment | AI Deployment Strategist | San Francisco — Hybrid | 3.9/5 | PDF ✅
-- [x] #1254 | https://job-boards.greenhouse.io/celonis/jobs/7765669003?gh_jid=7765669003 | Celonis | Associate Applied AI Engineer (DACH) Orbit | Madrid, Spain — Hybrid | 1.7/5 SKIP | PDF ❌
-- [x] #1255 | https://job-boards.greenhouse.io/celonis/jobs/7762505003?gh_jid=7762505003 | Celonis | Associate Applied AI Engineer (Scale EMEA) Orbit | Madrid, Spain — Hybrid | 1.7/5 SKIP | PDF ❌
 - [x] #1251 | https://www.workatastartup.com/jobs/92860 | Coval | Forward Deployed Engineer | San Francisco, CA — On-site (YC F24 startup; founder ex-Waymo) | 3.4/5 | PDF ✅
-- [x] #1256 | https://apply.workable.com/flexion-robotics/j/15E54A027D/ | Flexion Robotics | Forward Deployed Engineer (Robotics) | Not specified (likely US) — ~20% travel | 2.3/5 SKIP | PDF ❌
 - [x] #1249 | https://www.workatastartup.com/jobs/85014 | Trellis AI | Forward Deployed Engineer (full-time) | San Francisco, CA — In-person | 3.6/5 | PDF ✅
 - [x] #1250 | https://jobs.lever.co/muttdata/46f78eef-820a-437a-ae14-f70a460d4fc6 | Muttdata | AI Engineer | Remote (Argentina HQ; Argentina/Remote/USA) | 3.0/5 | PDF ✅
-- [x] #1251 | https://jobs.lever.co/foundation-llm-technologies/b1397f59-3b6d-4191-993a-b5f04fcd7ac1 | Foundation EGI | R&D Software Engineer (Geometry & AI) | Remote/Boston, MA | 2.6/5 SKIP | PDF ❌
-- [x] #1252 | https://jobs.ashbyhq.com/compa/ce7b36cc-3517-46c0-98fe-99924ab400da | Compa | Software Engineer, New Grad | Denver/SF/Irvine — In-person | 2.7/5 SKIP | PDF ❌
-- [x] #1253 | https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003 | Sigma Computing | Software Engineer (New Grad Program) | SF/NYC — In-person 3-month program | 2.4/5 SKIP | PDF ❌
 
 
 ### 2026-06-07
@@ -47,14 +39,12 @@
 - [x] #1227 | https://jobs.ashbyhq.com/cognition/811c3f5a-b26d-4162-b49b-93890a91794d | Cognition | AI Enablement Engineer | San Francisco — On-site | 3.4/5 | PDF ✅
 - [x] #1228 | https://jobs.ashbyhq.com/openai/a6363571-e090-43a7-b758-ee3386a096c1 | OpenAI | Software Engineer, Enterprise AI Platform | San Francisco — On-site | 3.3/5 | PDF ✅
 - [x] #1229 | https://www.workatastartup.com/jobs/50344 | Layerup | Forward Deployed Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
-- [x] #1230 | https://apply.workable.com/interimage/j/BA5150B6F4/ | InterImage | AI Engineer | Arlington/McLean, VA — Federal | 2.4/5 SKIP | PDF ❌
 
 
 ### 2026-06-06
 - [x] #1222 | https://vetsez.breezy.hr/p/d5d2dbdc7d0901-applied-ai-product-engineer-remote-opportunity | VetsEZ | Applied AI Product Engineer | United States — Remote | 3.5/5 | PDF ✅
 - [x] #1223 | https://jobs.ashbyhq.com/mercor/cae88190-a2fd-4d04-9352-9f48fedb56a7 | Mercor | Software Engineer, Applied AI | San Francisco, CA — On-site 5d/wk | 3.2/5 | PDF ✅
 - [x] #1224 | https://himalayas.app/companies/wrs-health/jobs/ai-engineer-5969981375 | WRS Health | AI Engineer | United States — Remote (US hours) | 3.7/5 | PDF ✅
-- [x] #1218 | https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007 | Defense Unicorns | Forward Deployed AI Engineer | United States — Remote | 1.7/5 SKIP | PDF ❌
 - [x] #1215 | https://jobs.ashbyhq.com/cinder/59b665b5-6e0a-46e0-aa78-3f48ba4c7c2b | Cinder | AI Engineer | New York — Remote eligible | 3.5/5 | PDF ✅
 - [x] #1216 | https://jobs.ashbyhq.com/fieldguide/6d0ceade-cbbe-4cd7-9af9-caf3cfed7ec3 | Fieldguide | AI Engineer | San Francisco, CA — Remote-first | 3.7/5 | PDF ✅
 - [x] #1209 | https://jobs.ashbyhq.com/falconer/75083e64-e5fb-4cb6-ba81-9a548b30e317 | Falconer | Founding AI Engineer | San Francisco, Bay Area — Hybrid (Caltrain office) | 3.6/5 | PDF ✅
@@ -82,7 +72,6 @@
 - [x] #1178 | https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer | San Francisco, CA — On-site | 3.5/5 | PDF ✅
 - [x] #1165 | https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us | Cekura | Forward Deployed Engineer (US) | San Francisco, CA — In-person 5d/wk | 3.6/5 | PDF ✅
 - [x] #1166 | https://www.ycombinator.com/companies/arist/jobs/YvFJJNd-founding-forward-deployed-engineer | Arist | Founding Forward Deployed Engineer | New York, NY or US Remote | 3.0/5 | PDF ✅
-- [x] #1167 | https://job-boards.greenhouse.io/lyratechgroup/jobs/5229710008 | Lyra Technology Group | Forward Deployment AI Engineer | San Diego, CA — Hybrid | 1.8/5 SKIP | PDF ❌
 - [x] #1168 | https://job-boards.greenhouse.io/yipitdata/jobs/7875686 | YipitData | AI Engineer | Remote-US (NYC HQ/hubs) | 3.2/5 | PDF ✅
 - [x] #1169 | https://www.workatastartup.com/jobs/76418 | Adam | Residency (Summer 2026) | San Francisco, CA — In-person 5d/wk | 3.0/5 | PDF ✅
 - [x] #1170 | https://www.workatastartup.com/jobs/67226 | Berry | Founding Full Stack Engineer - LLM, Applied AI | Worldwide Remote | 3.2/5 | PDF ✅
@@ -100,18 +89,14 @@
 - [x] #1133 | https://jobs.ashbyhq.com/universalagi/995ceec2-c76e-4466-9859-05bda9898284 | UniversalAGI | ML Engineer | San Francisco, CA — Onsite 5d/wk | 3.3/5 | PDF ✅
 - [x] #1124 | https://job-boards.greenhouse.io/intercom/jobs/7982566 | Intercom | Forward Deployed Software Engineer | Dublin, Ireland — Hybrid 3+ days | 3.4/5 | PDF ✅
 - [x] #1125 | https://jobs.ashbyhq.com/happyrobot.ai/43d9bd48-7701-4719-affd-ecf92adfc37a | Happyrobot | Machine Learning Engineer | Spain (EU) | 3.7/5 | PDF ✅
-- [x] #1120 | https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc | Cedana | Forward Deployed Engineer: AI + HPC | Remote — US (~25% travel) | 2.4/5 SKIP | PDF ❌
-- [x] #1121 | https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-4770135 | Leena AI | Forward Deployed Engineer | Remote — USA only | 2.3/5 SKIP | PDF ❌
 - [x] #1106 | https://jobs.lever.co/unstructuredtechnologies/9eb8340f-76ab-4a83-a9c5-8f97fd95f5cc | Unstructured | AI Engineer - Public Sector | Remote — US | 3.8/5 | PDF ✅
 - [x] #1107 | https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9 | Cohere | Forward Deployed Engineer, Agentic Platform | United States (Eastern Time) — 20-40% travel | 3.8/5 | PDF ✅
 - [x] #1108 | https://job-boards.greenhouse.io/scaleai/jobs/4513943005 | Scale AI | Software Engineer, Enterprise AI | San Francisco, CA / New York, NY — Hybrid 3d/wk | 3.3/5 | PDF ✅
 - [x] #1109 | https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101 | PhysicsX | Forward Deployed Software Engineer | San Francisco, CA — On-site + 3-4 wks/q travel | 3.0/5 | PDF ✅
-- [x] #1110 | https://job-boards.greenhouse.io/scaleai/jobs/4699574005 | Scale AI | AI Deployment Strategist, Healthcare & Life Sciences | San Francisco, CA / New York, NY — Hybrid 3d/wk | 2.5/5 SKIP | PDF ❌
 - [x] #1118 | https://jobs.ashbyhq.com/monaco/448aa20c-3119-4166-a2dd-ed11b58327e3 | Monaco | AI Engineer | San Francisco, CA — In-person 5d/wk | 4.0/5 | PDF ✅
 - [x] #1119 | https://jobs.ashbyhq.com/tessera-labs/0cb577c2-6cdd-4361-b1af-870ccfc9d792 | Tessera Labs | AI Agent Engineer | San Jose, CA — On-site (HQ) | 3.6/5 | PDF ✅
 - [x] #1126 | https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer – Full Stack AI | Remote — United States | 3.7/5 | PDF ✅
 - [x] #1127 | https://job-boards.greenhouse.io/proconex/jobs/5970129004 | Proconex | AI/ML Engineer - Vision AI | Royersford, PA — likely on-site/hybrid | 3.0/5 | PDF ✅
-- [x] #1128 | https://job-boards.eu.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer, VoIP | New York / US Remote | 2.2/5 SKIP | PDF ❌
 
 ### 2026-06-03
 - [x] #1101 | https://jobs.ashbyhq.com/clarium/83332693-7e11-41db-8b62-8225cb818abf | Clarium | AI Engineer - Data Intelligence | Remote/US (NYC co-working) | 4.3/5 | PDF ✅
@@ -119,11 +104,8 @@
 - [x] #1103 | https://apply.workable.com/innopeaktech/j/7D7725EAC7 | OPPO US Research Center | AI Engineer | Palo Alto, CA — On-site | 3.4/5 | PDF ✅
 - [x] #1100 | https://himalayas.app/companies/silent-eight/jobs/junior-forward-deployed-ai-engineer-llm-ml | Silent Eight | Junior Forward-Deployed AI Engineer (LLM/ML) | Remote — United States only | 4.2/5 | PDF ✅
 - [x] #1099 | https://jobs.lever.co/AIFund/273af06c-9114-4b9c-83c9-a3627f4b875f | DeepLearning.AI | AI Engineer | Mountain View, CA — in-person/on-site | 3.5/5 | PDF ✅
-- [x] #1097 | https://job-boards.greenhouse.io/cresta/jobs/5074999008 | Cresta | AI Value Partner, Customer Analytics | United States (Remote) | 2.7/5 SKIP | PDF ❌
-- [x] #1098 | https://apply.workable.com/proactive-technology-management/j/63FB51F32E/ | Proactive Technology Management | Forward Deployed Engineer - AI Consultant | Detroit, MI — On-site + 30% travel | 2.2/5 SKIP | PDF ❌
 - [x] #1087 | https://job-boards.greenhouse.io/scaleai/jobs/4625345005 | Scale AI | Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI | San Francisco, CA; New York, NY | 3.0/5 | PDF ✅
 - [x] #1088 | https://job-boards.greenhouse.io/scaleai/jobs/4625344005 | Scale AI | Machine Learning Research Engineer, Agents - Enterprise GenAI | San Francisco, CA; New York, NY | 3.1/5 | PDF ✅
-- [x] #1093 | https://job-boards.eu.greenhouse.io/proton/jobs/4582111101 | Proton | Database Platform Engineer | Prague | 1.7/5 SKIP | PDF ❌
 - [x] #1080 | https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/NYC/Seattle/SF/DC hybrid 25% in-office + 25% travel | 3.8/5 | PDF ✅
 - [x] #1081 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote (Continental US) | 4.3/5 | PDF ✅
 - [x] #1082 | https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee | Perplexity | Member of Technical Staff (FDE, Applied AI) | New York City | 3.3/5 | PDF ✅
@@ -285,7 +267,6 @@
 - [x] #847 | https://himalayas.app/companies/impiricus/jobs/ai-solutions-builder | Impiricus | AI Solutions Builder | Remote — US | 4.0/5 | PDF ✅
 - [x] #848 | https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391 | TRM Labs | AI Agent Engineer | Remote — US | 3.5/5 | PDF ✅
 - [x] #840 | https://jobs.ashbyhq.com/assorthealth/694e3f5a-c777-4db9-9b62-3db952e629fd | Assort Health | Forward Deployed Engineer | San Francisco, CA — In-Office | 3.4/5 | PDF ✅
-- [x] #843 | https://builtin.com/job/forward-deployed-engineer/4693577 | Hippocratic AI | Forward Deployed Engineer | Palo Alto, CA — In-Office | 0/5 CLOSED | PDF ❌
 - [x] #837 | https://jobs.ashbyhq.com/sphinx/bf2a74ab-2340-4eda-b9b8-3f05af59183f | Sphinx | Forward Deployed Engineer | San Francisco, CA — On-site | 3.0/5 | PDF ✅
 - [x] #835 | https://jobs.ashbyhq.com/llamaindex/c7335674-745e-4e1d-9d30-2277583c7c77 | LlamaIndex | Founding Applied AI Engineer | Remote — US | 3.5/5 | PDF ✅
 - [x] #832 | https://jobs.ashbyhq.com/haast/8d123db2-7e16-4cb7-8423-9324fa80666e | Haast | Forward Deployed Engineer | Remote, US | 3.8/5 | PDF ✅

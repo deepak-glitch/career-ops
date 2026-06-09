@@ -28,6 +28,13 @@ const OUTPUT_DIRS = ['output', 'output-intl'];
 const THRESHOLD = 3.0;
 const today = new Date().toISOString().slice(0, 10);
 
+// Pipeline rows look like:  `- [x] #1270 | URL | Co | Role | Loc | 2.4/5 SKIP | PDF ❌`
+// or                        `- [x] #1264 | URL | Co | Role | Loc | 3.2/5 | PDF ✅`
+// Allow any non-pipe text between `/5` and the next `|` so SKIP/note suffixes don't
+// hide the row from the score check. (Earlier `\s*\|` regex silently skipped SKIP rows
+// — exactly the ones that needed deletion most.)
+const PIPELINE_SCORE_RE = /^-\s*\[x\].*\|\s*([\d.]+)\/5[^|]*\|/;
+
 if (!existsSync(APPLICATIONS)) {
   console.error(`Not found: ${APPLICATIONS}`);
   process.exit(1);
@@ -118,7 +125,7 @@ if (DRY) {
   for (const path of PIPELINES) {
     if (!existsSync(path)) continue;
     for (const line of readFileSync(path, 'utf-8').split('\n')) {
-      const m = line.match(/^-\s*\[x\].*\|\s*([\d.]+)\/5\s*\|/);
+      const m = line.match(PIPELINE_SCORE_RE);
       if (m && parseFloat(m[1]) < THRESHOLD) pBelow++;
     }
   }
@@ -169,7 +176,7 @@ for (const path of PIPELINES) {
   const pKept = [];
   let pRemoved = 0;
   for (const line of pLines) {
-    const m = line.match(/^-\s*\[x\].*\|\s*([\d.]+)\/5\s*\|/);
+    const m = line.match(PIPELINE_SCORE_RE);
     if (m && parseFloat(m[1]) < THRESHOLD) {
       pRemoved++;
       continue;
@@ -182,6 +189,28 @@ for (const path of PIPELINES) {
     console.log(`Removed ${pRemoved} below-threshold row(s) from ${path}`);
   }
   totalPipelineRemoved += pRemoved;
+}
+
+// ── 7. Post-cleanup guardrail ──
+// Independent re-scan with a broader pattern: any `- [x]` row containing a sub-3.0
+// `X.X/5` token must be gone. Catches future format drift the primary regex can't
+// anticipate (e.g. new suffixes between score and pipe).
+const SUB_THREE_TOKEN = /\b[012]\.\d\/5\b/;
+const leftovers = [];
+for (const path of PIPELINES) {
+  if (!existsSync(path)) continue;
+  const lines = readFileSync(path, 'utf-8').split('\n');
+  for (let i = 0; i < lines.length; i++) {
+    const l = lines[i];
+    if (/^-\s*\[x\]/.test(l) && SUB_THREE_TOKEN.test(l)) {
+      leftovers.push(`${path}:${i + 1}: ${l.slice(0, 120)}`);
+    }
+  }
+}
+if (leftovers.length > 0) {
+  console.error('\n❌ Sub-3.0 rows survived cleanup — the row-parsing regex likely needs to be widened:');
+  for (const l of leftovers) console.error(`  ${l}`);
+  process.exit(2);
 }
 
 // ── Summary ──

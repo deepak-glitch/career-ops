@@ -16,30 +16,17 @@
 ## Processed
 
 ### 2026-06-09
-- [x] #1266 | https://jobs.ashbyhq.com/openai/51b17595-3a70-43be-a333-3a3952303284 | OpenAI | Forward Deployed Engineer - Tokyo | Tokyo, Japan — Hybrid 3d/wk + travel | 1.5/5 SKIP | PDF ❌
-- [x] #1267 | https://jobs.ashbyhq.com/openai/e98851f0-08d7-42ef-a499-dc96d8f96dab | OpenAI | Forward Deployed Software Engineer - Tokyo | Tokyo, Japan — Hybrid 3d/wk | 1.5/5 SKIP | PDF ❌
-- [x] #1268 | https://jobs.ashbyhq.com/openai/9e39d642-6c78-4c21-bc86-49b1773c933c | OpenAI | Forward Deployed Engineer - Sydney | Sydney, Australia — Hybrid 3d/wk + 50% travel | 2.6/5 SKIP | PDF ❌
-- [x] #1269 | https://jobs.ashbyhq.com/happyrobot.ai/138134f5-5f42-4e51-9b8d-b832454fc2b7 | Happyrobot | Forward Deployed Engineer | Singapore — On-site | 2.6/5 SKIP | PDF ❌
 ### 2026-06-08
-- [x] #1255 | https://apply.workable.com/marcura/j/9FA55B6DDD/ | Marcura | Generative AI Solutions Engineer | Dubai, UAE — Hybrid | 2.2/5 SKIP | PDF ❌
 - [x] #1257 | https://jobs.lever.co/pigment/15e7b82c-ebf3-477c-96b5-96a3b25e0663 | Pigment | AI Deployment Strategist | Toronto, Canada — Hybrid | 3.2/5 | PDF ✅
 - [x] #1252 | https://jobs.ashbyhq.com/supermodular.ai/d7b70138-cd54-4069-8099-6e92d83722a9 | supermodular.ai | Forward Deployed Security Engineer (AI Systems) | Munich, Germany — On-site/Hybrid | 3.0/5 | PDF ✅
 - [x] #1253 | https://www.workatastartup.com/jobs/89530 | Arva AI | Forward Deployed Engineer | London, UK — On-site 4-5d/wk (visa sponsorship per JD) | 3.2/5 | PDF ✅
-- [x] #1254 | https://job-boards.greenhouse.io/intercom/jobs/6781237 | Intercom (Fin) | AI Design Leader | Berlin/Dublin/London — Hybrid 3d/wk | 1.5/5 SKIP | PDF ❌
-- [x] #1258 | https://apply.workable.com/volga-partners/j/D5FC274074 | Volga Partners | AI Engineer, AI/LLM (Backend) | Islamabad, Pakistan — On-site | 1.6/5 SKIP | PDF ❌
-- [x] #1257 | https://apply.workable.com/masterworksco/j/312061AFB1/ | Master-Works | AI Engineer (Mid-Level) | Riyadh, Saudi Arabia — On-site | 2.0/5 SKIP | PDF ❌
-- [x] #1254 | https://naffco.teamtailor.com/jobs/7828270-ai-engineer-agentic-ai-enterprise-automation | NAFFCO | AI Engineer – Agentic AI & Enterprise Automation | Dubai, UAE | 2.9/5 SKIP | PDF ❌
-- [x] #1255 | https://ioet.na.teamtailor.com/jobs/607618-ai-engineer | ioet | AI Engineer | LATAM-based — Fully Remote | 2.5/5 SKIP | PDF ❌
 
 
 ### 2026-06-07
 - [x] #1248 | https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef | OpenAI | Forward Deployed Engineer - Munich | Munich, Germany - Hybrid 3d/wk + 50% travel | 3.0/5 | PDF ✅
 - [x] #1244 | https://job-boards.greenhouse.io/isidor/jobs/4048584009 | Isidor | Forward Deployed Engineer | London, UK — On-site (SF relocation H1 2026, visa support) | 3.2/5 | PDF ✅
 - [x] #1239 | https://opply-1682428990.teamtailor.com/jobs/6710160-product-engineer-remote-in-europe | Opply | Product Engineer | Remote Europe (London optional) | 3.2/5 | PDF ✅
-- [x] #1231 | https://job-boards.greenhouse.io/anthropic/jobs/5248983008 | Anthropic | Applied AI Engineer | Sydney, Australia — Hybrid 25% office | 2.8/5 SKIP | PDF ❌
 - [x] #1232 | https://jobs.ashbyhq.com/openai/63003bd5-05c8-408a-8d5a-8f5deb16113f | OpenAI | Forward Deployed Software Engineer - Dublin | Dublin, Ireland — Hybrid | 3.2/5 | PDF ✅
-- [x] #1233 | https://jobs.ashbyhq.com/happyrobot.ai/9d96194e-6a2c-4765-8e3b-1e6778eddc8e | Happyrobot | Forward Deployed Engineer - German Speaking | Vienna, Austria | 2.5/5 SKIP | PDF ❌
-- [x] #1234 | https://mintos.teamtailor.com/jobs/7738030-ai-automation-transformation-engineer | Mintos | AI & Automation Transformation Engineer | Riga, Latvia — Hybrid | 2.9/5 SKIP | PDF ❌
 - [x] #1235 | https://www.workatastartup.com/jobs/68959 | Solve Intelligence | AI Engineer | London, UK — On-site/Hybrid | 3.1/5 | PDF ✅
 
 ### 2026-06-06
@@ -49,21 +36,14 @@
 - [x] #1208 | https://job-boards.eu.greenhouse.io/cognite/jobs/4857558101 | Cognite | Applied AI Engineer (Fullstack), AI Co-Innovation | Oslo, Norway — Onsite/Hybrid | 3.0/5 | PDF ✅
 - [x] #1204 | https://apply.workable.com/newcode/j/2841413287 | Newcode.ai | Forward Deployed Agentic AI Software Engineer | Nordics (SE/NO/FI) — embedded at DLA Piper | 3.4/5 | PDF ✅
 - [x] #1203 | https://job-boards.greenhouse.io/materiom/jobs/5150829007 | Materiom | AI Engineer | London, England — Hybrid | 3.1/5 | PDF ✅
-- [x] #1195 | https://apply.workable.com/iceye/j/B75F49639E/ | ICEYE | Forward Deployed AI Engineer | Finland/SE/NL/PL/UAE/DE — Hybrid 30-50% on-site | 1.7/5 SKIP | PDF ❌
-- [x] #1196 | https://apply.workable.com/unitary/j/BCA47B5E82 | Unitary | Forward Deployed Engineer | UK (London) / Marin CA — Remote-first | 2.2/5 SKIP | PDF ❌
 - [x] #1197 | https://jobs.ashbyhq.com/haast/8d123db2-7e16-4cb7-8423-9324fa80666e | Haast | Forward Deployed Engineer | United States — Remote (first US engineer) | 3.5/5 | PDF ✅
-- [x] #1198 | https://himalayas.app/companies/indg/jobs/forward-deployed-engineer | INDG | Forward Deployed Engineer | United States — Remote | 2.7/5 SKIP | PDF ❌
 - [x] #1199 | https://jobs.lever.co/aircall/4965256f-b814-46a5-b6f6-e83bec714120 | Aircall | Forward Deployed Engineer - AI Solutions Engineering | New York City — Hybrid | 3.0/5 | PDF ✅
-- [x] #1189 | https://unibuddy-1668416154.teamtailor.com/jobs/7606923-software-engineer-ii-chat-systems-fully-remote-europe | Unibuddy | Software Engineer II, Chat Systems | Poland — Fully Remote (Europe) | 2.8/5 SKIP | PDF ❌
 
 ### 2026-06-05
 - [x] #1187 | https://soniox.com/careers/forward-deployed-engineer | Soniox | Forward Deployed Engineer | Ljubljana, Slovenia or Remote | 3.0/5 | PDF ✅
 - [x] #1188 | https://job-boards.eu.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer | Lisbon (office) or Europe Remote | 3.3/5 | PDF ✅ (re-eval, see tracker #976)
-- [x] #1179 | https://job-boards.greenhouse.io/sezzle/jobs/7633956003 | Sezzle | AI Engineer I | Remote — Colombia | 2.4/5 SKIP | PDF ❌
 - [x] #1180 | https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer (EMEA) | Paris — On-site | 3.2/5 | PDF ✅
 - [x] #1181 | https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2 | Camunda | AI Process Forward Deployed Engineer | Remote — Global | 3.2/5 | PDF ✅
-- [x] #1182 | https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4 | Cartesia | Founding Forward Deployed Engineer (India) | Bangalore — On-site | 2.7/5 SKIP | PDF ❌
-- [x] #1171 | https://job-boards.greenhouse.io/sezzle/jobs/7633988003 | Sezzle | AI Engineer II (Brazil) | Brazil — Remote | 1.7/5 SKIP | PDF ❌
 - [x] #1172 | https://appsilon-1739358905.teamtailor.com/jobs/7750183-applied-ai-engineer | Appsilon | Applied AI Engineer | Worldwide Remote (HQ Poland) | 3.2/5 | PDF ✅
 - [x] #1164 | https://jobs.ashbyhq.com/faculty/98f476d9-39ea-4bcc-b908-a6f6b8119fb9 | Faculty | Machine Learning Engineer | London, UK — Hybrid | 3.4/5 | PDF ✅
 - [x] #1160 | https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-ai-ml-engineer-llm-systems-m-w-d | Anexia | AI/ML Engineer - LLM Systems | Austria — Remote (EU) | 3.6/5 | PDF ✅
@@ -72,11 +52,6 @@
 - [x] #1155 | https://apply.workable.com/zyte/j/7475906EC2 | Zyte | AI/ML Engineer - Web Data Quality | Fully Remote (28+ countries) | 3.3/5 | PDF ✅
 - [x] #1154 | https://apply.workable.com/itrex-group/j/CFF3DE642F | ITRex Group | ML Engineer | Romania Remote consultancy | 3.1/5 | PDF ✅
 - [x] #1159 | https://tradingview.teamtailor.com/jobs/7736640-machine-learning-engineer | TradingView | Machine Learning Engineer | Tbilisi/Cyprus — Hybrid | 3.0/5 | PDF ✅
-- [x] #1151 | https://apply.workable.com/huggingface/j/CFD3AB818C | Hugging Face | Cloud ML DevRel Engineer (EMEA Remote) | France Remote (EMEA) | 2.8/5 SKIP | PDF ❌
-- [x] #1150 | https://job-boards.greenhouse.io/devrev/jobs/5837052004 | DevRev | Forward Deployed Engineer - Applied AI | Japan Remote (30% travel) | 2.5/5 SKIP | PDF ❌
-- [x] #1156 | https://producthackers.teamtailor.com/jobs/7793766-ai-engineer-software-engineer-espana | Product Hackers | AI Engineer | Spain — Fully Remote (Spanish required) | 2.4/5 SKIP | PDF ❌
-- [x] #1158 | https://modulai.teamtailor.com/jobs/1104520-machine-learning-engineer-sweden | Modulai | Machine Learning Engineer | Stockholm — Hybrid (no sponsorship) | 2.4/5 SKIP | PDF ❌
-- [x] #1152 | https://apply.workable.com/huggingface/j/07D6F55341 | Hugging Face | On-device ML Engineer (EMEA Remote) | EMEA Remote | 2.3/5 SKIP | PDF ❌
 - [x] #1141 | https://himalayas.app/companies/smartclip-europe-gmbh/jobs/ai-engineer-w-m-d | smartclip Europe | AI Engineer (w/m/d) | Germany — Remote (Berlin sessions) | 3.4/5 | PDF ✅
 - [x] #1142 | https://himalayas.app/companies/welocalize/jobs/ai-machine-learning-r-d-engineer | Welocalize | AI Machine Learning R&D Engineer | Spain — Remote | 3.6/5 | PDF ✅
 - [x] #202 | https://apply.workable.com/huggingface/j/56232F23CB | Hugging Face | Open-Source Machine Learning Engineer | International Remote | 3.2/5 | deduped → existing HF MLE #202 (3.8) kept
@@ -85,24 +60,18 @@
 ### 2026-06-04
 - [x] #1134 | https://jobs.ashbyhq.com/viktor/c750869a-1859-4339-bfc9-161a9ee2dc9f | Viktor | Agent Harness Engineer (Remote) | Europe — Remote + hubs Munich/NYC/Warsaw | 3.7/5 | PDF ✅
 - [x] #1135 | https://himalayas.app/companies/space-inch/jobs/ai-engineer-eu-653648566 | Space Inch | AI Engineer - EU | Portugal — Remote | 3.2/5 | PDF ✅
-- [x] #1122 | https://jobs.ashbyhq.com/Sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff | Sierra | Software Engineer, Agent (Spanish speaking) | London, UK — In-person | 1.9/5 SKIP | PDF ❌
-- [x] #1123 | https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-apac-4246987 | Runpod | Forward Deployed Engineer APAC | Remote — Singapore / South Korea / Malaysia | 2.0/5 SKIP | PDF ❌
 - [x] #1116 | https://apply.workable.com/languagewire/j/685F344246/ | LanguageWire | AI Engineer | Remote — Spain (full WFH) | 3.7/5 | PDF ✅
 - [x] #1117 | https://himalayas.app/companies/maia/jobs/applied-ai-engineer-f-m-x | MAIA | Applied AI Engineer (f/m/x) | Remote — Germany | 3.2/5 | PDF ✅
 - [x] #1111 | https://job-boards.greenhouse.io/celonis/jobs/7662803003 | Celonis | Associate Applied AI Engineer (Benelux) — Orbit Program | Madrid, Spain — Hybrid | 3.5/5 | PDF ✅
 - [x] #1112 | https://job-boards.greenhouse.io/scaleai/jobs/4536659005 | Scale AI | Applied AI Engineer, Enterprise | London, UK — Hybrid 2-3d/wk | 3.3/5 | PDF ✅
 - [x] #1113 | https://jobs.ashbyhq.com/cognition/8139c589-494a-449a-b608-b11a689e7b2e | Cognition | Deployed Engineer — LATAM | Brazil (LATAM) — 25-50% travel | 3.2/5 | PDF ✅
 - [x] #1114 | https://job-boards.eu.greenhouse.io/valtech/jobs/4878748101 | Valtech | Forward Deployed Engineer, Google Cloud, AI Expert | Montreal, Canada — Remote + up to 50% travel | 3.0/5 | PDF ✅
-- [x] #1129 | https://jobs.ashbyhq.com/openai/961f6c58-1572-48a8-bb8b-2bffdf82a5cc | OpenAI | Forward Deployed Software Engineer - Paris | Paris, France — Hybrid 3d/wk + 50% travel | 2.8/5 SKIP | PDF ❌
-- [x] #1130 | https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps | Berlin/Munich/DE Remote | 2.7/5 SKIP | PDF ❌
-- [x] #1131 | https://job-boards.eu.greenhouse.io/yld/jobs/4845729101 | YLD | Contract Forward Deployed Engineer | UK/EU Remote (Contract 6mo) | 2.4/5 SKIP | PDF ❌
 
 ### 2026-06-04
 - [x] #1105 | https://ethonai.recruitee.com/o/forward-deployed-engineer-2 | EthonAI | Forward Deployed Engineer | Zürich, Switzerland — On-site 3d/wk | 3.3/5 | PDF ✅
 
 ### 2026-06-03
 - [x] #1095 | https://job-boards.greenhouse.io/scaleai/jobs/4413992005 | Scale AI | Applied AI Engineer, Global Public Sector | Doha, Qatar; London, UK - Hybrid + ~2 wks/q travel | 3.1/5 | PDF ✅
-- [x] #1096 | https://job-boards.eu.greenhouse.io/proton/jobs/4660027101 | Proton | Frontend Engineer (Lumo AI) | Geneva; Taipei; Paris | 1.8/5 SKIP | PDF ❌
 - [x] #1085 | https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Munich | Munich | 3.4/5 | PDF ✅
 
 ### 2026-06-02
@@ -122,7 +91,6 @@
 ### 2026-05-30
 - [x] #1034 | https://job-boards.greenhouse.io/diligentcorporation/jobs/5829760004 | Diligent Corporation | Forward Deployed Engineer - Agentic AI | London, UK — Hybrid 50%+ on-site + ~80% on-site client | 3.5/5 | PDF ✅
 - [x] #1031 | https://job-boards.greenhouse.io/anthropic/jobs/5116274008 | Anthropic | Applied AI Engineer (London) | London, UK — Hybrid >=25% in-office + customer travel | 3.4/5 | PDF ✅
-- [x] #1027 | https://sumup.com/careers/positions/8450896002?gh_jid=8450896002 | SumUp | Fraud Prevention Agent II | São Paulo, Brazil — On-site | 1.5/5 SKIP | PDF ❌
 - [x] #1028 | https://jobs.lever.co/mistral/a93b2891-9aaa-4c18-855e-37ef159d4eed | Mistral AI | Applied AI Engineer, Site Reliability Engineer - EMEA | Paris, France — Hybrid | 3.6/5 | PDF ✅
 
 ### 2026-05-29
@@ -159,8 +127,6 @@
 - [x] #964 | https://job-boards.greenhouse.io/stackadapt/jobs/4131244009 | StackAdapt | Machine Learning Engineer (Remote) | UK / Ireland / Germany — Remote | 3.1/5 | PDF ✅
 
 ### 2026-05-22
-- [x] #944 | https://job-boards.greenhouse.io/sezzle/jobs/7633951003 | Sezzle | AI Engineer I (LATAM) | Latin America (Remote LATAM) | 1.8/5 SKIP | PDF ❌
-- [x] #945 | https://job-boards.greenhouse.io/sezzle/jobs/7633956003 | Sezzle | AI Engineer I (Bogota) | Bogota, Colombia (Remote) | 1.7/5 SKIP | PDF ❌
 - [x] #946 | https://jobs.ashbyhq.com/reedsy/b043b550-02b7-416f-8969-5db8fd9dc8ee | Reedsy | AI Engineer - Remote Europe | United Kingdom (Remote) | 3.4/5 | PDF ✅
 
 ### 2026-05-21
@@ -201,8 +167,6 @@
 - [x] #874 | https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702 | Lorikeet | Forward Deployed AI Engineer | Remote — APAC | 3.0/5 | PDF ✅
 
 ### 2026-05-16
-- [x] #844 | https://jobs.lever.co/mistral/dedd74e7-794a-49aa-8ccd-1ffe33fb20b8 | Mistral AI | Applied AI, Forward Deployed ML Engineer (Luxembourg) | Luxembourg | 0/5 CLOSED | PDF ❌
-- [x] #845 | https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5 | Mistral AI | Applied AI, Forward Deployed ML Engineer (Internship) | Unknown EU | 0/5 SKIP | PDF ❌
 
 ### 2026-05-15
 - [x] #825 | https://jobs.ashbyhq.com/sierra/df431e56-56f5-42ed-bc62-7d6f7041bd27 | Sierra | Software Engineer, Agent (Madrid) | Madrid, Spain — In-office | 3.4/5 | PDF ✅
