@@ -1441,3 +1441,9 @@ Both tracks' Level 1/2 API scans returned 0 net-new (already saturated by prior 
 2026-06-10T000226Z	scan-us	warn	3 portal API HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skips unreachable portals, retry next run	outcome:skipped
 2026-06-10T000226Z	scan-intl	warn	3 portal API HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skips unreachable portals, retry next run	outcome:skipped
 Processed 12 URLs (US:10 + Intl:3 minus closed nPlan), generated 6 PDFs, archived 6 low-score, pushed 53aee0b.
+2026-06-10T040200Z	setup	warn	git pull --ff-only failed (diverged)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-10T040200Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-10T040200Z	scan-us	warn	3 company endpoints HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skipped them, continue	outcome:skipped
+2026-06-10T040200Z	scan-intl	warn	3 company endpoints HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skipped them, continue	outcome:skipped
+2026-06-10T040200Z	pdf	warn	Playwright chromium not installed	fix:npx playwright install chromium	outcome:resolved
+2026-06-10T040200Z	merge	warn	3 dup company+role evals (Baseten#156,Profound#994,DeepLearning.AI#1099)	fix:removed dup reports/PDFs/pipeline rows/tracker row 1283/1285/1286	outcome:resolved
