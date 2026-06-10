@@ -1467,3 +1467,6 @@ Processed 7 URLs (US:2 + Intl:5), generated 3 PDFs, archived 4 low-score, pushed
 2026-06-10T160250Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install	outcome:resolved
 2026-06-10T160250Z	step1-scan-us	warn	scan API HTTP 404 for Tinybird, Travelperk, Forto	fix:none (transient/stale ATS slug; scanner skipped and continued)	outcome:skipped
 2026-06-10T160250Z	step1c-L3	warn	Imnoo recruitee JD HTTP 404 (dead posting)	fix:classified skipped_expired per scan.md 7.5; not added to pipeline	outcome:skipped
+Processed 1 URLs (US:1 + Intl:0), generated 0 PDFs, archived 1 low-score, pushed 5f176ef.
+
+The lone US scan hit (Aledade Practice Transformation Specialist) was a title-filter slip on the word "Transformation" — it's a healthcare practice-management role requiring 4–6 yrs EHR/practice-mgmt experience at $60–90k, completely off-archetype. Scored 1.4/5 and was deleted by `cleanup-low-scores.mjs`. Intl scan returned 0 new offers. Level 3 WebSearch surfaced ~20 candidates but all were already in scan-history (processed, dead, or filtered). Filter-hardening recommendation logged in the report's Block H before deletion. Pipeline verified 0 errors / 0 warnings.
