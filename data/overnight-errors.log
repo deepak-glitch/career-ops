@@ -1474,3 +1474,14 @@ The lone US scan hit (Aledade Practice Transformation Specialist) was a title-fi
 2026-06-10T200143Z	step1-scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
 2026-06-10T200143Z	step1-scan-us	warn	3 portals HTTP 404 (Tinybird, Travelperk, Forto)	fix:none - dead/changed ATS endpoints, scanner skipped them	outcome:skipped
 2026-06-10T200143Z	step2-pdf-1300	warn	generate-pdf.mjs failed: Playwright Chromium not installed	fix:npx playwright install chromium then retry	outcome:resolved
+Processed 8 URLs (US:5 + Intl:3), generated 3 PDFs, archived 5 low-score, pushed 393eb30.
+
+Sources:
+- [Jobgether — Forward Deployed AI Engineer](https://apply.workable.com/jobgether/j/0C895CA0C5)
+- [CrewAI — Forward Deployed Engineer](https://apply.workable.com/crewai/j/96051E9EDE)
+- [Ema — AI Implementation Engineer](https://himalayas.app/companies/ema/jobs/ai-implementation-engineer)
+- [Defense Unicorns — Forward Deployed AI Engineer](https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007)
+- [Wise Pelican — Vibe Engineer](https://wise-pelican-llc.breezy.hr/p/d7a2d0ce8c50-vibe-engineer-junior-ai-first-software-developer)
+- [Uvation — AI/ML Engineer](https://himalayas.app/companies/uvation/jobs/ai-ml-engineer-2931175390)
+- [Sierra — Software Engineer, Agent (Dutch)](https://jobs.ashbyhq.com/sierra/ae8840cd-f46e-4c96-87b1-53fedf40f94d)
+- [Huzzle — AI & Automation Specialist](https://himalayas.app/companies/huzzle/jobs/ai-automation-specialist)
