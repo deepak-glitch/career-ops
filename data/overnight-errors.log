@@ -1463,3 +1463,7 @@ Processed 2 URLs (US:2 + Intl:0), generated 2 PDFs, archived 0 low-score, pushed
 2026-06-10T121059Z	step1-L3	warn	L3 sweep: nearly all candidates already evaluated (saturated field after prior 08:24Z run); 1 net-new processable (Arco Educação AI Engineer I, Intl)	fix:dedup against applications.md + scan-history; evaluated the 1 new	outcome:resolved
 2026-06-10T121239Z	step2-pdf	warn	Playwright chromium-headless-shell not installed (fresh container)	fix:Playbook#6 npx playwright install chromium, retried generate-pdf	outcome:resolved
 Processed 7 URLs (US:2 + Intl:5), generated 3 PDFs, archived 4 low-score, pushed c75e12d.
+2026-06-10T160250Z	setup	warn	git pull --ff-only failed (origin force-updated, diverged)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-10T160250Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install	outcome:resolved
+2026-06-10T160250Z	step1-scan-us	warn	scan API HTTP 404 for Tinybird, Travelperk, Forto	fix:none (transient/stale ATS slug; scanner skipped and continued)	outcome:skipped
+2026-06-10T160250Z	step1c-L3	warn	Imnoo recruitee JD HTTP 404 (dead posting)	fix:classified skipped_expired per scan.md 7.5; not added to pipeline	outcome:skipped
