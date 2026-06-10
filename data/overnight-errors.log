@@ -1456,3 +1456,9 @@ Processed 2 URLs (US:2 + Intl:0), generated 2 PDFs, archived 0 low-score, pushed
 2026-06-10T080240Z	step2-pipeline	warn	SmartAsset role is Senior ML Engineer (title_filter excludes Senior)	fix:scan-history status=filtered; not piped	outcome:skipped
 2026-06-10T080240Z	step2-pipeline	warn	Domyn/LanguageWire/QuantumLoopAI Workable SPA returned OG metadata only	fix:Playbook#3 aggregator corroboration via WebSearch	outcome:resolved
 2026-06-10T080240Z	step5-push	warn	git push rejected (non-fast-forward; concurrent overnight run pushed first, took #1285/#1286 + #1287-discard)	fix:Playbook#2 reset --hard origin/main; renumbered all 5 kept reports to 1288-1292 (true max consumed=1287); re-applied artifacts only (no dup roles)	outcome:resolved
+2026-06-10T120425Z\tstep1-scan\twarn\tscan.mjs ERR_MODULE_NOT_FOUND js-yaml (fresh container, deps not installed)\tfix:npm install (Playbook#8)\toutcome:resolved
+2026-06-10T120453Z	step1-scan	warn	3 portals HTTP 404 (Tinybird/Travelperk/Forto, ATS moved/closed)	fix:scan.mjs skipped them, recorded in scan-history	outcome:skipped
+2026-06-10T120453Z	step1-scan	warn	US+Intl Level1/2 scan 0 net-new (prior 08:24Z run consumed today 48h window)	fix:proceed to Level3 WebSearch	outcome:resolved
+2026-06-10T121059Z	step1-L3	warn	Urrly AI Automation Engineer (breezy) closed; General Robotics FDE-AI + DaCodes himalayas slugs expired/dead	fix:Playbook#3 corroboration (greenhouse/startup.jobs/remotive); marked dead in scan-history, not piped	outcome:resolved
+2026-06-10T121059Z	step1-L3	warn	L3 sweep: nearly all candidates already evaluated (saturated field after prior 08:24Z run); 1 net-new processable (Arco Educação AI Engineer I, Intl)	fix:dedup against applications.md + scan-history; evaluated the 1 new	outcome:resolved
+2026-06-10T121239Z	step2-pdf	warn	Playwright chromium-headless-shell not installed (fresh container)	fix:Playbook#6 npx playwright install chromium, retried generate-pdf	outcome:resolved

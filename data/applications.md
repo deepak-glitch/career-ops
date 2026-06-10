@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1293 | 2026-06-10 | Arco Educação | AI Engineer I | 3.3/5 | Evaluated | ✅ | [1293](reports/1293-arco-educacao-ai-engineer-i-2026-06-10.md) | [Intl] Brazil remote (Portuguese workplace); junior band, comp undisclosed; strong 1:1 LLM/vector-DB/multi-agent/LLM-as-a-judge fit; F-1 OPT residency hard blocker; verified on company Greenhouse board |
 | 1288 | 2026-06-10 | Dataiku | Generative AI Engineer | 3.6/5 | Evaluated | ✅ | [1288](reports/1288-dataiku-genai-2026-06-10.md) | [US] NYC/Remote ET; $160-240K; agentic+RAG+MCP+evals strong match |
 | 1289 | 2026-06-10 | Chipply | AI Engineer | 3.1/5 | Evaluated | ✅ | [1289](reports/1289-chipply-ai-engineer-2026-06-10.md) | [US] Remote US; Senior 5-8yr (exp gap); agents+MCP+integration match |
 | 1290 | 2026-06-10 | Domyn | AI Engineer | 3.4/5 | Evaluated | ✅ | [1290](reports/1290-domyn-ai-engineer-2026-06-10.md) | [Intl] Madrid; regulated/sovereign AI strong domain match; EU auth flag |

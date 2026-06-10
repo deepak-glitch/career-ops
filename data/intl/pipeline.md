@@ -16,6 +16,7 @@
 ## Processed
 
 ### 2026-06-10
+- [x] #1293 | https://job-boards.greenhouse.io/arcoeducacao/jobs/5790868004 | Arco Educação | AI Engineer I | Remote — Brazil (Portuguese workplace) | 3.3/5 | PDF ✅
 - [x] #1290 | https://apply.workable.com/domyn/j/86B4CB7258 | Domyn | AI Engineer | Madrid, Spain — On-site/Hybrid | 3.4/5 | PDF ✅
 - [x] #1291 | https://apply.workable.com/languagewire/j/B1A2866701/ | LanguageWire | Machine Learning Engineer (LLM) | Remote — Spain | 3.5/5 | PDF ✅
 - [x] #1292 | https://apply.workable.com/quantumloopai/j/B7F8DA3F6C/ | QuantumLoopAI | AI/ML & Prompt Engineer (LLM, RAG & Voice) | London — On-site / India — Remote (UK hours) | 3.2/5 | PDF ✅
