@@ -9,6 +9,8 @@
 ## Processed
 
 ### 2026-06-10
+- [x] #1295 | https://www.workatastartup.com/jobs/93096 | Firecrawl | Forward Deployed Engineer (Integrations) | SF Hybrid OR Remote Americas (UTC-3..-10) | 3.8/5 | PDF ✅
+- [x] #1294 | https://job-boards.greenhouse.io/nearform/jobs/7619114003 | Nearform | Forward Deployed Engineer | Remote — US (East Coast pref) + Travel | 3.2/5 | PDF ✅
 - [x] #1288 | https://job-boards.greenhouse.io/dataiku/jobs/6002762004 | Dataiku | Generative AI Engineer | New York, NY / Remote — ET | 3.6/5 | PDF ✅
 - [x] #1289 | https://himalayas.app/companies/chipply/jobs/ai-engineer | Chipply | AI Engineer | Remote — US | 3.1/5 | PDF ✅
 - [x] #1285 | https://www.ycombinator.com/companies/maywood/jobs/DV7GBKh-applied-ai-engineer | Maywood | Applied AI Engineer | New York, NY — On-site | 3.7/5 | PDF ✅

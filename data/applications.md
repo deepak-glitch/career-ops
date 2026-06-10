@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1294 | 2026-06-10 | Nearform | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [1294](reports/1294-nearform-forward-deployed-engineer-2026-06-10.md) | [US] FDE consulting, Remote US + travel, $145-180K + bonus — 8-yr exp floor + "no sponsorship" both drag |
 | 1293 | 2026-06-10 | Arco Educação | AI Engineer I | 3.3/5 | Evaluated | ✅ | [1293](reports/1293-arco-educacao-ai-engineer-i-2026-06-10.md) | [Intl] Brazil remote (Portuguese workplace); junior band, comp undisclosed; strong 1:1 LLM/vector-DB/multi-agent/LLM-as-a-judge fit; F-1 OPT residency hard blocker; verified on company Greenhouse board |
 | 1288 | 2026-06-10 | Dataiku | Generative AI Engineer | 3.6/5 | Evaluated | ✅ | [1288](reports/1288-dataiku-genai-2026-06-10.md) | [US] NYC/Remote ET; $160-240K; agentic+RAG+MCP+evals strong match |
 | 1289 | 2026-06-10 | Chipply | AI Engineer | 3.1/5 | Evaluated | ✅ | [1289](reports/1289-chipply-ai-engineer-2026-06-10.md) | [US] Remote US; Senior 5-8yr (exp gap); agents+MCP+integration match |
@@ -430,7 +431,7 @@
 | 233 | 2026-04-28 | Tessera Labs | Forward-Deployed Engineer (Pre-Sales) | 4.0/5 | Evaluated | ✅ | [233](reports/233-tessera-labs-fde-presales-2026-04-28.md) | US Remote + 25-40% travel; 2+ yrs exact fit; H1B sponsorship history; $180-233K |
 | 223 | 2026-04-28 | Unison | AI Engineer (U.S. Remote) | 3.5/5 | Evaluated | ✅ | [223](reports/223-unison-ai-engineer-us-remote-2026-04-28.md) | US-remote Applied AI on Azure OpenAI/Llama; RAG + agentic + eval — strong archetype match; C# is ramp gap; Master’s preferred (Deepak meets) |
 | 214 | 2026-04-27 | Supabase | AI Tooling Engineer | 3.1/5 | Evaluated | ✅ | [214](reports/214-supabase-ai-tooling-2026-04-27.md) | Fully remote OSS dev-tools; JS/TS-first AI tooling (MCP server + dashboard AI assistant); adjacent fit |
-| 215 | 2026-04-27 | Firecrawl | Forward Deployed Engineer (Integrations) | 3.5/5 | Evaluated | ✅ | [215](reports/215-firecrawl-fde-integrations-2026-04-27.md) | YC FDE; SF or Remote-Americas; $160K-$220K; web extraction + customer integration |
+| 215 | 2026-06-10 | Firecrawl | Forward Deployed Engineer (Integrations) | 3.8/5 | Evaluated | ✅ | [1295](reports/1295-firecrawl-forward-deployed-engineer-integrations-2026-06-10.md) | Re-eval 2026-06-10 (3.5→3.8). [US] YC dev-tools, $160-220K + 0.10% equity, SF Hybrid OR Remote Americas — TS/Node primary + customer-facing |
 | 216 | 2026-04-27 | Ascertain | Forward Deployed Engineer - Remote | 4.1/5 | Evaluated | ✅ | [216](reports/216-ascertain-fde-remote-2026-04-27.md) | Healthcare AI agents; remote-US; $130K-$175K; strong archetype fit (RAG + agentic + healthcare) |
 | 218 | 2026-04-27 | DeepIntent | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [218](reports/218-deepintent-applied-ai-2026-04-27.md) | NYC/ET; $110K-$150K; OpenAI/Claude/MCP/Python; embedded with commercial-ops; strong fit |
 | 219 | 2026-04-27 | Phonely | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [219](reports/219-phonely-fde-2026-04-27.md) | YC + Series A voice AI; SF on-site (relocation OK); $130K-$190K + 0.2-0.45% equity; voice-AI gap mitigable |
