@@ -1462,3 +1462,4 @@ Processed 2 URLs (US:2 + Intl:0), generated 2 PDFs, archived 0 low-score, pushed
 2026-06-10T121059Z	step1-L3	warn	Urrly AI Automation Engineer (breezy) closed; General Robotics FDE-AI + DaCodes himalayas slugs expired/dead	fix:Playbook#3 corroboration (greenhouse/startup.jobs/remotive); marked dead in scan-history, not piped	outcome:resolved
 2026-06-10T121059Z	step1-L3	warn	L3 sweep: nearly all candidates already evaluated (saturated field after prior 08:24Z run); 1 net-new processable (Arco Educação AI Engineer I, Intl)	fix:dedup against applications.md + scan-history; evaluated the 1 new	outcome:resolved
 2026-06-10T121239Z	step2-pdf	warn	Playwright chromium-headless-shell not installed (fresh container)	fix:Playbook#6 npx playwright install chromium, retried generate-pdf	outcome:resolved
+Processed 7 URLs (US:2 + Intl:5), generated 3 PDFs, archived 4 low-score, pushed c75e12d.
