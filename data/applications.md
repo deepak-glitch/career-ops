@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1288 | 2026-06-10 | Dataiku | Generative AI Engineer | 3.6/5 | Evaluated | ✅ | [1288](reports/1288-dataiku-genai-2026-06-10.md) | [US] NYC/Remote ET; $160-240K; agentic+RAG+MCP+evals strong match |
+| 1289 | 2026-06-10 | Chipply | AI Engineer | 3.1/5 | Evaluated | ✅ | [1289](reports/1289-chipply-ai-engineer-2026-06-10.md) | [US] Remote US; Senior 5-8yr (exp gap); agents+MCP+integration match |
+| 1290 | 2026-06-10 | Domyn | AI Engineer | 3.4/5 | Evaluated | ✅ | [1290](reports/1290-domyn-ai-engineer-2026-06-10.md) | [Intl] Madrid; regulated/sovereign AI strong domain match; EU auth flag |
+| 1291 | 2026-06-10 | LanguageWire | Machine Learning Engineer (LLM) | 3.5/5 | Evaluated | ✅ | [1291](reports/1291-languagewire-mle-llm-2026-06-10.md) | [Intl] Remote Spain; context-eng/RAG/evals match; distinct from #1116 |
+| 1292 | 2026-06-10 | QuantumLoopAI | AI/ML & Prompt Engineer (LLM, RAG & Voice Agent) | 3.2/5 | Evaluated | ✅ | [1292](reports/1292-quantumloopai-aiml-prompt-2026-06-10.md) | [Intl] London/India-remote; healthcare RAG+voice match; auth flag |
 | 1285 | 2026-06-10 | Maywood | Applied AI Engineer | 3.7/5 | Evaluated | ✅ | [1285](reports/1285-maywood-applied-ai-2026-06-10.md) | [US] NYC on-site; YC-backed AI for software delivery; LLM+agents embedded in CI/CD + dev tooling; comp $150-250K; new grads OK; F-1 OPT eligible per US visa-friendly posting |
 | 1286 | 2026-06-10 | Adaptional | Founding Engineer | 3.3/5 | Evaluated | ✅ | [1286](reports/1286-adaptional-founding-engineer-2026-06-10.md) | [US] SF Presidio on-site; YC-stage agentic AI for insurance with regulated/compliance focus; comp $180-280K + 1-2% equity; founding role (1+ yr OK); claude-code preferred; F-1 OPT eligible per US visa-friendly posting |
 | 1282 | 2026-06-10 | Kepler | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1282](reports/1282-kepler-fde-2026-06-10.md) | [US] Ex-Palantir finance-AI "agent harness" (provenance+deterministic compute+verification); NYC on-site; $200-280K+equity; strong agentic/RAG/eval fit; F-1 OPT, relo ok |

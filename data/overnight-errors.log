@@ -1448,3 +1448,11 @@ Processed 12 URLs (US:10 + Intl:3 minus closed nPlan), generated 6 PDFs, archive
 2026-06-10T040200Z	pdf	warn	Playwright chromium not installed	fix:npx playwright install chromium	outcome:resolved
 2026-06-10T040200Z	merge	warn	3 dup company+role evals (Baseten#156,Profound#994,DeepLearning.AI#1099)	fix:removed dup reports/PDFs/pipeline rows/tracker row 1283/1285/1286	outcome:resolved
 Processed 2 URLs (US:2 + Intl:0), generated 2 PDFs, archived 0 low-score, pushed c8722dd.
+2026-06-10T080240Z	setup	warn	git pull --ff-only failed (origin diverged, forced update)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-10T080240Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps missing)	fix:npm install	outcome:resolved
+2026-06-10T080240Z	step1-scan	warn	Tinybird/Travelperk/Forto API HTTP 404 (stale board endpoints)	fix:skip companies, scan continues	outcome:skipped
+2026-06-10T080240Z	pdf	warn	Playwright chromium not installed	fix:npx playwright install chromium	outcome:resolved
+2026-06-10T080240Z	step2-pipeline	warn	TEGNA GenAI greenhouse JD 302->tegna.com careers (posting closed)	fix:scan-history status=dead; [!] retry row (swept by cleanup-bang-rows)	outcome:skipped
+2026-06-10T080240Z	step2-pipeline	warn	SmartAsset role is Senior ML Engineer (title_filter excludes Senior)	fix:scan-history status=filtered; not piped	outcome:skipped
+2026-06-10T080240Z	step2-pipeline	warn	Domyn/LanguageWire/QuantumLoopAI Workable SPA returned OG metadata only	fix:Playbook#3 aggregator corroboration via WebSearch	outcome:resolved
+2026-06-10T080240Z	step5-push	warn	git push rejected (non-fast-forward; concurrent overnight run pushed first, took #1285/#1286 + #1287-discard)	fix:Playbook#2 reset --hard origin/main; renumbered all 5 kept reports to 1288-1292 (true max consumed=1287); re-applied artifacts only (no dup roles)	outcome:resolved

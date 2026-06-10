@@ -9,6 +9,8 @@
 ## Processed
 
 ### 2026-06-10
+- [x] #1288 | https://job-boards.greenhouse.io/dataiku/jobs/6002762004 | Dataiku | Generative AI Engineer | New York, NY / Remote — ET | 3.6/5 | PDF ✅
+- [x] #1289 | https://himalayas.app/companies/chipply/jobs/ai-engineer | Chipply | AI Engineer | Remote — US | 3.1/5 | PDF ✅
 - [x] #1285 | https://www.ycombinator.com/companies/maywood/jobs/DV7GBKh-applied-ai-engineer | Maywood | Applied AI Engineer | New York, NY — On-site | 3.7/5 | PDF ✅
 - [x] #1286 | https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer | Adaptional | Founding Engineer | San Francisco, CA — On-site (Presidio) | 3.3/5 | PDF ✅
 - [x] #1282 | https://jobs.ashbyhq.com/kepler-ai/00a20d87-4fe6-4c05-bfe6-9add47e84c6e | Kepler | Forward Deployed Engineer | New York City — On-site | 3.5/5 | PDF ✅
