@@ -6,10 +6,14 @@
      creates it at the end of Pending. -->
 
 ## Pending
-
 ## Processed
 
 ### 2026-06-10
+- [x] #1271 | https://www.ycombinator.com/companies/giga/jobs/rPfszb6-forward-deployed-engineer | GigaML | Forward Deployed Engineer | San Francisco, CA — On-site 100% | 3.3/5 | PDF ✅
+- [x] #1272 | https://www.ycombinator.com/companies/assemblyai/jobs/m0Ng8am-forward-deployed-engineer | AssemblyAI | Forward Deployed Engineer | Remote — US (US citizen/visa only) | 3.2/5 | PDF ✅
+- [x] #1275 | https://www.ycombinator.com/companies/luminai/jobs/9s487sF-forward-deployed-engineer | Luminai | Forward Deployed Engineer | San Mateo, CA — Hybrid 3d/wk (Mon/Tue/Thu) | 3.4/5 | PDF ✅
+- [x] #1277 | https://job-boards.greenhouse.io/assemblyai/jobs/4693817005 | AssemblyAI | Forward Deployed Engineer, Onboarding | Remote — New York | 3.5/5 | PDF ✅
+- [x] #1278 | https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer — Full Stack AI | Remote — US | 3.1/5 | PDF ✅
 
 ### 2026-06-09
 - [x] #1263 | https://job-boards.greenhouse.io/stratacareers/jobs/7452181003 | Strata Decision | Applied Machine Learning Engineer | Chicago, IL — Hybrid 2d/wk (relocate <40mi) | 3.5/5 | PDF ✅

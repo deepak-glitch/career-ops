@@ -13,8 +13,10 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-
 ## Processed
+
+### 2026-06-10
+- [x] #1281 | https://job-boards.eu.greenhouse.io/polyai/jobs/4855037101 | PolyAI | Forward Deployed AI Engineer | Toronto, Canada — Hybrid | 3.0/5 | PDF ✅
 
 ### 2026-06-09
 - [x] #1266 | https://clearroute.teamtailor.com/jobs/7843899-ai-engineer | ClearRoute | AI Engineer | London/Manchester, UK — Hybrid 2d/wk | 3.3/5 | PDF ✅
