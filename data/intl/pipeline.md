@@ -13,9 +13,14 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
+
+### 2026-06-10
+
+
 ## Processed
 
 ### 2026-06-10
+- [x] #1307 | https://himalayas.app/companies/ema/jobs/ai-implementation-engineer | Ema | AI Implementation Engineer | United Kingdom - Remote | 3.3/5 | PDF ✅
 - [x] #1300 | https://apply.workable.com/huzzle/j/26ECD081DE | Huzzle | AI Automation Engineer | Fully Remote / intl teams (Huzzle UK intermediary) — Contractor | 3.0/5 | PDF ✅
 - [x] #1299 | https://jobs.ashbyhq.com/happyrobot.ai/1381c729-5d21-4345-94b8-08ba4a37063a | HappyRobot | Founding Forward Deployed Engineer (France) | France — On-site/Hybrid | 3.1/5 | PDF ✅
 - [x] #1293 | https://job-boards.greenhouse.io/arcoeducacao/jobs/5790868004 | Arco Educação | AI Engineer I | Remote — Brazil (Portuguese workplace) | 3.3/5 | PDF ✅

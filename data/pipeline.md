@@ -10,6 +10,8 @@
 ## Processed
 
 ### 2026-06-10
+- [x] #1302 | https://apply.workable.com/jobgether/j/0C895CA0C5 | Jobgether | Forward Deployed AI Engineer | Remote - US | 3.2/5 | PDF ✅
+- [x] #1303 | https://apply.workable.com/crewai/j/96051E9EDE | CrewAI | Forward Deployed Engineer | location TBD | 3.2/5 | PDF ✅
 - [x] #1295 | https://www.workatastartup.com/jobs/93096 | Firecrawl | Forward Deployed Engineer (Integrations) | SF Hybrid OR Remote Americas (UTC-3..-10) | 3.8/5 | PDF ✅
 - [x] #1294 | https://job-boards.greenhouse.io/nearform/jobs/7619114003 | Nearform | Forward Deployed Engineer | Remote — US (East Coast pref) + Travel | 3.2/5 | PDF ✅
 - [x] #1288 | https://job-boards.greenhouse.io/dataiku/jobs/6002762004 | Dataiku | Generative AI Engineer | New York, NY / Remote — ET | 3.6/5 | PDF ✅
