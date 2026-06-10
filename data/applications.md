@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1300 | 2026-06-10 | Huzzle | AI Automation Engineer | 3.0/5 | Evaluated | ✅ | [1300](reports/1300-huzzle-ai-automation-engineer-2026-06-10.md) | [Intl] Strong LLM-automation stack fit; contractor via staffing intermediary, no comp, F-1 OPT risk — verify engagement before applying |
 | 1294 | 2026-06-10 | Nearform | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [1294](reports/1294-nearform-forward-deployed-engineer-2026-06-10.md) | [US] FDE consulting, Remote US + travel, $145-180K + bonus — 8-yr exp floor + "no sponsorship" both drag |
 | 1293 | 2026-06-10 | Arco Educação | AI Engineer I | 3.3/5 | Evaluated | ✅ | [1293](reports/1293-arco-educacao-ai-engineer-i-2026-06-10.md) | [Intl] Brazil remote (Portuguese workplace); junior band, comp undisclosed; strong 1:1 LLM/vector-DB/multi-agent/LLM-as-a-judge fit; F-1 OPT residency hard blocker; verified on company Greenhouse board |
 | 1288 | 2026-06-10 | Dataiku | Generative AI Engineer | 3.6/5 | Evaluated | ✅ | [1288](reports/1288-dataiku-genai-2026-06-10.md) | [US] NYC/Remote ET; $160-240K; agentic+RAG+MCP+evals strong match |

@@ -1470,3 +1470,7 @@ Processed 7 URLs (US:2 + Intl:5), generated 3 PDFs, archived 4 low-score, pushed
 Processed 1 URLs (US:1 + Intl:0), generated 0 PDFs, archived 1 low-score, pushed 5f176ef.
 
 The lone US scan hit (Aledade Practice Transformation Specialist) was a title-filter slip on the word "Transformation" — it's a healthcare practice-management role requiring 4–6 yrs EHR/practice-mgmt experience at $60–90k, completely off-archetype. Scored 1.4/5 and was deleted by `cleanup-low-scores.mjs`. Intl scan returned 0 new offers. Level 3 WebSearch surfaced ~20 candidates but all were already in scan-history (processed, dead, or filtered). Filter-hardening recommendation logged in the report's Block H before deletion. Pipeline verified 0 errors / 0 warnings.
+2026-06-10T200143Z	setup-step3	warn	git pull --ff-only failed (origin force-updated, diverging)	fix:git fetch + git reset --hard origin/main (no local commits)	outcome:resolved
+2026-06-10T200143Z	step1-scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-10T200143Z	step1-scan-us	warn	3 portals HTTP 404 (Tinybird, Travelperk, Forto)	fix:none - dead/changed ATS endpoints, scanner skipped them	outcome:skipped
+2026-06-10T200143Z	step2-pdf-1300	warn	generate-pdf.mjs failed: Playwright Chromium not installed	fix:npx playwright install chromium then retry	outcome:resolved
