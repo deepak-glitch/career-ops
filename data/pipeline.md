@@ -9,6 +9,8 @@
 
 ## Processed
 
+### 2026-06-10
+
 ### 2026-06-09
 - [x] #1263 | https://job-boards.greenhouse.io/stratacareers/jobs/7452181003 | Strata Decision | Applied Machine Learning Engineer | Chicago, IL — Hybrid 2d/wk (relocate <40mi) | 3.5/5 | PDF ✅
 - [x] #1264 | https://apply.workable.com/teserac-inc/j/9E22CF096F/ | Teserac | AI Engineer | Not specified (US-based, verify) | 3.2/5 | PDF ✅

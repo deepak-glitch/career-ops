@@ -1436,3 +1436,7 @@ L1/L2 API scans returned 0 net-new across both tracks; L3 WebSearch sweep surfac
 Processed 2 URLs (US:2 + Intl:0), generated 2 PDFs, archived 0 low-score, pushed a48e7f3.
 
 Both tracks' Level 1/2 API scans returned 0 net-new (already saturated by prior overnight runs today). Level 3 WebSearch sweeps across Workatastartup/Himalayas/BreezyHR/TeamTailor/Lever/Ashby/Greenhouse/Workable were >95% deduped against existing scan-history (916 US + 118 Intl entries). After dedup, two genuine net-new YC URLs surfaced — both routed US: **Simbie AI** (FDE, NYC on-site, healthcare voice/text agents — 3.8/5) and **Cedana** (FDE AI+HPC, Remote US — 3.0/5, do-not-apply per ethical use, kept on file). No new Intl candidates. Pipeline verify clean (0/0).
+2026-06-10T000226Z	setup	warn	git pull --ff-only failed (origin/main force-updated, diverged)	fix:git fetch + git reset --hard origin/main (clean tree, no local commits)	outcome:resolved
+2026-06-10T000226Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-10T000226Z	scan-us	warn	3 portal API HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skips unreachable portals, retry next run	outcome:skipped
+2026-06-10T000226Z	scan-intl	warn	3 portal API HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skips unreachable portals, retry next run	outcome:skipped
