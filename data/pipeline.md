@@ -9,6 +9,8 @@
 ## Processed
 
 ### 2026-06-10
+- [x] #1285 | https://www.ycombinator.com/companies/maywood/jobs/DV7GBKh-applied-ai-engineer | Maywood | Applied AI Engineer | New York, NY — On-site | 3.7/5 | PDF ✅
+- [x] #1286 | https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer | Adaptional | Founding Engineer | San Francisco, CA — On-site (Presidio) | 3.3/5 | PDF ✅
 - [x] #1282 | https://jobs.ashbyhq.com/kepler-ai/00a20d87-4fe6-4c05-bfe6-9add47e84c6e | Kepler | Forward Deployed Engineer | New York City — On-site | 3.5/5 | PDF ✅
 - [x] #1284 | https://jobs.ashbyhq.com/webai/9cb245f4-2c27-4262-9067-ae3aae26a404 | webAI | Forward Deployed AI Engineer | Austin, TX — On-site +25% travel | 3.2/5 | PDF ✅
 - [x] #1271 | https://www.ycombinator.com/companies/giga/jobs/rPfszb6-forward-deployed-engineer | GigaML | Forward Deployed Engineer | San Francisco, CA — On-site 100% | 3.3/5 | PDF ✅
