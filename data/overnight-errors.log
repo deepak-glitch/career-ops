@@ -1447,3 +1447,4 @@ Processed 12 URLs (US:10 + Intl:3 minus closed nPlan), generated 6 PDFs, archive
 2026-06-10T040200Z	scan-intl	warn	3 company endpoints HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skipped them, continue	outcome:skipped
 2026-06-10T040200Z	pdf	warn	Playwright chromium not installed	fix:npx playwright install chromium	outcome:resolved
 2026-06-10T040200Z	merge	warn	3 dup company+role evals (Baseten#156,Profound#994,DeepLearning.AI#1099)	fix:removed dup reports/PDFs/pipeline rows/tracker row 1283/1285/1286	outcome:resolved
+Processed 2 URLs (US:2 + Intl:0), generated 2 PDFs, archived 0 low-score, pushed c8722dd.
