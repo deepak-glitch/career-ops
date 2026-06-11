@@ -2,8 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 1302 | 2026-06-10 | Jobgether | Forward Deployed AI Engineer | 3.2/5 | Evaluated | ✅ | [1302](reports/1302-jobgether-fde-ai-2026-06-10.md) | [US] Remote-US recruiter intermediary; fraud/compliance AI for global FIs; comp undisclosed; partner identity unknown — verify before final stages; archetype fit OK (FDE + agents + safeguards) |
-| 1307 | 2026-06-10 | Ema | AI Implementation Engineer | 3.3/5 | Evaluated | ✅ | [1307](reports/1307-ema-ai-implementation-engineer-2026-06-10.md) | [Intl] UK Remote (UK-based only); agentic AI enterprise platform; 5-8 yrs band (Deepak 4+ — 1yr gap); Python+Go (Go missing); UK relocation + visa needed (F-1 OPT US-based); deadline 2026-07-11 |
+| 1308 | 2026-06-11 | Titan AI | Applied AI Engineer | 4.3/5 | Evaluated | ✅ | [1304](reports/1304-titan-ai-2026-06-11.md) | [US] Applied AI + agentic + RAG; US Remote; $200-300K + equity |
+| 1311 | 2026-06-11 | ioet | AI Engineer | 3.1/5 | Evaluated | ✅ | [1309](reports/1309-ioet-2026-06-11.md) | [Intl] LatAm residency required — hard veto; do not apply |
+| 1312 | 2026-06-11 | Databricks | AI Engineer FDE | 4.0/5 | Evaluated | ✅ | [1310](reports/1310-databricks-2026-06-11.md) | [Intl] UK Remote; strong brand + tech fit; visa friction |
 | 1300 | 2026-06-10 | Huzzle | AI Automation Engineer | 3.0/5 | Evaluated | ✅ | [1300](reports/1300-huzzle-ai-automation-engineer-2026-06-10.md) | [Intl] Strong LLM-automation stack fit; contractor via staffing intermediary, no comp, F-1 OPT risk — verify engagement before applying |
 | 1294 | 2026-06-10 | Nearform | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [1294](reports/1294-nearform-forward-deployed-engineer-2026-06-10.md) | [US] FDE consulting, Remote US + travel, $145-180K + bonus — 8-yr exp floor + "no sponsorship" both drag |
 | 1293 | 2026-06-10 | Arco Educação | AI Engineer I | 3.3/5 | Evaluated | ✅ | [1293](reports/1293-arco-educacao-ai-engineer-i-2026-06-10.md) | [Intl] Brazil remote (Portuguese workplace); junior band, comp undisclosed; strong 1:1 LLM/vector-DB/multi-agent/LLM-as-a-judge fit; F-1 OPT residency hard blocker; verified on company Greenhouse board |

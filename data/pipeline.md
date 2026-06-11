@@ -7,7 +7,16 @@
 
 ## Pending
 
+### 2026-06-11
+
+- [!] https://jobs.lever.co/jobgether/9507ab3b-d7ae-4f1b-81de-6b3517c8a463 | error: HTTP 403 from Lever
+- [!] https://jobs.lever.co/jobgether/d9eced50-0955-4b02-838c-86bd06a40093 | error: HTTP 403 from Lever
+- [!] https://jobs.lever.co/jobgether/9067e72b-77e4-4e4d-956b-8f192ebb03bf | error: HTTP 403 from Lever
+
 ## Processed
+
+### 2026-06-11
+- [x] #1304 | https://jobs.ashbyhq.com/titan-ai/297cf9a9-289d-4cd5-a4a1-1e051f6f5d64 | Titan AI | Applied AI Engineer | United States Remote | 4.3/5 | PDF ✅
 
 ### 2026-06-10
 - [x] #1302 | https://apply.workable.com/jobgether/j/0C895CA0C5 | Jobgether | Forward Deployed AI Engineer | Remote - US | 3.2/5 | PDF ✅

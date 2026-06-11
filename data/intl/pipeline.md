@@ -15,6 +15,10 @@
 ## Pending
 ## Processed
 
+### 2026-06-11
+- [x] #1309 | https://ioet.na.teamtailor.com/jobs/607618-ai-engineer | ioet | AI Engineer | LatAm Remote (residency required) | 3.1/5 | PDF ✅
+- [x] #1310 | https://himalayas.app/companies/databricks/jobs/ai-engineer-fde-forward-deployed-engineer-9285177889 | Databricks | AI Engineer FDE | United Kingdom Remote | 4.0/5 | PDF ✅
+
 ### 2026-06-10
 - [x] #1307 | https://himalayas.app/companies/ema/jobs/ai-implementation-engineer | Ema | AI Implementation Engineer | United Kingdom - Remote | 3.3/5 | PDF ✅
 - [x] #1300 | https://apply.workable.com/huzzle/j/26ECD081DE | Huzzle | AI Automation Engineer | Fully Remote / intl teams (Huzzle UK intermediary) — Contractor | 3.0/5 | PDF ✅
