@@ -1533,3 +1533,14 @@ Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed
 2026-06-11T120214Z	step1-L3	warn	Cerebras Applied ML New Grad expired (removed Jan 2025)	fix:logged scan-history status=dead, not added to pipeline	outcome:resolved
 2026-06-11T120214Z	step2-pdf	warn	Playwright Chromium executable missing	fix:npx playwright install chromium-headless-shell	outcome:resolved
 Processed 1 URL (US:0 + Intl:1), generated 0 PDFs, deleted 1 low-score (Isomorphic Labs ML Research Engineer, London — 2.6/5, below 3.0 threshold), pushed b64b463.
+2026-06-11T160347Z	setup	warn	git pull --ff-only failed (diverged: local behind origin)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-11T160347Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-11T160347Z	step1-scan-US	warn	portal Tinybird HTTP 404 (stale endpoint)	fix:none (transient/stale upstream, retries next run)	outcome:skipped
+2026-06-11T160347Z	step1-scan-US	warn	portal Travelperk HTTP 404 (stale endpoint)	fix:none (transient/stale upstream, retries next run)	outcome:skipped
+2026-06-11T160347Z	step1-scan-US	warn	portal Forto HTTP 404 (stale endpoint)	fix:none (transient/stale upstream, retries next run)	outcome:skipped
+2026-06-11T160347Z	step1-scan-Intl	warn	portal Tinybird fetch error	fix:none (transient/stale upstream, retries next run)	outcome:skipped
+2026-06-11T160347Z	step1-scan-Intl	warn	portal Travelperk fetch error	fix:none (transient/stale upstream, retries next run)	outcome:skipped
+2026-06-11T160347Z	step1-scan-Intl	warn	portal Forto fetch error	fix:none (transient/stale upstream, retries next run)	outcome:skipped
+2026-06-11T160347Z	step1-scan-Intl	warn	portal Unstructured fetch error	fix:none (transient/stale upstream, retries next run)	outcome:skipped
+2026-06-11T160347Z	step1-L3	warn	UP.Labs LATAM ML role expired (removed 2026-05-28)	fix:marked dead in intl scan-history, not added to pipeline	outcome:skipped
+2026-06-11T160347Z	step1-L3	warn	Docplanner Associate ML JD unverifiable (himalayas delisted + SmartRecruiters API 0 postings)	fix:fallbacks exhausted (WebFetch+GraphQL+aggregator); marked dead, not evaluated per Offer-Verification mandate	outcome:skipped
