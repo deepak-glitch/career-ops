@@ -3,7 +3,7 @@
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
 | 1308 | 2026-06-11 | Titan AI | Applied AI Engineer | 4.3/5 | Evaluated | ✅ | [1304](reports/1304-titan-ai-2026-06-11.md) | [US] Applied AI + agentic + RAG; US Remote; $200-300K + equity |
-| 1311 | 2026-06-11 | ioet | AI Engineer | 3.1/5 | Evaluated | ✅ | [1309](reports/1309-ioet-2026-06-11.md) | [Intl] LatAm residency required — hard veto; do not apply |
+| 1311 | 2026-06-11 | GE Aerospace | Software Engineer AI/ML | 3.5/5 | Evaluated | ✅ | [1311](reports/1311-ge-aerospace-2026-06-11.md) | Re-eval 2026-06-11 (3.1→3.5). [US] Strong applied-ML match (forecasting/anomaly/MLOps); risk: F-1 OPT vs export-control/US-person at aerospace mfr |
 | 1312 | 2026-06-11 | Databricks | AI Engineer FDE | 4.0/5 | Evaluated | ✅ | [1310](reports/1310-databricks-2026-06-11.md) | [Intl] UK Remote; strong brand + tech fit; visa friction |
 | 1300 | 2026-06-10 | Huzzle | AI Automation Engineer | 3.0/5 | Evaluated | ✅ | [1300](reports/1300-huzzle-ai-automation-engineer-2026-06-10.md) | [Intl] Strong LLM-automation stack fit; contractor via staffing intermediary, no comp, F-1 OPT risk — verify engagement before applying |
 | 1294 | 2026-06-10 | Nearform | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [1294](reports/1294-nearform-forward-deployed-engineer-2026-06-10.md) | [US] FDE consulting, Remote US + travel, $145-180K + bonus — 8-yr exp floor + "no sponsorship" both drag |

@@ -1524,3 +1524,11 @@ Verify-pipeline: 0 errors / 0 warnings. Branch: main (clean).
 Overnight routine completed. Both scans (US + Intl) returned 0 new offers (all 7,210 jobs were already in pipeline, filtered, or duplicates). Level 3 WebSearch surfaced only already-evaluated or auto-filtered (Senior/Staff/Lead) candidates. Pipeline phase had no fresh URLs to process — the 3 US `[!]` Lever rows persist as confirmed-dead 404s (kept by `cleanup-bang-rows` for manual review since the error text doesn't match its dead-pattern regex). Verifier: 0 errors / 0 warnings. No artifacts changed, working tree clean, nothing to commit.
 
 Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed (no-op — HEAD remains a9c0caf).
+2026-06-11T120214Z	setup	warn	git pull --ff-only failed (diverged/forced-update upstream)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-11T120214Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-11T120214Z	step1-scan	warn	scanner: Tinybird HTTP 404 (both tracks)	fix:skip company, retries next run	outcome:skipped
+2026-06-11T120214Z	step1-scan	warn	scanner: Travelperk HTTP 404 (both tracks)	fix:skip company, retries next run	outcome:skipped
+2026-06-11T120214Z	step1-scan	warn	scanner: Forto HTTP 404 (both tracks)	fix:skip company, retries next run	outcome:skipped
+2026-06-11T120214Z	step2-pipeline	warn	3x jobgether Lever URLs: 403 page + 404 Lever API (fallbacks exhausted)	fix:confirmed closed, kept as [!] retry rows	outcome:skipped
+2026-06-11T120214Z	step1-L3	warn	Cerebras Applied ML New Grad expired (removed Jan 2025)	fix:logged scan-history status=dead, not added to pipeline	outcome:resolved
+2026-06-11T120214Z	step2-pdf	warn	Playwright Chromium executable missing	fix:npx playwright install chromium-headless-shell	outcome:resolved
