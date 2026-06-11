@@ -1521,3 +1521,6 @@ Verify-pipeline: 0 errors / 0 warnings. Branch: main (clean).
 2026-06-11T040146Z	scan	warn	3 company API 404s (Tinybird/Travelperk/Forto) both tracks	fix:none — transient portal errors, skipped	outcome:skipped
 2026-06-11T040146Z	scan-L3	warn	Jobgether L3 URL f52431f2 extraction failed (Lever API: Document not found; WebFetch 403; aggregator repost)	fix:recorded in scan-history status=dead, not added to pipeline	outcome:resolved
 2026-06-11T040146Z	pipeline	warn	0 actionable pending after L1/2 + L3 scan (prior 03:14Z run swept today; remaining candidates already in history processed/dead/filtered)	fix:none — empty pipeline is not an error (Playbook #9)	outcome:resolved
+Overnight routine completed. Both scans (US + Intl) returned 0 new offers (all 7,210 jobs were already in pipeline, filtered, or duplicates). Level 3 WebSearch surfaced only already-evaluated or auto-filtered (Senior/Staff/Lead) candidates. Pipeline phase had no fresh URLs to process — the 3 US `[!]` Lever rows persist as confirmed-dead 404s (kept by `cleanup-bang-rows` for manual review since the error text doesn't match its dead-pattern regex). Verifier: 0 errors / 0 warnings. No artifacts changed, working tree clean, nothing to commit.
+
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed (no-op — HEAD remains a9c0caf).
