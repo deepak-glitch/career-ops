@@ -1516,3 +1516,8 @@ Processed 10 URLs (US:5 + Intl:5), generated 3 PDFs, archived 0 low-score, pushe
 **Dead URLs marked `- [!]` in Pendientes for retry next run:** 4 US (Cloudflare, 3× Jobgether/Lever 403), 3 Intl (ELSA 410, RealityMine + TradingView expired).
 
 Verify-pipeline: 0 errors / 0 warnings. Branch: main (clean).
+2026-06-11T040146Z	setup	warn	git pull --ff-only failed (diverged: local 2026-06-04 vs origin 2026-06-11)	fix:git fetch + git reset --hard origin/main (no local commits)	outcome:resolved
+2026-06-11T040146Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-11T040146Z	scan	warn	3 company API 404s (Tinybird/Travelperk/Forto) both tracks	fix:none — transient portal errors, skipped	outcome:skipped
+2026-06-11T040146Z	scan-L3	warn	Jobgether L3 URL f52431f2 extraction failed (Lever API: Document not found; WebFetch 403; aggregator repost)	fix:recorded in scan-history status=dead, not added to pipeline	outcome:resolved
+2026-06-11T040146Z	pipeline	warn	0 actionable pending after L1/2 + L3 scan (prior 03:14Z run swept today; remaining candidates already in history processed/dead/filtered)	fix:none — empty pipeline is not an error (Playbook #9)	outcome:resolved
