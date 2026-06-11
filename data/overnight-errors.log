@@ -1498,3 +1498,21 @@ Sources:
 2026-06-11T000247Z	step3-merge	warn	HF Open-Source ML Eng dedup-collides with existing #202 (HF Cloud ML Eng, same 3.8) via title normalization	fix:backed out #1309 report/PDF/pipeline-row/TSV; marked URL duplicate in scan-history; no dup tracker row created	outcome:resolved
 2026-06-11T000247Z	step3-verify	error	#1302 Jobgether FDE: tracker row references reports/1302-jobgether-fde-ai-2026-06-10.md which does not exist on disk or in git history (prior-run report never committed)	fix:remediation scripts N/A (missing-file); not recreating (would invent to match preset 3.2 score); preserving tracker row + notes	outcome:unresolved
 2026-06-11T000247Z	step3-verify	error	#1307 Ema AI Implementation Engineer: tracker row references reports/1307-ema-ai-implementation-engineer-2026-06-10.md which does not exist on disk or in git history (prior-run report never committed)	fix:same as #1302; preserving tracker row + notes (Intl/UK, deadline 2026-07-11)	outcome:unresolved
+Pushed to `origin/main` at `572773c`.
+
+Processed 10 URLs (US:5 + Intl:5), generated 3 PDFs, archived 0 low-score, pushed 572773c.
+
+**Per-track score summary:**
+
+| # | Track | Company | Role | Score | PDF | Notes |
+|---|-------|---------|------|------:|:---:|-------|
+| 1304 | US | Titan AI | Applied AI Engineer | 4.3 | ✅ | Top fit — agentic + RAG + banking, $200-300K + equity |
+| 1309 | Intl | ioet | AI Engineer | 3.1 | ✅ | LatAm residency required — hard veto, do not apply |
+| 1310 | Intl | Databricks | AI Engineer FDE | 4.0 | ✅ | UK Remote, brand + tech fit, visa friction |
+
+**Filtered out post-evaluation as duplicates of pre-existing tracker entries:**
+- WITHIN (existing #147 at 4.1/5), ClearRoute (existing #1266 at 3.3/5), OneStream (existing #820 at 4.4/5), Red Hat (existing #1307 at 3.3/5)
+
+**Dead URLs marked `- [!]` in Pendientes for retry next run:** 4 US (Cloudflare, 3× Jobgether/Lever 403), 3 Intl (ELSA 410, RealityMine + TradingView expired).
+
+Verify-pipeline: 0 errors / 0 warnings. Branch: main (clean).
