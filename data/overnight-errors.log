@@ -1485,3 +1485,16 @@ Sources:
 - [Uvation — AI/ML Engineer](https://himalayas.app/companies/uvation/jobs/ai-ml-engineer-2931175390)
 - [Sierra — Software Engineer, Agent (Dutch)](https://jobs.ashbyhq.com/sierra/ae8840cd-f46e-4c96-87b1-53fedf40f94d)
 - [Huzzle — AI & Automation Specialist](https://himalayas.app/companies/huzzle/jobs/ai-automation-specialist)
+2026-06-11T000247Z	setup-step3	warn	git pull --ff-only diverged	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-11T000247Z	step1-scan	warn	js-yaml module not found	fix:npm install	outcome:resolved
+2026-06-11T000247Z	step1-scan	warn	Tinybird API HTTP 404	fix:scanner skipped company, board likely moved/removed	outcome:skipped
+2026-06-11T000247Z	step1-scan	warn	Travelperk API HTTP 404	fix:scanner skipped company, board likely moved/removed	outcome:skipped
+2026-06-11T000247Z	step1-scan	warn	Forto API HTTP 404	fix:scanner skipped company, board likely moved/removed	outcome:skipped
+2026-06-11T000247Z	step1-L3	warn	Glean AI MLOps breezy posting closed	fix:dropped, not added to pipeline	outcome:skipped
+2026-06-11T000247Z	step1-L3	warn	Qualco MLOps workable HTTP 410 Gone	fix:dropped expired posting	outcome:skipped
+2026-06-11T000247Z	step1-L3	warn	Coolgradient MLOps recruitee HTTP 404	fix:dropped dead posting	outcome:skipped
+2026-06-11T000247Z	step1-L3	warn	Amgen ML Eng himalayas listing is actually Sr (senior) - title filter	fix:excluded per no-Senior rule	outcome:skipped
+2026-06-11T000247Z	step2-pdf	warn	Playwright chromium not installed	fix:npx playwright install chromium then retry	outcome:resolved
+2026-06-11T000247Z	step3-merge	warn	HF Open-Source ML Eng dedup-collides with existing #202 (HF Cloud ML Eng, same 3.8) via title normalization	fix:backed out #1309 report/PDF/pipeline-row/TSV; marked URL duplicate in scan-history; no dup tracker row created	outcome:resolved
+2026-06-11T000247Z	step3-verify	error	#1302 Jobgether FDE: tracker row references reports/1302-jobgether-fde-ai-2026-06-10.md which does not exist on disk or in git history (prior-run report never committed)	fix:remediation scripts N/A (missing-file); not recreating (would invent to match preset 3.2 score); preserving tracker row + notes	outcome:unresolved
+2026-06-11T000247Z	step3-verify	error	#1307 Ema AI Implementation Engineer: tracker row references reports/1307-ema-ai-implementation-engineer-2026-06-10.md which does not exist on disk or in git history (prior-run report never committed)	fix:same as #1302; preserving tracker row + notes (Intl/UK, deadline 2026-07-11)	outcome:unresolved
