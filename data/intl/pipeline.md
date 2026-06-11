@@ -19,6 +19,8 @@
 ### 2026-06-11
 - [x] #1309 | https://ioet.na.teamtailor.com/jobs/607618-ai-engineer | ioet | AI Engineer | LatAm Remote (residency required) | 3.1/5 | PDF ✅
 - [x] #1310 | https://himalayas.app/companies/databricks/jobs/ai-engineer-fde-forward-deployed-engineer-9285177889 | Databricks | AI Engineer FDE | United Kingdom Remote | 4.0/5 | PDF ✅
+- [x] #1316 | https://apply.workable.com/unitary/j/A01F1A4001 | Unitary | Machine Learning Engineer, Customer Solutions | United Kingdom — Remote | 3.8/5 | PDF ✅
+- [x] #1317 | https://jobs.ashbyhq.com/bjakcareer/e128c8a0-fb9c-47bf-be19-10dd58375ad4 | A1 (Bjak) | Applied AI Engineer | Seoul, Korea — Remote | 4.0/5 | PDF ✅
 
 ### 2026-06-10
 - [x] #1307 | https://himalayas.app/companies/ema/jobs/ai-implementation-engineer | Ema | AI Implementation Engineer | United Kingdom - Remote | 3.3/5 | PDF ✅

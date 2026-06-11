@@ -1545,3 +1545,9 @@ Processed 1 URL (US:0 + Intl:1), generated 0 PDFs, deleted 1 low-score (Isomorph
 2026-06-11T160347Z	step1-L3	warn	UP.Labs LATAM ML role expired (removed 2026-05-28)	fix:marked dead in intl scan-history, not added to pipeline	outcome:skipped
 2026-06-11T160347Z	step1-L3	warn	Docplanner Associate ML JD unverifiable (himalayas delisted + SmartRecruiters API 0 postings)	fix:fallbacks exhausted (WebFetch+GraphQL+aggregator); marked dead, not evaluated per Offer-Verification mandate	outcome:skipped
 Processed 3 URLs (US:2 + Intl:1), generated 1 PDF, archived 2 low-score, pushed ea7a746.
+2026-06-11T200154Z	setup	warn	git pull --ff-only failed: origin force-updated/diverged	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-11T200154Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-11T200154Z	step1-scan-US	warn	3 portal HTTP 404 (Tinybird, Travelperk, Forto)	fix:scan.mjs skips dead portals, continues	outcome:skipped
+2026-06-11T200154Z	step1-L3	warn	HuggingFace Open-Source ML Eng (workable 56232F23CB) not in live Workable jobs list + BuiltIn shows removed	fix:verified via Workable widget API (shortcode absent) per Offer-Verification mandate; not evaluated	outcome:skipped
+2026-06-11T200154Z	step1-L3	warn	Bjak ML Eng Diffusion/Vision (ashby b980ff2c) delisted from active board	fix:Ashby posting-api confirms ID absent; substituted live Bjak/A1 Applied AI Engineer instead	outcome:skipped
+2026-06-11T200154Z	step2-pdf	warn	Playwright Chromium not installed (PDF render failed)	fix:npx playwright install chromium	outcome:resolved
