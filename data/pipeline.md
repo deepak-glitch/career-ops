@@ -6,9 +6,11 @@
      creates it at the end of Pending. -->
 
 ## Pending
+
 ## Processed
 
 ### 2026-06-11
+- [x] #1315 | https://job-boards.greenhouse.io/fireworksai/jobs/4283962009 | Fireworks AI | AI Field Engineer (Microsoft Foundry) | San Mateo, CA — Hybrid 3d/wk | 3.6/5 | PDF ✅
 - [x] #1311 | https://builtin.com/job/software-engineer-ai-ml/9590563 | GE Aerospace | Software Engineer AI/ML | Remote — US | 3.5/5 | PDF ✅
 - [x] #1304 | https://jobs.ashbyhq.com/titan-ai/297cf9a9-289d-4cd5-a4a1-1e051f6f5d64 | Titan AI | Applied AI Engineer | United States Remote | 4.3/5 | PDF ✅
 
