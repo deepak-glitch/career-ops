@@ -1574,3 +1574,4 @@ Sources:
 2026-06-12T080136Z	step1-L3	warn	L3 net-new lead Qode E7842E4DD7 expired (Job not found)	fix:verified dead via Workable API; not added to pipeline	outcome:skipped
 2026-06-12T080136Z	step1-L3	warn	L3 net-new lead UNIQA ai-engineer-4188480 expired (remotive HTTP 404)	fix:verified dead; not added to pipeline	outcome:skipped
 2026-06-12T080136Z	step1-L3	warn	L3 net-new lead DaCodes 45EC092A28 closed (absent from live Workable feed)	fix:verified filled; not added to pipeline	outcome:skipped
+Processed 5 URLs (US:1 + Intl:4), generated 5 PDFs, archived 0 low-score, pushed 652222b.
