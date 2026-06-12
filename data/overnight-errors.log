@@ -1591,3 +1591,4 @@ Processed 6 URLs (US:1 + Intl:5), generated 3 PDFs, archived 3 low-score, pushed
 2026-06-12T200122Z	setup	warn	git pull --ff-only failed (diverging branches, forced upstream update)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
 2026-06-12T200122Z	scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps missing in fresh container)	fix:npm install	outcome:resolved
 2026-06-12T200122Z	scan	warn	portal HTTP 404 x3 (Tinybird, Travelperk, Forto) both tracks	fix:none-portalside endpoint moved	outcome:skipped
+Processed 2 URLs (US:1 + Intl:1), generated 2 PDFs, archived 0 low-score, pushed 68b070e.
