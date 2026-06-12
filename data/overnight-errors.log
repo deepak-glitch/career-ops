@@ -1587,3 +1587,4 @@ Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed
 2026-06-12T160144Z	scan-both	warn	3 company API endpoints HTTP 404 (Tinybird, Travelperk, Forto)	fix:none (company-side ATS change, scanner handled internally)	outcome:skipped
 2026-06-12T160144Z	pdf	warn	Playwright chromium-headless-shell not installed in fresh container	fix:npx playwright install chromium	outcome:resolved
 2026-06-12T160144Z	merge	warn	Sierra Agent (Cantonese) new URL = repost of existing #44 (3.8) Sierra agent family	fix:merge skipped dup; removed orphan #1328 report+PDF+TSV, pointed pipeline breadcrumb at #44	outcome:resolved
+Processed 6 URLs (US:1 + Intl:5), generated 3 PDFs, archived 3 low-score, pushed a7df173.
