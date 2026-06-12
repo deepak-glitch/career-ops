@@ -1588,3 +1588,6 @@ Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed
 2026-06-12T160144Z	pdf	warn	Playwright chromium-headless-shell not installed in fresh container	fix:npx playwright install chromium	outcome:resolved
 2026-06-12T160144Z	merge	warn	Sierra Agent (Cantonese) new URL = repost of existing #44 (3.8) Sierra agent family	fix:merge skipped dup; removed orphan #1328 report+PDF+TSV, pointed pipeline breadcrumb at #44	outcome:resolved
 Processed 6 URLs (US:1 + Intl:5), generated 3 PDFs, archived 3 low-score, pushed a7df173.
+2026-06-12T200122Z	setup	warn	git pull --ff-only failed (diverging branches, forced upstream update)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-12T200122Z	scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps missing in fresh container)	fix:npm install	outcome:resolved
+2026-06-12T200122Z	scan	warn	portal HTTP 404 x3 (Tinybird, Travelperk, Forto) both tracks	fix:none-portalside endpoint moved	outcome:skipped
