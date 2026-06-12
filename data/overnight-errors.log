@@ -1575,3 +1575,9 @@ Sources:
 2026-06-12T080136Z	step1-L3	warn	L3 net-new lead UNIQA ai-engineer-4188480 expired (remotive HTTP 404)	fix:verified dead; not added to pipeline	outcome:skipped
 2026-06-12T080136Z	step1-L3	warn	L3 net-new lead DaCodes 45EC092A28 closed (absent from live Workable feed)	fix:verified filled; not added to pipeline	outcome:skipped
 Processed 5 URLs (US:1 + Intl:4), generated 5 PDFs, archived 0 low-score, pushed 652222b.
+2026-06-12T120158Z	setup	warn	git pull non-ff (forced upstream update)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-12T120158Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-12T120158Z	step1-scan	warn	portal Tinybird HTTP 404 (endpoint moved/closed)	fix:skip portal, retries next run	outcome:skipped
+2026-06-12T120158Z	step1-scan	warn	portal Travelperk HTTP 404 (endpoint moved/closed)	fix:skip portal, retries next run	outcome:skipped
+2026-06-12T120158Z	step1-scan	warn	portal Forto HTTP 404 (endpoint moved/closed)	fix:skip portal, retries next run	outcome:skipped
+2026-06-12T120158Z	step1-L3	warn	L3 WebSearch saturated: all surfaced URLs already in scan-history (no net-new eligible roles)	fix:dedup vs scan-history, none added	outcome:resolved
