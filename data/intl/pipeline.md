@@ -16,6 +16,10 @@
 ## Processed
 
 ### 2026-06-12
+- [x] #1323 | https://jobs.ashbyhq.com/reedsy/b043b550-02b7-416f-8969-5db8fd9dc8ee | Reedsy | AI Engineer | Remote Europe (UK entity) | 3.2/5 | PDF ✅
+- [x] #1324 | https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (EMEA) | United Kingdom -- Remote-friendly | 3.3/5 | PDF ✅
+- [x] #1325 | https://huaweiuk.teamtailor.com/jobs/7893230-ai-engineer-spatial-intelligence | Huawei R&D UK | AI Engineer (Spatial Intelligence) | Edinburgh, UK — On-site | 3.1/5 | PDF ✅
+- [x] #1326 | https://naffco.teamtailor.com/jobs/7828270-ai-engineer-agentic-ai-enterprise-automation | NAFFCO | AI Engineer (Agentic AI & Enterprise Automation) | Dubai, UAE — On-site | 3.0/5 | PDF ✅
 
 ### 2026-06-11
 - [x] #1309 | https://ioet.na.teamtailor.com/jobs/607618-ai-engineer | ioet | AI Engineer | LatAm Remote (residency required) | 3.1/5 | PDF ✅
