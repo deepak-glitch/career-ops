@@ -1563,3 +1563,7 @@ Sources:
 - [EveryMatrix — AI Engineer (CasinoEngine)](https://everymatrix.teamtailor.com/jobs/7886416-ai-engineer)
 - [UiPath — Forward Deployed Engineer II (dead)](https://jobs.ashbyhq.com/uipath/d3422efb-e391-495d-9415-031419910aa3)
 - [Human Intelligence — AI Engineer Iași (410 Gone)](https://jobs.workable.com/view/pU8qXj1Aytb5epeDQ2Cjze/remote-ai-engineer-(solutions-architect-%2B-applied-ai)-in-ia%C8%99i-at-human-intelligence)
+2026-06-12T040141Z	setup	warn	git pull --ff-only failed (origin force-updated, diverged)	fix:git fetch origin main && git reset --hard origin/main (no local commits at setup)	outcome:resolved
+2026-06-12T040141Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install (added 59 packages)	outcome:resolved
+2026-06-12T040141Z	step1-scan	warn	3 portals HTTP 404 (Tinybird, Travelperk, Forto) on US+Intl scan	fix:scanner skips dead portals; recorded, no new URLs lost	outcome:skipped
+2026-06-12T040141Z	step2-pdf	warn	Playwright chromium executable missing	fix:npx playwright install chromium (downloaded headless shell v1217)	outcome:resolved

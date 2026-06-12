@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1320 | 2026-06-12 | Cadence Solutions | Applied AI Engineer | 4.4/5 | Evaluated | ✅ | [1320](reports/1320-cadence-solutions-2026-06-12.md) | [US] Remote clinical AI agents; top archetype+domain fit of cycle (healthcare RAG, agentic HITL, RAGAS evals, QLoRA, HIPAA/diff-privacy); comp $135-165K + equity; updated 2026-06-11 active; F-1 OPT US-remote OK |
+| 1321 | 2026-06-12 | Sharebite | AI Engineer | 3.3/5 | Evaluated | ✅ | [1321](reports/1321-sharebite-2026-06-12.md) | [US] Remote meal-benefits platform; full-stack-first role evolving into AI; 5+ yrs full-stack stated (Deepak ~4 yrs AI-leaning, stretch); strong AI-side match (LangChain/Bedrock/RAG/agents); comp band truncated; posting ~10wk old (Caution) |
 | 1317 | 2026-06-11 | A1 (Bjak) | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [1317](reports/1317-a1-bjak-applied-ai-engineer-2026-06-11.md) | [Intl] Seoul remote consumer-AI assistant; top archetype fit (Qwen QLoRA, agentic, evals); F-1 OPT flag |
 | 1315 | 2026-06-11 | Fireworks AI | AI Field Engineer - Enterprise | 3.7/5 | Evaluated | ✅ | [1319](reports/1319-fireworks-ai-field-engineer-enterprise-2026-06-11.md) | Re-eval 2026-06-11 (3.6→3.7). [US] NYC/San Mateo/Remote USA multi-site; FDE on Fireworks inference stack; 5+ yrs customer-facing (Deepak ~4 yrs, stretch); LLM stack + fine-tuning (SFT/DPO/RFT) heavy; comp $200-260K + equity; Remote USA option preserves F-1 OPT |
 | 1308 | 2026-06-11 | Titan AI | Applied AI Engineer | 4.3/5 | Evaluated | ✅ | [1304](reports/1304-titan-ai-2026-06-11.md) | [US] Applied AI + agentic + RAG; US Remote; $200-300K + equity |

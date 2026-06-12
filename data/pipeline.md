@@ -10,6 +10,8 @@
 ## Processed
 
 ### 2026-06-12
+- [x] #1320 | https://job-boards.greenhouse.io/solutions/jobs/4680768006 | Cadence Solutions | Applied AI Engineer | Remote (US) | 4.4/5 | PDF ✅
+- [x] #1321 | https://job-boards.greenhouse.io/sharebite/jobs/5848230004 | Sharebite | AI Engineer | Remote (US) | 3.3/5 | PDF ✅
 
 ### 2026-06-11
 - [x] #1319 | https://job-boards.greenhouse.io/fireworksai/jobs/4284317009 | Fireworks AI | AI Field Engineer - Enterprise | New York, NY; Remote, USA; San Mateo, CA | 3.7/5 | PDF ✅
