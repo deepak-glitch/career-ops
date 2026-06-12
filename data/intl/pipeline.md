@@ -13,10 +13,12 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
-
 ## Processed
 
 ### 2026-06-12
+- [x] #1329 | https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009 | Opaque Systems | Forward Deployed Engineer (AI) | Romania | 3.0/5 | PDF ✅
+- [x] #1330 | https://rebtel.teamtailor.com/jobs/7805704-ai-ml-engineer | Rebtel | AI/ML Engineer | Stockholm — Hybrid | 3.1/5 | PDF ✅
+- [x] #1333 | https://everymatrix.teamtailor.com/jobs/7886416-ai-engineer | EveryMatrix | AI Engineer | Lviv, Ukraine — Hybrid | 3.0/5 | PDF ✅
 - [x] #44 (repost) | https://jobs.ashbyhq.com/sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001 | Sierra | Software Engineer, Agent (Cantonese Speaking) | Singapore (in-person) | dup of #44 (3.8) | PDF ❌
 - [x] #1323 | https://jobs.ashbyhq.com/reedsy/b043b550-02b7-416f-8969-5db8fd9dc8ee | Reedsy | AI Engineer | Remote Europe (UK entity) | 3.2/5 | PDF ✅
 - [x] #1324 | https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (EMEA) | United Kingdom -- Remote-friendly | 3.3/5 | PDF ✅
