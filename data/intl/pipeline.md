@@ -16,6 +16,7 @@
 ## Processed
 
 ### 2026-06-12
+- [x] #1335 | https://job-boards.greenhouse.io/sezzle/jobs/7633986003 | Sezzle | AI Engineer II (Remote) | Türkiye — Remote | 3.0/5 | PDF ✅
 - [x] #1329 | https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009 | Opaque Systems | Forward Deployed Engineer (AI) | Romania | 3.0/5 | PDF ✅
 - [x] #1330 | https://rebtel.teamtailor.com/jobs/7805704-ai-ml-engineer | Rebtel | AI/ML Engineer | Stockholm — Hybrid | 3.1/5 | PDF ✅
 - [x] #1333 | https://everymatrix.teamtailor.com/jobs/7886416-ai-engineer | EveryMatrix | AI Engineer | Lviv, Ukraine — Hybrid | 3.0/5 | PDF ✅

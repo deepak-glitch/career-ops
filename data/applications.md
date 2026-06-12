@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1334 | 2026-06-12 | Netic | Forward Deployed Agent Engineer | 3.8/5 | Evaluated | ✅ | [1334](reports/1334-netic-fde-agent-2026-06-12.md) | [US] San Francisco on-site; Series B $43M (Founders Fund, Greylock, Dylan Field); bullseye FDE + Applied AI archetype; Python/asyncio/FastAPI + TS/React, LLM/TTS/RAG, eval frameworks; F-1 OPT relocation friction + sponsorship uncertain |
 | 1329 | 2026-06-12 | Opaque Systems | Forward Deployed Engineer (AI) | 3.0/5 | Evaluated | ✅ | [1329](reports/1329-opaque-systems-fde-ai-2026-06-12.md) | [Intl] Romania; confidential-computing/TEE infra; agentic+RAG stack 1:1; 5+y floor vs 2.5y direct stretch; F-1 OPT + Romania location friction; reposted (2026-05-15/19 filtered) |
 | 1330 | 2026-06-12 | Rebtel | AI/ML Engineer | 3.1/5 | Evaluated | ✅ | [1330](reports/1330-rebtel-aiml-2026-06-12.md) | [Intl] Stockholm Hybrid; ~70 ppl diaspora telecom; classical ML + LLM blend (LangChain/LangGraph/LlamaIndex/RAG/agentic); 4+y floor vs 2.5y direct stretch; Sweden visa friction for F-1 OPT |
 | 1333 | 2026-06-12 | EveryMatrix | AI Engineer | 3.0/5 | Evaluated | ✅ | [1333](reports/1333-everymatrix-ai-engineer-2026-06-12.md) | [Intl] Lviv Ukraine Hybrid 80/20; B2B iGaming SaaS ~1000 employees; LLM/RAG/LangChain/vector core 1:1; 3+y meets 2.5y w/ stretch; geopolitical + GCP-vs-AWS + iGaming domain friction |

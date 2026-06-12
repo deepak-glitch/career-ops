@@ -10,6 +10,7 @@
 ## Processed
 
 ### 2026-06-12
+- [x] #1334 | https://jobs.ashbyhq.com/netic/286a085a-2942-455a-a384-8c44ff5b7e85 | Netic | Forward Deployed Agent Engineer | San Francisco, CA — On-site | 3.8/5 | PDF ✅
 - [x] #1327 | https://jobs.ashbyhq.com/runway-ml/0feb8680-6573-458b-b00d-98aea86a94f5 | Runway | AI Full Stack Engineer | Remote (US) | 3.5/5 | PDF ✅
 - [x] #1320 | https://job-boards.greenhouse.io/solutions/jobs/4680768006 | Cadence Solutions | Applied AI Engineer | Remote (US) | 4.4/5 | PDF ✅
 - [x] #1321 | https://job-boards.greenhouse.io/sharebite/jobs/5848230004 | Sharebite | AI Engineer | Remote (US) | 3.3/5 | PDF ✅
