@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1327 | 2026-06-12 | Runway | AI Full Stack Engineer | 3.5/5 | Evaluated | ✅ | [1327](reports/1327-runway-ai-fullstack-2026-06-12.md) | [US] LLM-feature + full-stack fit; WebGL/graphics-frontend gap; US-remote F-1 OPT friendly |
 | 1322 | 2026-06-12 | Spur | Founding Engineer / Full Stack | 3.4/5 | Evaluated | ✅ | [1322](reports/1322-spur-founding-engineer-2026-06-12.md) | [US] NYC On-site YC S24 (Yale/Figma/DeepMind founders); $130-225K + 0.20-2.00%; "Any (new grads OK)" floor fits 2.5y; web agents + AI QA + LLM orchestration archetype 1:1; named customers NextDoor/LivingSpaces/Wander; on-site relocation friction |
 | 1323 | 2026-06-12 | Reedsy | AI Engineer | 3.2/5 | Evaluated | ✅ | [1323](reports/1323-reedsy-ai-engineer-2026-06-12.md) | [Intl] Remote Europe (UK entity); €70-120K + 0-0.2%; clean Applied AI stack (LangChain/LlamaIndex/RAG/hallucination mitigation/GCP/Elasticsearch/embeddings); publishing-tech marketplace 5M+ authors; EU/UK residency requirement = F-1 OPT hard blocker; GCP ramp 4-6w |
 | 1325 | 2026-06-12 | Huawei R&D UK | AI Engineer (Spatial Intelligence) | 3.1/5 | Evaluated | ✅ | [1325](reports/1325-huawei-uk-ai-spatial-2026-06-12.md) | [Intl] Edinburgh On-site; multimodal/foundation models + edge inference (ONNX/TensorRT/CoreML) + Pydantic AI/AutoGen/LangGraph + geospatial; YOLOv8+video transformer proof points fit; edge inference + geospatial gaps; Huawei+F-1 OPT work-auth complexity |

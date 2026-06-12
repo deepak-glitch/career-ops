@@ -13,9 +13,11 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
+
 ## Processed
 
 ### 2026-06-12
+- [x] #44 (repost) | https://jobs.ashbyhq.com/sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001 | Sierra | Software Engineer, Agent (Cantonese Speaking) | Singapore (in-person) | dup of #44 (3.8) | PDF ❌
 - [x] #1323 | https://jobs.ashbyhq.com/reedsy/b043b550-02b7-416f-8969-5db8fd9dc8ee | Reedsy | AI Engineer | Remote Europe (UK entity) | 3.2/5 | PDF ✅
 - [x] #1324 | https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (EMEA) | United Kingdom -- Remote-friendly | 3.3/5 | PDF ✅
 - [x] #1325 | https://huaweiuk.teamtailor.com/jobs/7893230-ai-engineer-spatial-intelligence | Huawei R&D UK | AI Engineer (Spatial Intelligence) | Edinburgh, UK — On-site | 3.1/5 | PDF ✅
