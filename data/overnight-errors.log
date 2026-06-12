@@ -1556,3 +1556,10 @@ Processed 2 URLs (US:2 + Intl:0), generated 1 PDF, archived 1 low-score, pushed 
 2026-06-12T000136Z	step1-scan	warn	scan.mjs: ERR_MODULE_NOT_FOUND js-yaml	fix:npm install once then retry	outcome:resolved
 2026-06-12T000136Z	step1-scan	warn	US scan: Tinybird/Travelperk/Forto HTTP 404 (board renamed/removed)	fix:scan.mjs skipped them and continued	outcome:skipped
 2026-06-12T000136Z	step2-pipeline	warn	SumUp Agent de Suporte: HTTP 410 Gone (JD extraction failed, all fallbacks dead)	fix:marked - [!] in intl Pendientes per Playbook #3; cleanup-bang-rows will sweep	outcome:skipped
+Processed 4 URLs (US:1 + Intl:3), generated 0 PDFs, archived 2 low-score (and 2 dead URL bang-rows), pushed b8ab3a6.
+
+Sources:
+- [Snorkel AI — Applied AI Engineer Federal (TS Required)](https://job-boards.greenhouse.io/snorkelai/jobs/5721276004)
+- [EveryMatrix — AI Engineer (CasinoEngine)](https://everymatrix.teamtailor.com/jobs/7886416-ai-engineer)
+- [UiPath — Forward Deployed Engineer II (dead)](https://jobs.ashbyhq.com/uipath/d3422efb-e391-495d-9415-031419910aa3)
+- [Human Intelligence — AI Engineer Iași (410 Gone)](https://jobs.workable.com/view/pU8qXj1Aytb5epeDQ2Cjze/remote-ai-engineer-(solutions-architect-%2B-applied-ai)-in-ia%C8%99i-at-human-intelligence)
