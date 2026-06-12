@@ -1567,3 +1567,10 @@ Sources:
 2026-06-12T040141Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install (added 59 packages)	outcome:resolved
 2026-06-12T040141Z	step1-scan	warn	3 portals HTTP 404 (Tinybird, Travelperk, Forto) on US+Intl scan	fix:scanner skips dead portals; recorded, no new URLs lost	outcome:skipped
 2026-06-12T040141Z	step2-pdf	warn	Playwright chromium executable missing	fix:npx playwright install chromium (downloaded headless shell v1217)	outcome:resolved
+2026-06-12T080136Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-12T080136Z	step1-scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install + retry	outcome:resolved
+2026-06-12T080136Z	step1-scan-us	warn	3 portals HTTP 404 (Tinybird, Travelperk, Forto)	fix:none (upstream portal endpoints stale); skipped these companies	outcome:skipped
+2026-06-12T080136Z	step1-scan-intl	warn	3 portals HTTP 404 (Tinybird, Travelperk, Forto)	fix:none (upstream portal endpoints stale); skipped these companies	outcome:skipped
+2026-06-12T080136Z	step1-L3	warn	L3 net-new lead Qode E7842E4DD7 expired (Job not found)	fix:verified dead via Workable API; not added to pipeline	outcome:skipped
+2026-06-12T080136Z	step1-L3	warn	L3 net-new lead UNIQA ai-engineer-4188480 expired (remotive HTTP 404)	fix:verified dead; not added to pipeline	outcome:skipped
+2026-06-12T080136Z	step1-L3	warn	L3 net-new lead DaCodes 45EC092A28 closed (absent from live Workable feed)	fix:verified filled; not added to pipeline	outcome:skipped
