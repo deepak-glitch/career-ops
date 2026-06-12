@@ -1552,3 +1552,7 @@ Processed 3 URLs (US:2 + Intl:1), generated 1 PDF, archived 2 low-score, pushed 
 2026-06-11T200154Z	step1-L3	warn	Bjak ML Eng Diffusion/Vision (ashby b980ff2c) delisted from active board	fix:Ashby posting-api confirms ID absent; substituted live Bjak/A1 Applied AI Engineer instead	outcome:skipped
 2026-06-11T200154Z	step2-pdf	warn	Playwright Chromium not installed (PDF render failed)	fix:npx playwright install chromium	outcome:resolved
 Processed 2 URLs (US:2 + Intl:0), generated 1 PDF, archived 1 low-score, pushed 99ae154.
+2026-06-12T000136Z	setup	warn	pull --ff-only failed: origin/main force-updated/diverged	fix:git fetch origin main && git reset --hard origin/main (no local commits at setup)	outcome:resolved
+2026-06-12T000136Z	step1-scan	warn	scan.mjs: ERR_MODULE_NOT_FOUND js-yaml	fix:npm install once then retry	outcome:resolved
+2026-06-12T000136Z	step1-scan	warn	US scan: Tinybird/Travelperk/Forto HTTP 404 (board renamed/removed)	fix:scan.mjs skipped them and continued	outcome:skipped
+2026-06-12T000136Z	step2-pipeline	warn	SumUp Agent de Suporte: HTTP 410 Gone (JD extraction failed, all fallbacks dead)	fix:marked - [!] in intl Pendientes per Playbook #3; cleanup-bang-rows will sweep	outcome:skipped

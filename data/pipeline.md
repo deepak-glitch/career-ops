@@ -9,6 +9,8 @@
 
 ## Processed
 
+### 2026-06-12
+
 ### 2026-06-11
 - [x] #1319 | https://job-boards.greenhouse.io/fireworksai/jobs/4284317009 | Fireworks AI | AI Field Engineer - Enterprise | New York, NY; Remote, USA; San Mateo, CA | 3.7/5 | PDF ✅
 - [x] #1315 | https://job-boards.greenhouse.io/fireworksai/jobs/4283962009 | Fireworks AI | AI Field Engineer (Microsoft Foundry) | San Mateo, CA — Hybrid 3d/wk | 3.6/5 | PDF ✅
