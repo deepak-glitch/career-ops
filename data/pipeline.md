@@ -9,6 +9,7 @@
 
 ### 2026-06-13
 
+- [!] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | error: Ashby GraphQL jobPosting=null (dead)
 - [!] https://job-boards.greenhouse.io/scaleai/jobs/4549048005 | error: role redirected to Director London (replaced); marking dead
 - [!] https://job-boards.greenhouse.io/doitintl/jobs/7688239003 | error: greenhouse returns no role (no current openings)
 - [!] https://job-boards.greenhouse.io/nextdoorcampus/jobs/6194603 | error: nextdoorcampus board shows "no current openings" (dead)
