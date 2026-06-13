@@ -1,0 +1,35 @@
+# Pipeline cleanup audit log
+Run: 2026-06-13T17:30:17.626Z
+
+## US pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  8
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### US — Kept unmatched (manual review)
+- - [!] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | error: Ashby GraphQL jobPosting=null (dead)
+- - [!] https://job-boards.greenhouse.io/scaleai/jobs/4549048005 | error: role redirected to Director London (replaced); marking dead
+- - [!] https://job-boards.greenhouse.io/doitintl/jobs/7688239003 | error: greenhouse returns no role (no current openings)
+- - [!] https://job-boards.greenhouse.io/nextdoorcampus/jobs/6194603 | error: nextdoorcampus board shows "no current openings" (dead)
+- - [!] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | error: Ashby GraphQL returns jobPosting=null (dead)
+- - [!] https://apply.workable.com/jobgether/j/0C895CA0C5 | error: Workable listing returned empty jobs array (dead) and Lever fallback 403
+- - [!] https://himalayas.app/companies/uvation/jobs/ai-ml-engineer-2931175390 | error: Himalayas index page only — no direct JD reachable
+- - [!] https://apply.workable.com/pony-dot-ai/j/3643CD4D96/ | error: Workable API 401 — JD unreachable in batch mode
+
+## Intl pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  3
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### Intl — Kept unmatched (manual review)
+- - [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | error: Himalayas Cloudflare-challenged (unreachable in batch)
+- - [!] https://wayve.firststage.co/jobs?gh_jid=8572927002 | error: Wayve Partner Integration Engineer Tokyo requires Japanese fluency (terminal); skipping evaluation
+- - [!] https://apply.workable.com/huzzle/j/26ECD081DE | error: vague/insufficient JD body in batch mode

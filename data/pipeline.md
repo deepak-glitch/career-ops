@@ -21,6 +21,8 @@
 ## Processed
 
 ### 2026-06-13
+- [x] #1375 | https://jobs.ashbyhq.com/middesk/a72b1048-1001-49b1-92bd-9c44574f939b | Middesk | Forward Deployed Engineer | San Francisco — On-site | 3.3/5 | PDF ✅
+- [x] #1376 | https://jobs.ashbyhq.com/adaption/df86cb98-a1cf-445f-a80b-eeca448749f7 | Adaption Labs | Applied ML Engineer | San Francisco — On-site | 3.4/5 | PDF ✅
 - [x] #1374 | https://jobs.ashbyhq.com/kled-ai/68d5c6f6-a22c-4b81-a0f1-bcc28de93144 | Kled AI | Fraud/ML Engineer | United States — Remote | 3.2/5 | PDF ✅
 - [x] #1363 | https://jobs.ashbyhq.com/adaptivesecurity/547fef33-6371-4a49-9085-5810744f95b0 | Adaptive Security | Founding Machine Learning Engineer | NYC — On-site | 3.5/5 | PDF ✅
 - [x] #1364 | https://jobs.ashbyhq.com/trove/eafc1339-5b13-4e9d-9634-15d2cde0241d | Trove | Founding Machine Learning Engineer | San Francisco — On-site 4d/wk | 3.7/5 | PDF ✅
