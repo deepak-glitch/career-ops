@@ -626,3 +626,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-12	1332	2026-06-12	IKUE	Machine Learning Engineer	2.8/5	Evaluated	reports/1332-ikue-mle-2026-06-12.md	[Intl] Cape Town/Johannesburg Fully Remote; telco-CX startup; classical ML + Spark/SQL/AWS; ZA-anchored employment + comp gap + LLM strengths under-leveraged; will be cleaned up < 3.0
 2026-06-12	1335	2026-06-12	Aledade	Practice Transformation Specialist, CPI Explorer	1/5	Evaluated	reports/1335-aledade-pts-2026-06-12.md	[US] Off-archetype non-technical healthcare field role — scanner false positive
 2026-06-12	1334		orphan	orphan	0/5		reports/1334-anthropic-it-systems-engineer-2026-06-12.md	
+2026-06-13	1349	2026-06-13	Planet	AI Engineer, Marketing	2.8/5	Evaluated	reports/1349-planet-ai-engineer-marketing-2026-06-13.md	[US] Marketing-ops domain mismatch + 5yr bar + CRM gap; below threshold

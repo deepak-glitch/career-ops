@@ -1604,3 +1604,8 @@ Sources:
 - [BrainCo job posting](https://jobs.ashbyhq.com/brainco/39660079-dc7e-4974-8ab1-900c45198bcf)
 - [Pasito AI/ML Engineer at YC](https://www.ycombinator.com/companies/pasito/jobs/lHqIR3f-ai-ml-engineer)
 - [Spellbrush AI Infrastructure Engineer (Built In SF)](https://www.builtinsf.com/job/ai-infrastructure-engineer/4468768)
+2026-06-13T040111Z	setup	warn	git pull --ff-only failed (diverging/forced-update origin)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-13T040111Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-13T040111Z	step1-scan	warn	scanner HTTP 404 for Tinybird/Travelperk/Forto endpoints (both tracks)	fix:scanner skipped dead endpoints, scan continued	outcome:skipped
+2026-06-13T040111Z	step1-scan	warn	4 L3 URLs expired (NewsBreak/Further/PointWild/Prolific redirect to board index; Almedia Ashby null+empty)	fix:marked dead in scan-history, not evaluated	outcome:skipped
+2026-06-13T040111Z	step2-pdf	warn	Playwright Chromium browser not installed	fix:npx playwright install chromium	outcome:resolved
