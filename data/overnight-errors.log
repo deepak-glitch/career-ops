@@ -1647,3 +1647,4 @@ Summary:
 2026-06-13T200144Z	 step1-scan 	 warn 	 3 company boards HTTP 404 (Tinybird,Travelperk,Forto) 	 fix:scanner skipped gracefully, no URL added 	 outcome:resolved
 2026-06-13T200144Z	 step2-pdf 	 warn 	 playwright chromium binary missing 	 fix:npx playwright install chromium then retry 	 outcome:resolved
 2026-06-13T200144Z	 step3-merge 	 warn 	 #1377 DeepLearning.AI dup of existing #1099 (same URL; evaded merge dedup via short-title edge case); #1378 Centralize fuzzy-dup of #417 	 fix:removed #1377/#1378 report+pdf+html+tracker row+pipeline row+merged TSV; kept canonical #1099/#417 	 outcome:resolved
+2026-06-13T200144Z	 step3-jd-extract 	 warn 	 7 L3 URLs failed all extraction fallbacks (Traversal/Platinum/Hopper US; Pathway/DaCodes/SmartWorking/Jobgether-NL Intl) 	 fix:tried greenhouse+lever JSON APIs, Ashby GraphQL, workable API, aggregator; marked dead in scan-history (no Pendientes pollution) 	 outcome:skipped
