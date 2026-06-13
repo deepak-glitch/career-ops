@@ -632,3 +632,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-13	1363	2026-06-13	Wayve	Machine Learning Engineer (Tokyo)	2.7/5	Evaluated	reports/1363-wayve-ml-engineer-tokyo-2026-06-13.md	[Intl] Tokyo Japan hybrid; AV / driving models / C++ CUDA; senior IC bar; archetype gap; SKIP
 2026-06-13	1353		orphan	orphan	0/5		reports/1353-lyra-tech-forward-deployment-ai-engineer-2026-06-13.md	
 2026-06-13	1364		orphan	orphan	0/5		reports/1364-mistral-fde-ml-montreal-2026-06-13.md	
+2026-06-13	1363	2026-06-13	Defense Unicorns	Forward Deployed AI Engineer	2/5	Evaluated	reports/1363-defense-unicorns-fde-ai-2026-06-13.md	[US] Remote-US; $148.75-201.25K; agentic GenAI FDE stack 1:1 BUT requires U.S. citizenship + security clearance — hard veto for F-1 OPT; do not apply

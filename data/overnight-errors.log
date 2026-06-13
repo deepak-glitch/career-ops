@@ -1610,3 +1610,8 @@ Sources:
 2026-06-13T040111Z	step1-scan	warn	4 L3 URLs expired (NewsBreak/Further/PointWild/Prolific redirect to board index; Almedia Ashby null+empty)	fix:marked dead in scan-history, not evaluated	outcome:skipped
 2026-06-13T040111Z	step2-pdf	warn	Playwright Chromium browser not installed	fix:npx playwright install chromium	outcome:resolved
 Processed 14 URLs (US:5 + Intl:9), generated 9 PDFs, archived 5 low-score, pushed 6500a8a.
+2026-06-13T080142Z	setup	warn	git pull --ff-only failed (origin/main force-updated, diverging)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-13T080142Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install (added 59 packages)	outcome:resolved
+2026-06-13T080142Z	step1-scan-us	warn	scan.mjs US: 3 companies HTTP 404 (Tinybird, Travelperk, Forto)	fix:none needed (scan continued, non-fatal stale ATS slugs)	outcome:skipped
+2026-06-13T080142Z	step2-pdf	warn	generate-pdf.mjs failed: Chromium headless shell not installed	fix:npx playwright install chromium-headless-shell, retried	outcome:resolved
+2026-06-13T080142Z	step5-push	warn	git push rejected non-fast-forward (scheduled run 08:08Z pushed first, took report nums 1351-1361)	fix:fetch+reset --hard origin/main, renumber my net-new CoreStory #1352->#1362, Defense Unicorns #1351->#1363 (roles not on origin, not dup work)	outcome:resolved

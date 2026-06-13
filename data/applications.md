@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1362 | 2026-06-13 | CoreStory | AI Engineer | 3.2/5 | Evaluated | ✅ | [1362](reports/1362-corestory-ai-engineer-2026-06-13.md) | [US] Remote-US; comp n/d; LLM/RAG/agentic + multi vector-DB stack bullseye 1:1; 7+y overall floor is the stretch vs 4y SWE; confirm comp + F-1 OPT sponsorship in screen |
 | 1354 | 2026-06-13 | Fixify | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1354](reports/1354-fixify-fde-2026-06-13.md) | [US] Remote US; first FDE role; AI for IT-ops; comp not disclosed; sponsorship open question |
 | 1356 | 2026-06-13 | Reflow | AI Engineer | 3.0/5 | Evaluated | ✅ | [1356](reports/1356-reflow-ai-engineer-canada-2026-06-13.md) | [Intl] Canada; agentic AI workflow platform; 2+ yrs agentic + 4+ yrs backend bar; comp wide-band |
 | 1357 | 2026-06-13 | DRAXIS Environmental | AI/ML Engineer | 3.0/5 | Evaluated | ✅ | [1357](reports/1357-draxis-ai-ml-engineer-greece-2026-06-13.md) | [Intl] Thessaloniki Greece; environmental R&D; TF/PyTorch/Keras + time-series; EU work permit needed |

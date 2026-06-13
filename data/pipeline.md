@@ -18,6 +18,7 @@
 ## Processed
 
 ### 2026-06-13
+- [x] #1362 | https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer | Remote (US) | 3.2/5 | PDF ✅
 - [x] #1351 | https://www.workatastartup.com/jobs/92647 | Hyperspell | Founding Forward Deployed Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
 - [x] #1352 | https://www.workatastartup.com/jobs/92361 | Bretton AI | Forward Deployed Engineer | San Francisco, CA — On-site | 3.8/5 | PDF ✅
 - [x] #1354 | https://job-boards.greenhouse.io/fixify/jobs/5214979008 | Fixify | Forward Deployed Engineer | Remote — US | 3.5/5 | PDF ✅
