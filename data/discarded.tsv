@@ -627,3 +627,8 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-12	1335	2026-06-12	Aledade	Practice Transformation Specialist, CPI Explorer	1/5	Evaluated	reports/1335-aledade-pts-2026-06-12.md	[US] Off-archetype non-technical healthcare field role — scanner false positive
 2026-06-12	1334		orphan	orphan	0/5		reports/1334-anthropic-it-systems-engineer-2026-06-12.md	
 2026-06-13	1349	2026-06-13	Planet	AI Engineer, Marketing	2.8/5	Evaluated	reports/1349-planet-ai-engineer-marketing-2026-06-13.md	[US] Marketing-ops domain mismatch + 5yr bar + CRM gap; below threshold
+2026-06-13	1355	2026-06-13	Defense Unicorns	Forward Deployed AI Engineer	2.5/5	Evaluated	reports/1355-defense-unicorns-fde-ai-2026-06-13.md	[US] Remote US; US citizenship + clearance required (terminal for F-1 OPT); SKIP
+2026-06-13	1362	2026-06-13	Modulai	Machine Learning Engineer	2.7/5	Evaluated	reports/1362-modulai-ml-engineer-sweden-2026-06-13.md	[Intl] Stockholm Sweden hybrid; ML consultancy; no Swedish visa sponsorship (terminal); SKIP
+2026-06-13	1363	2026-06-13	Wayve	Machine Learning Engineer (Tokyo)	2.7/5	Evaluated	reports/1363-wayve-ml-engineer-tokyo-2026-06-13.md	[Intl] Tokyo Japan hybrid; AV / driving models / C++ CUDA; senior IC bar; archetype gap; SKIP
+2026-06-13	1353		orphan	orphan	0/5		reports/1353-lyra-tech-forward-deployment-ai-engineer-2026-06-13.md	
+2026-06-13	1364		orphan	orphan	0/5		reports/1364-mistral-fde-ml-montreal-2026-06-13.md	

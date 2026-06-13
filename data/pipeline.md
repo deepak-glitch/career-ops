@@ -9,11 +9,18 @@
 
 ### 2026-06-13
 
+- [!] https://job-boards.greenhouse.io/scaleai/jobs/4549048005 | error: role redirected to Director London (replaced); marking dead
+- [!] https://job-boards.greenhouse.io/doitintl/jobs/7688239003 | error: greenhouse returns no role (no current openings)
+- [!] https://job-boards.greenhouse.io/nextdoorcampus/jobs/6194603 | error: nextdoorcampus board shows "no current openings" (dead)
+- [!] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | error: Ashby GraphQL returns jobPosting=null (dead)
 - [!] https://apply.workable.com/jobgether/j/0C895CA0C5 | error: Workable listing returned empty jobs array (dead) and Lever fallback 403
 
 ## Processed
 
 ### 2026-06-13
+- [x] #1351 | https://www.workatastartup.com/jobs/92647 | Hyperspell | Founding Forward Deployed Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
+- [x] #1352 | https://www.workatastartup.com/jobs/92361 | Bretton AI | Forward Deployed Engineer | San Francisco, CA — On-site | 3.8/5 | PDF ✅
+- [x] #1354 | https://job-boards.greenhouse.io/fixify/jobs/5214979008 | Fixify | Forward Deployed Engineer | Remote — US | 3.5/5 | PDF ✅
 - [x] #1345 | https://jobs.ashbyhq.com/brainco/39660079-dc7e-4974-8ab1-900c45198bcf | Brain Co. | AI Product Engineer | New York City, NY — On-site | 3.7/5 | PDF ✅
 - [x] #1346 | https://www.workatastartup.com/jobs/90298 | Pasito | AI/ML Engineer | Remote US (NY-based) | 4.1/5 | PDF ✅
 - [x] #1347 | https://www.workatastartup.com/jobs/63491 | Spellbrush | AI Infrastructure Engineer | San Francisco, CA — On-site | 3.1/5 | PDF ✅

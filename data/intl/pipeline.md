@@ -14,9 +14,18 @@
 
 ## Pending
 
+### 2026-06-13
+- [!] https://wayve.firststage.co/jobs?gh_jid=8572927002 | error: Wayve Partner Integration Engineer Tokyo requires Japanese fluency (terminal); skipping evaluation
+
 ## Processed
 
 ### 2026-06-13
+- [x] #1356 | https://jobs.ashbyhq.com/reflow/cd4b3752-b07d-4c33-acb3-169a3562d71a | Reflow | AI Engineer | Canada — verify city | 3.0/5 | PDF ✅
+- [x] #1357 | https://apply.workable.com/draxis/j/3544C24D97 | DRAXIS Environmental | AI/ML Engineer | Thessaloniki, Greece | 3.0/5 | PDF ✅
+- [x] #1358 | https://apply.workable.com/navarino/j/A5001A8CAD | Navarino | AI Engineer | Piraeus, Greece — Hybrid | 3.1/5 | PDF ✅
+- [x] #1359 | https://apply.workable.com/aion/j/8256C2F88D | AION | Forward Deployed ML Engineer, Agents | US HQ + India/UK team | 3.2/5 | PDF ✅
+- [x] #1360 | https://apply.workable.com/deeplight/j/86F4823B1B | Deeplight AI | AI Engineer | UAE | 3.3/5 | PDF ✅
+- [x] #1361 | https://apply.workable.com/obdeleven/j/8847A2A844 | OBDeleven | AI Engineer | Kaunas, Lithuania — Hybrid | 3.0/5 | PDF ✅
 - [x] #1342 | https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer | EMEA (Paris +6 EU hubs) | 3.2/5 | PDF ✅
 - [x] #1343 | https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product | Paris — On-site (≥3d/wk) | 3.1/5 | PDF ✅
 - [x] #1344 | https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4 | Cartesia | Founding Forward Deployed Engineer (India) | Bangalore — On-site | 3.3/5 | PDF ✅
