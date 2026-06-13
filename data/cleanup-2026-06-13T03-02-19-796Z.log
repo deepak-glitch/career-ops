@@ -1,0 +1,23 @@
+# Pipeline cleanup audit log
+Run: 2026-06-13T03:02:19.796Z
+
+## US pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  1
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### US — Kept unmatched (manual review)
+- - [!] https://apply.workable.com/jobgether/j/0C895CA0C5 | error: Workable listing returned empty jobs array (dead) and Lever fallback 403
+
+## Intl pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  0
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no

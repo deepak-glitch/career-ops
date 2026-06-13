@@ -6,9 +6,18 @@
      creates it at the end of Pending. -->
 
 ## Pending
+
+### 2026-06-13
+
+- [!] https://apply.workable.com/jobgether/j/0C895CA0C5 | error: Workable listing returned empty jobs array (dead) and Lever fallback 403
+
+
 ## Processed
 
 ### 2026-06-13
+- [x] #1345 | https://jobs.ashbyhq.com/brainco/39660079-dc7e-4974-8ab1-900c45198bcf | Brain Co. | AI Product Engineer | New York City, NY — On-site | 3.7/5 | PDF ✅
+- [x] #1346 | https://www.workatastartup.com/jobs/90298 | Pasito | AI/ML Engineer | Remote US (NY-based) | 4.1/5 | PDF ✅
+- [x] #1347 | https://www.workatastartup.com/jobs/63491 | Spellbrush | AI Infrastructure Engineer | San Francisco, CA — On-site | 3.1/5 | PDF ✅
 - [x] #1336 | https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer, Full Stack AI | Remote (US) | 4.3/5 | PDF ✅
 - [x] #1337 | https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/NYC/Seattle/SF/DC — Hybrid | 3.7/5 | PDF ✅
 - [x] #1338 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote (US) | 4.0/5 | PDF ✅
