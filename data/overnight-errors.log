@@ -1622,3 +1622,10 @@ Top picks from this run: **Trove Founding MLE SF (3.7)**, **Adaptive Security Fo
 2026-06-13T120132Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules missing in fresh container)	fix:npm install	outcome:resolved
 2026-06-13T120132Z	scan	warn	scan.mjs per-company HTTP 404: Tinybird, Travelperk, Forto (both tracks)	fix:scanner auto-skips dead endpoints; continue	outcome:skipped
 2026-06-13T120132Z	pipeline	warn	0 pending after scan (US:0 Intl:0); L3 net-new all dead/senior-filtered/already-evaluated	fix:nothing to evaluate, proceed per Playbook #9	outcome:resolved
+Processed 2 URLs (US:0 + Intl:2), generated 0 PDFs, archived 2 low-score, pushed 660f821.
+
+Notes:
+- Both Level 1/2 API scans returned 0 new offers (all matches were dups, outside region, or older-than-48h).
+- Level 3 WebSearch surfaced 9 candidate URLs (3 US, 6 Intl). After dedup + extraction, 7 were confirmed dead (Greenhouse `?error=true`, Ashby `jobPosting=null`, Workable `?not_found=true`, YC 404, Himalayas Cloudflare-challenged) and marked `- [!]` for `cleanup-bang-rows.mjs` to sweep.
+- Only 2 URLs (SilverTree #1374 = 2.5/5, Zipdev #1375 = 2.8/5) were live; both scored below 3.0 (UK-grad-tier comp mismatch; Mexico-contractor structure incompatible with F-1 OPT) and were deleted by `cleanup-low-scores.mjs` per the hard rule. Audit rows survive in `data/discarded.tsv`.
+- `verify-pipeline.mjs` ended at 0 errors / 0 warnings across 586 entries.
