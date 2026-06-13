@@ -1609,3 +1609,4 @@ Sources:
 2026-06-13T040111Z	step1-scan	warn	scanner HTTP 404 for Tinybird/Travelperk/Forto endpoints (both tracks)	fix:scanner skipped dead endpoints, scan continued	outcome:skipped
 2026-06-13T040111Z	step1-scan	warn	4 L3 URLs expired (NewsBreak/Further/PointWild/Prolific redirect to board index; Almedia Ashby null+empty)	fix:marked dead in scan-history, not evaluated	outcome:skipped
 2026-06-13T040111Z	step2-pdf	warn	Playwright Chromium browser not installed	fix:npx playwright install chromium	outcome:resolved
+Processed 14 URLs (US:5 + Intl:9), generated 9 PDFs, archived 5 low-score, pushed 6500a8a.
