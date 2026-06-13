@@ -1615,3 +1615,6 @@ Processed 14 URLs (US:5 + Intl:9), generated 9 PDFs, archived 5 low-score, pushe
 2026-06-13T080142Z	step1-scan-us	warn	scan.mjs US: 3 companies HTTP 404 (Tinybird, Travelperk, Forto)	fix:none needed (scan continued, non-fatal stale ATS slugs)	outcome:skipped
 2026-06-13T080142Z	step2-pdf	warn	generate-pdf.mjs failed: Chromium headless shell not installed	fix:npx playwright install chromium-headless-shell, retried	outcome:resolved
 2026-06-13T080142Z	step5-push	warn	git push rejected non-fast-forward (scheduled run 08:08Z pushed first, took report nums 1351-1361)	fix:fetch+reset --hard origin/main, renumber my net-new CoreStory #1352->#1362, Defense Unicorns #1351->#1363 (roles not on origin, not dup work)	outcome:resolved
+Processed 10 URLs (US:5 + Intl:5), generated 7 PDFs, archived 3 low-score, pushed cc32f3b.
+
+Top picks from this run: **Trove Founding MLE SF (3.7)**, **Adaptive Security Founding MLE NYC (3.5)**, **Adaption Founding FDE-MLE SF (3.4)**, **Planet AI Marketing (3.1)**, **Ema AI Implementation UK (3.1)**, **Bjak A1 Seoul (3.0)**, **IKUE MLE Cape Town (3.0)**.
