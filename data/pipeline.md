@@ -14,10 +14,16 @@
 - [!] https://job-boards.greenhouse.io/nextdoorcampus/jobs/6194603 | error: nextdoorcampus board shows "no current openings" (dead)
 - [!] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | error: Ashby GraphQL returns jobPosting=null (dead)
 - [!] https://apply.workable.com/jobgether/j/0C895CA0C5 | error: Workable listing returned empty jobs array (dead) and Lever fallback 403
+- [!] https://himalayas.app/companies/uvation/jobs/ai-ml-engineer-2931175390 | error: Himalayas index page only — no direct JD reachable
+- [!] https://apply.workable.com/pony-dot-ai/j/3643CD4D96/ | error: Workable API 401 — JD unreachable in batch mode
 
 ## Processed
 
 ### 2026-06-13
+- [x] #1363 | https://jobs.ashbyhq.com/adaptivesecurity/547fef33-6371-4a49-9085-5810744f95b0 | Adaptive Security | Founding Machine Learning Engineer | NYC — On-site | 3.5/5 | PDF ✅
+- [x] #1364 | https://jobs.ashbyhq.com/trove/eafc1339-5b13-4e9d-9634-15d2cde0241d | Trove | Founding Machine Learning Engineer | San Francisco — On-site 4d/wk | 3.7/5 | PDF ✅
+- [x] #1365 | https://jobs.ashbyhq.com/adaption/43b683ba-da0a-47c3-9507-6daa55483a81 | Adaption Labs | Founding Forward Deployed ML Engineer | San Francisco | 3.4/5 | PDF ✅
+- [x] #1367 | https://job-boards.greenhouse.io/planetlabs/jobs/7782580 | Planet | AI Engineer, Marketing | SF + US National | 3.1/5 | PDF ✅
 - [x] #1362 | https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer | Remote (US) | 3.2/5 | PDF ✅
 - [x] #1351 | https://www.workatastartup.com/jobs/92647 | Hyperspell | Founding Forward Deployed Engineer | San Francisco, CA — On-site | 3.7/5 | PDF ✅
 - [x] #1352 | https://www.workatastartup.com/jobs/92361 | Bretton AI | Forward Deployed Engineer | San Francisco, CA — On-site | 3.8/5 | PDF ✅

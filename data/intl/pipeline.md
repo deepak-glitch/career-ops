@@ -16,10 +16,14 @@
 
 ### 2026-06-13
 - [!] https://wayve.firststage.co/jobs?gh_jid=8572927002 | error: Wayve Partner Integration Engineer Tokyo requires Japanese fluency (terminal); skipping evaluation
+- [!] https://apply.workable.com/huzzle/j/26ECD081DE | error: vague/insufficient JD body in batch mode
 
 ## Processed
 
 ### 2026-06-13
+- [x] #1368 | https://himalayas.app/companies/ema/jobs/ai-implementation-engineer | Ema | AI Implementation Engineer | UK Remote | 3.1/5 | PDF ✅
+- [x] #1373 | https://jobs.ashbyhq.com/bjakcareer/e128c8a0-fb9c-47bf-be19-10dd58375ad4 | Bjak (A1) | Applied AI Engineer | Seoul, Korea — On-site | 3.0/5 | PDF ✅
+- [x] #1372 | https://ikue.teamtailor.com/jobs/4933046-machine-learning-engineer | IKUE | Machine Learning Engineer | Cape Town/Johannesburg — Remote | 3.0/5 | PDF ✅
 - [x] #1356 | https://jobs.ashbyhq.com/reflow/cd4b3752-b07d-4c33-acb3-169a3562d71a | Reflow | AI Engineer | Canada — verify city | 3.0/5 | PDF ✅
 - [x] #1357 | https://apply.workable.com/draxis/j/3544C24D97 | DRAXIS Environmental | AI/ML Engineer | Thessaloniki, Greece | 3.0/5 | PDF ✅
 - [x] #1358 | https://apply.workable.com/navarino/j/A5001A8CAD | Navarino | AI Engineer | Piraeus, Greece — Hybrid | 3.1/5 | PDF ✅

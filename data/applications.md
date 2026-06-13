@@ -2,6 +2,13 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1363 | 2026-06-13 | Adaptive Security | Founding Machine Learning Engineer | 3.5/5 | Evaluated | ✅ | [1363](reports/1363-adaptive-security-founding-mle-2026-06-13.md) | Founding MLE NYC; NVIDIA+OpenAI Series B $81M; LLM safety/adversarial detection bullseye for content-safety + Vanguard playbook |
+| 1364 | 2026-06-13 | Trove | Founding Machine Learning Engineer | 3.7/5 | Evaluated | ✅ | [1364](reports/1364-trove-founding-mle-2026-06-13.md) | Founding MLE SF 4d/wk; $175-300K + 0.5%+; knowledge graphs + GenAI for PE/hedge funds; bullseye RAG+agentic |
+| 1365 | 2026-06-13 | Adaption Labs | Founding Forward Deployed ML Engineer | 3.4/5 | Evaluated | ✅ | [1365](reports/1365-adaption-founding-fde-mle-2026-06-13.md) | Founding FDE-MLE SF; 4+y industry + 2+y customer-facing; pure FDE archetype match |
+| 1367 | 2026-06-13 | Planet | AI Engineer, Marketing | 3.1/5 | Evaluated | ✅ | [1367](reports/1367-planet-ai-engineer-marketing-2026-06-13.md) | Marketing AI SF $128-160K (US Nat $112-141K); 5+y stretch; LLM+agentic+structured-outputs stack matches |
+| 1368 | 2026-06-13 | Ema | AI Implementation Engineer | 3.1/5 | Evaluated | ✅ | [1368](reports/1368-ema-ai-implementation-engineer-2026-06-13.md) | [Intl] UK Remote; YC agentic AI; FDE archetype; 5-8y preferred (stretch); strong stack overlap |
+| 1372 | 2026-06-13 | IKUE | Machine Learning Engineer | 3.0/5 | Evaluated | ✅ | [1372](reports/1372-ikue-ml-engineer-2026-06-13.md) | [Intl] Cape Town/Johannesburg remote; Python+Spark+SQL+SageMaker; 3+y; AWS cert preferred |
+| 1373 | 2026-06-13 | Bjak (A1) | Applied AI Engineer | 3.0/5 | Evaluated | ✅ | [1373](reports/1373-bjak-a1-applied-ai-engineer-2026-06-13.md) | [Intl] Seoul Korea on-site; pure stack match incl. Qwen QLoRA; relocation flag |
 | 1362 | 2026-06-13 | CoreStory | AI Engineer | 3.2/5 | Evaluated | ✅ | [1362](reports/1362-corestory-ai-engineer-2026-06-13.md) | [US] Remote-US; comp n/d; LLM/RAG/agentic + multi vector-DB stack bullseye 1:1; 7+y overall floor is the stretch vs 4y SWE; confirm comp + F-1 OPT sponsorship in screen |
 | 1354 | 2026-06-13 | Fixify | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1354](reports/1354-fixify-fde-2026-06-13.md) | [US] Remote US; first FDE role; AI for IT-ops; comp not disclosed; sponsorship open question |
 | 1356 | 2026-06-13 | Reflow | AI Engineer | 3.0/5 | Evaluated | ✅ | [1356](reports/1356-reflow-ai-engineer-canada-2026-06-13.md) | [Intl] Canada; agentic AI workflow platform; 2+ yrs agentic + 4+ yrs backend bar; comp wide-band |

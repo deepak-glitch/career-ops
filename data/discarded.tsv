@@ -633,3 +633,6 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-13	1353		orphan	orphan	0/5		reports/1353-lyra-tech-forward-deployment-ai-engineer-2026-06-13.md	
 2026-06-13	1364		orphan	orphan	0/5		reports/1364-mistral-fde-ml-montreal-2026-06-13.md	
 2026-06-13	1363	2026-06-13	Defense Unicorns	Forward Deployed AI Engineer	2/5	Evaluated	reports/1363-defense-unicorns-fde-ai-2026-06-13.md	[US] Remote-US; $148.75-201.25K; agentic GenAI FDE stack 1:1 BUT requires U.S. citizenship + security clearance — hard veto for F-1 OPT; do not apply
+2026-06-13	1366	2026-06-13	Lightning AI	AI Platform Support Engineer (US)	2.8/5	Evaluated	reports/1366-lightning-ai-platform-support-us-2026-06-13.md	Platform Support SF/Seattle $115-140K; K8s/CUDA/NCCL lean; NO visa sponsorship terminal for F-1 OPT
+2026-06-13	1369	2026-06-13	Huzzle	AI & Automation Specialist	2.4/5	Evaluated	reports/1369-huzzle-ai-automation-specialist-2026-06-13.md	[Intl] Contractor LATAM/SA/Phil/PK only; GHL/n8n/Zapier stack off-archetype; ineligible location
+2026-06-13	1370	2026-06-13	Lightning AI	AI Platform Support Engineer (EMEA)	2.9/5	Evaluated	reports/1370-lightning-ai-platform-support-emea-2026-06-13.md	[Intl] London hybrid £75-95K; same infra-lean mismatch as US version + Intl flag
