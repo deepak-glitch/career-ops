@@ -1634,3 +1634,11 @@ Notes:
 2026-06-13T160117Z	step1-scan	warn	US scan API 404: Tinybird, Travelperk, Forto	fix:none (upstream board removed/renamed; scanner skips gracefully)	outcome:skipped
 2026-06-13T160117Z	step2-pdf	warn	Playwright Chromium not installed (PDF gen failed)	fix:npx playwright install chromium then retry	outcome:resolved
 2026-06-13T160117Z	step3-verify	warn	#1375 Remote People AI Engineer duplicate of existing #976 (same URL/company/role)	fix:rolled back #1375 (removed tracker row + report + merged TSV + PDF + pipeline row); annotated #976 with re-sighting	outcome:resolved
+Processed 3 URLs (US:2 + Intl:1), generated 2 PDFs, archived 1 low-score, pushed b9654d1.
+
+Summary:
+- **Scan:** 0 new from US/Intl ATS scans; Level 3 WebSearch surfaced 3 truly new candidates after dedup.
+- **Pipeline:** #1375 Middesk FDE — SF — 3.3/5 — PDF ✅; #1376 Adaption Labs Applied ML — SF — 3.4/5 — PDF ✅; #1377 DevRev FDE Applied AI — Japan Remote — 2.7/5 (F-1 OPT veto) — swept to `data/discarded.tsv`.
+- **Verify:** 0 errors / 0 warnings.
+- **Cleanup:** 1 below-threshold deleted, no `[!]` cruft swept this pass.
+- **Commit/Push:** `b9654d1` to `origin/main` (first try, no retries needed).
