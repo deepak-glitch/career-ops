@@ -1629,3 +1629,8 @@ Notes:
 - Level 3 WebSearch surfaced 9 candidate URLs (3 US, 6 Intl). After dedup + extraction, 7 were confirmed dead (Greenhouse `?error=true`, Ashby `jobPosting=null`, Workable `?not_found=true`, YC 404, Himalayas Cloudflare-challenged) and marked `- [!]` for `cleanup-bang-rows.mjs` to sweep.
 - Only 2 URLs (SilverTree #1374 = 2.5/5, Zipdev #1375 = 2.8/5) were live; both scored below 3.0 (UK-grad-tier comp mismatch; Mexico-contractor structure incompatible with F-1 OPT) and were deleted by `cleanup-low-scores.mjs` per the hard rule. Audit rows survive in `data/discarded.tsv`.
 - `verify-pipeline.mjs` ended at 0 errors / 0 warnings across 586 entries.
+2026-06-13T160117Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-13T160117Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install once then retry	outcome:resolved
+2026-06-13T160117Z	step1-scan	warn	US scan API 404: Tinybird, Travelperk, Forto	fix:none (upstream board removed/renamed; scanner skips gracefully)	outcome:skipped
+2026-06-13T160117Z	step2-pdf	warn	Playwright Chromium not installed (PDF gen failed)	fix:npx playwright install chromium then retry	outcome:resolved
+2026-06-13T160117Z	step3-verify	warn	#1375 Remote People AI Engineer duplicate of existing #976 (same URL/company/role)	fix:rolled back #1375 (removed tracker row + report + merged TSV + PDF + pipeline row); annotated #976 with re-sighting	outcome:resolved
