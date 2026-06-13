@@ -13,7 +13,13 @@
      `data/applications.md` (the unified application tracker). -->
 
 ## Pending
+
 ## Processed
+
+### 2026-06-13
+- [x] #1342 | https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer | EMEA (Paris +6 EU hubs) | 3.2/5 | PDF ✅
+- [x] #1343 | https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product | Paris — On-site (≥3d/wk) | 3.1/5 | PDF ✅
+- [x] #1344 | https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4 | Cartesia | Founding Forward Deployed Engineer (India) | Bangalore — On-site | 3.3/5 | PDF ✅
 
 ### 2026-06-12
 - [x] #1335 | https://job-boards.greenhouse.io/sezzle/jobs/7633986003 | Sezzle | AI Engineer II (Remote) | Türkiye — Remote | 3.0/5 | PDF ✅

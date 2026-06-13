@@ -1592,3 +1592,9 @@ Processed 6 URLs (US:1 + Intl:5), generated 3 PDFs, archived 3 low-score, pushed
 2026-06-12T200122Z	scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps missing in fresh container)	fix:npm install	outcome:resolved
 2026-06-12T200122Z	scan	warn	portal HTTP 404 x3 (Tinybird, Travelperk, Forto) both tracks	fix:none-portalside endpoint moved	outcome:skipped
 Processed 2 URLs (US:1 + Intl:1), generated 2 PDFs, archived 0 low-score, pushed 68b070e.
+2026-06-13T000138Z	setup	warn	git pull non-fast-forward (local main diverged from origin)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-13T000138Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-13T000138Z	step1-scan-us	warn	3 company endpoints HTTP 404 (Tinybird, Travelperk, Forto)	fix:scanner skipped them, continued	outcome:skipped
+2026-06-13T000138Z	step2-pdf	warn	Playwright chromium browser binary missing	fix:npx playwright install chromium	outcome:resolved
+2026-06-13T000138Z	step2-extract	warn	Lever WebFetch 403 (Palantir, Mistral x2)	fix:fell back to Lever API api.lever.co/v0/postings	outcome:resolved
+2026-06-13T000138Z	step2-extract	warn	Splitero Applied AI Engineer greenhouse API 404 (posting closed)	fix:marked [!] then cleanup-bang-rows set scan-history dead, dropped from pending	outcome:skipped

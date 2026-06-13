@@ -6,8 +6,15 @@
      creates it at the end of Pending. -->
 
 ## Pending
-
 ## Processed
+
+### 2026-06-13
+- [x] #1336 | https://job-boards.greenhouse.io/perfectserve/jobs/5830849004 | PerfectServe | Software Engineer, Full Stack AI | Remote (US) | 4.3/5 | PDF ✅
+- [x] #1337 | https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Boston/NYC/Seattle/SF/DC — Hybrid | 3.7/5 | PDF ✅
+- [x] #1338 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote (US) | 4.0/5 | PDF ✅
+- [x] #1339 | https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer | San Francisco, CA — On-site | 3.4/5 | PDF ✅
+- [x] #1340 | https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer | New York, NY — On-site | 3.6/5 | PDF ✅
+- [x] #1341 | https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2 | Camunda | AI Process Forward Deployed Engineer | Remote (Global/US) | 3.4/5 | PDF ✅
 
 ### 2026-06-12
 - [x] #1334 | https://jobs.ashbyhq.com/netic/286a085a-2942-455a-a384-8c44ff5b7e85 | Netic | Forward Deployed Agent Engineer | San Francisco, CA — On-site | 3.8/5 | PDF ✅
