@@ -1618,3 +1618,7 @@ Processed 14 URLs (US:5 + Intl:9), generated 9 PDFs, archived 5 low-score, pushe
 Processed 10 URLs (US:5 + Intl:5), generated 7 PDFs, archived 3 low-score, pushed cc32f3b.
 
 Top picks from this run: **Trove Founding MLE SF (3.7)**, **Adaptive Security Founding MLE NYC (3.5)**, **Adaption Founding FDE-MLE SF (3.4)**, **Planet AI Marketing (3.1)**, **Ema AI Implementation UK (3.1)**, **Bjak A1 Seoul (3.0)**, **IKUE MLE Cape Town (3.0)**.
+2026-06-13T120132Z	setup	warn	git pull --ff-only failed (diverging branches, forced-update upstream)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-13T120132Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules missing in fresh container)	fix:npm install	outcome:resolved
+2026-06-13T120132Z	scan	warn	scan.mjs per-company HTTP 404: Tinybird, Travelperk, Forto (both tracks)	fix:scanner auto-skips dead endpoints; continue	outcome:skipped
+2026-06-13T120132Z	pipeline	warn	0 pending after scan (US:0 Intl:0); L3 net-new all dead/senior-filtered/already-evaluated	fix:nothing to evaluate, proceed per Playbook #9	outcome:resolved
