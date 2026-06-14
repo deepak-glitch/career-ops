@@ -1681,3 +1681,10 @@ Run summary:
 2026-06-14T080133Z	pipeline-tsv	warn	printf truncated 1389 TSV on literal % in +27%	fix:rewrote with printf %s format	outcome:resolved
 2026-06-14T080133Z	pipeline-extract	warn	stale L3 hits dead: General Robotics(ashby null) Kodiak-newgrad(gh dead) Meshy(404) NICE(redirect) PropLogix-AI(closed) Tenex(null)	fix:verified via API; not added	outcome:skipped
 2026-06-14T080133Z	pipeline-us	warn	0 net-new live US roles (mature pipeline; all L3 hits dup/dead/filtered)	fix:none needed	outcome:resolved
+2026-06-14T120158Z	setup	warn	git pull --ff-only failed (diverging branches, upstream force-update)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-14T120158Z	step1-scan-US	warn	scan.mjs company Tinybird HTTP 404	fix:skip company, endpoint stale (not new-grad blocking)	outcome:skipped
+2026-06-14T120158Z	step1-scan-US	warn	scan.mjs company Travelperk HTTP 404	fix:skip company, endpoint stale (not new-grad blocking)	outcome:skipped
+2026-06-14T120158Z	step1-scan-US	warn	scan.mjs company Forto HTTP 404	fix:skip company, endpoint stale (not new-grad blocking)	outcome:skipped
+2026-06-14T120158Z	step1-L3	warn	Speak Ashby jobPosting=null (posting closed/dead)	fix:mark dead in scan-history, do not add to pipeline	outcome:skipped
+2026-06-14T120158Z	step1-L3	warn	Jobgether ML Engineer Lever API doc-not-found (dead/relisted)	fix:mark dead in scan-history, aggregator legitimacy low	outcome:skipped
+2026-06-14T120158Z	step4-cleanup	warn	16 stray tmp/probe files tracked from prior runs (empty stubs, one-off fetch probes)	fix:git rm 16 files (no real references)	outcome:resolved

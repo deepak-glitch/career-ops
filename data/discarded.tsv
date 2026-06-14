@@ -643,3 +643,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-13	1380	2026-06-13	Aim4Hire	AI Engineer	2.9/5	Evaluated	reports/1380-aim4hire-ai-engineer-2026-06-13.md	[US] Austin/Remote; agency-sourced unnamed VC-backed client; RAG/multi-agent/finetuning strong fit but 8+ yrs backend Python floor (~2x tenure) + thin unnamed posting; below threshold
 2026-06-14	1378		orphan	orphan	0/5		reports/1378-openai-forward-deployed-software-engineer-paris-2026-06-14.md	
 2026-06-14	1385		orphan	orphan	0/5		reports/1385-modal-fde-ml-2026-06-14.md	
+2026-06-14	1390	2026-06-14	HALA	AI Engineer (All Levels)	2.7/5	Evaluated	reports/1390-hala-ai-engineer-2026-06-14.md	[Intl] Riyadh on-site fintech GenAI/RAG — near-perfect tech+domain fit but on-site Riyadh + Saudi-nationality-gated application + no remote = hard relocation/work-auth blocker for US F-1 OPT; below threshold
