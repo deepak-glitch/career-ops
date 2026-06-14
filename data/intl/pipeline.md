@@ -18,9 +18,12 @@
 - [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | error: Himalayas Cloudflare-challenged (unreachable in batch)
 - [!] https://wayve.firststage.co/jobs?gh_jid=8572927002 | error: Wayve Partner Integration Engineer Tokyo requires Japanese fluency (terminal); skipping evaluation
 - [!] https://apply.workable.com/huzzle/j/26ECD081DE | error: vague/insufficient JD body in batch mode
+
 ## Processed
 
 ### 2026-06-14
+- [x] #1394 | https://apply.workable.com/boardofinnovation/j/531B141B6C | Board of Innovation | AI Engineer | Belgium HQ — perm/contractor by location & auth | 3.4/5 | PDF ✅
+- [x] #1393 | https://job-boards.greenhouse.io/nearform/jobs/7619129003 | Nearform | Forward Deployed Engineer (Perm, UK, Remote + Travel) | UK — Remote + Travel | 3.0/5 | PDF ✅
 - [x] #1391 | https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer - EMEA | Paris/London/Luxembourg/Marseille/Amsterdam/Munich/Lausanne — On-site | 3.5/5 | PDF ✅
 - [x] #1388 | https://job-boards.greenhouse.io/sezzle/jobs/7633988003 | Sezzle | AI Engineer II (Remote) | Brazil — Remote | 3.0/5 | PDF ✅
 - [x] #1389 | https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b | Mistral AI | Applied AI, Forward Deployed ML Engineer (Montreal) | Montreal, Canada — On-site/Hybrid | 3.2/5 | PDF ✅
