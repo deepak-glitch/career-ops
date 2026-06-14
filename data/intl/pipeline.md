@@ -21,6 +21,7 @@
 ## Processed
 
 ### 2026-06-14
+- [x] #1391 | https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer - EMEA | Paris/London/Luxembourg/Marseille/Amsterdam/Munich/Lausanne — On-site | 3.5/5 | PDF ✅
 - [x] #1388 | https://job-boards.greenhouse.io/sezzle/jobs/7633988003 | Sezzle | AI Engineer II (Remote) | Brazil — Remote | 3.0/5 | PDF ✅
 - [x] #1389 | https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b | Mistral AI | Applied AI, Forward Deployed ML Engineer (Montreal) | Montreal, Canada — On-site/Hybrid | 3.2/5 | PDF ✅
 - [x] #1387 | https://himalayas.app/companies/featherless-ai/jobs/machine-learning-engineer-multilingual-data | Featherless AI | Machine Learning Engineer, Multilingual Data | Remote — Worldwide | 3.0/5 | PDF ✅

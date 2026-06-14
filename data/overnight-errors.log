@@ -1700,3 +1700,11 @@ Quiet overnight run: `scan.mjs` returned 0 new offers in both tracks (most fresh
 Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed 653dcd1.
 
 Run notes: Level 1/2 API scans returned 0 net new offers across both tracks (114 companies, 7,239 total jobs filtered down to 0 after title/region/age/dedup gates). Level 3 WebSearch turned up Databricks U.S. Federal FDE (requires US citizenship + Secret clearance — F-1 OPT disqualifier) and Deel AI/ML Engineer (Ashby SPA, JD body unreachable from this sandbox); both logged as skipped, neither added to a pipeline. Both Pendientes were empty of actionable `- [ ]` items (only stale `- [!]` extraction failures from prior runs, which `cleanup-bang-rows.mjs` left in place as `kept_unmatched`). Verifier stayed green (0 errors / 0 warnings).
+2026-06-14T200143Z	setup	warn	git pull --ff-only failed (diverging)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-14T200143Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-14T200143Z	step1-scan-US	warn	company scan HTTP 404: Tinybird, Travelperk, Forto	fix:skipped dead ATS endpoints (scan.mjs non-fatal)	outcome:skipped
+2026-06-14T200143Z	step1-scan-Intl	warn	company scan HTTP 404: Tinybird, Travelperk, Forto	fix:skipped dead ATS endpoints (scan.mjs non-fatal)	outcome:skipped
+2026-06-14T200143Z	step2-pdf	warn	Playwright chromium executable missing	fix:npx playwright install chromium then retry	outcome:resolved
+2026-06-14T200143Z	step1-L3-extract	warn	Cohere Health MLE I (GH 6645231003) HTTP 404	fix:marked dead, not queued	outcome:skipped
+2026-06-14T200143Z	step1-L3-extract	warn	Quest Founding (Ashby ccacbf3f) jobPosting=null	fix:marked dead, not queued	outcome:skipped
+2026-06-14T200143Z	step1-L3-extract	warn	Hopper pricing-analytics (Ashby 4a5fc6de) delisted from live board	fix:marked dead, not queued	outcome:skipped
