@@ -1691,3 +1691,9 @@ Run summary:
 Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed ed5cf62.
 
 Quiet overnight run: `scan.mjs` returned 0 new offers in both tracks (most fresh listings already deduped against history). L3 WebSearch surfaced 8 candidates (Plain, Occam, Bjak, Jobgether, Meter, Precision Medicine, SmartAssets, Modern Realty) — all resolved dead (board 404, removed jobs) or filtered (Senior/Lead title). Marked them as `- [!]` so `cleanup-bang-rows` swept them and tagged scan-history with the right status. Pipeline verifier: 0 errors / 0 warnings.
+2026-06-14T160118Z	setup	warn	git pull --ff-only failed: diverged (stale local 2026-06-04 commits)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-14T160118Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-14T160118Z	step1-scan-us	warn	Tinybird HTTP 404 (dead/changed ATS endpoint)	fix:skip company, scan.mjs continued	outcome:skipped
+2026-06-14T160118Z	step1-scan-us	warn	Travelperk HTTP 404 (dead/changed ATS endpoint)	fix:skip company, scan.mjs continued	outcome:skipped
+2026-06-14T160118Z	step1-scan-us	warn	Forto HTTP 404 (dead/changed ATS endpoint)	fix:skip company, scan.mjs continued	outcome:skipped
+2026-06-14T160118Z	step2-pipeline	warn	0 net-new after scan+L3; all pending are dead/terminal [!] breadcrumbs (verified: workatastartup SPA empty, NewsBreak 404, Kalepa/GenRobotics dead)	fix:none needed, nothing to evaluate	outcome:resolved
