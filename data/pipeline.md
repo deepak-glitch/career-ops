@@ -26,6 +26,7 @@
 ## Processed
 
 ### 2026-06-14
+- [x] #1383 | https://jobs.lever.co/collate/31c0b6b3-3a59-4fd4-8ca9-63ff2740780a | Collate | Forward Deployed Engineer | San Francisco — On-site | 3.5/5 | PDF ✅
 - [x] #1378 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5013919008 | Thinking Machines Lab | Software Engineer, Data Infrastructure | San Francisco — On-site | 3.2/5 | PDF ✅
 - [x] #1379 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5013911008 | Thinking Machines Lab | Software Engineer, Full Stack | San Francisco — On-site | 3.3/5 | PDF ✅
 

@@ -1668,3 +1668,8 @@ Run summary:
 - **Verify:** 0 errors / 0 warnings (resolved a LanguageWire dup by keeping canonical #1116 with re-eval note).
 - **Cleanup:** No low-score artifacts. Bang-row sweep dropped 1 empty subsection per track.
 - **Commit/push:** `f941bb9` pushed to origin/main.
+2026-06-14T040135Z	setup	warn	git pull --ff-only failed: diverging branches (origin force-updated)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-14T040135Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-14T040135Z	step1-scan-us	warn	scanner company HTTP 404: Tinybird, Travelperk, Forto	fix:scanner skipped gracefully, continue	outcome:skipped
+2026-06-14T040135Z	step2-pdf	warn	Playwright Chromium executable missing	fix:npx playwright install chromium	outcome:resolved
+2026-06-14T040135Z	step3-merge	warn	Mistral PA #1384 & EMEA #1386 fuzzy-matched as duplicates of existing #63 (Applied AI/FDE ML Engineer)	fix:removed orphan reports+PDFs+merged TSVs+pipeline rows for 1384/1386	outcome:resolved
