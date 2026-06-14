@@ -1697,3 +1697,6 @@ Quiet overnight run: `scan.mjs` returned 0 new offers in both tracks (most fresh
 2026-06-14T160118Z	step1-scan-us	warn	Travelperk HTTP 404 (dead/changed ATS endpoint)	fix:skip company, scan.mjs continued	outcome:skipped
 2026-06-14T160118Z	step1-scan-us	warn	Forto HTTP 404 (dead/changed ATS endpoint)	fix:skip company, scan.mjs continued	outcome:skipped
 2026-06-14T160118Z	step2-pipeline	warn	0 net-new after scan+L3; all pending are dead/terminal [!] breadcrumbs (verified: workatastartup SPA empty, NewsBreak 404, Kalepa/GenRobotics dead)	fix:none needed, nothing to evaluate	outcome:resolved
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed 653dcd1.
+
+Run notes: Level 1/2 API scans returned 0 net new offers across both tracks (114 companies, 7,239 total jobs filtered down to 0 after title/region/age/dedup gates). Level 3 WebSearch turned up Databricks U.S. Federal FDE (requires US citizenship + Secret clearance — F-1 OPT disqualifier) and Deel AI/ML Engineer (Ashby SPA, JD body unreachable from this sandbox); both logged as skipped, neither added to a pipeline. Both Pendientes were empty of actionable `- [ ]` items (only stale `- [!]` extraction failures from prior runs, which `cleanup-bang-rows.mjs` left in place as `kept_unmatched`). Verifier stayed green (0 errors / 0 warnings).
