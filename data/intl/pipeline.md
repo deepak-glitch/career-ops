@@ -21,6 +21,9 @@
 
 ## Processed
 
+### 2026-06-14
+- [x] #1377 | https://jobs.ashbyhq.com/adaptyv/3377f1b8-10b8-45c3-b03c-1c065b4f8608 | Adaptyv | Forward Deployed Engineer | Lausanne, Switzerland — Hybrid/Remote | 3.3/5 | PDF ✅
+
 ### 2026-06-13
 - [x] #1368 | https://himalayas.app/companies/ema/jobs/ai-implementation-engineer | Ema | AI Implementation Engineer | UK Remote | 3.1/5 | PDF ✅
 - [x] #1373 | https://jobs.ashbyhq.com/bjakcareer/e128c8a0-fb9c-47bf-be19-10dd58375ad4 | Bjak (A1) | Applied AI Engineer | Seoul, Korea — On-site | 3.0/5 | PDF ✅

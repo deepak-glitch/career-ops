@@ -641,3 +641,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-13	1377		orphan	orphan	0/5		reports/1377-devrev-forward-deployed-engineer-applied-ai-2026-06-13.md	
 2026-06-13	1379	2026-06-13	Defense Unicorns	Forward Deployed AI Engineer	2.5/5	Evaluated	reports/1379-defense-unicorns-fde-ai-engineer-2026-06-13.md	[US] US-Remote; agentic GenAI/RAG/FDE strong tech fit BUT requires U.S. CITIZENSHIP + clearance eligibility = hard blocker for F-1 OPT (categorically ineligible); below threshold
 2026-06-13	1380	2026-06-13	Aim4Hire	AI Engineer	2.9/5	Evaluated	reports/1380-aim4hire-ai-engineer-2026-06-13.md	[US] Austin/Remote; agency-sourced unnamed VC-backed client; RAG/multi-agent/finetuning strong fit but 8+ yrs backend Python floor (~2x tenure) + thin unnamed posting; below threshold
+2026-06-14	1378		orphan	orphan	0/5		reports/1378-openai-forward-deployed-software-engineer-paris-2026-06-14.md	

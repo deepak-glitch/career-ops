@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1377 | 2026-06-14 | Adaptyv | Forward Deployed Engineer | 3.3/5 | Evaluated | ✅ | [1377](reports/1377-adaptyv-forward-deployed-engineer-2026-06-14.md) | Strong FDE + API-integration fit; biotech domain + CH location flags [Intl] |
 | 1375 | 2026-06-13 | Middesk | Forward Deployed Engineer | 3.3/5 | Evaluated | ✅ | [1375](reports/1375-middesk-forward-deployed-engineer-2026-06-13.md) | [US] SF on-site; YC/Sequoia/Accel fintech identity verification; LLM+agents+evals scope strong, 6+ years requirement is the cap; $148K-$275K + equity disclosed |
 | 1376 | 2026-06-13 | Adaption Labs | Applied ML Engineer | 3.4/5 | Evaluated | ✅ | [1376](reports/1376-adaption-labs-applied-ml-engineer-2026-06-13.md) | [US] SF on-site; sister role to #1365 Founding FDE ML (3.4/5); Adaption Labs thesis is adaptive/online-learning ML; PyTorch/JAX/TensorFlow; 4+ years ML + 2+ customer-facing |
 | 1374 | 2026-06-13 | Kled AI | Fraud/ML Engineer | 3.2/5 | Evaluated | ✅ | [1374](reports/1374-kled-ai-fraud-ml-engineer-2026-06-13.md) | [US] Remote US seed-stage data network (#1 App Store, $5M+ raised); adversarial ML / Trust & Safety; strong vector-search + production-ML core, CV/deepfake detection is the gap; comp undisclosed |

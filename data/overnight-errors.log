@@ -1655,3 +1655,7 @@ Notes on this run:
 - Level 3 WebSearch surfaced 5 fresh workatastartup URLs (Infer, ShipBob, Contrario, Vector Legal, Model ML). Per the known SPA limitation (WebFetch only returns the header on workatastartup.com), all 5 were recorded in `data/scan-history.tsv` and added to `data/pipeline.md` Pending as `- [!]` for interactive Playwright retry — matching the prior bang-row convention.
 - No `- [ ]` URLs in either Pendientes → 0 evaluations, 0 reports, 0 PDFs.
 - `verify-pipeline.mjs` clean (589 entries, 0 errors / 0 warnings). `cleanup-low-scores.mjs` no-op. `cleanup-bang-rows.mjs` kept 16 unmatched bang-rows idempotently.
+2026-06-14T000147Z	setup	warn	git pull non-ff (origin force-updated d3e3f1b->51b11c5)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-14T000147Z	step1-scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-14T000147Z	step1-scan-us	warn	scan HTTP 404 Tinybird/Travelperk/Forto	fix:scanner skipped dead boards, continue	outcome:skipped
+2026-06-14T000147Z	step2-pdf	warn	Playwright chromium browser not installed	fix:npx playwright install chromium + retry	outcome:resolved
