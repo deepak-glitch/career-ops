@@ -1673,3 +1673,11 @@ Run summary:
 2026-06-14T040135Z	step1-scan-us	warn	scanner company HTTP 404: Tinybird, Travelperk, Forto	fix:scanner skipped gracefully, continue	outcome:skipped
 2026-06-14T040135Z	step2-pdf	warn	Playwright Chromium executable missing	fix:npx playwright install chromium	outcome:resolved
 2026-06-14T040135Z	step3-merge	warn	Mistral PA #1384 & EMEA #1386 fuzzy-matched as duplicates of existing #63 (Applied AI/FDE ML Engineer)	fix:removed orphan reports+PDFs+merged TSVs+pipeline rows for 1384/1386	outcome:resolved
+2026-06-14T080133Z	setup	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-14T080133Z	setup	warn	git pull --ff-only failed (diverged, forced-update upstream)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-14T080133Z	scan-us	warn	scan.mjs 3 company endpoints HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skips dead endpoints internally	outcome:skipped
+2026-06-14T080133Z	scan-intl	warn	scan.mjs 3 company endpoints HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skips dead endpoints internally	outcome:skipped
+2026-06-14T080133Z	pipeline-pdf	warn	Playwright Chromium not installed (PDF gen failed)	fix:npx playwright install chromium + retry	outcome:resolved
+2026-06-14T080133Z	pipeline-tsv	warn	printf truncated 1389 TSV on literal % in +27%	fix:rewrote with printf %s format	outcome:resolved
+2026-06-14T080133Z	pipeline-extract	warn	stale L3 hits dead: General Robotics(ashby null) Kodiak-newgrad(gh dead) Meshy(404) NICE(redirect) PropLogix-AI(closed) Tenex(null)	fix:verified via API; not added	outcome:skipped
+2026-06-14T080133Z	pipeline-us	warn	0 net-new live US roles (mature pipeline; all L3 hits dup/dead/filtered)	fix:none needed	outcome:resolved
