@@ -23,6 +23,14 @@
 - [!] https://www.workatastartup.com/jobs/95799 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
 - [!] https://www.workatastartup.com/jobs/85541 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
 
+### 2026-06-14
+
+- [!] https://jobs.ashbyhq.com/plain/fd10161b-2139-4432-ab75-59be1a12da23 | error: title is Senior Product Engineer (AI) — filtered (Senior keyword)
+- [!] https://jobs.lever.co/jobgether/67ebe0ea-0cab-449c-b786-f4c91c4f1446 | error: not in Lever board listing (dead)
+- [!] https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5769763004 | error: job ID not in Greenhouse board listing (dead)
+- [!] https://www.workatastartup.com/jobs/66546 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
+- [!] https://apply.workable.com/smartassets/j/1FE5187A8E/ | error: JD body filtered (Lead AI Engineer per partial JD)
+
 ## Processed
 
 ### 2026-06-14
