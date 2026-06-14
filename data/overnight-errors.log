@@ -1688,3 +1688,6 @@ Run summary:
 2026-06-14T120158Z	step1-L3	warn	Speak Ashby jobPosting=null (posting closed/dead)	fix:mark dead in scan-history, do not add to pipeline	outcome:skipped
 2026-06-14T120158Z	step1-L3	warn	Jobgether ML Engineer Lever API doc-not-found (dead/relisted)	fix:mark dead in scan-history, aggregator legitimacy low	outcome:skipped
 2026-06-14T120158Z	step4-cleanup	warn	16 stray tmp/probe files tracked from prior runs (empty stubs, one-off fetch probes)	fix:git rm 16 files (no real references)	outcome:resolved
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed ed5cf62.
+
+Quiet overnight run: `scan.mjs` returned 0 new offers in both tracks (most fresh listings already deduped against history). L3 WebSearch surfaced 8 candidates (Plain, Occam, Bjak, Jobgether, Meter, Precision Medicine, SmartAssets, Modern Realty) — all resolved dead (board 404, removed jobs) or filtered (Senior/Lead title). Marked them as `- [!]` so `cleanup-bang-rows` swept them and tagged scan-history with the right status. Pipeline verifier: 0 errors / 0 warnings.
