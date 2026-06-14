@@ -1708,3 +1708,4 @@ Run notes: Level 1/2 API scans returned 0 net new offers across both tracks (114
 2026-06-14T200143Z	step1-L3-extract	warn	Cohere Health MLE I (GH 6645231003) HTTP 404	fix:marked dead, not queued	outcome:skipped
 2026-06-14T200143Z	step1-L3-extract	warn	Quest Founding (Ashby ccacbf3f) jobPosting=null	fix:marked dead, not queued	outcome:skipped
 2026-06-14T200143Z	step1-L3-extract	warn	Hopper pricing-analytics (Ashby 4a5fc6de) delisted from live board	fix:marked dead, not queued	outcome:skipped
+Processed 4 URLs (US:1 + Intl:3), generated 2 PDFs, archived 2 low-score, pushed 86c6991.
