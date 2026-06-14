@@ -23,6 +23,9 @@
 
 ### 2026-06-14
 - [x] #1377 | https://jobs.ashbyhq.com/adaptyv/3377f1b8-10b8-45c3-b03c-1c065b4f8608 | Adaptyv | Forward Deployed Engineer | Lausanne, Switzerland — Hybrid/Remote | 3.3/5 | PDF ✅
+- [x] #1380 | https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93 | OpenAI | Forward Deployed Engineer - Paris | Paris, France — Hybrid 3d/wk + 50% travel | 3.0/5 | PDF ✅
+- [x] #1381 | https://apply.workable.com/languagewire/j/685F344246/ | LanguageWire | AI Engineer | Spain — FlexiWire@home remote | 3.6/5 | PDF ✅
+- [x] #1382 | https://job-boards.greenhouse.io/devrev/jobs/5837052004 | DevRev | Forward Deployed Engineer - Applied AI | Japan — Remote + 30% on-site travel | 3.0/5 | PDF ✅
 
 ### 2026-06-13
 - [x] #1368 | https://himalayas.app/companies/ema/jobs/ai-implementation-engineer | Ema | AI Implementation Engineer | UK Remote | 3.1/5 | PDF ✅

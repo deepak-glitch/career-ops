@@ -25,6 +25,10 @@
 
 ## Processed
 
+### 2026-06-14
+- [x] #1378 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5013919008 | Thinking Machines Lab | Software Engineer, Data Infrastructure | San Francisco — On-site | 3.2/5 | PDF ✅
+- [x] #1379 | https://job-boards.greenhouse.io/thinkingmachines/jobs/5013911008 | Thinking Machines Lab | Software Engineer, Full Stack | San Francisco — On-site | 3.3/5 | PDF ✅
+
 ### 2026-06-13
 - [x] #1375 | https://jobs.ashbyhq.com/middesk/a72b1048-1001-49b1-92bd-9c44574f939b | Middesk | Forward Deployed Engineer | San Francisco — On-site | 3.3/5 | PDF ✅
 - [x] #1376 | https://jobs.ashbyhq.com/adaption/df86cb98-a1cf-445f-a80b-eeca448749f7 | Adaption Labs | Applied ML Engineer | San Francisco — On-site | 3.4/5 | PDF ✅
