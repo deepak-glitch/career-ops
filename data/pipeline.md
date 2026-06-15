@@ -33,6 +33,9 @@
 
 ## Processed
 
+### 2026-06-15
+- [x] #1395 | https://job-boards.greenhouse.io/banyaninfrastructure/jobs/4628053005 | Banyan Infrastructure | AI Engineer (Mid-Senior Level) | San Francisco, CA — Hybrid (3d office) | 3.5/5 | PDF ✅
+
 ### 2026-06-14
 - [x] #1390 | https://job-boards.greenhouse.io/truveta/jobs/5555763004 | Truveta | Machine Learning Engineer - LLMs & Generative AI | Seattle, WA — Hybrid | 3.1/5 | PDF ✅
 - [x] #1383 | https://jobs.lever.co/collate/31c0b6b3-3a59-4fd4-8ca9-63ff2740780a | Collate | Forward Deployed Engineer | San Francisco — On-site | 3.5/5 | PDF ✅

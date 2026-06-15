@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1395 | 2026-06-15 | Banyan Infrastructure | AI Engineer (Mid-Senior) | 3.5/5 | Evaluated | ✅ | [1395](reports/1395-banyan-infrastructure-ai-engineer-2026-06-15.md) | [US] SF hybrid 3d/wk green-finance fintech; MCP/RAG/ReAct/agentic + doc extraction bullseye; no H1B sponsorship + relocation cap score |
 | 1394 | 2026-06-14 | Board of Innovation | AI Engineer | 3.4/5 | Evaluated | ✅ | [1394](reports/1394-boi-ai-engineer-2026-06-14.md) | [Intl] Belgium HQ (perm/contractor depende de location/auth); strong archetype + skill match (agents/MCP/RAG/evals); JD body inferred via WebSearch corroboration |
 | 1390 | 2026-06-14 | Truveta | Machine Learning Engineer - LLMs & Generative AI | 3.1/5 | Evaluated | ✅ | [1390](reports/1390-truveta-mle-llms-genai-2026-06-14.md) | [US] Seattle WA Hybrid; $155-175K base; clinical/biomedical LLM + multimodal foundation models; stack+domain 1:1 (RAG 92%/QLoRA H100/clinical ML) but 6+yr senior gate + NO visa sponsorship + relocation friction |
 | 1383 | 2026-06-14 | Collate | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1383](reports/1383-collate-fde-2026-06-14.md) | [US] San Francisco on-site; YC-backed life-sciences AI doc-gen ($125M raised); first FDE hire deploying agentic+RAG into Fortune 100 regulatory workflows; healthcare domain bullseye; $150-300K Tier1 SF; senior/tech-lead bar + on-site relocation are stretch; F-1 OPT |

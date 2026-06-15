@@ -1709,3 +1709,8 @@ Run notes: Level 1/2 API scans returned 0 net new offers across both tracks (114
 2026-06-14T200143Z	step1-L3-extract	warn	Quest Founding (Ashby ccacbf3f) jobPosting=null	fix:marked dead, not queued	outcome:skipped
 2026-06-14T200143Z	step1-L3-extract	warn	Hopper pricing-analytics (Ashby 4a5fc6de) delisted from live board	fix:marked dead, not queued	outcome:skipped
 Processed 4 URLs (US:1 + Intl:3), generated 2 PDFs, archived 2 low-score, pushed 86c6991.
+2026-06-15T000156Z	setup	warn	git pull --ff-only failed (diverging/forced upstream)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-15T000156Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install (added 59 pkgs)	outcome:resolved
+2026-06-15T000156Z	step1-scan	warn	US+Intl scan: Tinybird/Travelperk/Forto HTTP 404 (portal endpoints stale)	fix:none (portal-side); scan continued, 0 net-new	outcome:skipped
+2026-06-15T000156Z	step2-pdf	warn	Playwright Chromium browser not installed (generate-pdf.mjs)	fix:npx playwright install chromium + retry	outcome:resolved
+2026-06-15T000156Z	step3-verify	warn	verify-pipeline fuzzy-duplicate #1394/#885 (Board of Innovation — AI Engineer; distinct re-post URLs 50EB96733C vs 531B141B6C, 1mo apart)	fix:normalize-statuses+dedup-tracker (0 removed; conservative, distinct URLs not auto-merged)	outcome:unresolved
