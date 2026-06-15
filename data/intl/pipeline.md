@@ -22,6 +22,7 @@
 ## Processed
 
 ### 2026-06-15
+- [x] #1401 | https://jobs.workable.com/view/gzm67fKY8TMRmypo7EHCiQ/remote-ai-automation-engineer-in-spain-at-leadtech | Leadtech | AI Automation Engineer | Spain — remote-first | 3.0/5 | PDF ✅
 
 ### 2026-06-14
 - [x] #1394 | https://apply.workable.com/boardofinnovation/j/531B141B6C | Board of Innovation | AI Engineer | Belgium HQ — perm/contractor by location & auth | 3.4/5 | PDF ✅

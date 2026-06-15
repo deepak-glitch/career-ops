@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1401 | 2026-06-15 | Leadtech | AI Automation Engineer | 3.0/5 | Evaluated | ✅ | [1401](reports/1401-leadtech-ai-automation-engineer-2026-06-15.md) | [Intl] Spain remote-first; LLM/prompt/multi-agent/REST-API overlap + 2yr bar cleared, but core N8N/CRM-helpdesk/voice-AI automation gap + EU work auth (F-1 OPT) drag; borderline keep |
 | 1396 | 2026-06-15 | Console | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1396](reports/1396-console-fde-2026-06-15.md) | [US] San Francisco — On-site 5d; $180K-$280K + equity (early exercise + QSBS); Series A AI agents ($29M Thrive); Databricks/Figma/Cursor logos; relocation required; sponsorship unstated (verify) |
 | 1397 | 2026-06-15 | FutureFit AI | Software Engineer | 3.0/5 | Evaluated | ✅ | [1397](reports/1397-futurefit-ai-swe-2026-06-15.md) | [US] Remote North America; workforce-development AI platform; full-stack TS-heavy; comp not disclosed (expect $130-160K mid); mission-driven; generic "high X" boilerplate yellow flag |
 | 1398 | 2026-06-15 | Kraken | Site Reliability Engineer - AI Agents | 3.2/5 | Evaluated | ✅ | [1398](reports/1398-kraken-sre-ai-agents-2026-06-15.md) | [US] Remote US; $96K-$192K + equity + bonus; Payward AI Infra team within Data org; SRE-flavored AI Platform/MLOps for production agents; no formal on-call experience (soft gap); crypto domain |

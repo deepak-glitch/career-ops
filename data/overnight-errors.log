@@ -1724,3 +1724,10 @@ Processed 4 URLs (US:3 + Intl:1), generated 3 PDFs, archived 1 low-score, pushed
 | 1399 | Intl | Faktion BV | Applied Research AI Engineer (Antwerp BE, Dutch req) | 2.6 | discarded |
 
 Notes: scan APIs returned 0 new offers (system is well-covered); Level 3 WebSearch surfaced ~30 candidate URLs, all but 4 were already in scan-history or seniority-filtered. Verify ends 0 errors / 1 pre-existing warning (Board of Innovation dup #885/#1394 from earlier runs — preserved as history).
+2026-06-15T040117Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-15T040117Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-15T040117Z	scan-us	warn	scanner company 404s: Tinybird/Travelperk/Forto	fix:none (stale ATS slugs, scanner skips gracefully)	outcome:skipped
+2026-06-15T040117Z	scan-intl	warn	scanner company 404s: Tinybird/Travelperk/Forto	fix:none (stale ATS slugs, scanner skips gracefully)	outcome:skipped
+2026-06-15T040117Z	scan-l3	warn	Aerones workable JD 'Job not found' (expired) + mind-computing breezy CLOSED	fix:WebFetch+Workable API fallbacks all dead; not re-added (stale scan-history only)	outcome:skipped
+2026-06-15T040117Z	pdf	warn	Playwright chromium not installed (generate-pdf.mjs)	fix:npx playwright install chromium + retry	outcome:resolved
+2026-06-15T040117Z	merge-verify	warn	report-number reuse: assigned #1399 to Leadtech but #1399 already consumed today by Faktion BV (deleted to discarded.tsv; not visible in reports/)	fix:renumbered Leadtech #1399 to #1401 (next free above global max incl. discarded); updated report filename, applications row, intl pipeline row, merged TSV	outcome:resolved
