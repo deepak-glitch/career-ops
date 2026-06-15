@@ -33,13 +33,14 @@
 
 ### 2026-06-15
 
-- [!] https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6 | error: Ashby SPA returned title-only; JD body not extractable in batch mode (Member of Technical Staff - ML Capabilities, New Graduates)
 - [!] https://job-boards.greenhouse.io/gradial/jobs/4245923009 | error: duplicate of existing #274 (Gradial — Forward Deployed Engineer, 3.5/5) — re-listed Greenhouse job ID
+
 
 ## Processed
 
 
 ### 2026-06-15
+- [x] #1402 | https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6 | Preference Model | Member of Technical Staff, ML Capabilities (New Grad) | San Francisco — On-site | 3.5/5 | PDF ✅
 - [x] #1396 | https://jobs.ashbyhq.com/console/395c3f5b-759f-4bf1-b6ed-38db7f0c76ee | Console | Forward Deployed Engineer | San Francisco — On-site | 3.6/5 | PDF ✅
 - [x] #1397 | https://jobs.ashbyhq.com/futurefitai/df12191c-3c81-4750-9a17-4e6f94181599 | FutureFit AI | Software Engineer | Remote (North America) | 3.0/5 | PDF ✅
 - [x] #1398 | https://jobs.ashbyhq.com/kraken.com/c7409ffc-4430-4cdd-906c-3a0487d3e780 | Kraken | Site Reliability Engineer - AI Agents | United States (Remote) | 3.2/5 | PDF ✅

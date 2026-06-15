@@ -1744,3 +1744,9 @@ Run notes:
 - Level 3 added 2 US candidates (Preference Model new-grad, Gradial FDE re-listed); both deferred — Preference Model JD extraction blocked by Ashby SPA in batch mode, Gradial dedup against existing #274 (Seattle FDE 3.5/5).
 - merge-tracker: 0 added / 1 skipped; verify-pipeline: 0 errors, 1 pre-existing duplicate warning (#1394 vs #885 Board of Innovation, untouched by this run).
 - cleanup-bang-rows: 1 Intl filter slip + 1 empty subsection swept.
+2026-06-15T160142Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-15T160142Z	scan	warn	company API HTTP 404: Tinybird, Travelperk, Forto	fix:skipped these companies, rest of scan completed	outcome:skipped
+2026-06-15T160142Z	scan	warn	js-yaml module not found (deps missing)	fix:npm install then retried scan.mjs	outcome:resolved
+2026-06-15T160142Z	pipeline	warn	Playwright Chromium not installed (PDF gen failed)	fix:npx playwright install chromium then retried gen-cv-tailored	outcome:resolved
+2026-06-15T160142Z	pipeline	warn	Palantir Oslo FDSE requires Norwegian fluency + security clearance (terminal for F-1 OPT)	fix:marked - [!] terminal, retained for cleanup-bang-rows sweep	outcome:skipped
+2026-06-15T160142Z	verify	warn	possible duplicate #1394/#885 (Board of Innovation AI Engineer)	fix:ran normalize+dedup+cleanup-bang; dedup kept both (distinct re-evals 05-18 vs 06-14, different reports)	outcome:unresolved (benign, pre-existing, left intentionally)
