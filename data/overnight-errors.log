@@ -1737,3 +1737,10 @@ Notes: scan APIs returned 0 new offers (system is well-covered); Level 3 WebSear
 2026-06-15T080155Z	step1-scan-Intl	warn	3 portal endpoints HTTP 404 (Tinybird,Travelperk,Forto)	fix:scan.mjs handled gracefully, continued	outcome:skipped
 2026-06-15T080155Z	step1-L3	warn	L3 WebSearch (breezy/recruitee/himalayas/builtin/non-standard) returned 0 net-new evaluable URLs (all in scan-history or title-filtered: Senior/Lead/Intern/Researcher)	fix:none needed; deduped + filtered	outcome:resolved
 2026-06-15T080155Z	step2-pipeline	warn	0 pending [ ] URLs after scan; remaining [!] breadcrumbs confirmed dead/SPA-shell/unreachable in headless (verified workatastartup=SPA shell, pony.ai workable=unreachable)	fix:left breadcrumbs for next-run retry per Playbook#3; nothing evaluable	outcome:resolved
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed f4c48d0.
+
+Run notes:
+- US scan: 0 new; Intl scan: 1 new (HelloFresh Derby — filtered as PLC/manufacturing automation, not AI).
+- Level 3 added 2 US candidates (Preference Model new-grad, Gradial FDE re-listed); both deferred — Preference Model JD extraction blocked by Ashby SPA in batch mode, Gradial dedup against existing #274 (Seattle FDE 3.5/5).
+- merge-tracker: 0 added / 1 skipped; verify-pipeline: 0 errors, 1 pre-existing duplicate warning (#1394 vs #885 Board of Innovation, untouched by this run).
+- cleanup-bang-rows: 1 Intl filter slip + 1 empty subsection swept.
