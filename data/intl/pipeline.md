@@ -21,6 +21,8 @@
 ## Processed
 
 ### 2026-06-15
+- [x] #1406 | https://apply.workable.com/honu-ai/j/6BC0F1D5B3/ | Honu.ai | Software Engineer (Models, Agents and AI) | UK or Europe — Remote | 3.4/5 | PDF ✅
+- [x] #1407 | https://jobs.ashbyhq.com/zeit-ai/0d3209aa-fc44-4ab8-acc0-bca1b9807e00 | Zeit AI | Forward-Deployed Engineer (FDE) | Munich, Germany — In-person | 3.1/5 | PDF ✅
 - [x] #1401 | https://jobs.workable.com/view/gzm67fKY8TMRmypo7EHCiQ/remote-ai-automation-engineer-in-spain-at-leadtech | Leadtech | AI Automation Engineer | Spain — remote-first | 3.0/5 | PDF ✅
 
 ### 2026-06-14
