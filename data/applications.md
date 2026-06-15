@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1408 | 2026-06-15 | Together AI | AI Infrastructure Engineer | 3.1/5 | Evaluated | ✅ | [1408](reports/1408-together-ai-infra-eng-2026-06-15.md) | [US] SF on-site $190-270K — production AI infra |
+| 1410 | 2026-06-15 | Together AI | Backend SWE Data Platform & AI Data | 3.7/5 | Evaluated | ✅ | [1410](reports/1410-together-ai-backend-data-platform-2026-06-15.md) | [US] SF on-site 0-4 yrs $120-170K — strong fit |
+| 1411 | 2026-06-15 | Together AI | Machine Learning Engineer | 3.0/5 | Evaluated | ✅ | [1411](reports/1411-together-ai-ml-engineer-2026-06-15.md) | [US] SF on-site $160-220K — inference platform |
 | 1406 | 2026-06-15 | Honu.ai | Software Engineer (Models, Agents and AI) | 3.4/5 | Evaluated | ✅ | [1406](reports/1406-honu-software-engineer-agents-2026-06-15.md) | [Intl] UK or Europe Remote; pre-seed SMB decision-support startup; Agent Framework + LangChain/LlamaIndex/MetaGPT; Python 3+ yrs explicit; comp not disclosed; F-1 OPT US → would need UK/EU sponsorship or relocation |
 | 1407 | 2026-06-15 | Zeit AI | Forward-Deployed Engineer (FDE) | 3.1/5 | Evaluated | ✅ | [1407](reports/1407-zeit-ai-fde-munich-2026-06-15.md) | [Intl] Munich Germany in-person; YC S24 autonomous data agent for Europe; TypeScript end-to-end + SQL/Postgres/React; €95K-270K base + €15K-150K equity + €5K referral; EU Blue Card eligible (STEM MS); "we help relocate" |
 | 1402 | 2026-06-15 | Preference Model | Member of Technical Staff, ML Capabilities (New Grad) | 3.5/5 | Evaluated | ✅ | [1402](reports/1402-preference-model-2026-06-15.md) | [US] RL-environment MLE @ SF; strong ML/PyTorch/eval fit, RL-research core is adjacent gap; on-site SF (F-1 OPT OK) |

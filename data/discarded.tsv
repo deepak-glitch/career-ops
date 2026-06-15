@@ -650,3 +650,7 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-15	1400	2026-06-15	getolo GmbH	AI & Automation Engineer	2.6/5	SKIP	reports/1400-getolo-ai-automation-engineer-2026-06-15.md	[Intl] Berlin hybrid (on-site) + German fluency required + RevOps/Zendesk-ops core (not applied-AI eng) + EU auth; multiple hard blockers; below threshold
 2026-06-15	1403	2026-06-15	Hume AI	AI Researcher	2.7/5	Evaluated	reports/1403-hume-ai-ai-researcher-2026-06-15.md	[US] NYC/San Jose/Remote; multimodal voice/empathy lab; $180-350K; 2+ yrs ML training; PyTorch; PhD not required but OSS contributions to LLM/audio/video models expected; F-1 OPT BLOCKER — application explicitly asks "authorized without sponsorship"
 2026-06-15	1404		orphan	orphan	0/5		reports/1404-palantir-fde-intel-newgrad-2026-06-15.md	
+2026-06-15	1409	2026-06-15	Together AI	AI Researcher Core ML (Turbo)	2.8/5	Evaluated	reports/1409-together-ai-researcher-coreml-2026-06-15.md	[US] SF on-site — inference research gap
+2026-06-15	1413	2026-06-15	Together AI	ML Platform Engineer	2.9/5	Evaluated	reports/1413-together-ai-ml-platform-2026-06-15.md	[US] SF on-site — Go/Rust K8s internals gap
+2026-06-15	1414	2026-06-15	Together AI	Research Engineer Core ML	2.7/5	Evaluated	reports/1414-together-ai-research-engineer-2026-06-15.md	[US] SF on-site Staff — research gap
+2026-06-15	1416	2026-06-15	Together AI	AI Infrastructure Engineer (SRE)	2.6/5	Evaluated	reports/1416-together-ai-sre-amsterdam-2026-06-15.md	[Intl] Amsterdam 7+ yrs SRE — fit gap + F-1 OPT mismatch

@@ -35,10 +35,12 @@
 
 - [!] https://job-boards.greenhouse.io/gradial/jobs/4245923009 | error: duplicate of existing #274 (Gradial — Forward Deployed Engineer, 3.5/5) — re-listed Greenhouse job ID
 
-
 ## Processed
 
 ### 2026-06-15
+- [x] #1408 | https://job-boards.greenhouse.io/togetherai/jobs/5138540007 | Together AI | AI Infrastructure Engineer | San Francisco — On-site | 3.1/5 | PDF ✅
+- [x] #1410 | https://job-boards.greenhouse.io/togetherai/jobs/5064263007 | Together AI | Backend SWE Data Platform & AI | San Francisco — On-site | 3.7/5 | PDF ✅
+- [x] #1411 | https://job-boards.greenhouse.io/togetherai/jobs/4626694007 | Together AI | Machine Learning Engineer | San Francisco — On-site | 3.0/5 | PDF ✅
 - [x] #1405 | https://aimpoint-digital.breezy.hr/p/6845c658955b-forward-deployed-ai-engineer-claude-2026--us | Aimpoint Digital | Forward Deployed AI Engineer – Claude 2026 | US — Remote | 3.6/5 | PDF ✅
 - [x] #1402 | https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6 | Preference Model | Member of Technical Staff, ML Capabilities (New Grad) | San Francisco — On-site | 3.5/5 | PDF ✅
 - [x] #1396 | https://jobs.ashbyhq.com/console/395c3f5b-759f-4bf1-b6ed-38db7f0c76ee | Console | Forward Deployed Engineer | San Francisco — On-site | 3.6/5 | PDF ✅
