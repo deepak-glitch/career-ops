@@ -1768,3 +1768,4 @@ Processed 6 URLs (US:3 + Intl:3), generated 3 PDFs, archived 2 low-score, pushed
 2026-06-15T200153Z	step2-pipeline	warn	Arize West (6030953004) is regional repost of evaluated Arize FDE US #1018 (3.9/5); US-wide 6002637004 marked dead	fix:dedup - mark processed-as-duplicate, no new report (CLAUDE.md dedup rule)	outcome:resolved
 2026-06-15T200153Z	step2-pipeline	warn	Workable JD extraction failed (twosense/becoming/huggingface) - SPA returns meta only, API v2/v3 404	fix:mark - [!] retry rows in respective track Pendientes per Playbook #3	outcome:skipped
 2026-06-15T200153Z	step3-verify	warn	verify-pipeline: 1 warning - possible dup #1394/#885 (Board of Innovation AI Engineer)	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows (3 cycles); dedup-tracker keeps both - legit re-eval pair (05-18 3.0 vs 06-14 3.4) with distinct reports	outcome:unresolved
+Processed 9 URLs (US:8 + Intl:1), generated 3 PDFs, archived 4 low-score, pushed 131ce45.
