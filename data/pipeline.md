@@ -33,7 +33,11 @@
 
 ## Processed
 
+
 ### 2026-06-15
+- [x] #1396 | https://jobs.ashbyhq.com/console/395c3f5b-759f-4bf1-b6ed-38db7f0c76ee | Console | Forward Deployed Engineer | San Francisco — On-site | 3.6/5 | PDF ✅
+- [x] #1397 | https://jobs.ashbyhq.com/futurefitai/df12191c-3c81-4750-9a17-4e6f94181599 | FutureFit AI | Software Engineer | Remote (North America) | 3.0/5 | PDF ✅
+- [x] #1398 | https://jobs.ashbyhq.com/kraken.com/c7409ffc-4430-4cdd-906c-3a0487d3e780 | Kraken | Site Reliability Engineer - AI Agents | United States (Remote) | 3.2/5 | PDF ✅
 - [x] #1395 | https://job-boards.greenhouse.io/banyaninfrastructure/jobs/4628053005 | Banyan Infrastructure | AI Engineer (Mid-Senior Level) | San Francisco, CA — Hybrid (3d office) | 3.5/5 | PDF ✅
 
 ### 2026-06-14

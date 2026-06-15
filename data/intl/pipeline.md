@@ -21,6 +21,8 @@
 
 ## Processed
 
+### 2026-06-15
+
 ### 2026-06-14
 - [x] #1394 | https://apply.workable.com/boardofinnovation/j/531B141B6C | Board of Innovation | AI Engineer | Belgium HQ — perm/contractor by location & auth | 3.4/5 | PDF ✅
 - [x] #1393 | https://job-boards.greenhouse.io/nearform/jobs/7619129003 | Nearform | Forward Deployed Engineer (Perm, UK, Remote + Travel) | UK — Remote + Travel | 3.0/5 | PDF ✅
