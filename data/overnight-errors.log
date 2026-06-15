@@ -1750,3 +1750,14 @@ Run notes:
 2026-06-15T160142Z	pipeline	warn	Playwright Chromium not installed (PDF gen failed)	fix:npx playwright install chromium then retried gen-cv-tailored	outcome:resolved
 2026-06-15T160142Z	pipeline	warn	Palantir Oslo FDSE requires Norwegian fluency + security clearance (terminal for F-1 OPT)	fix:marked - [!] terminal, retained for cleanup-bang-rows sweep	outcome:skipped
 2026-06-15T160142Z	verify	warn	possible duplicate #1394/#885 (Board of Innovation AI Engineer)	fix:ran normalize+dedup+cleanup-bang; dedup kept both (distinct re-evals 05-18 vs 06-14, different reports)	outcome:unresolved (benign, pre-existing, left intentionally)
+Processed 6 URLs (US:3 + Intl:3), generated 3 PDFs, archived 2 low-score, pushed 5672908.
+
+**Run summary:**
+- **Scan** — US +2 (Hume AI, Palantir FDE Intel) via `scan.mjs`; Intl +0; Level 3 WebSearch added 4 fresh URLs (1 US Aimpoint Digital; 3 Intl Honu.ai, Zeit AI, MakiPeople)
+- **Pipeline kept (3 reports, 3 PDFs):**
+  - #1405 Aimpoint Digital — Forward Deployed AI Engineer Claude — **3.6/5** US Remote (updated existing #1011)
+  - #1406 Honu.ai — Software Engineer (Models, Agents and AI) — **3.4/5** UK/EU Remote
+  - #1407 Zeit AI — Forward-Deployed Engineer — **3.1/5** Munich
+- **Deleted by cleanup:** Hume AI Researcher 2.7 (no F-1 sponsorship), Palantir FDE Intel 1.8 (Full Scope Poly clearance blocker — non-citizen ineligible)
+- **MakiPeople** FDE Paris marked `[!]` dead (Ashby job removed from board listing)
+- Verify pipeline: 0 errors, 1 pre-existing warning (Board of Innovation dup, unrelated)
