@@ -1714,3 +1714,13 @@ Processed 4 URLs (US:1 + Intl:3), generated 2 PDFs, archived 2 low-score, pushed
 2026-06-15T000156Z	step1-scan	warn	US+Intl scan: Tinybird/Travelperk/Forto HTTP 404 (portal endpoints stale)	fix:none (portal-side); scan continued, 0 net-new	outcome:skipped
 2026-06-15T000156Z	step2-pdf	warn	Playwright Chromium browser not installed (generate-pdf.mjs)	fix:npx playwright install chromium + retry	outcome:resolved
 2026-06-15T000156Z	step3-verify	warn	verify-pipeline fuzzy-duplicate #1394/#885 (Board of Innovation — AI Engineer; distinct re-post URLs 50EB96733C vs 531B141B6C, 1mo apart)	fix:normalize-statuses+dedup-tracker (0 removed; conservative, distinct URLs not auto-merged)	outcome:unresolved
+Processed 4 URLs (US:3 + Intl:1), generated 3 PDFs, archived 1 low-score, pushed fcc0b31.
+
+| # | Track | Company | Role | Score | PDF |
+|---|-------|---------|------|-------|-----|
+| 1396 | US | Console | Forward Deployed Engineer (SF on-site, $180–280K + equity) | 3.6 | ✅ |
+| 1397 | US | FutureFit AI | Software Engineer (Remote NA, workforce-dev) | 3.0 | ✅ |
+| 1398 | US | Kraken | SRE — AI Agents (Remote US, $96–192K) | 3.2 | ✅ |
+| 1399 | Intl | Faktion BV | Applied Research AI Engineer (Antwerp BE, Dutch req) | 2.6 | discarded |
+
+Notes: scan APIs returned 0 new offers (system is well-covered); Level 3 WebSearch surfaced ~30 candidate URLs, all but 4 were already in scan-history or seniority-filtered. Verify ends 0 errors / 1 pre-existing warning (Board of Innovation dup #885/#1394 from earlier runs — preserved as history).
