@@ -31,6 +31,11 @@
 - [!] https://www.workatastartup.com/jobs/66546 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
 - [!] https://apply.workable.com/smartassets/j/1FE5187A8E/ | error: JD body filtered (Lead AI Engineer per partial JD)
 
+### 2026-06-15
+
+- [!] https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6 | error: Ashby SPA returned title-only; JD body not extractable in batch mode (Member of Technical Staff - ML Capabilities, New Graduates)
+- [!] https://job-boards.greenhouse.io/gradial/jobs/4245923009 | error: duplicate of existing #274 (Gradial — Forward Deployed Engineer, 3.5/5) — re-listed Greenhouse job ID
+
 ## Processed
 
 
