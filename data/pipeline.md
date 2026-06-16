@@ -45,6 +45,9 @@
 ## Processed
 
 ### 2026-06-16
+- [x] #1420 | https://job-boards.greenhouse.io/tanium/jobs/7800318 | Tanium | Applied AI Engineer II | Hybrid Durham NC / Addison TX | 3.6/5 | PDF ✅
+- [x] #1421 | https://jobs.ashbyhq.com/furtherai/d2fb3438-c7ca-469a-81c7-d98cea49b0d2 | FurtherAI | Forward Deployed Engineer | San Francisco, CA — On-site 5d/wk | 3.2/5 | PDF ✅
+- [x] #1422 | https://job-boards.greenhouse.io/relyance/jobs/5819515004 | Relyance AI | Forward Deployed Engineer (West) | Remote PT/MT + SF 2d/wk | 3.3/5 | PDF ✅
 - [x] #1412 | https://job-boards.greenhouse.io/fireworksai/jobs/4277775009 | Fireworks AI | AI Product Engineer | New York, NY; Remote, USA; San Mateo, CA | 4.0/5 | PDF ✅
 - [x] #1413 | https://jobs.ashbyhq.com/owner/1912d8d8-b37f-4330-91ea-bb428d091322 | Owner.com | Product Builder | Remote — US or Canada | 3.0/5 | PDF ✅
 - [x] #1417 | https://jobs.ashbyhq.com/openrouter/1b26f0a2-4aab-4bef-8c21-0f8de9a059e3 | OpenRouter | Forward Deployed Engineer | Remote (US) | 3.8/5 | PDF ✅
