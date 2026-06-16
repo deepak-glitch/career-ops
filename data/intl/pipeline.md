@@ -27,7 +27,12 @@
 - [!] https://jobs.ashbyhq.com/Bifrost/566ded2e-082f-4833-9967-191d8931005b | error: Ashby GraphQL jobPosting=null (dead)
 - [!] https://apply.workable.com/spaceinch/j/3B9B02C969/ | error: Workable SPA — JD body not extractable via WebFetch (batch mode); retry interactively
 
+
 ## Processed
+
+### 2026-06-16
+
+- [x] #1425 | https://job-boards.greenhouse.io/sezzle/jobs/7709978003 | Sezzle | AI Engineering I - Marketing | Latin America — Remote | 3.0/5 | PDF ✅
 
 ### 2026-06-16
 - [x] #1423 | https://job-boards.greenhouse.io/sezzle/jobs/7709994003 | Sezzle | AI Engineer II - Marketing | Brazil — Remote | 3.0/5 | PDF ✅

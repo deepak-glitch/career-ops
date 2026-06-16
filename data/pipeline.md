@@ -45,6 +45,7 @@
 ## Processed
 
 ### 2026-06-16
+- [x] #1424 | https://jobs.ashbyhq.com/sol/eeeac4bb-1c32-4944-ad06-a716e8a05790 | Sol | Applied AI Engineer | San Mateo, CA — On-site/Hybrid | 4.0/5 | PDF ✅
 - [x] #1420 | https://job-boards.greenhouse.io/tanium/jobs/7800318 | Tanium | Applied AI Engineer II | Hybrid Durham NC / Addison TX | 3.6/5 | PDF ✅
 - [x] #1421 | https://jobs.ashbyhq.com/furtherai/d2fb3438-c7ca-469a-81c7-d98cea49b0d2 | FurtherAI | Forward Deployed Engineer | San Francisco, CA — On-site 5d/wk | 3.2/5 | PDF ✅
 - [x] #1422 | https://job-boards.greenhouse.io/relyance/jobs/5819515004 | Relyance AI | Forward Deployed Engineer (West) | Remote PT/MT + SF 2d/wk | 3.3/5 | PDF ✅
