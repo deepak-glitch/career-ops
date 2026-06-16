@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1423 | 2026-06-16 | Sezzle | AI Engineer II - Marketing | 3.0/5 | Evaluated | ✅ | [1423](reports/1423-sezzle-ai-engineer-ii-marketing-2026-06-16.md) | [Intl] Strong Applied AI/LLM + full-stack match; Brazil-only remote + modest comp; F-1 OPT location flag. |
 | 1420 | 2026-06-16 | Tanium | Applied AI Engineer II | 3.6/5 | Evaluated | ✅ | [1420](reports/1420-tanium-applied-ai-engineer-ii-2026-06-16.md) | [US] Hybrid Durham NC / Addison TX 3d/wk; $154-236K base; bullseye on agentic LLM + ML models + LLM backend + CI/CD + observability; Go-preferred but Python accepted; F-1 OPT US-eligible, sponsorship long-term |
 | 1422 | 2026-06-16 | Relyance AI | Forward Deployed Engineer (West) | 3.3/5 | Evaluated | ✅ | [1422](reports/1422-relyance-fde-west-2026-06-16.md) | [US] Remote PT/MT + SF 2d/wk; $220-250K OTE; data-governance/privacy platform; strong tech adjacency (cloud + APIs + AI builder) + Kent privacy research aligns; no formal SE/SA experience is the gap; F-1 OPT US-eligible |
 | 1417 | 2026-06-16 | OpenRouter | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [1417](reports/1417-openrouter-fde-2026-06-16.md) | [US] Remote (US); FDE post-sales at AI-inference platform; bullseye on model routing/caching/cost-optimization (Progress) + multi-model eval (Vanguard); post-sales/customer-facing rep is the gap; F-1 OPT US-eligible |

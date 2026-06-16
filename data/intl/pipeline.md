@@ -30,6 +30,9 @@
 ## Processed
 
 ### 2026-06-16
+- [x] #1423 | https://job-boards.greenhouse.io/sezzle/jobs/7709994003 | Sezzle | AI Engineer II - Marketing | Brazil — Remote | 3.0/5 | PDF ✅
+- [x] #1388 (repost) | https://job-boards.greenhouse.io/sezzle/jobs/7645194003 | Sezzle | AI Engineer II (Remote) | India — Remote | dup of #1388 (3.0, location variant) | PDF ❌
+- [x] #50 (repost) | https://job-boards.greenhouse.io/sezzle/jobs/7633955003 | Sezzle | AI Engineer I (Remote) | Mexico — Remote | dup of #50 (3.5, location variant) | PDF ❌
 - [x] #1419 | https://job-boards.greenhouse.io/celonis/jobs/7773309003?gh_jid=7773309003 | Celonis | Applied AI Engineer (Madrid) | Madrid, Spain — Hybrid | 3.2/5 | PDF ✅
 - [x] #1415 | https://jobs.ashbyhq.com/directive/6a64a3c2-61c0-49bf-94f1-23184ca9107a | Directive | AI Web Developer (Remote Canada) | Remote — Canada (5 cities, non-Quebec) | 3.1/5 | PDF ✅
 - [x] #1416 | https://jobs.ashbyhq.com/nerdwallet/dd822a9a-2beb-4594-bdac-a0a77b040661 | NerdWallet | Security SWE, AI & Automation (Canada) | Remote — Canada (non-Quebec) | 3.6/5 | PDF ✅
