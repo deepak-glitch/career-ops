@@ -1809,3 +1809,10 @@ Processed 1 URLs (US:0 + Intl:1), generated 1 PDFs, archived 0 low-score, pushed
 2026-06-16T160138Z	step1-L3	warn	JD extract failed theaiframework teamtailor (HTTP 404 dead)	fix:recorded dead in intl scan-history, not added to pipeline	outcome:skipped
 2026-06-16T160138Z	step2-pipeline	warn	0 clean pending after scan in both tracks; 30 breadcrumbs all dead/batch-unextractable	fix:nothing live to evaluate (Playbook #9)	outcome:resolved
 2026-06-16T160138Z	step3-verify	warn	verify-pipeline possible-duplicate #1394/#885 Board of Innovation AI Engineer	fix:dedup-tracker found 0 actionable (distinct dates/reports, re-eval); not created this run	outcome:unresolved
+Processed 3 URLs (US:3 + Intl:0), generated 3 PDFs, archived 0 low-score, pushed f137e43.
+
+Sources for the Level 3 sweep:
+- [Forward Deployed Engineer Jobs in June 2026 – Startup Jobs](https://startup.jobs/roles/forward-deployed-engineer)
+- [Applied AI Engineer II @ Tanium](https://job-boards.greenhouse.io/tanium/jobs/7800318)
+- [Forward Deployed Engineer @ FurtherAI](https://jobs.ashbyhq.com/furtherai/d2fb3438-c7ca-469a-81c7-d98cea49b0d2)
+- [Forward Deployed Engineer (West) @ Relyance AI](https://job-boards.greenhouse.io/relyance/jobs/5819515004)
