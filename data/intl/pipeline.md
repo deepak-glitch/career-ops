@@ -19,7 +19,19 @@
 - [!] https://wayve.firststage.co/jobs?gh_jid=8572927002 | error: Wayve Partner Integration Engineer Tokyo requires Japanese fluency (terminal); skipping evaluation
 - [!] https://apply.workable.com/huzzle/j/26ECD081DE | error: vague/insufficient JD body in batch mode
 
+### 2026-06-16
+
+- [!] https://jobs.ashbyhq.com/GigaML/fa3c51b7-cfe0-48ff-9b32-57ecab5ceb4f | error: Ashby GraphQL jobPosting=null (dead)
+- [!] https://jobs.ashbyhq.com/hopper/f7a516d9-94c5-4ff4-87ac-e094767221b0 | error: Ashby GraphQL jobPosting=null (dead)
+- [!] https://jobs.ashbyhq.com/openai/0499e33e-500f-4f1d-9012-e443fb637fbb | error: Ashby GraphQL jobPosting=null (dead — OpenAI FDE Singapore)
+- [!] https://jobs.ashbyhq.com/Bifrost/566ded2e-082f-4833-9967-191d8931005b | error: Ashby GraphQL jobPosting=null (dead)
+- [!] https://apply.workable.com/spaceinch/j/3B9B02C969/ | error: Workable SPA — JD body not extractable via WebFetch (batch mode); retry interactively
+
 ## Processed
+
+### 2026-06-16
+- [x] #1415 | https://jobs.ashbyhq.com/directive/6a64a3c2-61c0-49bf-94f1-23184ca9107a | Directive | AI Web Developer (Remote Canada) | Remote — Canada (5 cities, non-Quebec) | 3.1/5 | PDF ✅
+- [x] #1416 | https://jobs.ashbyhq.com/nerdwallet/dd822a9a-2beb-4594-bdac-a0a77b040661 | NerdWallet | Security SWE, AI & Automation (Canada) | Remote — Canada (non-Quebec) | 3.6/5 | PDF ✅
 
 ### 2026-06-15
 - [x] #1406 | https://apply.workable.com/honu-ai/j/6BC0F1D5B3/ | Honu.ai | Software Engineer (Models, Agents and AI) | UK or Europe — Remote | 3.4/5 | PDF ✅

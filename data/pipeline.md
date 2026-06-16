@@ -35,10 +35,17 @@
 
 - [!] https://job-boards.greenhouse.io/gradial/jobs/4245923009 | error: duplicate of existing #274 (Gradial — Forward Deployed Engineer, 3.5/5) — re-listed Greenhouse job ID
 
+### 2026-06-16
+
+- [!] https://jobs.ashbyhq.com/rillet/4dfdb027-d1e7-47f0-83e2-8396d4fe9d9a | error: Ashby GraphQL jobPosting=null (dead)
+- [!] https://jobs.ashbyhq.com/Deel/64eb7d4f-b63c-4b26-a8d3-83ef28f72215 | error: Ashby GraphQL jobPosting=null (dead)
+- [!] https://jobs.ashbyhq.com/TigerEye/72482c62-a79c-4d83-a4da-8321b6fdac12 | error: Ashby GraphQL jobPosting=null (dead)
+
 ## Processed
 
 ### 2026-06-16
 - [x] #1412 | https://job-boards.greenhouse.io/fireworksai/jobs/4277775009 | Fireworks AI | AI Product Engineer | New York, NY; Remote, USA; San Mateo, CA | 4.0/5 | PDF ✅
+- [x] #1413 | https://jobs.ashbyhq.com/owner/1912d8d8-b37f-4330-91ea-bb428d091322 | Owner.com | Product Builder | Remote — US or Canada | 3.0/5 | PDF ✅
 
 ### 2026-06-15
 - [x] #1408 | https://job-boards.greenhouse.io/togetherai/jobs/5138540007 | Together AI | AI Infrastructure Engineer | San Francisco — On-site | 3.1/5 | PDF ✅
