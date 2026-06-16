@@ -1,0 +1,54 @@
+# Pipeline cleanup audit log
+Run: 2026-06-16T09:29:11.737Z
+
+## US pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  22
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### US — Kept unmatched (manual review)
+- - [!] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | error: Ashby GraphQL jobPosting=null (dead)
+- - [!] https://job-boards.greenhouse.io/scaleai/jobs/4549048005 | error: role redirected to Director London (replaced); marking dead
+- - [!] https://job-boards.greenhouse.io/doitintl/jobs/7688239003 | error: greenhouse returns no role (no current openings)
+- - [!] https://job-boards.greenhouse.io/nextdoorcampus/jobs/6194603 | error: nextdoorcampus board shows "no current openings" (dead)
+- - [!] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | error: Ashby GraphQL returns jobPosting=null (dead)
+- - [!] https://apply.workable.com/jobgether/j/0C895CA0C5 | error: Workable listing returned empty jobs array (dead) and Lever fallback 403
+- - [!] https://himalayas.app/companies/uvation/jobs/ai-ml-engineer-2931175390 | error: Himalayas index page only — no direct JD reachable
+- - [!] https://apply.workable.com/pony-dot-ai/j/3643CD4D96/ | error: Workable API 401 — JD unreachable in batch mode
+- - [!] https://www.workatastartup.com/jobs/94746 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
+- - [!] https://www.workatastartup.com/jobs/89099 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
+- - [!] https://www.workatastartup.com/jobs/85043 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
+- - [!] https://www.workatastartup.com/jobs/95799 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
+- - [!] https://www.workatastartup.com/jobs/85541 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
+- - [!] https://jobs.ashbyhq.com/plain/fd10161b-2139-4432-ab75-59be1a12da23 | error: title is Senior Product Engineer (AI) — filtered (Senior keyword)
+- - [!] https://jobs.lever.co/jobgether/67ebe0ea-0cab-449c-b786-f4c91c4f1446 | error: not in Lever board listing (dead)
+- - [!] https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5769763004 | error: job ID not in Greenhouse board listing (dead)
+- - [!] https://www.workatastartup.com/jobs/66546 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
+- - [!] https://apply.workable.com/smartassets/j/1FE5187A8E/ | error: JD body filtered (Lead AI Engineer per partial JD)
+- - [!] https://job-boards.greenhouse.io/gradial/jobs/4245923009 | error: duplicate of existing #274 (Gradial — Forward Deployed Engineer, 3.5/5) — re-listed Greenhouse job ID
+- - [!] https://jobs.ashbyhq.com/rillet/4dfdb027-d1e7-47f0-83e2-8396d4fe9d9a | error: Ashby GraphQL jobPosting=null (dead)
+- - [!] https://jobs.ashbyhq.com/Deel/64eb7d4f-b63c-4b26-a8d3-83ef28f72215 | error: Ashby GraphQL jobPosting=null (dead)
+- - [!] https://jobs.ashbyhq.com/TigerEye/72482c62-a79c-4d83-a4da-8321b6fdac12 | error: Ashby GraphQL jobPosting=null (dead)
+
+## Intl pipeline
+- Deleted (already in Processed):  0  (report-already-removed by cleanup-low-scores: 0)
+- Deleted (duplicate/rerouted):     0
+- Deleted (dead URL):               0
+- Deleted (filter slip):            0
+- Kept (unmatched, manual review):  8
+- Empty subsections dropped:        0
+- scan-history.tsv updated:         no
+
+### Intl — Kept unmatched (manual review)
+- - [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | error: Himalayas Cloudflare-challenged (unreachable in batch)
+- - [!] https://wayve.firststage.co/jobs?gh_jid=8572927002 | error: Wayve Partner Integration Engineer Tokyo requires Japanese fluency (terminal); skipping evaluation
+- - [!] https://apply.workable.com/huzzle/j/26ECD081DE | error: vague/insufficient JD body in batch mode
+- - [!] https://jobs.ashbyhq.com/GigaML/fa3c51b7-cfe0-48ff-9b32-57ecab5ceb4f | error: Ashby GraphQL jobPosting=null (dead)
+- - [!] https://jobs.ashbyhq.com/hopper/f7a516d9-94c5-4ff4-87ac-e094767221b0 | error: Ashby GraphQL jobPosting=null (dead)
+- - [!] https://jobs.ashbyhq.com/openai/0499e33e-500f-4f1d-9012-e443fb637fbb | error: Ashby GraphQL jobPosting=null (dead — OpenAI FDE Singapore)
+- - [!] https://jobs.ashbyhq.com/Bifrost/566ded2e-082f-4833-9967-191d8931005b | error: Ashby GraphQL jobPosting=null (dead)
+- - [!] https://apply.workable.com/spaceinch/j/3B9B02C969/ | error: Workable SPA — JD body not extractable via WebFetch (batch mode); retry interactively

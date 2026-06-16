@@ -30,6 +30,7 @@
 ## Processed
 
 ### 2026-06-16
+- [x] #1419 | https://job-boards.greenhouse.io/celonis/jobs/7773309003?gh_jid=7773309003 | Celonis | Applied AI Engineer (Madrid) | Madrid, Spain — Hybrid | 3.2/5 | PDF ✅
 - [x] #1415 | https://jobs.ashbyhq.com/directive/6a64a3c2-61c0-49bf-94f1-23184ca9107a | Directive | AI Web Developer (Remote Canada) | Remote — Canada (5 cities, non-Quebec) | 3.1/5 | PDF ✅
 - [x] #1416 | https://jobs.ashbyhq.com/nerdwallet/dd822a9a-2beb-4594-bdac-a0a77b040661 | NerdWallet | Security SWE, AI & Automation (Canada) | Remote — Canada (non-Quebec) | 3.6/5 | PDF ✅
 - [x] #1373 | https://jobs.ashbyhq.com/bjakcareer/0ab4a37a-0779-4480-8d3a-bbaf093c2da8 | Bjak (A1) | Applied AI Engineer | Israel — On-site | 3.3/5 | PDF ✅

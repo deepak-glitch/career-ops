@@ -41,6 +41,7 @@
 - [!] https://jobs.ashbyhq.com/Deel/64eb7d4f-b63c-4b26-a8d3-83ef28f72215 | error: Ashby GraphQL jobPosting=null (dead)
 - [!] https://jobs.ashbyhq.com/TigerEye/72482c62-a79c-4d83-a4da-8321b6fdac12 | error: Ashby GraphQL jobPosting=null (dead)
 
+
 ## Processed
 
 ### 2026-06-16
