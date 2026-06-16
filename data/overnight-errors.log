@@ -1798,3 +1798,8 @@ Sources:
 2026-06-16T080139Z	step3-verify	warn	Board of Innovation/AI Engineer #1420 TRUE duplicate of #1394 (identical URL 531B141B6C, eval'd 2026-06-14 with fuller JD)	fix:removed #1420 report/PDF/TSV/tracker row/pipeline entry/scan-history line; kept canonical #1394	outcome:resolved
 2026-06-16T080139Z	step3-verify	warn	verify: possible-duplicate #1394 & #885 (Board of Innovation/AI Engineer) — pre-existing entries, distinct URLs/postings	fix:ran normalize+dedup-tracker (0 true dups removed; system retains both intentionally)	outcome:skipped
 Processed 1 URLs (US:0 + Intl:1), generated 1 PDFs, archived 0 low-score, pushed bf415ce.
+2026-06-16T120200Z	setup	warn	git pull --ff-only failed (origin force-updated, diverged)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-16T120200Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-16T120200Z	scan-us	warn	3 portal HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skips dead portals	outcome:skipped
+2026-06-16T120200Z	pipeline	warn	0 clean pending in both tracks after scan (saturated; 2 prior runs today)	fix:none needed, nothing to evaluate	outcome:resolved
+2026-06-16T120200Z	pipeline-retry	warn	Intl [!] retries (huzzle/spaceinch Workable SPA, amdaris Cloudflare, Ashby jobPosting=null x4) not extractable	fix:Workable API 'Not Found'+SPA metadata-only; left as [!] for next run	outcome:skipped
