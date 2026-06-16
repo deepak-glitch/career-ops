@@ -1803,3 +1803,9 @@ Processed 1 URLs (US:0 + Intl:1), generated 1 PDFs, archived 0 low-score, pushed
 2026-06-16T120200Z	scan-us	warn	3 portal HTTP 404 (Tinybird,Travelperk,Forto)	fix:scanner skips dead portals	outcome:skipped
 2026-06-16T120200Z	pipeline	warn	0 clean pending in both tracks after scan (saturated; 2 prior runs today)	fix:none needed, nothing to evaluate	outcome:resolved
 2026-06-16T120200Z	pipeline-retry	warn	Intl [!] retries (huzzle/spaceinch Workable SPA, amdaris Cloudflare, Ashby jobPosting=null x4) not extractable	fix:Workable API 'Not Found'+SPA metadata-only; left as [!] for next run	outcome:skipped
+2026-06-16T160138Z	setup-pull	warn	fast-forward pull failed (diverging branches)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-16T160138Z	step1-scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install + retry	outcome:resolved
+2026-06-16T160138Z	step1-scan-us	warn	portal HTTP 404 Tinybird/Travelperk/Forto	fix:scan.mjs skipped them, non-blocking	outcome:skipped
+2026-06-16T160138Z	step1-L3	warn	JD extract failed theaiframework teamtailor (HTTP 404 dead)	fix:recorded dead in intl scan-history, not added to pipeline	outcome:skipped
+2026-06-16T160138Z	step2-pipeline	warn	0 clean pending after scan in both tracks; 30 breadcrumbs all dead/batch-unextractable	fix:nothing live to evaluate (Playbook #9)	outcome:resolved
+2026-06-16T160138Z	step3-verify	warn	verify-pipeline possible-duplicate #1394/#885 Board of Innovation AI Engineer	fix:dedup-tracker found 0 actionable (distinct dates/reports, re-eval); not created this run	outcome:unresolved
