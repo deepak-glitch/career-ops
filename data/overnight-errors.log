@@ -1823,3 +1823,4 @@ Sources for the Level 3 sweep:
 2026-06-16T200119Z	scan-us	warn	portal Forto HTTP 404	fix:skip (external portal unreachable)	outcome:skipped
 2026-06-16T200119Z	pipeline-pdf	warn	Playwright chromium executable missing	fix:npx playwright install chromium + retry	outcome:resolved
 2026-06-16T200119Z	verify	warn	verify-pipeline possible-duplicate #1394/#885 Board of Innovation (pre-existing, not this run)	fix:normalize-statuses+dedup-tracker (dedup found 0 exact dups — distinct URL/date, kept both)	outcome:unresolved-by-design
+Processed 2 URLs (US:1 + Intl:1), generated 2 PDFs, archived 0 low-score, pushed 7c8b537.
