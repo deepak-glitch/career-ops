@@ -1784,3 +1784,9 @@ Sources:
 - [Ashby FDE search](https://jobs.ashbyhq.com)
 - [Workable AI Engineer search](https://apply.workable.com)
 - [Lever AI Engineer search](https://jobs.lever.co)
+2026-06-16T040123Z	setup-step3	warn	git pull --ff-only failed (diverging/forced upstream update)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-16T040123Z	step1-scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-16T040123Z	step1-scan-us	warn	3 portals HTTP 404 (Tinybird,Travelperk,Forto)	fix:skipped, scanner continued	outcome:skipped
+2026-06-16T040123Z	step1-L3	warn	L3 WebSearch surfaced only already-seen URLs (saturated)	fix:dedup vs scan-history, 0 net-new added	outcome:resolved
+2026-06-16T040123Z	step2-pipeline	warn	0 pending after scan in both tracks	fix:nothing to evaluate, proceed	outcome:resolved
+2026-06-16T040123Z	step3-verify	warn	verify flags possible-dup #885/#1394 (Board of Innovation AI Engineer)	fix:dedup --dry-run confirms 0 removable (distinct dated re-evals, both valid reports); retained	outcome:resolved
