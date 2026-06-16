@@ -1797,3 +1797,4 @@ Sources:
 2026-06-16T080139Z	step3-merge	warn	Bjak (A1)/Applied AI Engineer duplicate company+role (existing #1373 Seoul URL); my new eval was #1419	fix:merge-tracker collapsed into #1373; renamed report 1419->1373, retired stale Seoul report, repointed tracker+pipeline to #1373, vacated #1419	outcome:resolved
 2026-06-16T080139Z	step3-verify	warn	Board of Innovation/AI Engineer #1420 TRUE duplicate of #1394 (identical URL 531B141B6C, eval'd 2026-06-14 with fuller JD)	fix:removed #1420 report/PDF/TSV/tracker row/pipeline entry/scan-history line; kept canonical #1394	outcome:resolved
 2026-06-16T080139Z	step3-verify	warn	verify: possible-duplicate #1394 & #885 (Board of Innovation/AI Engineer) — pre-existing entries, distinct URLs/postings	fix:ran normalize+dedup-tracker (0 true dups removed; system retains both intentionally)	outcome:skipped
+Processed 1 URLs (US:0 + Intl:1), generated 1 PDFs, archived 0 low-score, pushed bf415ce.
