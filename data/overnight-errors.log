@@ -1769,3 +1769,11 @@ Processed 6 URLs (US:3 + Intl:3), generated 3 PDFs, archived 2 low-score, pushed
 2026-06-15T200153Z	step2-pipeline	warn	Workable JD extraction failed (twosense/becoming/huggingface) - SPA returns meta only, API v2/v3 404	fix:mark - [!] retry rows in respective track Pendientes per Playbook #3	outcome:skipped
 2026-06-15T200153Z	step3-verify	warn	verify-pipeline: 1 warning - possible dup #1394/#885 (Board of Innovation AI Engineer)	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows (3 cycles); dedup-tracker keeps both - legit re-eval pair (05-18 3.0 vs 06-14 3.4) with distinct reports	outcome:unresolved
 Processed 9 URLs (US:8 + Intl:1), generated 3 PDFs, archived 4 low-score, pushed 131ce45.
+2026-06-16T000147Z	setup-step3	warn	git pull --ff-only failed (diverging/forced-update upstream)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-16T000147Z	scan	warn	Tinybird HTTP 404 (portal endpoint missing/changed)	fix:skip company, retry next run	outcome:skipped
+2026-06-16T000147Z	scan	warn	Travelperk HTTP 404 (portal endpoint missing/changed)	fix:skip company, retry next run	outcome:skipped
+2026-06-16T000147Z	scan	warn	Forto HTTP 404 (portal endpoint missing/changed)	fix:skip company, retry next run	outcome:skipped
+2026-06-16T000147Z	scan-step1	warn	npm script failed: ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry scan.mjs	outcome:resolved
+2026-06-16T000147Z	scan-L3	warn	L3 WebSearch: all surfaced candidates already in scan-history (saturated), 0 net-new	fix:dedup against scan-history, skip known	outcome:resolved
+2026-06-16T000147Z	pipeline-pdf	warn	Playwright Chromium not installed (PDF gen failed once)	fix:npx playwright install chromium, retry generate-pdf.mjs	outcome:resolved
+2026-06-16T000147Z	merge-verify	warn	verify: possible dup #885/#1394 (Board of Innovation — AI Engineer), evaluated different dates	fix:normalize+dedup+cleanup-bang ran; dedup-tracker keeps both (distinct reports); pre-existing prior-run dup	outcome:unresolved

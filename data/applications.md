@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1412 | 2026-06-16 | Fireworks AI | AI Product Engineer | 4.0/5 | Evaluated | ✅ | [1412](reports/1412-fireworks-ai-product-engineer-2026-06-16.md) | [US] Full-stack AI product (React/TS+Py/Go), $200-350K, US-remote; Go gap; strong fit |
 | 1408 | 2026-06-15 | Together AI | AI Infrastructure Engineer | 3.1/5 | Evaluated | ✅ | [1408](reports/1408-together-ai-infra-eng-2026-06-15.md) | [US] SF on-site $190-270K — production AI infra |
 | 1410 | 2026-06-15 | Together AI | Backend SWE Data Platform & AI Data | 3.7/5 | Evaluated | ✅ | [1410](reports/1410-together-ai-backend-data-platform-2026-06-15.md) | [US] SF on-site 0-4 yrs $120-170K — strong fit |
 | 1411 | 2026-06-15 | Together AI | Machine Learning Engineer | 3.0/5 | Evaluated | ✅ | [1411](reports/1411-together-ai-ml-engineer-2026-06-15.md) | [US] SF on-site $160-220K — inference platform |

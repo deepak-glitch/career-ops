@@ -37,6 +37,9 @@
 
 ## Processed
 
+### 2026-06-16
+- [x] #1412 | https://job-boards.greenhouse.io/fireworksai/jobs/4277775009 | Fireworks AI | AI Product Engineer | New York, NY; Remote, USA; San Mateo, CA | 4.0/5 | PDF ✅
+
 ### 2026-06-15
 - [x] #1408 | https://job-boards.greenhouse.io/togetherai/jobs/5138540007 | Together AI | AI Infrastructure Engineer | San Francisco — On-site | 3.1/5 | PDF ✅
 - [x] #1410 | https://job-boards.greenhouse.io/togetherai/jobs/5064263007 | Together AI | Backend SWE Data Platform & AI | San Francisco — On-site | 3.7/5 | PDF ✅
