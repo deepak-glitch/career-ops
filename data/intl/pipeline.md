@@ -32,6 +32,7 @@
 ### 2026-06-16
 - [x] #1415 | https://jobs.ashbyhq.com/directive/6a64a3c2-61c0-49bf-94f1-23184ca9107a | Directive | AI Web Developer (Remote Canada) | Remote — Canada (5 cities, non-Quebec) | 3.1/5 | PDF ✅
 - [x] #1416 | https://jobs.ashbyhq.com/nerdwallet/dd822a9a-2beb-4594-bdac-a0a77b040661 | NerdWallet | Security SWE, AI & Automation (Canada) | Remote — Canada (non-Quebec) | 3.6/5 | PDF ✅
+- [x] #1373 | https://jobs.ashbyhq.com/bjakcareer/0ab4a37a-0779-4480-8d3a-bbaf093c2da8 | Bjak (A1) | Applied AI Engineer | Israel — On-site | 3.3/5 | PDF ✅
 
 ### 2026-06-15
 - [x] #1406 | https://apply.workable.com/honu-ai/j/6BC0F1D5B3/ | Honu.ai | Software Engineer (Models, Agents and AI) | UK or Europe — Remote | 3.4/5 | PDF ✅
@@ -52,7 +53,6 @@
 
 ### 2026-06-13
 - [x] #1368 | https://himalayas.app/companies/ema/jobs/ai-implementation-engineer | Ema | AI Implementation Engineer | UK Remote | 3.1/5 | PDF ✅
-- [x] #1373 | https://jobs.ashbyhq.com/bjakcareer/e128c8a0-fb9c-47bf-be19-10dd58375ad4 | Bjak (A1) | Applied AI Engineer | Seoul, Korea — On-site | 3.0/5 | PDF ✅
 - [x] #1372 | https://ikue.teamtailor.com/jobs/4933046-machine-learning-engineer | IKUE | Machine Learning Engineer | Cape Town/Johannesburg — Remote | 3.0/5 | PDF ✅
 - [x] #1356 | https://jobs.ashbyhq.com/reflow/cd4b3752-b07d-4c33-acb3-169a3562d71a | Reflow | AI Engineer | Canada — verify city | 3.0/5 | PDF ✅
 - [x] #1357 | https://apply.workable.com/draxis/j/3544C24D97 | DRAXIS Environmental | AI/ML Engineer | Thessaloniki, Greece | 3.0/5 | PDF ✅

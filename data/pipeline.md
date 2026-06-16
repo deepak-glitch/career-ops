@@ -46,6 +46,8 @@
 ### 2026-06-16
 - [x] #1412 | https://job-boards.greenhouse.io/fireworksai/jobs/4277775009 | Fireworks AI | AI Product Engineer | New York, NY; Remote, USA; San Mateo, CA | 4.0/5 | PDF ✅
 - [x] #1413 | https://jobs.ashbyhq.com/owner/1912d8d8-b37f-4330-91ea-bb428d091322 | Owner.com | Product Builder | Remote — US or Canada | 3.0/5 | PDF ✅
+- [x] #1417 | https://jobs.ashbyhq.com/openrouter/1b26f0a2-4aab-4bef-8c21-0f8de9a059e3 | OpenRouter | Forward Deployed Engineer | Remote (US) | 3.8/5 | PDF ✅
+- [x] #1418 | https://jobs.lever.co/hive/e91c1a5a-fd0d-434e-a912-017e6231ce50 | Hive | Forward Deployed Software Engineer | San Francisco — On-site | 3.2/5 | PDF ✅
 
 ### 2026-06-15
 - [x] #1408 | https://job-boards.greenhouse.io/togetherai/jobs/5138540007 | Together AI | AI Infrastructure Engineer | San Francisco — On-site | 3.1/5 | PDF ✅
