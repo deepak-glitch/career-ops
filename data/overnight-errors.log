@@ -1843,3 +1843,6 @@ Sources:
 2026-06-17T080127Z	setup	warn	js-yaml ERR_MODULE_NOT_FOUND (fresh container, deps absent)	fix:npm install	outcome:resolved
 2026-06-17T080127Z	pdf-1426	warn	Playwright chromium not installed (fresh container)	fix:npx playwright install chromium	outcome:resolved
 2026-06-17T080127Z	verify	warn	possible-duplicate company+role #1394/#885 (Board of Innovation AI Engineer)	fix:normalize+dedup+cleanup-bang ran; dedup-tracker found 0 (distinct postings 2026-05-18 vs 2026-06-14)	outcome:unresolved (pre-existing, distinct postings, intentionally kept)
+Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed 9a73416.
+
+Both scans returned 0 net-new offers; Level 3 WebSearch surfaced ~25 candidates but all were 100% dedup hits against scan-history.tsv or applications.md (portals saturated at 1426 reports). No pending URLs in either pipeline to evaluate. Merge/verify clean (0 errors, 1 pre-existing benign warning). Run report at `data/overnight-runs/2026-06-17T090052Z.md`, commit `9a73416` pushed to `origin/main`.
