@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1439 | 2026-06-17 | Roboflow | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [1439](reports/1439-roboflow-forward-deployed-engineer-2026-06-17.md) | [US] CV platform FDE — 0-to-1 industrial deployments; 40-50% travel; YOLOv8+video pipeline strong match; edge HW (Jetson) gap; remote US; comp est. $150-200K + equity |
 | 1435 | 2026-06-17 | syte GmbH | AI Enablement Engineer | 3.2/5 | Evaluated | ✅ | [1435](reports/1435-syte-ai-enablement-engineer-2026-06-17.md) | [Intl] Germany remote PropTech; Builder-Coach cross-team automation; visa sponsorship needed |
 | 1436 | 2026-06-17 | Crypto Finance AG | AI Engineer | 3.0/5 | Evaluated | ✅ | [1436](reports/1436-crypto-finance-ag-ai-engineer-2026-06-17.md) | [Intl] Zurich hybrid Deutsche Borse Group; RAG + structured extraction + Dagster; Swiss permit required |
 | 1429 | 2026-06-17 | ShipBob | Applied AI Engineer, Agentic Systems | 4.1/5 | Evaluated | ✅ | [1429](reports/1429-shipbob-applied-ai-agentic-2026-06-17.md) | [US] Remote United States (36 states incl OH); agentic ops at Series E 3PL; multi-agent + LangGraph + RAG + evals 1:1 with Progress conductor-subagent (42% token); 1-3y target fits; .NET ramp + logistics domain ramp; est $140-170K |

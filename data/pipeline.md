@@ -47,6 +47,7 @@
 ## Processed
 
 ### 2026-06-17
+- [x] #1439 | https://jobs.ashbyhq.com/roboflow/444ee288-cb72-4751-b16d-67c27749e901 | Roboflow | Forward Deployed Engineer | NY, SF or Remote (US) - 40-50% travel | 3.4/5 | PDF ✅
 - [x] #1429 | https://job-boards.greenhouse.io/shipbobinc/jobs/4638574005 | ShipBob | Applied AI Engineer, Agentic Systems | Remote United States (36 states) | 4.1/5 | PDF ✅
 - [x] #1430 | https://apply.workable.com/ws-development/j/CD1BBE142C | WS Development | Applied AI Engineer | Boston, MA — On-site/Hybrid | 3.6/5 | PDF ✅
 - [x] #1431 | https://apply.workable.com/planetart/j/D96DF76B36/ | PlanetArt | AI Product Engineer, Internal Tools | Calabasas, CA — Hybrid (3 on / 2 off) | 3.3/5 | PDF ✅
