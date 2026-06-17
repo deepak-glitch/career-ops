@@ -1852,3 +1852,12 @@ Both scans returned 0 net-new offers; Level 3 WebSearch surfaced ~25 candidates 
 2026-06-17T120155Z	step1-scan-intl	warn	scanner per-company HTTP 404 x4 (Temporal,Tinybird,Travelperk,Forto)	fix:none — dead/moved boards, scanner-internal	outcome:skipped
 2026-06-17T120155Z	step2-pdf	warn	generate-pdf.mjs failed: Playwright Chromium not installed	fix:npx playwright install chromium	outcome:resolved
 2026-06-17T120155Z	step3-verify	warn	verify-pipeline possible-dup #1394/#885 (Board of Innovation); pre-existing, dedup-tracker removed 0	fix:normalize+dedup+cleanup-bang cycle; dedup authoritative=no action	outcome:resolved
+Processed 3 URLs (US: 3 + Intl: 0), generated 3 PDFs, archived 0 low-score, pushed 423205e.
+
+**Detail:**
+- US scan: 0 new. Intl scan: 1 new (Trade Republic, later dead).
+- L3 WebSearch added 5 new US URLs to Pendientes (ShipBob, Gray Swan AI, WS Development, PlanetArt, Jobgether).
+- Reports: #1429 ShipBob 4.1/5 (Remote US, strong agentic fit), #1430 WS Development 3.6/5 (Boston hybrid), #1431 PlanetArt 3.3/5 (Calabasas hybrid).
+- Dead/unreachable: Gray Swan AI (Ashby null), Jobgether C61C485858 (JD unreachable), Trade Republic ML Platform (Greenhouse 404).
+- merge-tracker: +3 entries. verify-pipeline: 0 errors. cleanup-low-scores: 0 deletions. cleanup-bang-rows: US dead=1, Intl dead=1.
+- Push to `origin/main`: succeeded first try, commit `423205e`.
