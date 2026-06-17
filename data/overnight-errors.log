@@ -1877,3 +1877,10 @@ Processed 5 URLs (US:2 + Intl:3), generated 3 PDFs, archived 1 low-score, pushed
 2026-06-17T200142Z	verify	warn	duplicate #1394/#885 BoI AI Engineer (pre-existing)	fix:dedup-tracker declined (distinct dated re-evals, separate report files)	outcome:skipped
 2026-06-17T200142Z	scan-L3	warn	Postscript AI Automation Engineer greenhouse 8215896002 returns 404	fix:confirmed closed via board API, not added	outcome:skipped
 2026-06-17T200142Z	scan-L3	warn	Zauber FDE ashby be28d274 jobPosting=null	fix:confirmed dead via GraphQL, not added	outcome:skipped
+Processed 3 URLs (US:3 + Intl:0), generated 1 PDFs, archived 2 low-score, pushed cf054a0.
+
+Run summary:
+- Scan: US +1 (Harvey via Ashby), Intl +0
+- L3 WebSearch: +2 US URLs (Element Solutions, Roboflow)
+- Reports: #1437 Harvey 1.5 → deleted, #1438 Element Solutions 1.5 → deleted, #1439 Roboflow 3.4 → kept, PDF generated
+- Verify: 0 errors, 1 pre-existing duplicate warning (BoI #1394/#885)
