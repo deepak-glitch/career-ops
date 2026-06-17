@@ -1870,3 +1870,4 @@ Processed 3 URLs (US: 3 + Intl: 0), generated 3 PDFs, archived 0 low-score, push
 2026-06-17T160141Z	step2-pdf	warn	Playwright Chromium not installed (fresh node_modules)	fix:npx playwright install chromium + retry	outcome:resolved
 2026-06-17T160141Z	step2-extract	warn	pony.ai + spaceinch Workable jobs now HTTP 404 (closed since last run)	fix:confirmed dead via Workable API; breadcrumb retained	outcome:resolved
 2026-06-17T160141Z	step3-merge	warn	Huzzle AI Automation Engineer (#1432) is duplicate of existing #1300 (same URL/role); stale breadcrumb masked completed eval	fix:merge-tracker skipped row; deleted dup report+PDF+TSV; recorded as repost of #1300	outcome:resolved
+Processed 5 URLs (US:2 + Intl:3), generated 3 PDFs, archived 1 low-score, pushed d9a854b.
