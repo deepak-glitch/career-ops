@@ -26,7 +26,6 @@
 - [!] https://jobs.ashbyhq.com/openai/0499e33e-500f-4f1d-9012-e443fb637fbb | error: Ashby GraphQL jobPosting=null (dead — OpenAI FDE Singapore)
 - [!] https://jobs.ashbyhq.com/Bifrost/566ded2e-082f-4833-9967-191d8931005b | error: Ashby GraphQL jobPosting=null (dead)
 - [!] https://apply.workable.com/spaceinch/j/3B9B02C969/ | error: Workable SPA — JD body not extractable via WebFetch (batch mode); retry interactively
-
 ## Processed
 
 ### 2026-06-17
