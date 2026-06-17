@@ -1833,3 +1833,7 @@ Processed 1 URL (US:0 + Intl:1), generated 0 PDFs, archived 1 low-score, pushed 
 
 Sources:
 - [Sierra Forward Deployed Infrastructure Engineer (London) — Ashby](https://jobs.ashbyhq.com/sierra/013d54ba-6658-448b-9de6-c7ba8dcad77f)
+2026-06-17T040121Z	setup	warn	git pull --ff-only failed (origin/main force-updated, diverging)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-17T040121Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-17T040121Z	scan-us	warn	scan.mjs portal 404s: Tinybird, Travelperk, Forto	fix:none (upstream board 404, transient)	outcome:skipped
+2026-06-17T040121Z	verify	warn	possible dup #1394/#885 Board of Innovation AI Engineer (two distinct dated evals, scores 3.4 vs 3.0)	fix:ran normalize+dedup+cleanup-bang chain (dedup-tracker leaves it: distinct reports/URLs, not removable)	outcome:unresolved (pre-existing, kept both intentionally)
