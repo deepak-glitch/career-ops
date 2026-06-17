@@ -1837,3 +1837,9 @@ Sources:
 2026-06-17T040121Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
 2026-06-17T040121Z	scan-us	warn	scan.mjs portal 404s: Tinybird, Travelperk, Forto	fix:none (upstream board 404, transient)	outcome:skipped
 2026-06-17T040121Z	verify	warn	possible dup #1394/#885 Board of Innovation AI Engineer (two distinct dated evals, scores 3.4 vs 3.0)	fix:ran normalize+dedup+cleanup-bang chain (dedup-tracker leaves it: distinct reports/URLs, not removable)	outcome:unresolved (pre-existing, kept both intentionally)
+2026-06-17T080127Z	setup	warn	git pull --ff-only diverged	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-17T080127Z	scan-us	warn	5 portals HTTP 404/403 (Temporal,Vercel,Tinybird,Travelperk,Forto)	fix:scanner skips unreachable portals, continues	outcome:skipped
+2026-06-17T080127Z	scan-intl	warn	4 portals HTTP 404 (Temporal,Tinybird,Travelperk,Forto)	fix:scanner skips unreachable portals, continues	outcome:skipped
+2026-06-17T080127Z	setup	warn	js-yaml ERR_MODULE_NOT_FOUND (fresh container, deps absent)	fix:npm install	outcome:resolved
+2026-06-17T080127Z	pdf-1426	warn	Playwright chromium not installed (fresh container)	fix:npx playwright install chromium	outcome:resolved
+2026-06-17T080127Z	verify	warn	possible-duplicate company+role #1394/#885 (Board of Innovation AI Engineer)	fix:normalize+dedup+cleanup-bang ran; dedup-tracker found 0 (distinct postings 2026-05-18 vs 2026-06-14)	outcome:unresolved (pre-existing, distinct postings, intentionally kept)

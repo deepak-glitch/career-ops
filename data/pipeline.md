@@ -44,6 +44,9 @@
 
 ## Processed
 
+### 2026-06-17
+- [x] #1426 | https://apply.workable.com/roamly-2/j/C51A528C5F | Roamly Labs (Outdoorsy Group) | AI Engineer (AI-Native Builder) | Austin, TX — On-site | 3.5/5 | PDF ✅
+
 ### 2026-06-16
 - [x] #1424 | https://jobs.ashbyhq.com/sol/eeeac4bb-1c32-4944-ad06-a716e8a05790 | Sol | Applied AI Engineer | San Mateo, CA — On-site/Hybrid | 4.0/5 | PDF ✅
 - [x] #1420 | https://job-boards.greenhouse.io/tanium/jobs/7800318 | Tanium | Applied AI Engineer II | Hybrid Durham NC / Addison TX | 3.6/5 | PDF ✅
