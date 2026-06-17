@@ -17,7 +17,6 @@
 ### 2026-06-13
 - [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | error: Himalayas Cloudflare-challenged (unreachable in batch)
 - [!] https://wayve.firststage.co/jobs?gh_jid=8572927002 | error: Wayve Partner Integration Engineer Tokyo requires Japanese fluency (terminal); skipping evaluation
-- [!] https://apply.workable.com/huzzle/j/26ECD081DE | error: vague/insufficient JD body in batch mode
 
 ### 2026-06-16
 
@@ -25,11 +24,11 @@
 - [!] https://jobs.ashbyhq.com/hopper/f7a516d9-94c5-4ff4-87ac-e094767221b0 | error: Ashby GraphQL jobPosting=null (dead)
 - [!] https://jobs.ashbyhq.com/openai/0499e33e-500f-4f1d-9012-e443fb637fbb | error: Ashby GraphQL jobPosting=null (dead — OpenAI FDE Singapore)
 - [!] https://jobs.ashbyhq.com/Bifrost/566ded2e-082f-4833-9967-191d8931005b | error: Ashby GraphQL jobPosting=null (dead)
-- [!] https://apply.workable.com/spaceinch/j/3B9B02C969/ | error: Workable SPA — JD body not extractable via WebFetch (batch mode); retry interactively
 ## Processed
 
 ### 2026-06-17
 
+- [x] #1300 (repost) | https://apply.workable.com/huzzle/j/26ECD081DE | Huzzle | AI Automation Engineer | United Kingdom — Remote (global) | dup of #1300 (3.0, re-discovered breadcrumb) | PDF ❌
 - [x] #1425 (repost) | https://job-boards.greenhouse.io/sezzle/jobs/7709981003 | Sezzle | AI Engineering I - Marketing | Mexico — Remote | dup of #1425 (3.0, location variant) | PDF ❌
 
 ### 2026-06-16

@@ -16,7 +16,6 @@
 - [!] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | error: Ashby GraphQL returns jobPosting=null (dead)
 - [!] https://apply.workable.com/jobgether/j/0C895CA0C5 | error: Workable listing returned empty jobs array (dead) and Lever fallback 403
 - [!] https://himalayas.app/companies/uvation/jobs/ai-ml-engineer-2931175390 | error: Himalayas index page only — no direct JD reachable
-- [!] https://apply.workable.com/pony-dot-ai/j/3643CD4D96/ | error: Workable API 401 — JD unreachable in batch mode
 - [!] https://www.workatastartup.com/jobs/94746 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
 - [!] https://www.workatastartup.com/jobs/89099 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
 - [!] https://www.workatastartup.com/jobs/85043 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively

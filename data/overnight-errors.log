@@ -1861,3 +1861,12 @@ Processed 3 URLs (US: 3 + Intl: 0), generated 3 PDFs, archived 0 low-score, push
 - Dead/unreachable: Gray Swan AI (Ashby null), Jobgether C61C485858 (JD unreachable), Trade Republic ML Platform (Greenhouse 404).
 - merge-tracker: +3 entries. verify-pipeline: 0 errors. cleanup-low-scores: 0 deletions. cleanup-bang-rows: US dead=1, Intl dead=1.
 - Push to `origin/main`: succeeded first try, commit `423205e`.
+2026-06-17T160141Z	setup	warn	git pull --ff-only failed (diverged 56/50)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-17T160141Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (empty node_modules)	fix:npm install	outcome:resolved
+2026-06-17T160141Z	step1-scan	warn	portal Temporal HTTP 404 (ATS endpoint stale)	fix:none (transient/ATS-moved); will retry next run	outcome:skipped
+2026-06-17T160141Z	step1-scan	warn	portal Tinybird HTTP 404 (ATS endpoint stale)	fix:none (transient/ATS-moved); will retry next run	outcome:skipped
+2026-06-17T160141Z	step1-scan	warn	portal Travelperk HTTP 404 (ATS endpoint stale)	fix:none (transient/ATS-moved); will retry next run	outcome:skipped
+2026-06-17T160141Z	step1-scan	warn	portal Forto HTTP 404 (ATS endpoint stale)	fix:none (transient/ATS-moved); will retry next run	outcome:skipped
+2026-06-17T160141Z	step2-pdf	warn	Playwright Chromium not installed (fresh node_modules)	fix:npx playwright install chromium + retry	outcome:resolved
+2026-06-17T160141Z	step2-extract	warn	pony.ai + spaceinch Workable jobs now HTTP 404 (closed since last run)	fix:confirmed dead via Workable API; breadcrumb retained	outcome:resolved
+2026-06-17T160141Z	step3-merge	warn	Huzzle AI Automation Engineer (#1432) is duplicate of existing #1300 (same URL/role); stale breadcrumb masked completed eval	fix:merge-tracker skipped row; deleted dup report+PDF+TSV; recorded as repost of #1300	outcome:resolved
