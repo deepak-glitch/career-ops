@@ -41,10 +41,17 @@
 - [!] https://jobs.ashbyhq.com/Deel/64eb7d4f-b63c-4b26-a8d3-83ef28f72215 | error: Ashby GraphQL jobPosting=null (dead)
 - [!] https://jobs.ashbyhq.com/TigerEye/72482c62-a79c-4d83-a4da-8321b6fdac12 | error: Ashby GraphQL jobPosting=null (dead)
 
+### 2026-06-17
+
+- [!] https://jobs.ashbyhq.com/Gray%20Swan%20AI/12e39ec1-fe00-47c8-b615-b1da2d3cf1fc | error: Ashby GraphQL jobPosting=null (dead)
+
 
 ## Processed
 
 ### 2026-06-17
+- [x] #1429 | https://job-boards.greenhouse.io/shipbobinc/jobs/4638574005 | ShipBob | Applied AI Engineer, Agentic Systems | Remote United States (36 states) | 4.1/5 | PDF ✅
+- [x] #1430 | https://apply.workable.com/ws-development/j/CD1BBE142C | WS Development | Applied AI Engineer | Boston, MA — On-site/Hybrid | 3.6/5 | PDF ✅
+- [x] #1431 | https://apply.workable.com/planetart/j/D96DF76B36/ | PlanetArt | AI Product Engineer, Internal Tools | Calabasas, CA — Hybrid (3 on / 2 off) | 3.3/5 | PDF ✅
 - [x] #1426 | https://apply.workable.com/roamly-2/j/C51A528C5F | Roamly Labs (Outdoorsy Group) | AI Engineer (AI-Native Builder) | Austin, TX — On-site | 3.5/5 | PDF ✅
 - [x] #1427 | https://apply.workable.com/becoming/j/15A6DEBBF1/ | Becoming | Applied AI Engineer | San Francisco, CA — On-site | 3.2/5 | PDF ✅
 - [x] #1428 | https://apply.workable.com/1kosmos/j/DDE33AFDAC/ | 1Kosmos | AI / Machine Learning Engineer | Iselin, NJ — Hybrid | 3.3/5 | PDF ✅
