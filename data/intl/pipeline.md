@@ -28,6 +28,9 @@
 
 ### 2026-06-17
 
+- [x] #1434 | https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-1718778854 | Bjak | Applied AI Engineer | Switzerland TZ - Remote | 3.3/5 | PDF ✅
+- [x] #1435 | https://remotive.com/remote/jobs/artificial-intelligence/ai-enablement-engineer-4833765 | syte GmbH | AI Enablement Engineer | Germany - Remote/Munster | 3.2/5 | PDF ✅
+- [x] #1436 | https://jobs.workable.com/view/57kACWxhTK7yjx8riXmu16/hybrid-ai-engineer-in-z%C3%BCrich-at-crypto-finance-ag | Crypto Finance AG | AI Engineer | Zurich, Switzerland - Hybrid | 3.0/5 | PDF ✅
 - [x] #1300 (repost) | https://apply.workable.com/huzzle/j/26ECD081DE | Huzzle | AI Automation Engineer | United Kingdom — Remote (global) | dup of #1300 (3.0, re-discovered breadcrumb) | PDF ❌
 - [x] #1425 (repost) | https://job-boards.greenhouse.io/sezzle/jobs/7709981003 | Sezzle | AI Engineering I - Marketing | Mexico — Remote | dup of #1425 (3.0, location variant) | PDF ❌
 
