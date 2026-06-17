@@ -46,6 +46,8 @@
 
 ### 2026-06-17
 - [x] #1426 | https://apply.workable.com/roamly-2/j/C51A528C5F | Roamly Labs (Outdoorsy Group) | AI Engineer (AI-Native Builder) | Austin, TX — On-site | 3.5/5 | PDF ✅
+- [x] #1427 | https://apply.workable.com/becoming/j/15A6DEBBF1/ | Becoming | Applied AI Engineer | San Francisco, CA — On-site | 3.2/5 | PDF ✅
+- [x] #1428 | https://apply.workable.com/1kosmos/j/DDE33AFDAC/ | 1Kosmos | AI / Machine Learning Engineer | Iselin, NJ — Hybrid | 3.3/5 | PDF ✅
 
 ### 2026-06-16
 - [x] #1424 | https://jobs.ashbyhq.com/sol/eeeac4bb-1c32-4944-ad06-a716e8a05790 | Sol | Applied AI Engineer | San Mateo, CA — On-site/Hybrid | 4.0/5 | PDF ✅

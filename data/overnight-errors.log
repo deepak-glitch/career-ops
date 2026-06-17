@@ -1846,3 +1846,9 @@ Sources:
 Processed 0 URLs (US:0 + Intl:0), generated 0 PDFs, archived 0 low-score, pushed 9a73416.
 
 Both scans returned 0 net-new offers; Level 3 WebSearch surfaced ~25 candidates but all were 100% dedup hits against scan-history.tsv or applications.md (portals saturated at 1426 reports). No pending URLs in either pipeline to evaluate. Merge/verify clean (0 errors, 1 pre-existing benign warning). Run report at `data/overnight-runs/2026-06-17T090052Z.md`, commit `9a73416` pushed to `origin/main`.
+2026-06-17T120155Z	setup-step3	warn	git pull --ff-only failed (origin force-updated, diverged)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-17T120155Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-17T120155Z	step1-scan-us	warn	scanner per-company HTTP 404 x4 (Temporal,Tinybird,Travelperk,Forto)	fix:none — dead/moved boards, scanner-internal	outcome:skipped
+2026-06-17T120155Z	step1-scan-intl	warn	scanner per-company HTTP 404 x4 (Temporal,Tinybird,Travelperk,Forto)	fix:none — dead/moved boards, scanner-internal	outcome:skipped
+2026-06-17T120155Z	step2-pdf	warn	generate-pdf.mjs failed: Playwright Chromium not installed	fix:npx playwright install chromium	outcome:resolved
+2026-06-17T120155Z	step3-verify	warn	verify-pipeline possible-dup #1394/#885 (Board of Innovation); pre-existing, dedup-tracker removed 0	fix:normalize+dedup+cleanup-bang cycle; dedup authoritative=no action	outcome:resolved
