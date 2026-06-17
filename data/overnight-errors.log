@@ -1871,3 +1871,9 @@ Processed 3 URLs (US: 3 + Intl: 0), generated 3 PDFs, archived 0 low-score, push
 2026-06-17T160141Z	step2-extract	warn	pony.ai + spaceinch Workable jobs now HTTP 404 (closed since last run)	fix:confirmed dead via Workable API; breadcrumb retained	outcome:resolved
 2026-06-17T160141Z	step3-merge	warn	Huzzle AI Automation Engineer (#1432) is duplicate of existing #1300 (same URL/role); stale breadcrumb masked completed eval	fix:merge-tracker skipped row; deleted dup report+PDF+TSV; recorded as repost of #1300	outcome:resolved
 Processed 5 URLs (US:2 + Intl:3), generated 3 PDFs, archived 1 low-score, pushed d9a854b.
+2026-06-17T200142Z	setup	warn	ff-pull failed (diverged main vs origin)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-17T200142Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-17T200142Z	verify	warn	duplicate #1394/#885 Board of Innovation AI Engineer	fix:dedup-tracker	outcome:pending
+2026-06-17T200142Z	verify	warn	duplicate #1394/#885 BoI AI Engineer (pre-existing)	fix:dedup-tracker declined (distinct dated re-evals, separate report files)	outcome:skipped
+2026-06-17T200142Z	scan-L3	warn	Postscript AI Automation Engineer greenhouse 8215896002 returns 404	fix:confirmed closed via board API, not added	outcome:skipped
+2026-06-17T200142Z	scan-L3	warn	Zauber FDE ashby be28d274 jobPosting=null	fix:confirmed dead via GraphQL, not added	outcome:skipped
