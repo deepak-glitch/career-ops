@@ -1829,3 +1829,7 @@ Processed 2 URLs (US:1 + Intl:1), generated 2 PDFs, archived 0 low-score, pushed
 2026-06-17T000140Z	step1-scan-us	warn	3 portal HTTP 404 (Tinybird, Travelperk, Forto)	fix:scan.mjs skipped them, endpoints stale	outcome:skipped
 2026-06-17T000140Z	step2-pipeline	warn	Sezzle 7709981003 AI Engineering I-Marketing = location variant of #1425 (same company+role)	fix:marked repost dup of #1425, no new report/PDF/tracker row, moved to Processed	outcome:resolved
 2026-06-17T000140Z	step3-verify	warn	verify-pipeline heuristic: possible dup #1394/#885 (Board of Innovation AI Engineer)	fix:ran normalize+dedup+cleanup-bang chain; dedup-tracker reports 0 real dups (separate evals 05-18 vs 06-14)	outcome:unresolved (benign, pre-existing)
+Processed 1 URL (US:0 + Intl:1), generated 0 PDFs, archived 1 low-score, pushed 255bdb4.
+
+Sources:
+- [Sierra Forward Deployed Infrastructure Engineer (London) — Ashby](https://jobs.ashbyhq.com/sierra/013d54ba-6658-448b-9de6-c7ba8dcad77f)
