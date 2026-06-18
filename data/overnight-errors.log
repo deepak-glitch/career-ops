@@ -1903,3 +1903,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-18T080126Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
 2026-06-18T080126Z	step1-scan	warn	scan.mjs added 2 Celonis CEP/CVP partner roles (off-archetype sales/consulting) to US pipeline	fix:marked filtered in pipeline + added Client Engagement/Value Partner to portals.yml title_filter.negative	outcome:resolved
 2026-06-18T080126Z	step3-verify	warn	verify-pipeline possible-duplicate #885/#1394 (Board of Innovation — AI Engineer)	fix:normalize-statuses+dedup-tracker (0 changes — two legit dated evals of a re-posting, both above-threshold valid reports)	outcome:skipped
+Failed to authenticate. API Error: 401 Invalid authentication credentials
