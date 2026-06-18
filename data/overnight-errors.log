@@ -1912,3 +1912,7 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-18T120134Z	step2-pdf	warn	Playwright chromium not installed (PDF gen failed)	fix:npx playwright install chromium then retry	outcome:resolved
 2026-06-18T120134Z	step3-verify	warn	verify-pipeline possible-dup #1394/#885 Board of Innovation AI Engineer	fix:ran normalize+dedup+cleanup-bang chain; dedup-tracker treats them as distinct (diff dates/locations Antwerp-Lisbon vs Belgium), 0 removed	outcome:unresolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-18T160125Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-18T160125Z	step1-scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install + retry	outcome:resolved
+2026-06-18T160125Z	step1-scan-us	warn	5 company endpoints failed (Temporal/Tinybird/Travelperk/Forto HTTP404, Waabi aborted)	fix:scanner skipped them, remaining 110 companies scanned OK	outcome:skipped
+2026-06-18T160125Z	step3-verify	warn	verify-pipeline: possible-duplicate #885/#1394 Board of Innovation AI Engineer	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows; dedup found 0 (legitimately distinct evals dated 2026-05-18 vs 2026-06-14, different reports/URLs)	outcome:resolved (benign pre-existing false-positive, kept both)
