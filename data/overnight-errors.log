@@ -1890,3 +1890,12 @@ Run summary:
 2026-06-18T000131Z	step2-pdf	warn	Playwright Chromium not installed (PDF gen failed)	fix:npx playwright install chromium + retry	outcome:resolved
 2026-06-18T000131Z	step3-verify	warn	verify duplicate-warning BoI #1394/#885 (AI Engineer)	fix:ran normalize+dedup; distinct evals 1mo apart (3.0 vs 3.4), dedup removed 0	outcome:skipped (pre-existing, not a true dup)
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-18T040120Z	setup	warn	git pull --ff-only failed (origin force-updated)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-18T040120Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install	outcome:resolved
+2026-06-18T040120Z	scan	warn	portal Temporal HTTP 404 (board moved/closed)	fix:scan.mjs skipped gracefully	outcome:skipped
+2026-06-18T040120Z	scan	warn	portal Tinybird HTTP 404 (board moved/closed)	fix:scan.mjs skipped gracefully	outcome:skipped
+2026-06-18T040120Z	scan	warn	portal Travelperk HTTP 404 (board moved/closed)	fix:scan.mjs skipped gracefully	outcome:skipped
+2026-06-18T040120Z	scan	warn	portal Forto HTTP 404 (board moved/closed)	fix:scan.mjs skipped gracefully	outcome:skipped
+2026-06-18T040120Z	pipeline-pdf	warn	Playwright Chromium not installed	fix:npx playwright install chromium	outcome:pending
+2026-06-18T040120Z	pipeline-pdf	warn	Playwright Chromium not installed (retry after install)	fix:npx playwright install chromium + regenerate	outcome:resolved
+2026-06-18T040120Z	verify	warn	verify-pipeline soft-dup warning #1394/#885 (Board of Innovation — AI Engineer)	fix:ran normalize+dedup+cleanup-bang; dedup kept both (distinct URLs, pre-existing)	outcome:unresolved (intentional — not exact dups)
