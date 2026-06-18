@@ -1917,3 +1917,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-18T160125Z	step1-scan-us	warn	5 company endpoints failed (Temporal/Tinybird/Travelperk/Forto HTTP404, Waabi aborted)	fix:scanner skipped them, remaining 110 companies scanned OK	outcome:skipped
 2026-06-18T160125Z	step3-verify	warn	verify-pipeline: possible-duplicate #885/#1394 Board of Innovation AI Engineer	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows; dedup found 0 (legitimately distinct evals dated 2026-05-18 vs 2026-06-14, different reports/URLs)	outcome:resolved (benign pre-existing false-positive, kept both)
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-18T200115Z	setup	warn	git pull --ff-only failed (diverging branches, forced upstream update)	fix:git fetch + git reset --hard origin/main (no local commits)	outcome:resolved
+2026-06-18T200115Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules missing in fresh container)	fix:npm install	outcome:resolved
+2026-06-18T200115Z	step1-scan	warn	scan.mjs portal errors: Temporal/Tinybird/Travelperk/Forto HTTP 404 (boards moved/empty)	fix:scan.mjs skips gracefully, dead boards	outcome:skipped
+2026-06-18T200115Z	step2-pdf	warn	generate-pdf.mjs failed: Playwright chromium binary missing in fresh container	fix:npx playwright install chromium, retried	outcome:resolved
+2026-06-18T200115Z	step3-verify	warn	verify-pipeline: possible-duplicate #1394/#885 Board of Innovation AI Engineer	fix:ran normalize+dedup-tracker (idempotent, 0 removed) — distinct re-evals 2026-05-18 vs 2026-06-14, both Intl >=3.0	outcome:resolved
+2026-06-18T200115Z	step5-numbering	warn	report-num reuse in discarded.tsv: 1444/1445 used by prior 18:30Z run (Periodic Labs) and reused for deleted Helsing/Celonis	fix:verified no LIVE collision — surviving #1446 unique in reports/ + applications.md; reused nums are deleted-artifact audit rows only	outcome:resolved

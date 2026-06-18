@@ -44,9 +44,15 @@
 
 - [!] https://jobs.ashbyhq.com/Gray%20Swan%20AI/12e39ec1-fe00-47c8-b615-b1da2d3cf1fc | error: Ashby GraphQL jobPosting=null (dead)
 
+### 2026-06-18
+
+- [ ] https://apply.workable.com/valsoft-corp/j/5626740C7C | Valsoft Corporation | AI Automation Engineer | Remote (Montreal HQ; JD excerpt says US team — verify in JD)
+- [ ] https://apply.workable.com/becoming/j/15A6DEBBF1 | Becoming | Applied AI Engineer | Remote (verify in JD — Workable SPA, JD body not extractable in batch mode)
+
 ## Processed
 
 ### 2026-06-18
+- [x] #1446 | https://jobs.lever.co/outreach/c050b2d3-1c6b-4eea-86d1-ef505bd2b4cb | Outreach | Forward Deployed Engineer, AI Revenue Agents | Remote — United States | 3.1/5 | PDF ✅
 - [x] #1443 | https://www.linkedin.com/jobs/view/ai-implementation-specialist-remote-at-keystone-custom-homes-4398085686 | Keystone Custom Homes | AI Implementation Specialist | Remote (Lancaster, PA) | 3.0/5 | PDF ✅
 - [x] #1442 | https://remotive.com/remote/jobs/artificial-intelligence/agentic-ai-engineer-co-op-4964939 | Campbell's | Agentic AI Engineer Co-Op | Remote, USA only | 3.3/5 | PDF ✅
 - [x] #1440 | https://jobs.ashbyhq.com/eagle/ddd07f46-a42a-4709-8e19-091d5145a9e7 | Eagle | Forward Deployed Engineer | New York City — In-person + travel | 3.5/5 | PDF ✅
