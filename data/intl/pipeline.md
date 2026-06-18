@@ -26,6 +26,10 @@
 - [!] https://jobs.ashbyhq.com/Bifrost/566ded2e-082f-4833-9967-191d8931005b | error: Ashby GraphQL jobPosting=null (dead)
 ## Processed
 
+### 2026-06-18
+
+- [x] #1441 | https://jobs.ashbyhq.com/nexxa/512311e5-d955-4507-9b65-72753d091257 | Nexxa.AI | Applied AI Engineer (Toronto) | Toronto, Canada — frequent travel | 3.1/5 | PDF ✅
+
 ### 2026-06-17
 
 - [x] #1434 | https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-1718778854 | Bjak | Applied AI Engineer | Switzerland TZ - Remote | 3.3/5 | PDF ✅

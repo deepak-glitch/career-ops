@@ -1884,3 +1884,8 @@ Run summary:
 - L3 WebSearch: +2 US URLs (Element Solutions, Roboflow)
 - Reports: #1437 Harvey 1.5 → deleted, #1438 Element Solutions 1.5 → deleted, #1439 Roboflow 3.4 → kept, PDF generated
 - Verify: 0 errors, 1 pre-existing duplicate warning (BoI #1394/#885)
+2026-06-18T000131Z	setup	warn	git pull not fast-forward (local main diverged 56/50)	fix:git fetch + git reset --hard origin/main (no local commits to keep)	outcome:resolved
+2026-06-18T000131Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-18T000131Z	step1-scan	warn	scan portal 404s: Temporal/Tinybird/Travelperk/Forto (boards moved)	fix:none needed (transient board errors, logged)	outcome:skipped
+2026-06-18T000131Z	step2-pdf	warn	Playwright Chromium not installed (PDF gen failed)	fix:npx playwright install chromium + retry	outcome:resolved
+2026-06-18T000131Z	step3-verify	warn	verify duplicate-warning BoI #1394/#885 (AI Engineer)	fix:ran normalize+dedup; distinct evals 1mo apart (3.0 vs 3.4), dedup removed 0	outcome:skipped (pre-existing, not a true dup)

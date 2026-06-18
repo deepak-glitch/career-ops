@@ -46,6 +46,9 @@
 
 ## Processed
 
+### 2026-06-18
+- [x] #1440 | https://jobs.ashbyhq.com/eagle/ddd07f46-a42a-4709-8e19-091d5145a9e7 | Eagle | Forward Deployed Engineer | New York City — In-person + travel | 3.5/5 | PDF ✅
+
 ### 2026-06-17
 - [x] #1439 | https://jobs.ashbyhq.com/roboflow/444ee288-cb72-4751-b16d-67c27749e901 | Roboflow | Forward Deployed Engineer | NY, SF or Remote (US) - 40-50% travel | 3.4/5 | PDF ✅
 - [x] #1429 | https://job-boards.greenhouse.io/shipbobinc/jobs/4638574005 | ShipBob | Applied AI Engineer, Agentic Systems | Remote United States (36 states) | 4.1/5 | PDF ✅
