@@ -508,6 +508,8 @@ title_filter:
     - "Sales Representative"
     - "Account Manager"
     - "Customer Success"
+    - "Client Engagement Partner"  # Celonis CEP — senior sales/consulting partner, off-archetype (repeatedly discarded 1-2/5)
+    - "Client Value Partner"       # Celonis CVP — senior CS/consulting partner, off-archetype (repeatedly discarded 1-2/5)
     # -- Non-engineering / wrong-function titles --
     - "Designer"               # UX / "Conversational AI Designer"
     - "Counsel"                # legal (e.g. "Assistant General Counsel - AI")
