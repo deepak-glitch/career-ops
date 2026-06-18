@@ -1889,3 +1889,4 @@ Run summary:
 2026-06-18T000131Z	step1-scan	warn	scan portal 404s: Temporal/Tinybird/Travelperk/Forto (boards moved)	fix:none needed (transient board errors, logged)	outcome:skipped
 2026-06-18T000131Z	step2-pdf	warn	Playwright Chromium not installed (PDF gen failed)	fix:npx playwright install chromium + retry	outcome:resolved
 2026-06-18T000131Z	step3-verify	warn	verify duplicate-warning BoI #1394/#885 (AI Engineer)	fix:ran normalize+dedup; distinct evals 1mo apart (3.0 vs 3.4), dedup removed 0	outcome:skipped (pre-existing, not a true dup)
+Failed to authenticate. API Error: 401 Invalid authentication credentials
