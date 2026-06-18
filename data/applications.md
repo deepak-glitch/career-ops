@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1443 | 2026-06-18 | Keystone Custom Homes | AI Implementation Specialist | 3.0/5 | Evaluated | ✅ | [1443](reports/1443-keystone-custom-homes-ai-implementation-specialist-2026-06-18.md) | [US] Remote (Lancaster PA homebuilder); internal AI-workflow embed (4-6wk engagements); low-code/no-code (Hatz.ai/Copilot Studio/Power Automate) is the JD headline ask = gap for code-first eng; strong AI-literacy + cross-team fit; $75-95K below market; F-1 OPT clean (Remote US) |
 | 1442 | 2026-06-18 | Campbell's | Agentic AI Engineer Co-Op | 3.3/5 | Evaluated | ✅ | [1442](reports/1442-campbells-agentic-ai-engineer-coop-2026-06-18.md) | [US] Strong agentic/RAG/eval fit; US-remote ideal for OPT; capped by Co-Op role-type + comp ambiguity — confirm OPT eligibility |
 | 1440 | 2026-06-18 | Eagle | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1440](reports/1440-eagle-forward-deployed-engineer-2026-06-18.md) | [US] NYC in-person + travel; Lightspeed-backed AEC applied AI; strong FDE/agent/RAG fit, new domain |
 | 1439 | 2026-06-17 | Roboflow | Forward Deployed Engineer | 3.4/5 | Evaluated | ✅ | [1439](reports/1439-roboflow-forward-deployed-engineer-2026-06-17.md) | [US] CV platform FDE — 0-to-1 industrial deployments; 40-50% travel; YOLOv8+video pipeline strong match; edge HW (Jetson) gap; remote US; comp est. $150-200K + equity |

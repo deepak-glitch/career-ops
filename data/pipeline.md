@@ -46,6 +46,7 @@
 ## Processed
 
 ### 2026-06-18
+- [x] #1443 | https://www.linkedin.com/jobs/view/ai-implementation-specialist-remote-at-keystone-custom-homes-4398085686 | Keystone Custom Homes | AI Implementation Specialist | Remote (Lancaster, PA) | 3.0/5 | PDF ✅
 - [x] #1442 | https://remotive.com/remote/jobs/artificial-intelligence/agentic-ai-engineer-co-op-4964939 | Campbell's | Agentic AI Engineer Co-Op | Remote, USA only | 3.3/5 | PDF ✅
 - [x] #1440 | https://jobs.ashbyhq.com/eagle/ddd07f46-a42a-4709-8e19-091d5145a9e7 | Eagle | Forward Deployed Engineer | New York City — In-person + travel | 3.5/5 | PDF ✅
 
