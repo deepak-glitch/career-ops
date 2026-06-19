@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1451 | 2026-06-19 | Mistral AI | AI Deployment Strategist (Canada) | 3.1/5 | Evaluated | ✅ | [1451](reports/1451-mistral-ai-deployment-strategist-2026-06-19.md) | [Intl] Montreal on-site + 30-60% travel; Solutions team, AI deployment vision→production; strong AI-build fit but skews pre-sales/strategy (MEDDPICC); F-1 OPT → Canada work auth needed |
 | 1450 | 2026-06-19 | Tenex | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [1450](reports/1450-tenex-forward-deployed-engineer-2026-06-19.md) | [US] NYC in-person + ~monthly travel; applied-AI consultancy, Anthropic/OpenAI partners; agentic+RAG+healthcare match strong; $180K base + uncapped throughput-quota variable; F-1 OPT US-based, would need relocation |
 | 1447 | 2026-06-19 | Resourceful Talent Group | AI Automation & Generative AI Engineer | 3.6/5 | Evaluated | ✅ | [1447](reports/1447-resourceful-talent-group-2026-06-19.md) | [US] Remote staffing placement; GenAI/RAG/agents/automation fit; comp undisclosed, end-client unnamed |
 | 1448 | 2026-06-19 | Blueprint Technologies | AI Process Automation Engineer | 3.2/5 | Evaluated | ✅ | [1448](reports/1448-blueprint-technologies-2026-06-19.md) | [US] Remote, $125-135K; automation/CI-CD fit; Power Platform gap |

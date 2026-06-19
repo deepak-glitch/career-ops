@@ -24,9 +24,11 @@
 - [!] https://jobs.ashbyhq.com/hopper/f7a516d9-94c5-4ff4-87ac-e094767221b0 | error: Ashby GraphQL jobPosting=null (dead)
 - [!] https://jobs.ashbyhq.com/openai/0499e33e-500f-4f1d-9012-e443fb637fbb | error: Ashby GraphQL jobPosting=null (dead — OpenAI FDE Singapore)
 - [!] https://jobs.ashbyhq.com/Bifrost/566ded2e-082f-4833-9967-191d8931005b | error: Ashby GraphQL jobPosting=null (dead)
+
 ## Processed
 
 ### 2026-06-19
+- [x] #1451 | https://jobs.lever.co/mistral/ebbae799-78e9-4705-97bc-9f86d359f56f | Mistral AI | AI Deployment Strategist (Canada) | Montreal, Canada — On-site + 30-60% travel | 3.1/5 | PDF ✅
 - [x] #1449 | https://job-boards.greenhouse.io/coherentsolutions/jobs/4896325101 | Coherent Solutions | AI Engineer (Life Sciences & Healthcare) | Bulgaria (EU) — remote not stated | 3.4/5 | PDF ✅
 
 ### 2026-06-18
