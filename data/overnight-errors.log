@@ -1944,3 +1944,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-19T080102Z	step2-extract	warn	Quora ML NewGrad cb455a21 + Poe 6df58d3e closed (removed 2026-04-02)	fix:marked dead, not re-added	outcome:skipped
 2026-06-19T080102Z	step2-extract	warn	Himalayas JD pages stale (resourceful/blueprint index only)	fix:aggregator corroboration via WebSearch (BuiltIn/Remotive)	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-19T120128Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-19T120128Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install	outcome:resolved
+2026-06-19T120128Z	scan	warn	scanner company API 404s: Temporal,Tinybird,Travelperk,Forto (both tracks)	fix:none needed - scanner handles gracefully, recurring dead endpoints	outcome:skipped
+2026-06-19T120128Z	pipeline	warn	Playwright chromium-headless-shell executable missing	fix:npx playwright install chromium-headless-shell + retry	outcome:resolved
+2026-06-19T120128Z	verify	warn	verify-pipeline possible-duplicate #1394/#885 Board of Innovation AI Engineer (pre-existing, distinct postings/URLs/dates)	fix:ran normalize-statuses(0)+dedup-tracker(0, intentionally kept)+cleanup-bang-rows; 3 cycles	outcome:unresolved
