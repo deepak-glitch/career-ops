@@ -44,11 +44,6 @@
 
 - [!] https://jobs.ashbyhq.com/Gray%20Swan%20AI/12e39ec1-fe00-47c8-b615-b1da2d3cf1fc | error: Ashby GraphQL jobPosting=null (dead)
 
-### 2026-06-18
-
-- [ ] https://apply.workable.com/valsoft-corp/j/5626740C7C | Valsoft Corporation | AI Automation Engineer | Remote (Montreal HQ; JD excerpt says US team — verify in JD)
-- [ ] https://apply.workable.com/becoming/j/15A6DEBBF1 | Becoming | Applied AI Engineer | Remote (verify in JD — Workable SPA, JD body not extractable in batch mode)
-
 ## Processed
 
 ### 2026-06-18

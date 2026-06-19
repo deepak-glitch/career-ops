@@ -1924,3 +1924,10 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-18T200115Z	step3-verify	warn	verify-pipeline: possible-duplicate #1394/#885 Board of Innovation AI Engineer	fix:ran normalize+dedup-tracker (idempotent, 0 removed) — distinct re-evals 2026-05-18 vs 2026-06-14, both Intl >=3.0	outcome:resolved
 2026-06-18T200115Z	step5-numbering	warn	report-num reuse in discarded.tsv: 1444/1445 used by prior 18:30Z run (Periodic Labs) and reused for deleted Helsing/Celonis	fix:verified no LIVE collision — surviving #1446 unique in reports/ + applications.md; reused nums are deleted-artifact audit rows only	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-19T000133Z	setup	warn	pull --ff-only failed (main diverged from origin)	fix:git reset --hard origin/main	outcome:resolved
+2026-06-19T000133Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-19T000133Z	scan-us	warn	4 portal API HTTP 404 (Temporal,Tinybird,Travelperk,Forto)	fix:known dead endpoints, skip	outcome:skipped
+2026-06-19T000133Z	pipeline-us	warn	pending Valsoft 5626740C7C duplicate of report #511 (already evaluated)	fix:removed duplicate pending row, no re-eval (no-duplicate rule)	outcome:resolved
+2026-06-19T000133Z	pipeline-us	warn	pending Becoming 15A6DEBBF1 duplicate of report #1427 (already evaluated)	fix:removed duplicate pending row, no re-eval (no-duplicate rule)	outcome:resolved
+2026-06-19T000133Z	scan-l3	warn	L3 net-new Sezzle AI Engineer I (7633954003) Brazil-remote duplicate company+role (#1335/#050) and non-US	fix:skip per no-duplicate rule	outcome:skipped
+2026-06-19T000133Z	verify	warn	possible-duplicate #885/#1394 (Board of Innovation AI Engineer) — distinct evals 2026-05-18 & 2026-06-14	fix:dedup-tracker dry-run shows 0 removable; legitimately distinct, preserved	outcome:unresolved
