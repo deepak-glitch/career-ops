@@ -1932,3 +1932,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-19T000133Z	scan-l3	warn	L3 net-new Sezzle AI Engineer I (7633954003) Brazil-remote duplicate company+role (#1335/#050) and non-US	fix:skip per no-duplicate rule	outcome:skipped
 2026-06-19T000133Z	verify	warn	possible-duplicate #885/#1394 (Board of Innovation AI Engineer) — distinct evals 2026-05-18 & 2026-06-14	fix:dedup-tracker dry-run shows 0 removable; legitimately distinct, preserved	outcome:unresolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-19T040102Z	setup	warn	git pull --ff-only failed (diverging branches, upstream force-update)	fix:git fetch + git reset --hard origin/main (no local commits)	outcome:resolved
+2026-06-19T040102Z	scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry scan.mjs	outcome:resolved
+2026-06-19T040102Z	scan	warn	4 portal HTTP 404 (Temporal,Tinybird,Travelperk,Forto) — boards moved/closed	fix:none (recurring config drift, scanner skips gracefully)	outcome:skipped
+2026-06-19T040102Z	scan-l3	warn	L3 net-new candidate Activate Talent (workable FE53A54683) dead: API returns empty jobs[] / 'Job not found'	fix:Workable JSON API fallback per Playbook#3; posting closed, not added to pipeline	outcome:skipped
+2026-06-19T040102Z	verify	warn	possible-duplicate #885/#1394 (Board of Innovation AI Engineer) — distinct evals 2026-05-18 & 2026-06-14	fix:dedup-tracker reports 0 removable; legitimately distinct, preserved	outcome:unresolved
