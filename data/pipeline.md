@@ -46,6 +46,10 @@
 
 ## Processed
 
+### 2026-06-19
+- [x] #1447 | https://himalayas.app/companies/resourceful-talent-group/jobs/ai-automation-generative-ai-engineer | Resourceful Talent Group | AI Automation & Generative AI Engineer | Remote (Work from Home) — US-aligned | 3.6/5 | PDF ✅
+- [x] #1448 | https://himalayas.app/companies/blueprint/jobs/ai-process-automation-engineer-8108416683 | Blueprint Technologies | AI Process Automation Engineer | Remote — USA (HQ Bellevue, WA) | 3.2/5 | PDF ✅
+
 ### 2026-06-18
 - [x] #1446 | https://jobs.lever.co/outreach/c050b2d3-1c6b-4eea-86d1-ef505bd2b4cb | Outreach | Forward Deployed Engineer, AI Revenue Agents | Remote — United States | 3.1/5 | PDF ✅
 - [x] #1443 | https://www.linkedin.com/jobs/view/ai-implementation-specialist-remote-at-keystone-custom-homes-4398085686 | Keystone Custom Homes | AI Implementation Specialist | Remote (Lancaster, PA) | 3.0/5 | PDF ✅

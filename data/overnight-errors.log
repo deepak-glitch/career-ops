@@ -1937,3 +1937,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-19T040102Z	scan	warn	4 portal HTTP 404 (Temporal,Tinybird,Travelperk,Forto) — boards moved/closed	fix:none (recurring config drift, scanner skips gracefully)	outcome:skipped
 2026-06-19T040102Z	scan-l3	warn	L3 net-new candidate Activate Talent (workable FE53A54683) dead: API returns empty jobs[] / 'Job not found'	fix:Workable JSON API fallback per Playbook#3; posting closed, not added to pipeline	outcome:skipped
 2026-06-19T040102Z	verify	warn	possible-duplicate #885/#1394 (Board of Innovation AI Engineer) — distinct evals 2026-05-18 & 2026-06-14	fix:dedup-tracker reports 0 removable; legitimately distinct, preserved	outcome:unresolved
+2026-06-19T080102Z	setup	warn	git pull not fast-forward (diverging local branch)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-19T080102Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-19T080102Z	step1-scan	warn	4 portal 404s (Temporal/Tinybird/Travelperk/Forto) both tracks	fix:scanner skipped dead boards, continue	outcome:skipped
+2026-06-19T080102Z	step2-pdf-prep	warn	Playwright chromium binary not installed	fix:npx playwright install chromium	outcome:resolved
+2026-06-19T080102Z	step2-extract	warn	Quora ML NewGrad cb455a21 + Poe 6df58d3e closed (removed 2026-04-02)	fix:marked dead, not re-added	outcome:skipped
+2026-06-19T080102Z	step2-extract	warn	Himalayas JD pages stale (resourceful/blueprint index only)	fix:aggregator corroboration via WebSearch (BuiltIn/Remotive)	outcome:resolved

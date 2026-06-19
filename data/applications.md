@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1447 | 2026-06-19 | Resourceful Talent Group | AI Automation & Generative AI Engineer | 3.6/5 | Evaluated | ✅ | [1447](reports/1447-resourceful-talent-group-2026-06-19.md) | [US] Remote staffing placement; GenAI/RAG/agents/automation fit; comp undisclosed, end-client unnamed |
+| 1448 | 2026-06-19 | Blueprint Technologies | AI Process Automation Engineer | 3.2/5 | Evaluated | ✅ | [1448](reports/1448-blueprint-technologies-2026-06-19.md) | [US] Remote, $125-135K; automation/CI-CD fit; Power Platform gap |
+| 1449 | 2026-06-19 | Coherent Solutions | AI Engineer (Life Sciences & Healthcare) | 3.4/5 | Evaluated | ✅ | [1449](reports/1449-coherent-solutions-2026-06-19.md) | [Intl] Bulgaria/EU; strong healthcare ML+RAG+MLOps fit; F-1 OPT location mismatch flagged |
 | 1446 | 2026-06-18 | Outreach | Forward Deployed Engineer, AI Revenue Agents | 3.1/5 | Evaluated | ✅ | [1446](reports/1446-outreach-2026-06-18.md) | [US] Remote-US FDE deploying AI agents; clean OPT; gap: 5+yr customer-facing impl + sales workflows |
 | 1443 | 2026-06-18 | Keystone Custom Homes | AI Implementation Specialist | 3.0/5 | Evaluated | ✅ | [1443](reports/1443-keystone-custom-homes-ai-implementation-specialist-2026-06-18.md) | [US] Remote (Lancaster PA homebuilder); internal AI-workflow embed (4-6wk engagements); low-code/no-code (Hatz.ai/Copilot Studio/Power Automate) is the JD headline ask = gap for code-first eng; strong AI-literacy + cross-team fit; $75-95K below market; F-1 OPT clean (Remote US) |
 | 1442 | 2026-06-18 | Campbell's | Agentic AI Engineer Co-Op | 3.3/5 | Evaluated | ✅ | [1442](reports/1442-campbells-agentic-ai-engineer-coop-2026-06-18.md) | [US] Strong agentic/RAG/eval fit; US-remote ideal for OPT; capped by Co-Op role-type + comp ambiguity — confirm OPT eligibility |

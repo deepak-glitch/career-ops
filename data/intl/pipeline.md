@@ -26,6 +26,9 @@
 - [!] https://jobs.ashbyhq.com/Bifrost/566ded2e-082f-4833-9967-191d8931005b | error: Ashby GraphQL jobPosting=null (dead)
 ## Processed
 
+### 2026-06-19
+- [x] #1449 | https://job-boards.greenhouse.io/coherentsolutions/jobs/4896325101 | Coherent Solutions | AI Engineer (Life Sciences & Healthcare) | Bulgaria (EU) — remote not stated | 3.4/5 | PDF ✅
+
 ### 2026-06-18
 
 - [x] #1441 | https://jobs.ashbyhq.com/nexxa/512311e5-d955-4507-9b65-72753d091257 | Nexxa.AI | Applied AI Engineer (Toronto) | Toronto, Canada — frequent travel | 3.1/5 | PDF ✅
