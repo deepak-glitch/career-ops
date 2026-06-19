@@ -1956,3 +1956,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-19T160130Z	step2-pdf	warn	Playwright Chromium executable missing	fix:npx playwright install chromium + retry	outcome:resolved
 2026-06-19T160130Z	step3-verify	warn	verify-pipeline 1 warning: possible dup #1394/#885 Board of Innovation (AI Engineer)	fix:normalize+dedup ran (0 changes) — intentional re-eval 1mo apart, distinct reports, not a true dup	outcome:skipped
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-19T200131Z	setup	warn	git pull --ff-only failed (origin force-updated, diverging)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-19T200131Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-19T200131Z	step2-pdf	warn	generate-pdf.mjs Playwright chromium executable missing	fix:npx playwright install chromium + retry	outcome:resolved
+2026-06-19T200131Z	step3-merge	warn	Pallet FDE Product Engineer (job 5169663007) dedups to existing #316 Pallet FDE eval (3.4>=3.3)	fix:removed redundant report+PDF+TSV (#1452), pointed pipeline entry to canonical #316, updated #316 note	outcome:resolved
+2026-06-19T200131Z	step3-verify	warn	verify-pipeline soft warning: possible duplicate #1394/#885 Board of Innovation AI Engineer (pre-existing re-eval 3.0->3.4, distinct reports)	fix:ran normalize+dedup+cleanup-bang chain (dedup-tracker left it intentionally — distinct reports, older holds client intel)	outcome:skipped

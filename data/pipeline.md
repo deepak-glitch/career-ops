@@ -47,6 +47,7 @@
 ## Processed
 
 ### 2026-06-19
+- [x] #316 | https://job-boards.greenhouse.io/pallet/jobs/5169663007 | Pallet | Forward Deployed Product Engineer | San Francisco or New York (onsite/US-remote) | 3.4/5 | PDF ✅ (dup of canonical Pallet FDE eval #316/#772)
 - [x] #1447 | https://himalayas.app/companies/resourceful-talent-group/jobs/ai-automation-generative-ai-engineer | Resourceful Talent Group | AI Automation & Generative AI Engineer | Remote (Work from Home) — US-aligned | 3.6/5 | PDF ✅
 - [x] #1448 | https://himalayas.app/companies/blueprint/jobs/ai-process-automation-engineer-8108416683 | Blueprint Technologies | AI Process Automation Engineer | Remote — USA (HQ Bellevue, WA) | 3.2/5 | PDF ✅
 - [x] #1450 | https://jobs.ashbyhq.com/tenexlabs/2a359a2a-d5ed-48e8-96b8-b93826110ee9 | Tenex | Forward Deployed Engineer | New York City — in-person + ~monthly travel | 3.8/5 | PDF ✅
