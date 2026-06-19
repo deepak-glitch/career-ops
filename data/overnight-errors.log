@@ -1955,3 +1955,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-19T160130Z	step1-scan	warn	4 company API HTTP 404 (Temporal,Tinybird,Travelperk,Forto) both tracks	fix:none — companies changed/removed ATS; skip	outcome:skipped
 2026-06-19T160130Z	step2-pdf	warn	Playwright Chromium executable missing	fix:npx playwright install chromium + retry	outcome:resolved
 2026-06-19T160130Z	step3-verify	warn	verify-pipeline 1 warning: possible dup #1394/#885 Board of Innovation (AI Engineer)	fix:normalize+dedup ran (0 changes) — intentional re-eval 1mo apart, distinct reports, not a true dup	outcome:skipped
+Failed to authenticate. API Error: 401 Invalid authentication credentials
