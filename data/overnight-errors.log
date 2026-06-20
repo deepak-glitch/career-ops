@@ -1995,3 +1995,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-20T200105Z	step1-scan	warn	4 ATS endpoints HTTP 404 (Temporal,Tinybird,Travelperk,Forto) both tracks	fix:none — stale/expired company endpoints, scanner skips them	outcome:skipped
 2026-06-20T200105Z	step2-pdf	warn	Playwright chromium-headless-shell missing (fresh container)	fix:npx playwright install chromium, retried generate-pdf	outcome:resolved
 2026-06-20T200105Z	step3-merge	warn	ShipBob(89099)+Contrario(85043) were dups of existing #1429/#1185 (same role, different ATS URL)	fix:deleted dup reports 1454/1455 + orphan PDFs, restored #1429 row, pointed pipeline rows to canonical reports	outcome:resolved
+Failed to authenticate. API Error: 401 Invalid authentication credentials
