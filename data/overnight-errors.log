@@ -1962,3 +1962,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-19T200131Z	step3-merge	warn	Pallet FDE Product Engineer (job 5169663007) dedups to existing #316 Pallet FDE eval (3.4>=3.3)	fix:removed redundant report+PDF+TSV (#1452), pointed pipeline entry to canonical #316, updated #316 note	outcome:resolved
 2026-06-19T200131Z	step3-verify	warn	verify-pipeline soft warning: possible duplicate #1394/#885 Board of Innovation AI Engineer (pre-existing re-eval 3.0->3.4, distinct reports)	fix:ran normalize+dedup+cleanup-bang chain (dedup-tracker left it intentionally — distinct reports, older holds client intel)	outcome:skipped
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+Failed to authenticate. API Error: 401 Invalid authentication credentials
