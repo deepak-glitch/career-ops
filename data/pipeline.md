@@ -16,18 +16,12 @@
 - [!] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | error: Ashby GraphQL returns jobPosting=null (dead)
 - [!] https://apply.workable.com/jobgether/j/0C895CA0C5 | error: Workable listing returned empty jobs array (dead) and Lever fallback 403
 - [!] https://himalayas.app/companies/uvation/jobs/ai-ml-engineer-2931175390 | error: Himalayas index page only — no direct JD reachable
-- [!] https://www.workatastartup.com/jobs/94746 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
-- [!] https://www.workatastartup.com/jobs/89099 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
-- [!] https://www.workatastartup.com/jobs/85043 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
-- [!] https://www.workatastartup.com/jobs/95799 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
-- [!] https://www.workatastartup.com/jobs/85541 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
 
 ### 2026-06-14
 
 - [!] https://jobs.ashbyhq.com/plain/fd10161b-2139-4432-ab75-59be1a12da23 | error: title is Senior Product Engineer (AI) — filtered (Senior keyword)
 - [!] https://jobs.lever.co/jobgether/67ebe0ea-0cab-449c-b786-f4c91c4f1446 | error: not in Lever board listing (dead)
 - [!] https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5769763004 | error: job ID not in Greenhouse board listing (dead)
-- [!] https://www.workatastartup.com/jobs/66546 | error: workatastartup SPA — JD body not extractable via WebFetch (batch mode); retry interactively
 - [!] https://apply.workable.com/smartassets/j/1FE5187A8E/ | error: JD body filtered (Lead AI Engineer per partial JD)
 
 ### 2026-06-15
@@ -48,6 +42,9 @@
 
 ### 2026-06-20
 - [x] #1452 | https://job-boards.greenhouse.io/lightningai/jobs/7742081003 | Lightning AI | Forward Deployed Engineer | NY/SF/Seattle hybrid (2 days/wk) + remote option | 3.8/5 | PDF ✅
+- [x] #1429 | https://www.workatastartup.com/jobs/89099 | ShipBob | Applied AI Engineer, Agentic Systems | Remote/SF/Chicago (US) | 4.1/5 | PDF ✅ (dup of #1429 — same role, Greenhouse URL already evaluated)
+- [x] #1185 | https://www.workatastartup.com/jobs/85043 | Contrario | Applied AI Engineer | San Francisco, CA (onsite) | 3.4/5 | PDF ✅ (dup of #1185 — same role, YC URL already evaluated)
+- [x] #1456 | https://www.workatastartup.com/jobs/95799 | Vector Legal | Founding AI Engineer | San Francisco, CA (W26; remote unconfirmed) | 3.8/5 | PDF ✅
 
 ### 2026-06-19
 - [x] #316 | https://job-boards.greenhouse.io/pallet/jobs/5169663007 | Pallet | Forward Deployed Product Engineer | San Francisco or New York (onsite/US-remote) | 3.4/5 | PDF ✅ (dup of canonical Pallet FDE eval #316/#772)

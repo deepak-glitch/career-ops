@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1456 | 2026-06-20 | Vector Legal | Founding AI Engineer | 3.8/5 | Evaluated | ✅ | [1456](reports/1456-vector-legal-founding-ai-engineer-2026-06-20.md) | [US] SF (YC W26, remote unconfirmed); legal-doc LLM systems — agents+evals+doc pipelines strong match w/ regulated-domain rigor; TS-primary + OCR are gaps; F-1 OPT US-eligible |
 | 1453 | 2026-06-20 | Indice IT Consulting | Gen AI Engineer | 3.3/5 | Evaluated | ✅ | [1453](reports/1453-indice-gen-ai-engineer-2026-06-20.md) | [Intl] Athens/EU remote; strong RAG+orchestration fit, pulled down by F-1 OPT/EU work-auth + thin JD (Workable SPA) |
 | 1451 | 2026-06-19 | Mistral AI | AI Deployment Strategist (Canada) | 3.1/5 | Evaluated | ✅ | [1451](reports/1451-mistral-ai-deployment-strategist-2026-06-19.md) | [Intl] Montreal on-site + 30-60% travel; Solutions team, AI deployment vision→production; strong AI-build fit but skews pre-sales/strategy (MEDDPICC); F-1 OPT → Canada work auth needed |
 | 1450 | 2026-06-19 | Tenex | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [1450](reports/1450-tenex-forward-deployed-engineer-2026-06-19.md) | [US] NYC in-person + ~monthly travel; applied-AI consultancy, Anthropic/OpenAI partners; agentic+RAG+healthcare match strong; $180K base + uncapped throughput-quota variable; F-1 OPT US-based, would need relocation |
