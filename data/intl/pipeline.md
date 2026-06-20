@@ -28,6 +28,7 @@
 ## Processed
 
 ### 2026-06-20
+- [x] #1453 | https://apply.workable.com/indice/j/8D2B7EDA3D | Indice IT Consulting | Gen AI Engineer | Athens, Greece — primarily remote, occasional onsite | 3.3/5 | PDF ✅
 
 ### 2026-06-19
 - [x] #1451 | https://jobs.lever.co/mistral/ebbae799-78e9-4705-97bc-9f86d359f56f | Mistral AI | AI Deployment Strategist (Canada) | Montreal, Canada — On-site + 30-60% travel | 3.1/5 | PDF ✅

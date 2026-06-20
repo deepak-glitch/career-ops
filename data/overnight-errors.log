@@ -1983,3 +1983,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-20T120131Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
 2026-06-20T120131Z	step1-scan	warn	4 board APIs HTTP 404 (Temporal,Tinybird,Travelperk,Forto)	fix:scan.mjs skips unreachable boards and continues	outcome:skipped
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-20T160129Z	setup	warn	git pull --ff-only failed (origin force-updated, branches diverged)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-20T160129Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps missing in fresh container)	fix:npm install	outcome:resolved
+2026-06-20T160129Z	step1-scan	warn	4 board APIs HTTP 404 (Temporal,Tinybird,Travelperk,Forto) both tracks	fix:scan.mjs skips unreachable boards and continues	outcome:skipped
+2026-06-20T160129Z	step1-l3	warn	2 net-new HF roles are internships (out of archetype, per Working-Student filter hygiene)	fix:logged to scan-history status=filtered, not added to pipeline	outcome:skipped
+2026-06-20T160129Z	step2-extract	warn	Indice Gen AI Engineer: Workable SPA returns header-only; v2/v3 API + JSON-LD all failed	fix:aggregator-corroborated JD via WebSearch; report marked Verification: unconfirmed	outcome:resolved
+2026-06-20T160129Z	step2-pdf	warn	Playwright chromium-headless-shell missing (fresh container)	fix:npx playwright install chromium-headless-shell, retried	outcome:resolved
