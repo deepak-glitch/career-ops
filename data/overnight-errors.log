@@ -1963,3 +1963,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-19T200131Z	step3-verify	warn	verify-pipeline soft warning: possible duplicate #1394/#885 Board of Innovation AI Engineer (pre-existing re-eval 3.0->3.4, distinct reports)	fix:ran normalize+dedup+cleanup-bang chain (dedup-tracker left it intentionally — distinct reports, older holds client intel)	outcome:skipped
 Failed to authenticate. API Error: 401 Invalid authentication credentials
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-20T040116Z	setup	warn	git pull --ff-only failed: diverged (stale local main at June 4, origin at June 20)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-20T040116Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-20T040116Z	scan	warn	scan.mjs portal HTTP 404 x4 (Temporal,Tinybird,Travelperk,Forto)	fix:scanner skipped gracefully (stale ATS endpoints), continue	outcome:skipped
+2026-06-20T040116Z	pipeline-pdf	warn	generate-pdf.mjs Chromium executable missing	fix:npx playwright install chromium + retry	outcome:resolved
+2026-06-20T040116Z	verify	warn	verify-pipeline possible-duplicate #1394/#885 Board of Innovation AI Engineer (pre-existing)	fix:normalize-statuses+dedup-tracker+cleanup-bang-rows (3 tools); dedup-tracker treats them as distinct (different reports/dates/scores)	outcome:skipped (benign fuzzy-match, not introduced this run)

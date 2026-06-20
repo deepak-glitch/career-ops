@@ -46,6 +46,9 @@
 
 ## Processed
 
+### 2026-06-20
+- [x] #1452 | https://job-boards.greenhouse.io/lightningai/jobs/7742081003 | Lightning AI | Forward Deployed Engineer | NY/SF/Seattle hybrid (2 days/wk) + remote option | 3.8/5 | PDF ✅
+
 ### 2026-06-19
 - [x] #316 | https://job-boards.greenhouse.io/pallet/jobs/5169663007 | Pallet | Forward Deployed Product Engineer | San Francisco or New York (onsite/US-remote) | 3.4/5 | PDF ✅ (dup of canonical Pallet FDE eval #316/#772)
 - [x] #1447 | https://himalayas.app/companies/resourceful-talent-group/jobs/ai-automation-generative-ai-engineer | Resourceful Talent Group | AI Automation & Generative AI Engineer | Remote (Work from Home) — US-aligned | 3.6/5 | PDF ✅

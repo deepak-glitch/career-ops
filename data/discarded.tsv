@@ -668,3 +668,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-18	1445	2026-06-18	Periodic Labs	Forward Deployed Engineer, Quantum Simulations	1.8/5	Evaluated	reports/1445-periodic-labs-fde-quantum-simulations-2026-06-18.md	[US] FDE title but DFT/quantum-chemistry/materials domain; integration plumbing fits, domain does not
 2026-06-18	1444	2026-06-18	Helsing	Machine Learning Engineer, Detection and Tracking	1.5/5	Evaluated	reports/1444-helsing-2026-06-18.md	[US] Defense CV/edge role; HARD blockers: US-citizen+clearance required (F-1 OPT ineligible) + no object-detection exp
 2026-06-18	1445		orphan	orphan	0/5		reports/1445-celonis-2026-06-18.md	
+2026-06-20	1453	2026-06-20	Remerge	Machine Learning Engineer	2.8/5	Evaluated	reports/1453-remerge-2026-06-20.md	[Intl] Germany-only remote; mobile adtech RTB bidding (off-archetype); TensorFlow+Go+RL focus; senior; F-1 OPT → EU work auth gap; below 3.0, do not apply
