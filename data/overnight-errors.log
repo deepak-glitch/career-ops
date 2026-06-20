@@ -1969,3 +1969,12 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-20T040116Z	pipeline-pdf	warn	generate-pdf.mjs Chromium executable missing	fix:npx playwright install chromium + retry	outcome:resolved
 2026-06-20T040116Z	verify	warn	verify-pipeline possible-duplicate #1394/#885 Board of Innovation AI Engineer (pre-existing)	fix:normalize-statuses+dedup-tracker+cleanup-bang-rows (3 tools); dedup-tracker treats them as distinct (different reports/dates/scores)	outcome:skipped (benign fuzzy-match, not introduced this run)
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-20T080110Z	setup	warn	git pull --ff-only failed (diverging)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-20T080110Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-20T080110Z	scan	warn	scanner company Temporal HTTP 404 (dead board)	fix:skip company, scanner-level	outcome:skipped
+2026-06-20T080110Z	scan	warn	scanner company Tinybird HTTP 404 (dead board)	fix:skip company, scanner-level	outcome:skipped
+2026-06-20T080110Z	scan	warn	scanner company Travelperk HTTP 404 (dead board)	fix:skip company, scanner-level	outcome:skipped
+2026-06-20T080110Z	scan	warn	scanner company Forto HTTP 404 (dead board)	fix:skip company, scanner-level	outcome:skipped
+2026-06-20T080110Z	scan-L3	warn	aio-app-inc AI Automation Engineer = Islamabad Pakistan onsite (outside US+Intl filters)	fix:log to scan-history status=filtered, not piped	outcome:skipped
+2026-06-20T080110Z	pipeline	warn	workatastartup/94746 (Infer Applied AI Eng) + himalayas/uvation un-extractable (SPA/index)	fix:kept as [!] breadcrumb to retry next run	outcome:skipped
+2026-06-20T080110Z	verify	warn	verify-pipeline 1 warning: possible dup #885/#1394 Board of Innovation AI Engineer	fix:ran normalize+dedup(--dry-run 0 true dupes)+bang-rows; both are legit separate evals (2026-05-18 vs 2026-06-14, diff URLs)	outcome:unresolved
