@@ -2029,3 +2029,7 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-21T120114Z	step3-verify	warn	verify-pipeline: possible duplicate #885 & #1394 (Board of Innovation — AI Engineer), pre-existing, not from this run	fix:ran normalize-statuses + dedup-tracker (0 removed; distinct historical evals, dedup declined)	outcome:unresolved
 2026-06-21T120114Z	step3-renumber	warn	number reuse: #1463 already used by discarded webook.com earlier today; reassigned Ema 1463->1466	fix:renamed report+TSV, updated applications.md+pipeline.md links	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-21T160110Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-21T160110Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-21T160110Z	step2-pdf	warn	Playwright chromium-headless-shell not installed	fix:npx playwright install chromium-headless-shell + retry	outcome:resolved
+2026-06-21T160110Z	step3-verify	warn	verify possible-dup heuristic #1394/#885 (Board of Innovation AI Engineer)	fix:normalize+dedup-tracker (0 removed) — confirmed distinct evals 2026-05-18 vs 2026-06-14, dedup tool intentionally keeps both	outcome:resolved

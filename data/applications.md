@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1467 | 2026-06-21 | Loop | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1467](reports/1467-loop-forward-deployed-engineer-2026-06-21.md) | [US] SF on-site (relo); AI logistics platform, $95M Series C; clean FDE/agentic-RAG match, EDI/TMS/ERP integration is the gap; F-1 OPT US-eligible |
 | 1466 | 2026-06-21 | Ema | Software Engineer, Machine Learning | 3.9/5 | Evaluated | ✅ | [1466](reports/1466-ema-software-engineer-ml-2026-06-21.md) | [US] SF Bay Area on-site (relocation); agentic AI platform — NLP/retrieval/ranking/reasoning/agents maps 1:1 to Deepak; US entity good for F-1; well-funded (Accel/Prosus). No comp band. |
 | 1464 | 2026-06-21 | XCI | AI/ML Engineer | 3.1/5 | Evaluated | ✅ | [1464](reports/1464-xci-ai-ml-engineer-2026-06-21.md) | [Intl] Aalborg Denmark on-site (EU relocation+auth needed for F-1 OPT); solid PyTorch/HF/NLP/Docker/RAG match; C++/edge slant is stretch; thin company signal, no comp band. |
 | 1461 | 2026-06-21 | GuidePoint Security | Associate Applied AI Engineer | 4.3/5 | Evaluated | ✅ | [1461](reports/1461-guidepoint-security-2026-06-21.md) | [US] Remote US-only (occasional travel); cybersecurity VAR 1200+ emp standing up applied-AI practice; junior bar (HS+1yr, Python, RAG, tool-use, vector DBs) Deepak over-qualified; strong archetype match; comp not stated (~$90-125K est) |

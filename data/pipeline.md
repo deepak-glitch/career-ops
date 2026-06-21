@@ -41,6 +41,7 @@
 ## Processed
 
 ### 2026-06-21
+- [x] #1467 | https://job-boards.greenhouse.io/loop/jobs/5986356004 | Loop | Forward Deployed Engineer | San Francisco, CA — On-site | 3.6/5 | PDF ✅
 - [x] #1466 | https://jobs.ashbyhq.com/ema/9728a171-9617-4533-9f03-10c14c3b6ca5 | Ema | Software Engineer, Machine Learning | San Francisco Bay Area — on-site | 3.9/5 | PDF ✅
 - [x] #1457 | https://job-boards.greenhouse.io/nimblegravity/jobs/4692556005 | Nimble Gravity | AI Engineer (Generative AI & Agentic Systems) | Remote — US or LATAM | 4.2/5 | PDF ✅
 - [x] #1458 | https://remotive.com/remote/jobs/artificial-intelligence/associate-applied-ai-engineer-4971372 | Tauck | Associate Applied AI Engineer | Remote — USA only | 4.4/5 | PDF ✅
