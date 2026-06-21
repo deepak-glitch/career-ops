@@ -1996,3 +1996,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-20T200105Z	step2-pdf	warn	Playwright chromium-headless-shell missing (fresh container)	fix:npx playwright install chromium, retried generate-pdf	outcome:resolved
 2026-06-20T200105Z	step3-merge	warn	ShipBob(89099)+Contrario(85043) were dups of existing #1429/#1185 (same role, different ATS URL)	fix:deleted dup reports 1454/1455 + orphan PDFs, restored #1429 row, pointed pipeline rows to canonical reports	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-21T000114Z	setup	warn	git pull --ff-only failed (diverging/forced update)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-21T000114Z	scan	warn	scanner HTTP 404 x4 (Temporal,Tinybird,Travelperk,Forto removed boards)	fix:scanner skipped them gracefully, continued	outcome:resolved
+2026-06-21T000114Z	scan-L3	warn	WebSearch returned no links for any L3 query (site: and NL forms)	fix:retried 5 query variants, all empty; L3 unavailable this env	outcome:skipped
+2026-06-21T000114Z	pipeline	warn	0 fresh [ ] pending after scan+L3; 16 US + 6 Intl [!] rows all confirmed dead/filtered	fix:retried 1 transient (amdaris Himalayas) — JD gone, kept [!]; nothing new to evaluate	outcome:resolved
+2026-06-21T000114Z	verify	warn	verify-pipeline: 1 warning possible-dup #1394/#885 Board of Innovation AI Engineer	fix:normalize=0,dedup=0(not true dup: distinct postings 05-18 vs 06-14, diff scores/reports),cleanup-bang ran	outcome:resolved(benign,kept both by design)
+2026-06-21T000114Z	scan-pkg	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules missing)	fix:npm install once, retried scan	outcome:resolved
