@@ -2028,3 +2028,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-21T120114Z	step2-pdf	warn	Playwright Chromium browser not installed (PDF gen failed)	fix:npx playwright install chromium	outcome:resolved
 2026-06-21T120114Z	step3-verify	warn	verify-pipeline: possible duplicate #885 & #1394 (Board of Innovation — AI Engineer), pre-existing, not from this run	fix:ran normalize-statuses + dedup-tracker (0 removed; distinct historical evals, dedup declined)	outcome:unresolved
 2026-06-21T120114Z	step3-renumber	warn	number reuse: #1463 already used by discarded webook.com earlier today; reassigned Ema 1463->1466	fix:renamed report+TSV, updated applications.md+pipeline.md links	outcome:resolved
+Failed to authenticate. API Error: 401 Invalid authentication credentials
