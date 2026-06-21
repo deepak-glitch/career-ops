@@ -2003,3 +2003,15 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-21T000114Z	verify	warn	verify-pipeline: 1 warning possible-dup #1394/#885 Board of Innovation AI Engineer	fix:normalize=0,dedup=0(not true dup: distinct postings 05-18 vs 06-14, diff scores/reports),cleanup-bang ran	outcome:resolved(benign,kept both by design)
 2026-06-21T000114Z	scan-pkg	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules missing)	fix:npm install once, retried scan	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-21T040110Z	setup	warn	git pull --ff-only failed (forced upstream update)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-21T040110Z	step1-scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-21T040110Z	step1-scan-us	warn	Temporal ATS endpoint HTTP 404	fix:skip company (endpoint changed/dead)	outcome:skipped
+2026-06-21T040110Z	step1-scan-us	warn	Tinybird ATS endpoint HTTP 404	fix:skip company (endpoint changed/dead)	outcome:skipped
+2026-06-21T040110Z	step1-scan-us	warn	Travelperk ATS endpoint HTTP 404	fix:skip company (endpoint changed/dead)	outcome:skipped
+2026-06-21T040110Z	step1-scan-us	warn	Forto ATS endpoint HTTP 404	fix:skip company (endpoint changed/dead)	outcome:skipped
+2026-06-21T040110Z	step1-scan-intl	warn	Temporal ATS endpoint HTTP 404	fix:skip company (endpoint changed/dead)	outcome:skipped
+2026-06-21T040110Z	step1-scan-intl	warn	Tinybird ATS endpoint HTTP 404	fix:skip company (endpoint changed/dead)	outcome:skipped
+2026-06-21T040110Z	step1-scan-intl	warn	Travelperk ATS endpoint HTTP 404	fix:skip company (endpoint changed/dead)	outcome:skipped
+2026-06-21T040110Z	step1-scan-intl	warn	Forto ATS endpoint HTTP 404	fix:skip company (endpoint changed/dead)	outcome:skipped
+2026-06-21T040110Z	step2-pdf	warn	Playwright chromium-headless-shell not installed	fix:npx playwright install chromium	outcome:resolved
+2026-06-21T040110Z	step3-verify	warn	verify-pipeline possible-duplicate #885/#1394 Board of Innovation AI Engineer	fix:normalize+dedup+cleanup-bang ran; dedup left both (distinct dated evals, different URLs/reports)	outcome:unresolved (benign — legitimate separate evaluations 2026-05-18 vs 2026-06-14)

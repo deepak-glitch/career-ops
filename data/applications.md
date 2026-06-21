@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1457 | 2026-06-21 | Nimble Gravity | AI Engineer (Generative AI & Agentic Systems) | 4.2/5 | Evaluated | ✅ | [1457](reports/1457-nimble-gravity-ai-engineer-genai-agentic-2026-06-21.md) | [US] Strong RAG+agentic fit; US-remote (no OPT blocker); consultancy delivery |
+| 1458 | 2026-06-21 | Tauck | Associate Applied AI Engineer | 4.4/5 | Evaluated | ✅ | [1458](reports/1458-tauck-associate-applied-ai-engineer-2026-06-21.md) | [US] Clean entry fit; MS+0-2yr target; US-remote; over-qualified note |
+| 1460 | 2026-06-21 | Vosyn | Applied AI Engineer (Agentic & RAG) | 3.3/5 | Evaluated | ✅ | [1460](reports/1460-vosyn-applied-ai-engineer-2026-06-21.md) | [Intl] Strong agentic/RAG skill fit; Canada contract/intern; F-1 OPT friction |
 | 1456 | 2026-06-20 | Vector Legal | Founding AI Engineer | 3.8/5 | Evaluated | ✅ | [1456](reports/1456-vector-legal-founding-ai-engineer-2026-06-20.md) | [US] SF (YC W26, remote unconfirmed); legal-doc LLM systems — agents+evals+doc pipelines strong match w/ regulated-domain rigor; TS-primary + OCR are gaps; F-1 OPT US-eligible |
 | 1453 | 2026-06-20 | Indice IT Consulting | Gen AI Engineer | 3.3/5 | Evaluated | ✅ | [1453](reports/1453-indice-gen-ai-engineer-2026-06-20.md) | [Intl] Athens/EU remote; strong RAG+orchestration fit, pulled down by F-1 OPT/EU work-auth + thin JD (Workable SPA) |
 | 1451 | 2026-06-19 | Mistral AI | AI Deployment Strategist (Canada) | 3.1/5 | Evaluated | ✅ | [1451](reports/1451-mistral-ai-deployment-strategist-2026-06-19.md) | [Intl] Montreal on-site + 30-60% travel; Solutions team, AI deployment vision→production; strong AI-build fit but skews pre-sales/strategy (MEDDPICC); F-1 OPT → Canada work auth needed |

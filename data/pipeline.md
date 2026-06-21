@@ -40,6 +40,10 @@
 
 ## Processed
 
+### 2026-06-21
+- [x] #1457 | https://job-boards.greenhouse.io/nimblegravity/jobs/4692556005 | Nimble Gravity | AI Engineer (Generative AI & Agentic Systems) | Remote — US or LATAM | 4.2/5 | PDF ✅
+- [x] #1458 | https://remotive.com/remote/jobs/artificial-intelligence/associate-applied-ai-engineer-4971372 | Tauck | Associate Applied AI Engineer | Remote — USA only | 4.4/5 | PDF ✅
+
 ### 2026-06-20
 - [x] #1452 | https://job-boards.greenhouse.io/lightningai/jobs/7742081003 | Lightning AI | Forward Deployed Engineer | NY/SF/Seattle hybrid (2 days/wk) + remote option | 3.8/5 | PDF ✅
 - [x] #1429 | https://www.workatastartup.com/jobs/89099 | ShipBob | Applied AI Engineer, Agentic Systems | Remote/SF/Chicago (US) | 4.1/5 | PDF ✅ (dup of #1429 — same role, Greenhouse URL already evaluated)
