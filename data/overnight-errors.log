@@ -2015,3 +2015,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-21T040110Z	step1-scan-intl	warn	Forto ATS endpoint HTTP 404	fix:skip company (endpoint changed/dead)	outcome:skipped
 2026-06-21T040110Z	step2-pdf	warn	Playwright chromium-headless-shell not installed	fix:npx playwright install chromium	outcome:resolved
 2026-06-21T040110Z	step3-verify	warn	verify-pipeline possible-duplicate #885/#1394 Board of Innovation AI Engineer	fix:normalize+dedup+cleanup-bang ran; dedup left both (distinct dated evals, different URLs/reports)	outcome:unresolved (benign — legitimate separate evaluations 2026-05-18 vs 2026-06-14)
+2026-06-21T080108Z	setup	warn	pull --ff-only failed (non-fast-forward; origin force-updated)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-21T080108Z	scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-21T080108Z	scan-us	warn	4 portal HTTP 404 (Temporal,Tinybird,Travelperk,Forto)	fix:skip dead portals, continue scan	outcome:skipped
+2026-06-21T080108Z	pipeline-pdf	warn	Playwright chromium not installed (ERR after npm install)	fix:npx playwright install chromium	outcome:resolved
+2026-06-21T080108Z	merge-verify	warn	verify possible-dup #885/#1394 Board of Innovation AI Engineer (same role, evaluated 2026-05-18 & 2026-06-14, distinct reports)	fix:normalize-statuses+dedup-tracker+cleanup-bang-rows (dedup removed 0 — declined to merge distinct dated evals); pre-existing, not from this run	outcome:unresolved

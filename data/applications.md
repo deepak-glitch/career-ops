@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1461 | 2026-06-21 | GuidePoint Security | Associate Applied AI Engineer | 4.3/5 | Evaluated | ✅ | [1461](reports/1461-guidepoint-security-2026-06-21.md) | [US] Remote US-only (occasional travel); cybersecurity VAR 1200+ emp standing up applied-AI practice; junior bar (HS+1yr, Python, RAG, tool-use, vector DBs) Deepak over-qualified; strong archetype match; comp not stated (~$90-125K est) |
+| 1462 | 2026-06-21 | Beyondsoft Consulting | AI Engineer | 4.0/5 | Evaluated | ✅ | [1462](reports/1462-beyondsoft-consulting-2026-06-21.md) | [US] Worldwide remote, USD $150-165K + benefits; Azure/MCP/agents/RAG enterprise AI; 4+yrs SWE / 2+yrs GenAI bar exact fit; main stretch is Azure-ecosystem depth (Deepak AWS-first); strong comp |
 | 1457 | 2026-06-21 | Nimble Gravity | AI Engineer (Generative AI & Agentic Systems) | 4.2/5 | Evaluated | ✅ | [1457](reports/1457-nimble-gravity-ai-engineer-genai-agentic-2026-06-21.md) | [US] Strong RAG+agentic fit; US-remote (no OPT blocker); consultancy delivery |
 | 1458 | 2026-06-21 | Tauck | Associate Applied AI Engineer | 4.4/5 | Evaluated | ✅ | [1458](reports/1458-tauck-associate-applied-ai-engineer-2026-06-21.md) | [US] Clean entry fit; MS+0-2yr target; US-remote; over-qualified note |
 | 1460 | 2026-06-21 | Vosyn | Applied AI Engineer (Agentic & RAG) | 3.3/5 | Evaluated | ✅ | [1460](reports/1460-vosyn-applied-ai-engineer-2026-06-21.md) | [Intl] Strong agentic/RAG skill fit; Canada contract/intern; F-1 OPT friction |

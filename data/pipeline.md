@@ -43,6 +43,8 @@
 ### 2026-06-21
 - [x] #1457 | https://job-boards.greenhouse.io/nimblegravity/jobs/4692556005 | Nimble Gravity | AI Engineer (Generative AI & Agentic Systems) | Remote — US or LATAM | 4.2/5 | PDF ✅
 - [x] #1458 | https://remotive.com/remote/jobs/artificial-intelligence/associate-applied-ai-engineer-4971372 | Tauck | Associate Applied AI Engineer | Remote — USA only | 4.4/5 | PDF ✅
+- [x] #1461 | https://job-boards.greenhouse.io/guidepointsecurity/jobs/6014563004 | GuidePoint Security | Associate Applied AI Engineer | Remote — U.S. only (occasional travel) | 4.3/5 | PDF ✅
+- [x] #1462 | https://remotive.com/remote/jobs/artificial-intelligence/ai-engineer-4460145 | Beyondsoft Consulting | AI Engineer | Remote — Worldwide (USD comp) | 4.0/5 | PDF ✅
 
 ### 2026-06-20
 - [x] #1452 | https://job-boards.greenhouse.io/lightningai/jobs/7742081003 | Lightning AI | Forward Deployed Engineer | NY/SF/Seattle hybrid (2 days/wk) + remote option | 3.8/5 | PDF ✅
