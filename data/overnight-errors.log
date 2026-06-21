@@ -2002,3 +2002,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-21T000114Z	pipeline	warn	0 fresh [ ] pending after scan+L3; 16 US + 6 Intl [!] rows all confirmed dead/filtered	fix:retried 1 transient (amdaris Himalayas) — JD gone, kept [!]; nothing new to evaluate	outcome:resolved
 2026-06-21T000114Z	verify	warn	verify-pipeline: 1 warning possible-dup #1394/#885 Board of Innovation AI Engineer	fix:normalize=0,dedup=0(not true dup: distinct postings 05-18 vs 06-14, diff scores/reports),cleanup-bang ran	outcome:resolved(benign,kept both by design)
 2026-06-21T000114Z	scan-pkg	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules missing)	fix:npm install once, retried scan	outcome:resolved
+Failed to authenticate. API Error: 401 Invalid authentication credentials
