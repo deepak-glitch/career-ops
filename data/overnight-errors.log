@@ -2021,3 +2021,10 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-21T080108Z	pipeline-pdf	warn	Playwright chromium not installed (ERR after npm install)	fix:npx playwright install chromium	outcome:resolved
 2026-06-21T080108Z	merge-verify	warn	verify possible-dup #885/#1394 Board of Innovation AI Engineer (same role, evaluated 2026-05-18 & 2026-06-14, distinct reports)	fix:normalize-statuses+dedup-tracker+cleanup-bang-rows (dedup removed 0 — declined to merge distinct dated evals); pre-existing, not from this run	outcome:unresolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-21T120114Z	setup-step3	warn	git pull --ff-only failed: upstream forced-update/diverging	fix:git fetch + git reset --hard origin/main (no local commits at setup)	outcome:resolved
+2026-06-21T120114Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install	outcome:resolved
+2026-06-21T120114Z	step1-scan-US	warn	scanner HTTP 404: Temporal/Tinybird/Travelperk/Forto (ATS endpoints changed)	fix:none needed (transient per-company, scanner skipped)	outcome:skipped
+2026-06-21T120114Z	step1-scan-Intl	warn	scanner HTTP 404: Tinybird/Travelperk/Forto/Temporal (ATS endpoints changed)	fix:none needed (transient per-company, scanner skipped)	outcome:skipped
+2026-06-21T120114Z	step2-pdf	warn	Playwright Chromium browser not installed (PDF gen failed)	fix:npx playwright install chromium	outcome:resolved
+2026-06-21T120114Z	step3-verify	warn	verify-pipeline: possible duplicate #885 & #1394 (Board of Innovation — AI Engineer), pre-existing, not from this run	fix:ran normalize-statuses + dedup-tracker (0 removed; distinct historical evals, dedup declined)	outcome:unresolved
+2026-06-21T120114Z	step3-renumber	warn	number reuse: #1463 already used by discarded webook.com earlier today; reassigned Ema 1463->1466	fix:renamed report+TSV, updated applications.md+pipeline.md links	outcome:resolved
