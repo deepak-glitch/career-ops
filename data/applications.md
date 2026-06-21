@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1468 | 2026-06-21 | Joyful Health | AI Engineer | 3.8/5 | Evaluated | ✅ | [1468](reports/1468-joyful-health-ai-engineer-2026-06-21.md) | [US] Healthcare agentic+RAG claim-denial platform; near-1:1 archetype fit; NYC hybrid 3d/wk; 5+yr/lead framing is the stretch |
+| 1469 | 2026-06-21 | Hello Patient | Prompting & AI Agent Research Engineer | 3.2/5 | Evaluated | ✅ | [1469](reports/1469-hello-patient-prompting-ai-agent-research-engineer-2026-06-21.md) | [US] Remote-US prompt/agent R&D for healthcare voice AI; strong prompt+eval overlap but PhD-preferred research-leaning gate |
 | 1467 | 2026-06-21 | Loop | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1467](reports/1467-loop-forward-deployed-engineer-2026-06-21.md) | [US] SF on-site (relo); AI logistics platform, $95M Series C; clean FDE/agentic-RAG match, EDI/TMS/ERP integration is the gap; F-1 OPT US-eligible |
 | 1466 | 2026-06-21 | Ema | Software Engineer, Machine Learning | 3.9/5 | Evaluated | ✅ | [1466](reports/1466-ema-software-engineer-ml-2026-06-21.md) | [US] SF Bay Area on-site (relocation); agentic AI platform — NLP/retrieval/ranking/reasoning/agents maps 1:1 to Deepak; US entity good for F-1; well-funded (Accel/Prosus). No comp band. |
 | 1464 | 2026-06-21 | XCI | AI/ML Engineer | 3.1/5 | Evaluated | ✅ | [1464](reports/1464-xci-ai-ml-engineer-2026-06-21.md) | [Intl] Aalborg Denmark on-site (EU relocation+auth needed for F-1 OPT); solid PyTorch/HF/NLP/Docker/RAG match; C++/edge slant is stretch; thin company signal, no comp band. |

@@ -2034,3 +2034,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-21T160110Z	step2-pdf	warn	Playwright chromium-headless-shell not installed	fix:npx playwright install chromium-headless-shell + retry	outcome:resolved
 2026-06-21T160110Z	step3-verify	warn	verify possible-dup heuristic #1394/#885 (Board of Innovation AI Engineer)	fix:normalize+dedup-tracker (0 removed) — confirmed distinct evals 2026-05-18 vs 2026-06-14, dedup tool intentionally keeps both	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-21T200122Z	setup	warn	git pull --ff-only failed (local main diverged: stale 2026-06-04 commits vs origin 2026-06-21)	fix:git fetch + git reset --hard origin/main (no local work yet at setup)	outcome:resolved
+2026-06-21T200122Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install + retry	outcome:resolved
+2026-06-21T200122Z	step1-scan	warn	portal HTTP 404 x4 (Temporal, Tinybird, Travelperk, Forto) on both US+Intl scans	fix:dead/changed ATS endpoints — scanner skips and continues	outcome:skipped
+2026-06-21T200122Z	step2-pipeline	warn	Ashby GraphQL field descriptionPlain invalid (schema changed)	fix:switched query to descriptionHtml + strip tags in-memory	outcome:resolved
+2026-06-21T200122Z	step2-pdf	warn	Playwright Chromium headless shell not installed	fix:npx playwright install chromium + retry both PDFs	outcome:resolved
+2026-06-21T200122Z	step3-verify	warn	verify possible-dup heuristic #1394/#885 (Board of Innovation AI Engineer) — pre-existing, not from this run	fix:normalize-statuses+dedup-tracker (0 removed) — distinct evals 2026-05-18 vs 2026-06-14, dedup intentionally keeps both	outcome:unresolved (benign soft-warning, not introduced this run)

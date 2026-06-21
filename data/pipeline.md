@@ -41,6 +41,8 @@
 ## Processed
 
 ### 2026-06-21
+- [x] #1468 | https://jobs.ashbyhq.com/joyfulhealth/73c903d1-5d43-4cce-8e68-4fd3a4388b53 | Joyful Health | AI Engineer | New York City, NY — Hybrid (3 days/week) | 3.8/5 | PDF ✅
+- [x] #1469 | https://jobs.ashbyhq.com/hellopatient/137742bf-6fa6-4ef7-9cc6-4dc48c70b450 | Hello Patient | Prompting & AI Agent Research Engineer | Remote — US | 3.2/5 | PDF ✅
 - [x] #1467 | https://job-boards.greenhouse.io/loop/jobs/5986356004 | Loop | Forward Deployed Engineer | San Francisco, CA — On-site | 3.6/5 | PDF ✅
 - [x] #1466 | https://jobs.ashbyhq.com/ema/9728a171-9617-4533-9f03-10c14c3b6ca5 | Ema | Software Engineer, Machine Learning | San Francisco Bay Area — on-site | 3.9/5 | PDF ✅
 - [x] #1457 | https://job-boards.greenhouse.io/nimblegravity/jobs/4692556005 | Nimble Gravity | AI Engineer (Generative AI & Agentic Systems) | Remote — US or LATAM | 4.2/5 | PDF ✅
