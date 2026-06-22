@@ -2072,3 +2072,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-22T160116Z	scan/step1	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules missing)	fix:npm install	outcome:resolved
 2026-06-22T160116Z	verify/step3	warn	verify-pipeline: possible-duplicate #1394 vs #885 (Board of Innovation — AI Engineer)	fix:ran normalize-statuses + dedup-tracker; confirmed legitimate re-eval (distinct dates 05-18 vs 06-14, scores 3.0 vs 3.4, separate reports) — not a true dup, left both	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-22T200139Z	setup	warn	git pull --ff-only failed (diverging branches, origin force-updated)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-22T200139Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-22T200139Z	step1-scan	warn	4 company API HTTP 404 (Temporal/Tinybird/Travelperk/Forto) both tracks	fix:scanner skipped gracefully	outcome:skipped
+2026-06-22T200139Z	step1-L3	warn	Hollis teamtailor JD HTTP 410 Gone (dead posting)	fix:not added to pipeline (dead)	outcome:skipped
+2026-06-22T200139Z	step2-pipeline	warn	0 net-new evaluable URLs after scan+L3 (all candidates already in scan-history/reports; Hollis 410 dead, Mind Computing marked dead); 22 breadcrumbs all permanently dead/filtered/duplicate	fix:Playbook#9 nothing to evaluate	outcome:resolved
