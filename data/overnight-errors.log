@@ -2061,3 +2061,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-22T080137Z	step1-L3	warn	0 net-new archetype-fit URLs (4 net-new all title-filtered: Senior/Architect/PM)	fix:logged filtered to scan-history; nothing to evaluate	outcome:resolved
 2026-06-22T080137Z	step2-pipeline	warn	0 pending after scan in both tracks	fix:nothing to evaluate, proceed	outcome:resolved
 2026-06-22T080137Z	step3-verify	warn	possible-dup #1394/#885 Board of Innovation AI Engineer (distinct evals 05-18 vs 06-14)	fix:ran normalize+dedup+bang-rows; dedup found 0 exact dupes, kept both (distinct reports)	outcome:unresolved
+Failed to authenticate. API Error: 401 Invalid authentication credentials
