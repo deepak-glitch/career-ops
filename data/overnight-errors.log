@@ -2062,3 +2062,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-22T080137Z	step2-pipeline	warn	0 pending after scan in both tracks	fix:nothing to evaluate, proceed	outcome:resolved
 2026-06-22T080137Z	step3-verify	warn	possible-dup #1394/#885 Board of Innovation AI Engineer (distinct evals 05-18 vs 06-14)	fix:ran normalize+dedup+bang-rows; dedup found 0 exact dupes, kept both (distinct reports)	outcome:unresolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-22T120131Z	setup	warn	pull --ff-only failed (diverging branches, upstream forced update)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-22T120131Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install + retry	outcome:resolved
+2026-06-22T120131Z	scan	warn	scanner HTTP 404 on 4 endpoints (Temporal,Tinybird,Travelperk,Forto)	fix:scanner-internal skip, endpoints moved/dead	outcome:skipped
+2026-06-22T120131Z	pipeline	warn	Hiflylabs AI Engineer (Europe) re-surfaced via L3 but already evaluated+discarded as #103 (2.6/5)	fix:dropped duplicate (removed report 1473 + TSV + pipeline row); did not add tracker row	outcome:resolved
+2026-06-22T120131Z	pdf	warn	Playwright Chromium binary missing (browser not installed)	fix:npx playwright install chromium	outcome:resolved
+2026-06-22T120131Z	verify	warn	verify-pipeline soft warning: possible dup #1394/#885 (Board of Innovation AI Engineer, pre-existing)	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows; dedup-tracker reports 0 actual duplicates (distinct re-eval, kept)	outcome:resolved

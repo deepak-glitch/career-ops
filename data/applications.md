@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1472 | 2026-06-22 | Sand Technologies | Forward Deployed Engineer (USA) | 3.7/5 | Evaluated | ✅ | [1472](reports/1472-sand-technologies-2026-06-22.md) | [US] Remote US + on-site client embedding; mid-level 2-6y FDE at AI/data consultancy; Python/SQL/cloud 1:1; Energy/Utilities lean maps to Emerson pipeline-storage ML; comp opaque; F-1 OPT future-sponsorship flag |
 | 1471 | 2026-06-22 | SOCOTEC | Applied AI Engineer | 3.7/5 | Evaluated | ✅ | [1471](reports/1471-socotec-2026-06-22.md) | [US] Mid-level NLP/chatbot ML role at global TIC firm; NYC onsite ~4d/wk; no future sponsorship clause; strong skills match |
 | 1468 | 2026-06-21 | Joyful Health | AI Engineer | 3.8/5 | Evaluated | ✅ | [1468](reports/1468-joyful-health-ai-engineer-2026-06-21.md) | [US] Healthcare agentic+RAG claim-denial platform; near-1:1 archetype fit; NYC hybrid 3d/wk; 5+yr/lead framing is the stretch |
 | 1469 | 2026-06-21 | Hello Patient | Prompting & AI Agent Research Engineer | 3.2/5 | Evaluated | ✅ | [1469](reports/1469-hello-patient-prompting-ai-agent-research-engineer-2026-06-21.md) | [US] Remote-US prompt/agent R&D for healthcare voice AI; strong prompt+eval overlap but PhD-preferred research-leaning gate |

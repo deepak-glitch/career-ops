@@ -26,6 +26,8 @@
 - [!] https://jobs.ashbyhq.com/Bifrost/566ded2e-082f-4833-9967-191d8931005b | error: Ashby GraphQL jobPosting=null (dead)
 ## Processed
 
+### 2026-06-22
+
 ### 2026-06-21
 - [x] #1464 | https://xci.teamtailor.com/jobs/7909189-ai-ml-engineer | XCI | AI/ML Engineer | Aalborg, Denmark — on-site | 3.1/5 | PDF ✅
 - [x] #1460 | https://remotive.com/remote/jobs/artificial-intelligence/applied-ai-engineer-4976762 | Vosyn | Applied AI Engineer (Agentic & RAG) | Remote — Canada | 3.3/5 | PDF ✅

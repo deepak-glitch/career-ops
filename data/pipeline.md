@@ -41,6 +41,7 @@
 ## Processed
 
 ### 2026-06-22
+- [x] #1472 | https://builtin.com/job/forward-deployed-engineer-usa/7908333 | Sand Technologies | Forward Deployed Engineer (USA) | Remote — US + on-site client embedding | 3.7/5 | PDF ✅
 - [x] #1471 | https://jobs.smartrecruiters.com/Socotec/744000130845740-applied-ai-engineer | SOCOTEC | Applied AI Engineer | New York, NY — Onsite ~4 days/week | 3.7/5 | PDF ✅
 - [x] #1470 | https://himalayas.app/companies/growth-factory-ventures/jobs/applied-ai-engineer | Growth Factory Ventures | Applied AI Engineer | Remote — United States only | 3.6/5 | PDF ✅
 
