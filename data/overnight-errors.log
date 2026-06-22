@@ -2050,3 +2050,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-22T000118Z	cleanup-bang	warn	Activate Talent [!] breadcrumb dropped by cleanup-bang-rows (classified dead)	fix:respect system script outcome; offshore staffing role, not re-added	outcome:resolved
 2026-06-22T000118Z	verify	warn	verify-pipeline possible-duplicate #1394/#885 Board of Innovation (pre-existing, not from this run)	fix:ran normalize+dedup+cleanup chain; dedup-tracker reports 0 true dupes (distinct postings)	outcome:unresolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-22T040112Z	setup	warn	git pull --ff-only failed (diverging/forced update on origin)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-22T040112Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-22T040112Z	scan	warn	4 portal API HTTP 404 (Temporal,Tinybird,Travelperk,Forto) both tracks	fix:individual-company failures skipped, scan continued	outcome:skipped
+2026-06-22T040112Z	scan-L3	warn	Acolad AI Engineer (workable C206F14E08) net-new but dead: live job list empty, Himalayas/aggregators stale cache	fix:verified via workable API, marked dead in intl track, did not evaluate	outcome:skipped
+2026-06-22T040112Z	verify	warn	verify-pipeline: possible duplicate #1394/#885 Board of Innovation AI Engineer (pre-existing, ~1mo apart)	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows (dedup treats as distinct postings, 0 removed)	outcome:unresolved
