@@ -2041,3 +2041,11 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-21T200122Z	step2-pdf	warn	Playwright Chromium headless shell not installed	fix:npx playwright install chromium + retry both PDFs	outcome:resolved
 2026-06-21T200122Z	step3-verify	warn	verify possible-dup heuristic #1394/#885 (Board of Innovation AI Engineer) — pre-existing, not from this run	fix:normalize-statuses+dedup-tracker (0 removed) — distinct evals 2026-05-18 vs 2026-06-14, dedup intentionally keeps both	outcome:unresolved (benign soft-warning, not introduced this run)
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-22T000118Z	setup	warn	git pull --ff-only failed: diverging branches (origin force-updated)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-22T000118Z	scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-22T000118Z	scan-us	warn	4 company boards HTTP 404 (Temporal,Tinybird,Travelperk,Forto)	fix:skip per-company, boards removed/moved	outcome:skipped
+2026-06-22T000118Z	pdf	warn	Playwright chromium browser not installed (PDF gen failed first attempt)	fix:npx playwright install chromium then retry	outcome:resolved
+2026-06-22T000118Z	pipeline-l3	warn	Activate Talent JD extraction failed (Workable SPA returned image-only; api/v3 404)	fix:WebSearch corroboration=offshore LatAm/PH staffing; mark [!] in intl Pendientes, retries next run	outcome:skipped
+2026-06-22T000118Z	merge	warn	Growth Factory Ventures already existed as #350 (prior eval)	fix:merge-tracker updated #350 in place (3.5→3.6, relinked to report 1470), no duplicate row	outcome:resolved
+2026-06-22T000118Z	cleanup-bang	warn	Activate Talent [!] breadcrumb dropped by cleanup-bang-rows (classified dead)	fix:respect system script outcome; offshore staffing role, not re-added	outcome:resolved
+2026-06-22T000118Z	verify	warn	verify-pipeline possible-duplicate #1394/#885 Board of Innovation (pre-existing, not from this run)	fix:ran normalize+dedup+cleanup chain; dedup-tracker reports 0 true dupes (distinct postings)	outcome:unresolved

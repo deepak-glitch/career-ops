@@ -40,6 +40,10 @@
 
 ## Processed
 
+### 2026-06-22
+- [x] #1471 | https://jobs.smartrecruiters.com/Socotec/744000130845740-applied-ai-engineer | SOCOTEC | Applied AI Engineer | New York, NY — Onsite ~4 days/week | 3.7/5 | PDF ✅
+- [x] #1470 | https://himalayas.app/companies/growth-factory-ventures/jobs/applied-ai-engineer | Growth Factory Ventures | Applied AI Engineer | Remote — United States only | 3.6/5 | PDF ✅
+
 ### 2026-06-21
 - [x] #1468 | https://jobs.ashbyhq.com/joyfulhealth/73c903d1-5d43-4cce-8e68-4fd3a4388b53 | Joyful Health | AI Engineer | New York City, NY — Hybrid (3 days/week) | 3.8/5 | PDF ✅
 - [x] #1469 | https://jobs.ashbyhq.com/hellopatient/137742bf-6fa6-4ef7-9cc6-4dc48c70b450 | Hello Patient | Prompting & AI Agent Research Engineer | Remote — US | 3.2/5 | PDF ✅
