@@ -2049,3 +2049,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-22T000118Z	merge	warn	Growth Factory Ventures already existed as #350 (prior eval)	fix:merge-tracker updated #350 in place (3.5→3.6, relinked to report 1470), no duplicate row	outcome:resolved
 2026-06-22T000118Z	cleanup-bang	warn	Activate Talent [!] breadcrumb dropped by cleanup-bang-rows (classified dead)	fix:respect system script outcome; offshore staffing role, not re-added	outcome:resolved
 2026-06-22T000118Z	verify	warn	verify-pipeline possible-duplicate #1394/#885 Board of Innovation (pre-existing, not from this run)	fix:ran normalize+dedup+cleanup chain; dedup-tracker reports 0 true dupes (distinct postings)	outcome:unresolved
+Failed to authenticate. API Error: 401 Invalid authentication credentials
