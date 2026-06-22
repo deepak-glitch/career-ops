@@ -2055,3 +2055,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-22T040112Z	scan	warn	4 portal API HTTP 404 (Temporal,Tinybird,Travelperk,Forto) both tracks	fix:individual-company failures skipped, scan continued	outcome:skipped
 2026-06-22T040112Z	scan-L3	warn	Acolad AI Engineer (workable C206F14E08) net-new but dead: live job list empty, Himalayas/aggregators stale cache	fix:verified via workable API, marked dead in intl track, did not evaluate	outcome:skipped
 2026-06-22T040112Z	verify	warn	verify-pipeline: possible duplicate #1394/#885 Board of Innovation AI Engineer (pre-existing, ~1mo apart)	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows (dedup treats as distinct postings, 0 removed)	outcome:unresolved
+2026-06-22T080137Z	setup-step3	warn	git pull --ff-only failed (diverging/forced upstream)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-22T080137Z	step1-scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-22T080137Z	step1-scan-us	warn	4 company endpoints HTTP 404 (Temporal,Tinybird,Travelperk,Forto)	fix:scanner skipped them, continue	outcome:skipped
+2026-06-22T080137Z	step1-L3	warn	0 net-new archetype-fit URLs (4 net-new all title-filtered: Senior/Architect/PM)	fix:logged filtered to scan-history; nothing to evaluate	outcome:resolved
+2026-06-22T080137Z	step2-pipeline	warn	0 pending after scan in both tracks	fix:nothing to evaluate, proceed	outcome:resolved
+2026-06-22T080137Z	step3-verify	warn	possible-dup #1394/#885 Board of Innovation AI Engineer (distinct evals 05-18 vs 06-14)	fix:ran normalize+dedup+bang-rows; dedup found 0 exact dupes, kept both (distinct reports)	outcome:unresolved
