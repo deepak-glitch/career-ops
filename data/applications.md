@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1477 | 2026-06-23 | BrightPlan | Applied AI Engineer | 3.9/5 | Evaluated | ✅ | [1477](reports/1477-brightplan-2026-06-23.md) | [US] Strong Python+LLM fintech fit; explicit no-sponsorship flag for F-1 OPT |
+| 1478 | 2026-06-23 | ZeroDrift | Forward Deployed AI Engineer | 3.5/5 | Evaluated | ✅ | [1478](reports/1478-zerodrift-2026-06-23.md) | [US] Good FDE fit + regulated-domain bonus (fin/health/insurance); NYC hybrid; 5+yr ask |
+| 1479 | 2026-06-23 | AI Acquisition | AI Systems Engineer - Forward-Deployed Builder | 3.0/5 | Evaluated | ✅ | [1479](reports/1479-ai-acquisition-2026-06-23.md) | [US] Agentic core fits but n8n/GTM/agency-DTC domain mismatch; borderline |
 | 1474 | 2026-06-23 | Harvey | AI Automation Engineer, Customer Education | 3.4/5 | Evaluated | ✅ | [1474](reports/1474-harvey-ai-automation-customer-education-2026-06-23.md) | [US] SF/NY/Remote variants; build Claude/OpenAI agents + automation pipelines for content ops; strong agent/API match, LMS/CMS gap + 5y ask vs ~4y; $123.6-185.4K |
 | 1475 | 2026-06-23 | RingCentral | AI Forward Deployed Engineer | 3.1/5 | Evaluated | ✅ | [1475](reports/1475-ringcentral-ai-forward-deployed-engineer-2026-06-23.md) | [US] Remote US +20-30% travel; RAG/agent/HIPAA-PCI stack 1:1 but 8+yr customer-facing senior bar = stretch; $147.7-215K; aggregator-only verification |
 | 1472 | 2026-06-22 | Sand Technologies | Forward Deployed Engineer (USA) | 3.7/5 | Evaluated | ✅ | [1472](reports/1472-sand-technologies-2026-06-22.md) | [US] Remote US + on-site client embedding; mid-level 2-6y FDE at AI/data consultancy; Python/SQL/cloud 1:1; Energy/Utilities lean maps to Emerson pipeline-storage ML; comp opaque; F-1 OPT future-sponsorship flag |

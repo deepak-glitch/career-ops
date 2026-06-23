@@ -41,6 +41,9 @@
 ## Processed
 
 ### 2026-06-23
+- [x] #1477 | https://apply.workable.com/brightplan/j/F2F9CA9403/ | BrightPlan | Applied AI Engineer | Remote — US only (no sponsorship) | 3.9/5 | PDF ✅
+- [x] #1478 | https://job-boards.greenhouse.io/zerodriftinc/jobs/4291398009 | ZeroDrift | Forward Deployed AI Engineer | New York, NY — Hybrid (3 days WTC) | 3.5/5 | PDF ✅
+- [x] #1479 | https://apply.workable.com/ai-acquisition/j/3517339BDF | AI Acquisition | AI Systems Engineer - Forward-Deployed Builder | Remote (timezone overlap) | 3.0/5 | PDF ✅
 - [x] #1474 | https://jobs.ashbyhq.com/harvey/10801dbf-c259-4437-80b3-ce1c210f3593 | Harvey | AI Automation Engineer, Customer Education | San Francisco or New York — Hybrid | 3.4/5 | PDF ✅
 - [x] #1474 | https://jobs.ashbyhq.com/harvey/1bb028d2-168e-475b-9f0d-f994daca596d | Harvey | AI Automation Engineer, Customer Education (Remote variant — dup of #1474) | Remote | 3.4/5 | PDF ✅
 - [x] #1475 | https://remotive.com/remote/jobs/artificial-intelligence/ai-forward-deployed-engineer-4961489 | RingCentral | AI Forward Deployed Engineer | Remote — US (20-30% travel) | 3.1/5 | PDF ✅
