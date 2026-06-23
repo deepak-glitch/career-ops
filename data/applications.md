@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1481 | 2026-06-23 | Together AI | Platform Engineer, Model Shaping | 3.2/5 | Evaluated | ✅ | [1481](reports/1481-together-ai-2026-06-23.md) | [US] MLOps/platform fit; HPC/bare-metal gap. SF, $200-290K. |
+| 1483 | 2026-06-23 | Sierra | Forward Deployed Infrastructure Engineer | 3.0/5 | Evaluated | ✅ | [1483](reports/1483-sierra-2026-06-23.md) | [Intl] Infra/compliance overlap; customer-cloud gap; London relocation+visa. |
 | 1477 | 2026-06-23 | BrightPlan | Applied AI Engineer | 3.9/5 | Evaluated | ✅ | [1477](reports/1477-brightplan-2026-06-23.md) | [US] Strong Python+LLM fintech fit; explicit no-sponsorship flag for F-1 OPT |
 | 1478 | 2026-06-23 | ZeroDrift | Forward Deployed AI Engineer | 3.5/5 | Evaluated | ✅ | [1478](reports/1478-zerodrift-2026-06-23.md) | [US] Good FDE fit + regulated-domain bonus (fin/health/insurance); NYC hybrid; 5+yr ask |
 | 1479 | 2026-06-23 | AI Acquisition | AI Systems Engineer - Forward-Deployed Builder | 3.0/5 | Evaluated | ✅ | [1479](reports/1479-ai-acquisition-2026-06-23.md) | [US] Agentic core fits but n8n/GTM/agency-DTC domain mismatch; borderline |

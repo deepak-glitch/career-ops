@@ -27,6 +27,7 @@
 ## Processed
 
 ### 2026-06-23
+- [x] #1483 | https://jobs.ashbyhq.com/sierra/61bb1eca-b416-4e6d-a0ac-5f418b35a8f3 | Sierra | Forward Deployed Infrastructure Engineer | London, UK — on-site | 3.0/5 | PDF ✅
 
 ### 2026-06-22
 

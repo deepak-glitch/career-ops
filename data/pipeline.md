@@ -40,6 +40,7 @@
 ## Processed
 
 ### 2026-06-23
+- [x] #1481 | https://job-boards.greenhouse.io/togetherai/jobs/4790243007 | Together AI | Platform Engineer, Model Shaping | San Francisco, CA — on-site | 3.2/5 | PDF ✅
 - [x] #1477 | https://apply.workable.com/brightplan/j/F2F9CA9403/ | BrightPlan | Applied AI Engineer | Remote — US only (no sponsorship) | 3.9/5 | PDF ✅
 - [x] #1478 | https://job-boards.greenhouse.io/zerodriftinc/jobs/4291398009 | ZeroDrift | Forward Deployed AI Engineer | New York, NY — Hybrid (3 days WTC) | 3.5/5 | PDF ✅
 - [x] #1479 | https://apply.workable.com/ai-acquisition/j/3517339BDF | AI Acquisition | AI Systems Engineer - Forward-Deployed Builder | Remote (timezone overlap) | 3.0/5 | PDF ✅

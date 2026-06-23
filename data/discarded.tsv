@@ -677,3 +677,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-22	1473	2026-06-22	Sierra	Strategist, Agent Development (Brazilian Portuguese speaking)	2/5	Evaluated	reports/1473-sierra-2026-06-22.md	[US] SF in-person; requires Brazilian Portuguese fluency (hard blocker); customer-facing Agent Strategist, not an engineering hire; off-archetype.
 2026-06-22	1474	2026-06-22	Trade Republic	Platform Engineer – Backend & Reliability	2.2/5	Evaluated	reports/1474-trade-republic-2026-06-22.md	[Intl] Berlin/London/Paris hybrid; pure backend reliability/SRE in Kotlin/Go, no AI/ML; 5+ yrs; non-US (F-1 OPT); off-archetype + off-stack.
 2026-06-23	1480	2026-06-23	GTO Wizard	MLOps / Machine Learning Engineer	2.8/5	Evaluated	reports/1480-gto-wizard-2026-06-23.md	[Intl] Weak fit — Deep RL poker infra, no LLM/RAG hook; no-apply
+2026-06-23	1482	2026-06-23	Ramp	AI Solutions Strategist	2.7/5	Evaluated	reports/1482-ramp-2026-06-23.md	[US] Finance/controllership domain gap; strategist not engineer. NYC on-site.
+2026-06-23	1480		orphan	orphan	0/5		reports/1480-black-forest-labs-2026-06-23.md	
