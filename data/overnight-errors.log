@@ -2106,3 +2106,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-23T120151Z	step1-L3	warn	Level-3 WebSearch surfaced only already-processed roles (Scale AI/Roboflow/Nearform/AssemblyAI/Sharebite/Pallet/Babel Street/Dataiku/Arize/Synthflow/Reedsy/Baseten/Tenex all have existing reports)	fix:none — would create duplicate reports/rows (Playbook #2); not re-evaluated	outcome:resolved
 2026-06-23T120151Z	step2-pipeline	warn	0 net-new archetype-matched pending after scan+L3 (saturated)	fix:nothing to evaluate; proceed per Playbook #9	outcome:resolved
 2026-06-23T120151Z	step3-verify	warn	verify-pipeline: possible-duplicate #1394/#885 (Board of Innovation — AI Engineer), pre-existing	fix:normalize(0)+dedup(0)+cleanup-bang-rows ran; tooling preserves them as distinct dated evaluations	outcome:unresolved (intentional — not from this run; soft warning only)
+Failed to authenticate. API Error: 401 Invalid authentication credentials
