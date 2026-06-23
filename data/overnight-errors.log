@@ -2107,3 +2107,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-23T120151Z	step2-pipeline	warn	0 net-new archetype-matched pending after scan+L3 (saturated)	fix:nothing to evaluate; proceed per Playbook #9	outcome:resolved
 2026-06-23T120151Z	step3-verify	warn	verify-pipeline: possible-duplicate #1394/#885 (Board of Innovation — AI Engineer), pre-existing	fix:normalize(0)+dedup(0)+cleanup-bang-rows ran; tooling preserves them as distinct dated evaluations	outcome:unresolved (intentional — not from this run; soft warning only)
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-23T160124Z	setup	warn	git pull --ff-only failed (diverging branches, origin force-updated)	fix:git fetch origin main && git reset --hard origin/main (no local commits at setup)	outcome:resolved
+2026-06-23T160124Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install (node_modules missing in fresh container)	outcome:resolved
+2026-06-23T160124Z	step2-pdf	warn	generate-pdf.mjs Playwright chromium executable missing	fix:npx playwright install chromium, retried generate-pdf (Together AI PDF, 3pp)	outcome:resolved
+2026-06-23T160124Z	step2-jd	warn	Sierra Ashby GraphQL DNS-blocked + WebFetch empty SPA	fix:aggregator corroboration (fwddeploy + Sierra careers); report marked Verification: unconfirmed	outcome:resolved
+2026-06-23T160124Z	step3-verify	warn	verify-pipeline possible-duplicate #1394/#885 Board of Innovation (pre-existing, not from this run)	fix:ran normalize-statuses + dedup-tracker + cleanup-bang-rows (1 cycle); dedup-tracker reports 0 removable duplicates	outcome:skipped
+2026-06-23T160124Z	step1-scan	warn	scan.mjs 4 portal endpoints HTTP 404 (Temporal/Tinybird/Travelperk/Forto)	fix:recurring upstream board-URL changes; scanner logs+continues, no action needed	outcome:skipped
