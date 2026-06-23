@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1474 | 2026-06-23 | Harvey | AI Automation Engineer, Customer Education | 3.4/5 | Evaluated | ✅ | [1474](reports/1474-harvey-ai-automation-customer-education-2026-06-23.md) | [US] SF/NY/Remote variants; build Claude/OpenAI agents + automation pipelines for content ops; strong agent/API match, LMS/CMS gap + 5y ask vs ~4y; $123.6-185.4K |
+| 1475 | 2026-06-23 | RingCentral | AI Forward Deployed Engineer | 3.1/5 | Evaluated | ✅ | [1475](reports/1475-ringcentral-ai-forward-deployed-engineer-2026-06-23.md) | [US] Remote US +20-30% travel; RAG/agent/HIPAA-PCI stack 1:1 but 8+yr customer-facing senior bar = stretch; $147.7-215K; aggregator-only verification |
 | 1472 | 2026-06-22 | Sand Technologies | Forward Deployed Engineer (USA) | 3.7/5 | Evaluated | ✅ | [1472](reports/1472-sand-technologies-2026-06-22.md) | [US] Remote US + on-site client embedding; mid-level 2-6y FDE at AI/data consultancy; Python/SQL/cloud 1:1; Energy/Utilities lean maps to Emerson pipeline-storage ML; comp opaque; F-1 OPT future-sponsorship flag |
 | 1471 | 2026-06-22 | SOCOTEC | Applied AI Engineer | 3.7/5 | Evaluated | ✅ | [1471](reports/1471-socotec-2026-06-22.md) | [US] Mid-level NLP/chatbot ML role at global TIC firm; NYC onsite ~4d/wk; no future sponsorship clause; strong skills match |
 | 1468 | 2026-06-21 | Joyful Health | AI Engineer | 3.8/5 | Evaluated | ✅ | [1468](reports/1468-joyful-health-ai-engineer-2026-06-21.md) | [US] Healthcare agentic+RAG claim-denial platform; near-1:1 archetype fit; NYC hybrid 3d/wk; 5+yr/lead framing is the stretch |

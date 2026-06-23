@@ -37,7 +37,12 @@
 ### 2026-06-17
 
 - [!] https://jobs.ashbyhq.com/Gray%20Swan%20AI/12e39ec1-fe00-47c8-b615-b1da2d3cf1fc | error: Ashby GraphQL jobPosting=null (dead)
+
 ## Processed
+
+### 2026-06-23
+- [x] #1474 | https://jobs.ashbyhq.com/harvey/10801dbf-c259-4437-80b3-ce1c210f3593 | Harvey | AI Automation Engineer, Customer Education | San Francisco or New York — Hybrid | 3.4/5 | PDF ✅
+- [x] #1475 | https://remotive.com/remote/jobs/artificial-intelligence/ai-forward-deployed-engineer-4961489 | RingCentral | AI Forward Deployed Engineer | Remote — US (20-30% travel) | 3.1/5 | PDF ✅
 
 ### 2026-06-22
 - [x] #1472 | https://builtin.com/job/forward-deployed-engineer-usa/7908333 | Sand Technologies | Forward Deployed Engineer (USA) | Remote — US + on-site client embedding | 3.7/5 | PDF ✅

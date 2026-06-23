@@ -2078,3 +2078,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-22T200139Z	step1-L3	warn	Hollis teamtailor JD HTTP 410 Gone (dead posting)	fix:not added to pipeline (dead)	outcome:skipped
 2026-06-22T200139Z	step2-pipeline	warn	0 net-new evaluable URLs after scan+L3 (all candidates already in scan-history/reports; Hollis 410 dead, Mind Computing marked dead); 22 breadcrumbs all permanently dead/filtered/duplicate	fix:Playbook#9 nothing to evaluate	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-23T000115Z	setup	warn	git pull --ff-only failed (diverging branches, origin force-updated)	fix:git fetch origin main + git reset --hard origin/main (no local commits)	outcome:resolved
+2026-06-23T000115Z	scan	warn	node scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry (Playbook #8)	outcome:resolved
+2026-06-23T000115Z	scan	warn	scan.mjs per-company HTTP 404 x4 (Temporal,Tinybird,Travelperk,Forto)	fix:scanner skips dead company APIs and continues	outcome:skipped
+2026-06-23T000115Z	pipeline	warn	Ashby single-posting GraphQL op=ApiJobPosting returned jobPosting=null (wrong field shape; introspection disabled)	fix:fallback to ApiJobBoardWithTeams + public posting-api endpoint (Playbook #3)	outcome:resolved
+2026-06-23T000115Z	pipeline	warn	Ketryx AI Engineer JD unreachable (greenhouse 404, not on live board, WebFetch empty)	fix:all JD fallbacks exhausted; logged dead in scan-history, not added to pipeline (Playbook #3)	outcome:skipped
+2026-06-23T000115Z	pipeline	warn	generate-pdf.mjs failed: Playwright Chromium not installed	fix:npx playwright install chromium then retry (Playbook #6)	outcome:resolved
