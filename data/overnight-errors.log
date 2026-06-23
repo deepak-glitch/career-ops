@@ -2084,3 +2084,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-23T000115Z	pipeline	warn	Ashby single-posting GraphQL op=ApiJobPosting returned jobPosting=null (wrong field shape; introspection disabled)	fix:fallback to ApiJobBoardWithTeams + public posting-api endpoint (Playbook #3)	outcome:resolved
 2026-06-23T000115Z	pipeline	warn	Ketryx AI Engineer JD unreachable (greenhouse 404, not on live board, WebFetch empty)	fix:all JD fallbacks exhausted; logged dead in scan-history, not added to pipeline (Playbook #3)	outcome:skipped
 2026-06-23T000115Z	pipeline	warn	generate-pdf.mjs failed: Playwright Chromium not installed	fix:npx playwright install chromium then retry (Playbook #6)	outcome:resolved
+Failed to authenticate. API Error: 401 Invalid authentication credentials
