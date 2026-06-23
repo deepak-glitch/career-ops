@@ -2098,3 +2098,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-23T080103Z	pdf	warn	Playwright Chromium not installed (PDF gen banner, no output)	fix:npx playwright install chromium then retry	outcome:resolved
 2026-06-23T080103Z	merge-verify	warn	duplicate company+role: #1476 Board of Innovation AI Engineer == exact URL of prior #1394 (2026-06-14)	fix:removed #1476 row/report/PDF/TSV; kept canonical #1394; scan-history marked skipped_duplicate_of_1394	outcome:resolved
 2026-06-23T080103Z	verify	warn	name-collision warning: #1394 + #885 Board of Innovation AI Engineer (distinct URLs/dates, pre-existing before this run)	fix:dedup-tracker run (0 removed — different URLs = legit re-postings); accepted	outcome:resolved
+Failed to authenticate. API Error: 401 Invalid authentication credentials
