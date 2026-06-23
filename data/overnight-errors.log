@@ -2085,3 +2085,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-23T000115Z	pipeline	warn	Ketryx AI Engineer JD unreachable (greenhouse 404, not on live board, WebFetch empty)	fix:all JD fallbacks exhausted; logged dead in scan-history, not added to pipeline (Playbook #3)	outcome:skipped
 2026-06-23T000115Z	pipeline	warn	generate-pdf.mjs failed: Playwright Chromium not installed	fix:npx playwright install chromium then retry (Playbook #6)	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-23T040104Z	setup	warn	git pull --ff-only failed (non-fast-forward, scheduled run pushed first)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-23T040104Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-23T040104Z	step1-scan-US	warn	portal HTTP 404 (Temporal,Tinybird,Travelperk,Forto)	fix:scanner skips dead portals	outcome:skipped
+2026-06-23T040104Z	step1-scan-Intl	warn	portal HTTP 404 (Temporal,Tinybird,Travelperk,Forto)	fix:scanner skips dead portals	outcome:skipped
+2026-06-23T040104Z	step2-pipeline	warn	Harvey AI Automation Engineer Customer Education already evaluated as #1474 by 02:41Z run (parallel posting-id, same company+role)	fix:discard duplicate #1476 report+html; keep #1474; no tracker row added	outcome:resolved
+2026-06-23T040104Z	step3-verify	warn	possible duplicate #1394/#885 Board of Innovation AI Engineer (separate evals 2026-05-18 & 2026-06-14, distinct URLs)	fix:ran normalize+dedup+cleanup-bang (no-op, legitimately distinct postings, pre-existing not from this run)	outcome:unresolved

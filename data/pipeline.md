@@ -42,6 +42,7 @@
 
 ### 2026-06-23
 - [x] #1474 | https://jobs.ashbyhq.com/harvey/10801dbf-c259-4437-80b3-ce1c210f3593 | Harvey | AI Automation Engineer, Customer Education | San Francisco or New York — Hybrid | 3.4/5 | PDF ✅
+- [x] #1474 | https://jobs.ashbyhq.com/harvey/1bb028d2-168e-475b-9f0d-f994daca596d | Harvey | AI Automation Engineer, Customer Education (Remote variant — dup of #1474) | Remote | 3.4/5 | PDF ✅
 - [x] #1475 | https://remotive.com/remote/jobs/artificial-intelligence/ai-forward-deployed-engineer-4961489 | RingCentral | AI Forward Deployed Engineer | Remote — US (20-30% travel) | 3.1/5 | PDF ✅
 
 ### 2026-06-22
