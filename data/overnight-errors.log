@@ -2123,3 +2123,11 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-24T000142Z	step2-pipeline	warn	0 evaluable pending after scan (all pending are dead/error breadcrumbs; only net-new URL failed extraction)	fix:nothing to evaluate, proceed per Playbook #9	outcome:resolved
 2026-06-24T000142Z	step3-verify	warn	cleanup-bang-rows deleted new Proper breadcrumb (reason contained "404" -> matched permanent-dead regex)	fix:reworded breadcrumb transiently + reset scan-history status dead->error so Step 4 keeps it	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-24T040123Z	setup	warn	pull not fast-forward (diverging main)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-24T040123Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules empty)	fix:npm install js-yaml (full install failed on onnxruntime-node ECONNRESET)	outcome:resolved
+2026-06-24T040123Z	step1-scan	warn	scanner HTTP 404 board Temporal	fix:skip dead board (scanner-handled)	outcome:skipped
+2026-06-24T040123Z	step1-scan	warn	scanner HTTP 404 board Travelperk	fix:skip dead board (scanner-handled)	outcome:skipped
+2026-06-24T040123Z	step1-scan	warn	scanner HTTP 404 board Tinybird	fix:skip dead board (scanner-handled)	outcome:skipped
+2026-06-24T040123Z	step1-scan	warn	scanner HTTP 404 board Forto	fix:skip dead board (scanner-handled)	outcome:skipped
+2026-06-24T040123Z	step2-pdf	warn	Playwright chromium binary missing; npx playwright install failed (CDN download blocked by proxy)	fix:retry once then fall back to PDF not-generated for #1484	outcome:skipped
+2026-06-24T040123Z	step3-verify	warn	verify-pipeline 1 warning: possible dup #1394/#885 Board of Innovation AI Engineer	fix:ran normalize-statuses+dedup-tracker (0 removed; legitimate re-evals 1mo apart, dedup-tool-clean)	outcome:resolved

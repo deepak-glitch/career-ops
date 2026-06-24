@@ -43,6 +43,9 @@
 - [!] https://jobs.ashbyhq.com/Gray%20Swan%20AI/12e39ec1-fe00-47c8-b615-b1da2d3cf1fc | error: Ashby GraphQL jobPosting=null (dead)
 ## Processed
 
+### 2026-06-24
+- [x] #1484 | https://jobs.lever.co/aircall/70f40231-0f65-4620-89d6-bbd49fc6fb45 | Aircall | Forward Deployed Engineer, AI Solutions Engineering | Seattle, WA — Hybrid | 3.2/5 | PDF ❌ (chromium unavailable)
+
 ### 2026-06-23
 - [x] #1481 | https://job-boards.greenhouse.io/togetherai/jobs/4790243007 | Together AI | Platform Engineer, Model Shaping | San Francisco, CA — on-site | 3.2/5 | PDF ✅
 - [x] #1477 | https://apply.workable.com/brightplan/j/F2F9CA9403/ | BrightPlan | Applied AI Engineer | Remote — US only (no sponsorship) | 3.9/5 | PDF ✅

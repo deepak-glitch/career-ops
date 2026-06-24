@@ -679,3 +679,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-23	1480	2026-06-23	GTO Wizard	MLOps / Machine Learning Engineer	2.8/5	Evaluated	reports/1480-gto-wizard-2026-06-23.md	[Intl] Weak fit — Deep RL poker infra, no LLM/RAG hook; no-apply
 2026-06-23	1482	2026-06-23	Ramp	AI Solutions Strategist	2.7/5	Evaluated	reports/1482-ramp-2026-06-23.md	[US] Finance/controllership domain gap; strategist not engineer. NYC on-site.
 2026-06-23	1480		orphan	orphan	0/5		reports/1480-black-forest-labs-2026-06-23.md	
+2026-06-24	1485	2026-06-24	Sezzle	AI Engineer I (Applied AI)	2.8/5	Evaluated	reports/1485-sezzle-ai-engineer-i-2026-06-24.md	[Intl] Strong skills fit but LATAM-locked (CO/BR work auth) + ~$35k comp; ineligible for US-based OPT; do not apply
