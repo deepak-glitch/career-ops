@@ -2145,3 +2145,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-24T120149Z	step1-scan	warn	5 company API endpoints HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto)	fix:scanner skips dead endpoints, no action	outcome:skipped
 2026-06-24T120149Z	step1-L3	warn	L3 WebSearch returned 0 net-new (pipeline saturated; all hits already in history)	fix:dedup against scan-history/reports, none added	outcome:resolved
 2026-06-24T120149Z	step3-verify	warn	verify warns possible dup #1394/#885 (Board of Innovation AI Engineer) — pre-existing, dedup-tracker keeps both (distinct postings)	fix:ran normalize+dedup+cleanup-bang cycle; dedup did not flag removable	outcome:unresolved
+Failed to authenticate. API Error: 401 Invalid authentication credentials
