@@ -2146,3 +2146,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-24T120149Z	step1-L3	warn	L3 WebSearch returned 0 net-new (pipeline saturated; all hits already in history)	fix:dedup against scan-history/reports, none added	outcome:resolved
 2026-06-24T120149Z	step3-verify	warn	verify warns possible dup #1394/#885 (Board of Innovation AI Engineer) — pre-existing, dedup-tracker keeps both (distinct postings)	fix:ran normalize+dedup+cleanup-bang cycle; dedup did not flag removable	outcome:unresolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-24T160132Z	setup	warn	git pull not fast-forward (diverged)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-24T160132Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-24T160132Z	step2-pdf	warn	playwright chromium 1217 missing + download blocked by proxy	fix:use existing CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194	outcome:resolved
+2026-06-24T160132Z	step3-verify	warn	verify-pipeline possible-duplicate #1394/#885 (Board of Innovation AI Engineer)	fix:ran normalize+dedup+cleanup-bang chain (3x); dedup-tracker auto-leaves fuzzy dup	outcome:unresolved (pre-existing; distinct dates/scores 3.0 vs 3.4; left for user)
+2026-06-24T160132Z	step1-scan	warn	scan.mjs portal API errors (Temporal/Lindy/Tinybird/Travelperk/Forto/Qonto HTTP 404/abort)	fix:none needed — per-company transient API failures handled internally by scanner	outcome:skipped (routine)

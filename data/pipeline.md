@@ -11,6 +11,7 @@
 
 - [!] https://apply.workable.com/properpmc/j/659C721F05 | error: Workable JS-rendered page empty in batch mode; needs Playwright snapshot next run (Proper — AI Operations Specialist, L3 net-new, location unconfirmed)
 
+
 ### 2026-06-13
 
 - [!] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | error: Ashby GraphQL jobPosting=null (dead)
@@ -44,6 +45,8 @@
 ## Processed
 
 ### 2026-06-24
+- [x] #4 | https://jobs.ashbyhq.com/Ramp/6a7e382f-240a-4952-b9e5-7fe2b3856bc9 | Ramp | Applied AI Engineer, Fullstack | New York, NY (HQ) — Hybrid | 3.4/5 | deduped into existing #4 (Ramp Applied AI Engineer, 3.6) — frontend-leaning variant, lower score, no separate report
+- [x] #1282 | https://jobs.ashbyhq.com/kepler-ai/00a20d87-4fe6-4c05-bfe6-9add47e84c6e | Kepler | Forward Deployed Engineer | New York City — On-site (+30-50% travel) | 3.7/5 | PDF ✅ (re-eval of #1282, report 1486)
 - [x] #1484 | https://jobs.lever.co/aircall/70f40231-0f65-4620-89d6-bbd49fc6fb45 | Aircall | Forward Deployed Engineer, AI Solutions Engineering | Seattle, WA — Hybrid | 3.2/5 | PDF ❌ (chromium unavailable)
 
 ### 2026-06-23
