@@ -2140,3 +2140,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-24T080129Z	scan-l3	warn	Akka/Lightbend FDE Europe HTTP 410 Gone	fix:marked dead in intl scan-history, not added to pipeline	outcome:skipped
 2026-06-24T080129Z	verify	warn	possible-duplicate #885/#1394 Board of Innovation AI Engineer (distinct locations/dates)	fix:normalize-statuses=0, dedup-tracker=0 (not a true dup)	outcome:unresolved-benign
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-24T120149Z	setup-step3	warn	git pull --ff-only failed (origin force-updated, diverging)	fix:git fetch + reset --hard origin/main (no local commits)	outcome:resolved
+2026-06-24T120149Z	step1-scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-24T120149Z	step1-scan	warn	5 company API endpoints HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto)	fix:scanner skips dead endpoints, no action	outcome:skipped
+2026-06-24T120149Z	step1-L3	warn	L3 WebSearch returned 0 net-new (pipeline saturated; all hits already in history)	fix:dedup against scan-history/reports, none added	outcome:resolved
+2026-06-24T120149Z	step3-verify	warn	verify warns possible dup #1394/#885 (Board of Innovation AI Engineer) — pre-existing, dedup-tracker keeps both (distinct postings)	fix:ran normalize+dedup+cleanup-bang cycle; dedup did not flag removable	outcome:unresolved
