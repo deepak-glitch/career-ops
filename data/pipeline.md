@@ -7,6 +7,10 @@
 
 ## Pending
 
+### 2026-06-24
+
+- [!] https://apply.workable.com/properpmc/j/659C721F05 | error: Workable JS-rendered page empty in batch mode; needs Playwright snapshot next run (Proper — AI Operations Specialist, L3 net-new, location unconfirmed)
+
 ### 2026-06-13
 
 - [!] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | error: Ashby GraphQL jobPosting=null (dead)
