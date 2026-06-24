@@ -2139,3 +2139,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-24T080129Z	scan-l3	warn	CopilotKit FDE Lever 403 then API 404 (role removed from board)	fix:Lever board API confirmed role delisted; marked dead in scan-history	outcome:skipped
 2026-06-24T080129Z	scan-l3	warn	Akka/Lightbend FDE Europe HTTP 410 Gone	fix:marked dead in intl scan-history, not added to pipeline	outcome:skipped
 2026-06-24T080129Z	verify	warn	possible-duplicate #885/#1394 Board of Innovation AI Engineer (distinct locations/dates)	fix:normalize-statuses=0, dedup-tracker=0 (not a true dup)	outcome:unresolved-benign
+Failed to authenticate. API Error: 401 Invalid authentication credentials
