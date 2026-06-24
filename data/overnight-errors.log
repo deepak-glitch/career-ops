@@ -2132,3 +2132,10 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-24T040123Z	step2-pdf	warn	Playwright chromium binary missing; npx playwright install failed (CDN download blocked by proxy)	fix:retry once then fall back to PDF not-generated for #1484	outcome:skipped
 2026-06-24T040123Z	step3-verify	warn	verify-pipeline 1 warning: possible dup #1394/#885 Board of Innovation AI Engineer	fix:ran normalize-statuses+dedup-tracker (0 removed; legitimate re-evals 1mo apart, dedup-tool-clean)	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-24T080129Z	setup	warn	pull --ff-only failed (origin force-updated)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-24T080129Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-24T080129Z	scan-us	warn	5 ATS endpoints HTTP 404 (Temporal/Lindy/Tinybird/Travelperk/Forto)	fix:routine dead-board, scanner skipped	outcome:skipped
+2026-06-24T080129Z	pipeline-tutorme	warn	Workable SPA JD body empty via WebFetch	fix:WebSearch+Remotive cached corroboration	outcome:resolved
+2026-06-24T080129Z	scan-l3	warn	CopilotKit FDE Lever 403 then API 404 (role removed from board)	fix:Lever board API confirmed role delisted; marked dead in scan-history	outcome:skipped
+2026-06-24T080129Z	scan-l3	warn	Akka/Lightbend FDE Europe HTTP 410 Gone	fix:marked dead in intl scan-history, not added to pipeline	outcome:skipped
+2026-06-24T080129Z	verify	warn	possible-duplicate #885/#1394 Board of Innovation AI Engineer (distinct locations/dates)	fix:normalize-statuses=0, dedup-tracker=0 (not a true dup)	outcome:unresolved-benign
