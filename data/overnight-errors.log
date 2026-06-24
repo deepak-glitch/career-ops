@@ -2131,3 +2131,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-24T040123Z	step1-scan	warn	scanner HTTP 404 board Forto	fix:skip dead board (scanner-handled)	outcome:skipped
 2026-06-24T040123Z	step2-pdf	warn	Playwright chromium binary missing; npx playwright install failed (CDN download blocked by proxy)	fix:retry once then fall back to PDF not-generated for #1484	outcome:skipped
 2026-06-24T040123Z	step3-verify	warn	verify-pipeline 1 warning: possible dup #1394/#885 Board of Innovation AI Engineer	fix:ran normalize-statuses+dedup-tracker (0 removed; legitimate re-evals 1mo apart, dedup-tool-clean)	outcome:resolved
+Failed to authenticate. API Error: 401 Invalid authentication credentials
