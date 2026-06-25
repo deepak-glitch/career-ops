@@ -27,6 +27,7 @@
 ## Processed
 
 ### 2026-06-25
+- [x] #1490 | https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997 | Cohere | Forward Deployed Engineer, Sovereign AI | Ottawa, Canada — On-site | 3.0/5 | PDF ✅ (report kept; tracker row deduped into existing Cohere FDE #870 by merge-tracker)
 
 ### 2026-06-24
 

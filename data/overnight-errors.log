@@ -2177,3 +2177,16 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-25T080118Z	pipeline	warn	CZI job 7958444 extraction failed (greenhouse-api 404, not on board listing — closed/stale L3 hit)	fix:tried boards-api + WebFetch fallbacks; marked - [!] dead, retries next run	outcome:skipped
 2026-06-25T080118Z	verify	warn	possible duplicate #1394/#885 Board of Innovation AI Engineer (cross-run, May+June, both >=3.0)	fix:ran normalize+dedup; dedup-tracker declined (distinct reports/dates, not destructive-safe to auto-merge)	outcome:unresolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-25T120139Z	setup	warn	git pull --ff-only failed (origin force-updated, diverging branches)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-25T120139Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-25T120139Z	step1-scan	warn	scan API HTTP 404 for Temporal (board removed/moved)	fix:none (transient per-company; scanner continues)	outcome:skipped
+2026-06-25T120139Z	step1-scan	warn	scan API HTTP 404 for Lindy (board removed/moved)	fix:none (transient per-company; scanner continues)	outcome:skipped
+2026-06-25T120139Z	step1-scan	warn	scan API HTTP 404 for Tinybird (board removed/moved)	fix:none (transient per-company; scanner continues)	outcome:skipped
+2026-06-25T120139Z	step1-scan	warn	scan API HTTP 404 for Travelperk (board removed/moved)	fix:none (transient per-company; scanner continues)	outcome:skipped
+2026-06-25T120139Z	step1-scan	warn	scan API HTTP 404 for Forto (board removed/moved)	fix:none (transient per-company; scanner continues)	outcome:skipped
+2026-06-25T120139Z	step1-L3	warn	Virtue AI Ashby jobPosting=null (dead) — discovered via L3, not added	fix:none (dead listing, logged not added)	outcome:skipped
+2026-06-25T120139Z	step2-pdf	warn	Playwright wants chromium build 1217 but only 1194 installed (npm bumped version)	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium (env var supported by generate-pdf.mjs)	outcome:resolved
+2026-06-25T120139Z	step1-L3	warn	Dry Ground AI remotive URL HTTP 404 (expired) — not added	fix:none (expired listing)	outcome:skipped
+2026-06-25T120139Z	step3-verify	warn	verify possible-duplicate #1394/#885 Board of Innovation AI Engineer (pre-existing; distinct locations Antwerp/Lisbon vs Belgium)	fix:normalize-statuses+dedup-tracker (0 removed — legitimately distinct)	outcome:resolved (benign false-positive, left as-is)
+2026-06-25T120139Z	step3-merge	warn	report-number collision: #1488 already used in discarded.tsv (Cognition orphan + Tutor Me, today/yesterday)	fix:renumbered Cohere report 1488->1490 (free everywhere); fixed report file, PDF, merged TSV, intl pipeline	outcome:resolved
+2026-06-25T120139Z	step3-merge	warn	Cohere Sovereign AI (#1490) fuzzy-deduped by merge-tracker into existing Cohere FDE #870 (3.8); distinct role/location, report kept as standalone eval	fix:none (merge dedup is conservative-correct; pipeline annotated)	outcome:resolved
