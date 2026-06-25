@@ -40,6 +40,8 @@
 ## Processed
 
 ### 2026-06-25
+- [x] #1492 | https://sullyai.teamtailor.com/jobs/7940135-applied-ai-engineer | Sully.ai | Applied AI Engineer | Remote US (Mountain View, CA HQ) | 4.2/5 | PDF ✅
+- [x] #1491 | https://jobs.ashbyhq.com/synthesia/c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c | Synthesia | ML Platform Engineer | Europe (Remote — London HQ) | 3.2/5 | PDF ✅
 
 ### 2026-06-24
 - [x] #4 | https://jobs.ashbyhq.com/Ramp/6a7e382f-240a-4952-b9e5-7fe2b3856bc9 | Ramp | Applied AI Engineer, Fullstack | New York, NY (HQ) — Hybrid | 3.4/5 | deduped into existing #4 (Ramp Applied AI Engineer, 3.6) — frontend-leaning variant, lower score, no separate report

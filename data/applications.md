@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1491 | 2026-06-25 | Synthesia | ML Platform Engineer | 3.2/5 | Evaluated | ✅ | [1491](reports/1491-synthesia-2026-06-25.md) | [US] AI Platform/MLOps; strong reliability+eval+agentic-tooling fit; K8s/distributed-workload gap; Europe-remote (London HQ) — F-1 OPT relocation/auth soft blocker. |
+| 1492 | 2026-06-25 | Sully.ai | Applied AI Engineer | 4.2/5 | Evaluated | ✅ | [1492](reports/1492-sully-ai-2026-06-25.md) | [US] Healthcare agentic AI + LLM evals — 1:1 on agentic, RAGAS/BERTScore evals, HIPAA/clinical ML; Remote US; verify F-1 OPT sponsorship. Strongest fit of run. |
 | 1481 | 2026-06-23 | Together AI | Platform Engineer, Model Shaping | 3.2/5 | Evaluated | ✅ | [1481](reports/1481-together-ai-2026-06-23.md) | [US] MLOps/platform fit; HPC/bare-metal gap. SF, $200-290K. |
 | 1483 | 2026-06-23 | Sierra | Forward Deployed Infrastructure Engineer | 3.0/5 | Evaluated | ✅ | [1483](reports/1483-sierra-2026-06-23.md) | [Intl] Infra/compliance overlap; customer-cloud gap; London relocation+visa. |
 | 1477 | 2026-06-23 | BrightPlan | Applied AI Engineer | 3.9/5 | Evaluated | ✅ | [1477](reports/1477-brightplan-2026-06-23.md) | [US] Strong Python+LLM fintech fit; explicit no-sponsorship flag for F-1 OPT |

@@ -2191,3 +2191,7 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-25T120139Z	step3-merge	warn	report-number collision: #1488 already used in discarded.tsv (Cognition orphan + Tutor Me, today/yesterday)	fix:renumbered Cohere report 1488->1490 (free everywhere); fixed report file, PDF, merged TSV, intl pipeline	outcome:resolved
 2026-06-25T120139Z	step3-merge	warn	Cohere Sovereign AI (#1490) fuzzy-deduped by merge-tracker into existing Cohere FDE #870 (3.8); distinct role/location, report kept as standalone eval	fix:none (merge dedup is conservative-correct; pipeline annotated)	outcome:resolved
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-25T160128Z	setup	warn	git pull --ff-only failed (origin force-updated)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-25T160128Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-25T160128Z	step2-pdf	warn	Playwright 1.59.1 browser build mismatch (wants 1217, have 1194) after npm install	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium	outcome:resolved
+2026-06-25T160128Z	step3-verify	warn	verify-pipeline 1 warning: possible-dup #1394/#885 Board of Innovation (pre-existing, not from this run)	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows (0 dups removed — fuzzy false-positive)	outcome:unresolved (benign, 0 errors)
