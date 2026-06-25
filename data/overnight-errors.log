@@ -2202,3 +2202,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-25T200121Z	step1-scan	warn	Sierra 'People Partner Agent Development' is HR role not engineering archetype	fix:marked filter-slip [!] for cleanup-bang-rows	outcome:resolved
 2026-06-25T200121Z	step2-pipeline	warn	0 valid pending after scan+L3 (only new URL was HR filter-slip)	fix:none needed, nothing to evaluate	outcome:resolved
 2026-06-25T200121Z	step3-verify	warn	possible-duplicate #1394/#885 Board of Innovation AI Engineer	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows; dedup found 0 removable (distinct re-evals, scores 3.0 vs 3.4, both dated before today=pre-existing)	outcome:unresolved
+Failed to authenticate. API Error: 401 Invalid authentication credentials
