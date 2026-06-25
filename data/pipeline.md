@@ -37,7 +37,6 @@
 ### 2026-06-17
 
 - [!] https://jobs.ashbyhq.com/Gray%20Swan%20AI/12e39ec1-fe00-47c8-b615-b1da2d3cf1fc | error: Ashby GraphQL jobPosting=null (dead)
-
 ## Processed
 
 ### 2026-06-25

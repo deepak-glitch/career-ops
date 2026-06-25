@@ -2171,3 +2171,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-25T040115Z	step1-scan	warn	5 company API endpoints HTTP 404 (Temporal/Lindy/Tinybird/Travelperk/Forto)	fix:scanner skips stale endpoints gracefully	outcome:skipped
 2026-06-25T040115Z	step3-verify	warn	verify possible-duplicate #885/#1394 (Board of Innovation — AI Engineer): original 2026-05-18 + re-eval 2026-06-14	fix:ran normalize-statuses+dedup-tracker (0 removed; preserves both as distinct)+cleanup-bang-rows	outcome:unresolved (pre-existing re-eval pair, scripts intentionally keep both; 0 errors / 1 warning)
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-25T080118Z	setup	warn	git pull --ff-only failed (diverging/forced upstream)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-25T080118Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-25T080118Z	scan	warn	5 company boards HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto)	fix:scanner skipped dead boards, normal noise	outcome:skipped
+2026-06-25T080118Z	pipeline	warn	CZI job 7958444 extraction failed (greenhouse-api 404, not on board listing — closed/stale L3 hit)	fix:tried boards-api + WebFetch fallbacks; marked - [!] dead, retries next run	outcome:skipped
+2026-06-25T080118Z	verify	warn	possible duplicate #1394/#885 Board of Innovation AI Engineer (cross-run, May+June, both >=3.0)	fix:ran normalize+dedup; dedup-tracker declined (distinct reports/dates, not destructive-safe to auto-merge)	outcome:unresolved
