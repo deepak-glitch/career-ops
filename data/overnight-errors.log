@@ -2176,3 +2176,4 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-25T080118Z	scan	warn	5 company boards HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto)	fix:scanner skipped dead boards, normal noise	outcome:skipped
 2026-06-25T080118Z	pipeline	warn	CZI job 7958444 extraction failed (greenhouse-api 404, not on board listing — closed/stale L3 hit)	fix:tried boards-api + WebFetch fallbacks; marked - [!] dead, retries next run	outcome:skipped
 2026-06-25T080118Z	verify	warn	possible duplicate #1394/#885 Board of Innovation AI Engineer (cross-run, May+June, both >=3.0)	fix:ran normalize+dedup; dedup-tracker declined (distinct reports/dates, not destructive-safe to auto-merge)	outcome:unresolved
+Failed to authenticate. API Error: 401 Invalid authentication credentials
