@@ -2166,3 +2166,7 @@ Failed to authenticate. API Error: 401 The socket connection was closed unexpect
 2026-06-25T000130Z	step3-verify	warn	possible dup #1394/#885 Board of Innovation AI Engineer	fix:dedup-tracker ran, kept both (distinct re-evals 1mo apart, diff scores/reports); pre-existing not from this run	outcome:unresolved (benign, tool declined to merge)
 
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-25T040115Z	setup	warn	git pull --ff-only failed (diverging/forced upstream update)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-25T040115Z	step1-scan	warn	scan.mjs failed: ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-25T040115Z	step1-scan	warn	5 company API endpoints HTTP 404 (Temporal/Lindy/Tinybird/Travelperk/Forto)	fix:scanner skips stale endpoints gracefully	outcome:skipped
+2026-06-25T040115Z	step3-verify	warn	verify possible-duplicate #885/#1394 (Board of Innovation — AI Engineer): original 2026-05-18 + re-eval 2026-06-14	fix:ran normalize-statuses+dedup-tracker (0 removed; preserves both as distinct)+cleanup-bang-rows	outcome:unresolved (pre-existing re-eval pair, scripts intentionally keep both; 0 errors / 1 warning)
