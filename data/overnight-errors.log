@@ -2196,3 +2196,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-25T160128Z	step2-pdf	warn	Playwright 1.59.1 browser build mismatch (wants 1217, have 1194) after npm install	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium	outcome:resolved
 2026-06-25T160128Z	step3-verify	warn	verify-pipeline 1 warning: possible-dup #1394/#885 Board of Innovation (pre-existing, not from this run)	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows (0 dups removed — fuzzy false-positive)	outcome:unresolved (benign, 0 errors)
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-25T200121Z	setup	warn	git pull --ff-only failed (diverged branches)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-25T200121Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-25T200121Z	step1-scan	warn	5 portals HTTP 404 (Temporal Lindy Tinybird Travelperk Forto)	fix:scanner skips failed portals gracefully, rest of scan completed	outcome:skipped
+2026-06-25T200121Z	step1-scan	warn	Sierra 'People Partner Agent Development' is HR role not engineering archetype	fix:marked filter-slip [!] for cleanup-bang-rows	outcome:resolved
+2026-06-25T200121Z	step2-pipeline	warn	0 valid pending after scan+L3 (only new URL was HR filter-slip)	fix:none needed, nothing to evaluate	outcome:resolved
+2026-06-25T200121Z	step3-verify	warn	possible-duplicate #1394/#885 Board of Innovation AI Engineer	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows; dedup found 0 removable (distinct re-evals, scores 3.0 vs 3.4, both dated before today=pre-existing)	outcome:unresolved
