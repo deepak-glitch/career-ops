@@ -2165,3 +2165,4 @@ Failed to authenticate. API Error: 401 The socket connection was closed unexpect
 2026-06-25T000130Z	step2-pipeline-intl	warn	0 Intl pending after scan	fix:nothing to evaluate, proceed	outcome:resolved
 2026-06-25T000130Z	step3-verify	warn	possible dup #1394/#885 Board of Innovation AI Engineer	fix:dedup-tracker ran, kept both (distinct re-evals 1mo apart, diff scores/reports); pre-existing not from this run	outcome:unresolved (benign, tool declined to merge)
 
+Failed to authenticate. API Error: 401 Invalid authentication credentials
