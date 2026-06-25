@@ -2159,3 +2159,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-24T200103Z	step3-verify	warn	verify-pipeline: 1 warning - possible duplicate #1394/#885 (Board of Innovation AI Engineer)	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows; dedup-tracker reports 0 dupes (distinct dated evals 2026-05-18 #885 3.0 vs 2026-06-14 #1394 3.4, separate reports - intentionally kept)	outcome:resolved
 2026-06-24T200103Z	step4-cleanup	warn	Proper (properpmc) [!] row retired by cleanup-bang-rows -> scan-history status=dead	fix:accepted - WebFetch fell back to Workable 'Current Openings' (soft-dead signal posting closed); not re-added to avoid perpetual sweep churn; flag for manual check if Playwright becomes available	outcome:resolved
 Failed to authenticate. API Error: 401 The socket connection was closed unexpectedly. For more information, pass `verbose: true` in the second argument to fetch()
+2026-06-25T000130Z	setup	warn	local main diverged from origin (no merge base, stale 06-04 timeline)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-25T000130Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-25T000130Z	step1-scan	warn	5 company API 404s (Temporal/Lindy/Tinybird/Travelperk/Forto) both tracks	fix:boards removed/moved, skipped	outcome:skipped
+2026-06-25T000130Z	step2-pipeline-intl	warn	0 Intl pending after scan	fix:nothing to evaluate, proceed	outcome:resolved
+2026-06-25T000130Z	step3-verify	warn	possible dup #1394/#885 Board of Innovation AI Engineer	fix:dedup-tracker ran, kept both (distinct re-evals 1mo apart, diff scores/reports); pre-existing not from this run	outcome:unresolved (benign, tool declined to merge)
+
