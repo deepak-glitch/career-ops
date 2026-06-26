@@ -2229,3 +2229,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-26T120143Z	step1-scan	warn	5 company boards HTTP 404 (Temporal/Lindy/Tinybird/Travelperk/Forto) both tracks	fix:scanner skipped dead boards, continued	outcome:skipped
 2026-06-26T120143Z	step1-L3	warn	0 net-new after API scan + L3 WebSearch (all candidates already evaluated or dead); 0 pending both tracks	fix:logged per Playbook #9, nothing to evaluate	outcome:resolved
 2026-06-26T120143Z	step3-verify	warn	verify-pipeline heuristic dup #1394/#885 (Board of Innovation AI Engineer) — distinct evals 2026-05-18 vs 2026-06-14, both pre-existing	fix:ran normalize+dedup-tracker+cleanup-bang (3-cycle chain); dedup-tracker found 0 true dups, declined merge	outcome:unresolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
