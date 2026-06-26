@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1501 | 2026-06-26 | DeepScribe | AI Engineer | 4.3/5 | Evaluated | ✅ | [1501](reports/1501-deepscribe-ai-engineer-2026-06-26.md) | [US] Healthcare ambient-clinical LLM; strong agentic+evals+HIPAA fit; TN-only sponsorship (no H-1B) soft blocker |
 | 1497 | 2026-06-26 | Pivot | AI Engineer | 3.5/5 | Evaluated | ✅ | [1497](reports/1497-pivot-ai-engineer-2026-06-26.md) | [Intl] Founding AI eng, Paris on-site; excellent LLM/RAG/evals fit, F-1 OPT relocation blocker |
 | 1496 | 2026-06-26 | Scale AI | ML Research Engineer, ML Systems | 3.0/5 | Evaluated | ✅ | [1496](reports/1496-scaleai-ml-research-engineer-ml-systems-2026-06-26.md) | [US] Real FTE $189-237K+equity; distributed-training/CUDA gap — reach |
 | 1491 | 2026-06-25 | Synthesia | ML Platform Engineer | 3.2/5 | Evaluated | ✅ | [1491](reports/1491-synthesia-2026-06-25.md) | [US] AI Platform/MLOps; strong reliability+eval+agentic-tooling fit; K8s/distributed-workload gap; Europe-remote (London HQ) — F-1 OPT relocation/auth soft blocker. |
