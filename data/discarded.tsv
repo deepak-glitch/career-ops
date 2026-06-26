@@ -698,3 +698,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-26	1499		orphan	orphan	0/5		reports/1499-mistral-deployment-strategist-2026-06-26.md	
 2026-06-26	1500		orphan	orphan	0/5		reports/1500-mistral-applied-fullstack-2026-06-26.md	
 2026-06-26	1499	2026-06-26	PhysicsX	Machine Learning Engineer	2/5	Evaluated	reports/1499-physicsx-ml-engineer-2026-06-26.md	[US] US-citizens-only (aerospace/defense) + 3D-physics-sim ML mismatch — non-actionable for F-1 OPT
+2026-06-26	1506	2026-06-26	Weights & Biases (via CoreWeave)	Solution Specialist, AI Runtime Services	2.3/5	Evaluated	reports/1506-coreweave-solution-specialist-ai-runtime-2026-06-26.md	[US] commercial/GTM market-maker; archetype mismatch, no PDF

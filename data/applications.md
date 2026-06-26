@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1502 | 2026-06-26 | Poetic | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [1502](reports/1502-poetic-forward-deployed-engineer-2026-06-26.md) | [US] FDE, SF on-site, $150-225K+equity; strong FDE fit |
+| 1503 | 2026-06-26 | Encord | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1503](reports/1503-encord-forward-deployed-engineer-2026-06-26.md) | [US] FDE, NYC, AI data platform; eval (RAGAS) overlap |
+| 1504 | 2026-06-26 | Clarasight | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1504](reports/1504-clarasight-forward-deployed-engineer-2026-06-26.md) | [US] FDE pre-sales+build, NYC; messy-data + full-stack fit |
+| 1507 | 2026-06-26 | Pragmatike | AI Infrastructure Engineer (GPU) Remote EMEA | 3.0/5 | Evaluated | ✅ | [1507](reports/1507-pragmatike-ai-infrastructure-engineer-2026-06-26.md) | [Intl] AI Platform/MLOps, remote EMEA undisclosed client; tz/visa friction |
 | 1501 | 2026-06-26 | DeepScribe | AI Engineer | 4.3/5 | Evaluated | ✅ | [1501](reports/1501-deepscribe-ai-engineer-2026-06-26.md) | [US] Healthcare ambient-clinical LLM; strong agentic+evals+HIPAA fit; TN-only sponsorship (no H-1B) soft blocker |
 | 1497 | 2026-06-26 | Pivot | AI Engineer | 3.5/5 | Evaluated | ✅ | [1497](reports/1497-pivot-ai-engineer-2026-06-26.md) | [Intl] Founding AI eng, Paris on-site; excellent LLM/RAG/evals fit, F-1 OPT relocation blocker |
 | 1496 | 2026-06-26 | Scale AI | ML Research Engineer, ML Systems | 3.0/5 | Evaluated | ✅ | [1496](reports/1496-scaleai-ml-research-engineer-ml-systems-2026-06-26.md) | [US] Real FTE $189-237K+equity; distributed-training/CUDA gap — reach |

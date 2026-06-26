@@ -25,9 +25,14 @@
 - [!] https://jobs.ashbyhq.com/openai/0499e33e-500f-4f1d-9012-e443fb637fbb | error: Ashby GraphQL jobPosting=null (dead — OpenAI FDE Singapore)
 - [!] https://jobs.ashbyhq.com/Bifrost/566ded2e-082f-4833-9967-191d8931005b | error: Ashby GraphQL jobPosting=null (dead)
 
+### 2026-06-26
+
+- [!] https://job-boards.greenhouse.io/cresta/jobs/5097513008 | error: title is Senior Forward Deployed Engineer (AI Agent) UK — filtered (Senior keyword)
+
 ## Processed
 
 ### 2026-06-26
+- [x] #1507 | https://jobs.ashbyhq.com/pragmatike/ee36336a-f7ff-49ab-b79b-f4d29b819006 | Pragmatike | AI Infrastructure Engineer (GPU) Remote EMEA | Remote EMEA (recruiter: Ukraine) | 3.0/5 | PDF ✅
 - [x] #1498 | https://jobs.lever.co/mistral/e6accd7d-27d5-45f0-9f35-3454064374af | Mistral AI | Applied AI, Machine Learning Engineer | Seoul, South Korea — On-site | 3.6/5 | PDF ✅
 - [x] #1497 | https://jobs.ashbyhq.com/Pivot/6294beb0-744a-40bb-a119-33978298e951 | Pivot | AI Engineer | Paris, France — On-site/Hybrid | 3.5/5 | PDF ✅
 

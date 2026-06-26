@@ -38,9 +38,17 @@
 
 - [!] https://jobs.ashbyhq.com/Gray%20Swan%20AI/12e39ec1-fe00-47c8-b615-b1da2d3cf1fc | error: Ashby GraphQL jobPosting=null (dead)
 
+### 2026-06-26
+
+- [!] https://jobs.ashbyhq.com/Chestnut/5d4fd1ec-60f3-4669-a2d2-31adf2654865 | error: Ashby GraphQL jobPosting=null (dead — Chestnut FDE Entry-Level)
+- [!] https://jobs.ashbyhq.com/elevenlabs/dd26398c-54d8-4200-a181-65e6203ec9a6 | error: Ashby GraphQL jobPosting=null (dead — ElevenLabs FDE Recent Graduate)
+
 ## Processed
 
 ### 2026-06-26
+- [x] #1502 | https://jobs.ashbyhq.com/poetic/ca54fd9a-55eb-45ae-ba48-f666747a24e8 | Poetic | Forward Deployed Engineer | San Francisco, CA — on-site | 3.8/5 | PDF ✅
+- [x] #1503 | https://jobs.ashbyhq.com/encord/2eedc8eb-00c2-4cbe-862e-5e22960f0dbf | Encord | Forward Deployed Engineer | New York, NY | 3.5/5 | PDF ✅
+- [x] #1504 | https://jobs.ashbyhq.com/clarasight/573af661-9302-4381-8ddd-9db58674ebe3 | Clarasight | Forward Deployed Engineer | New York City, NY | 3.5/5 | PDF ✅
 - [x] #1501 | https://himalayas.app/companies/david-joseph-company/jobs/deepscribe-ai-engineer | DeepScribe | AI Engineer | Remote US (San Francisco, CA preferred) | 4.3/5 | PDF ✅
 - [x] #1496 | https://job-boards.greenhouse.io/scaleai/jobs/4534631005 | Scale AI | ML Research Engineer, ML Systems | San Francisco/Seattle/New York — on-site | 3.0/5 | PDF ✅
 
