@@ -37,7 +37,11 @@
 ### 2026-06-17
 
 - [!] https://jobs.ashbyhq.com/Gray%20Swan%20AI/12e39ec1-fe00-47c8-b615-b1da2d3cf1fc | error: Ashby GraphQL jobPosting=null (dead)
+
 ## Processed
+
+### 2026-06-26
+- [x] #1496 | https://job-boards.greenhouse.io/scaleai/jobs/4534631005 | Scale AI | ML Research Engineer, ML Systems | San Francisco/Seattle/New York — on-site | 3.0/5 | PDF ✅
 
 ### 2026-06-25
 - [x] #1492 | https://sullyai.teamtailor.com/jobs/7940135-applied-ai-engineer | Sully.ai | Applied AI Engineer | Remote US (Mountain View, CA HQ) | 4.2/5 | PDF ✅
