@@ -2215,3 +2215,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-26T040104Z	step1-scan-l3	warn	scan.mjs 5 portal HTTP 404 (Temporal/Lindy/Tinybird/Travelperk/Forto)	fix:none-recurring portal config drift, non-blocking	outcome:skipped
 2026-06-26T040104Z	step2-jd-extract	warn	jobgether lever c45ce63c dead (Lever API 404, WebFetch 403)	fix:aggregator dead per Playbook#3, logged dead in scan-history, not added	outcome:skipped
 2026-06-26T040104Z	step3-verify	warn	verifier heuristic dup #1394/#885 Board of Innovation AI Engineer	fix:dedup-tracker found 0 true dups (distinct evals 1mo apart, diff scores/reports); benign	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
