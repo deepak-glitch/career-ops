@@ -28,6 +28,7 @@
 ## Processed
 
 ### 2026-06-26
+- [x] #1498 | https://jobs.lever.co/mistral/e6accd7d-27d5-45f0-9f35-3454064374af | Mistral AI | Applied AI, Machine Learning Engineer | Seoul, South Korea — On-site | 3.6/5 | PDF ✅
 - [x] #1497 | https://jobs.ashbyhq.com/Pivot/6294beb0-744a-40bb-a119-33978298e951 | Pivot | AI Engineer | Paris, France — On-site/Hybrid | 3.5/5 | PDF ✅
 
 ### 2026-06-25

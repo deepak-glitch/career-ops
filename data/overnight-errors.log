@@ -2217,3 +2217,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-26T040104Z	step3-verify	warn	verifier heuristic dup #1394/#885 Board of Innovation AI Engineer	fix:dedup-tracker found 0 true dups (distinct evals 1mo apart, diff scores/reports); benign	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-26T080131Z	setup	warn	pull --ff-only failed (origin force-updated)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-26T080131Z	scan	warn	js-yaml module not found	fix:npm install	outcome:resolved
+2026-06-26T080131Z	scan-l3	warn	heyData Senior AI Engineer surfaced	fix:filtered per Senior-title rule	outcome:skipped
+2026-06-26T080131Z	pdf-gen	warn	playwright wanted browser download after npm reinstall	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
+2026-06-26T080131Z	verify	warn	verify-pipeline 1 warning: possible dup #1394/#885 (Board of Innovation) — pre-existing, not this run	fix:ran normalize+dedup+cleanup-bang chain (0 changes); dedup-tracker treats them as distinct	outcome:resolved (benign heuristic flag)
