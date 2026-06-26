@@ -2207,3 +2207,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-26T000139Z	scan/step0	warn	node scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry scan	outcome:resolved
 2026-06-26T000139Z	scan	warn	scan.mjs 5 portals HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto)	fix:scanner-internal dead portals, skipped by scan.mjs	outcome:skipped
 2026-06-26T000139Z	pdf/1496	warn	Playwright browser revision mismatch after npm install (npx playwright install prompt)	fix:render via executablePath=/opt/pw-browsers/chromium-1194 wrapper (tmp script, removed pre-commit)	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
