@@ -2263,3 +2263,14 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-27T040150Z	pdf-vecten	warn	Playwright pinned browser (1217) missing; chromium.launch failed	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/.../chrome (pre-installed) and retry	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-27T080132Z	setup	warn	git pull --ff-only failed (diverging branches)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-27T080132Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-27T080132Z	step1-scan	warn	company Temporal HTTP 404 (board moved/dead)	fix:scanner skipped gracefully	outcome:skipped
+2026-06-27T080132Z	step1-scan	warn	company Lindy HTTP 404 (board moved/dead)	fix:scanner skipped gracefully	outcome:skipped
+2026-06-27T080132Z	step1-scan	warn	company Tinybird HTTP 404 (board moved/dead)	fix:scanner skipped gracefully	outcome:skipped
+2026-06-27T080132Z	step1-scan	warn	company Travelperk HTTP 404 (board moved/dead)	fix:scanner skipped gracefully	outcome:skipped
+2026-06-27T080132Z	step1-scan	warn	company Forto HTTP 404 (board moved/dead)	fix:scanner skipped gracefully	outcome:skipped
+2026-06-27T080132Z	step1-L3	warn	Paddington Robotics FDE (London UK, hardware/mechatronics) surfaced by L3	fix:marked filtered in intl scan-history, not added to pipeline (wrong archetype + UK)	outcome:resolved
+2026-06-27T080132Z	step2-pdf	warn	generate-pdf.mjs failed: playwright 1.59 expects chromium-1217, only 1194 installed	fix:local symlink chromium-1217->1194 + executablePath launch via tmp gen (removed before commit)	outcome:resolved
+2026-06-27T080132Z	step3-merge	warn	EthonAI FDE Zurich is duplicate of existing #1105 (re-listed URL slug -zurich vs -2)	fix:merge-tracker skipped; deleted dup #1513 report/PDF/TSV/pipeline-row; refreshed #1105 URL to live posting	outcome:resolved
+2026-06-27T080132Z	step3-verify	warn	verify-pipeline: possible duplicate #885/#1394 (Board of Innovation AI Engineer, pre-existing, scores 3.0 vs 3.4)	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows (dedup keeps both; distinct URLs/reports); not introduced this run	outcome:unresolved-preexisting
