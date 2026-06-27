@@ -324,3 +324,6 @@
 
 ### 2026-06-27
 - [x] #1510 | https://apply.workable.com/vecten/j/869397D5EE/ | Vecten | AI-Native Engineer (Full-Stack / Agentic AI Engineer) | Warsaw, Poland — Remote/Hybrid | 3.5/5 | PDF ✅
+- [x] #1512 | https://causalens.recruitee.com/o/ai-engineer | causaLens | AI Engineer | London, United Kingdom — Hybrid (1-2d/wk) | 3.7/5 | PDF ✅
+- [x] #1513 | https://apply.workable.com/prox-works/j/EC2AAB781A | Proximity Works | AI Development Engineer (contractual) | India — Remote | 3.1/5 | PDF ✅
+- [x] #1514 | https://apply.workable.com/netguru/j/1FE57121AF | Netguru | Forward Deployment Engineer | Poland — Remote | 3.4/5 | PDF ✅

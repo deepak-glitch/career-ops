@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1512 | 2026-06-27 | causaLens | AI Engineer | 3.7/5 | Evaluated | ✅ | [1512](reports/1512-causalens-ai-engineer-2026-06-27.md) | [Intl] Strong agentic+RAG/FDE match; London hybrid (Hammersmith); comp undisclosed; F-1 OPT UK relocation/sponsorship flag. |
+| 1513 | 2026-06-27 | Proximity Works | AI Development Engineer (contractual) | 3.1/5 | Evaluated | ✅ | [1513](reports/1513-proximity-works-ai-development-engineer-2026-06-27.md) | [Intl] Strong agentic/Responsible-AI tech match; India-remote contract + undisclosed comp + mentoring stretch drag score. |
+| 1514 | 2026-06-27 | Netguru | Forward Deployment Engineer | 3.4/5 | Evaluated | ✅ | [1514](reports/1514-netguru-forward-deployment-engineer-2026-06-27.md) | [Intl] FDE build half fits well; pre-sales blend off-archetype; comp transparent but modest (Poland); F-1 OPT EU auth flag. |
 | 1511 | 2026-06-27 | Xata | Forward Deployed Engineer | 3.2/5 | Evaluated | ✅ | [1511](reports/1511-xata-2026-06-27.md) | [US] Remote US FDE; Postgres/full-stack core, AI agents nice-to-have; client-facing delivery fit |
 | 1510 | 2026-06-27 | Vecten | AI-Native Engineer (Full-Stack / Agentic AI Engineer) | 3.5/5 | Evaluated | ✅ | [1510](reports/1510-vecten-ai-native-engineer-2026-06-27.md) | [Intl] Warsaw remote/hybrid; agentic AI+RAG+FastAPI strong fit; F-1 OPT/EU auth soft blocker |
 | 1508 | 2026-06-27 | Frontier Medicines | AI Engineer I | 3.6/5 | Evaluated | ✅ | [1508](reports/1508-frontier-medicines-2026-06-27.md) | [US] Applied AI/agentic + multimodal RAG + serving fit; cheminformatics/molecular-ML domain gap; on-site South SF + F-1 OPT sponsorship soft blocker. |
