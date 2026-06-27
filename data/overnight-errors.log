@@ -2284,3 +2284,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-27T120124Z	step1-scan	warn	portal Travelperk HTTP 404 (board moved/closed)	fix:skip portal, scanner continues	outcome:skipped
 2026-06-27T120124Z	step1-scan	warn	portal Forto HTTP 404 (board moved/closed)	fix:skip portal, scanner continues	outcome:skipped
 2026-06-27T120124Z	step2-pdf	warn	playwright chromium not found at default path	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
