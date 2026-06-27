@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1508 | 2026-06-27 | Frontier Medicines | AI Engineer I | 3.6/5 | Evaluated | ✅ | [1508](reports/1508-frontier-medicines-2026-06-27.md) | [US] Applied AI/agentic + multimodal RAG + serving fit; cheminformatics/molecular-ML domain gap; on-site South SF + F-1 OPT sponsorship soft blocker. |
+| 1509 | 2026-06-27 | PwC | CTIO AI Engineer (Experienced Associate) | 3.0/5 | Evaluated | ✅ | [1509](reports/1509-pwc-2026-06-27.md) | [US] Title-inflated analytics/DS consulting role (IFS); strong ML/NLP fit but low LLM/agentic scope; R/MATLAB minor gap; sponsorship not guaranteed. |
 | 1502 | 2026-06-26 | Poetic | Forward Deployed Engineer | 3.8/5 | Evaluated | ✅ | [1502](reports/1502-poetic-forward-deployed-engineer-2026-06-26.md) | [US] FDE, SF on-site, $150-225K+equity; strong FDE fit |
 | 1503 | 2026-06-26 | Encord | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1503](reports/1503-encord-forward-deployed-engineer-2026-06-26.md) | [US] FDE, NYC, AI data platform; eval (RAGAS) overlap |
 | 1504 | 2026-06-26 | Clarasight | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1504](reports/1504-clarasight-forward-deployed-engineer-2026-06-26.md) | [US] FDE pre-sales+build, NYC; messy-data + full-stack fit |

@@ -45,6 +45,10 @@
 
 ## Processed
 
+### 2026-06-27
+- [x] #1508 | https://apply.workable.com/frontier-medicines/j/5E53E8D60C/ | Frontier Medicines | AI Engineer I | South San Francisco, CA — on-site | 3.6/5 | PDF ✅
+- [x] #1509 | https://pwc.wd3.myworkdayjobs.com/en-US/us_experienced_careers/job/NY-New-York/CTIO---AI-Engineer---Experienced-Associate_739388WD | PwC | CTIO AI Engineer (Experienced Associate) | New York, NY — hybrid | 3.0/5 | PDF ✅
+
 ### 2026-06-26
 - [x] #1502 | https://jobs.ashbyhq.com/poetic/ca54fd9a-55eb-45ae-ba48-f666747a24e8 | Poetic | Forward Deployed Engineer | San Francisco, CA — on-site | 3.8/5 | PDF ✅
 - [x] #1503 | https://jobs.ashbyhq.com/encord/2eedc8eb-00c2-4cbe-862e-5e22960f0dbf | Encord | Forward Deployed Engineer | New York, NY | 3.5/5 | PDF ✅
