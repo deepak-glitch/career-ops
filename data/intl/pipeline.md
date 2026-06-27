@@ -321,3 +321,6 @@
 - [x] #727 | https://jobs.ashbyhq.com/openai/16df5b48-917d-41d8-b0c6-dbfdf11400f7 | OpenAI | AI Deployment Engineer, Startups | Singapore — Hybrid 3d/wk + relocation | 3.5/5 | PDF ✅
 - [x] #738 | https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product (Paris) | Paris HQ — Hybrid 3d/wk | 3.5/5 | PDF ✅
 - [x] #739 | https://super-ai.jobs.personio.com/job/1592103?language=en | super.AI | Machine Learning Engineer | Berlin / Remote Europe | 3.2/5 | PDF ✅
+
+### 2026-06-27
+- [x] #1510 | https://apply.workable.com/vecten/j/869397D5EE/ | Vecten | AI-Native Engineer (Full-Stack / Agentic AI Engineer) | Warsaw, Poland — Remote/Hybrid | 3.5/5 | PDF ✅

@@ -2253,3 +2253,11 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-27T000138Z	verify	warn	verify-pipeline soft-dup warning #885/#1394 Board of Innovation AI Engineer (distinct postings, diff dates/URLs)	fix:ran normalize+dedup+cleanup-bang; dedup confirmed 0 real dups	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-27T040150Z	setup-pull	warn	git pull --ff-only failed: local main diverged (stale 2026-06-04 snapshot vs origin 2026-06-27)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-06-27T040150Z	scan-us	warn	ERR_MODULE_NOT_FOUND js-yaml in scan.mjs	fix:npm install	outcome:resolved
+2026-06-27T040150Z	scan-both	warn	company Temporal HTTP 404 (ATS endpoint stale)	fix:scanner skipped + continued; both tracks unaffected	outcome:skipped
+2026-06-27T040150Z	scan-both	warn	company Lindy HTTP 404 (ATS endpoint stale)	fix:scanner skipped + continued; both tracks unaffected	outcome:skipped
+2026-06-27T040150Z	scan-both	warn	company Tinybird HTTP 404 (ATS endpoint stale)	fix:scanner skipped + continued; both tracks unaffected	outcome:skipped
+2026-06-27T040150Z	scan-both	warn	company Travelperk HTTP 404 (ATS endpoint stale)	fix:scanner skipped + continued; both tracks unaffected	outcome:skipped
+2026-06-27T040150Z	scan-both	warn	company Forto HTTP 404 (ATS endpoint stale)	fix:scanner skipped + continued; both tracks unaffected	outcome:skipped
+2026-06-27T040150Z	pdf-vecten	warn	Playwright pinned browser (1217) missing; chromium.launch failed	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/.../chrome (pre-installed) and retry	outcome:resolved
