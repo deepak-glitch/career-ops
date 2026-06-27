@@ -2286,3 +2286,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-27T120124Z	step2-pdf	warn	playwright chromium not found at default path	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-27T160118Z	setup	warn	git pull --ff-only failed (diverging/forced upstream update)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-06-27T160118Z	step1-scan	warn	ERR_MODULE_NOT_FOUND js-yaml (deps not installed)	fix:npm install	outcome:resolved
+2026-06-27T160118Z	step1-scan	warn	5 ATS API HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto — no working API endpoint)	fix:none needed (scan.mjs skips and continues; these use websearch scan_method)	outcome:skipped
+2026-06-27T160118Z	step2-pdf	warn	Playwright chromium revision mismatch (npm 1.59.1 vs pre-installed chromium-1194)	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
+2026-06-27T160118Z	step3-verify	warn	verify possible-duplicate #885 & #1394 (Board of Innovation AI Engineer)	fix:normalize-statuses + dedup-tracker + cleanup-bang-rows (dedup removed 0 — distinct evals, 2026-05-18 vs 2026-06-14, different URLs/reports)	outcome:unresolved (benign pre-existing; distinct evaluations, not true dupes)

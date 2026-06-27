@@ -46,6 +46,7 @@
 ## Processed
 
 ### 2026-06-27
+- [x] #1516 | https://jobs.lever.co/workwave/6032fc28-6183-4e4a-8310-c07860e82ef5 | WorkWave | Applied Data Scientist / ML Engineer (Decision Intelligence) | Remote — US | 3.4/5 | PDF ✅
 - [x] #1508 | https://apply.workable.com/frontier-medicines/j/5E53E8D60C/ | Frontier Medicines | AI Engineer I | South San Francisco, CA — on-site | 3.6/5 | PDF ✅
 - [x] #1509 | https://pwc.wd3.myworkdayjobs.com/en-US/us_experienced_careers/job/NY-New-York/CTIO---AI-Engineer---Experienced-Associate_739388WD | PwC | CTIO AI Engineer (Experienced Associate) | New York, NY — hybrid | 3.0/5 | PDF ✅
 - [x] #1511 | https://xataio-1680192386.teamtailor.com/jobs/7952382-forward-deployed-engineer | Xata | Forward Deployed Engineer | Remote — US (East Coast) | 3.2/5 | PDF ✅

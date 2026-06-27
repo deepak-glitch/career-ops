@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1516 | 2026-06-27 | WorkWave | Applied Data Scientist / ML Engineer (Decision Intelligence) | 3.4/5 | Evaluated | ✅ | [1516](reports/1516-workwave-2026-06-27.md) | [US] Solid Applied ML match (Python/PyTorch/MLOps/cloud/A-B testing); remote-US, comp $160-170k+bonus; forecasting/XGBoost minor gaps; sponsorship flag. |
+| 1517 | 2026-06-27 | TensorOps | Junior AI/ML Engineer | 3.2/5 | Evaluated | ✅ | [1517](reports/1517-tensorops-2026-06-27.md) | [Intl] Excellent skills fit (RAG/agents/LangGraph/FastAPI/MLOps) but Portugal residence required (relocation/EU auth) + low comp (€30-35k). |
 | 1512 | 2026-06-27 | causaLens | AI Engineer | 3.7/5 | Evaluated | ✅ | [1512](reports/1512-causalens-ai-engineer-2026-06-27.md) | [Intl] Strong agentic+RAG/FDE match; London hybrid (Hammersmith); comp undisclosed; F-1 OPT UK relocation/sponsorship flag. |
 | 1513 | 2026-06-27 | Proximity Works | AI Development Engineer (contractual) | 3.1/5 | Evaluated | ✅ | [1513](reports/1513-proximity-works-ai-development-engineer-2026-06-27.md) | [Intl] Strong agentic/Responsible-AI tech match; India-remote contract + undisclosed comp + mentoring stretch drag score. |
 | 1514 | 2026-06-27 | Netguru | Forward Deployment Engineer | 3.4/5 | Evaluated | ✅ | [1514](reports/1514-netguru-forward-deployment-engineer-2026-06-27.md) | [Intl] FDE build half fits well; pre-sales blend off-archetype; comp transparent but modest (Poland); F-1 OPT EU auth flag. |

@@ -327,3 +327,4 @@
 - [x] #1512 | https://causalens.recruitee.com/o/ai-engineer | causaLens | AI Engineer | London, United Kingdom — Hybrid (1-2d/wk) | 3.7/5 | PDF ✅
 - [x] #1513 | https://apply.workable.com/prox-works/j/EC2AAB781A | Proximity Works | AI Development Engineer (contractual) | India — Remote | 3.1/5 | PDF ✅
 - [x] #1514 | https://apply.workable.com/netguru/j/1FE57121AF | Netguru | Forward Deployment Engineer | Poland — Remote | 3.4/5 | PDF ✅
+- [x] #1517 | https://job-boards.eu.greenhouse.io/tensorops/jobs/4871911101 | TensorOps | Junior AI/ML Engineer | Remote — Portugal residence required | 3.2/5 | PDF ✅
