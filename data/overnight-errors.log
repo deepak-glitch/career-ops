@@ -2299,3 +2299,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-27T200131Z	verify	warn	possible-duplicate #1394 & #885 Board of Innovation AI Engineer	fix:dedup-tracker.mjs (0 removed; distinct evals 3.0 vs 3.4, separate reports)	outcome:unresolved-pre-existing-kept-by-design
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-28T000105Z	setup	warn	git pull --ff-only failed (diverging/forced-update on origin)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-28T000105Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules missing)	fix:npm install	outcome:resolved
+2026-06-28T000105Z	step1-scan	warn	scanner per-company HTTP 404/503: Temporal,Lindy,Tinybird,Travelperk,Forto (boards removed/temp)	fix:none needed (scanner-level, non-fatal)	outcome:skipped
+2026-06-28T000105Z	step1-L3	warn	L3 WebSearch returned only already-scanned roles or off-archetype/location-disqualified hits; 0 net-new	fix:dedup vs scan-history+reports, dropped GTM/Director/Islamabad/Delhi	outcome:resolved
+2026-06-28T000105Z	step2-pipeline	warn	0 fresh pending (all entries are dead [!] breadcrumbs) in both tracks after scan	fix:none — Playbook #9 empty-pipeline	outcome:resolved
+2026-06-28T000105Z	step3-verify	warn	verify possible-duplicate #885/#1394 (Board of Innovation AI Engineer) — distinct evals (3.0 vs 3.4, diff dates/reports)	fix:normalize+dedup+cleanup-bang ran, dedup-tracker confirms non-duplicate (0 removed)	outcome:resolved
