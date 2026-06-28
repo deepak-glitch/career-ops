@@ -2321,3 +2321,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-28T080109Z	step2-extract	warn	NewsBreak ML Jr/NewGrad x2 greenhouse API 404 (removed)	fix:mark dead, skip	outcome:skipped
 2026-06-28T080109Z	step2-pdf	warn	playwright expects build 1217 but env has 1194 (npm install bump)	fix:set CHROMIUM_EXECUTABLE_PATH to /opt/pw-browsers/chromium-1194	outcome:resolved
 2026-06-28T080109Z	step3-verify	warn	verify-pipeline residual: possible-dup #1394/#885 Board of Innovation AI Engineer	fix:normalize+dedup+cleanup-bang ran; dedup-tracker reports 0 true dups (distinct entries), pre-existing not from this run	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
