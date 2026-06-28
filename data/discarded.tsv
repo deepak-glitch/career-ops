@@ -706,3 +706,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-27	1518	2026-06-27	Group-IB	Machine Learning Developer	2.3/5	Evaluated	reports/1518-group-ib-2026-06-27.md	[Intl] Two hard gaps: no Graph ML (NetworkX/PyG/Neo4j) + fraud/AML domain mismatch; EMEA auth flag.
 2026-06-28	1521	2026-06-28	Sezzle	AI Engineer I	2.6/5	Evaluated	reports/1521-sezzle-2026-06-28.md	[Intl] LatAm-only + sub-market comp; do not apply
 2026-06-28	1522	2026-06-28	Modulai	Machine Learning Engineer	2.7/5	Evaluated	reports/1522-modulai-2026-06-28.md	[Intl] Sweden; no visa sponsorship (hard blocker)
+2026-06-28	1526	2026-06-28	Raft	Forward Deployed Engineer	1.5/5	Evaluated	reports/1526-raft-forward-deployed-engineer-2026-06-28.md	[US] Honolulu HI defense; requires US citizenship + active Secret clearance — terminal blocker for F-1 OPT
