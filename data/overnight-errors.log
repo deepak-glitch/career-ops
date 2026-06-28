@@ -2328,3 +2328,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-28T120109Z	step1-scan	warn	scan.mjs 5 portal HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto) both tracks	fix:none needed — scanner skips dead portal endpoints, non-fatal	outcome:resolved
 2026-06-28T120109Z	step2-pipeline	warn	Sentiance Recruitee URL 301->careers_not_hosted (dead) — new L3 find	fix:logged [!] in intl pipeline + dead in intl scan-history, retries next run	outcome:skipped
 2026-06-28T120109Z	step2-pdf	error	generate-pdf.mjs Playwright browser-revision mismatch after npm bumped playwright to 1.59.1 (pre-installed chromium-1194)	fix:rendered PDF directly via /opt/pw-browsers/chromium-1194 chrome --headless --print-to-pdf	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
