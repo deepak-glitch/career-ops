@@ -46,6 +46,7 @@
 ## Processed
 
 ### 2026-06-28
+- [x] #1524 | https://apply.workable.com/rockstar-3/j/C6B0004466 | Rockstar (data-intel client) | Jr AI Engineer | Remote — US | 3.5/5 | PDF ✅
 - [x] #1518 | https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd | Traversal | AI Engineer (Forward Deployed Engineer) | New York, NY — on-site | 3.9/5 | PDF ✅
 - [x] #1519 | https://jobs.ashbyhq.com/oscilar/58b4c728-4732-4e81-ad7a-c0927190a171 | Oscilar | Forward Deployed Engineer | Remote — US | 3.6/5 | PDF ✅
 - [x] #1520 | https://jobs.ashbyhq.com/sardine/4ff32b5d-13c6-4024-826c-04ed2881d688 | Sardine | Forward Deployed AI Engineer | Remote — US/Canada | 3.6/5 | PDF ✅
