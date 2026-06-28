@@ -45,6 +45,11 @@
 
 ## Processed
 
+### 2026-06-28
+- [x] #1518 | https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd | Traversal | AI Engineer (Forward Deployed Engineer) | New York, NY — on-site | 3.9/5 | PDF ✅
+- [x] #1519 | https://jobs.ashbyhq.com/oscilar/58b4c728-4732-4e81-ad7a-c0927190a171 | Oscilar | Forward Deployed Engineer | Remote — US | 3.6/5 | PDF ✅
+- [x] #1520 | https://jobs.ashbyhq.com/sardine/4ff32b5d-13c6-4024-826c-04ed2881d688 | Sardine | Forward Deployed AI Engineer | Remote — US/Canada | 3.6/5 | PDF ✅
+
 ### 2026-06-27
 - [x] #1516 | https://jobs.lever.co/workwave/6032fc28-6183-4e4a-8310-c07860e82ef5 | WorkWave | Applied Data Scientist / ML Engineer (Decision Intelligence) | Remote — US | 3.4/5 | PDF ✅
 - [x] #1508 | https://apply.workable.com/frontier-medicines/j/5E53E8D60C/ | Frontier Medicines | AI Engineer I | South San Francisco, CA — on-site | 3.6/5 | PDF ✅

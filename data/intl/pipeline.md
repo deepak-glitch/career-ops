@@ -31,6 +31,9 @@
 
 ## Processed
 
+### 2026-06-28
+- [x] #1523 | https://snapsoft.recruitee.com/o/data-engineer-2 | SnapSoft | AI/ML Engineer | Budapest, Hungary — hybrid | 3.0/5 | PDF ✅
+
 ### 2026-06-26
 - [x] #1507 | https://jobs.ashbyhq.com/pragmatike/ee36336a-f7ff-49ab-b79b-f4d29b819006 | Pragmatike | AI Infrastructure Engineer (GPU) Remote EMEA | Remote EMEA (recruiter: Ukraine) | 3.0/5 | PDF ✅
 - [x] #1498 | https://jobs.lever.co/mistral/e6accd7d-27d5-45f0-9f35-3454064374af | Mistral AI | Applied AI, Machine Learning Engineer | Seoul, South Korea — On-site | 3.6/5 | PDF ✅

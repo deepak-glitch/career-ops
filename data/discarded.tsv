@@ -704,3 +704,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-27	1512	2026-06-27	ChapsVision	Forward Deployed Engineer - Applied AI & Search	2.7/5	Evaluated	reports/1512-chapsvision-2026-06-27.md	[US] Strong agentic/search match BUT no visa sponsorship (F-1 hard blocker) + 8+ yrs + on-site Indiana
 2026-06-27	1515	2026-06-27	Vannevar Labs	Machine Learning Engineer	2.5/5	Evaluated	reports/1515-vannevar-labs-2026-06-27.md	[US] HARD BLOCKER: U.S. Person status required (F-1 OPT ineligible, defense AI); ML infra/inference focus (Ray/vLLM/TensorRT) adjacent not core.
 2026-06-27	1518	2026-06-27	Group-IB	Machine Learning Developer	2.3/5	Evaluated	reports/1518-group-ib-2026-06-27.md	[Intl] Two hard gaps: no Graph ML (NetworkX/PyG/Neo4j) + fraud/AML domain mismatch; EMEA auth flag.
+2026-06-28	1521	2026-06-28	Sezzle	AI Engineer I	2.6/5	Evaluated	reports/1521-sezzle-2026-06-28.md	[Intl] LatAm-only + sub-market comp; do not apply
+2026-06-28	1522	2026-06-28	Modulai	Machine Learning Engineer	2.7/5	Evaluated	reports/1522-modulai-2026-06-28.md	[Intl] Sweden; no visa sponsorship (hard blocker)

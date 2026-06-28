@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1518 | 2026-06-28 | Traversal | AI Engineer (Forward Deployed Engineer) | 3.9/5 | Evaluated | ✅ | [1518](reports/1518-traversal-2026-06-28.md) | [US] FDE/agentic AI SRE; NYC on-site; strong fit |
+| 1519 | 2026-06-28 | Oscilar | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1519](reports/1519-oscilar-2026-06-28.md) | [US] fintech agentic risk; remote US; pre-sales+build |
+| 1520 | 2026-06-28 | Sardine | Forward Deployed AI Engineer | 3.6/5 | Evaluated | ✅ | [1520](reports/1520-sardine-2026-06-28.md) | [US] fintech fraud/AML agents; remote US/CA |
+| 1523 | 2026-06-28 | SnapSoft | AI/ML Engineer | 3.0/5 | Evaluated | ✅ | [1523](reports/1523-snapsoft-2026-06-28.md) | [Intl] Budapest hybrid; strong tech fit; EU auth needed |
 | 1516 | 2026-06-27 | WorkWave | Applied Data Scientist / ML Engineer (Decision Intelligence) | 3.4/5 | Evaluated | ✅ | [1516](reports/1516-workwave-2026-06-27.md) | [US] Solid Applied ML match (Python/PyTorch/MLOps/cloud/A-B testing); remote-US, comp $160-170k+bonus; forecasting/XGBoost minor gaps; sponsorship flag. |
 | 1517 | 2026-06-27 | TensorOps | Junior AI/ML Engineer | 3.2/5 | Evaluated | ✅ | [1517](reports/1517-tensorops-2026-06-27.md) | [Intl] Excellent skills fit (RAG/agents/LangGraph/FastAPI/MLOps) but Portugal residence required (relocation/EU auth) + low comp (€30-35k). |
 | 1512 | 2026-06-27 | causaLens | AI Engineer | 3.7/5 | Evaluated | ✅ | [1512](reports/1512-causalens-ai-engineer-2026-06-27.md) | [Intl] Strong agentic+RAG/FDE match; London hybrid (Hammersmith); comp undisclosed; F-1 OPT UK relocation/sponsorship flag. |
