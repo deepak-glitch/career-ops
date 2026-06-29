@@ -2362,3 +2362,7 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-29T000133Z	step3-verify	warn	verify-pipeline: possible duplicate #885 (3.0,05-18) & #1394 (3.4,06-14) Board of Innovation AI Engineer	fix:ran normalize+dedup+cleanup-bang (no exact dup; distinct dated re-evals); not auto-deleting historical data unattended	outcome:unresolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-29T040116Z	setup	warn	git pull --ff-only failed (diverged local main)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-06-29T040116Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-06-29T040116Z	step1-scan	warn	scan.mjs portal HTTP 404 x5 (Temporal/Lindy/Tinybird/Travelperk/Forto)	fix:portal-side slug change, no action	outcome:skipped
+2026-06-29T040116Z	step3-verify	warn	verify-pipeline possible duplicate #885/#1394 Board of Innovation AI Engineer	fix:normalize+dedup+cleanup-bang ran; 0 exact dups; two distinct dated evals (3.0 vs 3.4) both retain real reports/PDFs	outcome:unresolved
