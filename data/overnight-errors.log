@@ -2370,3 +2370,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-29T080146Z	scan-L3	warn	Cohere Health job 7560537003 redirects to board index (closed)	fix:marked dead in scan-history, not added to pipeline	outcome:skipped
 2026-06-29T080146Z	pdf-gen	warn	Playwright 1.59.1 wanted browser build 1217; only 1194 pre-installed (npm install bumped playwright)	fix:export CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome (built-in override)	outcome:resolved
 2026-06-29T080146Z	verify	warn	verify-pipeline soft-dup warning #1394/#885 (Board of Innovation — AI Engineer), pre-existing, distinct reports/dates/scores	fix:ran normalize-statuses + dedup-tracker (0 removed; not a true dup); left both intact, did not delete prior report	outcome:skipped
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
