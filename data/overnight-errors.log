@@ -2350,3 +2350,13 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-28T200120Z	step3-verify	warn	soft-duplicate #1394/#885 Board of Innovation AI Engineer (two distinct evals, 2026-05-18 & 2026-06-14)	fix:normalize+dedup+cleanup-bang all ran, 0 removed (legit separate reports)	outcome:unresolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-29T000133Z	step1-scan	warn	js-yaml ERR_MODULE_NOT_FOUND from scan.mjs	fix:npm install	outcome:resolved
+2026-06-29T000133Z	step1-scan	warn	scan API HTTP 404 for Temporal	fix:skip company this run (stale ATS slug)	outcome:skipped
+2026-06-29T000133Z	step1-scan	warn	scan API HTTP 404 for Lindy	fix:skip company this run (stale ATS slug)	outcome:skipped
+2026-06-29T000133Z	step1-scan	warn	scan API HTTP 404 for Tinybird	fix:skip company this run (stale ATS slug)	outcome:skipped
+2026-06-29T000133Z	step1-scan	warn	scan API HTTP 404 for Travelperk	fix:skip company this run (stale ATS slug)	outcome:skipped
+2026-06-29T000133Z	step1-scan	warn	scan API HTTP 404 for Forto	fix:skip company this run (stale ATS slug)	outcome:skipped
+2026-06-29T000133Z	step1-scan-L3	warn	L3 surfaced Glean-univgrad + C3-FDE as closed (greenhouse redirect to board/error); GitLab AI Engineer dup of #1061	fix:recorded dead/filtered in scan-history, not added to pipeline	outcome:resolved
+2026-06-29T000133Z	step1-scan-L3	warn	Alongside Junior AI/ML (workable) JD unextractable (SPA + API 404) & defense/clearance likely terminal for F-1 OPT	fix:skipped, not added to pipeline	outcome:skipped
+2026-06-29T000133Z	step2-pipeline	warn	0 net-new in-scope live URLs after dedup (prior overnight ran ~3h earlier, inventory swept)	fix:nothing to evaluate, proceed to maintenance	outcome:resolved
+2026-06-29T000133Z	step3-verify	warn	verify-pipeline: possible duplicate #885 (3.0,05-18) & #1394 (3.4,06-14) Board of Innovation AI Engineer	fix:ran normalize+dedup+cleanup-bang (no exact dup; distinct dated re-evals); not auto-deleting historical data unattended	outcome:unresolved
