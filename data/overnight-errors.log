@@ -2378,3 +2378,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-29T120131Z	step3-merge	warn	merge-tracker skipped Palantir FDE Madrid (company+role dup of #62, 3.7>=2.9)	fix:honored no-duplicate rule; report became orphan	outcome:resolved
 2026-06-29T120131Z	step4-cleanup	warn	orphan low-score report #1526 (2.9, no tracker row)	fix:cleanup-low-scores deleted report+pipeline row, logged discarded.tsv	outcome:resolved
 2026-06-29T120131Z	step3-verify	warn	possible-duplicate #1394/#885 Board of Innovation AI Engineer	fix:ran normalize+dedup; entries are legit re-evals 4wks apart (distinct reports/dates), dedup-tracker declined merge	outcome:skipped
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
