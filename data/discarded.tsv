@@ -709,3 +709,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-28	1526	2026-06-28	Raft	Forward Deployed Engineer	1.5/5	Evaluated	reports/1526-raft-forward-deployed-engineer-2026-06-28.md	[US] Honolulu HI defense; requires US citizenship + active Secret clearance — terminal blocker for F-1 OPT
 2026-06-29	1526	2026-06-29	CaseGuard	Machine Learning Engineer - Computer Vision	2.8/5	Evaluated	reports/1526-caseguard-ml-cv-2026-06-29.md	[US] CV specialist (detection/tracking/face-rec) Arlington VA on-site; core CV+C++ gap; below threshold
 2026-06-29	1526		orphan	orphan	0/5		reports/1526-palantir-fde-madrid-2026-06-29.md	
+2026-06-29	1526		orphan	orphan	0/5		reports/1526-palantir-fde-new-grad-commercial-2026-06-29.md	
+2026-06-29	1527		orphan	orphan	0/5		reports/1527-helsing-ai-research-engineer-3d-cv-2026-06-29.md	

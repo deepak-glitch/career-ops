@@ -28,7 +28,10 @@
 ### 2026-06-26
 
 - [!] https://job-boards.greenhouse.io/cresta/jobs/5097513008 | error: title is Senior Forward Deployed Engineer (AI Agent) UK — filtered (Senior keyword)
+
 ## Processed
+
+### 2026-06-29
 
 ### 2026-06-28
 - [x] #1523 | https://snapsoft.recruitee.com/o/data-engineer-2 | SnapSoft | AI/ML Engineer | Budapest, Hungary — hybrid | 3.0/5 | PDF ✅

@@ -2380,3 +2380,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-29T120131Z	step3-verify	warn	possible-duplicate #1394/#885 Board of Innovation AI Engineer	fix:ran normalize+dedup; entries are legit re-evals 4wks apart (distinct reports/dates), dedup-tracker declined merge	outcome:skipped
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-29T160105Z	step1-scan	warn	npm dep missing js-yaml (scan.mjs ERR_MODULE_NOT_FOUND)	fix:npm install once then retry	outcome:resolved
+2026-06-29T160105Z	step1-scan-US	warn	5 portals HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto)	fix:external portal outage, not auto-fixable; scanner continued	outcome:skipped
+2026-06-29T160105Z	step1-scan-Intl	warn	5 portals HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto)	fix:external portal outage, not auto-fixable; scanner continued	outcome:skipped
+2026-06-29T160105Z	step1-L3	warn	L3 WebSearch returned only already-evaluated roles (pipeline saturated)	fix:dedup vs tracker+history, 0 net-new from L3	outcome:resolved
+2026-06-29T160105Z	step3-verify	warn	verify-pipeline: possible duplicate #1394/#885 (Board of Innovation AI Engineer, May18 vs Jun14 re-evals)	fix:ran normalize+dedup-tracker+cleanup-bang; dedup-tracker found 0 to remove (distinct report URLs, pre-existing)	outcome:unresolved
