@@ -45,6 +45,9 @@
 
 ## Processed
 
+### 2026-06-29
+- [x] #1525 | https://jobs.ashbyhq.com/beaconsoftware/dadb4654-dc89-4bc2-ae32-7d226423fb7d | Beacon Software | Forward Deployed Engineer | New York, NY — on-site/embedded | 3.6/5 | PDF ✅
+
 ### 2026-06-28
 - [x] #166 (re-list) | https://jobs.lever.co/regal.ai/7bbea0f0-9f63-4cc8-8d02-8eeec018bbcd | Regal | AI Forward Deployed Engineer | New York, NY — hybrid | 3.6/5 | PDF ✅ | same job ID as #166 (old regalvoice slug); kept #166
 - [x] #1524 | https://apply.workable.com/rockstar-3/j/C6B0004466 | Rockstar (data-intel client) | Jr AI Engineer | Remote — US | 3.5/5 | PDF ✅

@@ -707,3 +707,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-28	1521	2026-06-28	Sezzle	AI Engineer I	2.6/5	Evaluated	reports/1521-sezzle-2026-06-28.md	[Intl] LatAm-only + sub-market comp; do not apply
 2026-06-28	1522	2026-06-28	Modulai	Machine Learning Engineer	2.7/5	Evaluated	reports/1522-modulai-2026-06-28.md	[Intl] Sweden; no visa sponsorship (hard blocker)
 2026-06-28	1526	2026-06-28	Raft	Forward Deployed Engineer	1.5/5	Evaluated	reports/1526-raft-forward-deployed-engineer-2026-06-28.md	[US] Honolulu HI defense; requires US citizenship + active Secret clearance — terminal blocker for F-1 OPT
+2026-06-29	1526	2026-06-29	CaseGuard	Machine Learning Engineer - Computer Vision	2.8/5	Evaluated	reports/1526-caseguard-ml-cv-2026-06-29.md	[US] CV specialist (detection/tracking/face-rec) Arlington VA on-site; core CV+C++ gap; below threshold

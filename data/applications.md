@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1525 | 2026-06-29 | Beacon Software | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1525](reports/1525-beacon-software-fde-2026-06-29.md) | [US] FDE/agentic into PE-ops portcos; NYC on-site/embedded; $550M-funded; agentic+delivery strong, PE domain ramp |
 | 1524 | 2026-06-28 | Rockstar (data-intel client) | Jr AI Engineer | 3.5/5 | Evaluated | ✅ | [1524](reports/1524-rockstar-jr-ai-engineer-2026-06-28.md) | [US] Remote US; staffing-fronted data-intelligence/security-analytics client; RAG+eval+embeddings bullseye, 0-2yr Jr title (candidate over-leveled), no comp, verify end-client+sponsorship |
 | 1518 | 2026-06-28 | Traversal | AI Engineer (Forward Deployed Engineer) | 3.9/5 | Evaluated | ✅ | [1518](reports/1518-traversal-2026-06-28.md) | [US] FDE/agentic AI SRE; NYC on-site; strong fit |
 | 1519 | 2026-06-28 | Oscilar | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1519](reports/1519-oscilar-2026-06-28.md) | [US] fintech agentic risk; remote US; pre-sales+build |
