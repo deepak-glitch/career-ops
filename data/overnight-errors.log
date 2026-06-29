@@ -2391,3 +2391,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-29T200125Z	step1-scan	warn	5 companies HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto)	fix:scan.mjs skips per-company failures, dead ATS slugs	outcome:skipped
 2026-06-29T200125Z	step2-pdf	warn	Playwright chromium_headless_shell-1217 missing	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome (env pre-installed, no playwright install)	outcome:resolved
 2026-06-29T200125Z	step3-verify	warn	verify-pipeline possible-duplicate #1394/#885 (Board of Innovation AI Engineer)	fix:ran normalize-statuses+dedup-tracker (0 removed); rows are distinct evals (2026-05-18 vs 2026-06-14, different reports/URLs)	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
