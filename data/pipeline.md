@@ -43,9 +43,16 @@
 - [!] https://jobs.ashbyhq.com/Chestnut/5d4fd1ec-60f3-4669-a2d2-31adf2654865 | error: Ashby GraphQL jobPosting=null (dead — Chestnut FDE Entry-Level)
 - [!] https://jobs.ashbyhq.com/elevenlabs/dd26398c-54d8-4200-a181-65e6203ec9a6 | error: Ashby GraphQL jobPosting=null (dead — ElevenLabs FDE Recent Graduate)
 
+### 2026-06-29
+
+- [!] https://jobs.ashbyhq.com/elevenlabs/1f668ed5-49e9-4726-881f-7818733103b1 | error: title "Forward Deployed Creative" is an AI Creative Director (creative/marketing production role) — not an engineering archetype (filtered)
+- [!] https://job-boards.greenhouse.io/truveta/jobs/5978375004 | error: Postdoctoral Research program — explicitly requires recent PhD; candidate holds MS (hard credential gate, filtered)
+- [!] https://job-boards.greenhouse.io/truveta/jobs/5424558004 | error: Postdoctoral Research program — explicitly requires recent PhD; candidate holds MS (hard credential gate, filtered)
+
 ## Processed
 
 ### 2026-06-29
+- [x] #1526 | https://jobs.ashbyhq.com/neara/9e86988e-45d9-40a6-93af-7e7cb8392b22 | Neara | Forward Deployed Engineer - USA (Portland) | Portland, OR — US (embedded) | 3.7/5 | PDF ✅
 - [x] #1525 | https://jobs.ashbyhq.com/beaconsoftware/dadb4654-dc89-4bc2-ae32-7d226423fb7d | Beacon Software | Forward Deployed Engineer | New York, NY — on-site/embedded | 3.6/5 | PDF ✅
 
 ### 2026-06-28

@@ -32,6 +32,7 @@
 ## Processed
 
 ### 2026-06-29
+- [x] #1527 | https://jobs.lever.co/weloglobal/4472ea53-9c4e-4cac-9ff2-85d6047f1f06 | Welo Global | AI/ML Research & Development Engineer | Greece / Romania — on-site | 3.0/5 | PDF ✅
 
 ### 2026-06-28
 - [x] #1523 | https://snapsoft.recruitee.com/o/data-engineer-2 | SnapSoft | AI/ML Engineer | Budapest, Hungary — hybrid | 3.0/5 | PDF ✅
