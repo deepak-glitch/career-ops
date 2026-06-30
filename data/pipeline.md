@@ -57,6 +57,7 @@
 ## Processed
 
 ### 2026-06-30
+- [x] #1530 | https://job-boards.greenhouse.io/celonis/jobs/7788761003 | Celonis | Machine Learning Research Engineer | New York, NY — hybrid | 3.5/5 | PDF ✅
 - [x] #1528 | https://job-boards.greenhouse.io/10alabs/jobs/4273194009 | 10a Labs | Machine Learning Engineer | Washington, D.C. — Remote US | 4.3/5 | PDF ✅
 - [x] #1529 | https://builtin.com/job/ml-engineer-computer-vision-remote-position/2321406 | Entefy | ML Engineer, Computer Vision | Remote, USA | 3.3/5 | PDF ✅
 

@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1530 | 2026-06-30 | Celonis | Machine Learning Research Engineer | 3.5/5 | Evaluated | ✅ | [1530](reports/1530-celonis-ml-research-engineer-2026-06-30.md) | [US] NYC hybrid; $161-189K + RSUs; GenAI/RAG/LLM + classical ML + MLOps strong; graph-DB + foundation-model-research gaps; no visa sponsorship (F-1 OPT); relocation |
 | 1529 | 2026-06-30 | Entefy | ML Engineer, Computer Vision | 3.3/5 | Evaluated | ✅ | [1529](reports/1529-entefy-2026-06-30.md) | [US] Multimodal/video CV fit; image-domain CV is the gap; remote US, comp undisclosed |
 | 1528 | 2026-06-30 | 10a Labs | Machine Learning Engineer | 4.3/5 | Evaluated | ✅ | [1528](reports/1528-10a-labs-2026-06-30.md) | [US] Safety/abuse ML + LLM eval + agentic; strong fit (content-safety 42%, RAGAS); remote US |
 | 1527 | 2026-06-29 | Welo Global | AI/ML Research & Development Engineer | 3.0/5 | Evaluated | ✅ | [1527](reports/1527-welo-global-2026-06-29.md) | [Intl] MT/LLM-finetuning fit (MangaLens, QLoRA); capped by Greece/Romania work-auth blocker |
