@@ -2424,3 +2424,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-30T160706Z	step2-pdf	warn	Playwright 1.59.1 expects chromium build 1217 but env ships 1194 (chrome-headless-shell missing)	fix:symlinked chromium-1217 + chromium_headless_shell-1217 dirs+renamed binary to installed 1194 build	outcome:resolved
 2026-06-30T160706Z	step3-verify	warn	verify flags #1532/#1533 (n8n FDE) as possible duplicate	fix:NOT deduped — distinct US(Boston) vs Intl(Germany) postings w/ different Ashby IDs+work-auth; intentional two-track output; dedup would wrongly delete #1533	outcome:resolved
 2026-06-30T160706Z	step3-verify	warn	verify flags #1394/#885 (Board of Innovation) as possible duplicate	fix:pre-existing before this run; dedup dry-run does not flag for removal; left untouched	outcome:skipped
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
