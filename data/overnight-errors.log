@@ -2407,3 +2407,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-30T040130Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
 2026-06-30T040130Z	step2-pdf	warn	generate-pdf Playwright 1.59.1 expects chromium-1217 missing (only 1194 present)	fix:set CHROMIUM_EXECUTABLE_PATH to /opt/pw-browsers/chromium-1194 and retry	outcome:pending
 2026-06-30T040130Z	step2-pdf	warn	Celonis PDF retry with chromium-1194	fix:CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
