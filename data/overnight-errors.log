@@ -2412,3 +2412,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-30T080112Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
 2026-06-30T080112Z	step2-pdf	warn	Playwright chromium build mismatch (pw 1.59.1 vs preinstalled 1194)	fix:CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
 2026-06-30T080112Z	step3-verify	warn	verify heuristic flags possible dup #1394/#885 (Board of Innovation AI Engineer)	fix:ran dedup-tracker (authoritative)=0 removed; confirmed distinct re-evals (5/18 vs 6/14)	outcome:resolved (benign pre-existing, intentional re-eval)
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
