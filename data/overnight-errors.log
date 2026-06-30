@@ -2393,3 +2393,12 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-29T200125Z	step3-verify	warn	verify-pipeline possible-duplicate #1394/#885 (Board of Innovation AI Engineer)	fix:ran normalize-statuses+dedup-tracker (0 removed); rows are distinct evals (2026-05-18 vs 2026-06-14, different reports/URLs)	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-30T000115Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-30T000115Z	step1-scan	warn	5 company boards HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto) both tracks	fix:scanner skips dead boards, benign	outcome:skipped
+2026-06-30T000115Z	step1-scan-L3	warn	Clarifai MLOps greenhouse 404 (dead posting)	fix:marked dead in scan-history, not evaluated	outcome:skipped
+2026-06-30T000115Z	step1-scan-L3	warn	Agerpoint ML/AI inactive (removed by employer)	fix:marked dead in scan-history	outcome:skipped
+2026-06-30T000115Z	step2-extract	warn	Leidos JD unreachable (Himalayas index only)	fix:WebFetch tried; left as - [!] in US Pendientes for retry	outcome:unresolved
+2026-06-30T000115Z	step2-extract	warn	CIeNET JD unreachable (Workable SPA + API 404)	fix:WebFetch+API tried; left as - [!] in US Pendientes for retry	outcome:unresolved
+2026-06-30T000115Z	step2-extract	warn	1950Labs JD unreachable (Himalayas index only)	fix:WebFetch tried; left as - [!] in US Pendientes for retry	outcome:unresolved
+2026-06-30T000115Z	step2-pdf	warn	Playwright 1.59.1 expected chromium rev mismatch (pre-installed rev 1194)	fix:pinned-launch via executablePath=/opt/pw-browsers/chromium in scratchpad wrapper (no repo change)	outcome:resolved
+2026-06-30T000115Z	step3-merge	warn	merge-tracker reassigned 10a Labs row to #1530 (mismatch vs report #1528)	fix:renumbered tracker row 1530->1528 to match report file/link	outcome:resolved

@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1529 | 2026-06-30 | Entefy | ML Engineer, Computer Vision | 3.3/5 | Evaluated | ✅ | [1529](reports/1529-entefy-2026-06-30.md) | [US] Multimodal/video CV fit; image-domain CV is the gap; remote US, comp undisclosed |
+| 1528 | 2026-06-30 | 10a Labs | Machine Learning Engineer | 4.3/5 | Evaluated | ✅ | [1528](reports/1528-10a-labs-2026-06-30.md) | [US] Safety/abuse ML + LLM eval + agentic; strong fit (content-safety 42%, RAGAS); remote US |
 | 1527 | 2026-06-29 | Welo Global | AI/ML Research & Development Engineer | 3.0/5 | Evaluated | ✅ | [1527](reports/1527-welo-global-2026-06-29.md) | [Intl] MT/LLM-finetuning fit (MangaLens, QLoRA); capped by Greece/Romania work-auth blocker |
 | 1525 | 2026-06-29 | Beacon Software | Forward Deployed Engineer | 3.6/5 | Evaluated | ✅ | [1525](reports/1525-beacon-software-fde-2026-06-29.md) | [US] FDE/agentic into PE-ops portcos; NYC on-site/embedded; $550M-funded; agentic+delivery strong, PE domain ramp |
 | 1524 | 2026-06-28 | Rockstar (data-intel client) | Jr AI Engineer | 3.5/5 | Evaluated | ✅ | [1524](reports/1524-rockstar-jr-ai-engineer-2026-06-28.md) | [US] Remote US; staffing-fronted data-intelligence/security-analytics client; RAG+eval+embeddings bullseye, 0-2yr Jr title (candidate over-leveled), no comp, verify end-client+sponsorship |

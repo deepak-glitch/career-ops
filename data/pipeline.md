@@ -7,6 +7,11 @@
 
 ## Pending
 
+### 2026-06-30
+
+- [!] https://himalayas.app/companies/leidos/jobs/ai-ml-engineer | error: Himalayas index page only — direct JD unreachable (retry next run)
+- [!] https://himalayas.app/companies/1950labs/jobs/ml-engineer | error: Himalayas index page only — direct JD unreachable (retry next run)
+
 ### 2026-06-13
 
 - [!] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | error: Ashby GraphQL jobPosting=null (dead)
@@ -50,6 +55,10 @@
 - [!] https://job-boards.greenhouse.io/truveta/jobs/5424558004 | error: Postdoctoral Research program — explicitly requires recent PhD; candidate holds MS (hard credential gate, filtered)
 
 ## Processed
+
+### 2026-06-30
+- [x] #1528 | https://job-boards.greenhouse.io/10alabs/jobs/4273194009 | 10a Labs | Machine Learning Engineer | Washington, D.C. — Remote US | 4.3/5 | PDF ✅
+- [x] #1529 | https://builtin.com/job/ml-engineer-computer-vision-remote-position/2321406 | Entefy | ML Engineer, Computer Vision | Remote, USA | 3.3/5 | PDF ✅
 
 ### 2026-06-29
 - [x] #1526 | https://jobs.ashbyhq.com/neara/9e86988e-45d9-40a6-93af-7e7cb8392b22 | Neara | Forward Deployed Engineer - USA (Portland) | Portland, OR — US (embedded) | 3.7/5 | PDF ✅
