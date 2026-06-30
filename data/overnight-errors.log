@@ -2402,3 +2402,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-30T000115Z	step2-extract	warn	1950Labs JD unreachable (Himalayas index only)	fix:WebFetch tried; left as - [!] in US Pendientes for retry	outcome:unresolved
 2026-06-30T000115Z	step2-pdf	warn	Playwright 1.59.1 expected chromium rev mismatch (pre-installed rev 1194)	fix:pinned-launch via executablePath=/opt/pw-browsers/chromium in scratchpad wrapper (no repo change)	outcome:resolved
 2026-06-30T000115Z	step3-merge	warn	merge-tracker reassigned 10a Labs row to #1530 (mismatch vs report #1528)	fix:renumbered tracker row 1530->1528 to match report file/link	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
