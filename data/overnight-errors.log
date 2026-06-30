@@ -2426,3 +2426,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-06-30T160706Z	step3-verify	warn	verify flags #1394/#885 (Board of Innovation) as possible duplicate	fix:pre-existing before this run; dedup dry-run does not flag for removal; left untouched	outcome:skipped
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-06-30T200731Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-06-30T200731Z	step3-verify	warn	2 dup warnings (n8n 1532/1533, BoI 1394/885)	fix:left as-is — n8n is a legitimate US/Intl split; dedup-tracker would destroy valid Intl entry #1533	outcome:skipped

@@ -12,7 +12,6 @@
 - [!] https://himalayas.app/companies/leidos/jobs/ai-ml-engineer | error: Himalayas index page only — direct JD unreachable (retry next run)
 - [!] https://himalayas.app/companies/1950labs/jobs/ml-engineer | error: Himalayas index page only — direct JD unreachable (retry next run)
 
-
 ### 2026-06-13
 
 - [!] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | error: Ashby GraphQL jobPosting=null (dead)
