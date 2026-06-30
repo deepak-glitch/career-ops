@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1531 | 2026-06-30 | Particle41 | AI Engineer | 4.0/5 | Evaluated | ✅ | [1531](reports/1531-particle41-2026-06-30.md) | [US] USA-Remote Applied AI delivery; Python/PyTorch/LangChain + RAG + agentic + fine-tuning; 3+ yr band clean fit; comp undisclosed (services firm, clarify W-2 vs contract); clean F-1 remote-US fit |
 | 1530 | 2026-06-30 | Celonis | Machine Learning Research Engineer | 3.5/5 | Evaluated | ✅ | [1530](reports/1530-celonis-ml-research-engineer-2026-06-30.md) | [US] NYC hybrid; $161-189K + RSUs; GenAI/RAG/LLM + classical ML + MLOps strong; graph-DB + foundation-model-research gaps; no visa sponsorship (F-1 OPT); relocation |
 | 1529 | 2026-06-30 | Entefy | ML Engineer, Computer Vision | 3.3/5 | Evaluated | ✅ | [1529](reports/1529-entefy-2026-06-30.md) | [US] Multimodal/video CV fit; image-domain CV is the gap; remote US, comp undisclosed |
 | 1528 | 2026-06-30 | 10a Labs | Machine Learning Engineer | 4.3/5 | Evaluated | ✅ | [1528](reports/1528-10a-labs-2026-06-30.md) | [US] Safety/abuse ML + LLM eval + agentic; strong fit (content-safety 42%, RAGAS); remote US |
