@@ -12,6 +12,7 @@
 - [!] https://himalayas.app/companies/leidos/jobs/ai-ml-engineer | error: Himalayas index page only — direct JD unreachable (retry next run)
 - [!] https://himalayas.app/companies/1950labs/jobs/ml-engineer | error: Himalayas index page only — direct JD unreachable (retry next run)
 
+
 ### 2026-06-13
 
 - [!] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | error: Ashby GraphQL jobPosting=null (dead)
@@ -57,6 +58,7 @@
 ## Processed
 
 ### 2026-06-30
+- [x] #1532 | https://jobs.ashbyhq.com/n8n/1880d1b2-b022-466c-b5fe-002bc779bf6e | n8n | Forward Deployed Engineer | Boston, USA — Remote | 3.5/5 | PDF ✅
 - [x] #1531 | https://job-boards.greenhouse.io/particle41llc/jobs/5284201008 | Particle41 | AI Engineer | USA — Remote | 4.0/5 | PDF ✅
 - [x] #1530 | https://job-boards.greenhouse.io/celonis/jobs/7788761003 | Celonis | Machine Learning Research Engineer | New York, NY — hybrid | 3.5/5 | PDF ✅
 - [x] #1528 | https://job-boards.greenhouse.io/10alabs/jobs/4273194009 | 10a Labs | Machine Learning Engineer | Washington, D.C. — Remote US | 4.3/5 | PDF ✅

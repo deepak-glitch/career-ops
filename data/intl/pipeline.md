@@ -28,10 +28,10 @@
 ### 2026-06-26
 
 - [!] https://job-boards.greenhouse.io/cresta/jobs/5097513008 | error: title is Senior Forward Deployed Engineer (AI Agent) UK — filtered (Senior keyword)
-
 ## Processed
 
 ### 2026-06-30
+- [x] #1533 | https://jobs.ashbyhq.com/n8n/bbf1a4a9-322e-4112-99fb-70153f41083e | n8n | Forward Deployed Engineer | Germany — Remote | 3.3/5 | PDF ✅
 
 ### 2026-06-29
 - [x] #1527 | https://jobs.lever.co/weloglobal/4472ea53-9c4e-4cac-9ff2-85d6047f1f06 | Welo Global | AI/ML Research & Development Engineer | Greece / Romania — on-site | 3.0/5 | PDF ✅

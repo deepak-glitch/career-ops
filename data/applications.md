@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1532 | 2026-06-30 | n8n | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1532](reports/1532-n8n-2026-06-30.md) | [US] Boston remote (~30-40% Europe travel); founding FDE at n8n ($5.2bn). Full-stack/integration+automation fit, Applied-AI depth a bonus; internal-vs-external client gap + travel; no comp band |
+| 1533 | 2026-06-30 | n8n | Forward Deployed Engineer | 3.3/5 | Evaluated | ✅ | [1533](reports/1533-n8n-2026-06-30.md) | [Intl] Germany remote; same founding-FDE role as #1532. Strong skill fit but EU work-auth gap (F-1 OPT) is the drag; confirm sponsorship/relocation; no comp band |
 | 1531 | 2026-06-30 | Particle41 | AI Engineer | 4.0/5 | Evaluated | ✅ | [1531](reports/1531-particle41-2026-06-30.md) | [US] USA-Remote Applied AI delivery; Python/PyTorch/LangChain + RAG + agentic + fine-tuning; 3+ yr band clean fit; comp undisclosed (services firm, clarify W-2 vs contract); clean F-1 remote-US fit |
 | 1530 | 2026-06-30 | Celonis | Machine Learning Research Engineer | 3.5/5 | Evaluated | ✅ | [1530](reports/1530-celonis-ml-research-engineer-2026-06-30.md) | [US] NYC hybrid; $161-189K + RSUs; GenAI/RAG/LLM + classical ML + MLOps strong; graph-DB + foundation-model-research gaps; no visa sponsorship (F-1 OPT); relocation |
 | 1529 | 2026-06-30 | Entefy | ML Engineer, Computer Vision | 3.3/5 | Evaluated | ✅ | [1529](reports/1529-entefy-2026-06-30.md) | [US] Multimodal/video CV fit; image-domain CV is the gap; remote US, comp undisclosed |
