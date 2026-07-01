@@ -2462,3 +2462,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-01T160717Z	step3-verify	warn	verify #1394/#885 Board of Innovation same-role possible-dup	fix:ran normalize+dedup+cleanup-bang; dedup intentionally kept both (distinct Workable job IDs 531B141B6C vs 50EB96733C, diff dates/scores, pre-existing)	outcome:resolved
 2026-07-01T160717Z	step3-dedup	warn	dedup removed #1533 n8n FDE tracker row (dup of #1532)	fix:node dedup-tracker.mjs	outcome:resolved
 2026-07-01T160717Z	step4-cleanup	warn	applications.md.bak stray backup from dedup-tracker	fix:rm data/applications.md.bak (Playbook #7)	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
