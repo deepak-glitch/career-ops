@@ -2454,3 +2454,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-01T120728Z	step2-pipeline	warn	WeAssist.io AI Engineer-MW out of region (Philippines/AEST, Australian client)	fix:marked dead in scan-history, not evaluated	outcome:skipped
 2026-07-01T120728Z	step2-pdf	warn	Playwright pinned chromium_headless_shell-1217 missing (present:1194)	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
 2026-07-01T120728Z	step3-verify	warn	2 possible-duplicate warnings: n8n #1532(US)/#1533(Intl) region-split; BoI #885/#1394 time-separated re-eval	fix:normalize(0)+bang-cleanup ran; declined destructive dedup (would delete valid Intl-track #1533)	outcome:skipped
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
