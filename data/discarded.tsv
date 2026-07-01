@@ -714,3 +714,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-06-30	1532	2026-06-30	Wayve	Software Engineer (Product, AI Portal)	2.9/5	Evaluated	reports/1532-wayve-2026-06-30.md	[Intl] London hybrid; off-archetype full-stack product SWE + UK relocation for F-1 OPT; recommend against
 2026-06-30	1535	2026-06-30	AutogenAI	Founding Forward Deployed Engineer, AI	2.4/5	Evaluated	reports/1535-autogenai-2026-06-30.md	[US] US citizenship + FedRAMP required — categorical block for F-1 OPT; do not apply
 2026-06-30	1534		orphan	orphan	0/5		reports/1534-scale-ai-public-sector-2026-06-30.md	
+2026-07-01	1534	2026-07-01	HelloFresh	Automation Technician	1/5	Evaluated	reports/1534-hellofresh-automation-technician-2026-07-01.md	[US] Newark NJ on-site overnight; industrial maintenance/robotics tech — NOT an AI/ML/software match; filter slip on "Automation". Below threshold, will be cleaned up.
