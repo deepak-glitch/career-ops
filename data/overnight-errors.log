@@ -2448,3 +2448,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-01T080705Z	step1-scan-us	warn	6 portal HTTP 404 (Temporal/Lindy/Tinybird/Travelperk/Forto/Edison Scientific)	fix:known board-moved noise, skipped	outcome:skipped
 2026-07-01T080705Z	step2-pdf	warn	Playwright headless-shell binary missing (chromium_headless_shell-1217)	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome and retry	outcome:resolved
 2026-07-01T080705Z	step3-verify	warn	verify-pipeline 2 dup warnings: #1532/#1533 (n8n US/Intl), #1394/#885 (Board of Innovation Intl)	fix:normalize-statuses+cleanup-low-scores+cleanup-bang-rows ran; skipped region-blind dedup-tracker to protect legitimate US/Intl n8n pair; both warnings pre-existing (prior runs)	outcome:skipped
+2026-07-01T120728Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-07-01T120728Z	step1-scan-us	warn	6 company boards HTTP 404 (Temporal/Lindy/Tinybird/Travelperk/Forto/EdisonScientific)	fix:scanner skipped dead boards; routine	outcome:skipped
+2026-07-01T120728Z	step1-scan-intl	warn	6 company boards HTTP 404 (same set)	fix:scanner skipped dead boards; routine	outcome:skipped
+2026-07-01T120728Z	step2-pipeline	warn	WeAssist.io AI Engineer-MW out of region (Philippines/AEST, Australian client)	fix:marked dead in scan-history, not evaluated	outcome:skipped
+2026-07-01T120728Z	step2-pdf	warn	Playwright pinned chromium_headless_shell-1217 missing (present:1194)	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
+2026-07-01T120728Z	step3-verify	warn	2 possible-duplicate warnings: n8n #1532(US)/#1533(Intl) region-split; BoI #885/#1394 time-separated re-eval	fix:normalize(0)+bang-cleanup ran; declined destructive dedup (would delete valid Intl-track #1533)	outcome:skipped

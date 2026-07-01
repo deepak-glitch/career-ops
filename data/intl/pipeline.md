@@ -30,6 +30,9 @@
 - [!] https://job-boards.greenhouse.io/cresta/jobs/5097513008 | error: title is Senior Forward Deployed Engineer (AI Agent) UK — filtered (Senior keyword)
 ## Processed
 
+### 2026-07-01
+- [x] #1538 | https://himalayas.app/companies/teramind/jobs/generative-ai-engineer | Teramind | Generative AI Engineer | Remote — work from anywhere (LATAM-tagged; FL HQ) | 3.6/5 | PDF ✅
+
 ### 2026-06-30
 - [x] #1533 | https://jobs.ashbyhq.com/n8n/bbf1a4a9-322e-4112-99fb-70153f41083e | n8n | Forward Deployed Engineer | Germany — Remote | 3.3/5 | PDF ✅
 

@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1535 | 2026-07-01 | Norbert Health | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [1535](reports/1535-norbert-health-2026-07-01.md) | [US] Brooklyn NY — clinical robot fleet; strong healthcare RAG + QLoRA + eval-harness fit; edge/robotics deployment gap |
+| 1536 | 2026-07-01 | Azumo | AI Software Engineer (Generative AI) | 3.9/5 | Evaluated | ✅ | [1536](reports/1536-azumo-2026-07-01.md) | [US] Remote consultancy; near-complete GenAI/LLMOps stack match; NIST RMF/FedRAMP vocab gap; nearshore comp caveat |
+| 1537 | 2026-07-01 | Northramp | AI Engineer (Mid) / Application Architect | 3.5/5 | Evaluated | ✅ | [1537](reports/1537-northramp-2026-07-01.md) | [US] Remote DC; agentic apps on GCP; federal-context clearance/citizenship risk for F-1 OPT; JD truncated |
+| 1538 | 2026-07-01 | Teramind | Generative AI Engineer | 3.6/5 | Evaluated | ✅ | [1538](reports/1538-teramind-2026-07-01.md) | [Intl] Remote-global (LATAM-tagged); strong RAG+agents+fine-tune fit; 5+yr bar + US-W2 employment caveat |
 | 1534 | 2026-07-01 | NineTwoThree AI Studio | ML Engineer (Applied AI) | 4.3/5 | Evaluated | ✅ | [1534](reports/1534-ninetwothree-2026-07-01.md) | [US] Worldwide remote (US-HQ MA); strong Applied AI/LLM + eval + agentic fit; clarify W-2 vs contractor for OPT |
 | 1532 | 2026-06-30 | n8n | Forward Deployed Engineer | 3.5/5 | Evaluated | ✅ | [1532](reports/1532-n8n-2026-06-30.md) | [US] Boston remote (~30-40% Europe travel); founding FDE at n8n ($5.2bn). Full-stack/integration+automation fit, Applied-AI depth a bonus; internal-vs-external client gap + travel; no comp band |
 | 1533 | 2026-06-30 | n8n | Forward Deployed Engineer | 3.3/5 | Evaluated | ✅ | [1533](reports/1533-n8n-2026-06-30.md) | [Intl] Germany remote; same founding-FDE role as #1532. Strong skill fit but EU work-auth gap (F-1 OPT) is the drag; confirm sponsorship/relocation; no comp band |

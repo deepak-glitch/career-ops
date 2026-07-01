@@ -57,6 +57,9 @@
 ## Processed
 
 ### 2026-07-01
+- [x] #1535 | https://norbert-health.breezy.hr/p/874c21a483b3-applied-ai-engineer | Norbert Health | Applied AI Engineer | Brooklyn, NY, USA — on-site/hybrid | 4.0/5 | PDF ✅
+- [x] #1536 | https://apply.workable.com/azumo/j/DC928C07B2/ | Azumo | AI Software Engineer (Generative AI) | Remote — US-friendly (SF HQ) | 3.9/5 | PDF ✅
+- [x] #1537 | https://apply.workable.com/northramp/j/FEF3385A60 | Northramp | AI Engineer (Mid) / Application Architect | Remote — US (Washington, D.C.) | 3.5/5 | PDF ✅
 - [x] #1534 | https://apply.workable.com/ninetwothree-ai-studio/j/86730290F5 | NineTwoThree AI Studio | ML Engineer (Applied AI) | Worldwide — Remote (US-HQ MA) | 4.3/5 | PDF ✅
 
 ### 2026-06-30
