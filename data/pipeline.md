@@ -57,6 +57,7 @@
 ## Processed
 
 ### 2026-07-01
+- [x] #1534 | https://apply.workable.com/ninetwothree-ai-studio/j/86730290F5 | NineTwoThree AI Studio | ML Engineer (Applied AI) | Worldwide — Remote (US-HQ MA) | 4.3/5 | PDF ✅
 
 ### 2026-06-30
 - [x] #1532 | https://jobs.ashbyhq.com/n8n/1880d1b2-b022-466c-b5fe-002bc779bf6e | n8n | Forward Deployed Engineer | Boston, USA — Remote | 3.5/5 | PDF ✅
