@@ -2442,3 +2442,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-01T040651Z	step1-L3	warn	L3 net-new Kilo Code FDE — Ashby GraphQL jobPosting=null + WebFetch index-only	fix:unreachable/dead, not added	outcome:skipped
 2026-07-01T040651Z	step2-pipeline	warn	0 live net-new URLs and 0 unchecked pending after scan (only dead bang rows remain)	fix:nothing to evaluate — proceed per Playbook #9	outcome:resolved
 2026-07-01T040651Z	step3-verify	warn	verify: 2 possible-dup warnings (#1532/#1533 n8n US/Intl split; #1394/#885 BoI AI Engineer re-eval diff dates)	fix:confirmed intentional two-track/re-eval splits — dedup-tracker --dry-run would wrongly delete Intl #1533 (ignores Region); skipped destructive merge; normalize-statuses no-op (0 changes)	outcome:skipped
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
