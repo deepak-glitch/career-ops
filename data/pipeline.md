@@ -53,7 +53,6 @@
 - [!] https://jobs.ashbyhq.com/elevenlabs/1f668ed5-49e9-4726-881f-7818733103b1 | error: title "Forward Deployed Creative" is an AI Creative Director (creative/marketing production role) — not an engineering archetype (filtered)
 - [!] https://job-boards.greenhouse.io/truveta/jobs/5978375004 | error: Postdoctoral Research program — explicitly requires recent PhD; candidate holds MS (hard credential gate, filtered)
 - [!] https://job-boards.greenhouse.io/truveta/jobs/5424558004 | error: Postdoctoral Research program — explicitly requires recent PhD; candidate holds MS (hard credential gate, filtered)
-
 ## Processed
 
 ### 2026-07-01

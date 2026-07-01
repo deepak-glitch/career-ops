@@ -2464,3 +2464,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-01T160717Z	step4-cleanup	warn	applications.md.bak stray backup from dedup-tracker	fix:rm data/applications.md.bak (Playbook #7)	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-01T200704Z	step1-scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-07-01T200704Z	step1-scan	warn	6 companies HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,EdisonScientific) ATS endpoint moved	fix:none-scanner-noise-known	outcome:skipped
+2026-07-01T200704Z	step2-pipeline	warn	Aledade Practice Transformation Specialist non-archetype slip (field healthcare, Market Performance, NJ-only)	fix:removed from Pendientes, scan-history added->filtered per Filter Hygiene	outcome:resolved
+2026-07-01T200704Z	step2-pipeline	warn	Aledade JD WebFetch HTTP 403	fix:lever-api fallback succeeded	outcome:resolved
+2026-07-01T200704Z	step3-verify	warn	possible dup #1394/#885 Board of Innovation AI Engineer (2 re-evals, scores 3.4 vs 3.0)	fix:normalize+dedup+cleanup-bang ran; dedup-tracker reports 0 removable (legit separate evals); pre-existing inherited state	outcome:unresolved
