@@ -33,6 +33,8 @@
 
 ### 2026-07-02
 - [x] #1541 | https://jobs.ashbyhq.com/brainco/5a600fc4-fe72-4d22-8cd9-e3b2e9325611 | BrainCo | AI Platform Engineer, Infrastructure | Abu Dhabi — on-site | 3.4/5 | PDF ✅ | MLOps fit; 5+yr senior-leaning
+- [x] #1545 | https://accrete-ai.breezy.hr/p/c1b31689e69a-applied-research-engineer | Accrete AI | Applied AI Research Engineer | Mumbai, IN — on-site | 3.4/5 | PDF ✅ | agentic+RAG+fine-tuning fit; India relocation for US-based OPT
+- [x] #1546 | https://job-boards.greenhouse.io/scaleai/jobs/4711544005 | Scale AI | Machine Learning Engineer, Platform | London, UK — on-site/hybrid | 3.2/5 | PDF ✅ | RAG/retrieval/eval fit; KG gap; 5+yr ask; no sponsorship stated
 
 ### 2026-07-01
 - [x] #1538 | https://himalayas.app/companies/teramind/jobs/generative-ai-engineer | Teramind | Generative AI Engineer | Remote — work from anywhere (LATAM-tagged; FL HQ) | 3.6/5 | PDF ✅

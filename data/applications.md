@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1545 | 2026-07-02 | Accrete AI | Applied AI Research Engineer | 3.4/5 | Evaluated | ✅ | [1545](reports/1545-accrete-ai-applied-ai-research-engineer-2026-07-02.md) | [Intl] Strong agentic+RAG+fine-tuning fit; Mumbai on-site (India relocation for US-based OPT candidate); no comp listed |
+| 1546 | 2026-07-02 | Scale AI | Machine Learning Engineer, Platform | 3.2/5 | Evaluated | ✅ | [1546](reports/1546-scale-ai-ml-engineer-platform-2026-07-02.md) | [Intl] Strong RAG/retrieval/eval fit; KG/ontology gap; 5+yr ask vs 4+yr exp; London UK, no sponsorship stated |
 | 1543 | 2026-07-02 | Shepherd | Software Engineer, Applied AI | 3.7/5 | Evaluated | ✅ | [1543](reports/1543-shepherd-applied-ai-2026-07-02.md) | [US] Strong agentic+RAG+MLOps fit for autonomous underwriting; comp $170-220K+equity; SF relocation feasible; F-1 OPT sponsorship at Series B a real but undisclosed risk |
 | 1544 | 2026-07-02 | Roboflow | Machine Learning Research Engineer | 3.1/5 | Evaluated | ✅ | [1544](reports/1544-roboflow-ml-research-2026-07-02.md) | [US] Remote CV platform; domain fit (video/YOLOv8/transformers) but research-scientist seat gated on CVPR/NeurIPS/ICLR publication history Deepak lacks (one IEEE-ready paper only); applied-vs-research mismatch |
 | 1542 | 2026-07-02 | Aim4Hire | AI Engineer | 3.4/5 | Evaluated | ✅ | [1542](reports/1542-aim4hire-ai-engineer-2026-07-02.md) | [US] Elite RAG/multi-agent/fine-tuning fit; gated by 8+ yr Python bar (~4 yr) + mentoring; recruiter-fronted unnamed VC client, no comp; US-remote no visa block |
