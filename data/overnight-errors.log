@@ -2499,3 +2499,18 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-02T120719Z	step5-push	error	git push rejected non-fast-forward — 3 scheduled runs pushed first (upstream 07:25/08:13/10:32Z), report nums 1526-1540 taken, Celonis already #1530 (dup work)	fix:git fetch; reset --hard origin/main; re-applied ONLY genuinely-new BrainCo as #1541 (Celonis discarded as dup of #1530, low-score US roles re-scan next run)	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-02T160706Z	step1-scan	warn	js-yaml ERR_MODULE_NOT_FOUND + npm ECONNRESET x2	fix:npm install retried 3x w/ backoff	outcome:resolved
+2026-07-02T160706Z	step1-scan	warn	6 portal boards HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,EdisonScientific) both tracks	fix:skipped dead boards, scan continued	outcome:skipped
+2026-07-02T160706Z	step2-extract	warn	ICA.ai DS/ML Engineer breezy CLOSED + Senior title	fix:skip, not routed to pipeline	outcome:skipped
+2026-07-02T160706Z	step2-extract	warn	LITIT recruitee HTTP 404 (dead)	fix:skip	outcome:skipped
+2026-07-02T160706Z	step2-extract	warn	Mechanized AI breezy CLOSED	fix:skip	outcome:skipped
+2026-07-02T160706Z	step2-extract	warn	Nextail recruitee 301->careers_not_hosted (removed)	fix:skip	outcome:skipped
+2026-07-02T160706Z	step2-extract	warn	Cognition ANZ Ashby WebFetch title-only; used GraphQL fallback	fix:Ashby non-user-graphql POST	outcome:resolved
+2026-07-02T160706Z	step2-extract	warn	Comprehensive Rehab ML Eng Pakistan-only + Senior (terminal loc gate)	fix:skip	outcome:skipped
+2026-07-02T160706Z	step2-extract	warn	Level AI himalayas index-only (JD unreachable, Cloudflare)	fix:not routed; retry next run	outcome:skipped
+2026-07-02T160706Z	step2-extract	warn	Ashby jobPosting=null: Zapier/Output-Bio/Bjak (dead postings)	fix:skip 3 dead	outcome:skipped
+2026-07-02T160706Z	step2-select	warn	Eden Tech SWE Lockhart-TX embedded/edge on-site — archetype mismatch (not Applied AI)	fix:skip, not evaluated	outcome:skipped
+2026-07-02T160706Z	step2-pdf	warn	Playwright chromium_headless_shell-1217 missing	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome, retried	outcome:resolved
+2026-07-02T160706Z	step3-merge	warn	merge-tracker sort key replace(/D/g) read 1542-aim4hire as 15424 → assigned tracker #1548 vs report/PDF #1542	fix:reconciled applications.md row # 1548->1542 to match report/PDF/pipeline	outcome:resolved
+2026-07-02T160706Z	step3-merge	warn	Cognition ANZ #1545 (2.9) merged-skipped as company+role dup of #1113 LATAM (3.2); ANZ is a distinct Sydney role but <3.0 so no tracker row needed	fix:accept skip; report 1545 will be removed by cleanup-low-scores	outcome:resolved
+2026-07-02T160706Z	step3-verify	warn	verify-pipeline: 1 pre-existing fuzzy-dup warning #1394/#885 (Board of Innovation — AI Engineer)	fix:ran normalize-statuses + dedup-tracker (0 changes; distinct report#s, not a true dup, predates this run)	outcome:unresolved

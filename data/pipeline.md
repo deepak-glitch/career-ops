@@ -58,6 +58,9 @@
 ### 2026-07-02
 - [x] #1539 | https://jobs.lever.co/AIFund/273af06c-9114-4b9c-83c9-a3627f4b875f | DeepLearning.AI | AI Engineer (Learning Experience Lab) | Mountain View, CA — in-office | 3.9/5 | PDF ✅
 - [x] #1540 | https://jobs.lever.co/AIFund/01654e18-7b7f-4f0d-84b4-9e090fbc73be | LandingAI | Customer-facing Applied AI Engineer (GTM) | Mountain View, CA — hybrid (SF Bay-based) | 3.3/5 | PDF ✅
+- [x] #1542 | https://jobs.ashbyhq.com/aim4hire/8e955fa6-9164-483d-a190-33520c9b9250 | Aim4Hire | AI Engineer (VC-backed client) | Austin, TX — open to Remote | 3.4/5 | PDF ✅
+- [x] #1543 | https://jobs.ashbyhq.com/shepherd/26959124-aab2-446e-aa4d-7265c83e0be5 | Shepherd | Software Engineer, Applied AI | San Francisco, CA — hybrid/unstated | 3.7/5 | PDF ✅
+- [x] #1544 | https://jobs.ashbyhq.com/roboflow/40c3389e-c7ea-4054-8c90-05b1beb38bff | Roboflow | Machine Learning Research Engineer | Remote (US) | 3.1/5 | PDF ✅
 
 ### 2026-07-01
 - [x] #1535 | https://norbert-health.breezy.hr/p/874c21a483b3-applied-ai-engineer | Norbert Health | Applied AI Engineer | Brooklyn, NY, USA — on-site/hybrid | 4.0/5 | PDF ✅
