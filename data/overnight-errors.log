@@ -2471,3 +2471,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-01T200704Z	step3-verify	warn	possible dup #1394/#885 Board of Innovation AI Engineer (2 re-evals, scores 3.4 vs 3.0)	fix:normalize+dedup+cleanup-bang ran; dedup-tracker reports 0 removable (legit separate evals); pre-existing inherited state	outcome:unresolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-02T000724Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-07-02T000724Z	step1-scan-us	warn	7 company API failures (Temporal/Lindy/Tinybird/Travelperk/Forto/Edison 404, TogetherAI abort)	fix:none-transient-external	outcome:skipped
+2026-07-02T000724Z	step1-scan-intl	warn	6 company API failures (Temporal/Lindy/Tinybird/Travelperk/Forto/Edison 404)	fix:none-transient-external	outcome:skipped
+2026-07-02T000724Z	step2-pipeline	warn	0 pending after scan; L3 all in scan-history; Himalayas [!] rows still index-only/Cloudflare-unreachable	fix:none-empty-pipeline (Playbook#9); Himalayas rows left for retry (Playbook#3)	outcome:skipped
+2026-07-02T000724Z	step3-verify	warn	possible-duplicate #1394/#885 Board of Innovation AI Engineer (2 dated evals, same company+role)	fix:normalize+dedup+cleanup-bang ran; dedup-tracker intentionally keeps both (0 exact dupes)	outcome:unresolved-benign
