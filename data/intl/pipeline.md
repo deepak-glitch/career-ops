@@ -30,6 +30,9 @@
 - [!] https://job-boards.greenhouse.io/cresta/jobs/5097513008 | error: title is Senior Forward Deployed Engineer (AI Agent) UK — filtered (Senior keyword)
 ## Processed
 
+### 2026-07-02
+- [x] #1541 | https://jobs.ashbyhq.com/brainco/5a600fc4-fe72-4d22-8cd9-e3b2e9325611 | BrainCo | AI Platform Engineer, Infrastructure | Abu Dhabi — on-site | 3.4/5 | PDF ✅ | MLOps fit; 5+yr senior-leaning
+
 ### 2026-07-01
 - [x] #1538 | https://himalayas.app/companies/teramind/jobs/generative-ai-engineer | Teramind | Generative AI Engineer | Remote — work from anywhere (LATAM-tagged; FL HQ) | 3.6/5 | PDF ✅
 

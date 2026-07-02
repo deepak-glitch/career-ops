@@ -2489,3 +2489,11 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-02T080706Z	step1-scan	warn	6 ATS endpoints HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,Edison Scientific)	fix:none-known-dead-endpoints skip	outcome:skipped
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-02T120719Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-07-02T120719Z	step1-scan	warn	6 portals HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,EdisonScientific)	fix:none — dead ATS boards, scanner skips them	outcome:skipped
+2026-07-02T120719Z	step2-pdf	warn	Playwright pinned chromium-1217 missing at /opt/pw-browsers	fix:export CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
+2026-07-02T120719Z	step3-merge	warn	Helsing #1530 duplicate of existing #898 (3.2>=3.0)	fix:deleted dup report+PDF, marked pipeline row as re-list of #898	outcome:resolved
+2026-07-02T120719Z	step3-merge	warn	Scale AI #1528 (2.8) dedup-skipped vs existing #46; report<3.0 will be cleaned	fix:merge-tracker skip, cleanup-low-scores to delete	outcome:resolved
+2026-07-02T120719Z	step3-verify	warn	verify-pipeline: possible-dup #1394/#885 Board of Innovation AI Engineer (pre-existing, different dates/scores/reports)	fix:ran normalize+dedup+cleanup-bang (1 cycle); dedup found 0 exact dups — distinct evaluations, not auto-mergeable	outcome:unresolved
+2026-07-02T120719Z	step1-L3	warn	L3 direct-JD finds all already tracked (Continued#444/#61, PerfectServe#53, Future, VELOX#210); rest aggregator index pages	fix:deduped vs scan-history+applications, non-routable indexes skipped	outcome:resolved
+2026-07-02T120719Z	step5-push	error	git push rejected non-fast-forward — 3 scheduled runs pushed first (upstream 07:25/08:13/10:32Z), report nums 1526-1540 taken, Celonis already #1530 (dup work)	fix:git fetch; reset --hard origin/main; re-applied ONLY genuinely-new BrainCo as #1541 (Celonis discarded as dup of #1530, low-score US roles re-scan next run)	outcome:resolved
