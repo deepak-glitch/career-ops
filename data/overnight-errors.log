@@ -2478,3 +2478,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-02T000724Z	step3-verify	warn	possible-duplicate #1394/#885 Board of Innovation AI Engineer (2 dated evals, same company+role)	fix:normalize+dedup+cleanup-bang ran; dedup-tracker intentionally keeps both (0 exact dupes)	outcome:unresolved-benign
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-02T040700Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-07-02T040700Z	step1-scan-us	warn	6 company ATS HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,Edison Scientific)	fix:scanner skips dead endpoints, no action	outcome:skipped
+2026-07-02T040700Z	step1-scan-intl	warn	same 6 company ATS HTTP 404 on intl pass	fix:scanner skips dead endpoints, no action	outcome:skipped
+2026-07-02T040700Z	step2-pdf	warn	generate-pdf.mjs: playwright 1.59.1 expects chromium-1217, env has 1194 (npx install prompt)	fix:render via executablePath /opt/pw-browsers/chromium-1194 + light ATS normalization	outcome:resolved
+2026-07-02T040700Z	step3-verify	warn	verify-pipeline possible-duplicate #1394/#885 (Board of Innovation — AI Engineer, distinct 05-18 vs 06-14 re-evals)	fix:ran normalize-statuses+dedup-tracker+cleanup-bang-rows; dedup found 0 removable (distinct reports/dates)	outcome:unresolved

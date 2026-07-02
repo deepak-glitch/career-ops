@@ -55,6 +55,10 @@
 - [!] https://job-boards.greenhouse.io/truveta/jobs/5424558004 | error: Postdoctoral Research program — explicitly requires recent PhD; candidate holds MS (hard credential gate, filtered)
 ## Processed
 
+### 2026-07-02
+- [x] #1539 | https://jobs.lever.co/AIFund/273af06c-9114-4b9c-83c9-a3627f4b875f | DeepLearning.AI | AI Engineer (Learning Experience Lab) | Mountain View, CA — in-office | 3.9/5 | PDF ✅
+- [x] #1540 | https://jobs.lever.co/AIFund/01654e18-7b7f-4f0d-84b4-9e090fbc73be | LandingAI | Customer-facing Applied AI Engineer (GTM) | Mountain View, CA — hybrid (SF Bay-based) | 3.3/5 | PDF ✅
+
 ### 2026-07-01
 - [x] #1535 | https://norbert-health.breezy.hr/p/874c21a483b3-applied-ai-engineer | Norbert Health | Applied AI Engineer | Brooklyn, NY, USA — on-site/hybrid | 4.0/5 | PDF ✅
 - [x] #1536 | https://apply.workable.com/azumo/j/DC928C07B2/ | Azumo | AI Software Engineer (Generative AI) | Remote — US-friendly (SF HQ) | 3.9/5 | PDF ✅

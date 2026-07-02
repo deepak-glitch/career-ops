@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1539 | 2026-07-02 | DeepLearning.AI | AI Engineer (Learning Experience Lab) | 3.9/5 | Evaluated | ✅ | [1539](reports/1539-deeplearning-ai-engineer-2026-07-02.md) | [US] Mountain View CA in-office; Andrew Ng edtech; GenAI building blocks (RAG/agentic/finetune/evals/guardrails) + AI coding tools 1:1 with career-ops+MangaLens; $130-175K disclosed; F-1 OPT + relocation flags |
+| 1540 | 2026-07-02 | LandingAI | Customer-facing Applied AI Engineer (GTM) | 3.3/5 | Evaluated | ✅ | [1540](reports/1540-landingai-applied-ai-engineer-2026-07-02.md) | [US] Mountain View CA hybrid, SF Bay-based; Andrew Ng doc-AI (ADE); strong multimodal/RAG/CV tech fit but 5+yr + customer-facing pre-sales/MEDDIC gap caps fit; $175-225K; sibling to #1539 (better IC fit) |
 | 1535 | 2026-07-01 | Norbert Health | Applied AI Engineer | 4.0/5 | Evaluated | ✅ | [1535](reports/1535-norbert-health-2026-07-01.md) | [US] Brooklyn NY — clinical robot fleet; strong healthcare RAG + QLoRA + eval-harness fit; edge/robotics deployment gap |
 | 1536 | 2026-07-01 | Azumo | AI Software Engineer (Generative AI) | 3.9/5 | Evaluated | ✅ | [1536](reports/1536-azumo-2026-07-01.md) | [US] Remote consultancy; near-complete GenAI/LLMOps stack match; NIST RMF/FedRAMP vocab gap; nearshore comp caveat |
 | 1537 | 2026-07-01 | Northramp | AI Engineer (Mid) / Application Architect | 3.5/5 | Evaluated | ✅ | [1537](reports/1537-northramp-2026-07-01.md) | [US] Remote DC; agentic apps on GCP; federal-context clearance/citizenship risk for F-1 OPT; JD truncated |
