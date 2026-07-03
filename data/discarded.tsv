@@ -721,3 +721,4 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-07-02	1547	2026-07-02	WeAssist.io	AI Engineer (MW)	2.6/5	Evaluated	reports/1547-weassist-ai-engineer-2026-07-02.md	[Intl] Below threshold — SMB back-office automation + M365/SharePoint admin altitude mismatch; AEST hours; offshore comp; recommend against
 2026-07-03	1554	2026-07-03	XPENG	Machine Learning Engineer (LLM, AI & Robotics)	2.7/5	Evaluated	reports/1554-xpeng-ml-engineer-llm-ai-robotics-2026-07-03.md	[US] Mandatory PhD gate + robotics/AV domain distance. Below threshold.
 2026-07-03	1556	2026-07-03	Binance	Accelerator Program: Applied AI Application Engineer	2.6/5	Evaluated	reports/1556-binance-accelerator-applied-ai-application-engineer-2026-07-03.md	[Intl] New-grad 6-mo accelerator internship in Asia; over-qualified + geo mismatch. Below threshold.
+2026-07-03	1557		orphan	orphan	0/5		reports/1557-blueprint-technologies-ai-engineer-automation-robotics-2026-07-03.md	
