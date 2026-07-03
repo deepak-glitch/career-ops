@@ -2560,3 +2560,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-03T200711Z	step1-scan-us	warn	scan.mjs 7 company API errors (Temporal/Lindy/Tinybird/Travelperk/Forto/EdisonScientific HTTP404, Airtable aborted)	fix:scanner-internal non-fatal, roles unreachable this run	outcome:skipped
 2026-07-03T200711Z	step1-scan-intl	warn	scan.mjs 6 company API errors (Temporal/Lindy/Tinybird/Travelperk/Forto/EdisonScientific HTTP404)	fix:scanner-internal non-fatal	outcome:skipped
 2026-07-03T200711Z	step2-pdf	warn	generate-pdf.mjs Playwright chromium executable missing at pinned path (chromium_headless_shell-1217)	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
