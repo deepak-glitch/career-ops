@@ -2538,3 +2538,6 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-03T040712Z	step2-pdf	warn	Playwright launch failed: wants chromium build 1217 after npm upgrade, system has 1194	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome (generate-pdf.mjs honors it)	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-03T080702Z	setup-step3	warn	git pull --ff-only failed (diverging branches)	fix:git fetch + git reset --hard origin/main (no local commits)	outcome:resolved
+2026-07-03T080702Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-07-03T080702Z	step2-pdf	warn	Playwright 1.59.1 browser revision mismatch (npm install bumped playwright; chromium-1194 present)	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved

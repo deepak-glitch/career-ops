@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1556 | 2026-07-03 | dexter health | Applied AI Engineer | 3.4/5 | Evaluated | ✅ | [1556](reports/1556-dexter-health-applied-ai-2026-07-03.md) | [Intl] Germany-residency required (F-1 OPT hard blocker); bullseye stack match — AI dev tools (Claude Code/Cursor/Copilot) + healthcare RAG + eval framework; German + eldercare nice-to-have gaps; no comp |
 | 1552 | 2026-07-03 | NewsBreak | Machine Learning Engineer, LLM Post-Training | 3.0/5 | Evaluated | ✅ | [1552](reports/1552-newsbreak-ml-engineer-llm-post-training-2026-07-03.md) | [US] Strong SFT/data/evals; RL post-training core is the gap. Mountain View on-site. |
 | 1553 | 2026-07-03 | NewsBreak | Applied AI Engineer, Advertising Agents | 4.1/5 | Evaluated | ✅ | [1553](reports/1553-newsbreak-applied-ai-engineer-advertising-agents-2026-07-03.md) | [US] Strong agentic+RAG+structured-outputs+K8s fit; ads domain the only delta. Entry-friendly. |
 | 1555 | 2026-07-03 | bswift | AI/ML Software Engineer | 3.4/5 | Evaluated | ✅ | [1555](reports/1555-bswift-ai-ml-software-engineer-2026-07-03.md) | [Intl] High skills match (agentic/RAG/AWS); Bangalore on-site caps fit for US-based F-1 OPT. |
