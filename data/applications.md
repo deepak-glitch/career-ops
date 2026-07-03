@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1558 | 2026-07-03 | AutogenAI | Founding Forward Deployed Engineer, AI | 3.5/5 | Evaluated | ✅ | [1558](reports/1558-autogenai-founding-fde-ai-2026-07-03.md) | [US] Founding FDE, NYC hybrid, RAG/LLM; strong fit, TS-primary partial gap |
+| 1559 | 2026-07-03 | Blissway | Machine Learning Engineer | 3.1/5 | Evaluated | ✅ | [1559](reports/1559-blissway-machine-learning-engineer-2026-07-03.md) | [US] Deep-tech tolling ML, Denver; ok fit, grind culture (55-70 hr) flag |
 | 1556 | 2026-07-03 | dexter health | Applied AI Engineer | 3.4/5 | Evaluated | ✅ | [1556](reports/1556-dexter-health-applied-ai-2026-07-03.md) | [Intl] Germany-residency required (F-1 OPT hard blocker); bullseye stack match — AI dev tools (Claude Code/Cursor/Copilot) + healthcare RAG + eval framework; German + eldercare nice-to-have gaps; no comp |
 | 1552 | 2026-07-03 | NewsBreak | Machine Learning Engineer, LLM Post-Training | 3.0/5 | Evaluated | ✅ | [1552](reports/1552-newsbreak-ml-engineer-llm-post-training-2026-07-03.md) | [US] Strong SFT/data/evals; RL post-training core is the gap. Mountain View on-site. |
 | 1553 | 2026-07-03 | NewsBreak | Applied AI Engineer, Advertising Agents | 4.1/5 | Evaluated | ✅ | [1553](reports/1553-newsbreak-applied-ai-engineer-advertising-agents-2026-07-03.md) | [US] Strong agentic+RAG+structured-outputs+K8s fit; ads domain the only delta. Entry-friendly. |

@@ -57,6 +57,8 @@
 ## Processed
 
 ### 2026-07-03
+- [x] #1558 | https://job-boards.greenhouse.io/autogenai/jobs/5262090008 | AutogenAI | Founding Forward Deployed Engineer, AI | New York, NY (hybrid) | 3.5/5 | PDF ✅
+- [x] #1559 | https://jobs.ashbyhq.com/blissway/97acd33b-9ce1-4663-b556-917347263bb3 | Blissway | Machine Learning Engineer | Denver, CO | 3.1/5 | PDF ✅
 - [x] #1547 | https://jobs.ashbyhq.com/sierra/000618f7-e0d0-43dc-ae15-2b20d948852f | Sierra | Software Engineer, Agent - Insurance | San Francisco, CA — in-person | 3.8/5 | PDF ✅
 - [x] #1548 | https://jobs.ashbyhq.com/sierra/ab98160c-9918-483c-af74-310535448972 | Sierra | Software Engineer, Agent - Financial Services | San Francisco, CA — in-person | 3.9/5 | PDF ✅
 - [x] #1549 | https://job-boards.greenhouse.io/scaleai/jobs/4520320005 | Scale AI | AI Infrastructure Engineer, Model Serving Platform | San Francisco, CA; New York, NY — in-office | 3.4/5 | PDF ✅
