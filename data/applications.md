@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1552 | 2026-07-03 | NewsBreak | Machine Learning Engineer, LLM Post-Training | 3.0/5 | Evaluated | ✅ | [1552](reports/1552-newsbreak-ml-engineer-llm-post-training-2026-07-03.md) | [US] Strong SFT/data/evals; RL post-training core is the gap. Mountain View on-site. |
+| 1553 | 2026-07-03 | NewsBreak | Applied AI Engineer, Advertising Agents | 4.1/5 | Evaluated | ✅ | [1553](reports/1553-newsbreak-applied-ai-engineer-advertising-agents-2026-07-03.md) | [US] Strong agentic+RAG+structured-outputs+K8s fit; ads domain the only delta. Entry-friendly. |
+| 1555 | 2026-07-03 | bswift | AI/ML Software Engineer | 3.4/5 | Evaluated | ✅ | [1555](reports/1555-bswift-ai-ml-software-engineer-2026-07-03.md) | [Intl] High skills match (agentic/RAG/AWS); Bangalore on-site caps fit for US-based F-1 OPT. |
 | 1551 | 2026-07-03 | Mistral AI | Applied AI, Forward Deployed ML Engineer - EMEA | 3.5/5 | Evaluated | ✅ | [1551](reports/1551-mistral-applied-ai-fde-ml-engineer-emea-2026-07-03.md) | [Intl] Paris Solutions; strong fine-tuning (QLoRA/H100)+RAG+agents; EU work-auth friction for F-1 OPT (flag not veto) |
 | 1550 | 2026-07-03 | Cognition | Applied AI Engineer | 3.4/5 | Evaluated | ✅ | [1550](reports/1550-cognition-applied-ai-engineer-2026-07-03.md) | [US] Devin maker; deploy agentic workflows; strong agentic + measurable gains; elite bar + SF on-site; comp undisclosed |
 | 1549 | 2026-07-03 | Scale AI | AI Infrastructure Engineer, Model Serving Platform | 3.4/5 | Evaluated | ✅ | [1549](reports/1549-scale-ai-infrastructure-engineer-model-serving-2026-07-03.md) | [US] LLM serving infra; routing/caching/observability fit; vLLM/TensorRT + Go/Rust gap; SF/NYC $180-225K+equity |

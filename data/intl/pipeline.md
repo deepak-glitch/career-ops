@@ -33,6 +33,7 @@
 
 ### 2026-07-03
 - [x] #1551 | https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer - EMEA | Paris, FR — EMEA | 3.5/5 | PDF ✅ | fine-tuning (QLoRA/H100)+RAG+agents; EU work-auth friction for F-1 OPT
+- [x] #1555 | https://job-boards.greenhouse.io/bswiftindia/jobs/4684070006 | bswift | AI/ML Software Engineer | Bangalore, India — on-site | 3.4/5 | PDF ✅ | strong agentic/RAG/AWS fit; India relocation for US-based F-1 OPT
 
 ### 2026-07-02
 - [x] #1541 | https://jobs.ashbyhq.com/brainco/5a600fc4-fe72-4d22-8cd9-e3b2e9325611 | BrainCo | AI Platform Engineer, Infrastructure | Abu Dhabi — on-site | 3.4/5 | PDF ✅ | MLOps fit; 5+yr senior-leaning

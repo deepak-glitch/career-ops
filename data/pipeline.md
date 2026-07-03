@@ -61,6 +61,8 @@
 - [x] #1548 | https://jobs.ashbyhq.com/sierra/ab98160c-9918-483c-af74-310535448972 | Sierra | Software Engineer, Agent - Financial Services | San Francisco, CA — in-person | 3.9/5 | PDF ✅
 - [x] #1549 | https://job-boards.greenhouse.io/scaleai/jobs/4520320005 | Scale AI | AI Infrastructure Engineer, Model Serving Platform | San Francisco, CA; New York, NY — in-office | 3.4/5 | PDF ✅
 - [x] #1550 | https://jobs.ashbyhq.com/cognition/811c3f5a-b26d-4162-b49b-93890a91794d | Cognition | Applied AI Engineer | San Francisco, CA — on-site | 3.4/5 | PDF ✅
+- [x] #1553 | https://job-boards.greenhouse.io/newsbreak/jobs/4690262006 | NewsBreak | Applied AI Engineer, Advertising Agents | Mountain View, CA — on-site | 4.1/5 | PDF ✅
+- [x] #1552 | https://job-boards.greenhouse.io/newsbreak/jobs/4688409006 | NewsBreak | Machine Learning Engineer, LLM Post-Training | Mountain View, CA — on-site | 3.0/5 | PDF ✅
 
 ### 2026-07-02
 - [x] #1539 | https://jobs.lever.co/AIFund/273af06c-9114-4b9c-83c9-a3627f4b875f | DeepLearning.AI | AI Engineer (Learning Experience Lab) | Mountain View, CA — in-office | 3.9/5 | PDF ✅
