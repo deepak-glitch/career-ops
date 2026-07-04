@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1565 | 2026-07-04 | Vagaro | AI Engineer | 3.8/5 | Evaluated | ✅ | [1565](reports/1565-vagaro-2026-07-04.md) | [US] Pleasanton CA on-site 5d/wk; agentic+LLM+NLP bullseye fit; $170-200k+10% disclosed; relocation from OH the main drag |
 | 1563 | 2026-07-04 | CrowdStrike | Engineer I, New Grad, Agentic AI | 3.5/5 | Evaluated | ✅ | [1563](reports/1563-crowdstrike-2026-07-04.md) | [US] New-grad agentic AI+retrieval, Sunnyvale hybrid $90-125k; Go is main gap |
 | 1564 | 2026-07-04 | Critical Manufacturing | AI Engineer (MCP / AI Infrastructure) | 3.6/5 | Evaluated | ✅ | [1564](reports/1564-critical-manufacturing-2026-07-04.md) | [Intl] MCP servers+observability+retraining, Porto PT on-site; strong tech fit, relocation/F-1 blocker |
 | 1562 | 2026-07-04 | Material Bank | Applied AI Engineer | 3.2/5 | Evaluated | ✅ | [1562](reports/1562-material-bank-applied-ai-engineer-2026-07-04.md) | [US] Remote-US Applied AI; LangGraph/RAG/multi-agent bullseye; 8+ yr senior gate + SAM2/SAM3 vision = stretch; clean F-1 OPT work-auth |
