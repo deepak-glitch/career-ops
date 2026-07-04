@@ -2562,3 +2562,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-03T200711Z	step2-pdf	warn	generate-pdf.mjs Playwright chromium executable missing at pinned path (chromium_headless_shell-1217)	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-04T000714Z	setup	warn	git pull not fast-forward (local main stale at daed5aa, diverged 50/50)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-07-04T000714Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-07-04T000714Z	step1-scan	warn	scan.mjs 6 companies HTTP 404 (Temporal/Lindy/Tinybird/Travelperk/Forto/EdisonScientific — stale API endpoints)	fix:none needed (non-tracked-title boards, retry next run)	outcome:skipped
+2026-07-04T000714Z	step1-L3	warn	Snorkel Applied AI Engineer-Federal (gh 5721276004) net-new candidate now dead	fix:greenhouse API 404 job removed	outcome:skipped
+2026-07-04T000714Z	step1-L3	warn	Dash0 FDE-EMEA (ashby 1937975c) net-new candidate now dead	fix:ashby GraphQL jobPosting=null	outcome:skipped
+2026-07-04T000714Z	step2-pipeline	warn	0 net-new live evaluable URLs after L1/L2 + 10 L3 queries (ecosystem saturated)	fix:none needed	outcome:resolved
