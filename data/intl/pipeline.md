@@ -30,6 +30,9 @@
 - [!] https://job-boards.greenhouse.io/cresta/jobs/5097513008 | error: title is Senior Forward Deployed Engineer (AI Agent) UK — filtered (Senior keyword)
 ## Processed
 
+### 2026-07-04
+- [x] #1561 | https://jobs.ashbyhq.com/triomics/ab06d34e-b87f-42ae-a6ff-61777c23cd06 | Triomics | Research Engineer, Applied ML | India Office — on-site | 3.1/5 | PDF ✅ | elite clinical-NLP+LLM skills/domain match (oncology EHR, RAG, NER, QLoRA); on-site India = geography gate for US-based F-1 OPT
+
 ### 2026-07-03
 - [x] #1551 | https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed ML Engineer - EMEA | Paris, FR — EMEA | 3.5/5 | PDF ✅ | fine-tuning (QLoRA/H100)+RAG+agents; EU work-auth friction for F-1 OPT
 - [x] #1555 | https://job-boards.greenhouse.io/bswiftindia/jobs/4684070006 | bswift | AI/ML Software Engineer | Bangalore, India — on-site | 3.4/5 | PDF ✅ | strong agentic/RAG/AWS fit; India relocation for US-based F-1 OPT

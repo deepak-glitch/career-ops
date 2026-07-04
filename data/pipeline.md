@@ -56,6 +56,9 @@
 
 ## Processed
 
+### 2026-07-04
+- [x] #1560 | https://jobs.lever.co/qloo/dc353e19-b91e-4c78-b2d0-1e59690d7e4e | Qloo | Machine Learning Engineer (LLM / Personalization) | New York City — hybrid | 3.8/5 | PDF ✅
+
 ### 2026-07-03
 - [x] #1558 | https://job-boards.greenhouse.io/autogenai/jobs/5262090008 | AutogenAI | Founding Forward Deployed Engineer, AI | New York, NY (hybrid) | 3.5/5 | PDF ✅
 - [x] #1559 | https://jobs.ashbyhq.com/blissway/97acd33b-9ce1-4663-b556-917347263bb3 | Blissway | Machine Learning Engineer | Denver, CO | 3.1/5 | PDF ✅

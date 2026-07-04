@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1560 | 2026-07-04 | Qloo | Machine Learning Engineer (LLM / Personalization) | 3.8/5 | Evaluated | ✅ | [1560](reports/1560-qloo-ml-engineer-llm-2026-07-04.md) | [US] NYC hybrid; strong LLM+RAG+production fit, recsys/Airflow partial. Net-new L3 (Lever). |
+| 1561 | 2026-07-04 | Triomics | Research Engineer, Applied ML | 3.1/5 | Evaluated | ✅ | [1561](reports/1561-triomics-research-engineer-applied-ml-2026-07-04.md) | [Intl] On-site India; elite clinical-NLP+LLM skills/domain match gated by geography (F-1 OPT). Net-new L3 (Ashby). |
 | 1558 | 2026-07-03 | AutogenAI | Founding Forward Deployed Engineer, AI | 3.5/5 | Evaluated | ✅ | [1558](reports/1558-autogenai-founding-fde-ai-2026-07-03.md) | [US] Founding FDE, NYC hybrid, RAG/LLM; strong fit, TS-primary partial gap |
 | 1559 | 2026-07-03 | Blissway | Machine Learning Engineer | 3.1/5 | Evaluated | ✅ | [1559](reports/1559-blissway-machine-learning-engineer-2026-07-03.md) | [US] Deep-tech tolling ML, Denver; ok fit, grind culture (55-70 hr) flag |
 | 1556 | 2026-07-03 | dexter health | Applied AI Engineer | 3.4/5 | Evaluated | ✅ | [1556](reports/1556-dexter-health-applied-ai-2026-07-03.md) | [Intl] Germany-residency required (F-1 OPT hard blocker); bullseye stack match — AI dev tools (Claude Code/Cursor/Copilot) + healthcare RAG + eval framework; German + eldercare nice-to-have gaps; no comp |
