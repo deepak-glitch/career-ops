@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1563 | 2026-07-04 | CrowdStrike | Engineer I, New Grad, Agentic AI | 3.5/5 | Evaluated | ✅ | [1563](reports/1563-crowdstrike-2026-07-04.md) | [US] New-grad agentic AI+retrieval, Sunnyvale hybrid $90-125k; Go is main gap |
+| 1564 | 2026-07-04 | Critical Manufacturing | AI Engineer (MCP / AI Infrastructure) | 3.6/5 | Evaluated | ✅ | [1564](reports/1564-critical-manufacturing-2026-07-04.md) | [Intl] MCP servers+observability+retraining, Porto PT on-site; strong tech fit, relocation/F-1 blocker |
 | 1562 | 2026-07-04 | Material Bank | Applied AI Engineer | 3.2/5 | Evaluated | ✅ | [1562](reports/1562-material-bank-applied-ai-engineer-2026-07-04.md) | [US] Remote-US Applied AI; LangGraph/RAG/multi-agent bullseye; 8+ yr senior gate + SAM2/SAM3 vision = stretch; clean F-1 OPT work-auth |
 | 1560 | 2026-07-04 | Qloo | Machine Learning Engineer (LLM / Personalization) | 3.8/5 | Evaluated | ✅ | [1560](reports/1560-qloo-ml-engineer-llm-2026-07-04.md) | [US] NYC hybrid; strong LLM+RAG+production fit, recsys/Airflow partial. Net-new L3 (Lever). |
 | 1561 | 2026-07-04 | Triomics | Research Engineer, Applied ML | 3.1/5 | Evaluated | ✅ | [1561](reports/1561-triomics-research-engineer-applied-ml-2026-07-04.md) | [Intl] On-site India; elite clinical-NLP+LLM skills/domain match gated by geography (F-1 OPT). Net-new L3 (Ashby). |

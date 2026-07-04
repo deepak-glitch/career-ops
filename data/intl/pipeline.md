@@ -31,6 +31,7 @@
 ## Processed
 
 ### 2026-07-04
+- [x] #1564 | https://careers.criticalmanufacturing.com/_/j/80884AD24A | Critical Manufacturing | AI Engineer (MCP / AI Infrastructure) | Porto (Maia), Portugal — on-site | 3.6/5 | PDF ✅ | strong AI-infra fit (MCP servers, observability, retraining, evals); on-site Porto = relocation/F-1 OPT blocker
 - [x] #1561 | https://jobs.ashbyhq.com/triomics/ab06d34e-b87f-42ae-a6ff-61777c23cd06 | Triomics | Research Engineer, Applied ML | India Office — on-site | 3.1/5 | PDF ✅ | elite clinical-NLP+LLM skills/domain match (oncology EHR, RAG, NER, QLoRA); on-site India = geography gate for US-based F-1 OPT
 
 ### 2026-07-03
