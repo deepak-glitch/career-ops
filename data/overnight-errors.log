@@ -2597,3 +2597,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-04T200707Z	scan-us	warn	ERR_MODULE_NOT_FOUND js-yaml in scan.mjs	fix:npm install	outcome:resolved
 2026-07-04T200707Z	pipeline-pdf	warn	Playwright 1.59.1 wanted browser build 1217; only 1194 pre-installed	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome, retried	outcome:resolved
 2026-07-04T200707Z	scan-us	warn	6 company-level HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,Edison Scientific — stale board slugs)	fix:none needed, per-company skip is normal scanner behavior	outcome:skipped
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
