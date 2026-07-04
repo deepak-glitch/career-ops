@@ -2581,3 +2581,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-04T080700Z	pdf-gen	warn	Playwright 1.59.1 wants browser build 1217; only 1194 pre-installed (npm install upgraded pw)	fix:CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-04T120714Z	setup	warn	git pull --ff-only failed (diverged 50/50)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-07-04T120714Z	scan-us	warn	ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-07-04T120714Z	scan	warn	6 company boards HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,Edison Scientific)	fix:scanner skips dead boards; noted for portals.yml review	outcome:skipped
+2026-07-04T120714Z	pipeline-intl	warn	Finom AI Engineer JD extraction failed (Lever page+api 404)	fix:tried api.lever.co + api.eu.lever.co + branded page; marked - [!] in Intl Pendientes for retry	outcome:skipped
+2026-07-04T120714Z	scan-l3	warn	Jobgether AI Engineer (Remote Intl) is undisclosed-employer aggregator repost (prior #865 3.0 borderline, repeated dead links)	fix:filtered, logged scan-history status=filtered, not evaluated	outcome:skipped
+2026-07-04T120714Z	pdf-gen	warn	Playwright wanted chromium-1217, only 1194 installed	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved

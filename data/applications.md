@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1562 | 2026-07-04 | Material Bank | Applied AI Engineer | 3.2/5 | Evaluated | ✅ | [1562](reports/1562-material-bank-applied-ai-engineer-2026-07-04.md) | [US] Remote-US Applied AI; LangGraph/RAG/multi-agent bullseye; 8+ yr senior gate + SAM2/SAM3 vision = stretch; clean F-1 OPT work-auth |
 | 1560 | 2026-07-04 | Qloo | Machine Learning Engineer (LLM / Personalization) | 3.8/5 | Evaluated | ✅ | [1560](reports/1560-qloo-ml-engineer-llm-2026-07-04.md) | [US] NYC hybrid; strong LLM+RAG+production fit, recsys/Airflow partial. Net-new L3 (Lever). |
 | 1561 | 2026-07-04 | Triomics | Research Engineer, Applied ML | 3.1/5 | Evaluated | ✅ | [1561](reports/1561-triomics-research-engineer-applied-ml-2026-07-04.md) | [Intl] On-site India; elite clinical-NLP+LLM skills/domain match gated by geography (F-1 OPT). Net-new L3 (Ashby). |
 | 1558 | 2026-07-03 | AutogenAI | Founding Forward Deployed Engineer, AI | 3.5/5 | Evaluated | ✅ | [1558](reports/1558-autogenai-founding-fde-ai-2026-07-03.md) | [US] Founding FDE, NYC hybrid, RAG/LLM; strong fit, TS-primary partial gap |

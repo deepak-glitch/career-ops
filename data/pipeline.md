@@ -57,6 +57,7 @@
 ## Processed
 
 ### 2026-07-04
+- [x] #1562 | https://job-boards.greenhouse.io/materialbank/jobs/7732615003 | Material Bank | Applied AI Engineer | Remote (US) | 3.2/5 | PDF ✅
 - [x] #1560 | https://jobs.lever.co/qloo/dc353e19-b91e-4c78-b2d0-1e59690d7e4e | Qloo | Machine Learning Engineer (LLM / Personalization) | New York City — hybrid | 3.8/5 | PDF ✅
 
 ### 2026-07-03
