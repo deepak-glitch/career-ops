@@ -2574,3 +2574,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-04T040706Z	scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
 2026-07-04T040706Z	step1-scan	warn	L1/L2 0 net-new (US+Intl); 9 L3 queries all saturated or dead (incl CircuitHub CV dead)	fix:record CircuitHub dead in scan-history	outcome:resolved
 2026-07-04T040706Z	step2-pipeline	warn	0 pending after scan, nothing to evaluate	fix:none needed (Playbook #9)	outcome:skipped
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
