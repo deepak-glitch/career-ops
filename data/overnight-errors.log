@@ -2634,3 +2634,9 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-05T160711Z	step1-scan-us	warn	6 portals HTTP 404 (Temporal Lindy Tinybird Travelperk Forto EdisonScientific)	fix:endpoint dead this run, skipped per-company	outcome:skipped
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-05T200731Z	SETUP	warn	git pull --ff-only failed (origin force-updated, diverging)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-07-05T200731Z	STEP1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-07-05T200731Z	STEP1-scan	warn	6 portals HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,Edison Scientific)	fix:board URLs stale; skipped by scanner	outcome:skipped
+2026-07-05T200731Z	STEP1-L3	warn	L3 WebSearch discoveries all saturated (already in scan-history/applications)	fix:deduped, none added	outcome:resolved
+2026-07-05T200731Z	STEP2-retry	warn	pingwind + space-inch himalayas JDs still index-only (unreachable)	fix:kept as [!] breadcrumb for next-run retry	outcome:skipped
+2026-07-05T200731Z	STEP2-pipeline	warn	0 fresh pending after scan+L3 (market saturated); only dead [!] breadcrumbs remain	fix:nothing to evaluate	outcome:resolved
