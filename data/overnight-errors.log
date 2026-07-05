@@ -2599,3 +2599,13 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-04T200707Z	scan-us	warn	6 company-level HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,Edison Scientific — stale board slugs)	fix:none needed, per-company skip is normal scanner behavior	outcome:skipped
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-05T000721Z	setup-step3	warn	git pull --ff-only failed (diverging/forced-update on origin/main)	fix:git fetch origin main && git reset --hard origin/main	outcome:resolved
+2026-07-05T000721Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (node_modules missing)	fix:npm install then retry	outcome:resolved
+2026-07-05T000721Z	step1-scan	warn	6 portal HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,Edison Scientific)	fix:none — dead/moved ATS boards, scanner skips them	outcome:skipped
+2026-07-05T000721Z	step2-pipeline	warn	togetherai/4835315007 greenhouse 404 (New Grad role closed)	fix:boards-api 404 confirmed dead; mark [!] retry-none	outcome:skipped
+2026-07-05T000721Z	step2-pipeline	warn	gleanwork/4632997005 greenhouse 404 (Enterprise Brain closed)	fix:boards-api 404 confirmed dead; mark [!]	outcome:skipped
+2026-07-05T000721Z	step2-pipeline	warn	moloco/7559005003 greenhouse 404 (ML intern closed)	fix:boards-api 404 confirmed dead; mark [!]	outcome:skipped
+2026-07-05T000721Z	step2-pipeline	warn	edited/cc9f595d Ashby jobPosting=null (dead)	fix:GraphQL null confirmed dead; mark [!]	outcome:skipped
+2026-07-05T000721Z	step2-pipeline	warn	pingwind himalayas index-only unreachable	fix:WebFetch returned directory; mark [!] retry-next-run	outcome:skipped
+2026-07-05T000721Z	step2-pdf	warn	Playwright 1.59.1 expects chromium-1217 but 1194 pre-installed (npx install blocked)	fix:export CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium (generate-pdf.mjs honors it)	outcome:resolved
+2026-07-05T000721Z	step3-dedup	warn	L3 dedup pre-check missed /jobs/ in URL; Future/WITHIN/GitLab were already-evaluated dupes (#198/#147/#1061); Snorkel re-eval merged into #229	fix:remove redundant reports 1567/1568/1569+PDFs+dup rows #1568/#1569; keep Snorkel re-eval + new Fireworks/Orchard/Sezzle	outcome:resolved

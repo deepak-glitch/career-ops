@@ -14,6 +14,10 @@
 
 ## Pending
 
+### 2026-07-05
+
+- [!] https://jobs.ashbyhq.com/edited/cc9f595d-feee-469a-a9b4-4a469944385a | error: Ashby GraphQL jobPosting=null (dead)
+
 ### 2026-06-13
 - [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | error: Himalayas Cloudflare-challenged (unreachable in batch)
 - [!] https://wayve.firststage.co/jobs?gh_jid=8572927002 | error: Wayve Partner Integration Engineer Tokyo requires Japanese fluency (terminal); skipping evaluation
@@ -29,6 +33,8 @@
 
 - [!] https://job-boards.greenhouse.io/cresta/jobs/5097513008 | error: title is Senior Forward Deployed Engineer (AI Agent) UK — filtered (Senior keyword)
 ## Processed
+
+### 2026-07-05
 
 ### 2026-07-04
 - [x] #1564 | https://careers.criticalmanufacturing.com/_/j/80884AD24A | Critical Manufacturing | AI Engineer (MCP / AI Infrastructure) | Porto (Maia), Portugal — on-site | 3.6/5 | PDF ✅ | strong AI-infra fit (MCP servers, observability, retraining, evals); on-site Porto = relocation/F-1 OPT blocker

@@ -7,6 +7,10 @@
 
 ## Pending
 
+### 2026-07-05
+
+- [!] https://himalayas.app/companies/pingwind/jobs/junior-artificial-intelligence-ai-machine-learning-ml-engineer | error: Himalayas index page only — direct JD unreachable (retry next run)
+
 ### 2026-06-30
 
 - [!] https://himalayas.app/companies/leidos/jobs/ai-ml-engineer | error: Himalayas index page only — direct JD unreachable (retry next run)
@@ -55,6 +59,13 @@
 - [!] https://job-boards.greenhouse.io/truveta/jobs/5424558004 | error: Postdoctoral Research program — explicitly requires recent PhD; candidate holds MS (hard credential gate, filtered)
 
 ## Processed
+
+### 2026-07-05
+- [x] #1566 | https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer (Enterprise Solutions) | Remote (US) / hybrid tier-1 | 4.0/5 | PDF ✅
+- [x] #198 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote (US) | 4.3/5 | dup of existing #198 (already evaluated 6×) — no new report
+- [x] #147 | https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer | Long Island City, NY — hybrid | 4.1/5 | dup of existing #147 — no new report
+- [x] #1061 | https://job-boards.greenhouse.io/gitlab/jobs/8565469002 | GitLab | AI Engineer | Remote (US) | 3.4/5 | dup of existing #1061 — no new report
+- [x] #1570 | https://job-boards.greenhouse.io/fireworksai/jobs/4001304009 | Fireworks AI | Applied Machine Learning Engineer | New York / San Mateo — hybrid | 3.4/5 | PDF ✅
 
 ### 2026-07-04
 - [x] #1565 | https://vagaro.breezy.hr/p/8a16e4613ab0-ai-engineer | Vagaro | AI Engineer | Pleasanton, CA — on-site 5d/wk (US) | 3.8/5 | PDF ✅

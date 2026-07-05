@@ -724,3 +724,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-07-03	1557		orphan	orphan	0/5		reports/1557-blueprint-technologies-ai-engineer-automation-robotics-2026-07-03.md	
 2026-07-03	1557	2026-07-03	Qonto	Fraud Agent - Italian Market	1.7/5	Evaluated	reports/1557-qonto-fraud-agent-italian-market-2026-07-03.md	[US] Out of archetype — AML/fraud ops, Italian required, Paris; recommend against
 2026-07-03	1560	2026-07-03	Spaulding Ridge	Forward Deployed Engineer	2.6/5	Evaluated	reports/1560-spaulding-ridge-forward-deployed-engineer-2026-07-03.md	[US] Consulting FDE, 7+ yrs gate, on-site+travel; low fit, recommend against
+2026-07-05	1571	2026-07-05	Orchard Robotics	Machine Learning Engineer	2.9/5	Evaluated	reports/1571-orchard-robotics-2026-07-05.md	[US] Robotics/geometric-CV + onsite SF; away from LLM core
+2026-07-05	1572	2026-07-05	Sezzle	AI Engineer I	2.3/5	Evaluated	reports/1572-sezzle-2026-07-05.md	[Intl] LatAm-only remote + $30-40k; location/comp/visa mismatch
