@@ -2621,3 +2621,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-05T080708Z	setup	warn	git pull --ff-only failed (diverged: local stale June-29 commits vs origin July-5)	fix:git fetch + git reset --hard origin/main	outcome:resolved
 2026-07-05T080708Z	scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed in fresh container)	fix:npm install	outcome:resolved
 2026-07-05T080708Z	pipeline	warn	0 net-new processable URLs after scan (L1/L2 0 both tracks; L3 all dups except Raft which is dead 404)	fix:none-needed per Playbook#9	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
