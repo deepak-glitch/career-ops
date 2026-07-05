@@ -17,6 +17,7 @@
 ### 2026-07-05
 
 - [!] https://jobs.ashbyhq.com/edited/cc9f595d-feee-469a-a9b4-4a469944385a | error: Ashby GraphQL jobPosting=null (dead)
+- [!] https://himalayas.app/companies/space-inch/jobs/ai-engineer-eu-653648566 | error: Himalayas JS-rendered index — direct JD unextractable via WebFetch, no clean ATS mirror (mid-level AI Engineer EU/PT, LLM prod, $61-82k); retry next run
 
 ### 2026-06-13
 - [!] https://himalayas.app/companies/amdaris/jobs/ai-forward-deployed-engineer | error: Himalayas Cloudflare-challenged (unreachable in batch)

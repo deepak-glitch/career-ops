@@ -66,6 +66,7 @@
 - [x] #147 | https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer | Long Island City, NY — hybrid | 4.1/5 | dup of existing #147 — no new report
 - [x] #1061 | https://job-boards.greenhouse.io/gitlab/jobs/8565469002 | GitLab | AI Engineer | Remote (US) | 3.4/5 | dup of existing #1061 — no new report
 - [x] #1570 | https://job-boards.greenhouse.io/fireworksai/jobs/4001304009 | Fireworks AI | Applied Machine Learning Engineer | New York / San Mateo — hybrid | 3.4/5 | PDF ✅
+- [x] #1573 | https://job-boards.greenhouse.io/homeward/jobs/8612048002 | Homeward | Applied AI Engineer | Austin, TX (must be Austin-based) | 3.0/5 | PDF ✅ | dead-center RAG/LLM+eval fit & $160k, but no visa sponsorship (F-1 OPT) + Austin-only gate
 
 ### 2026-07-04
 - [x] #1565 | https://vagaro.breezy.hr/p/8a16e4613ab0-ai-engineer | Vagaro | AI Engineer | Pleasanton, CA — on-site 5d/wk (US) | 3.8/5 | PDF ✅

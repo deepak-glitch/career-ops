@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1573 | 2026-07-05 | Homeward | Applied AI Engineer | 3.0/5 | Evaluated | ✅ | [1573](reports/1573-homeward-2026-07-05.md) | [US] Dead-center Applied AI/LLM fit + $160k, but no visa sponsorship (F-1 OPT) + Austin-only location gate |
 | 1570 | 2026-07-05 | Fireworks AI | Applied Machine Learning Engineer | 3.4/5 | Evaluated | ✅ | [1570](reports/1570-fireworks-ai-2026-07-05.md) | [US] Inference-infra fit; 5+yrs & strict M/W/F hybrid temper it; $170-240k |
 | 1565 | 2026-07-04 | Vagaro | AI Engineer | 3.8/5 | Evaluated | ✅ | [1565](reports/1565-vagaro-2026-07-04.md) | [US] Pleasanton CA on-site 5d/wk; agentic+LLM+NLP bullseye fit; $170-200k+10% disclosed; relocation from OH the main drag |
 | 1563 | 2026-07-04 | CrowdStrike | Engineer I, New Grad, Agentic AI | 3.5/5 | Evaluated | ✅ | [1563](reports/1563-crowdstrike-2026-07-04.md) | [US] New-grad agentic AI+retrieval, Sunnyvale hybrid $90-125k; Go is main gap |
