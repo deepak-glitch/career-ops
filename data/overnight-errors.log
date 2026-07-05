@@ -2616,3 +2616,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-05T040709Z	step1-scan	warn	6 portal HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,Edison Scientific)	fix:dead/moved boards, scanner skips	outcome:skipped
 2026-07-05T040709Z	step2-intl	warn	Space Inch himalayas JS-rendered, JD unextractable (WebFetch+ATS search failed)	fix:mark [!] in intl Pending, retry next run	outcome:skipped
 2026-07-05T040709Z	step2-intl	warn	Enigma ML Engineer (NLP/LLM) posting expired (Dec-2025, no longer accepting)	fix:record dead in intl scan-history	outcome:skipped
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
