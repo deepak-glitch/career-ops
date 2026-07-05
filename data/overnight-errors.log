@@ -2640,3 +2640,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-05T200731Z	STEP1-L3	warn	L3 WebSearch discoveries all saturated (already in scan-history/applications)	fix:deduped, none added	outcome:resolved
 2026-07-05T200731Z	STEP2-retry	warn	pingwind + space-inch himalayas JDs still index-only (unreachable)	fix:kept as [!] breadcrumb for next-run retry	outcome:skipped
 2026-07-05T200731Z	STEP2-pipeline	warn	0 fresh pending after scan+L3 (market saturated); only dead [!] breadcrumbs remain	fix:nothing to evaluate	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
