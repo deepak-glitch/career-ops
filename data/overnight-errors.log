@@ -2665,3 +2665,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-06T120816Z	scan/us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps not installed in fresh container)	fix:npm install	outcome:resolved
 2026-07-06T120816Z	pipeline/pdf	warn	Playwright 1.59.1 wants chromium build 1217 but image ships 1194 (ERR executable not found)	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium (env-sanctioned fallback)	outcome:resolved
 2026-07-06T120816Z	scan/routing	warn	scan.mjs routed HelloFresh (Warsaw, Poland) into US pipeline.md; location is non-US	fix:relocate entry to Intl track (pipeline + scan-history), evaluate as Region:Intl	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
