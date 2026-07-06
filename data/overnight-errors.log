@@ -2667,3 +2667,12 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-06T120816Z	scan/routing	warn	scan.mjs routed HelloFresh (Warsaw, Poland) into US pipeline.md; location is non-US	fix:relocate entry to Intl track (pipeline + scan-history), evaluate as Region:Intl	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-06T160729Z	setup	warn	git pull --ff-only failed (origin/main force-updated, diverged)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-07-06T160729Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-07-06T160729Z	step1-scan	warn	scan API HTTP 404 for Temporal	fix:none (dead/changed board, scanner skipped)	outcome:skipped
+2026-07-06T160729Z	step1-scan	warn	scan API HTTP 404 for Lindy	fix:none (dead/changed board, scanner skipped)	outcome:skipped
+2026-07-06T160729Z	step1-scan	warn	scan API HTTP 404 for Tinybird	fix:none (dead/changed board, scanner skipped)	outcome:skipped
+2026-07-06T160729Z	step1-scan	warn	scan API HTTP 404 for Travelperk	fix:none (dead/changed board, scanner skipped)	outcome:skipped
+2026-07-06T160729Z	step1-scan	warn	scan API HTTP 404 for Forto	fix:none (dead/changed board, scanner skipped)	outcome:skipped
+2026-07-06T160729Z	step1-scan	warn	scan API HTTP 404 for Edison Scientific	fix:none (dead/changed board, scanner skipped)	outcome:skipped
+2026-07-06T160729Z	step2-pdf	warn	Playwright browser mismatch (npm install pulled 1.59.1, browser build is 1194)	fix:pinned playwright + @playwright/test to 1.56.0 (matches build 1194)	outcome:resolved

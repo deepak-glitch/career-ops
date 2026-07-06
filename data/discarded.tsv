@@ -729,3 +729,7 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-07-05	1574	2026-07-05	Nucs AI	Machine Learning Engineer	2.9/5	Evaluated	reports/1574-nucs-ai-2026-07-05.md	[Intl] Medical-imaging ML (DICOM/3D seg) core gap + Istanbul on-site relocation blocker for F-1 OPT; strong healthcare/multimodal-LLM/HIPAA overlap only
 2026-07-05	1574		orphan	orphan	0/5		reports/1574-mistral-ai-deployment-strategist-2026-07-05.md	
 2026-07-06	1575		orphan	orphan	0/5		reports/1575-celonis-2026-07-06.md	
+2026-07-06	1583	2026-07-06	Nucs AI	Machine Learning Engineer	2.8/5	Evaluated	reports/1583-nucs-ai-mle-2026-07-06.md	[Intl] Istanbul on-site; healthcare+multimodal fit but 3D-imaging/DICOM gap; location blocker
+2026-07-06	1579		orphan	orphan	0/5		reports/1579-celonis-benelux-orbit-2026-07-06.md	
+2026-07-06	1580		orphan	orphan	0/5		reports/1580-celonis-scale-emea-german-2026-07-06.md	
+2026-07-06	1581		orphan	orphan	0/5		reports/1581-field-ai-fde-2026-07-06.md	

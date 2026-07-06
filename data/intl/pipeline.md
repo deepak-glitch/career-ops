@@ -37,6 +37,7 @@
 
 ### 2026-07-06
 - [x] #1578 | https://careers.hellofresh.com/global/en/job/8026043?gh_jid=8026043 | HelloFresh | Machine Learning Engineer, Consumer Alliance | Warszawa, Poland — on-site | 3.3/5 | PDF ✅ | recsys/Menu Personalization; strong ML infra + Claude Code/AI-tooling fit; recsys gap (retrieval-ranking adjacent); F-1 OPT relocation/EU work-auth blocker; low PL comp
+- [x] #1582 | https://job-boards.greenhouse.io/quillbot/jobs/8045409 | QuillBot | Applied AI Engineer II | India - Remote | 3.4/5 | PDF ✅
 - [x] #1574 | https://apply.workable.com/virtuhire/j/3EB34EA78B/ | Finto | Forward Deployed Engineer (Founding) | Munich, Germany — on-site, YC | 3.0/5 | PDF ✅ | L3 (Workable widget API); founding finance-automation FDE; EU work-auth/relocation blocker
 - [x] Sezzle | AI Engineer I (Remote) | https://job-boards.greenhouse.io/sezzle/jobs/7633951003 | duplicate of existing #50 (3.5, 2026-04-22) — L3 re-surfaced via new Greenhouse ID; no new report/row added
 - [x] #1576 | https://litit.recruitee.com/o/ai-engineer | LITIT | AI Engineer | Remote — DACH (Vilnius office) | 3.4/5 | PDF ✅ | L3 (Recruitee); strong RAG/Azure/LangChain match; low EU comp + EU-work-auth/relocation blocker
