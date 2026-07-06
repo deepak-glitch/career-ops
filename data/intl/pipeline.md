@@ -36,6 +36,10 @@
 ## Processed
 
 ### 2026-07-06
+- [x] #1583 | https://jobs.lever.co/jobgether/1e2d0a50-1865-46be-9cc6-52c10ab8b6a5 | Jobgether | AI Engineer (Remote, International) | Remote — International (Hungary-categorized) | 3.6/5 | PDF ✅ | L3 (Lever API); strong RAG/embeddings/vector-DB/scale match; comp undisclosed; Jobgether aggregator caution; F-1 work-auth flag
+- [x] #1584 | https://jobs.lever.co/360learning/705f8577-c37e-48a9-a4c0-8277164bc0c0 | 360Learning | AI Engineer | Paris, France — Remote (FR only) | 3.7/5 | PDF ✅ | L3 (Lever API); excellent agentic fit (conductor-subagent + FastAPI + Azure OpenAI); Pydantic-AI ramp; France work-auth/relocation blocker
+- [x] #1585 | https://nucsai.recruitee.com/o/machine-learning-engineer | Nucs AI | Machine Learning Engineer | Istanbul, Turkey — on-site/hybrid | 3.1/5 | PDF ✅ | L3 (Recruitee); strong healthcare/HIPAA/multimodal fine-tuning fit; DICOM/3D-segmentation gap; Turkey relocation blocker
+- [x] Sezzle | AI Engineer I (url 7633956003) | company+role duplicate of existing #50 (3.5/5, 2026-04-22) — L3 re-surfaced via new Greenhouse ID; no new report/row added
 - [x] #1578 | https://careers.hellofresh.com/global/en/job/8026043?gh_jid=8026043 | HelloFresh | Machine Learning Engineer, Consumer Alliance | Warszawa, Poland — on-site | 3.3/5 | PDF ✅ | recsys/Menu Personalization; strong ML infra + Claude Code/AI-tooling fit; recsys gap (retrieval-ranking adjacent); F-1 OPT relocation/EU work-auth blocker; low PL comp
 - [x] #1582 | https://job-boards.greenhouse.io/quillbot/jobs/8045409 | QuillBot | Applied AI Engineer II | India - Remote | 3.4/5 | PDF ✅
 - [x] #1574 | https://apply.workable.com/virtuhire/j/3EB34EA78B/ | Finto | Forward Deployed Engineer (Founding) | Munich, Germany — on-site, YC | 3.0/5 | PDF ✅ | L3 (Workable widget API); founding finance-automation FDE; EU work-auth/relocation blocker

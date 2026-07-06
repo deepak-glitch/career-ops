@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1583 | 2026-07-06 | Jobgether | AI Engineer (Remote, International) | 3.6/5 | Evaluated | ✅ | [1583](reports/1583-jobgether-ai-engineer-2026-07-06.md) | [Intl] Remote-intl AdTech GenAI/RAG; strong retrieval+embeddings+vector-DB+scale match; comp undisclosed; Jobgether aggregator caution; F-1 work-auth flag |
+| 1585 | 2026-07-06 | Nucs AI | Machine Learning Engineer | 3.1/5 | Evaluated | ✅ | [1585](reports/1585-nucsai-ml-engineer-2026-07-06.md) | [Intl] Istanbul on-site medical-imaging ML; strong healthcare+HIPAA+multimodal fine-tuning fit; DICOM/3D-segmentation gap; Turkey relocation blocker |
+| 1584 | 2026-07-06 | 360Learning | AI Engineer | 3.7/5 | Evaluated | ✅ | [1584](reports/1584-360learning-ai-engineer-2026-07-06.md) | [Intl] Paris/Remote-FR agentic AI; excellent fit (conductor-subagent + FastAPI + Azure OpenAI 1:1); Pydantic-AI ramp; France work-auth/relocation blocker for F-1 OPT |
 | 1582 | 2026-07-06 | QuillBot | Applied AI Engineer II | 3.4/5 | Evaluated | ✅ | [1582](reports/1582-quillbot-applied-ai-engineer-ii-2026-07-06.md) | [Intl] India-Remote MLOps; strongest skills match of batch (K8s/CI-CD/monitoring 1:1); location/OPT flag |
 | 1578 | 2026-07-06 | HelloFresh | Machine Learning Engineer, Consumer Alliance | 3.3/5 | Evaluated | ✅ | [1578](reports/1578-hellofresh-ml-2026-07-06.md) | [Intl] Warsaw on-site recsys/Menu Personalization; strong ML infra + Claude Code/AI-tooling fit; recsys gap (retrieval-ranking adjacent); F-1 OPT relocation/EU work-auth blocker; low PL comp |
 | 1577 | 2026-07-06 | Zapier | Engineer, Applied AI | 4.2/5 | Evaluated | ✅ | [1577](reports/1577-zapier-applied-ai-engineer-2026-07-06.md) | [US] AI Platform/MLOps — LLM proxy, observability, ML Ops; NAMER remote; comp $191.5K–$287.3K; strong fit |

@@ -2678,3 +2678,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-06T160729Z	step2-pdf	warn	Playwright browser mismatch (npm install pulled 1.59.1, browser build is 1194)	fix:pinned playwright + @playwright/test to 1.56.0 (matches build 1194)	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-06T200706Z	setup	warn	git pull --ff-only failed (local main diverged 50/50 from origin)	fix:git fetch + git reset --hard origin/main (no local commits to preserve)	outcome:resolved
+2026-07-06T200706Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml (deps missing)	fix:npm install	outcome:resolved
+2026-07-06T200706Z	step1-scan	warn	6 ATS endpoints HTTP 404 (Temporal,Lindy,Tinybird,Travelperk,Forto,EdisonScientific) both tracks	fix:per-company skip (stale board tokens), retry next run	outcome:skipped
+2026-07-06T200706Z	step2-pipeline	warn	Sezzle 'AI Engineer I' (url 7633956003) is company+role duplicate of existing #50 (3.5/5, 2026-04-22)	fix:discarded report+TSV 1586 (no duplicate tracker row per CLAUDE.md); 2.9 eval superseded by prior #50	outcome:resolved
+2026-07-06T200706Z	step3-merge	warn	merge-tracker assigned 360Learning row #1586 but report is 1584 (filename parser strips non-digits: '1584-360learning'->1584360, reordered processing, bumped maxNum)	fix:corrected tracker # column 1586->1584 to match report file/link	outcome:resolved
