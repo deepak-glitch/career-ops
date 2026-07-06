@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1578 | 2026-07-06 | HelloFresh | Machine Learning Engineer, Consumer Alliance | 3.3/5 | Evaluated | ✅ | [1578](reports/1578-hellofresh-ml-2026-07-06.md) | [Intl] Warsaw on-site recsys/Menu Personalization; strong ML infra + Claude Code/AI-tooling fit; recsys gap (retrieval-ranking adjacent); F-1 OPT relocation/EU work-auth blocker; low PL comp |
 | 1577 | 2026-07-06 | Zapier | Engineer, Applied AI | 4.2/5 | Evaluated | ✅ | [1577](reports/1577-zapier-applied-ai-engineer-2026-07-06.md) | [US] AI Platform/MLOps — LLM proxy, observability, ML Ops; NAMER remote; comp $191.5K–$287.3K; strong fit |
 | 1576 | 2026-07-06 | LITIT | AI Engineer | 3.4/5 | Evaluated | ✅ | [1576](reports/1576-litit-2026-07-06.md) | [Intl] Strong RAG/Azure/LangChain match; low EU comp + EU-work-auth barrier |
 | 1574 | 2026-07-06 | Finto | Forward Deployed Engineer (Founding) | 3.0/5 | Evaluated | ✅ | [1574](reports/1574-finto-fde-2026-07-06.md) | [Intl] Munich on-site, YC finance-automation FDE; EU work-auth/relocation is the blocker |
