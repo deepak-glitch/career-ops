@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Deepak Mallampati — CV</title>
+<style>
+  /* Plain black, Times New Roman — ATS-friendly traditional resume */
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html, body {
+    background: #ffffff;
+    color: #000000;
+  }
+
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10pt;
+    line-height: 1.35;
+    padding: 0;
+    margin: 0;
+  }
+
+  a {
+    color: #000000;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+
+  .page {
+    width: 100%;
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 2px 0;
+  }
+
+  /* === HEADER === */
+  .header {
+    margin-bottom: 14px;
+    text-align: center;
+  }
+
+  .header h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    font-weight: 700;
+    color: #000000;
+    letter-spacing: 0;
+    margin-bottom: 2px;
+    line-height: 1.1;
+  }
+
+  /* Professional title subtitle under the name (Final-resume model) */
+  .header-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #000000;
+    line-height: 1.2;
+    margin-bottom: 3px;
+  }
+
+  .header-gradient {
+    height: 1px;
+    background: #000000;
+    border-radius: 0;
+    margin: 6px 0 8px 0;
+  }
+
+  .contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3px 8px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 9.5pt;
+    line-height: 1.3;
+    color: #000000;
+  }
+
+  .contact-row a {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  .contact-row .separator {
+    color: #000000;
+  }
+
+  /* === SECTIONS === */
+  .section {
+    margin-bottom: 12px;
+  }
+
+  .section-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #000000;
+    border-bottom: 1px solid #000000;
+    padding-bottom: 2px;
+    margin-bottom: 5px;
+    line-height: 1.2;
+  }
+
+  /* === PROFESSIONAL SUMMARY === */
+  .summary-text {
+    font-size: 10pt;
+    line-height: 1.35;
+    color: #000000;
+    text-align: justify;
+  }
+
+  /* === CORE COMPETENCIES === */
+  .competencies-grid {
+    display: block;
+  }
+
+  .competency-tag {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10pt;
+    font-weight: 400;
+    color: #000000;
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    border: none;
+    display: inline;
+  }
+
+  .competency-tag:not(:last-child)::after {
+    content: " • ";
+    color: #000000;
+  }
+
+  /* === WORK EXPERIENCE === */
+  .job {
+    margin-bottom: 10px;
+  }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 2px;
+  }
+
+  .job-company {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10.5pt;
+    font-weight: 700;
+    color: #000000;
+  }
+
+  .job-period {
+    font-size: 9.5pt;
+    font-style: italic;
+    color: #000000;
+    white-space: nowrap;
+  }
+
+  .job-role {
+    font-size: 10pt;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    margin-bottom: 3px;
+  }
+
+  .job-location {
+    font-size: 9.5pt;
+    font-style: italic;
+    color: #000000;
+  }
+
+  .job ul {
+    padding-left: 16px;
+    margin-top: 3px;
+    list-style-type: disc;
+  }
+
+  .job li {
+    font-size: 10pt;
+    line-height: 1.35;
+    color: #000000;
+    margin-bottom: 2px;
+  }
+
+  .job li strong {
+    font-weight: 700;
+  }
+
+  /* === PROJECTS === */
+  .project {
+    margin-bottom: 8px;
+  }
+
+  .project-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10.5pt;
+    font-weight: 700;
+    color: #000000;
+  }
+
+  .project-badge {
+    font-size: 9pt;
+    font-weight: 400;
+    color: #000000;
+    background: transparent;
+    padding: 0;
+    border: 1px solid #000000;
+    border-radius: 0;
+    margin-left: 6px;
+    padding: 0 4px;
+  }
+
+  .project-desc {
+    font-size: 10pt;
+    color: #000000;
+    margin-top: 2px;
+    line-height: 1.35;
+  }
+
+  .project-tech {
+    font-size: 9.5pt;
+    font-style: italic;
+    color: #000000;
+    margin-top: 2px;
+  }
+
+  /* === EDUCATION === */
+  .edu-item {
+    margin-bottom: 6px;
+  }
+
+  .edu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+  }
+
+  .edu-title {
+    font-weight: 700;
+    font-size: 10pt;
+    color: #000000;
+  }
+
+  .edu-org {
+    color: #000000;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  .edu-year {
+    font-size: 9.5pt;
+    font-style: italic;
+    color: #000000;
+    white-space: nowrap;
+  }
+
+  .edu-desc {
+    font-size: 9.5pt;
+    color: #000000;
+    margin-top: 2px;
+    line-height: 1.35;
+  }
+
+  /* === CERTIFICATIONS === */
+  .cert-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 3px;
+  }
+
+  .cert-title {
+    font-size: 10pt;
+    font-weight: 400;
+    color: #000000;
+  }
+
+  .cert-org {
+    color: #000000;
+    font-style: italic;
+  }
+
+  .cert-year {
+    font-size: 9.5pt;
+    font-style: italic;
+    color: #000000;
+    white-space: nowrap;
+  }
+
+  /* === SKILLS === */
+  .skills-grid {
+    display: block;
+  }
+
+  .skill-item {
+    font-size: 10pt;
+    color: #000000;
+    display: block;
+    margin-bottom: 2px;
+  }
+
+  .skill-category {
+    font-weight: 700;
+    color: #000000;
+    font-size: 10pt;
+  }
+
+  /* === PRINT === */
+  @media print {
+    body {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .page {
+      padding: 0;
+    }
+  }
+
+  /* === PAGE BREAK CONTROL === */
+  .avoid-break,
+  .job,
+  .project,
+  .edu-item,
+  .cert-item {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header avoid-break">
+    <h1>Deepak Mallampati</h1>
+    <div class="header-title">{{TITLE}}</div>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>+1-330-554-0770</span>
+      <span class="separator">|</span>
+      <span>deepakmallampati00@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/deepak-mallampati">linkedin.com/in/deepak-mallampati</a>
+      <span class="separator">|</span>
+      <a href="">github.com/Deepak0070</a>
+      <span class="separator">|</span>
+      <span>Kent, OH</span>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section avoid-break">
+    <div class="section-title">PROFESSIONAL SUMMARY</div>
+    <div class="summary-text">Applied AI Engineer with 4+ years building production Generative AI and RAG systems on Azure OpenAI and multi-cloud stacks. Ships chatbots, copilots, and retrieval pipelines with LangChain/LangGraph, cross-encoder re-ranking, and eval harnesses (RAGAS/BERTScore) — cutting hallucinations and lifting retrieval precision on domain corpora. Strong in predictive ML (anomaly detection, risk scoring), Docker/Kubernetes deployment, and model lifecycle/observability (MLflow).</div>
+  </div>
+
+  <!-- SKILLS (JD-aligned competencies + categorized skills) -->
+  <div class="section avoid-break">
+    <div class="section-title">SKILLS</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Applied AI / LLMs</span>
+      <span class="competency-tag">RAG + Grounding</span>
+      <span class="competency-tag">Azure OpenAI</span>
+      <span class="competency-tag">LangChain / LangGraph</span>
+      <span class="competency-tag">Agentic Workflows</span>
+      <span class="competency-tag">Vector Search</span>
+      <span class="competency-tag">Eval Harnesses</span>
+      <span class="competency-tag">Python / FastAPI</span>
+      <span class="competency-tag">Docker / K8s</span>
+      <span class="competency-tag">Predictive ML</span>
+    </div>
+    
+    <span class="skill-item"><span class="skill-category">Languages:</span> Python, TypeScript, JavaScript, SQL (T-SQL, PostgreSQL, SQLite), Java, C++</span>
+    <span class="skill-item"><span class="skill-category">AI / ML:</span> PyTorch, scikit-learn, XGBoost, LangChain, LlamaIndex, OpenAI, Anthropic, Hugging Face Transformers, Diffusers, YOLOv8</span>
+    <span class="skill-item"><span class="skill-category">LLM / GenAI:</span> RAG, agentic workflows, structured outputs, prompt engineering, evaluation pipelines, guardrails, grounding, embeddings, vector search</span>
+    <span class="skill-item"><span class="skill-category">Backend:</span> FastAPI, Flask, REST, WebSockets, Docker, Celery, Playwright</span>
+    <span class="skill-item"><span class="skill-category">Frontend:</span> React, Next.js, Vite, Tailwind, Chrome Extensions (Manifest V3)</span>
+    <span class="skill-item"><span class="skill-category">Data:</span> PostgreSQL + pgvector, MongoDB, Redis, Pandas, NumPy, Snowflake</span>
+    <span class="skill-item"><span class="skill-category">DevOps:</span> Docker, Jenkins, GitHub Actions, Grafana, Prometheus, AWS (EC2, S3, Lambda)</span>
+    <span class="skill-item"><span class="skill-category">Domains:</span> Healthcare AI (HIPAA-conscious), Applied AI, Enterprise AI, Workflow Automation, Computer Vision, Multimodal</span>
+  </div>
+
+  <!-- PROFESSIONAL EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">PROFESSIONAL EXPERIENCE</div>
+    
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Progress Solutions Inc.</span>
+        <span class="job-period">Jul 2025 - Present</span>
+      </div>
+      <div class="job-role">Jr. AI/ML Engineer Trainee - Agent Engineering, Production LLM</div>
+      <div class="job-location">USA - Healthcare Technology, AI Consulting</div>
+      <ul>
+        <li>Built <strong>Retrieval-Augmented Generation (RAG)</strong> for clinical knowledge retrieval; recursive semantic chunking and transformer embeddings improved retrieval precision <strong>~35%</strong>, reduced irrelevant retrieval <strong>&gt;30%</strong>, response alignment <strong>&gt;90%</strong>.</li>
+        <li>Developed <strong>agentic LLM workflows</strong> for multi-step healthcare queries with tool discipline, structured reasoning, and grounding rules; response stability <strong>~25%</strong>, hallucinations cut <strong>&gt;30%</strong>.</li>
+        <li>Shipped <strong>predictive ML pipelines</strong> (scikit-learn, XGBoost) for patient no-show and care engagement scoring; recall <strong>+15-20%</strong> on high-risk categories, precision held <strong>&gt;90%</strong> via class weighting, stratified sampling, threshold calibration.</li>
+        <li>Packaged ML/LLM inference as <strong>FastAPI / Flask</strong> services on <strong>Docker</strong> with structured logging and load simulation; post-deploy defects <strong>~30%</strong>.</li>
+        <li>EHR preprocessing (Pandas, NumPy); dataset reliability <strong>&gt;98%</strong>, downstream instability <strong>-40%</strong>.</li>
+        <li>HIPAA-conscious governance: de-identification, data lineage, evaluation audit trails, stakeholder-facing system-limitation docs.</li>
+      </ul>
+    </div>
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Energy Solutions International (Emerson)</span>
+        <span class="job-period">Jun 2022 - Apr 2023</span>
+      </div>
+      <div class="job-role">Database &amp; DevOps Performance Engineer (Intern)</div>
+      <div class="job-location">Hyderabad, India - Oil &amp; Gas ERP</div>
+      <ul>
+        <li>Optimized <strong>T-SQL stored procedures</strong> on a compliance-sensitive ERP (contracts, nominations, allocations, invoicing); query time <strong>-20%</strong>, retrieval latency <strong>-25%</strong>.</li>
+        <li>Built <strong>Jenkins CI/CD pipelines</strong> for schema updates and stored-procedure deployments; deploy errors <strong>-30%</strong>, release cycle <strong>-35 to -40%</strong>.</li>
+        <li>Designed performance dashboards with <strong>SQL Server DMVs + Grafana</strong>; incident recurrence <strong>-25%</strong>, root-cause resolution <strong>-30%</strong>.</li>
+        <li>Tuned index maintenance and partition-aware queries; reconciliation runtime <strong>-15%</strong>, deadlocks <strong>-15%</strong>.</li>
+        <li>Supported RBAC and audit logging for financial modules in a regulated environment.</li>
+      </ul>
+    </div>
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Suvidha Foundation</span>
+        <span class="job-period">Jan 2022 - Mar 2022</span>
+      </div>
+      <div class="job-role">Machine Learning Engineer</div>
+      <div class="job-location">Hyderabad, India - Nonprofit, Video Analytics, Applied NLP</div>
+      <ul>
+        <li>Built <strong>transformer-based video summarization</strong> over 5,000+ recorded sessions; hierarchical summarization and timestamp-aligned clip extraction cut manual review <strong>60-70%</strong>.</li>
+        <li>AI-selected highlights aligned with human-curated moments <strong>~85%</strong>.</li>
+        <li>Implemented <strong>document Q&amp;A with RAG</strong>; hallucinations <strong>~30%</strong>, contextual accuracy <strong>&gt;85%</strong>.</li>
+        <li>Deployed as <strong>Flask</strong> API with a lightweight web interface for non-technical staff.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section avoid-break">
+    <div class="section-title">PROJECTS</div>
+    
+    <div class="project">
+      <span class="project-title">Agentic Healthcare Claims Processing &amp; Fraud Risk Intelligence System</span>
+      <div class="project-desc">5-stage multi-agent pipeline (Intake, Validation, Consistency, Duplicate, Risk Scoring) with schema-validated JSON contracts between agents to prevent cascading hallucinations. RAG-grounded CPT/ICD validation against vector-indexed policies. Audit-ready explainable risk scoring.</div>
+      <div class="project-tech">Python, LangChain, FastAPI, pgvector, GPT-4, schema contracts</div>
+    </div>
+    <div class="project">
+      <span class="project-title">Manga Lens - Multi-Provider AI Vision Chrome Extension</span>
+      <div class="project-desc">Real-time manga translation extension shipped to the Chrome Web Store. Multi-provider abstraction (4 AI vision providers: Claude Sonnet, GPT-4o mini, GPT-4.1 Nano, Ollama) with per-provider payload handling for worst-case failure isolation. 29 sites supported; 7-day cache; privacy policy and narrowed permissions.</div>
+      <div class="project-tech">TypeScript, Manifest V3, Service Workers, OpenAI / Anthropic / Ollama</div>
+    </div>
+    <div class="project">
+      <span class="project-title">Dream Decoder - Multimodal Creative Platform</span>
+      <div class="project-desc">End-to-end multimodal pipeline: text description, intermediate prompt-transformation layer, grounded image generation. ~30% contextual alignment gain, ~25-30% first-pass image success.</div>
+      <div class="project-tech">FastAPI, React + Vite, Tailwind, Perplexity Sonar, Replicate</div>
+    </div>
+    <div class="project">
+      <span class="project-title">YOLOv8 Driver Drowsiness Detection</span>
+      <div class="project-desc">Real-time computer vision for driver drowsiness; sub-50ms inference on edge hardware. Walk-forward validation and class-weighted training for imbalanced safety data.</div>
+      <div class="project-tech">PyTorch, YOLOv8, OpenCV, ONNX</div>
+    </div>
+  </div>
+
+  <!-- RESEARCH (omit entire block when source CV has no research) -->
+  <div class="section avoid-break">
+    <div class="section-title">{{SECTION_RESEARCH}}</div>
+    {{RESEARCH}}
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section avoid-break">
+    <div class="section-title">EDUCATION</div>
+    
+    <div class="edu-item">
+      <div class="edu-header">
+        <span class="edu-title">Master of Science, Computer Science - <span class="edu-org">Kent State University</span></span>
+        <span class="edu-year">Aug 2023 - May 2025</span>
+      </div>
+      <div class="edu-desc">Focus: Applied Machine Learning, NLP, Database Systems.</div>
+    </div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span class="edu-title">Bachelor of Technology, Computer Science - <span class="edu-org">KL University</span></span>
+        <span class="edu-year">Jun 2019 - May 2023</span>
+      </div>
+      <div class="edu-desc">Founder / Lead of E-Farming platform (university project, pilot with 3 cooperatives).</div>
+    </div>
+  </div>
+
+  <!-- CERTIFICATIONS (optional) -->
+  <div class="section avoid-break">
+    <div class="section-title">CERTIFICATIONS</div>
+    
+    <div class="cert-item">
+      <span class="cert-title">Deep Learning Specialization - <span class="cert-org">DeepLearning.AI (Coursera)</span></span>
+      <span class="cert-year">2024</span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

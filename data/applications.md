@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1576 | 2026-07-06 | LITIT | AI Engineer | 3.4/5 | Evaluated | ✅ | [1576](reports/1576-litit-2026-07-06.md) | [Intl] Strong RAG/Azure/LangChain match; low EU comp + EU-work-auth barrier |
 | 1574 | 2026-07-06 | Finto | Forward Deployed Engineer (Founding) | 3.0/5 | Evaluated | ✅ | [1574](reports/1574-finto-fde-2026-07-06.md) | [Intl] Munich on-site, YC finance-automation FDE; EU work-auth/relocation is the blocker |
 | 1573 | 2026-07-05 | Homeward | Applied AI Engineer | 3.0/5 | Evaluated | ✅ | [1573](reports/1573-homeward-2026-07-05.md) | [US] Dead-center Applied AI/LLM fit + $160k, but no visa sponsorship (F-1 OPT) + Austin-only location gate |
 | 1570 | 2026-07-05 | Fireworks AI | Applied Machine Learning Engineer | 3.4/5 | Evaluated | ✅ | [1570](reports/1570-fireworks-ai-2026-07-05.md) | [US] Inference-infra fit; 5+yrs & strict M/W/F hybrid temper it; $170-240k |

@@ -2651,3 +2651,6 @@ RUN_ID=2026-07-06T000724Z	setup	warn	git pull not fast-forward (diverged 50/50)	
 2026-07-06T000724Z	step3-merge	warn	Sezzle AI Engineer I (Remote) duplicate of existing #50 (3.5); L3 re-surfaced same role via new Greenhouse ID	fix:merge-tracker skipped dup row; deleted duplicate report 1575 (also <3.0)	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-06T040708Z	setup	warn	git pull --ff-only diverged (origin force-updated)	fix:git fetch + reset --hard origin/main	outcome:resolved
+2026-07-06T040708Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install then retry	outcome:resolved
+2026-07-06T040708Z	step2-pdf	warn	Playwright chromium-1217 expected but 1194 installed	fix:CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved

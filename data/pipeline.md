@@ -60,6 +60,8 @@
 
 ## Processed
 
+### 2026-07-06
+
 ### 2026-07-05
 - [x] #1566 | https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer (Enterprise Solutions) | Remote (US) / hybrid tier-1 | 4.0/5 | PDF ✅
 - [x] #198 | https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer | Remote (US) | 4.3/5 | dup of existing #198 (already evaluated 6×) — no new report
