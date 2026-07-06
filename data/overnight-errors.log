@@ -2656,3 +2656,8 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-06T040708Z	step2-pdf	warn	Playwright chromium-1217 expected but 1194 installed	fix:CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-06T080726Z	setup	warn	git pull --ff-only failed (diverging/forced-update)	fix:git reset --hard origin/main	outcome:resolved
+2026-07-06T080726Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
+2026-07-06T080726Z	step2-pdf	warn	Playwright browser 1217 missing (installed is 1194)	fix:set CHROMIUM_EXECUTABLE_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome	outcome:resolved
+2026-07-06T080726Z	step1-L3	warn	3 L3 candidates dead (Twilio gh-404, CoinMarketCap lever-404, c0ffee ashby-null)	fix:recorded dead in scan-history, not added to pipeline	outcome:skipped
+2026-07-06T080726Z	step1-L3	warn	Parser AI&Automation live but Senior+Spain	fix:seniority filter, recorded filtered-senior in intl scan-history	outcome:skipped
