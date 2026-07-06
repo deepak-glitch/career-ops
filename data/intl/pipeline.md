@@ -35,6 +35,10 @@
 - [!] https://job-boards.greenhouse.io/cresta/jobs/5097513008 | error: title is Senior Forward Deployed Engineer (AI Agent) UK — filtered (Senior keyword)
 ## Processed
 
+### 2026-07-06
+- [x] #1574 | https://apply.workable.com/virtuhire/j/3EB34EA78B/ | Finto | Forward Deployed Engineer (Founding) | Munich, Germany — on-site, YC | 3.0/5 | PDF ✅ | L3 (Workable widget API); founding finance-automation FDE; EU work-auth/relocation blocker
+- [x] Sezzle | AI Engineer I (Remote) | https://job-boards.greenhouse.io/sezzle/jobs/7633951003 | duplicate of existing #50 (3.5, 2026-04-22) — L3 re-surfaced via new Greenhouse ID; no new report/row added
+
 ### 2026-07-05
 
 ### 2026-07-04
