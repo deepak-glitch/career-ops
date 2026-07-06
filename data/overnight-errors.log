@@ -2676,3 +2676,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-06T160729Z	step1-scan	warn	scan API HTTP 404 for Forto	fix:none (dead/changed board, scanner skipped)	outcome:skipped
 2026-07-06T160729Z	step1-scan	warn	scan API HTTP 404 for Edison Scientific	fix:none (dead/changed board, scanner skipped)	outcome:skipped
 2026-07-06T160729Z	step2-pdf	warn	Playwright browser mismatch (npm install pulled 1.59.1, browser build is 1194)	fix:pinned playwright + @playwright/test to 1.56.0 (matches build 1194)	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
