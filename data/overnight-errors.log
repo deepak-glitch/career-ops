@@ -2698,3 +2698,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-07T080658Z	setup	warn	git pull --ff-only failed (diverging/forced-update origin)	fix:git fetch + git reset --hard origin/main	outcome:resolved
 2026-07-07T080658Z	scan-us	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install	outcome:resolved
 2026-07-07T080658Z	verify	warn	row #1586 broke table columns (unescaped | in role 'AI Engineer | Agentic Systems')	fix:replaced | with em-dash in applications.md + merged TSV	outcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
