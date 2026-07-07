@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2026-07-07)
+
+
+### Bug Fixes
+
+* **cleanup-low-scores:** match SKIP-suffixed rows + guardrail against silent drift ([a671bbd](https://github.com/deepak-glitch/career-ops/commit/a671bbdea5232a49a06d249dfd77b9e1b26bae8e))
+
 ## [1.5.0](https://github.com/santifer/career-ops/compare/v1.4.0...v1.5.0) (2026-04-14)
 
 
