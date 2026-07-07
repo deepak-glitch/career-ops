@@ -33,7 +33,10 @@
 ### 2026-06-26
 
 - [!] https://job-boards.greenhouse.io/cresta/jobs/5097513008 | error: title is Senior Forward Deployed Engineer (AI Agent) UK — filtered (Senior keyword)
+
 ## Processed
+
+### 2026-07-07
 
 ### 2026-07-06
 - [x] #1583 | https://jobs.lever.co/jobgether/1e2d0a50-1865-46be-9cc6-52c10ab8b6a5 | Jobgether | AI Engineer (Remote, International) | Remote — International (Hungary-categorized) | 3.6/5 | PDF ✅ | L3 (Lever API); strong RAG/embeddings/vector-DB/scale match; comp undisclosed; Jobgether aggregator caution; F-1 work-auth flag
