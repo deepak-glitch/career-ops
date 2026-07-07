@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 1586 | 2026-07-07 | Machinify | AI Engineer — Agentic Systems | 4.2/5 | Evaluated | ✅ | [1586](reports/1586-machinify-ai-agentic-2026-07-07.md) | [US] Strong agentic+eval-first+healthcare-claims fit; US-remote; no visa sponsorship (F-1 OPT future gate) |
 | 1583 | 2026-07-06 | Jobgether | AI Engineer (Remote, International) | 3.6/5 | Evaluated | ✅ | [1583](reports/1583-jobgether-ai-engineer-2026-07-06.md) | [Intl] Remote-intl AdTech GenAI/RAG; strong retrieval+embeddings+vector-DB+scale match; comp undisclosed; Jobgether aggregator caution; F-1 work-auth flag |
 | 1585 | 2026-07-06 | Nucs AI | Machine Learning Engineer | 3.1/5 | Evaluated | ✅ | [1585](reports/1585-nucsai-ml-engineer-2026-07-06.md) | [Intl] Istanbul on-site medical-imaging ML; strong healthcare+HIPAA+multimodal fine-tuning fit; DICOM/3D-segmentation gap; Turkey relocation blocker |
 | 1584 | 2026-07-06 | 360Learning | AI Engineer | 3.7/5 | Evaluated | ✅ | [1584](reports/1584-360learning-ai-engineer-2026-07-06.md) | [Intl] Paris/Remote-FR agentic AI; excellent fit (conductor-subagent + FastAPI + Azure OpenAI 1:1); Pydantic-AI ramp; France work-auth/relocation blocker for F-1 OPT |

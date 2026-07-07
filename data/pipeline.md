@@ -60,6 +60,10 @@
 
 ## Processed
 
+### 2026-07-07
+
+- [x] #1586 | https://job-boards.greenhouse.io/machinifyinc/jobs/4146862009 | Machinify | AI Engineer | Agentic Systems | Remote — US | 4.2/5 | PDF ✅
+
 ### 2026-07-06
 - [x] #1577 | https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8 | Zapier | Engineer, Applied AI | Remote — NAMER (US) | 4.2/5 | PDF ✅
 
