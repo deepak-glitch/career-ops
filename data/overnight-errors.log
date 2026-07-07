@@ -2685,3 +2685,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-06T200706Z	step3-merge	warn	merge-tracker assigned 360Learning row #1586 but report is 1584 (filename parser strips non-digits: '1584-360learning'->1584360, reordered processing, bumped maxNum)	fix:corrected tracker # column 1586->1584 to match report file/link	outcome:resolved
 Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
 Failed to authenticate. API Error: 401 Invalid authentication credentials
+2026-07-07T000730Z	setup	warn	git pull not fast-forward (diverging)	fix:git fetch + git reset --hard origin/main	outcome:resolved
+2026-07-07T000730Z	step1-scan	warn	scan.mjs ERR_MODULE_NOT_FOUND js-yaml	fix:npm install once	outcome:resolved

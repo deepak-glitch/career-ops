@@ -733,3 +733,5 @@ discarded_date	num	date_evaluated	company	role	score	status	report_path	note
 2026-07-06	1579		orphan	orphan	0/5		reports/1579-celonis-benelux-orbit-2026-07-06.md	
 2026-07-06	1580		orphan	orphan	0/5		reports/1580-celonis-scale-emea-german-2026-07-06.md	
 2026-07-06	1581		orphan	orphan	0/5		reports/1581-field-ai-fde-2026-07-06.md	
+2026-07-07	1586	2026-07-07	BLEN	AI Engineer	2.5/5	Evaluated	reports/1586-blen-ai-engineer-2026-07-07.md	[US] Remote-US; elite agentic+MCP+RAG+evals technical match BUT terminal work-auth blocker (JD requires US citizen/legal resident + security clearance) — F-1 OPT ineligible; do not apply
+2026-07-07	1587	2026-07-07	Krea	Machine Learning Engineer	2.7/5	Evaluated	reports/1587-krea-ml-engineer-2026-07-07.md	[US] On-site SF foundation diffusion model training; PyTorch/CV adjacent but no diffusion/distributed-training-at-scale experience; archetype mismatch (research/training vs applied); relocation
