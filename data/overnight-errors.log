@@ -2693,3 +2693,5 @@ Failed to authenticate. API Error: 401 Invalid authentication credentials
 2026-07-07T040705Z\tSTEP1-scan\twarn\tscan.mjs ERR_MODULE_NOT_FOUND js-yaml\tfix:npm install then retry\toutcome:resolved
 2026-07-07T040705Z\tSTEP1-scan\twarn\t6 tracked-company ATS boards returned HTTP 404 (Temporal/Lindy/Tinybird/Travelperk/Forto/Edison Scientific)\tfix:skip dead boards, scan continued over other 108 companies\toutcome:skipped
 2026-07-07T040705Z\tSTEP2-pipeline\twarn\t0 pending after scan (L1/L2 net-new=0 both tracks; L3 surfaced only already-processed roles + non-extractable aggregator indexes)\tfix:nothing to evaluate, proceed to verify/cleanup\toutcome:resolved
+Ignoring 16 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/career-ops/career-ops"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Failed to authenticate. API Error: 401 Invalid authentication credentials
